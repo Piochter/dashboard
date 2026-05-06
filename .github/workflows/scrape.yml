@@ -1,19 +1,13 @@
 name: 🚨 Alertas Viales — Scraper Automático
 
-# ── Disparadores ──────────────────────────────────────────────────
 on:
   schedule:
-    # Cada 30 minutos (GitHub mínimo real: ~5 min, recomendado: 30)
     - cron: "*/30 * * * *"
-
-  # Permite ejecutar manualmente desde la pestaña Actions de GitHub
   workflow_dispatch:
 
-# ── Permisos para hacer commit del JSON generado ─────────────────
 permissions:
   contents: write
 
-# ── Job principal ─────────────────────────────────────────────────
 jobs:
   scrape:
     runs-on: ubuntu-latest
@@ -21,11 +15,13 @@ jobs:
 
     steps:
 
-      # 1. Descarga el código del repo
       - name: ⬇️  Checkout
         uses: actions/checkout@v4
+        with:
+          # Traer siempre el commit más reciente del repo
+          ref: main
+          fetch-depth: 0
 
-      # 2. Prepara Python 3.11
       - name: 🐍  Setup Python
         uses: actions/setup-python@v5
         with:
@@ -33,24 +29,25 @@ jobs:
           cache: "pip"
           cache-dependency-path: scraper/requirements.txt
 
-      # 3. Instala dependencias
       - name: 📦  Instalar dependencias
         run: pip install -r scraper/requirements.txt
 
-      # 4. Ejecuta el scraper — genera alertas.json en la raíz del repo
       - name: 🔍  Ejecutar scraper
         run: python scraper/main.py
 
-      # 5. Commit + push solo si hubo cambios en alertas.json
       - name: 💾  Commit alertas.json
         run: |
           git config user.email "bot@alertas-viales.io"
           git config user.name  "AlertasVialesBot"
-          git config pull.rebase true
+
+          # Sincronizar con el remoto ANTES de commitear
+          git fetch origin main
+          git rebase origin/main
+
           git add alertas.json
-          # Si no hay cambios, salir sin error
+
+          # Si no hubo cambios reales, salir sin error
           git diff --staged --quiet && exit 0
+
           git commit -m "🔄 Alertas: $(date -u '+%d-%b-%Y %H:%M UTC')"
-          # Jalar cambios remotos antes de subir (evita el "rejected")
-          git pull --rebase origin main
           git push
