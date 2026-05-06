@@ -2,10 +2,32 @@ name: 🚨 Alertas Viales — Scraper Automático
 
 on:
   schedule:
-    - cron: "*/30 * * * *"
-  workflow_dispatch:
+    - cron: "*/15 * * * *"
 
-# ── Un solo run a la vez — el siguiente espera al anterior ───────
+  workflow_dispatch:
+    inputs:
+      run_mode:
+        description: "Modo de fuentes"
+        required: false
+        default: "all"
+        type: choice
+        options:
+          - all
+          - official_only
+          - media_only
+
+      lookback_minutes:
+        description: "Ventana de búsqueda en minutos"
+        required: false
+        default: "240"
+        type: string
+
+      accept_undated:
+        description: "Aceptar fuentes sin fecha publicada"
+        required: false
+        default: false
+        type: boolean
+
 concurrency:
   group: alertas-scraper
   cancel-in-progress: false
@@ -13,46 +35,70 @@ concurrency:
 permissions:
   contents: write
 
+env:
+  SCRAPER_RUN_MODE: ${{ github.event.inputs.run_mode || 'all' }}
+  SCRAPER_LOOKBACK_MINUTES: ${{ github.event.inputs.lookback_minutes || '240' }}
+  SCRAPER_OUTPUT_FILE: alertas.json
+  SCRAPER_DEDUPE_WINDOW_HOURS: "4"
+  SCRAPER_DEDUPE_KM_TOLERANCE: "5"
+  SCRAPER_OFFICIAL_MIN_CONFIDENCE: "0.85"
+  SCRAPER_PROBABLE_MIN_CONFIDENCE: "0.60"
+  SCRAPER_ACCEPT_UNDATED: ${{ github.event.inputs.accept_undated || 'false' }}
+
 jobs:
   scrape:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 12
 
     steps:
-
-      - name: ⬇️  Checkout
+      - name: ⬇️ Checkout
         uses: actions/checkout@v4
         with:
           ref: main
           fetch-depth: 0
 
-      - name: 🐍  Setup Python
+      - name: 🐍 Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
           cache: "pip"
           cache-dependency-path: scraper/requirements.txt
 
-      - name: 📦  Instalar dependencias
-        run: pip install -r scraper/requirements.txt
+      - name: 📦 Instalar dependencias
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r scraper/requirements.txt
 
-      - name: 🔍  Ejecutar scraper
+      - name: 🔍 Ejecutar scraper
         run: python scraper/main.py
 
-      - name: 💾  Commit alertas.json
+      - name: ✅ Validar alertas.json
+        run: |
+          python -m json.tool "$SCRAPER_OUTPUT_FILE" > /tmp/alertas.validado.json
+          echo "JSON válido: $SCRAPER_OUTPUT_FILE"
+
+      - name: 📎 Subir diagnóstico
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: alertas-viales-output
+          path: |
+            alertas.json
+          retention-days: 7
+
+      - name: 💾 Commit alertas.json
         run: |
           git config user.email "bot@alertas-viales.io"
           git config user.name  "AlertasVialesBot"
 
-          git add alertas.json
+          git add "$SCRAPER_OUTPUT_FILE"
           git diff --staged --quiet && exit 0
 
           git commit -m "🔄 Alertas: $(date -u '+%d-%b-%Y %H:%M UTC')"
 
-          # Reintentar push hasta 3 veces (por si el remoto cambió)
           for i in 1 2 3; do
             git push && echo "✅ Push exitoso en intento $i" && break
-            echo "⚠️  Intento $i falló — jalando cambios y reintentando..."
+            echo "⚠️ Intento $i falló — jalando cambios y reintentando..."
             git fetch origin main
             git rebase origin/main
             sleep 3
