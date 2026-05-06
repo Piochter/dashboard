@@ -5,6 +5,11 @@ on:
     - cron: "*/30 * * * *"
   workflow_dispatch:
 
+# ── Un solo run a la vez — el siguiente espera al anterior ───────
+concurrency:
+  group: alertas-scraper
+  cancel-in-progress: false
+
 permissions:
   contents: write
 
@@ -18,7 +23,6 @@ jobs:
       - name: ⬇️  Checkout
         uses: actions/checkout@v4
         with:
-          # Traer siempre el commit más reciente del repo
           ref: main
           fetch-depth: 0
 
@@ -40,14 +44,16 @@ jobs:
           git config user.email "bot@alertas-viales.io"
           git config user.name  "AlertasVialesBot"
 
-          # Sincronizar con el remoto ANTES de commitear
-          git fetch origin main
-          git rebase origin/main
-
           git add alertas.json
-
-          # Si no hubo cambios reales, salir sin error
           git diff --staged --quiet && exit 0
 
           git commit -m "🔄 Alertas: $(date -u '+%d-%b-%Y %H:%M UTC')"
-          git push
+
+          # Reintentar push hasta 3 veces (por si el remoto cambió)
+          for i in 1 2 3; do
+            git push && echo "✅ Push exitoso en intento $i" && break
+            echo "⚠️  Intento $i falló — jalando cambios y reintentando..."
+            git fetch origin main
+            git rebase origin/main
+            sleep 3
+          done
