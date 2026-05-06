@@ -11,7 +11,7 @@
 """
 
 import json, re, hashlib, logging, time
-from datetime import datetime, timezone, timedelta
+from datetime import datetime, date, timezone, timedelta
 from typing import Optional
 
 import requests, feedparser
@@ -249,6 +249,27 @@ def fmt_fecha(rss_date: str = "") -> str:
         return rss_date[:16]
 
 
+def parse_fecha_rss(rss_date: str) -> Optional[datetime]:
+    """Parsea fecha RSS a datetime con zona CST. Retorna None si falla."""
+    if not rss_date:
+        return None
+    try:
+        from email.utils import parsedate_to_datetime
+        return parsedate_to_datetime(rss_date).astimezone(CST)
+    except Exception:
+        return None
+
+
+def es_de_hoy(rss_date: str) -> bool:
+    """Retorna True solo si la fecha RSS corresponde al día actual en CST.
+    Si no puede parsear la fecha, acepta el artículo (mejor mostrar de más que de menos)."""
+    dt = parse_fecha_rss(rss_date)
+    if dt is None:
+        return True   # sin fecha conocida → se acepta
+    hoy = datetime.now(CST).date()
+    return dt.date() == hoy
+
+
 def _ahora_str() -> str:
     n = datetime.now(CST)
     return f"{n.day} {MESES[n.month-1]} {n.year} · {n.strftime('%H:%M')} CST"
@@ -295,6 +316,12 @@ def fetch_google_news() -> list[dict]:
         log.info(f"  GNews '{query}': {len(feed.entries)} entradas")
 
         for entry in feed.entries[:12]:
+            pub_date = entry.get("published", "")
+
+            # ── FILTRO: solo alertas del día actual ──────────────
+            if not es_de_hoy(pub_date):
+                continue
+
             titulo = limpiar(entry.get("title", ""))
             resumen = limpiar(entry.get("summary", ""))
             texto   = f"{titulo}. {resumen}"
@@ -310,7 +337,7 @@ def fetch_google_news() -> list[dict]:
 
             tipo  = clasificar(texto)
             ruta  = extraer_ruta(texto)
-            fecha = fmt_fecha(entry.get("published", ""))
+            fecha = fmt_fecha(pub_date)
             fuente = entry.get("source", {}).get("title", "Google News")
             link   = entry.get("link", "")
 
@@ -341,6 +368,12 @@ def fetch_rss_periodicos() -> list[dict]:
         log.info(f"  RSS {nombre}: {len(feed.entries)} entradas")
 
         for entry in feed.entries[:30]:
+            pub_date = entry.get("published", "")
+
+            # ── FILTRO: solo alertas del día actual ──────────────
+            if not es_de_hoy(pub_date):
+                continue
+
             titulo  = limpiar(entry.get("title", ""))
             resumen = limpiar(entry.get("summary", ""))
             texto   = f"{titulo}. {resumen}"
@@ -355,7 +388,7 @@ def fetch_rss_periodicos() -> list[dict]:
 
             tipo  = clasificar(texto)
             ruta  = extraer_ruta(texto)
-            fecha = fmt_fecha(entry.get("published", ""))
+            fecha = fmt_fecha(pub_date)
             link  = entry.get("link", rss_url)
 
             alertas.append(hacer_alerta(tipo, ruta, texto[:500],
@@ -384,10 +417,16 @@ def fetch_conagua() -> list[dict]:
                 continue
             log.info(f"  CONAGUA XML: {len(feed.entries)} avisos")
             for entry in feed.entries[:15]:
+                pub_date = entry.get("published", "")
+
+                # ── FILTRO: solo alertas del día actual ──────────
+                if not es_de_hoy(pub_date):
+                    continue
+
                 titulo  = entry.get("title", "Aviso meteorológico")
                 resumen = limpiar(entry.get("summary", titulo))
                 texto   = f"{titulo}. {resumen}"
-                fecha   = fmt_fecha(entry.get("published", ""))
+                fecha   = fmt_fecha(pub_date)
                 link    = entry.get("link", url)
                 alertas.append(hacer_alerta("clima", titulo[:90], texto[:500],
                                             "Maneja con precaución.", fecha,
@@ -443,12 +482,14 @@ def fetch_nitter() -> list[dict]:
                 continue
             log.info(f"  Nitter @{cuenta} via {base}: {len(feed.entries)} tweets")
             for entry in feed.entries[:20]:
+                pub_date = entry.get("published", "")
+                if not es_de_hoy(pub_date):
+                    continue
                 texto = limpiar(entry.get("summary", entry.get("title", "")))
                 if len(texto) < 30 or not any(k in texto.lower() for k in VIAL_KW):
                     continue
                 tipo  = clasificar(texto)
-                c     = TIPO_CONFIG[tipo]
-                fecha = fmt_fecha(entry.get("published", ""))
+                fecha = fmt_fecha(pub_date)
                 alertas.append(hacer_alerta(tipo, extraer_ruta(texto), texto[:500],
                                             extraer_rec(texto), fecha,
                                             f"@{cuenta}", entry.get("link",""), texto))
