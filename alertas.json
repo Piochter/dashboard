@@ -1,8 +1,13 @@
 {
-  "ultima_actualizacion": "2026-05-06T00:00:00-06:00",
+  "ultima_actualizacion": "2026-05-06T11:48:42.370162-06:00",
   "ultima_actualizacion_legible": "6 de mayo de 2026 · 00:00 CST",
   "total": 0,
-  "nota": "Archivo de plantilla. El scraper llenará este JSON automáticamente.",
-  "fuentes": ["@CAPUFE_Oficial", "@GN_Carreteras", "CONAGUA/SMN", "Protección Civil"],
+  "nota": "Sin nuevos datos. Última actualización exitosa conservada.",
+  "fuentes": [
+    "@CAPUFE_Oficial",
+    "@GN_Carreteras",
+    "CONAGUA/SMN",
+    "Protección Civil"
+  ],
   "grupos": []
 }
