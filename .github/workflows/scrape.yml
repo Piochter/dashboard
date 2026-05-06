@@ -46,8 +46,11 @@ jobs:
         run: |
           git config user.email "bot@alertas-viales.io"
           git config user.name  "AlertasVialesBot"
+          git config pull.rebase true
           git add alertas.json
-          # Si no hay cambios, el commit falla silenciosamente
-          git diff --staged --quiet \
-            || git commit -m "🔄 Alertas: $(date -u '+%d-%b-%Y %H:%M UTC')"
+          # Si no hay cambios, salir sin error
+          git diff --staged --quiet && exit 0
+          git commit -m "🔄 Alertas: $(date -u '+%d-%b-%Y %H:%M UTC')"
+          # Jalar cambios remotos antes de subir (evita el "rejected")
+          git pull --rebase origin main
           git push
