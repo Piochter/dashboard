@@ -96,10 +96,12 @@ jobs:
 
           git commit -m "🔄 Alertas: $(date -u '+%d-%b-%Y %H:%M UTC')"
 
+          PUSH_OK=0
           for i in 1 2 3; do
-            git push && echo "✅ Push exitoso en intento $i" && break
+            git push && echo "✅ Push exitoso en intento $i" && PUSH_OK=1 && break
             echo "⚠️ Intento $i falló — jalando cambios y reintentando..."
             git fetch origin main
             git rebase origin/main
             sleep 3
           done
+          [ "$PUSH_OK" -eq 1 ] || { echo "❌ Push falló en los 3 intentos"; exit 1; }
