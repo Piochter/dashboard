@@ -85,6 +85,7 @@ body{font-family:'Barlow',sans-serif;background:linear-gradient(135deg,#07131f,#
 .badge-obra{background:#1d6a39;color:#a9dfbf}
 .badge-bloqueo{background:#6c3483;color:#fff}
 .badge-clima{background:#154360;color:#aed6f1}
+.badge-robo{background:#922b21;color:#fff}
 .alertas-footer{background:#071522;padding:8px 20px;display:flex;align-items:center;justify-content:space-between;border-top:1px solid #1f4d70}
 .alertas-footer>span{font-size:10px;color:#4a7a9b}
 .actualizado{display:flex;align-items:center;gap:6px;font-size:10px;color:#4a7a9b}
@@ -3591,22 +3592,185 @@ function limpiarBusqueda(){
   </div>
 </div>
 
-<script>
-// ═══════════════════════════════════════════════════════════════
-//  ALERTAS VIALES — Feed automático desde alertas.json
-//  Actualizado por GitHub Actions cada 30 minutos
-// ═══════════════════════════════════════════════════════════════
-const ALERTAS_URL = "https://raw.githubusercontent.com/Piochter/dashboard/main/alertas.json";
-const REFRESH_MS  = 10 * 60 * 1000;
 
-async function cargarAlertas() {
-  try {
-    const r = await fetch(ALERTAS_URL + "?t=" + Date.now());
-    if (!r.ok) throw new Error("HTTP " + r.status);
-    renderAlertas(await r.json());
-  } catch(e) { console.warn("Alertas:", e.message); }
+
+<div id="js-error" style="display:none;position:fixed;bottom:10px;right:10px;z-index:99999;background:#1a1a2e;border:1px solid #e74c3c;color:#fff;font-family:monospace;font-size:12px;padding:10px 14px;border-radius:8px;max-width:400px">
+  🔴 Error JS: <span></span>
+</div>
+
+<script>
+// ═══════════════════════════════════════════════════════════════════
+//  ALERTAS EN MAPA — Marcadores Leaflet + Notificaciones
+//  Pega este script al final de index.html, antes de </body>
+//  Requiere que el mapa Leaflet ya esté inicializado como: var map = ...
+// ═══════════════════════════════════════════════════════════════════
+
+const ALERTAS_URL = "https://raw.githubusercontent.com/Piochter/dashboard/main/alertas.json";
+const REFRESH_MS  = 10 * 60 * 1000;  // refrescar cada 10 min
+
+// ── Iconos por tipo de alerta ────────────────────────────────────
+const ALERTA_ICONOS = {
+  cierre_total:    { color: "#e74c3c", emoji: "🔴", size: 36 },
+  bloqueo:         { color: "#8e44ad", emoji: "⛔", size: 34 },
+  robo:            { color: "#c0392b", emoji: "🚨", size: 34 },
+  cierre_parcial:  { color: "#e67e22", emoji: "🟡", size: 30 },
+  carga_vehicular: { color: "#2980b9", emoji: "🚗", size: 28 },
+  obra:            { color: "#27ae60", emoji: "🚧", size: 28 },
+  clima:           { color: "#3498db", emoji: "🌧️", size: 30 },
+};
+
+function crearIcono(tipo) {
+  const cfg = ALERTA_ICONOS[tipo] || { color:"#888", emoji:"⚠️", size:28 };
+  return L.divIcon({
+    className: "",
+    html: `<div style="
+      background:${cfg.color};
+      width:${cfg.size}px;height:${cfg.size}px;
+      border-radius:50%;
+      border:3px solid rgba(255,255,255,0.85);
+      display:flex;align-items:center;justify-content:center;
+      font-size:${cfg.size * 0.5}px;
+      box-shadow:0 0 12px ${cfg.color}aa, 0 2px 6px rgba(0,0,0,0.5);
+      animation: pulse-alerta 2s infinite;
+    ">${cfg.emoji}</div>`,
+    iconSize:   [cfg.size, cfg.size],
+    iconAnchor: [cfg.size/2, cfg.size/2],
+    popupAnchor:[0, -(cfg.size/2 + 4)],
+  });
 }
 
+// ── CSS para animación de los marcadores ────────────────────────
+const styleEl = document.createElement("style");
+styleEl.textContent = `
+@keyframes pulse-alerta {
+  0%   { box-shadow: 0 0 0 0 rgba(231,76,60,.7), 0 2px 6px rgba(0,0,0,.5); }
+  70%  { box-shadow: 0 0 0 12px rgba(231,76,60,0), 0 2px 6px rgba(0,0,0,.5); }
+  100% { box-shadow: 0 0 0 0 rgba(231,76,60,0), 0 2px 6px rgba(0,0,0,.5); }
+}
+#alerta-toast {
+  position:fixed; top:18px; right:18px; z-index:99999;
+  background:linear-gradient(135deg,#0e2438,#1a3a5c);
+  border:1px solid #e74c3c; border-left:5px solid #e74c3c;
+  border-radius:12px; padding:14px 18px; max-width:340px;
+  font-family:'Barlow',sans-serif; color:#fff;
+  box-shadow:0 8px 30px rgba(0,0,0,.5);
+  transform:translateX(120%); transition:transform .4s ease;
+}
+#alerta-toast.show { transform:translateX(0); }
+#alerta-toast .toast-title {
+  font-family:'Barlow Condensed',sans-serif;
+  font-size:14px; font-weight:700; letter-spacing:1px;
+  color:#ff6b6b; text-transform:uppercase; margin-bottom:6px;
+}
+#alerta-toast .toast-body { font-size:12px; color:#c8dce8; line-height:1.5; }
+#alerta-toast .toast-close {
+  position:absolute; top:8px; right:12px;
+  background:none; border:none; color:#8ab4cc;
+  font-size:16px; cursor:pointer; line-height:1;
+}
+#alertas-toggle {
+  position:fixed; bottom:24px; right:24px; z-index:9999;
+  background:linear-gradient(135deg,#c0392b,#e74c3c);
+  color:#fff; border:none; border-radius:50px;
+  padding:10px 18px; font-family:'Barlow Condensed',sans-serif;
+  font-size:14px; font-weight:700; letter-spacing:1px;
+  cursor:pointer; box-shadow:0 4px 20px rgba(231,76,60,.5);
+  display:flex; align-items:center; gap:8px;
+  transition:transform .2s;
+}
+#alertas-toggle:hover { transform:scale(1.05); }
+#alertas-badge {
+  background:#fff; color:#c0392b; border-radius:50%;
+  width:20px; height:20px; display:inline-flex;
+  align-items:center; justify-content:center;
+  font-size:11px; font-weight:900;
+}
+`;
+document.head.appendChild(styleEl);
+
+// ── Toast de notificación ────────────────────────────────────────
+const toast = document.createElement("div");
+toast.id = "alerta-toast";
+toast.innerHTML = `
+  <button class="toast-close" onclick="ocultarToast()">✕</button>
+  <div class="toast-title">🚨 Nueva Alerta Vial</div>
+  <div class="toast-body" id="toast-body"></div>`;
+document.body.appendChild(toast);
+
+function mostrarToast(msg) {
+  document.getElementById("toast-body").textContent = msg;
+  toast.classList.add("show");
+  setTimeout(ocultarToast, 8000);
+}
+function ocultarToast() { toast.classList.remove("show"); }
+
+// ── Botón flotante para volver al panel de alertas ───────────────
+const toggleBtn = document.createElement("button");
+toggleBtn.id = "alertas-toggle";
+toggleBtn.innerHTML = `🚨 Alertas <span id="alertas-badge">0</span>`;
+toggleBtn.onclick = () => {
+  const s = document.getElementById("alertas-section");
+  if (s) s.scrollIntoView({ behavior:"smooth" });
+};
+document.body.appendChild(toggleBtn);
+
+// ── Capa de marcadores en el mapa ────────────────────────────────
+let alertasLayer = null;
+let ultimoTotal  = 0;
+
+function pintarEnMapa(paraMapa) {
+  if (!window.map) return;
+
+  // Limpiar capa anterior
+  if (alertasLayer) { alertasLayer.clearLayers(); }
+  else              { alertasLayer = L.layerGroup().addTo(map); }
+
+  if (!paraMapa || !paraMapa.length) return;
+
+  paraMapa.forEach(a => {
+    if (!a.lat || !a.lon) return;
+
+    const marker = L.marker([a.lat, a.lon], { icon: crearIcono(a.tipo) });
+
+    const cfg    = ALERTA_ICONOS[a.tipo] || {};
+    const popupH = `
+      <div style="font-family:'Barlow',sans-serif;min-width:220px;max-width:300px">
+        <div style="background:${cfg.color||'#555'};color:#fff;padding:8px 12px;
+             border-radius:6px 6px 0 0;font-family:'Barlow Condensed';
+             font-size:13px;font-weight:700;letter-spacing:1px">
+          ${a.badge_txt || a.tipo.toUpperCase()}
+        </div>
+        <div style="padding:10px 12px;background:#0e2438;color:#d8ebf7">
+          <div style="font-size:13px;font-weight:600;margin-bottom:6px;color:#e8f4fd">
+            ${a.ruta}
+          </div>
+          <div style="font-size:11.5px;color:#8ab4cc;line-height:1.5;margin-bottom:6px">
+            ${a.descripcion.substring(0, 180)}${a.descripcion.length>180?"…":""}
+          </div>
+          <div style="font-size:10px;color:#4a7a9b">
+            📅 ${a.fecha} · ${a.fuente}
+          </div>
+          ${a.url ? `<a href="${a.url}" target="_blank"
+            style="display:block;margin-top:8px;font-size:11px;
+            color:#5dade2;text-decoration:none">Ver nota completa →</a>` : ""}
+        </div>
+      </div>`;
+
+    marker.bindPopup(popupH, {
+      maxWidth: 310,
+      className: "alerta-popup",
+    });
+
+    // Abrir popup automáticamente para alertas críticas
+    if (a.tipo === "cierre_total" || a.tipo === "bloqueo" || a.tipo === "robo") {
+      marker.on("add", () => marker.openPopup());
+    }
+
+    alertasLayer.addLayer(marker);
+  });
+}
+
+// ── Render del panel lateral (misma lógica de siempre) ───────────
 function esc(s) {
   return String(s ?? "")
     .replace(/&/g,"&amp;").replace(/</g,"&lt;")
@@ -3615,15 +3779,17 @@ function esc(s) {
 
 function footerHtml(d) {
   return `<div class="alertas-footer">
-    <span>&#x2139;&#xFE0F; Datos recopilados automáticamente &nbsp;·&nbsp; ${d.total||0} alertas activas</span>
-    <div class="actualizado"><div class="pulse-dot"></div>
+    <span>&#x2139;&#xFE0F; Actualización automática · ${d.total||0} alertas activas</span>
+    <div class="actualizado">
+      <div class="pulse-dot"></div>
       Última actualización: <b style="color:#7a9ab5">${esc(d.ultima_actualizacion_legible)}</b>
     </div></div>`;
 }
 
-function renderAlertas(d) {
+function renderPanel(d) {
   const s = document.getElementById("alertas-section");
   if (!s) return;
+
   const header = `<div class="alertas-header">
     <div style="display:flex;align-items:center;gap:16px">
       <div class="alerta-label">&#x2014;&nbsp;Alerta Vial</div>
@@ -3635,8 +3801,10 @@ function renderAlertas(d) {
     </div></div>`;
 
   if (!d.grupos || !d.grupos.length) {
-    s.innerHTML = header + `<div style="padding:30px;text-align:center;color:#4a7a9b;font-size:13px">
-      ✅ Sin alertas activas en este momento</div>` + footerHtml(d);
+    s.innerHTML = header +
+      `<div style="padding:30px;text-align:center;color:#4a7a9b;font-size:13px">
+        ✅ Sin alertas activas en este momento</div>` +
+      footerHtml(d);
     return;
   }
 
@@ -3644,19 +3812,24 @@ function renderAlertas(d) {
   for (const g of d.grupos) {
     html += `<div class="alertas-grupo">
       <div class="grupo-label ${esc(g.color)}">${esc(g.icono)}&nbsp; ${esc(g.label)}</div>
-      <div class="alertas-grid${g.col2?' col2':''}">`;
+      <div class="alertas-grid${g.col2?" col2":""}">`;
     for (const a of g.alertas) {
       const rec = a.recomendacion
         ? `<div class="card-rec">&#x27A1;&#xFE0F; ${esc(a.recomendacion)}</div>` : "";
       const clk = a.url
         ? `onclick="window.open('${esc(a.url)}','_blank')" style="cursor:pointer"` : "";
-      html += `<div class="alerta-card ${esc(g.color)}" ${clk}>
+      // Si tiene coords, al hacer clic centrar el mapa
+      const mapClick = (a.lat && a.lon && window.map)
+        ? `onclick="map.setView([${a.lat},${a.lon}],10);map.scrollIntoView&&document.getElementById('map').scrollIntoView({behavior:'smooth'})"
+           style="cursor:pointer"`
+        : clk;
+      html += `<div class="alerta-card ${esc(g.color)}" ${mapClick}>
         <div class="card-left"><div class="card-dot" style="background:${esc(a.dot_color)}"></div></div>
         <div class="card-body">
-          <div class="card-ruta">${esc(a.ruta)}</div>
+          <div class="card-ruta">${esc(a.ruta)}${a.lat?"&nbsp;📍":""}</div>
           <div class="card-desc">${esc(a.descripcion)}</div>
           ${rec}
-          <div class="card-meta">&#x1F4C5; ${esc(a.fecha)} &nbsp;&middot;&nbsp; ${esc(a.fuente)}</div>
+          <div class="card-meta">📅 ${esc(a.fecha)} &nbsp;·&nbsp; ${esc(a.fuente)}</div>
         </div>
         <span class="alerta-badge ${esc(a.badge)}">${esc(a.badge_txt)}</span>
       </div>`;
@@ -3667,12 +3840,51 @@ function renderAlertas(d) {
   s.innerHTML = html;
 }
 
+// ── Carga principal ──────────────────────────────────────────────
+async function cargarAlertas() {
+  try {
+    const r = await fetch(ALERTAS_URL + "?t=" + Date.now());
+    if (!r.ok) throw new Error("HTTP " + r.status);
+    const d = await r.json();
+
+    // Detectar alertas nuevas vs ciclo anterior
+    const nuevoTotal = d.total || 0;
+    if (nuevoTotal > ultimoTotal && ultimoTotal > 0) {
+      const diff = nuevoTotal - ultimoTotal;
+      mostrarToast(`${diff} nueva${diff>1?"s":""} alerta${diff>1?"s":""} detectada${diff>1?"s":""}. Revisa el panel.`);
+    }
+    ultimoTotal = nuevoTotal;
+
+    // Actualizar badge del botón
+    const badge = document.getElementById("alertas-badge");
+    if (badge) badge.textContent = nuevoTotal;
+
+    // Render panel lateral + marcadores en mapa
+    renderPanel(d);
+    if (d.para_mapa) pintarEnMapa(d.para_mapa);
+
+  } catch(e) {
+    console.warn("Alertas no disponibles:", e.message);
+  }
+}
+
+// Agregar CSS del popup de Leaflet
+const popupStyle = document.createElement("style");
+popupStyle.textContent = `
+.alerta-popup .leaflet-popup-content-wrapper {
+  padding:0; border-radius:8px; overflow:hidden;
+  background:#0e2438; border:1px solid #1f4d70;
+  box-shadow:0 8px 30px rgba(0,0,0,.6);
+}
+.alerta-popup .leaflet-popup-content { margin:0; }
+.alerta-popup .leaflet-popup-tip { background:#0e2438; }
+`;
+document.head.appendChild(popupStyle);
+
+// Iniciar
 cargarAlertas();
 setInterval(cargarAlertas, REFRESH_MS);
-</script>
 
-<div id="js-error" style="display:none;position:fixed;bottom:10px;right:10px;z-index:99999;background:#1a1a2e;border:1px solid #e74c3c;color:#fff;font-family:monospace;font-size:12px;padding:10px 14px;border-radius:8px;max-width:400px">
-  🔴 Error JS: <span></span>
-</div>
+</script>
 </body>
 </html>
