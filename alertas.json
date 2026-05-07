@@ -1,6 +1,6 @@
 {
-  "ultima_actualizacion": "2026-05-06T16:13:46.753626-06:00",
-  "ultima_actualizacion_legible": "6 de mayo de 2026 · 16:13 CST",
+  "ultima_actualizacion": "2026-05-07T02:04:41.961833-06:00",
+  "ultima_actualizacion_legible": "7 de mayo de 2026 · 02:04 CST",
   "total": 2,
   "fuentes": [
     "El Sol de México",
@@ -207,5 +207,6 @@
     "probable_min_confidence": 0.6,
     "accept_undated": false,
     "output_file": "alertas.json"
-  }
+  },
+  "nota": "Sin nuevos datos. Última actualización exitosa conservada."
 }
