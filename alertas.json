@@ -1,6 +1,6 @@
 {
-  "ultima_actualizacion": "2026-05-08T00:22:28.890219-06:00",
-  "ultima_actualizacion_legible": "8 de mayo de 2026 · 00:22 CST",
+  "ultima_actualizacion": "2026-05-08T04:58:02.681897-06:00",
+  "ultima_actualizacion_legible": "8 de mayo de 2026 · 04:58 CST",
   "total": 1,
   "fuentes": [
     "TV Azteca"
@@ -99,5 +99,6 @@
     "probable_min_confidence": 0.6,
     "accept_undated": false,
     "output_file": "alertas.json"
-  }
+  },
+  "nota": "Sin nuevos datos. Última actualización exitosa conservada."
 }
