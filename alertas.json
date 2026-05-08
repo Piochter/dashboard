@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-05-08T15:08:34.072802-06:00",
-  "ultima_actualizacion_legible": "8 de mayo de 2026 · 15:08 CST",
-  "total": 23,
+  "ultima_actualizacion": "2026-05-08T15:18:42.009570-06:00",
+  "ultima_actualizacion_legible": "8 de mayo de 2026 · 15:18 CST",
+  "total": 22,
   "ventana": "últimas 24 horas",
   "fuentes": [
     "Google News",
@@ -157,19 +157,6 @@
           "fecha": "8 mayo 2026 · 09:30 CST",
           "fuente": "24 Horas",
           "url": "https://24-horas.mx/mundo/eu-anuncia-que-ataco-dos-buques-iranies-que-intentaban-violar-el-bloqueo-de-los-puertos/",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        },
-        {
-          "id": "2b5f73f0",
-          "tipo": "bloqueo",
-          "ruta": "Cuba enfrenta una hambruna energética: ONU…",
-          "descripcion": "Cuba enfrenta una hambruna energética: ONU. El bloqueo de combustible hace que la isla enfrente graves consecuencias para el desarrollo y los derechos humanos",
-          "recomendacion": "",
-          "fecha": "8 mayo 2026 · 00:00 CST",
-          "fuente": "El Sol de México",
-          "url": "https://oem.com.mx/elsoldemexico/mundo/bloqueo-de-combustible-impuesto-por-eeuu-a-cuba-equivale-a-hambruna-energetica-expertos-onu-29866151",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO"
