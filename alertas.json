@@ -1,6 +1,6 @@
 {
-  "ultima_actualizacion": "2026-05-08T14:30:10.986875-06:00",
-  "ultima_actualizacion_legible": "8 de mayo de 2026 · 14:30 CST",
+  "ultima_actualizacion": "2026-05-08T14:57:54.618372-06:00",
+  "ultima_actualizacion_legible": "8 de mayo de 2026 · 14:57 CST",
   "total": 23,
   "ventana": "últimas 24 horas",
   "fuentes": [
@@ -17,19 +17,6 @@
       "col2": false,
       "alertas": [
         {
-          "id": "a821f7ec",
-          "tipo": "cierre_total",
-          "ruta": "autopista en Maltrata - AVC Noticias",
-          "descripcion": "Volcadura de tráiler con cemento cierra autopista en Maltrata - AVC Noticias. Volcadura de tráiler con cemento cierra autopista en Maltrata AVC Noticias",
-          "recomendacion": "",
-          "fecha": "7 mayo 2026 · 20:38 CST",
-          "fuente": "AVC Noticias",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZ0RiOFVnWXA5MVJpNVFhTk5TUVg3TnlKRUNnZEJwZmRqcjk1a1FnZko4LUd0dHh6WjIxLWdhUnlINGRVZE1yRmpRdE1hSFFvdE93aURuVklYbHlrMW1tNlM3REI4c04zcEpRQnhRRTdDSGRiWGNURW41U2U1VmZXRVotbGwzazZ5VWF3V3NEWFZBZDV6emkwcmRFNnFJVE10M0YxdjY1N3V6VEZLRkJHUC1tT1NRS0RPdUpvTTF2QWFSYXI4S0J1ZFZR?oc=5",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL"
-        },
-        {
           "id": "e0a1cb4c",
           "tipo": "cierre_total",
           "ruta": "Se Desata Rapiña y Cierre Total en la Autopista Puebla-Orizaba…",
@@ -45,6 +32,19 @@
           "lon": -98.2
         },
         {
+          "id": "a821f7ec",
+          "tipo": "cierre_total",
+          "ruta": "autopista en Maltrata - AVC Noticias",
+          "descripcion": "Volcadura de tráiler con cemento cierra autopista en Maltrata - AVC Noticias. Volcadura de tráiler con cemento cierra autopista en Maltrata AVC Noticias",
+          "recomendacion": "",
+          "fecha": "7 mayo 2026 · 20:38 CST",
+          "fuente": "AVC Noticias",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZ0RiOFVnWXA5MVJpNVFhTk5TUVg3TnlKRUNnZEJwZmRqcjk1a1FnZko4LUd0dHh6WjIxLWdhUnlINGRVZE1yRmpRdE1hSFFvdE93aURuVklYbHlrMW1tNlM3REI4c04zcEpRQnhRRTdDSGRiWGNURW41U2U1VmZXRVotbGwzazZ5VWF3V3NEWFZBZDV6emkwcmRFNnFJVE10M0YxdjY1N3V6VEZLRkJHUC1tT1NRS0RPdUpvTTF2QWFSYXI4S0J1ZFZR?oc=5",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL"
+        },
+        {
           "id": "38e7b1b3",
           "tipo": "cierre_total",
           "ruta": "ÚLTIMA HORA: Se registra el CIERRE total de la México-Cuernavaca…",
@@ -58,21 +58,6 @@
           "badge_txt": "CIERRE TOTAL",
           "lat": 18.67,
           "lon": -99.1
-        },
-        {
-          "id": "77230475",
-          "tipo": "cierre_total",
-          "ruta": "autopista México-Cuernavaca por volcadura de tráiler - Meganoticias",
-          "descripcion": "Cierre total en autopista México-Cuernavaca por volcadura de tráiler - Meganoticias.MX. Cierre total en autopista México-Cuernavaca por volcadura de tráiler Meganoticias.MX",
-          "recomendacion": "",
-          "fecha": "7 mayo 2026 · 14:49 CST",
-          "fuente": "Meganoticias.MX",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTTJNNGdCa01wcEdUR2RHLWJnaTcwbTZ6YTNRMmZYSzNtLWQ2UXJNQ1VoRkdxLWF2MkZRWWc3UUZSMVdhM3E4dGRvdGRDNkVKMnl3SlVEWFUyVlYyNkRseFpJM3l3c2NxaTVUeGNKYjdPbk04MF9wRy1LWVV2bEdtWGoyWDVkSVNydGxCTjNtUk1xOHJwaEdjLXZhM3RFWDUxbWEyVE1TRDhwSDNLSDd3Q3NudXB1VmZoSkE?oc=5",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL",
-          "lat": 18.92,
-          "lon": -99.23
         },
         {
           "id": "8217c166",
@@ -143,22 +128,9 @@
           "ruta": "Tráfico en las carreteras de México hoy: Noticias sobre bloqueos…",
           "descripcion": "Tráfico en las carreteras de México hoy: Noticias sobre bloqueos y accidentes EN VIVO este 8 de mayo 2026 - TV Azteca. Tráfico en las carreteras de México hoy: Noticias sobre bloqueos y accidentes EN VIVO este 8 de mayo 2026 TV Azteca",
           "recomendacion": "",
-          "fecha": "8 mayo 2026 · 13:36 CST",
+          "fecha": "8 mayo 2026 · 14:36 CST",
           "fuente": "TV Azteca",
           "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaW5LYWNxNGFuOUFZSnZMNlZYVVlEYVpzQ1NYaVdzOW5UdTgyd0dJd0pla05yWWM2UEQxYzVNR0p0NjUwTzhNQTRYUkJhMDNuOVZidDV6UU1xSnY2MmFEX0JWWGRxQlJZaTktREJYLXg2akh5dlRIWHQ0LVlvamV0VDZTcXBsUHFCa2lvZnlsdDhJNm9ZLVhyWTRzQXMzWDdGWkxTb3hWT2o3Q3I0WTRaZ01wWnRXdGZQVmwwbjFVV0w3STZPUzRr?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        },
-        {
-          "id": "07193134",
-          "tipo": "bloqueo",
-          "ruta": "Alertan por CIERRES y BLOQUEOS en estas 11 carreteras HOY…",
-          "descripcion": "Alertan por CIERRES y BLOQUEOS en estas 11 carreteras HOY viernes 8 de mayo | EN VIVO - El Heraldo de México. Alertan por CIERRES y BLOQUEOS en estas 11 carreteras HOY viernes 8 de mayo | EN VIVO El Heraldo de México",
-          "recomendacion": "",
-          "fecha": "8 mayo 2026 · 13:12 CST",
-          "fuente": "El Heraldo de México",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSHVKWENiX0FBcFVJbmdSekh6TFNIWUQtclJMazRvM19vend4amtrNEQwZWc1a0s1Z2VTYUdaeFR4cnBrcExTYlpuc0Q2eXc5a0VsUFNEclR3cUFmVHFOVVhZa0FtSTJ4ZFl6ZFVGbkR4YXlGbVZDT3pQREMxUm1PbTFZNm5yTTdiajZvTllIdnNBVWZsYUNLNS1rU0dVY2hyWjdsNjZvajJvQ1NyYzhWSXlYWnV0SjdQTThjVmhHLURFWGJwU3JjYW96WEdqeG5VdVlHX2p2cWtwdjhZ0gHcAUFVX3lxTFBIdUpYQ2JfQUFwVUluZ1J6SHpMU0hZRC1yUkxrNG8zX296d3hqa2s0RDBlZzVrSzVnZVNhR1p4VHhycGtwTFNiWm5zRDZ5dzlrRWxQU0RyVHdxQWZUcU5VWFlrQW1JMnhkWXpkVUZuRHhheUZtVkNPelBEQzFSbU9tMVk2bnJNN2JqNm9OWUh2c0FVZmxhQ0s1LWtTR1VjaHJaN2w2Nm9qMm9DU3JjOFZJeVhadXRKN1BNOGNWaEctREVYYnBTcmNhb3pYR2p4blV1WUdfanZxa3B2OFk?oc=5",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO"
@@ -185,6 +157,19 @@
           "fecha": "8 mayo 2026 · 00:00 CST",
           "fuente": "El Sol de México",
           "url": "https://oem.com.mx/elsoldemexico/mundo/bloqueo-de-combustible-impuesto-por-eeuu-a-cuba-equivale-a-hambruna-energetica-expertos-onu-29866151",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
+        {
+          "id": "a938f0fd",
+          "tipo": "bloqueo",
+          "ruta": "Segob niega bloqueo contra Isabel Díaz Ayuso…",
+          "descripcion": "Segob niega bloqueo contra Isabel Díaz Ayuso. La declaración surge luego de que la funcionaria española señalara que el Gobierno mexicano presuntamente presionó a los organizadores de los Premios Platino para evitar su participación en el evento",
+          "recomendacion": "evitar su participación en el evento",
+          "fecha": "8 mayo 2026 · 14:48 CST",
+          "fuente": "El Informador Jalisco",
+          "url": "https://www.informador.mx/mexico/segob-niega-bloqueo-contra-isabel-diaz-ayuso-20260508-0132.html",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO"
@@ -285,6 +270,19 @@
           "fecha": "8 mayo 2026 · 11:06 CST",
           "fuente": "El Financiero",
           "url": "https://www.elfinanciero.com.mx/mercados/2026/05/08/peso-dolar-precio-hoy-8-de-mayo-de-2026/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        },
+        {
+          "id": "1d6bd7b9",
+          "tipo": "cierre_parcial",
+          "ruta": "Reseña: Sleep A30, los audífonos que salvarán tu relación si…",
+          "descripcion": "Reseña: Sleep A30, los audífonos que salvarán tu relación si tu pareja ronca. Este dispositivo destaca por su cancelación activa de ruido y el impacto que tienen en las horas de sueño de los usuarios.",
+          "recomendacion": "",
+          "fecha": "8 mayo 2026 · 13:00 CST",
+          "fuente": "Expansión",
+          "url": "https://expansion.mx/tecnologia/2026/05/08/resena-sleep-a30-los-audifonos",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL"
@@ -416,19 +414,6 @@
       "badge_txt": "CIERRE TOTAL",
       "lat": 18.67,
       "lon": -99.1
-    },
-    {
-      "id": "77230475",
-      "tipo": "cierre_total",
-      "ruta": "autopista México-Cuernavaca por volcadura de tráiler - Meganoticias",
-      "descripcion": "Cierre total en autopista México-Cuernavaca por volcadura de tráiler - Meganoticias.MX. Cierre total en autopista México-Cuernavaca por volcadura de tráiler Meganoticias.MX",
-      "fecha": "7 mayo 2026 · 14:49 CST",
-      "fuente": "Meganoticias.MX",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTTJNNGdCa01wcEdUR2RHLWJnaTcwbTZ6YTNRMmZYSzNtLWQ2UXJNQ1VoRkdxLWF2MkZRWWc3UUZSMVdhM3E4dGRvdGRDNkVKMnl3SlVEWFUyVlYyNkRseFpJM3l3c2NxaTVUeGNKYjdPbk04MF9wRy1LWVV2bEdtWGoyWDVkSVNydGxCTjNtUk1xOHJwaEdjLXZhM3RFWDUxbWEyVE1TRDhwSDNLSDd3Q3NudXB1VmZoSkE?oc=5",
-      "dot_color": "#e74c3c",
-      "badge_txt": "CIERRE TOTAL",
-      "lat": 18.92,
-      "lon": -99.23
     },
     {
       "id": "d97946e3",
