@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-05-08T11:41:57.404457-06:00",
-  "ultima_actualizacion_legible": "8 de mayo de 2026 · 11:41 CST",
-  "total": 21,
+  "ultima_actualizacion": "2026-05-08T14:17:06.106977-06:00",
+  "ultima_actualizacion_legible": "8 de mayo de 2026 · 14:17 CST",
+  "total": 22,
   "ventana": "últimas 24 horas",
   "fuentes": [
     "Google News",
@@ -17,19 +17,6 @@
       "col2": false,
       "alertas": [
         {
-          "id": "a821f7ec",
-          "tipo": "cierre_total",
-          "ruta": "autopista en Maltrata - AVC Noticias",
-          "descripcion": "Volcadura de tráiler con cemento cierra autopista en Maltrata - AVC Noticias. Volcadura de tráiler con cemento cierra autopista en Maltrata AVC Noticias",
-          "recomendacion": "",
-          "fecha": "7 mayo 2026 · 20:38 CST",
-          "fuente": "AVC Noticias",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZ0RiOFVnWXA5MVJpNVFhTk5TUVg3TnlKRUNnZEJwZmRqcjk1a1FnZko4LUd0dHh6WjIxLWdhUnlINGRVZE1yRmpRdE1hSFFvdE93aURuVklYbHlrMW1tNlM3REI4c04zcEpRQnhRRTdDSGRiWGNURW41U2U1VmZXRVotbGwzazZ5VWF3V3NEWFZBZDV6emkwcmRFNnFJVE10M0YxdjY1N3V6VEZLRkJHUC1tT1NRS0RPdUpvTTF2QWFSYXI4S0J1ZFZR?oc=5",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL"
-        },
-        {
           "id": "e0a1cb4c",
           "tipo": "cierre_total",
           "ruta": "Se Desata Rapiña y Cierre Total en la Autopista Puebla-Orizaba…",
@@ -43,6 +30,19 @@
           "badge_txt": "CIERRE TOTAL",
           "lat": 19.04,
           "lon": -98.2
+        },
+        {
+          "id": "a821f7ec",
+          "tipo": "cierre_total",
+          "ruta": "autopista en Maltrata - AVC Noticias",
+          "descripcion": "Volcadura de tráiler con cemento cierra autopista en Maltrata - AVC Noticias. Volcadura de tráiler con cemento cierra autopista en Maltrata AVC Noticias",
+          "recomendacion": "",
+          "fecha": "7 mayo 2026 · 20:38 CST",
+          "fuente": "AVC Noticias",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZ0RiOFVnWXA5MVJpNVFhTk5TUVg3TnlKRUNnZEJwZmRqcjk1a1FnZko4LUd0dHh6WjIxLWdhUnlINGRVZE1yRmpRdE1hSFFvdE93aURuVklYbHlrMW1tNlM3REI4c04zcEpRQnhRRTdDSGRiWGNURW41U2U1VmZXRVotbGwzazZ5VWF3V3NEWFZBZDV6emkwcmRFNnFJVE10M0YxdjY1N3V6VEZLRkJHUC1tT1NRS0RPdUpvTTF2QWFSYXI4S0J1ZFZR?oc=5",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL"
         },
         {
           "id": "38e7b1b3",
@@ -143,9 +143,22 @@
           "ruta": "Tráfico en las carreteras de México hoy: Noticias sobre bloqueos…",
           "descripcion": "Tráfico en las carreteras de México hoy: Noticias sobre bloqueos y accidentes EN VIVO este 8 de mayo 2026 - TV Azteca. Tráfico en las carreteras de México hoy: Noticias sobre bloqueos y accidentes EN VIVO este 8 de mayo 2026 TV Azteca",
           "recomendacion": "",
-          "fecha": "8 mayo 2026 · 10:30 CST",
+          "fecha": "8 mayo 2026 · 13:36 CST",
           "fuente": "TV Azteca",
           "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaW5LYWNxNGFuOUFZSnZMNlZYVVlEYVpzQ1NYaVdzOW5UdTgyd0dJd0pla05yWWM2UEQxYzVNR0p0NjUwTzhNQTRYUkJhMDNuOVZidDV6UU1xSnY2MmFEX0JWWGRxQlJZaTktREJYLXg2akh5dlRIWHQ0LVlvamV0VDZTcXBsUHFCa2lvZnlsdDhJNm9ZLVhyWTRzQXMzWDdGWkxTb3hWT2o3Q3I0WTRaZ01wWnRXdGZQVmwwbjFVV0w3STZPUzRr?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
+        {
+          "id": "07193134",
+          "tipo": "bloqueo",
+          "ruta": "Alertan por CIERRES y BLOQUEOS en estas 11 carreteras HOY…",
+          "descripcion": "Alertan por CIERRES y BLOQUEOS en estas 11 carreteras HOY viernes 8 de mayo | EN VIVO - El Heraldo de México. Alertan por CIERRES y BLOQUEOS en estas 11 carreteras HOY viernes 8 de mayo | EN VIVO El Heraldo de México",
+          "recomendacion": "",
+          "fecha": "8 mayo 2026 · 13:12 CST",
+          "fuente": "El Heraldo de México",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSHVKWENiX0FBcFVJbmdSekh6TFNIWUQtclJMazRvM19vend4amtrNEQwZWc1a0s1Z2VTYUdaeFR4cnBrcExTYlpuc0Q2eXc5a0VsUFNEclR3cUFmVHFOVVhZa0FtSTJ4ZFl6ZFVGbkR4YXlGbVZDT3pQREMxUm1PbTFZNm5yTTdiajZvTllIdnNBVWZsYUNLNS1rU0dVY2hyWjdsNjZvajJvQ1NyYzhWSXlYWnV0SjdQTThjVmhHLURFWGJwU3JjYW96WEdqeG5VdVlHX2p2cWtwdjhZ0gHcAUFVX3lxTFBIdUpYQ2JfQUFwVUluZ1J6SHpMU0hZRC1yUkxrNG8zX296d3hqa2s0RDBlZzVrSzVnZVNhR1p4VHhycGtwTFNiWm5zRDZ5dzlrRWxQU0RyVHdxQWZUcU5VWFlrQW1JMnhkWXpkVUZuRHhheUZtVkNPelBEQzFSbU9tMVk2bnJNN2JqNm9OWUh2c0FVZmxhQ0s1LWtTR1VjaHJaN2w2Nm9qMm9DU3JjOFZJeVhadXRKN1BNOGNWaEctREVYYnBTcmNhb3pYR2p4blV1WUdfanZxa3B2OFk?oc=5",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO"
@@ -208,6 +221,19 @@
       "col2": true,
       "alertas": [
         {
+          "id": "226e46aa",
+          "tipo": "cierre_parcial",
+          "ruta": "¿Hay Cierres en la Autopista México-Querétaro Hoy VIERNES 8 de…",
+          "descripcion": "¿Hay Cierres en la Autopista México-Querétaro Hoy VIERNES 8 de Mayo de 2026? - N+. ¿Hay Cierres en la Autopista México-Querétaro Hoy VIERNES 8 de Mayo de 2026? N+",
+          "recomendacion": "",
+          "fecha": "8 mayo 2026 · 00:36 CST",
+          "fuente": "N+",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNm1CMVdoVTNLU3JZQTljT1hRM193RU5Ld3FidW83eUM5Vl9CUDJ4clp6akNkMlMwOFFHeVpfSi1YTlFNbHZSVFNTUk5meDhSSDNsYml3Zm5MbDMxaXRwalkzTkVpRGVKZ1lFeGhuR1FxNndRaHpnX3VkLUR6QWVoWUVUUnRldmExLVRzZ3ZNc2dGU0s4ekV5aTUyeXZGWGJKRERkTGtUWnpZQW9IYldZQ3h4WnYwbDg?oc=5",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        },
+        {
           "id": "e309a8ea",
           "tipo": "cierre_parcial",
           "ruta": "autopista México–Cuernavaca",
@@ -238,21 +264,6 @@
           "lon": -96.72
         },
         {
-          "id": "a6fcee5f",
-          "tipo": "cierre_parcial",
-          "ruta": "América golea y se enfila a una nueva final de…",
-          "descripcion": "América golea y se enfila a una nueva final de la Liga Mx Femenil. Con una escandalosa goleada, el América venció 7 por 1 al Toluca en la ida de las semifinales de la Liga Mx Femenil.",
-          "recomendacion": "",
-          "fecha": "7 mayo 2026 · 23:54 CST",
-          "fuente": "24 Horas",
-          "url": "https://24-horas.mx/dxt/america-golea-y-se-enfila-a-una-nueva-final-de-la-liga-mx-femenil/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.29,
-          "lon": -99.66
-        },
-        {
           "id": "51c3d19f",
           "tipo": "cierre_parcial",
           "ruta": "Peso se perfila para ganancia semanal de más de 20…",
@@ -279,45 +290,54 @@
           "badge_txt": "CIERRE PARCIAL"
         },
         {
-          "id": "5665de7f",
+          "id": "8c5a6f33",
           "tipo": "cierre_parcial",
-          "ruta": "Lesionada, motociclista en accidente en el centro de Morelia…",
-          "descripcion": "Lesionada, motociclista en accidente en el centro de Morelia. Los rescatistas brindaron atención prehospitalaria",
+          "ruta": "Dime cómo conduces y te diré quién eres; la psicología…",
+          "descripcion": "Dime cómo conduces y te diré quién eres; la psicología de ceder el paso. Ceder el paso no es solo una regla de tránsito básica, es una verdadera radiografía de tu salud mental. Hoy, entender este comportamiento cotidiano te ayudará a descubrir tu nivel de empatía",
           "recomendacion": "",
-          "fecha": "8 mayo 2026 · 10:02 CST",
-          "fuente": "Quadratín Michoacán",
-          "url": "https://www.quadratin.com.mx/sucesos/lesionada-motociclista-en-accidente-en-el-centro-de-morelia/",
+          "fecha": "8 mayo 2026 · 12:43 CST",
+          "fuente": "El Informador Jalisco",
+          "url": "https://www.informador.mx/estilo/dime-como-conduces-y-te-dire-quien-eres-la-psicologia-de-ceder-el-paso-20260508-0103.html",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL"
         },
         {
-          "id": "864057dc",
+          "id": "566e34a3",
           "tipo": "cierre_parcial",
-          "ruta": "EU inicia revisión de consulados mexicanos; amaga con cierres tras…",
-          "descripcion": "EU inicia revisión de consulados mexicanos; amaga con cierres tras tensiones con Sheinbaum. El Departamento de Estado de EU inició una revisión de los 53 consulados mexicanos, lo que podría llevar al cierre de oficinas clave.",
+          "ruta": "Tragedia en autopista: Muere chofer tras volcar su camión en…",
+          "descripcion": "Tragedia en autopista: Muere chofer tras volcar su camión en la Aguascalientes-León. Chofer de carga muere tras volcar su camión en la autopista Aguascalientes-León.",
           "recomendacion": "",
-          "fecha": "8 mayo 2026 · 06:05 CST",
+          "fecha": "8 mayo 2026 · 12:02 CST",
           "fuente": "AM Guanajuato",
-          "url": "https://www.am.com.mx/estados-unidos/2026/05/08/eu-inicia-revision-de-consulados-mexicanos-amaga-con-cierres-tras-tensiones-con-sheinbaum-1791510.html",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
-        },
-        {
-          "id": "a085b639",
-          "tipo": "cierre_parcial",
-          "ruta": "Méjico con j…",
-          "descripcion": "Méjico con j. En su columna del 7 de mayo de 2026, Sergio Sarmiento aborda la irritación que causó en sectores políticos mexicanos el uso de la grafía \"Méjico\" por parte de Isabel Díaz Ayuso. Lejos de ser un error, Sarmiento explica que la \"j\" es el resultado de la evolución fonética y las normas liberales de la RAE de 1815 que buscaban simplificar la lengua. El autor recuerda que figuras como Iturbide se ostentaban como \"Gefe del Ejército Mejicano\" y que estados como Jalisco adoptaron la ortogr",
-          "recomendacion": "",
-          "fecha": "8 mayo 2026 · 06:00 CST",
-          "fuente": "AM Guanajuato",
-          "url": "https://www.am.com.mx/opinion/2026/05/08/sergio-sarmiento-mejico-con-j-mexico-ortografia-ayuso-1791355.html",
+          "url": "https://www.am.com.mx/leon/2026/05/08/tragedia-en-autopista-muere-chofer-tras-volcar-su-camion-en-la-aguascalientes-leon-1791563.html",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL",
-          "lat": 21.0,
-          "lon": -104.0
+          "lat": 21.88,
+          "lon": -102.29
+        }
+      ]
+    },
+    {
+      "tipo": "carga_vehicular",
+      "color": "azul",
+      "icono": "🚗",
+      "label": "CARGA VEHICULAR",
+      "col2": true,
+      "alertas": [
+        {
+          "id": "4613e569",
+          "tipo": "carga_vehicular",
+          "ruta": "Exsecretario de la SEP critica reducción del ciclo escolar 2025-2026…",
+          "descripcion": "Exsecretario de la SEP critica reducción del ciclo escolar 2025-2026 (VIDEO). La posible reducción del ciclo escolar 2025-2026 por el Mundial de Futbol ha desatado críticas por el impacto educativo y social",
+          "recomendacion": "",
+          "fecha": "8 mayo 2026 · 12:42 CST",
+          "fuente": "El Informador Jalisco",
+          "url": "https://www.informador.mx/mexico/sep-adelanta-vacaciones-de-verano-exsecretario-de-educacion-critica-reduccion-del-ciclo-escolar-2025-2026-video-20260508-0081.html",
+          "dot_color": "#2980b9",
+          "badge": "badge-carga",
+          "badge_txt": "CARGA VEHICULAR"
         }
       ]
     },
@@ -359,19 +379,6 @@
       "lon": -99.07
     },
     {
-      "id": "d97946e3",
-      "tipo": "cierre_parcial",
-      "ruta": "Vuelca Tractocamión de Plataforma Cargado con Material en Autopista Cuacnopalan…",
-      "descripcion": "Vuelca Tractocamión de Plataforma Cargado con Material en Autopista Cuacnopalan Oaxaca - N+. Vuelca Tractocamión de Plataforma Cargado con Material en Autopista Cuacnopalan Oaxaca N+",
-      "fecha": "8 mayo 2026 · 10:05 CST",
-      "fuente": "N+",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPTEg0U3UybXdwWC1fbzNDdW9fZTVjV3haX254OWRVVEkwV3VCakFjZDQ5R2F0dmN0UE5Pc1hRdHdQS19HT0htNkNfdW1nOWtGczZnMXFwQlFRSHd3a29yQURTNlJBZGhXMC14MTFJaHNuNmhtWHd1eVB5SGZGZFZnTUZoaHVndzZMZEc1QjB1ZlhDYXNmVGFTeEZSRU1hdm5feC1SRlVSaGtOVElCdDJvaEt6OWJPMFZfdEphb0NPcmVfdjhzOHNiQTFITnk4d1hET3hWU1JWTkZTNERwTENn?oc=5",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 17.06,
-      "lon": -96.72
-    },
-    {
       "id": "e0a1cb4c",
       "tipo": "cierre_total",
       "ruta": "Se Desata Rapiña y Cierre Total en la Autopista Puebla-Orizaba…",
@@ -383,6 +390,19 @@
       "badge_txt": "CIERRE TOTAL",
       "lat": 19.04,
       "lon": -98.2
+    },
+    {
+      "id": "d97946e3",
+      "tipo": "cierre_parcial",
+      "ruta": "Vuelca Tractocamión de Plataforma Cargado con Material en Autopista Cuacnopalan…",
+      "descripcion": "Vuelca Tractocamión de Plataforma Cargado con Material en Autopista Cuacnopalan Oaxaca - N+. Vuelca Tractocamión de Plataforma Cargado con Material en Autopista Cuacnopalan Oaxaca N+",
+      "fecha": "8 mayo 2026 · 10:05 CST",
+      "fuente": "N+",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPTEg0U3UybXdwWC1fbzNDdW9fZTVjV3haX254OWRVVEkwV3VCakFjZDQ5R2F0dmN0UE5Pc1hRdHdQS19HT0htNkNfdW1nOWtGczZnMXFwQlFRSHd3a29yQURTNlJBZGhXMC14MTFJaHNuNmhtWHd1eVB5SGZGZFZnTUZoaHVndzZMZEc1QjB1ZlhDYXNmVGFTeEZSRU1hdm5feC1SRlVSaGtOVElCdDJvaEt6OWJPMFZfdEphb0NPcmVfdjhzOHNiQTFITnk4d1hET3hWU1JWTkZTNERwTENn?oc=5",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 17.06,
+      "lon": -96.72
     },
     {
       "id": "38e7b1b3",
@@ -424,30 +444,17 @@
       "lon": -104.0
     },
     {
-      "id": "a6fcee5f",
+      "id": "566e34a3",
       "tipo": "cierre_parcial",
-      "ruta": "América golea y se enfila a una nueva final de…",
-      "descripcion": "América golea y se enfila a una nueva final de la Liga Mx Femenil. Con una escandalosa goleada, el América venció 7 por 1 al Toluca en la ida de las semifinales de la Liga Mx Femenil.",
-      "fecha": "7 mayo 2026 · 23:54 CST",
-      "fuente": "24 Horas",
-      "url": "https://24-horas.mx/dxt/america-golea-y-se-enfila-a-una-nueva-final-de-la-liga-mx-femenil/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.29,
-      "lon": -99.66
-    },
-    {
-      "id": "a085b639",
-      "tipo": "cierre_parcial",
-      "ruta": "Méjico con j…",
-      "descripcion": "Méjico con j. En su columna del 7 de mayo de 2026, Sergio Sarmiento aborda la irritación que causó en sectores políticos mexicanos el uso de la grafía \"Méjico\" por parte de Isabel Díaz Ayuso. Lejos de ser un error, Sarmiento explica que la \"j\" es el resultado de la evolución fonética y las normas liberales de la RAE de 1815 que buscaban simplificar la lengua. El autor recuerda que figuras como Iturbide se ostentaban como \"Gefe del Ejército Mejicano\" y que estados como Jalisco adoptaron la ortogr",
-      "fecha": "8 mayo 2026 · 06:00 CST",
+      "ruta": "Tragedia en autopista: Muere chofer tras volcar su camión en…",
+      "descripcion": "Tragedia en autopista: Muere chofer tras volcar su camión en la Aguascalientes-León. Chofer de carga muere tras volcar su camión en la autopista Aguascalientes-León.",
+      "fecha": "8 mayo 2026 · 12:02 CST",
       "fuente": "AM Guanajuato",
-      "url": "https://www.am.com.mx/opinion/2026/05/08/sergio-sarmiento-mejico-con-j-mexico-ortografia-ayuso-1791355.html",
+      "url": "https://www.am.com.mx/leon/2026/05/08/tragedia-en-autopista-muere-chofer-tras-volcar-su-camion-en-la-aguascalientes-leon-1791563.html",
       "dot_color": "#e67e22",
       "badge_txt": "CIERRE PARCIAL",
-      "lat": 21.0,
-      "lon": -104.0
+      "lat": 21.88,
+      "lon": -102.29
     }
   ]
 }
