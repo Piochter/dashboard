@@ -1,81 +1,13 @@
 {
-  "ultima_actualizacion": "2026-05-08T15:18:42.009570-06:00",
-  "ultima_actualizacion_legible": "8 de mayo de 2026 · 15:18 CST",
-  "total": 22,
-  "ventana": "últimas 24 horas",
+  "generado": "2026-05-08T16:55:37.224215-06:00",
+  "ventana": "ultimas 3 horas",
+  "total": 2,
   "fuentes": [
     "Google News",
-    "Medios nacionales",
-    "Medios regionales"
+    "Medios nacionales"
   ],
+  "para_mapa": [],
   "grupos": [
-    {
-      "tipo": "cierre_total",
-      "color": "rojo",
-      "icono": "🔴",
-      "label": "CIERRE TOTAL",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "a821f7ec",
-          "tipo": "cierre_total",
-          "ruta": "autopista en Maltrata - AVC Noticias",
-          "descripcion": "Volcadura de tráiler con cemento cierra autopista en Maltrata - AVC Noticias. Volcadura de tráiler con cemento cierra autopista en Maltrata AVC Noticias",
-          "recomendacion": "",
-          "fecha": "7 mayo 2026 · 20:38 CST",
-          "fuente": "AVC Noticias",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZ0RiOFVnWXA5MVJpNVFhTk5TUVg3TnlKRUNnZEJwZmRqcjk1a1FnZko4LUd0dHh6WjIxLWdhUnlINGRVZE1yRmpRdE1hSFFvdE93aURuVklYbHlrMW1tNlM3REI4c04zcEpRQnhRRTdDSGRiWGNURW41U2U1VmZXRVotbGwzazZ5VWF3V3NEWFZBZDV6emkwcmRFNnFJVE10M0YxdjY1N3V6VEZLRkJHUC1tT1NRS0RPdUpvTTF2QWFSYXI4S0J1ZFZR?oc=5",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL"
-        },
-        {
-          "id": "e0a1cb4c",
-          "tipo": "cierre_total",
-          "ruta": "Se Desata Rapiña y Cierre Total en la Autopista Puebla-Orizaba…",
-          "descripcion": "Se Desata Rapiña y Cierre Total en la Autopista Puebla-Orizaba tras Accidente de Tráiler - N+. Se Desata Rapiña y Cierre Total en la Autopista Puebla-Orizaba tras Accidente de Tráiler N+",
-          "recomendacion": "",
-          "fecha": "8 mayo 2026 · 10:15 CST",
-          "fuente": "N+",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOX19WV3FkX3VwSm1hOUNoNjlDYzF0bThIYk1zZW94alA4dzRFTU0tS0ZwYXotMUtkVEhjSHlLeDFQUVhGdXROM2dHck45YWRrMXhTM2YtSDVkeHNERzN2MjdOVnY3MGhKUnN1OGtLSmh0TU81azdrc1dnaWVNQXNKdF9VRlVUVDJ4UDQzZnh1blFYTTF5QzFWSElHMS03eWlLOUx0ZEVfbUhiVjhrYnNUeEprSTdmSXNvTXBaUHZQUFlWT1RJcUxuQl81Q3k3dw?oc=5",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL",
-          "lat": 19.04,
-          "lon": -98.2
-        },
-        {
-          "id": "38e7b1b3",
-          "tipo": "cierre_total",
-          "ruta": "ÚLTIMA HORA: Se registra el CIERRE total de la México-Cuernavaca…",
-          "descripcion": "ÚLTIMA HORA: Se registra el CIERRE total de la México-Cuernavaca HOY 7 de mayo tras volcadura de tráiler - Azteca Morelos. ÚLTIMA HORA: Se registra el CIERRE total de la México-Cuernavaca HOY 7 de mayo tras volcadura de tráiler Azteca Morelos",
-          "recomendacion": "",
-          "fecha": "7 mayo 2026 · 16:43 CST",
-          "fuente": "Azteca Morelos",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONE5sbklodjE0LXJfbFJMM1lVSDV4NTNvUFVGczhvZjhEbGpzSnZnbm0wZElzN1lYd3hGeDltS0loOXFOQmo5Q1ZDQUljREswYWM3enpZZEd2OERsZzc2TTJobXVRb1Z2VnZzRlJoTDFyR2syQVg3VTZocXR0SUZ0bEhLNWlzTUZsQ1NOLTE4dHQ1WTFCRmZ5Y1J1dC0xRXl4S0dlbTJNZXFoTzdTQzhDLVJwZ1JicDU2dnQzd1JaUQ?oc=5",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL",
-          "lat": 18.67,
-          "lon": -99.1
-        },
-        {
-          "id": "8217c166",
-          "tipo": "cierre_total",
-          "ruta": "Volcadura Autopista Siglo XXI: dos muertos en La Unión -…",
-          "descripcion": "Volcadura Autopista Siglo XXI: dos muertos en La Unión - Meganoticias.MX. Volcadura Autopista Siglo XXI: dos muertos en La Unión Meganoticias.MX",
-          "recomendacion": "",
-          "fecha": "8 mayo 2026 · 08:34 CST",
-          "fuente": "Meganoticias.MX",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORkdEVUZ5Z1Brclo0OGZzU014RF9laHFCci1za1AycE04M21XdXZFcnRwdkNjYzF3TG9XUXRhVG1IdGllZDF1ZzBtVzd2bHRaQ0g5cnUxZ2VBaFh1UjZ1eDRWdFBqZnM2QkJfd3BNa0pMVHVsOHFBOE5hWUdoYjdGNDFqMG1EZzFnZnRXbjU5Q3dKcTBBMGVQNGN6dndNdzE5R0kwcWJ0MA?oc=5",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL",
-          "lat": 19.3,
-          "lon": -104.0
-        }
-      ]
-    },
     {
       "tipo": "bloqueo",
       "color": "rojo",
@@ -84,117 +16,17 @@
       "col2": false,
       "alertas": [
         {
-          "id": "d3efaddb",
-          "tipo": "bloqueo",
-          "ruta": "Hay Cierres en Carreteras de México Hoy 8 de Mayo…",
-          "descripcion": "Hay Cierres en Carreteras de México Hoy 8 de Mayo 2026: Lista de Autopistas con Bloqueos - N+. Hay Cierres en Carreteras de México Hoy 8 de Mayo 2026: Lista de Autopistas con Bloqueos N+",
-          "recomendacion": "",
-          "fecha": "8 mayo 2026 · 06:47 CST",
-          "fuente": "N+",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYVllaHNUb1hGUDFPWlVfR2hzeWVSYjl0ZDFzdUFSaF9ObU1udk1sZzNLdUtfX2VLSDFfRm1oclpSRjFYVmMtVkhDb1YxQ0JvbmhFR0ItMVhSRlhpOVo4QUZnaWtsVHpCY2ZxOWliZ1UxQ3k3TFRQRG4tSjhiX243U2toZkFYdFVxSmN2MS1xcFVhMkQyU3VQT3BoSkY2WVJwNkszZEFlMnJYN09rWmVBS1pJUEI?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        },
-        {
-          "id": "f8b88434",
-          "tipo": "bloqueo",
-          "ruta": "Bloqueos en carreteras de México HOY 7 de mayo 2026:…",
-          "descripcion": "Bloqueos en carreteras de México HOY 7 de mayo 2026: Cierres, tráfico y afectaciones en autopistas - TV Azteca. Bloqueos en carreteras de México HOY 7 de mayo 2026: Cierres, tráfico y afectaciones en autopistas TV Azteca",
-          "recomendacion": "",
-          "fecha": "7 mayo 2026 · 22:05 CST",
-          "fuente": "TV Azteca",
-          "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNR1lNMW9sdEpPTTctNXl0QmQwSkR4UXhTUXdCN0U5YW9FMTJ0NlNDZDhwUFFYMjcxdlZEM3F4TEYzWDFkT25va3NRSVFzeloxME1MTFA3UTM5RkpjRkNnaDdtT1FBbDc4OFYxYWc0ODBjZHNwUVplOUhIS0cwc016NXpvSi1aWFhlcE5YdEozQmFHOW9rSGtuZEQ4U0xtR1JJc2JQc0dMWDhpajk3Ny1jUzlDcWNRYmNPbk5GWU02XzR5QzNKQkdWYU10LU9aWFZ5OUFXMHJZM25yOG5iUV91WkF5dnBQcDd5WHZNTkQ3ZWJTOE9ib012b2R4TU1Pc2hKVDFoaA?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        },
-        {
-          "id": "7308aff4",
-          "tipo": "bloqueo",
-          "ruta": "Bloqueos carreteras HOY 8 de mayo: Autopistas cerradas en México,…",
-          "descripcion": "Bloqueos carreteras HOY 8 de mayo: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 8 de mayo: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
-          "recomendacion": "",
-          "fecha": "8 mayo 2026 · 07:32 CST",
-          "fuente": "Eje Central",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZGZJOTBKZFZuaGg2WTMyb2FLZy1xdDN1M2VZZ1JaQjJZQ3FtbHZsWlY0N0FYd1M5VExlbWFDYlNwbFNCTHpQMFRnc1ZCMjFUd0JOVWxQRlFUbzZ4by1XY0NyTHlQU1d6Ni1CcGU3a2FaTnd3eUo3VnlYdktHbmNyNWpVMzkyWVJBMGRiTVFzaGE0QnROSWlGeVNTOVJ4eHlHOGZDLXFSLXd6bDdxbkZqaFhJY1pwZzZDX2g2TXBJNGVoYmpUdG9uQkhyQUxmNUt5Zy05bUFmSnNtRW1BZVEzX1dRRUw?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        },
-        {
           "id": "75944180",
           "tipo": "bloqueo",
-          "ruta": "Tráfico en las carreteras de México hoy: Noticias sobre bloqueos…",
+          "ruta": "Tráfico en las carreteras de México hoy: Noticias sobre bloqueos...",
           "descripcion": "Tráfico en las carreteras de México hoy: Noticias sobre bloqueos y accidentes EN VIVO este 8 de mayo 2026 - TV Azteca. Tráfico en las carreteras de México hoy: Noticias sobre bloqueos y accidentes EN VIVO este 8 de mayo 2026 TV Azteca",
           "recomendacion": "",
-          "fecha": "8 mayo 2026 · 14:36 CST",
+          "fecha": "8 mayo 2026 · 16:31 CST",
           "fuente": "TV Azteca",
           "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaW5LYWNxNGFuOUFZSnZMNlZYVVlEYVpzQ1NYaVdzOW5UdTgyd0dJd0pla05yWWM2UEQxYzVNR0p0NjUwTzhNQTRYUkJhMDNuOVZidDV6UU1xSnY2MmFEX0JWWGRxQlJZaTktREJYLXg2akh5dlRIWHQ0LVlvamV0VDZTcXBsUHFCa2lvZnlsdDhJNm9ZLVhyWTRzQXMzWDdGWkxTb3hWT2o3Q3I0WTRaZ01wWnRXdGZQVmwwbjFVV0w3STZPUzRr?oc=5",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO"
-        },
-        {
-          "id": "07193134",
-          "tipo": "bloqueo",
-          "ruta": "Alertan por CIERRES y BLOQUEOS en estas 11 carreteras HOY…",
-          "descripcion": "Alertan por CIERRES y BLOQUEOS en estas 11 carreteras HOY viernes 8 de mayo | EN VIVO - El Heraldo de México. Alertan por CIERRES y BLOQUEOS en estas 11 carreteras HOY viernes 8 de mayo | EN VIVO El Heraldo de México",
-          "recomendacion": "",
-          "fecha": "8 mayo 2026 · 13:12 CST",
-          "fuente": "El Heraldo de México",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSHVKWENiX0FBcFVJbmdSekh6TFNIWUQtclJMazRvM19vend4amtrNEQwZWc1a0s1Z2VTYUdaeFR4cnBrcExTYlpuc0Q2eXc5a0VsUFNEclR3cUFmVHFOVVhZa0FtSTJ4ZFl6ZFVGbkR4YXlGbVZDT3pQREMxUm1PbTFZNm5yTTdiajZvTllIdnNBVWZsYUNLNS1rU0dVY2hyWjdsNjZvajJvQ1NyYzhWSXlYWnV0SjdQTThjVmhHLURFWGJwU3JjYW96WEdqeG5VdVlHX2p2cWtwdjhZ0gHcAUFVX3lxTFBIdUpYQ2JfQUFwVUluZ1J6SHpMU0hZRC1yUkxrNG8zX296d3hqa2s0RDBlZzVrSzVnZVNhR1p4VHhycGtwTFNiWm5zRDZ5dzlrRWxQU0RyVHdxQWZUcU5VWFlrQW1JMnhkWXpkVUZuRHhheUZtVkNPelBEQzFSbU9tMVk2bnJNN2JqNm9OWUh2c0FVZmxhQ0s1LWtTR1VjaHJaN2w2Nm9qMm9DU3JjOFZJeVhadXRKN1BNOGNWaEctREVYYnBTcmNhb3pYR2p4blV1WUdfanZxa3B2OFk?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        },
-        {
-          "id": "ee3b1114",
-          "tipo": "bloqueo",
-          "ruta": "EU anuncia que atacó dos buques iraníes que intentaban violar…",
-          "descripcion": "EU anuncia que atacó dos buques iraníes que intentaban violar el bloqueo de los puertos. Estados Unidos informó que disparó contra dos petroleros con bandera iraní luego de que presuntamente intentaran violar el bloqueo marítimo.",
-          "recomendacion": "",
-          "fecha": "8 mayo 2026 · 09:30 CST",
-          "fuente": "24 Horas",
-          "url": "https://24-horas.mx/mundo/eu-anuncia-que-ataco-dos-buques-iranies-que-intentaban-violar-el-bloqueo-de-los-puertos/",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        },
-        {
-          "id": "a938f0fd",
-          "tipo": "bloqueo",
-          "ruta": "Segob niega bloqueo contra Isabel Díaz Ayuso…",
-          "descripcion": "Segob niega bloqueo contra Isabel Díaz Ayuso. La declaración surge luego de que la funcionaria española señalara que el Gobierno mexicano presuntamente presionó a los organizadores de los Premios Platino para evitar su participación en el evento",
-          "recomendacion": "evitar su participación en el evento",
-          "fecha": "8 mayo 2026 · 14:48 CST",
-          "fuente": "El Informador Jalisco",
-          "url": "https://www.informador.mx/mexico/segob-niega-bloqueo-contra-isabel-diaz-ayuso-20260508-0132.html",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        }
-      ]
-    },
-    {
-      "tipo": "robo",
-      "color": "rojo",
-      "icono": "🚨",
-      "label": "ROBOS EN CARRETERA",
-      "col2": true,
-      "alertas": [
-        {
-          "id": "654a6908",
-          "tipo": "robo",
-          "ruta": "Pemex reporta 30 ordeñas diarias a ductos y admite colusión…",
-          "descripcion": "Pemex reporta 30 ordeñas diarias a ductos y admite colusión de funcionarios en huachicol. Las actividades de robo y contrabando de combustibles no pueden ser realizadas sin participación de funcionarios, asegura Pemex en su reporte 20-F.",
-          "recomendacion": "",
-          "fecha": "7 mayo 2026 · 16:55 CST",
-          "fuente": "Expansión",
-          "url": "https://expansion.mx/empresas/2026/05/07/pemex-acepta-colusion-funcionarios-huachicol",
-          "dot_color": "#c0392b",
-          "badge": "badge-robo",
-          "badge_txt": "ROBO"
         }
       ]
     },
@@ -206,225 +38,19 @@
       "col2": true,
       "alertas": [
         {
-          "id": "226e46aa",
+          "id": "4aac34b6",
           "tipo": "cierre_parcial",
-          "ruta": "¿Hay Cierres en la Autopista México-Querétaro Hoy VIERNES 8 de…",
-          "descripcion": "¿Hay Cierres en la Autopista México-Querétaro Hoy VIERNES 8 de Mayo de 2026? - N+. ¿Hay Cierres en la Autopista México-Querétaro Hoy VIERNES 8 de Mayo de 2026? N+",
+          "ruta": "Fallece colaborador de Grecia Quiroz tras accidente automovilístico...",
+          "descripcion": "Fallece colaborador de Grecia Quiroz tras accidente automovilístico. Un colaborador de la presidenta municipal de Uruapan, Grecia Quiroz, falleció tras un accidente automovilístico en la carretera Morelia-Pátzcuaro, en el estado de Michoacán.",
           "recomendacion": "",
-          "fecha": "8 mayo 2026 · 00:36 CST",
-          "fuente": "N+",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNm1CMVdoVTNLU3JZQTljT1hRM193RU5Ld3FidW83eUM5Vl9CUDJ4clp6akNkMlMwOFFHeVpfSi1YTlFNbHZSVFNTUk5meDhSSDNsYml3Zm5MbDMxaXRwalkzTkVpRGVKZ1lFeGhuR1FxNndRaHpnX3VkLUR6QWVoWUVUUnRldmExLVRzZ3ZNc2dGU0s4ekV5aTUyeXZGWGJKRERkTGtUWnpZQW9IYldZQ3h4WnYwbDg?oc=5",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
-        },
-        {
-          "id": "e309a8ea",
-          "tipo": "cierre_parcial",
-          "ruta": "autopista México–Cuernavaca",
-          "descripcion": "Cierre de circulación en la autopista México–Cuernavaca, a la altura del km 66 con dirección a CDMX - RTv Noticias Morelos. Cierre de circulación en la autopista México–Cuernavaca, a la altura del km 66 con dirección a CDMX RTv Noticias Morelos",
-          "recomendacion": "",
-          "fecha": "7 mayo 2026 · 16:46 CST",
-          "fuente": "RTv Noticias Morelos",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWTRMbkhRaVpTRTQyajJwOTBsNjIyV0M4MEZkWnNqYXp3TzN3VFl5WmVuVElHMGZJRnp3LWJ1SkxFLWFMUTlTWFd1UGlGMTUzNmpuNUp0bzlTeTVnQW1Lc1hqcnZZUlI1OGV2R2tzWlpPTl95dS1uZVRkdkpsR1JrUWhuR01rbXlMRlpWcUxCUk5sb0RXQnFmd2VZTmsybzN6bGhHOC1KdWdPNDV4ZVh4dU5OcGVyb1o4VnBxcWZyZkpxaXBEOXM4LQ?oc=5",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.49,
-          "lon": -99.07
-        },
-        {
-          "id": "60a68843",
-          "tipo": "cierre_parcial",
-          "ruta": "Camión Tipo Torton se Queda Sin Frenos en la \"Bajada…",
-          "descripcion": "Camión Tipo Torton se Queda Sin Frenos en la \"Bajada de la Muerte\" en Carretera México-Tuxpan - N+. Camión Tipo Torton se Queda Sin Frenos en la \"Bajada de la Muerte\" en Carretera México-Tuxpan N+",
-          "recomendacion": "",
-          "fecha": "8 mayo 2026 · 14:10 CST",
-          "fuente": "N+",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZmVzN3dCOVJacGxDRGpJVHA1ME9DZC16OUJXQ0lxdHJQbXJsV1dnZ09mNXgxY3R6cUJmcGV0MzFGbGdYbXBYbXNaZVNoV28tYkZqbTJVX2VUdkZ3NVk3M1pyaVp2REdpcDdIcUhwaDYxWDZsTVhfR3c5c3UzcGNBaHJET0RrMHRSZmgyV2ZwcmNvMzJFcUVRYWUzcEkyMnFNc2xPbFNqU1BjamZzbFJOMWJZdENCb3NVY2VkelpJcktVLVJrNHFIdnJ6cDQxV3d4dlFidQ?oc=5",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
-        },
-        {
-          "id": "d97946e3",
-          "tipo": "cierre_parcial",
-          "ruta": "Vuelca Tractocamión de Plataforma Cargado con Material en Autopista Cuacnopalan…",
-          "descripcion": "Vuelca Tractocamión de Plataforma Cargado con Material en Autopista Cuacnopalan Oaxaca - N+. Vuelca Tractocamión de Plataforma Cargado con Material en Autopista Cuacnopalan Oaxaca N+",
-          "recomendacion": "",
-          "fecha": "8 mayo 2026 · 10:05 CST",
-          "fuente": "N+",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPTEg0U3UybXdwWC1fbzNDdW9fZTVjV3haX254OWRVVEkwV3VCakFjZDQ5R2F0dmN0UE5Pc1hRdHdQS19HT0htNkNfdW1nOWtGczZnMXFwQlFRSHd3a29yQURTNlJBZGhXMC14MTFJaHNuNmhtWHd1eVB5SGZGZFZnTUZoaHVndzZMZEc1QjB1ZlhDYXNmVGFTeEZSRU1hdm5feC1SRlVSaGtOVElCdDJvaEt6OWJPMFZfdEphb0NPcmVfdjhzOHNiQTFITnk4d1hET3hWU1JWTkZTNERwTENn?oc=5",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 17.06,
-          "lon": -96.72
-        },
-        {
-          "id": "51c3d19f",
-          "tipo": "cierre_parcial",
-          "ruta": "Peso se perfila para ganancia semanal de más de 20…",
-          "descripcion": "Peso se perfila para ganancia semanal de más de 20 centavos ante el dólar. Monedas como la corona noruega y el florín húngaros se aprecian casi 1%, aprovechando la debilidad del dólar por una nueva decisión contra los aranceles de Donald Trump.",
-          "recomendacion": "",
-          "fecha": "8 mayo 2026 · 11:06 CST",
-          "fuente": "El Financiero",
-          "url": "https://www.elfinanciero.com.mx/mercados/2026/05/08/peso-dolar-precio-hoy-8-de-mayo-de-2026/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
-        },
-        {
-          "id": "1d6bd7b9",
-          "tipo": "cierre_parcial",
-          "ruta": "Reseña: Sleep A30, los audífonos que salvarán tu relación si…",
-          "descripcion": "Reseña: Sleep A30, los audífonos que salvarán tu relación si tu pareja ronca. Este dispositivo destaca por su cancelación activa de ruido y el impacto que tienen en las horas de sueño de los usuarios.",
-          "recomendacion": "",
-          "fecha": "8 mayo 2026 · 13:00 CST",
-          "fuente": "Expansión",
-          "url": "https://expansion.mx/tecnologia/2026/05/08/resena-sleep-a30-los-audifonos",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
-        },
-        {
-          "id": "2270fcc2",
-          "tipo": "cierre_parcial",
-          "ruta": "Centrobús compartirá carriles con Línea 4 del Metrobús en el…",
-          "descripcion": "Centrobús compartirá carriles con Línea 4 del Metrobús en el Centro Histórico. La ruta tendrá 12 autobuses eléctricos y 33 estaciones que recorrerán vialidades del Centro Histórico sin que se haya liberado el ambulantaje",
-          "recomendacion": "",
-          "fecha": "8 mayo 2026 · 00:00 CST",
-          "fuente": "El Sol de México",
-          "url": "https://oem.com.mx/elsoldemexico/metropoli/centrobus-compartira-carriles-con-la-linea-4-del-metrobus-en-el-centro-historico-29865568",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
-        },
-        {
-          "id": "8c5a6f33",
-          "tipo": "cierre_parcial",
-          "ruta": "Dime cómo conduces y te diré quién eres; la psicología…",
-          "descripcion": "Dime cómo conduces y te diré quién eres; la psicología de ceder el paso. Ceder el paso no es solo una regla de tránsito básica, es una verdadera radiografía de tu salud mental. Hoy, entender este comportamiento cotidiano te ayudará a descubrir tu nivel de empatía",
-          "recomendacion": "",
-          "fecha": "8 mayo 2026 · 12:43 CST",
-          "fuente": "El Informador Jalisco",
-          "url": "https://www.informador.mx/estilo/dime-como-conduces-y-te-dire-quien-eres-la-psicologia-de-ceder-el-paso-20260508-0103.html",
+          "fecha": "8 mayo 2026 · 16:12 CST",
+          "fuente": "24 Horas",
+          "url": "https://24-horas.mx/estados/fallece-colaborador-de-grecia-quiroz-tras-accidente-automovilistico/",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL"
         }
       ]
-    },
-    {
-      "tipo": "carga_vehicular",
-      "color": "azul",
-      "icono": "🚗",
-      "label": "CARGA VEHICULAR",
-      "col2": true,
-      "alertas": [
-        {
-          "id": "4613e569",
-          "tipo": "carga_vehicular",
-          "ruta": "Exsecretario de la SEP critica reducción del ciclo escolar 2025-2026…",
-          "descripcion": "Exsecretario de la SEP critica reducción del ciclo escolar 2025-2026 (VIDEO). La posible reducción del ciclo escolar 2025-2026 por el Mundial de Futbol ha desatado críticas por el impacto educativo y social",
-          "recomendacion": "",
-          "fecha": "8 mayo 2026 · 12:42 CST",
-          "fuente": "El Informador Jalisco",
-          "url": "https://www.informador.mx/mexico/sep-adelanta-vacaciones-de-verano-exsecretario-de-educacion-critica-reduccion-del-ciclo-escolar-2025-2026-video-20260508-0081.html",
-          "dot_color": "#2980b9",
-          "badge": "badge-carga",
-          "badge_txt": "CARGA VEHICULAR"
-        }
-      ]
-    },
-    {
-      "tipo": "obra",
-      "color": "verde",
-      "icono": "🚧",
-      "label": "OBRA CONTINUA",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "3b4394d2",
-          "tipo": "obra",
-          "ruta": "TLCUEM renovado perfila a México como plataforma comercial de Europa…",
-          "descripcion": "TLCUEM renovado perfila a México como plataforma comercial de Europa hacia EU. Sergio Contreras, presidente del COMCE, prevé que el comercio entre México y la Unión Europea aumentará hasta 35% en cinco años con la modernización de su tratado.",
-          "recomendacion": "",
-          "fecha": "7 mayo 2026 · 16:18 CST",
-          "fuente": "Expansión",
-          "url": "https://expansion.mx/economia/2026/05/07/nuevo-tratadp-mexico-ue-plan-diversificar-mercado",
-          "dot_color": "#27ae60",
-          "badge": "badge-obra",
-          "badge_txt": "OBRA CONTINUA"
-        }
-      ]
-    }
-  ],
-  "para_mapa": [
-    {
-      "id": "e309a8ea",
-      "tipo": "cierre_parcial",
-      "ruta": "autopista México–Cuernavaca",
-      "descripcion": "Cierre de circulación en la autopista México–Cuernavaca, a la altura del km 66 con dirección a CDMX - RTv Noticias Morelos. Cierre de circulación en la autopista México–Cuernavaca, a la altura del km 66 con dirección a CDMX RTv Noticias Morelos",
-      "fecha": "7 mayo 2026 · 16:46 CST",
-      "fuente": "RTv Noticias Morelos",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWTRMbkhRaVpTRTQyajJwOTBsNjIyV0M4MEZkWnNqYXp3TzN3VFl5WmVuVElHMGZJRnp3LWJ1SkxFLWFMUTlTWFd1UGlGMTUzNmpuNUp0bzlTeTVnQW1Lc1hqcnZZUlI1OGV2R2tzWlpPTl95dS1uZVRkdkpsR1JrUWhuR01rbXlMRlpWcUxCUk5sb0RXQnFmd2VZTmsybzN6bGhHOC1KdWdPNDV4ZVh4dU5OcGVyb1o4VnBxcWZyZkpxaXBEOXM4LQ?oc=5",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.49,
-      "lon": -99.07
-    },
-    {
-      "id": "e0a1cb4c",
-      "tipo": "cierre_total",
-      "ruta": "Se Desata Rapiña y Cierre Total en la Autopista Puebla-Orizaba…",
-      "descripcion": "Se Desata Rapiña y Cierre Total en la Autopista Puebla-Orizaba tras Accidente de Tráiler - N+. Se Desata Rapiña y Cierre Total en la Autopista Puebla-Orizaba tras Accidente de Tráiler N+",
-      "fecha": "8 mayo 2026 · 10:15 CST",
-      "fuente": "N+",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOX19WV3FkX3VwSm1hOUNoNjlDYzF0bThIYk1zZW94alA4dzRFTU0tS0ZwYXotMUtkVEhjSHlLeDFQUVhGdXROM2dHck45YWRrMXhTM2YtSDVkeHNERzN2MjdOVnY3MGhKUnN1OGtLSmh0TU81azdrc1dnaWVNQXNKdF9VRlVUVDJ4UDQzZnh1blFYTTF5QzFWSElHMS03eWlLOUx0ZEVfbUhiVjhrYnNUeEprSTdmSXNvTXBaUHZQUFlWT1RJcUxuQl81Q3k3dw?oc=5",
-      "dot_color": "#e74c3c",
-      "badge_txt": "CIERRE TOTAL",
-      "lat": 19.04,
-      "lon": -98.2
-    },
-    {
-      "id": "38e7b1b3",
-      "tipo": "cierre_total",
-      "ruta": "ÚLTIMA HORA: Se registra el CIERRE total de la México-Cuernavaca…",
-      "descripcion": "ÚLTIMA HORA: Se registra el CIERRE total de la México-Cuernavaca HOY 7 de mayo tras volcadura de tráiler - Azteca Morelos. ÚLTIMA HORA: Se registra el CIERRE total de la México-Cuernavaca HOY 7 de mayo tras volcadura de tráiler Azteca Morelos",
-      "fecha": "7 mayo 2026 · 16:43 CST",
-      "fuente": "Azteca Morelos",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONE5sbklodjE0LXJfbFJMM1lVSDV4NTNvUFVGczhvZjhEbGpzSnZnbm0wZElzN1lYd3hGeDltS0loOXFOQmo5Q1ZDQUljREswYWM3enpZZEd2OERsZzc2TTJobXVRb1Z2VnZzRlJoTDFyR2syQVg3VTZocXR0SUZ0bEhLNWlzTUZsQ1NOLTE4dHQ1WTFCRmZ5Y1J1dC0xRXl4S0dlbTJNZXFoTzdTQzhDLVJwZ1JicDU2dnQzd1JaUQ?oc=5",
-      "dot_color": "#e74c3c",
-      "badge_txt": "CIERRE TOTAL",
-      "lat": 18.67,
-      "lon": -99.1
-    },
-    {
-      "id": "d97946e3",
-      "tipo": "cierre_parcial",
-      "ruta": "Vuelca Tractocamión de Plataforma Cargado con Material en Autopista Cuacnopalan…",
-      "descripcion": "Vuelca Tractocamión de Plataforma Cargado con Material en Autopista Cuacnopalan Oaxaca - N+. Vuelca Tractocamión de Plataforma Cargado con Material en Autopista Cuacnopalan Oaxaca N+",
-      "fecha": "8 mayo 2026 · 10:05 CST",
-      "fuente": "N+",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPTEg0U3UybXdwWC1fbzNDdW9fZTVjV3haX254OWRVVEkwV3VCakFjZDQ5R2F0dmN0UE5Pc1hRdHdQS19HT0htNkNfdW1nOWtGczZnMXFwQlFRSHd3a29yQURTNlJBZGhXMC14MTFJaHNuNmhtWHd1eVB5SGZGZFZnTUZoaHVndzZMZEc1QjB1ZlhDYXNmVGFTeEZSRU1hdm5feC1SRlVSaGtOVElCdDJvaEt6OWJPMFZfdEphb0NPcmVfdjhzOHNiQTFITnk4d1hET3hWU1JWTkZTNERwTENn?oc=5",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 17.06,
-      "lon": -96.72
-    },
-    {
-      "id": "8217c166",
-      "tipo": "cierre_total",
-      "ruta": "Volcadura Autopista Siglo XXI: dos muertos en La Unión -…",
-      "descripcion": "Volcadura Autopista Siglo XXI: dos muertos en La Unión - Meganoticias.MX. Volcadura Autopista Siglo XXI: dos muertos en La Unión Meganoticias.MX",
-      "fecha": "8 mayo 2026 · 08:34 CST",
-      "fuente": "Meganoticias.MX",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORkdEVUZ5Z1Brclo0OGZzU014RF9laHFCci1za1AycE04M21XdXZFcnRwdkNjYzF3TG9XUXRhVG1IdGllZDF1ZzBtVzd2bHRaQ0g5cnUxZ2VBaFh1UjZ1eDRWdFBqZnM2QkJfd3BNa0pMVHVsOHFBOE5hWUdoYjdGNDFqMG1EZzFnZnRXbjU5Q3dKcTBBMGVQNGN6dndNdzE5R0kwcWJ0MA?oc=5",
-      "dot_color": "#e74c3c",
-      "badge_txt": "CIERRE TOTAL",
-      "lat": 19.3,
-      "lon": -104.0
     }
   ]
 }
