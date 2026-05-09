@@ -1,5 +1,5 @@
 {
-  "generado": "2026-05-09T11:39:21.669462-06:00",
+  "generado": "2026-05-09T14:08:05.669644-06:00",
   "ventana": "ultimas 3 horas",
   "total": 1,
   "fuentes": [
@@ -8,24 +8,24 @@
   "para_mapa": [],
   "grupos": [
     {
-      "tipo": "bloqueo",
+      "tipo": "cierre_total",
       "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
+      "icono": "🔴",
+      "label": "CIERRE TOTAL",
       "col2": false,
       "alertas": [
         {
-          "id": "a9d62112",
-          "tipo": "bloqueo",
-          "ruta": "Bloqueos carreteras HOY 9 de mayo: Autopistas cerradas en México,...",
-          "descripcion": "Bloqueos carreteras HOY 9 de mayo: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 9 de mayo: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
+          "id": "7df6a49d",
+          "tipo": "cierre_total",
+          "ruta": "carretera México-Tuxpan en Zempoala tras volcadura de tractocamión - La Silla Rota",
+          "descripcion": "Cierran la carretera México-Tuxpan en Zempoala tras volcadura de tractocamión - La Silla Rota. Cierran la carretera México-Tuxpan en Zempoala tras volcadura de tractocamión La Silla Rota",
           "recomendacion": "",
-          "fecha": "9 mayo 2026 · 10:39 CST",
-          "fuente": "Eje Central",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPckI1dF9SdXpXNWRzbklqbFQ5RDhya1hJVjcwVm1aOUtibkRtNGhxQkV2Z0JTRUVFTHowWUxtWTdxdjdDeV82S2NEWWpDX3VybEVWOV9QWlJDdlU1RWVyZ0pMTEFhOTE4eHVHYkNHZnJWMTVUakdodWUwVUxFbC02VjB3MzBvWmZlYVJ1czQ4SDdBb0k4SjhqYXUyOHhDUHlCVWZPckV4UWtGM1QwZThmSzFGc3hVZnNDTFhvSFluUThUd3ZpRy02MkxJbzRLS09Ia3dHRUd2UE9vTEs4Z3FoRGtuQlQ?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
+          "fecha": "9 mayo 2026 · 12:34 CST",
+          "fuente": "La Silla Rota",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcy1QcmotZmdNcEptTVBHc2owa3QzanVfaGl4YkZ2YVdHb1hDSGlWS0x0NXRZVW01dDA0bDA1X0gzZzJ4ZmVObFlTZ05BdmlFNmpjc1hBWndoYXpObkJvQV9PS0lQMm85cDZpaTNmSVd3RVl1MTc1QkFDdDh6Z0psd1dYUEoyTGkxRkMxNk5hRDdyb0ducG8wdHFoNzVFVjJ5SXVqS1I5OFY0dmZpaDdINkpXem9TVmhEYzJGVzY0RGptMHM?oc=5",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL"
         }
       ]
     }
