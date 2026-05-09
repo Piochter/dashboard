@@ -1,56 +1,8 @@
 {
-  "generado": "2026-05-08T16:55:37.224215-06:00",
+  "generado": "2026-05-09T00:08:15.790677-06:00",
   "ventana": "ultimas 3 horas",
-  "total": 2,
-  "fuentes": [
-    "Google News",
-    "Medios nacionales"
-  ],
+  "total": 0,
+  "fuentes": [],
   "para_mapa": [],
-  "grupos": [
-    {
-      "tipo": "bloqueo",
-      "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "75944180",
-          "tipo": "bloqueo",
-          "ruta": "Tráfico en las carreteras de México hoy: Noticias sobre bloqueos...",
-          "descripcion": "Tráfico en las carreteras de México hoy: Noticias sobre bloqueos y accidentes EN VIVO este 8 de mayo 2026 - TV Azteca. Tráfico en las carreteras de México hoy: Noticias sobre bloqueos y accidentes EN VIVO este 8 de mayo 2026 TV Azteca",
-          "recomendacion": "",
-          "fecha": "8 mayo 2026 · 16:31 CST",
-          "fuente": "TV Azteca",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaW5LYWNxNGFuOUFZSnZMNlZYVVlEYVpzQ1NYaVdzOW5UdTgyd0dJd0pla05yWWM2UEQxYzVNR0p0NjUwTzhNQTRYUkJhMDNuOVZidDV6UU1xSnY2MmFEX0JWWGRxQlJZaTktREJYLXg2akh5dlRIWHQ0LVlvamV0VDZTcXBsUHFCa2lvZnlsdDhJNm9ZLVhyWTRzQXMzWDdGWkxTb3hWT2o3Q3I0WTRaZ01wWnRXdGZQVmwwbjFVV0w3STZPUzRr?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        }
-      ]
-    },
-    {
-      "tipo": "cierre_parcial",
-      "color": "amarillo",
-      "icono": "🟡",
-      "label": "CIERRE PARCIAL / ACCIDENTES",
-      "col2": true,
-      "alertas": [
-        {
-          "id": "4aac34b6",
-          "tipo": "cierre_parcial",
-          "ruta": "Fallece colaborador de Grecia Quiroz tras accidente automovilístico...",
-          "descripcion": "Fallece colaborador de Grecia Quiroz tras accidente automovilístico. Un colaborador de la presidenta municipal de Uruapan, Grecia Quiroz, falleció tras un accidente automovilístico en la carretera Morelia-Pátzcuaro, en el estado de Michoacán.",
-          "recomendacion": "",
-          "fecha": "8 mayo 2026 · 16:12 CST",
-          "fuente": "24 Horas",
-          "url": "https://24-horas.mx/estados/fallece-colaborador-de-grecia-quiroz-tras-accidente-automovilistico/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
-        }
-      ]
-    }
-  ]
+  "grupos": []
 }
