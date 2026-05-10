@@ -1,51 +1,8 @@
 {
-  "generado": "2026-05-09T16:29:42.329544-06:00",
+  "generado": "2026-05-10T01:36:36.859659-06:00",
   "ventana": "ultimas 3 horas",
-  "total": 1,
-  "fuentes": [
-    "Google News"
-  ],
-  "para_mapa": [
-    {
-      "id": "3a12220c",
-      "tipo": "cierre_total",
-      "ruta": "carretera de Escuinapa",
-      "descripcion": "“¡Es camarón!”: Captan rapiña tras volcadura de camión en carretera de Escuinapa, Sinaloa - TV Azteca. “¡Es camarón!”: Captan rapiña tras volcadura de camión en carretera de Escuinapa, Sinaloa TV Azteca",
-      "recomendacion": "",
-      "fecha": "9 mayo 2026 · 14:14 CST",
-      "fuente": "TV Azteca",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNWVSMExBZW9rVmZEREItZzNQWEU0MkRyZElRNUdKRW53V3o4NDVRWTRHX3BVT0d2RnpvMzNWT2hTeTcyTkhHLTVxb09qdzNnbmVZbUcwWFd2Nmo2aEhNM3NmMWVOT1o2c00zTnJ0UWNWZHJnN0FubUlQUjN5OGFTYnF3ek05dnFDRl9jNEZXMHVnTDVKV0w2amtoRS1tUlphSzZCNXFBLS0yQVQyQ1FodnhGcw?oc=5",
-      "dot_color": "#e74c3c",
-      "badge": "badge-cierre-total",
-      "badge_txt": "CIERRE TOTAL",
-      "lat": 24.8,
-      "lon": -107.39
-    }
-  ],
-  "grupos": [
-    {
-      "tipo": "cierre_total",
-      "color": "rojo",
-      "icono": "🔴",
-      "label": "CIERRE TOTAL",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "3a12220c",
-          "tipo": "cierre_total",
-          "ruta": "carretera de Escuinapa",
-          "descripcion": "“¡Es camarón!”: Captan rapiña tras volcadura de camión en carretera de Escuinapa, Sinaloa - TV Azteca. “¡Es camarón!”: Captan rapiña tras volcadura de camión en carretera de Escuinapa, Sinaloa TV Azteca",
-          "recomendacion": "",
-          "fecha": "9 mayo 2026 · 14:14 CST",
-          "fuente": "TV Azteca",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNWVSMExBZW9rVmZEREItZzNQWEU0MkRyZElRNUdKRW53V3o4NDVRWTRHX3BVT0d2RnpvMzNWT2hTeTcyTkhHLTVxb09qdzNnbmVZbUcwWFd2Nmo2aEhNM3NmMWVOT1o2c00zTnJ0UWNWZHJnN0FubUlQUjN5OGFTYnF3ek05dnFDRl9jNEZXMHVnTDVKV0w2amtoRS1tUlphSzZCNXFBLS0yQVQyQ1FodnhGcw?oc=5",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL",
-          "lat": 24.8,
-          "lon": -107.39
-        }
-      ]
-    }
-  ]
+  "total": 0,
+  "fuentes": [],
+  "para_mapa": [],
+  "grupos": []
 }
