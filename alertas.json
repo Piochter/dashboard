@@ -1,8 +1,33 @@
 {
-  "generado": "2026-05-10T08:42:20.331899-06:00",
+  "generado": "2026-05-10T11:40:28.493182-06:00",
   "ventana": "ultimas 3 horas",
-  "total": 0,
-  "fuentes": [],
+  "total": 1,
+  "fuentes": [
+    "Google News"
+  ],
   "para_mapa": [],
-  "grupos": []
+  "grupos": [
+    {
+      "tipo": "bloqueo",
+      "color": "rojo",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "ab83608f",
+          "tipo": "bloqueo",
+          "ruta": "Bloqueos carreteras HOY 10 de mayo: Autopistas cerradas en México,...",
+          "descripcion": "Bloqueos carreteras HOY 10 de mayo: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 10 de mayo: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
+          "recomendacion": "",
+          "fecha": "10 mayo 2026 · 09:03 CST",
+          "fuente": "Eje Central",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOVGNNeG5tMnRzYjlNd1l3S1Y0YTJfOGhKeG5TbGxHbUhrYXNqQVcxbTk0TVpNS3FWa0loR2hvejJaclNvM2FHWlBSd0liX08yeHZqZlJKblZuWkhKbzl4S2U3Z2JKcUQyaVlNNzc1VDRjbXZ3SVpWUnozUzFMUVJ0SEFmSUxKUXJUWHd0aVBaUzVWbEVWaEJrMXZTWWEzbjk0ZU9DX2Y5QUtxRllKRmlNTzgzQWdsbm92ZkJnNm1CLWRLaDFmbG5ud2pVdk1PRTJKNVhaNGZQZy1QSVRRaTZRRFNySEVmdw?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        }
+      ]
+    }
+  ]
 }
