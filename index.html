@@ -3478,7 +3478,21 @@ bacheData.forEach(b => {
   capaSinCobertura.addLayer(linea);
 });
 console.log(`   Zonas de Bache (rutas): ${bacheData.length}`);
+// ========== TRÁFICO EN VIVO — TomTom ==========
+const TOMTOM_KEY = 'a8883f9d-ea47-4ab6-b617-83cefefbc9e8';
 
+const capaTraficoFlujo = L.tileLayer(
+  'https://api.tomtom.com/traffic/map/4/tile/flow/relative0/{z}/{x}/{y}.png?key=' + TOMTOM_KEY,
+  { maxZoom: 22, opacity: 0.8, attribution: '&copy; TomTom Traffic' }
+);
+
+const capaTraficoIncidentes = L.tileLayer(
+  'https://api.tomtom.com/traffic/map/4/tile/incidents/s3/{z}/{x}/{y}.png?key=' + TOMTOM_KEY,
+  { maxZoom: 22, opacity: 0.9, attribution: '&copy; TomTom Incidents' }
+);
+
+capaTraficoFlujo.addTo(map);
+capaTraficoIncidentes.addTo(map);
 // ========== AGREGAR CONTROL DE CAPAS AL MAPA ==========
 const controlCapas = L.control.layers(null, {
   "🔥 Robos (Mapa de Calor)": capaRobos,
@@ -3487,7 +3501,9 @@ const controlCapas = L.control.layers(null, {
   "🚔 Comandancias": capaComandancias,
   "📵 Sin Cobertura / Zonas de Bache": capaSinCobertura,
   "🅿️ Pensiones": capaPensiones,
-  "🛡️ Parador Seguro": capaParadorSeguro
+ "🛡️ Parador Seguro": capaParadorSeguro,
+  "🚦 Flujo de Tráfico": capaTraficoFlujo,
+  "🚧 Incidentes Viales": capaTraficoIncidentes
 }, {position: 'topright', collapsed: false}).addTo(map);
 
 // Contador de instalaciones
