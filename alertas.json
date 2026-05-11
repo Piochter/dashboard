@@ -1,10 +1,11 @@
 {
-  "ultima_actualizacion": "2026-05-11T12:05:46.255520-06:00",
-  "ultima_actualizacion_legible": "11 de mayo de 2026 · 12:05 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-05-11T16:19:20.910839-06:00",
+  "ultima_actualizacion_legible": "11 de mayo de 2026 · 16:19 CST",
+  "total": 2,
   "ventana": "últimas 3 horas",
   "fuentes": [
-    "Google News"
+    "Google News",
+    "Medios nacionales"
   ],
   "grupos": [
     {
@@ -15,21 +16,49 @@
       "col2": false,
       "alertas": [
         {
-          "id": "c0addc66",
+          "id": "a6457735",
           "tipo": "bloqueo",
-          "ruta": "Bloqueos carreteras HOY 11 de mayo: Autopistas cerradas en México,…",
-          "descripcion": "Bloqueos carreteras HOY 11 de mayo: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - ejecentral.com.mx. Bloqueos carreteras HOY 11 de mayo: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE ejecentral.com.mx",
+          "ruta": "Mantienen bloqueo en accesos al AIFA: ¿Qué pasa en carreteras…",
+          "descripcion": "Mantienen bloqueo en accesos al AIFA: ¿Qué pasa en carreteras de México hoy 11 de mayo? - TV Azteca. Mantienen bloqueo en accesos al AIFA: ¿Qué pasa en carreteras de México hoy 11 de mayo? TV Azteca",
           "recomendacion": "",
-          "fecha": "11 mayo 2026 · 07:11 CST",
-          "fuente": "ejecentral.com.mx",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNVzVha0xFU25wSm1BUGhEQi1ncTh0anFpaXJQQmF6dVVrbk9HNmNhRVRKU01HTm5TR09VYXBQaHctYy1jcVB4V2E3Ukd1ckpGdzFYOWxJMmw2NU44UGFuV245Xzk1OUpzeXJxNXpaMUdMVFRWQnVBNTVOeDlKbDBGTUdWU3dIT2NKNlhDUnk4YTBSelhMOFhNS3I4YURnaFFkWG5ZRm9aZGthZjU4X2ZLQjVaTGNwWWhxS1l5cWZfNVBqQjVCNkQ0UEFJN2pvdWNRT3NvLWFIM01NblN3ckY1ZEtyYW1mUQ?oc=5",
+          "fecha": "11 mayo 2026 · 15:32 CST",
+          "fuente": "TV Azteca",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUEZha0xCRVM0aThqT0p4MGNLSXRCV0lwRlFEcmwtd0xzT21Sdm9mb2U3OV9taDJzUURxX2VVZm9IVUhPa2YtYnQxcjNTLXpuZUJiZjBnc0V0VTJxQ2U3Tk1BWmlKOUVVUk4wTHB0YnMxeVAzMWFiXzZ3WEdUMktXWnJYbXBpOXdKX0FCMkxOUjN2SzdBVlU5Snlmdkkycmtkd2NTUmhlSl9kWVBlazB5bjM0OVpWUVBhV21xSjVUdw?oc=5",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO"
+        },
+        {
+          "id": "477763c8",
+          "tipo": "bloqueo",
+          "ruta": "Extrabajadores de AHMSA se enfrentan con policías en Coahuila por…",
+          "descripcion": "Extrabajadores de AHMSA se enfrentan con policías en Coahuila por bloqueo de carretera. Los exempleados de AHMSA exigen ser atentidos por la presidenta Claudia Sheinbaum.",
+          "recomendacion": "",
+          "fecha": "11 mayo 2026 · 16:11 CST",
+          "fuente": "El Financiero",
+          "url": "https://www.elfinanciero.com.mx/estados/2026/05/11/extrabajadores-de-ahmsa-se-enfrentan-con-policias-en-coahuila-por-bloqueo-de-carretera/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 27.06,
+          "lon": -101.71
         }
       ]
     }
   ],
-  "para_mapa": [],
-  "nota": "Sin nuevos datos. Última actualización exitosa conservada."
+  "para_mapa": [
+    {
+      "id": "477763c8",
+      "tipo": "bloqueo",
+      "ruta": "Extrabajadores de AHMSA se enfrentan con policías en Coahuila por…",
+      "descripcion": "Extrabajadores de AHMSA se enfrentan con policías en Coahuila por bloqueo de carretera. Los exempleados de AHMSA exigen ser atentidos por la presidenta Claudia Sheinbaum.",
+      "fecha": "11 mayo 2026 · 16:11 CST",
+      "fuente": "El Financiero",
+      "url": "https://www.elfinanciero.com.mx/estados/2026/05/11/extrabajadores-de-ahmsa-se-enfrentan-con-policias-en-coahuila-por-bloqueo-de-carretera/",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 27.06,
+      "lon": -101.71
+    }
+  ]
 }
