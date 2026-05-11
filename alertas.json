@@ -1,6 +1,6 @@
 {
-  "ultima_actualizacion": "2026-05-11T09:33:34.381911-06:00",
-  "ultima_actualizacion_legible": "11 de mayo de 2026 · 09:33 CST",
+  "ultima_actualizacion": "2026-05-11T12:05:46.255520-06:00",
+  "ultima_actualizacion_legible": "11 de mayo de 2026 · 12:05 CST",
   "total": 1,
   "ventana": "últimas 3 horas",
   "fuentes": [
@@ -30,5 +30,6 @@
       ]
     }
   ],
-  "para_mapa": []
+  "para_mapa": [],
+  "nota": "Sin nuevos datos. Última actualización exitosa conservada."
 }
