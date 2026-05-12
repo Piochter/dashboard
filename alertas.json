@@ -1,6 +1,6 @@
 {
-  "ultima_actualizacion": "2026-05-11T16:19:20.910839-06:00",
-  "ultima_actualizacion_legible": "11 de mayo de 2026 · 16:19 CST",
+  "ultima_actualizacion": "2026-05-12T02:14:49.333064-06:00",
+  "ultima_actualizacion_legible": "12 de mayo de 2026 · 02:14 CST",
   "total": 2,
   "ventana": "últimas 3 horas",
   "fuentes": [
@@ -60,5 +60,6 @@
       "lat": 27.06,
       "lon": -101.71
     }
-  ]
+  ],
+  "nota": "Sin nuevos datos. Última actualización exitosa conservada."
 }
