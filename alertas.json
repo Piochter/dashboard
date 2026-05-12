@@ -1,11 +1,12 @@
 {
-  "ultima_actualizacion": "2026-05-12T02:14:49.333064-06:00",
-  "ultima_actualizacion_legible": "12 de mayo de 2026 · 02:14 CST",
-  "total": 2,
-  "ventana": "últimas 3 horas",
+  "ultima_actualizacion": "2026-05-12T09:32:01.531471-06:00",
+  "ultima_actualizacion_legible": "12 de mayo de 2026 · 09:32 CST",
+  "total": 15,
+  "ventana": "últimas 24 horas",
   "fuentes": [
     "Google News",
-    "Medios nacionales"
+    "Medios nacionales",
+    "Medios regionales"
   ],
   "grupos": [
     {
@@ -16,12 +17,127 @@
       "col2": false,
       "alertas": [
         {
-          "id": "a6457735",
+          "id": "afcddd4a",
           "tipo": "bloqueo",
-          "ruta": "Mantienen bloqueo en accesos al AIFA: ¿Qué pasa en carreteras…",
-          "descripcion": "Mantienen bloqueo en accesos al AIFA: ¿Qué pasa en carreteras de México hoy 11 de mayo? - TV Azteca. Mantienen bloqueo en accesos al AIFA: ¿Qué pasa en carreteras de México hoy 11 de mayo? TV Azteca",
+          "ruta": "Caos en San Jerónimo y Luis Cabrera por bloqueo en…",
+          "descripcion": "Caos en San Jerónimo y Luis Cabrera por bloqueo en la Supervía Poniente. La movilidad en el sur de la CDMX colapsó este martes debido a un bloqueo en la Supervía, afectando San Jerónimo y Luis Cabrera.",
           "recomendacion": "",
-          "fecha": "11 mayo 2026 · 15:32 CST",
+          "fecha": "12 mayo 2026 · 09:09 CST",
+          "fecha_iso": "2026-05-12T09:09:00-06:00",
+          "fuente": "24 Horas",
+          "url": "https://24-horas.mx/cdmx/caos-en-san-jeronimo-y-luis-cabrera-por-bloqueo-en-la-supervia-poniente/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 19.43,
+          "lon": -99.13
+        },
+        {
+          "id": "4b8556d9",
+          "tipo": "bloqueo",
+          "ruta": "La ‘cuenta’ de la guerra en Irán: Bloqueo y bombardeos…",
+          "descripcion": "La ‘cuenta’ de la guerra en Irán: Bloqueo y bombardeos cuestan 29 mil mdd a EU. Pete Hegseth, secretario de Guerra de Donald Trump, no descartó que EU pueda 'subir la tensión' con Irán ante el impasse entre ambos países en las negociaciones de un acuerdo de paz.",
+          "recomendacion": "",
+          "fecha": "12 mayo 2026 · 08:54 CST",
+          "fecha_iso": "2026-05-12T08:54:00-06:00",
+          "fuente": "El Financiero",
+          "url": "https://www.elfinanciero.com.mx/mundo/2026/05/12/guerra-en-iran-cuesta-29-mil-millones-de-dolares-a-eu/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
+        {
+          "id": "d167052c",
+          "tipo": "bloqueo",
+          "ruta": "AIFA reporta afectaciones en sus accesos y salidas por bloqueo…",
+          "descripcion": "AIFA reporta afectaciones en sus accesos y salidas por bloqueo. El AIFA recomienda anticipar tiempos y utilizar alternativas de transporte como Mexibús o el Tren Felipe Ángeles",
+          "recomendacion": "",
+          "fecha": "12 mayo 2026 · 08:50 CST",
+          "fecha_iso": "2026-05-12T08:50:00-06:00",
+          "fuente": "El Informador Jalisco",
+          "url": "https://www.informador.mx/mexico/aifa-reporta-afectaciones-en-sus-accesos-y-salidas-por-bloqueo-que-mantienen-personas-20260512-0057.html",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
+        {
+          "id": "e33543be",
+          "tipo": "bloqueo",
+          "ruta": "Trump declara ventaja en negociaciones con Irán por bloqueo naval…",
+          "descripcion": "Trump declara ventaja en negociaciones con Irán por bloqueo naval. La semana pasada, el mandatario estadounidense amenazó con ataques de mayor intensidad si Irán no acepta sus condiciones para la paz",
+          "recomendacion": "",
+          "fecha": "12 mayo 2026 · 08:46 CST",
+          "fecha_iso": "2026-05-12T08:46:00-06:00",
+          "fuente": "El Informador Jalisco",
+          "url": "https://www.informador.mx/internacional/trump-declara-ventaja-en-negociaciones-con-iran-por-bloqueo-naval-20260512-0054.html",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
+        {
+          "id": "48c57492",
+          "tipo": "bloqueo",
+          "ruta": "Bloqueos carreteras HOY 12 de mayo: Autopistas cerradas en México,…",
+          "descripcion": "Bloqueos carreteras HOY 12 de mayo: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 12 de mayo: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
+          "recomendacion": "",
+          "fecha": "12 mayo 2026 · 07:26 CST",
+          "fecha_iso": "2026-05-12T07:26:00-06:00",
+          "fuente": "Eje Central",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOUjM1Z0Y4QXFudVRZX21vYjhTUlExMlk1R1g4N1ZkVGJfQXdvRDh2SWh2anVFSHYyRzcwWGhlRFN2VmdmZkhfOVU3VU1fV1FZc1doQjJYdlJleUQ1SHdDZGdaaG9OOTNJNTFITUpkbXNCTzdJbWpWc2MwUFFTdmRFa2ZHbTR0NGVRN0FOYmdfUVE0N01STkthOFFfQ1AzTlVSbk5vQno3NURYNHNRaG9ySTE1MjZUbm9XeHNDRWJkU3BOZFBkbTRPUWFaRzVya3V6S2RIYWQyUHdTd2hjZ3NjeFg3NmlrZw?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
+        {
+          "id": "c6726778",
+          "tipo": "bloqueo",
+          "ruta": "EN VIVO: ¿Hay bloqueos en carreteras hoy? Cierres y tráfico…",
+          "descripcion": "EN VIVO: ¿Hay bloqueos en carreteras hoy? Cierres y tráfico en autopistas de México este 12 de mayo - TV Azteca. EN VIVO: ¿Hay bloqueos en carreteras hoy? Cierres y tráfico en autopistas de México este 12 de mayo TV Azteca",
+          "recomendacion": "",
+          "fecha": "12 mayo 2026 · 07:04 CST",
+          "fecha_iso": "2026-05-12T07:04:00-06:00",
+          "fuente": "TV Azteca",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUy1kNE1SWC02ME8yMG5CSWxtaElkdzZUWU9tdFRPN3R6NU1uaHd2VFUtbVJaaFFQeVpaVTNFTmtCdFFNUGlqWXpYdlNqdWk2SU9ROVRDVktnV3ZVcEtnVDluWE04clNLcEFiMUdVMjZOZVV1WmI2dnZFRkM1Sy16UUJPTGo1RVJ3Z2ExQjBUNzhGQTJ2UmdNQ2hRVV9Zam9YR3BoY0pzeHo2cFl3dzBhMmtRSFR5TFFxcDY4WWJBREI1WUp0V3N3UE5PYw?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
+        {
+          "id": "b062b5c6",
+          "tipo": "bloqueo",
+          "ruta": "Irán lanza un ultimátum a EU para que acepte su…",
+          "descripcion": "Irán lanza un ultimátum a EU para que acepte su plan de paz. Irán indicó que exigió el fin de la guerra, el levantamiento del bloqueo a sus puertos y la liberación de sus activos congelados; mientras el presidente Donald Trump la tachó de “totalmente inaceptable”",
+          "recomendacion": "",
+          "fecha": "12 mayo 2026 · 02:00 CST",
+          "fecha_iso": "2026-05-12T02:00:00-06:00",
+          "fuente": "El Sol de México",
+          "url": "https://oem.com.mx/elsoldemexico/mundo/iran-lanza-un-ultimatum-a-eu-para-que-acepte-su-plan-de-paz-29936674",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
+        {
+          "id": "f54c9363",
+          "tipo": "bloqueo",
+          "ruta": "Mario Delgado no quedó bien ni con Clara ni con…",
+          "descripcion": "Mario Delgado no quedó bien ni con Clara ni con Claudia. Bien por Claudia Sheinbaum. La Presidenta se vio muy elegante con su apoyo a Mario Delgado Carrillo, quien le ocasionó un problema sin ninguna necesidad. Bueno, sí: adelantar el fin de cursos con la intención de contener protestas del magisterio rebelde en cuanto a educar y aliado en cuanto a votar. Ya […]",
+          "recomendacion": "",
+          "fecha": "12 mayo 2026 · 00:01 CST",
+          "fecha_iso": "2026-05-12T00:01:00-06:00",
+          "fuente": "24 Horas",
+          "url": "https://24-horas.mx/columnas/politica-columnas/telefono-rojo/mario-delgado-no-quedo-bien-ni-con-clara-ni-con-claudia/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
+        {
+          "id": "3319aab8",
+          "tipo": "bloqueo",
+          "ruta": "Suman 16 horas de bloqueo en accesos al AIFA: ¿Qué…",
+          "descripcion": "Suman 16 horas de bloqueo en accesos al AIFA: ¿Qué pasa en carreteras de México hoy 11 de mayo? - TV Azteca. Suman 16 horas de bloqueo en accesos al AIFA: ¿Qué pasa en carreteras de México hoy 11 de mayo? TV Azteca",
+          "recomendacion": "",
+          "fecha": "11 mayo 2026 · 22:58 CST",
+          "fecha_iso": "2026-05-11T22:58:00-06:00",
           "fuente": "TV Azteca",
           "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUEZha0xCRVM0aThqT0p4MGNLSXRCV0lwRlFEcmwtd0xzT21Sdm9mb2U3OV9taDJzUURxX2VVZm9IVUhPa2YtYnQxcjNTLXpuZUJiZjBnc0V0VTJxQ2U3Tk1BWmlKOUVVUk4wTHB0YnMxeVAzMWFiXzZ3WEdUMktXWnJYbXBpOXdKX0FCMkxOUjN2SzdBVlU5Snlmdkkycmtkd2NTUmhlSl9kWVBlazB5bjM0OVpWUVBhV21xSjVUdw?oc=5",
           "dot_color": "#8e44ad",
@@ -29,37 +145,153 @@
           "badge_txt": "BLOQUEO"
         },
         {
-          "id": "477763c8",
+          "id": "73b22f97",
           "tipo": "bloqueo",
-          "ruta": "Extrabajadores de AHMSA se enfrentan con policías en Coahuila por…",
-          "descripcion": "Extrabajadores de AHMSA se enfrentan con policías en Coahuila por bloqueo de carretera. Los exempleados de AHMSA exigen ser atentidos por la presidenta Claudia Sheinbaum.",
+          "ruta": "carretera de Ecatepec al AIFA HOY 11 de mayo genera retrasos de pasajeros - Telediario Méx",
+          "descripcion": "Bloqueo en carretera de Ecatepec al AIFA HOY 11 de mayo genera retrasos de pasajeros - Telediario México. Bloqueo en carretera de Ecatepec al AIFA HOY 11 de mayo genera retrasos de pasajeros Telediario México",
           "recomendacion": "",
-          "fecha": "11 mayo 2026 · 16:11 CST",
-          "fuente": "El Financiero",
-          "url": "https://www.elfinanciero.com.mx/estados/2026/05/11/extrabajadores-de-ahmsa-se-enfrentan-con-policias-en-coahuila-por-bloqueo-de-carretera/",
+          "fecha": "11 mayo 2026 · 09:34 CST",
+          "fecha_iso": "2026-05-11T09:34:00-06:00",
+          "fuente": "Telediario México",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcEZDZUpnMC0xWXFZbnNvUUJ1YUJONDVBc0V3MldKdFA2ZzIxNWZwSkhkb2NFVk44QXFxMzJULXNFRnVydm14YkJDSmpXMkc2bG1ONHhqc0VkUnRKc1BNSDhDcGtIM19PdGtJMFU4U0R1bTM4bmJ4VzBLc2VPVjJYWWpnNmU4MzgxRTV1bUJVYndsdHhuNUUxTF9JbnNTSDUxOHBz0gGjAUFVX3lxTFAzVE9meDBCeVBkbFRsWlp5SkdfMWRULXY5R0NFQmZWMWdUaDBncXVHVTRfdXhoT0xDRmttYS1vQmlsUC1mZkZ3azlsLVp1RFVxaFJ4ZE9GSjB3SmVNYjBwc2VTUFR4SEFtbXd2WWJwbktWN3c4dXdKMWYtS3VCbHpCbjNuTVVncXBuWWIyRHlyYnZlSWxJbHJ2cFEzZnh6d2ZqamM?oc=5",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 27.06,
-          "lon": -101.71
+          "badge_txt": "BLOQUEO"
+        }
+      ]
+    },
+    {
+      "tipo": "cierre_parcial",
+      "color": "amarillo",
+      "icono": "🟡",
+      "label": "CIERRE PARCIAL / ACCIDENTES",
+      "col2": true,
+      "alertas": [
+        {
+          "id": "ee2fa827",
+          "tipo": "cierre_parcial",
+          "ruta": "autopista Colima-Manzanillo a partir de este viernes - Meganoticias",
+          "descripcion": "Habrá cierres nocturnos en autopista Colima-Manzanillo a partir de este viernes - Meganoticias.MX. Habrá cierres nocturnos en autopista Colima-Manzanillo a partir de este viernes Meganoticias.MX",
+          "recomendacion": "",
+          "fecha": "11 mayo 2026 · 21:47 CST",
+          "fecha_iso": "2026-05-11T21:47:00-06:00",
+          "fuente": "Meganoticias.MX",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbUo4RjYyeC1BZWtGNzNHS1g5ZzhxRXR6M1ZJczJ3RVhacUxyRUEwaUpiYVZJM3ZvQy1CVGxEUUFRSXkxaUxBUDBEMnhZUXZxdEg0d3E3bmswcG11elQyZ3UxRGxRSGk1cVBHNnllZWRfa01YQ2JKN2JTVEplWTVPeGI1aU5KWEthX0ptQWpvZWRBY3MtUC1MRkNfWTktWUhZSkhwYllsSDFIdjM5YnJTcXNnRTBwWGtYOUcyVXplMEgwUDhqdnc?oc=5",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 19.24,
+          "lon": -103.72
+        },
+        {
+          "id": "6194d7e9",
+          "tipo": "cierre_parcial",
+          "ruta": "SRE asegura que hay tres migrantes mexicanos entre los muertos…",
+          "descripcion": "SRE asegura que hay tres migrantes mexicanos entre los muertos en contenedor en Texas. Autoridades de Laredo, Texas, encontraron los cadáveres de cinco hombres y una mujer en el interior de una caja seca de ferrocarril; tres continúan en proceso de indentificación",
+          "recomendacion": "",
+          "fecha": "11 mayo 2026 · 17:15 CST",
+          "fecha_iso": "2026-05-11T17:15:00-06:00",
+          "fuente": "El Sol de México",
+          "url": "https://oem.com.mx/elsoldemexico/mexico/sre-asegura-que-hay-tres-migrantes-mexicanos-entre-los-muertos-en-contenedor-en-texas-29932877",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        },
+        {
+          "id": "f47315fd",
+          "tipo": "cierre_parcial",
+          "ruta": "Accidentes en Dos Bocas revelan el costo de anteponer lo…",
+          "descripcion": "Accidentes en Dos Bocas revelan el costo de anteponer lo político a lo técnico. Incendios, fallas eléctricas y emanaciones de vapor en la refinería Olmeca exhiben los riesgos de acelerar proyectos industriales complejos bajo calendarios políticos y tiempos récord de construcción.",
+          "recomendacion": "",
+          "fecha": "11 mayo 2026 · 12:50 CST",
+          "fecha_iso": "2026-05-11T12:50:00-06:00",
+          "fuente": "Expansión",
+          "url": "https://expansion.mx/empresas/2026/05/11/accidentes-refineria-dos-bocas-evidencian-costos-ocultos",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        }
+      ]
+    },
+    {
+      "tipo": "carga_vehicular",
+      "color": "azul",
+      "icono": "🚗",
+      "label": "CARGA VEHICULAR",
+      "col2": true,
+      "alertas": [
+        {
+          "id": "8bcddefc",
+          "tipo": "carga_vehicular",
+          "ruta": "Así quedó el calendario escolar en Jalisco; fechas clave por…",
+          "descripcion": "Así quedó el calendario escolar en Jalisco; fechas clave por el Mundial 2026. La SEJ confirmó que el calendario escolar mantendrá sus fechas originales para el cierre de clases, con ajustes específicos por el Mundial de Futbol",
+          "recomendacion": "",
+          "fecha": "12 mayo 2026 · 08:00 CST",
+          "fecha_iso": "2026-05-12T08:00:00-06:00",
+          "fuente": "El Informador Jalisco",
+          "url": "https://www.informador.mx/jalisco/asi-quedo-el-calendario-escolar-2025-2026-en-jalisco-fechas-clave-por-el-mundial-2026-20260512-0043.html",
+          "dot_color": "#2980b9",
+          "badge": "badge-carga",
+          "badge_txt": "CARGA VEHICULAR",
+          "lat": 20.66,
+          "lon": -103.35
+        },
+        {
+          "id": "63a2b739",
+          "tipo": "carga_vehicular",
+          "ruta": "Dejaron morir solo a Mario Delgado…",
+          "descripcion": "Dejaron morir solo a Mario Delgado. Si el secretario de Educación Pública, Mario Delgado, quedó mal al anunciar un recorte de 27 días al ciclo escolar 2025-2026 y adelantar el cierre para el 5 de junio, bajo el argumento de proteger a los alumnos de las altas temperaturas (olas de calor) y por el arranque del Mundial de Futbol, los titulares […]",
+          "recomendacion": "",
+          "fecha": "12 mayo 2026 · 00:01 CST",
+          "fecha_iso": "2026-05-12T00:01:00-06:00",
+          "fuente": "24 Horas",
+          "url": "https://24-horas.mx/columnas/politica-columnas/esta-boca-es-mia/dejaron-morir-solo-a-mario-delgado/",
+          "dot_color": "#2980b9",
+          "badge": "badge-carga",
+          "badge_txt": "CARGA VEHICULAR"
         }
       ]
     }
   ],
   "para_mapa": [
     {
-      "id": "477763c8",
+      "id": "afcddd4a",
       "tipo": "bloqueo",
-      "ruta": "Extrabajadores de AHMSA se enfrentan con policías en Coahuila por…",
-      "descripcion": "Extrabajadores de AHMSA se enfrentan con policías en Coahuila por bloqueo de carretera. Los exempleados de AHMSA exigen ser atentidos por la presidenta Claudia Sheinbaum.",
-      "fecha": "11 mayo 2026 · 16:11 CST",
-      "fuente": "El Financiero",
-      "url": "https://www.elfinanciero.com.mx/estados/2026/05/11/extrabajadores-de-ahmsa-se-enfrentan-con-policias-en-coahuila-por-bloqueo-de-carretera/",
+      "ruta": "Caos en San Jerónimo y Luis Cabrera por bloqueo en…",
+      "descripcion": "Caos en San Jerónimo y Luis Cabrera por bloqueo en la Supervía Poniente. La movilidad en el sur de la CDMX colapsó este martes debido a un bloqueo en la Supervía, afectando San Jerónimo y Luis Cabrera.",
+      "fecha": "12 mayo 2026 · 09:09 CST",
+      "fuente": "24 Horas",
+      "url": "https://24-horas.mx/cdmx/caos-en-san-jeronimo-y-luis-cabrera-por-bloqueo-en-la-supervia-poniente/",
       "dot_color": "#8e44ad",
       "badge_txt": "BLOQUEO",
-      "lat": 27.06,
-      "lon": -101.71
+      "lat": 19.43,
+      "lon": -99.13
+    },
+    {
+      "id": "8bcddefc",
+      "tipo": "carga_vehicular",
+      "ruta": "Así quedó el calendario escolar en Jalisco; fechas clave por…",
+      "descripcion": "Así quedó el calendario escolar en Jalisco; fechas clave por el Mundial 2026. La SEJ confirmó que el calendario escolar mantendrá sus fechas originales para el cierre de clases, con ajustes específicos por el Mundial de Futbol",
+      "fecha": "12 mayo 2026 · 08:00 CST",
+      "fuente": "El Informador Jalisco",
+      "url": "https://www.informador.mx/jalisco/asi-quedo-el-calendario-escolar-2025-2026-en-jalisco-fechas-clave-por-el-mundial-2026-20260512-0043.html",
+      "dot_color": "#2980b9",
+      "badge_txt": "CARGA VEHICULAR",
+      "lat": 20.66,
+      "lon": -103.35
+    },
+    {
+      "id": "ee2fa827",
+      "tipo": "cierre_parcial",
+      "ruta": "autopista Colima-Manzanillo a partir de este viernes - Meganoticias",
+      "descripcion": "Habrá cierres nocturnos en autopista Colima-Manzanillo a partir de este viernes - Meganoticias.MX. Habrá cierres nocturnos en autopista Colima-Manzanillo a partir de este viernes Meganoticias.MX",
+      "fecha": "11 mayo 2026 · 21:47 CST",
+      "fuente": "Meganoticias.MX",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbUo4RjYyeC1BZWtGNzNHS1g5ZzhxRXR6M1ZJczJ3RVhacUxyRUEwaUpiYVZJM3ZvQy1CVGxEUUFRSXkxaUxBUDBEMnhZUXZxdEg0d3E3bmswcG11elQyZ3UxRGxRSGk1cVBHNnllZWRfa01YQ2JKN2JTVEplWTVPeGI1aU5KWEthX0ptQWpvZWRBY3MtUC1MRkNfWTktWUhZSkhwYllsSDFIdjM5YnJTcXNnRTBwWGtYOUcyVXplMEgwUDhqdnc?oc=5",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 19.24,
+      "lon": -103.72
     }
-  ],
-  "nota": "Sin nuevos datos. Última actualización exitosa conservada."
+  ]
 }
