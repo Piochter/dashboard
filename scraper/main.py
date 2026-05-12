@@ -8,8 +8,8 @@
 ║    • RSS regionales    — 10 medios estatales                        ║
 ║    • CAPUFE directo    — scraping página oficial                    ║
 ║    • CONAGUA/SMN       — XML oficial                                ║
-║    • Nitter/X          — 26 cuentas viales                         ║
-║  Ventana: últimas LOOKBACK_HORAS horas (default 3, rolling)         ║
+║    • Nitter/X          — RSS de @CAPUFE_Oficial y @GN_Carreteras    ║
+║  Ventana: últimas LOOKBACK_HORAS horas (default 24, configurable)   ║
 ╚══════════════════════════════════════════════════════════════════════╝
 """
 
@@ -23,12 +23,13 @@ from bs4 import BeautifulSoup
 # ─────────────────────────────────────────────────────────────────────
 # CONFIGURACIÓN  (sobreescribible con variables de entorno)
 # ─────────────────────────────────────────────────────────────────────
-LOOKBACK_HORAS = int(os.getenv("LOOKBACK_HORAS", "3"))    # ventana rodante
-MAX_POR_FEED   = int(os.getenv("MAX_POR_FEED",   "30"))
-RUN_MODE       = os.getenv("RUN_MODE", "all")
+LOOKBACK_HORAS    = int(os.getenv("SCRAPER_LOOKBACK_MINUTES", str(24*60))) // 60  # ventana de tiempo
+MAX_POR_FEED      = int(os.getenv("MAX_POR_FEED",   "30"))   # entradas a leer por feed
+RUN_MODE          = os.getenv("SCRAPER_RUN_MODE", "all")             # all | official_only | media_only
+ACCEPT_UNDATED    = os.getenv("SCRAPER_ACCEPT_UNDATED", "false").lower() == "true"  # rechazar sin fecha
 
 # ─────────────────────────────────────────────────────────────────────
-# GOOGLE NEWS RSS
+# GOOGLE NEWS RSS — 28 queries segmentadas por tipo y región
 # ─────────────────────────────────────────────────────────────────────
 GNEWS_BASE = (
     "https://news.google.com/rss/search"
@@ -36,6 +37,7 @@ GNEWS_BASE = (
 )
 
 GNEWS_QUERIES = [
+    # ── Cierres generales ──────────────────────────────────────────
     "cierre carretero México autopista hoy",
     "cierre vial autopista federal México",
     "carretera cerrada México accidente hoy",
@@ -43,26 +45,31 @@ GNEWS_QUERIES = [
     "GN_Carreteras cierre bloqueo México",
     "Guardia Nacional carreteras cierre México",
     "SCT SICT cierre carretera federal",
+    # ── Por tipo de incidente ──────────────────────────────────────
     "volcadura tractocamión autopista México",
     "accidente carretera México tráiler camión",
     "derrumbe deslave carretera México",
     "inundación carretera autopista México",
     "neblina cierre autopista México",
     "incendio vehículo autopista México",
+    # ── Bloqueos y manifestaciones ─────────────────────────────────
     "bloqueo manifestación carretera federal México",
     "manifestantes toma caseta autopista México",
     "comuneros bloqueo carretera México",
     "huelga paro carretera México bloqueo",
+    # ── Robos ──────────────────────────────────────────────────────
     "robo carretera autopista México asalto",
     "robo transporte de carga autopista México",
     "asalto tractocamión carretera México",
     "robo combustible pipa autopista México",
+    # ── Por autopista específica ────────────────────────────────────
     "autopista México Querétaro 57D cierre accidente",
     "autopista México Puebla 150D cierre volcadura",
     "autopista México Acapulco 95D cierre bloqueo",
     "autopista Siglo XXI Manzanillo cierre accidente",
     "autopista México Veracruz 140D cierre",
     "autopista México Laredo 85D cierre accidente",
+    # ── Regiones críticas ──────────────────────────────────────────
     "cierre carretera Oaxaca Guerrero Chiapas",
     "bloqueo carretera Tamaulipas Nuevo León",
 ]
@@ -88,19 +95,19 @@ RSS_NACIONALES = [
 ]
 
 # ─────────────────────────────────────────────────────────────────────
-# RSS MEDIOS REGIONALES
+# RSS MEDIOS REGIONALES (cobertura por estado)
 # ─────────────────────────────────────────────────────────────────────
 RSS_REGIONALES = [
-    ("El Sol de México",      "https://www.elsoldemexico.com.mx/rss.xml"),
-    ("NTR Guadalajara",       "https://ntrgdl.com/feed/"),
-    ("El Informador Jalisco", "https://www.informador.mx/rss/ultimas-noticias.xml"),
-    ("Milenio Jalisco",       "https://www.milenio.com/rss/jalisco"),
-    ("La Jornada Veracruz",   "https://www.jornadaveracruz.com.mx/feed/"),
-    ("E-consulta Puebla",     "https://e-consulta.com/feed/"),
-    ("Quadratín Michoacán",   "https://www.quadratin.com.mx/rss"),
-    ("El Sol de Sinaloa",     "https://www.elsoldesinaloa.com.mx/rss.xml"),
-    ("El Horizonte NL",       "https://www.elhorizonte.mx/rss"),
-    ("AM Guanajuato",         "https://www.am.com.mx/rss"),
+    ("El Sol de México",     "https://www.elsoldemexico.com.mx/rss.xml"),
+    ("NTR Guadalajara",      "https://ntrgdl.com/feed/"),
+    ("El Informador Jalisco","https://www.informador.mx/rss/ultimas-noticias.xml"),
+    ("Milenio Jalisco",      "https://www.milenio.com/rss/jalisco"),
+    ("La Jornada Veracruz",  "https://www.jornadaveracruz.com.mx/feed/"),
+    ("E-consulta Puebla",    "https://e-consulta.com/feed/"),
+    ("Quadratín Michoacán",  "https://www.quadratin.com.mx/rss"),
+    ("El Sol de Sinaloa",    "https://www.elsoldesinaloa.com.mx/rss.xml"),
+    ("El Horizonte NL",      "https://www.elhorizonte.mx/rss"),
+    ("AM Guanajuato",        "https://www.am.com.mx/rss"),
 ]
 
 # ─────────────────────────────────────────────────────────────────────
@@ -117,11 +124,11 @@ CONAGUA_URLS = [
 CAPUFE_URLS = [
     "https://www.capufe.gob.mx/site/xml/ReporteVialidad.xml",
     "https://www.capufe.gob.mx/site/webSCT/comunicados.xml",
-    "https://www.capufe.gob.mx/norteMonitor/",
+    "https://www.capufe.gob.mx/norteMonitor/",   # HTML fallback
 ]
 
 # ─────────────────────────────────────────────────────────────────────
-# NITTER / X
+# NITTER — Más instancias y más cuentas
 # ─────────────────────────────────────────────────────────────────────
 NITTER_INSTANCES = [
     "https://nitter.poast.org",
@@ -135,12 +142,37 @@ NITTER_INSTANCES = [
 ]
 
 CUENTAS_X = [
-    "CAPUFE_Oficial", "GN_Carreteras", "SICT_mx", "088_GN", "SEMAR_mx", "conagua_clima",
-    "C5_CDMX", "OVIALCDMX", "SSC_CDMX", "LaDeTrafico", "CAE_AAM", "Circuito_mx",
-    "C5Edomex", "Vialidad_EDOMEX",
-    "PolVial_GobOax", "PC_Oaxaca", "RED_Michoacan", "SICT_Michoacan",
-    "SSP_Jalisco", "C4iSinaloa", "SICT_BC", "nSaltillo", "RedVialRC",
-    "SatelTrack", "LaHoraMX", "InformaOriente",
+    # ── Federales y carreteras ────────────────────────────────────
+    "CAPUFE_Oficial",       # CAPUFE oficial
+    "GN_Carreteras",        # Guardia Nacional Carreteras
+    "SICT_mx",              # Sec. Infraestructura y Transporte
+    "088_GN",               # GN emergencias
+    "SEMAR_mx",             # Secretaría de Marina
+    "conagua_clima",        # CONAGUA clima/inundaciones
+    # ── Vialidad CDMX y área metropolitana ───────────────────────
+    "C5_CDMX",              # C5 Ciudad de México
+    "OVIALCDMX",            # Observatorio Vial CDMX
+    "SSC_CDMX",             # Secretaría de Seguridad CDMX
+    "LaDeTrafico",          # Tráfico en tiempo real CDMX/ZMV
+    "CAE_AAM",              # Centro de Atención a Emergencias CDMX
+    "Circuito_mx",          # Circuito Interior / vialidades CDMX
+    # ── Estado de México ─────────────────────────────────────────
+    "C5Edomex",             # C5 Estado de México
+    "Vialidad_EDOMEX",      # Vialidad EdoMex
+    # ── Regionales ───────────────────────────────────────────────
+    "PolVial_GobOax",       # Policía Vial Oaxaca
+    "PC_Oaxaca",            # Protección Civil Oaxaca
+    "RED_Michoacan",        # Red de emergencias Michoacán
+    "SICT_Michoacan",       # SICT Michoacán
+    "SSP_Jalisco",          # SSP Jalisco
+    "C4iSinaloa",           # C4i Sinaloa
+    "SICT_BC",              # SICT Baja California
+    "nSaltillo",            # Noticias Saltillo / Coahuila
+    "RedVialRC",            # Red Vial Región Centro
+    # ── Rastreadores / medios especializados ─────────────────────
+    "SatelTrack",           # Seguimiento satelital de transporte
+    "LaHoraMX",             # La Hora MX — noticias viales
+    "InformaOriente",       # Informa Oriente (Puebla/Veracruz)
 ]
 
 # ─────────────────────────────────────────────────────────────────────
@@ -161,7 +193,7 @@ KEYWORDS = {
     "robo": [
         "robo","asalto","asaltantes","delincuentes carretera","banda",
         "robo a transporte","pipas robadas","robo de combustible",
-        "motochorros","asalto a mano armada",
+        "motochorros","delincuentes","asalto a mano armada","jalón",
     ],
     "cierre_parcial": [
         "cierre parcial","un carril","reducción de carril","maniobras",
@@ -172,47 +204,50 @@ KEYWORDS = {
     "carga_vehicular": [
         "carga vehicular","tránsito lento","lento avance","saturación",
         "congestionamiento","avance lento","tráfico pesado","cola",
-        "kilómetros de fila","fila de vehículos","retención vial",
+        "kilometros de fila","fila de vehículos","retención vial",
     ],
     "obra": [
-        "obra vial","trabajos viales","rehabilitación","mantenimiento vial",
-        "bacheo","pavimentación","reparación","señalización vial",
+        "obra vial","trabajos viales","instalación","rehabilitación",
+        "mantenimiento vial","bacheo","pavimentación","wim","reparación",
+        "señalización vial","ampliación carretera","modernización",
     ],
     "clima": [
         "inundación","lluvia intensa","neblina densa","granizo","tormenta",
-        "alerta meteorológica","frente frío","huracán","ciclón","viento fuerte",
-        "niebla","helada","nevada","pavimento resbaladizo","visibilidad reducida",
+        "alerta meteorológica","onda de calor","frente frío","norte",
+        "huracán","ciclón","viento fuerte","visibilidad reducida",
+        "niebla","helada","nevada","pavimento resbaladizo",
     ],
 }
 
 TIPO_CONFIG = {
-    "cierre_total":    dict(color="rojo",     icono="🔴", label="CIERRE TOTAL",
+    "cierre_total":    dict(color="rojo",    icono="🔴", label="CIERRE TOTAL",
                             dot="#e74c3c", badge="badge-cierre-total",
                             badge_txt="CIERRE TOTAL",    col2=False, orden=0),
-    "bloqueo":         dict(color="rojo",     icono="⛔", label="BLOQUEOS / MANIFESTACIONES",
+    "bloqueo":         dict(color="rojo",    icono="⛔", label="BLOQUEOS / MANIFESTACIONES",
                             dot="#8e44ad", badge="badge-bloqueo",
                             badge_txt="BLOQUEO",          col2=False, orden=1),
-    "robo":            dict(color="rojo",     icono="🚨", label="ROBOS EN CARRETERA",
+    "robo":            dict(color="rojo",    icono="🚨", label="ROBOS EN CARRETERA",
                             dot="#c0392b", badge="badge-robo",
                             badge_txt="ROBO",             col2=True,  orden=2),
-    "cierre_parcial":  dict(color="amarillo", icono="🟡", label="CIERRE PARCIAL / ACCIDENTES",
+    "cierre_parcial":  dict(color="amarillo",icono="🟡", label="CIERRE PARCIAL / ACCIDENTES",
                             dot="#e67e22", badge="badge-cierre-parcial",
                             badge_txt="CIERRE PARCIAL",   col2=True,  orden=3),
-    "carga_vehicular": dict(color="azul",     icono="🚗", label="CARGA VEHICULAR",
+    "carga_vehicular": dict(color="azul",    icono="🚗", label="CARGA VEHICULAR",
                             dot="#2980b9", badge="badge-carga",
                             badge_txt="CARGA VEHICULAR",  col2=True,  orden=4),
-    "obra":            dict(color="verde",    icono="🚧", label="OBRA CONTINUA",
+    "obra":            dict(color="verde",   icono="🚧", label="OBRA CONTINUA",
                             dot="#27ae60", badge="badge-obra",
                             badge_txt="OBRA CONTINUA",    col2=False, orden=5),
-    "clima":           dict(color="azul",     icono="🌧️", label="ALERTA METEOROLÓGICA",
+    "clima":           dict(color="azul",    icono="🌧️", label="ALERTA METEOROLÓGICA",
                             dot="#3498db", badge="badge-clima",
                             badge_txt="ALERTA CLIMA",     col2=False, orden=6),
 }
 
 # ─────────────────────────────────────────────────────────────────────
-# MAPA DE COORDENADAS
+# MAPA DE COORDENADAS — 70+ autopistas, carreteras y estados
 # ─────────────────────────────────────────────────────────────────────
 COORD_MAP = {
+    # ── Autopistas federales de cuota ────────────────────────────
     "mexico puebla":           (19.35, -98.40),  "150d":            (19.35, -98.40),
     "mexico queretaro":        (20.10, -99.50),  "57d":             (20.10, -99.50),
     "mexico guadalajara":      (20.40,-103.35),  "15d":             (20.40,-103.35),
@@ -245,14 +280,25 @@ COORD_MAP = {
     "mexicali tijuana":        (32.20,-115.50),
     "navojoa hermosillo":      (28.00,-109.90),
     "chihuahua ciudad juarez": (30.40,-106.40),
-    "durango mazatlan":        (24.50,-106.00),
+    "parral chihuahua":        (27.00,-105.70),
+    "durango mazatlan":        (24.50,-106.00),  "40 libre":        (24.50,-106.00),
     "veracruz coatzacoalcos":  (18.20, -94.80),
     "oaxaca istmo":            (16.50, -95.00),
     "cordoba veracruz":        (18.80, -96.90),
     "xalapa veracruz":         (19.35, -96.60),
+    "tuxpan tampico":          (21.60, -97.60),
     "villahermosa cardenas":   (18.10, -94.00),
     "merida cancun":           (20.50, -87.90),
+    "campeche merida":         (20.30, -90.30),
+    "chetumal cancun":         (19.80, -87.40),
+    "palenque san cristobal":  (17.00, -92.70),
     "tuxtla gutierrez":        (16.75, -93.12),  "190":             (16.75, -93.12),
+    "arriaga tonala":          (15.90, -93.90),
+    # ── Carreteras federales libres ───────────────────────────────
+    "carretera federal 2":     (30.00,-108.00),
+    "carretera federal 45":    (23.00,-102.50),
+    "libre federal":           (22.00,-100.00),
+    # ── Estados y zonas ───────────────────────────────────────────
     "jalisco":         (20.66,-103.35), "veracruz":    (19.18, -96.14),
     "oaxaca":          (17.06, -96.72), "guerrero":    (17.55, -99.50),
     "chiapas":         (16.75, -93.12), "puebla":      (19.04, -98.20),
@@ -281,79 +327,33 @@ COORD_MAP = {
 }
 
 # ─────────────────────────────────────────────────────────────────────
-# FILTROS
+# FALSOS POSITIVOS — noticias que no son alertas activas
 # ─────────────────────────────────────────────────────────────────────
-
-# Palabras que indican QUÉ tipo de vía (requiere AL MENOS una)
-VIAL_VIA = [
-    "carretera","autopista","libramiento","periférico","viaducto","boulevard",
-    "km ","caseta","peaje","vialidad","tramo carretero",
-    "57d","95d","150d","15d","85d","140d","130d","siglo xxi","arco norte","carretera federal",
-]
-
-# Palabras que indican QUÉ incidente (requiere AL MENOS una)
-VIAL_INCIDENTE = [
-    "cierre","bloqueo","manifestación","manifestantes","accidente","volcadura","volcó",
-    "derrumbe","deslave","inundación","neblina","niebla","robo","asalto","percance",
-    "choque","chocó","colisión","tractocamión","tráiler","obra vial","trabajos viales",
-    "retención","congestionamiento","tráfico pesado","lento avance","carril cerrado",
-    "falla mecánica","incendio vehicular","toma de caseta","protesta","paro","huelga",
-    "policía vial","alerta vial","capufe","gn_carreteras","guardia nacional carretera",
-]
-
-# Palabras que indican resolución del incidente
-RESOLUCION_KW = [
-    "liberan","libera el paso","reabre","restablece","circulación normal",
-    "retiraron","levantaron","despejaron","vía libre","fluye","sin bloqueo",
-    "ya no hay cierre","abierta al tráfico","normaliza el tráfico",
-]
-
 FALSOS_POSITIVOS = [
-    # Eventos ya resueltos
     "reabre","restablece circulación","circulación normal","sin novedad",
-    "se normaliza","ya liberaron","retiraron bloqueo","levantaron bloqueo",
-    "despejada la vía","despejaron","fluye con normalidad","vía libre",
-    "liberaron la carretera","levantaron el cierre","sin restricciones",
-    "abierta al tráfico","sin afectaciones","ya no hay cierre",
-    "fue despejado","retiran manifestantes","reestableció el tráfico",
-    # Capturas / operativos (no alertas activas)
-    "fue detenido","fueron detenidos","capturan","capturaron","detienen banda",
-    "cayó banda","aprehendidos","sentenciado","condenado","detenidos por robo",
-    "desarticulan banda","cayeron presuntos","aseguran vehículo",
-    # Contenido histórico / archivo
-    "simulacro","en memoria","aniversario","recuerdan","conmemoran","historia de",
-    "hace 10 años","hace un año","hace dos años","archivo","reportaje especial",
-    "este día en","efeméride","recordamos cuando",
-    # Análisis / opinión
-    "análisis de","tendencias de","estadísticas de","ranking de","tips para",
-    "guía para","opinión:","columna:","editorial:","infografía","podcast",
-    "según estudio","de acuerdo con expertos","datos revelan",
-    # Política / presupuesto (no incidentes)
-    "presupuesto para carreteras","proyecto de ley","plan sexenal",
-    "programa de gobierno","inversión en carreteras","aprueba presupuesto",
-    "candidato promete","promesa de campaña","inaugurará","construirán",
-    "elecciones","candidato","diputado","senador","gobernador electo",
-    "presupuesto","pib","inflación","tipo de cambio","bolsa de valores",
-    # Deportes / entretenimiento
-    "partido de fútbol","gol","champions","liga mx","concierto","festival",
-    "estreno","película","boda de","divorcio de","tiktoker","youtuber",
-    # Bloqueos NO carreteros (marítimos, económicos, políticos)
-    "buques","marítimo","naval","bloqueo de puertos","bloqueo económico",
-    "bloqueo comercial","sanciones económicas","bloqueo a cuba","bloqueo a irán",
-    "hambruna","energética","petróleo","gas natural","refinería",
-    # Noticias internacionales
-    "en estados unidos","en europa","en china","en rusia","en colombia",
-    "en argentina","en venezuela","en españa","a nivel global",
-    "cuba enfrenta","irán ataca","israel lanza","rusia invade","ucrania",
-    # Clickbait
-    "descubre cómo","aprende a","todo lo que debes saber","te explicamos",
-    "mira cómo","estas son las razones",
+    "se normaliza","ya liberaron","retiraron bloqueo","fue detenido",
+    "fueron detenidos","capturan","capturaron","detienen banda",
+    "simulacro","en memoria","aniversario","recuerdan","conmemoran",
+    "historia","hace 10 años","hace un año","archivo","reportaje especial",
+    "análisis de","tendencias de","estadísticas de","ranking de",
 ]
 
 CST   = timezone(timedelta(hours=-6))
 MESES = ["enero","febrero","marzo","abril","mayo","junio",
          "julio","agosto","septiembre","octubre","noviembre","diciembre"]
 
+VIAL_KW = [
+    "carretera","autopista","km ","cierre","bloqueo","manifestación",
+    "accidente","volcadura","derrumbe","inundación","neblina",
+    "robo","asalto","capufe","gn_carreteras","guardia nacional",
+    "transporte de carga","tractocamión","manifestantes","protesta",
+    "obra vial","tránsito","vialidad","carril","caseta","peaje",
+    "57d","95d","150d","15d","85d","140d","siglo xxi","arco norte",
+    "percance","colisión","impacto","volcó","chocó","choque","fila",
+    "retención","congestionamiento","tráfico pesado","lento avance",
+]
+
+# ─────────────────────────────────────────────────────────────────────
 logging.basicConfig(level=logging.INFO,
                     format="%(asctime)s  %(levelname)-7s  %(message)s",
                     datefmt="%H:%M:%S")
@@ -396,9 +396,8 @@ def clasificar(texto: str) -> str:
 
 
 def es_relevante(texto: str) -> bool:
-    """Requiere AL MENOS una palabra de vía Y AL MENOS una de incidente."""
     t = texto.lower()
-    return any(k in t for k in VIAL_VIA) and any(k in t for k in VIAL_INCIDENTE)
+    return any(k in t for k in VIAL_KW)
 
 
 def es_falso_positivo(texto: str) -> bool:
@@ -406,18 +405,14 @@ def es_falso_positivo(texto: str) -> bool:
     return any(fp in t for fp in FALSOS_POSITIVOS)
 
 
-def es_resuelto(texto: str) -> bool:
-    """True si el texto indica que el incidente ya fue resuelto."""
-    t = texto.lower()
-    return any(kw in t for kw in RESOLUCION_KW)
-
-
 def extraer_coords(texto: str) -> Optional[tuple]:
     t = texto.lower()
+    # Búsqueda de km específico + carretera
     km_match = re.search(r"km\s*(\d+)", t)
     for nombre, coords in COORD_MAP.items():
         if nombre in t:
             if km_match:
+                # Desplazar coords ligeramente para diferenciar km distintos
                 km = int(km_match.group(1))
                 return (coords[0] + (km % 10) * 0.01,
                         coords[1] + (km % 10) * 0.01)
@@ -427,7 +422,7 @@ def extraer_coords(texto: str) -> Optional[tuple]:
 
 def extraer_ruta(texto: str) -> str:
     patrones = [
-        r"(?:Autopista|Carretera|Libramiento|Periférico|Viaducto|Boulevard)\s+"
+        r"(?:Autopista|Carretera|Libramiento|Periférico|Viaducto|Boulevard|Blvd\.?)\s+"
         r"[\w\s\-–áéíóúÁÉÍÓÚñÑ]+?(?=\s*(?:km\b|tramo|,|\.|·|$))",
         r"(?:km|kilómetro)\s+\d+[\+\.\d]*(?:\s*[\+\-]\s*\d+)?",
         r"\b\d{1,3}D?\b(?=\s+(?:km|tramo|libre|cuota))",
@@ -436,6 +431,7 @@ def extraer_ruta(texto: str) -> str:
         m = re.search(p, texto, re.IGNORECASE)
         if m:
             return m.group(0).strip()[:90]
+    # Fallback: primeras palabras significativas
     return " ".join(texto.split()[:10]) + "…"
 
 
@@ -470,10 +466,11 @@ def parse_fecha_rss(rss_date: str) -> Optional[datetime]:
 
 def esta_en_ventana(rss_date: str) -> bool:
     """True si el artículo fue publicado dentro de las últimas LOOKBACK_HORAS horas.
-    Si no se puede parsear la fecha se RECHAZA (evita basura sin timestamp)."""
+    Si no se puede parsear la fecha se rechaza (evita alertas viejas sin fecha)
+    salvo que ACCEPT_UNDATED=true esté configurado explícitamente."""
     dt = parse_fecha_rss(rss_date)
     if dt is None:
-        return False   # ← CORRECCIÓN CLAVE: rechazar artículos sin fecha
+        return ACCEPT_UNDATED   # por defecto rechazar sin fecha
     delta = datetime.now(CST) - dt
     return delta.total_seconds() <= LOOKBACK_HORAS * 3600
 
@@ -487,6 +484,9 @@ def hacer_alerta(tipo, ruta, desc, rec, fecha, fuente, url,
                  extra_texto="") -> dict:
     c = TIPO_CONFIG[tipo]
     coords = extraer_coords(desc + " " + ruta + " " + extra_texto)
+    # Calcular fecha_iso para que el frontend pueda filtrar/ordenar fácilmente
+    dt_alerta = _parse_fecha_alerta(fecha)
+    fecha_iso = dt_alerta.isoformat() if dt_alerta.year > 1970 else None
     a = {
         "id":            make_id(desc),
         "tipo":          tipo,
@@ -494,6 +494,7 @@ def hacer_alerta(tipo, ruta, desc, rec, fecha, fuente, url,
         "descripcion":   desc[:500],
         "recomendacion": rec,
         "fecha":         fecha,
+        "fecha_iso":     fecha_iso,
         "fuente":        fuente,
         "url":           url,
         "dot_color":     c["dot"],
@@ -510,13 +511,14 @@ def hacer_alerta(tipo, ruta, desc, rec, fecha, fuente, url,
 # FUENTE 1 — GOOGLE NEWS RSS
 # ─────────────────────────────────────────────────────────────────────
 
-def fetch_google_news() -> list:
+def fetch_google_news() -> list[dict]:
     alertas, vistos = [], set()
 
     for query in GNEWS_QUERIES:
         url  = GNEWS_BASE.format(query=requests.utils.quote(query))
         resp = get(url, timeout=15)
         if not resp:
+            log.warning(f"  GNews sin respuesta: {query[:40]}")
             continue
 
         feed = feedparser.parse(resp.text)
@@ -531,7 +533,7 @@ def fetch_google_news() -> list:
             resumen = limpiar(entry.get("summary", ""))
             texto   = f"{titulo}. {resumen}"
 
-            if not es_relevante(texto) or es_falso_positivo(texto) or es_resuelto(texto):
+            if not es_relevante(texto) or es_falso_positivo(texto):
                 continue
 
             key = make_id(titulo[:60].lower())
@@ -539,31 +541,34 @@ def fetch_google_news() -> list:
                 continue
             vistos.add(key)
 
-            alertas.append(hacer_alerta(
-                clasificar(texto), extraer_ruta(titulo), texto[:500],
-                extraer_rec(texto), fmt_fecha(pub_date),
-                entry.get("source", {}).get("title", "Google News"),
-                entry.get("link", ""), texto,
-            ))
+            tipo   = clasificar(texto)
+            ruta   = extraer_ruta(titulo)          # ruta desde el titular (más limpio)
+            fecha  = fmt_fecha(pub_date)
+            fuente = entry.get("source", {}).get("title", "Google News")
+            link   = entry.get("link", "")
+
+            alertas.append(hacer_alerta(tipo, ruta, texto[:500],
+                                        extraer_rec(texto), fecha, fuente, link, texto))
             nuevas += 1
 
         log.info(f"  GNews '{query[:38]}': {len(feed.entries)} entradas → {nuevas} alertas")
-        time.sleep(0.4)
+        time.sleep(0.4)   # cortesía con Google
 
     log.info(f"  ✓ Google News total: {len(alertas)} alertas")
     return alertas
 
 
 # ─────────────────────────────────────────────────────────────────────
-# FUENTE 2 — RSS PERIÓDICOS
+# FUENTE 2 — RSS PERIÓDICOS (nacionales + regionales)
 # ─────────────────────────────────────────────────────────────────────
 
-def _procesar_rss(feeds: list) -> list:
+def _procesar_rss(feeds: list[tuple]) -> list[dict]:
     alertas, vistos = [], set()
 
     for nombre, rss_url in feeds:
         resp = get(rss_url, timeout=15)
         if not resp:
+            log.warning(f"  RSS {nombre}: sin respuesta")
             continue
 
         feed = feedparser.parse(resp.text)
@@ -578,7 +583,7 @@ def _procesar_rss(feeds: list) -> list:
             resumen = limpiar(entry.get("summary", ""))
             texto   = f"{titulo}. {resumen}"
 
-            if not es_relevante(texto) or es_falso_positivo(texto) or es_resuelto(texto):
+            if not es_relevante(texto) or es_falso_positivo(texto):
                 continue
 
             key = make_id(titulo[:60].lower())
@@ -587,9 +592,14 @@ def _procesar_rss(feeds: list) -> list:
             vistos.add(key)
 
             alertas.append(hacer_alerta(
-                clasificar(texto), extraer_ruta(titulo), texto[:500],
-                extraer_rec(texto), fmt_fecha(pub_date),
-                nombre, entry.get("link", rss_url), texto,
+                clasificar(texto),
+                extraer_ruta(titulo),
+                texto[:500],
+                extraer_rec(texto),
+                fmt_fecha(pub_date),
+                nombre,
+                entry.get("link", rss_url),
+                texto,
             ))
             nuevas += 1
 
@@ -598,13 +608,13 @@ def _procesar_rss(feeds: list) -> list:
     return alertas
 
 
-def fetch_rss_nacionales() -> list:
+def fetch_rss_nacionales() -> list[dict]:
     alertas = _procesar_rss(RSS_NACIONALES)
     log.info(f"  ✓ Periódicos nacionales: {len(alertas)} alertas")
     return alertas
 
 
-def fetch_rss_regionales() -> list:
+def fetch_rss_regionales() -> list[dict]:
     alertas = _procesar_rss(RSS_REGIONALES)
     log.info(f"  ✓ Periódicos regionales: {len(alertas)} alertas")
     return alertas
@@ -614,7 +624,7 @@ def fetch_rss_regionales() -> list:
 # FUENTE 3 — CAPUFE DIRECTO
 # ─────────────────────────────────────────────────────────────────────
 
-def fetch_capufe() -> list:
+def fetch_capufe() -> list[dict]:
     alertas = []
 
     for url in CAPUFE_URLS:
@@ -624,9 +634,11 @@ def fetch_capufe() -> list:
 
         ct = resp.headers.get("content-type", "")
 
+        # ── XML / RSS ──────────────────────────────────────────────
         if "xml" in ct or url.endswith(".xml"):
             feed = feedparser.parse(resp.text)
             if feed.entries:
+                log.info(f"  CAPUFE XML: {len(feed.entries)} registros")
                 for entry in feed.entries[:30]:
                     pub_date = entry.get("published", "")
                     if not esta_en_ventana(pub_date):
@@ -634,23 +646,28 @@ def fetch_capufe() -> list:
                     titulo  = limpiar(entry.get("title", "Alerta CAPUFE"))
                     resumen = limpiar(entry.get("summary", titulo))
                     texto   = f"{titulo}. {resumen}"
+                    tipo    = clasificar(texto)
                     alertas.append(hacer_alerta(
-                        clasificar(texto), extraer_ruta(titulo), texto[:500],
+                        tipo, extraer_ruta(titulo), texto[:500],
                         extraer_rec(texto), fmt_fecha(pub_date),
                         "CAPUFE", entry.get("link", url), texto,
                     ))
-                log.info(f"  CAPUFE XML: {len(alertas)} registros")
                 return alertas
 
+        # ── HTML ───────────────────────────────────────────────────
         soup = BeautifulSoup(resp.text, "html.parser")
-        filas = soup.select("tr, .reporte, .alerta-row, article")
+        filas = soup.select("tr, .reporte, .alerta-row, .vialidad-item, article")
         for fila in filas[:40]:
             texto = fila.get_text(separator=" ", strip=True)
-            if len(texto) < 30 or not es_relevante(texto) or es_falso_positivo(texto):
+            if len(texto) < 30 or not es_relevante(texto):
                 continue
+            if es_falso_positivo(texto):
+                continue
+            tipo = clasificar(texto)
             alertas.append(hacer_alerta(
-                clasificar(texto), extraer_ruta(texto), texto[:500],
-                extraer_rec(texto), _ahora_str(), "CAPUFE", url, texto,
+                tipo, extraer_ruta(texto), texto[:500],
+                extraer_rec(texto), _ahora_str(),
+                "CAPUFE", url, texto,
             ))
         if alertas:
             log.info(f"  CAPUFE HTML: {len(alertas)} reportes")
@@ -664,7 +681,7 @@ def fetch_capufe() -> list:
 # FUENTE 4 — CONAGUA / SMN
 # ─────────────────────────────────────────────────────────────────────
 
-def fetch_conagua() -> list:
+def fetch_conagua() -> list[dict]:
     alertas = []
 
     for url in CONAGUA_URLS:
@@ -677,6 +694,7 @@ def fetch_conagua() -> list:
             feed = feedparser.parse(resp.text)
             if not feed.entries:
                 continue
+            log.info(f"  CONAGUA XML: {len(feed.entries)} avisos")
             for entry in feed.entries[:20]:
                 pub_date = entry.get("published", "")
                 if not esta_en_ventana(pub_date):
@@ -686,10 +704,10 @@ def fetch_conagua() -> list:
                 texto   = f"{titulo}. {resumen}"
                 alertas.append(hacer_alerta(
                     "clima", titulo[:90], texto[:500],
-                    "Maneja con precaución.", fmt_fecha(pub_date),
-                    "CONAGUA/SMN", entry.get("link", url), texto,
+                    "Maneja con precaución.",
+                    fmt_fecha(pub_date), "CONAGUA/SMN",
+                    entry.get("link", url), texto,
                 ))
-            log.info(f"  CONAGUA XML: {len(alertas)} avisos")
             return alertas
 
     log.info(f"  ✓ CONAGUA: {len(alertas)} avisos")
@@ -700,8 +718,9 @@ def fetch_conagua() -> list:
 # FUENTE 5 — NITTER / X RSS
 # ─────────────────────────────────────────────────────────────────────
 
-def fetch_nitter() -> list:
+def fetch_nitter() -> list[dict]:
     alertas = []
+    ok_instances: dict[str, str] = {}   # cuenta → instancia que funciona
 
     for cuenta in CUENTAS_X:
         for base in NITTER_INSTANCES:
@@ -716,7 +735,9 @@ def fetch_nitter() -> list:
             if not feed.entries:
                 continue
 
-            n = 0
+            ok_instances[cuenta] = base
+            log.info(f"  Nitter @{cuenta} via {base}: {len(feed.entries)} tweets")
+
             for entry in feed.entries[:30]:
                 pub_date = entry.get("published", "")
                 if not esta_en_ventana(pub_date):
@@ -724,40 +745,60 @@ def fetch_nitter() -> list:
                 texto = limpiar(entry.get("summary", entry.get("title", "")))
                 if len(texto) < 20 or not es_relevante(texto):
                     continue
-                if es_falso_positivo(texto) or es_resuelto(texto):
+                if es_falso_positivo(texto):
                     continue
+                tipo  = clasificar(texto)
+                fecha = fmt_fecha(pub_date)
                 alertas.append(hacer_alerta(
-                    clasificar(texto), extraer_ruta(texto), texto[:500],
-                    extraer_rec(texto), fmt_fecha(pub_date),
+                    tipo, extraer_ruta(texto), texto[:500],
+                    extraer_rec(texto), fecha,
                     f"@{cuenta}", entry.get("link", ""), texto,
                 ))
-                n += 1
-            log.info(f"  Nitter @{cuenta} via {base}: {n} tweets")
-            break
+            break   # un nitter ok basta para esta cuenta
 
-    log.info(f"  ✓ Nitter/X: {len(alertas)} tweets")
+    log.info(f"  ✓ Nitter/X (cuentas: {list(ok_instances.keys())}): {len(alertas)} tweets")
     return alertas
 
 
 # ─────────────────────────────────────────────────────────────────────
-# DEDUP
+# DEDUP  (por similitud de texto, no solo hash exacto)
 # ─────────────────────────────────────────────────────────────────────
 
 def _tokens(texto: str) -> set:
     return set(re.findall(r"\b[a-záéíóúñ]{4,}\b", texto.lower()))
 
 
-def dedup(alertas: list) -> list:
+def _parse_fecha_alerta(fecha_str: str) -> datetime:
+    """Parsea la fecha legible de la alerta para ordenar. Devuelve epoch si falla."""
+    try:
+        # Formato: "12 mayo 2026 · 14:30 CST"
+        m = re.search(r"(\d{1,2})\s+(\w+)\s+(\d{4})\s*·\s*(\d{2}:\d{2})", fecha_str)
+        if m:
+            dia, mes_str, anio, hora = m.groups()
+            mes = MESES.index(mes_str.lower()) + 1
+            h, mi = map(int, hora.split(":"))
+            return datetime(int(anio), mes, int(dia), h, mi, tzinfo=CST)
+    except Exception:
+        pass
+    return datetime(1970, 1, 1, tzinfo=CST)
+
+
+def dedup(alertas: list[dict]) -> list[dict]:
+    # Ordenar por fecha más reciente primero para que el dedup conserve las nuevas
+    alertas_sorted = sorted(alertas, key=lambda a: _parse_fecha_alerta(a.get("fecha", "")), reverse=True)
+
     seen_ids, seen_tokens, out = set(), [], []
-    for a in alertas:
+    for a in alertas_sorted:
         uid = make_id(a["descripcion"][:80].lower())
         if uid in seen_ids:
             continue
         tok = _tokens(a["descripcion"][:120])
-        duplicado = any(
-            len(tok) > 3 and len(tok & st) / max(len(tok), 1) >= 0.80
-            for st in seen_tokens
-        )
+        # Rechazar si 70%+ de tokens coinciden (más estricto que antes)
+        duplicado = False
+        for st in seen_tokens:
+            if len(tok) > 3 and len(tok & st) / max(len(tok), len(st), 1) >= 0.70:
+                duplicado = True
+                break
         if duplicado:
             continue
         seen_ids.add(uid)
@@ -767,63 +808,32 @@ def dedup(alertas: list) -> list:
 
 
 # ─────────────────────────────────────────────────────────────────────
-# FILTRAR RESUELTOS
-# ─────────────────────────────────────────────────────────────────────
-
-def _llave_tramo(texto: str) -> Optional[str]:
-    t = texto.lower()
-    for nombre in sorted(COORD_MAP.keys(), key=len, reverse=True):
-        if nombre in t:
-            km = re.search(r"km\s*(\d+)", t)
-            return nombre + (f"_km{km.group(1)}" if km else "")
-    return None
-
-
-def filtrar_resueltos(alertas: list) -> list:
-    """Elimina alertas de tramos que ya fueron reportados como liberados."""
-    tramos_liberados = set()
-    for a in alertas:
-        if es_resuelto(a["descripcion"]):
-            llave = _llave_tramo(a["descripcion"] + " " + a["ruta"])
-            if llave:
-                tramos_liberados.add(llave)
-                log.info(f"  Tramo liberado detectado: {llave}")
-
-    if not tramos_liberados:
-        return alertas
-
-    out = []
-    for a in alertas:
-        if es_resuelto(a["descripcion"]):
-            continue
-        llave = _llave_tramo(a["descripcion"] + " " + a["ruta"])
-        if llave and llave in tramos_liberados:
-            log.info(f"  Removida (tramo liberado): {a['ruta'][:50]}")
-            continue
-        out.append(a)
-    return out
-
-
-# ─────────────────────────────────────────────────────────────────────
 # AGRUPAR
 # ─────────────────────────────────────────────────────────────────────
 
-def agrupar(alertas: list) -> list:
-    grupos: dict = {}
+def agrupar(alertas: list[dict]) -> list[dict]:
+    grupos: dict[str, list] = {}
     for a in alertas:
         grupos.setdefault(a["tipo"], []).append(a)
-    return [
-        {
+    resultado = []
+    for tipo, cfg in sorted(TIPO_CONFIG.items(), key=lambda x: x[1]["orden"]):
+        if tipo not in grupos:
+            continue
+        # Ordenar alertas dentro del grupo por fecha más reciente primero
+        alertas_grupo = sorted(
+            grupos[tipo],
+            key=lambda a: _parse_fecha_alerta(a.get("fecha", "")),
+            reverse=True
+        )
+        resultado.append({
             "tipo":    tipo,
             "color":   cfg["color"],
             "icono":   cfg["icono"],
             "label":   cfg["label"],
             "col2":    cfg["col2"],
-            "alertas": grupos[tipo],
-        }
-        for tipo, cfg in sorted(TIPO_CONFIG.items(), key=lambda x: x[1]["orden"])
-        if tipo in grupos
-    ]
+            "alertas": alertas_grupo,
+        })
+    return resultado
 
 
 # ─────────────────────────────────────────────────────────────────────
@@ -833,9 +843,11 @@ def agrupar(alertas: list) -> list:
 def main():
     log.info(f"═══  Scraper Alertas Viales México v2  ══  "
              f"ventana={LOOKBACK_HORAS}h  modo={RUN_MODE}  ═══")
-    todas: list = []
+    todas: list[dict] = []
+
     fuentes_usadas = []
 
+    # ── Google News (siempre) ─────────────────────────────────────
     log.info("► Google News RSS …")
     try:
         r = fetch_google_news(); todas.extend(r)
@@ -843,6 +855,7 @@ def main():
     except Exception as e:
         log.error(f"  Google News: {e}")
 
+    # ── Periódicos nacionales ─────────────────────────────────────
     if RUN_MODE in ("all", "media_only"):
         log.info("► RSS Periódicos nacionales …")
         try:
@@ -858,6 +871,7 @@ def main():
         except Exception as e:
             log.error(f"  Regionales: {e}")
 
+    # ── CAPUFE ─────────────────────────────────────────────────────
     if RUN_MODE in ("all", "official_only"):
         log.info("► CAPUFE directo …")
         try:
@@ -873,18 +887,20 @@ def main():
         except Exception as e:
             log.error(f"  CONAGUA: {e}")
 
+    # ── Nitter/X ───────────────────────────────────────────────────
     if RUN_MODE in ("all", "official_only"):
         log.info("► Nitter/X …")
         try:
             r = fetch_nitter(); todas.extend(r)
-            if r: fuentes_usadas.append("Twitter/X")
+            if r: fuentes_usadas.append("@CAPUFE / @GN_Carreteras")
         except Exception as e:
             log.error(f"  Nitter: {e}")
 
+    # ── Dedup y salida ─────────────────────────────────────────────
     antes = len(todas)
     todas = dedup(todas)
-    todas = filtrar_resueltos(todas)
-    log.info(f"Total: {antes} brutas → {len(todas)} únicas y activas")
+    log.info(f"Total alertas: {antes} brutas → {len(todas)} únicas "
+             f"({antes - len(todas)} duplicados eliminados)")
 
     ahora  = datetime.now(CST)
     grupos = agrupar(todas)
@@ -910,19 +926,12 @@ def main():
     con_coords = len(salida["para_mapa"])
     log.info(f"  → {con_coords} alertas con coordenadas para el mapa")
 
+    # Sin alertas → NO conservar JSON anterior (evita mostrar alertas de ayer)
     if not todas:
-        log.warning("⚠  Sin alertas — conservando JSON anterior.")
-        try:
-            with open("alertas.json") as f:
-                prev = json.load(f)
-            prev["ultima_actualizacion"] = ahora.isoformat()
-            prev["ultima_actualizacion_legible"] = salida["ultima_actualizacion_legible"]
-            prev["nota"] = "Sin nuevos datos. Última actualización exitosa conservada."
-            with open("alertas.json", "w", encoding="utf-8") as f:
-                json.dump(prev, f, ensure_ascii=False, indent=2)
-        except FileNotFoundError:
-            with open("alertas.json", "w", encoding="utf-8") as f:
-                json.dump(salida, f, ensure_ascii=False, indent=2)
+        log.warning("⚠  Sin alertas — escribiendo JSON vacío (no se conservan datos viejos).")
+        salida["nota"] = "Sin alertas activas en la ventana de tiempo configurada."
+        with open("alertas.json", "w", encoding="utf-8") as f:
+            json.dump(salida, f, ensure_ascii=False, indent=2)
         return
 
     with open("alertas.json", "w", encoding="utf-8") as f:
