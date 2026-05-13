@@ -1,13 +1,65 @@
 {
-  "ultima_actualizacion": "2026-05-13T10:43:02.304950-06:00",
-  "ultima_actualizacion_legible": "13 de mayo de 2026 · 10:43 CST",
-  "total": 6,
+  "ultima_actualizacion": "2026-05-13T15:56:16.391165-06:00",
+  "ultima_actualizacion_legible": "13 de mayo de 2026 · 15:56 CST",
+  "total": 19,
   "ventana": "últimas 24 horas",
   "fuentes": [
     "Google News",
+    "Medios nacionales",
     "Medios regionales"
   ],
   "grupos": [
+    {
+      "tipo": "cierre_total",
+      "color": "rojo",
+      "icono": "🔴",
+      "label": "CIERRE TOTAL",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "d300508b",
+          "tipo": "cierre_total",
+          "ruta": "Autopista Acatzingo-Cd",
+          "descripcion": "Vuelca Tractocamión con Fierro Oxidado en Autopista Acatzingo-Cd. Mendoza: Hay Cierre Total - N+. Vuelca Tractocamión con Fierro Oxidado en Autopista Acatzingo-Cd. Mendoza: Hay Cierre Total N+",
+          "recomendacion": "",
+          "fecha": "13 mayo 2026 · 13:42 CST",
+          "fecha_iso": "2026-05-13T13:42:00-06:00",
+          "fuente": "N+",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSGkzVTZpTzY4Q0dQTWIxd3VsYUNRS1JmUTU0R2I0TngtMmhhTEVwU09STzBZMFBieWlBdEQtMFU2cWhGWFNvZHd0cXpaVEMwMHdNeFoyakU0ZTJ1c3lMTzFzajBMemlQbVRzbUJrWWZGdjRaYzR1RXljOWdnQUQ4VDJ6bzhLcEU1STNTNEVtS0xKT1FjamUzX1hITm9FaE92RzV2Rzl5UUozVHZXcWhodFVlc1VZV3RYck03LVk2cWlKX3hVX2tzRHU5SFNRUQ?oc=5",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL"
+        },
+        {
+          "id": "46c8bbdb",
+          "tipo": "cierre_total",
+          "ruta": "Pipa vuelca frente a la tequilera Corralejo en Pénjamo; chofer…",
+          "descripcion": "Pipa vuelca frente a la tequilera Corralejo en Pénjamo; chofer sale ileso. Las causas de la volcadura aún no han sido determinadas, aunque existen dos versiones: una señala una posible falla mecánica, la otra a la ponchadura de un neumático.",
+          "recomendacion": "",
+          "fecha": "13 mayo 2026 · 13:36 CST",
+          "fecha_iso": "2026-05-13T13:36:00-06:00",
+          "fuente": "AM Guanajuato",
+          "url": "https://www.am.com.mx/guanajuato-sur/2026/05/13/pipa-vuelca-frente-a-la-tequilera-corralejo-en-penjamo-chofer-sale-ileso-1793472.html",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL"
+        },
+        {
+          "id": "cef52849",
+          "tipo": "cierre_total",
+          "ruta": "Vecinos cierran avenida San Antonio Abad para pedir expropiación de…",
+          "descripcion": "Vecinos cierran avenida San Antonio Abad para pedir expropiación de edificio colapsado. A dos meses del derrumbe y clausura de la obras, manifestantes identificados como vecinos piden expropiación para vivienda social",
+          "recomendacion": "",
+          "fecha": "13 mayo 2026 · 09:46 CST",
+          "fecha_iso": "2026-05-13T09:46:00-06:00",
+          "fuente": "El Sol de México",
+          "url": "https://oem.com.mx/elsoldemexico/metropoli/vecinos-cierran-avenida-san-antonio-abad-para-pedir-expropiacion-de-edificio-colapsado-29962345",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL"
+        }
+      ]
+    },
     {
       "tipo": "bloqueo",
       "color": "rojo",
@@ -16,13 +68,29 @@
       "col2": false,
       "alertas": [
         {
+          "id": "5a7d54eb",
+          "tipo": "bloqueo",
+          "ruta": "Segob retira bloqueos tras diálogo en Chilapa, Guerrero…",
+          "descripcion": "Segob retira bloqueos tras diálogo en Chilapa, Guerrero. La secretaria de Gobernación, Rosa Icela Rodríguez, acudió a Chilapa, Guerrero, donde informó que se logró el retiro de bloqueos tras un diálogo con la población.",
+          "recomendacion": "",
+          "fecha": "13 mayo 2026 · 14:11 CST",
+          "fecha_iso": "2026-05-13T14:11:00-06:00",
+          "fuente": "24 Horas",
+          "url": "https://24-horas.mx/estados/segob-retira-bloqueos-tras-dialogo-en-chilapa-guerrero/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 17.55,
+          "lon": -99.5
+        },
+        {
           "id": "9643e8f2",
           "tipo": "bloqueo",
           "ruta": "Últimas noticias EN VIVO de los bloqueos que afectan carreteras…",
           "descripcion": "Últimas noticias EN VIVO de los bloqueos que afectan carreteras en México hoy 13 de mayo - TV Azteca. Últimas noticias EN VIVO de los bloqueos que afectan carreteras en México hoy 13 de mayo TV Azteca",
           "recomendacion": "",
-          "fecha": "13 mayo 2026 · 10:18 CST",
-          "fecha_iso": "2026-05-13T10:18:00-06:00",
+          "fecha": "13 mayo 2026 · 14:06 CST",
+          "fecha_iso": "2026-05-13T14:06:00-06:00",
           "fuente": "TV Azteca",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcVVhWWd0VENWTXVUYjctd2FGbVNpSFRQVjhwUVFON3VPRy1IWTBaTGwtSEJNcDhISDBnTmI0TmNoZEhkY3BlVHV3bXgyS3lkQ25KWktBS0UtNUEtYmVyOEZMOGpUOXB6Y2NTcDcwOWFqQWU1SE5KTE5RNnZXbHJ4ZW1BTUhQbnA5TUtEaG5oSUh1MFdXR0xEcHFTd2xPYWtFREJubFl0V1R6dmRkUXVuOFNn?oc=5",
           "dot_color": "#8e44ad",
@@ -30,18 +98,34 @@
           "badge_txt": "BLOQUEO"
         },
         {
-          "id": "0e17ab71",
+          "id": "dcc08971",
           "tipo": "bloqueo",
-          "ruta": "Irán suma 75 días de bloqueo de internet, el más…",
-          "descripcion": "Irán suma 75 días de bloqueo de internet, el más prolongado del que hay registro. El país persa ha optado por un acceso a internet por niveles, pasando de ser un derecho público a convertirse en un servicio limitado y costoso",
+          "ruta": "Manifestantes bloquean Av. El Rosario y Aquiles Serdán ante presunta…",
+          "descripcion": "Manifestantes bloquean Av. El Rosario y Aquiles Serdán ante presunta falta de energía eléctrica. Habitantes de Azcapotzalco bloquearon Avenida El Rosario y Aquiles Serdán, ante la presunta falta de energía eléctrica.",
           "recomendacion": "",
-          "fecha": "13 mayo 2026 · 09:44 CST",
-          "fecha_iso": "2026-05-13T09:44:00-06:00",
-          "fuente": "El Informador Jalisco",
-          "url": "https://www.informador.mx/internacional/iran-suma-75-dias-de-apagon-de-internet-el-mas-prolongado-del-que-hay-registro-20260513-0067.html",
+          "fecha": "13 mayo 2026 · 14:01 CST",
+          "fecha_iso": "2026-05-13T14:01:00-06:00",
+          "fuente": "24 Horas",
+          "url": "https://24-horas.mx/cdmx/manifestantes-bloquean-av-el-rosario-y-aquiles-serdan-ante-presunta-falta-de-energia-electrica/",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO"
+        },
+        {
+          "id": "e41c2799",
+          "tipo": "bloqueo",
+          "ruta": "Transportistas liberan bloqueos en el oriente del Edomex tras dos…",
+          "descripcion": "Transportistas liberan bloqueos en el oriente del Edomex tras dos horas de protesta - El Sol de México. Transportistas liberan bloqueos en el oriente del Edomex tras dos horas de protesta El Sol de México",
+          "recomendacion": "",
+          "fecha": "13 mayo 2026 · 13:44 CST",
+          "fecha_iso": "2026-05-13T13:44:00-06:00",
+          "fuente": "El Sol de México",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZzlrRkJ3V0dSdXpWbzVKRHl4cXVVZkpORkZDWGZacUI1QkoxRm53SjctaU5ERERfYmNxeG5lSFFWWjdjbXV0Vm41OG5FNU00YlNNNEFTOEV4RjNGX0I2UVFneTJSXzE0N3hhdWhIVDJvVTM3bnlOQmlabEFxa0hzcTJLWDB4eERNQWtsR0UxUVc3cGswNGNTX3F6UmxqWV94TUhyamdEdEJEbkhVeVVpaEFzOUFWRlNRVWE5MnFFMXNZckZtX2dUVTNuTQ?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 19.35,
+          "lon": -99.7
         },
         {
           "id": "99e3c6ed",
@@ -88,6 +172,43 @@
       ]
     },
     {
+      "tipo": "robo",
+      "color": "rojo",
+      "icono": "🚨",
+      "label": "ROBOS EN CARRETERA",
+      "col2": true,
+      "alertas": [
+        {
+          "id": "b526a22c",
+          "tipo": "robo",
+          "ruta": "Cuál es el peor yogurt en México, según Profeco…",
+          "descripcion": "Cuál es el peor yogurt en México, según Profeco. El Laboratorio Nacional de Protección al Consumidor evaluó varios productos para corroborar que la información de la etiqueta sea verídica",
+          "recomendacion": "",
+          "fecha": "13 mayo 2026 · 15:30 CST",
+          "fecha_iso": "2026-05-13T15:30:00-06:00",
+          "fuente": "El Informador Jalisco",
+          "url": "https://www.informador.mx/estilo/cual-es-el-peor-yogurt-en-mexico-segun-profeco-20260102-0092.html",
+          "dot_color": "#c0392b",
+          "badge": "badge-robo",
+          "badge_txt": "ROBO"
+        },
+        {
+          "id": "9bd48fc3",
+          "tipo": "robo",
+          "ruta": "EU condena a 11 años de prisión a Doña Lupe,…",
+          "descripcion": "EU condena a 11 años de prisión a Doña Lupe, líder de una red internacional de tráfico de migrantes. La acusada facilitó la entrada lilegal de extranjeros procedentes de Asia, Oriente Medio y América Latina, cometiendo robos a mano armada contra los migrantes",
+          "recomendacion": "",
+          "fecha": "13 mayo 2026 · 10:11 CST",
+          "fecha_iso": "2026-05-13T10:11:00-06:00",
+          "fuente": "El Sol de México",
+          "url": "https://oem.com.mx/elsoldemexico/mundo/eu-condena-a-11-anos-de-prision-a-dona-lupe-lider-de-una-red-internacional-de-trafico-de-migrantes-29962443",
+          "dot_color": "#c0392b",
+          "badge": "badge-robo",
+          "badge_txt": "ROBO"
+        }
+      ]
+    },
+    {
       "tipo": "cierre_parcial",
       "color": "amarillo",
       "icono": "🟡",
@@ -95,37 +216,156 @@
       "col2": true,
       "alertas": [
         {
-          "id": "03bd86b4",
+          "id": "3304409b",
           "tipo": "cierre_parcial",
-          "ruta": "autopista México-Puebla-Veracruz - Municipios Puebla",
-          "descripcion": "Instala Puebla 116 cámaras sobre la autopista México-Puebla-Veracruz - Municipios Puebla. Instala Puebla 116 cámaras sobre la autopista México-Puebla-Veracruz Municipios Puebla",
+          "ruta": "Estas son las nuevas tarifas de casetas en México para…",
+          "descripcion": "Estas son las nuevas tarifas de casetas en México para 2026. Estos incrementos afectan la movilidad diaria en zonas metropolitanas y corredores industriales",
           "recomendacion": "",
-          "fecha": "12 mayo 2026 · 15:44 CST",
-          "fecha_iso": "2026-05-12T15:44:00-06:00",
-          "fuente": "Municipios Puebla",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOemlab1FBSnp2NGgzUldWQVoyRjRwS3owRWcyZGZ3NUpSc3QyeGplcVMzM1c3N2FZVlJOelRJb3doNlk5TG5vTHZGUmZ1Z0VuUWZVZEJFVllSQTFXNlh2R3V1NVZCSTJZckJyRlIteUtuMnMtbFV3eW1YNl93YXBseUxmSlJ3YTZoM2ZQWEtQS2dOX0Q3OGpDS2NROWozUW1RWDJZUzJMV296RGxf?oc=5",
+          "fecha": "13 mayo 2026 · 15:46 CST",
+          "fecha_iso": "2026-05-13T15:46:00-06:00",
+          "fuente": "El Informador Jalisco",
+          "url": "https://www.informador.mx/mexico/tarifas-de-casetas-en-mexico-para-2026-conoce-el-listado-de-los-nuevos-precios-20260413-0193.html",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        },
+        {
+          "id": "de7a01ab",
+          "tipo": "cierre_parcial",
+          "ruta": "Unidad móvil en el AIFA: Tramita tu licencia del Estado…",
+          "descripcion": "Unidad móvil en el AIFA: Tramita tu licencia del Estado de México sin filas. El gobierno del Estado de México habilitará una unidad móvil en el AIFA para expedir tu licencia de conducir",
+          "recomendacion": "",
+          "fecha": "13 mayo 2026 · 13:37 CST",
+          "fecha_iso": "2026-05-13T13:37:00-06:00",
+          "fuente": "El Informador Jalisco",
+          "url": "https://www.informador.mx/mexico/unidad-movil-en-el-aifa-tramita-tu-licencia-del-estado-de-mexico-sin-filas-20260513-0124.html",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        },
+        {
+          "id": "630d94c1",
+          "tipo": "cierre_parcial",
+          "ruta": "Choque frontal entre dos autos deja un conductor muerto y…",
+          "descripcion": "Choque frontal entre dos autos deja un conductor muerto y una mujer lesionada en Comonfort. El siniestro ocurrió cerca de las 9:45 de la noche del martes 12 de mayo, cuando a las autoridades se reportó un accidente con personas lesionadas en el camino viejo.",
+          "recomendacion": "",
+          "fecha": "13 mayo 2026 · 13:36 CST",
+          "fecha_iso": "2026-05-13T13:36:00-06:00",
+          "fuente": "AM Guanajuato",
+          "url": "https://www.am.com.mx/guanajuato/2026/05/13/tragico-accidente-frontal-en-comonfort-deja-un-hombre-muerto-1793446.html",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        },
+        {
+          "id": "b48a23c2",
+          "tipo": "cierre_parcial",
+          "ruta": "Guardia Nacional ya pudo introducirse en comunidad de Guerrero: Sheinbaum…",
+          "descripcion": "Guardia Nacional ya pudo introducirse en comunidad de Guerrero: Sheinbaum. Por conflicto de “Los Ardillos” y los “Tlacos” que provocó el desplazamiento de los habitantes en Chilapa, Guerrero, también dejó heridos.",
+          "recomendacion": "",
+          "fecha": "13 mayo 2026 · 11:49 CST",
+          "fecha_iso": "2026-05-13T11:49:00-06:00",
+          "fuente": "24 Horas",
+          "url": "https://24-horas.mx/mexico/guardia-nacional-ya-pudo-introducirse-en-comunidad-de-guerrero-sheinbaum/",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.18,
-          "lon": -96.14
+          "lat": 17.55,
+          "lon": -99.5
+        },
+        {
+          "id": "088c6c42",
+          "tipo": "cierre_parcial",
+          "ruta": "Crean nueva área natural protegida en Yucatán…",
+          "descripcion": "Crean nueva área natural protegida en Yucatán. “Herencia Maya” busca una mayor protección y mejor gestión de más de 275 km del litoral yucateco y de 54 mil hectáreas de manglares",
+          "recomendacion": "",
+          "fecha": "13 mayo 2026 · 10:36 CST",
+          "fecha_iso": "2026-05-13T10:36:00-06:00",
+          "fuente": "El Sol de México",
+          "url": "https://oem.com.mx/elsoldemexico/mexico/crean-nueva-area-natural-protegida-en-yucatan-29963674",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        },
+        {
+          "id": "f6934623",
+          "tipo": "cierre_parcial",
+          "ruta": "Hacienda confía en acciones para dar revés a perspectiva negativa…",
+          "descripcion": "Hacienda confía en acciones para dar revés a perspectiva negativa de SP. Édgar Amador Zamora, titular de la Secretaría de Hacienda y Crédito Público, destacó que la mayoría de la deuda pública está en moneda nacional y se converge a reducir el déficit al cierre de año.",
+          "recomendacion": "",
+          "fecha": "13 mayo 2026 · 09:56 CST",
+          "fecha_iso": "2026-05-13T09:56:00-06:00",
+          "fuente": "Expansión",
+          "url": "https://expansion.mx/economia/2026/05/13/hacienda-confia-acciones-perspectiva-negativa-sp",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        }
+      ]
+    },
+    {
+      "tipo": "clima",
+      "color": "azul",
+      "icono": "🌧️",
+      "label": "ALERTA METEOROLÓGICA",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "29a2e5f9",
+          "tipo": "clima",
+          "ruta": "Norteamérica puede garantizar seguridad energética pese a cierre de Estrecho…",
+          "descripcion": "Norteamérica puede garantizar seguridad energética pese a cierre de Estrecho de Ormuz: empresarios. Especialistas remarcaron que México tiene que ver 'cómo hacerse complementario' de los esquemas de producción de energía de EU.",
+          "recomendacion": "",
+          "fecha": "13 mayo 2026 · 15:25 CST",
+          "fecha_iso": "2026-05-13T15:25:00-06:00",
+          "fuente": "El Financiero",
+          "url": "https://www.elfinanciero.com.mx/economia/2026/05/13/norteamerica-puede-garantizar-seguridad-energetica-pese-a-cierre-de-estrecho-de-ormuz-empresarios/",
+          "dot_color": "#3498db",
+          "badge": "badge-clima",
+          "badge_txt": "ALERTA CLIMA"
         }
       ]
     }
   ],
   "para_mapa": [
     {
-      "id": "03bd86b4",
+      "id": "5a7d54eb",
+      "tipo": "bloqueo",
+      "ruta": "Segob retira bloqueos tras diálogo en Chilapa, Guerrero…",
+      "descripcion": "Segob retira bloqueos tras diálogo en Chilapa, Guerrero. La secretaria de Gobernación, Rosa Icela Rodríguez, acudió a Chilapa, Guerrero, donde informó que se logró el retiro de bloqueos tras un diálogo con la población.",
+      "fecha": "13 mayo 2026 · 14:11 CST",
+      "fuente": "24 Horas",
+      "url": "https://24-horas.mx/estados/segob-retira-bloqueos-tras-dialogo-en-chilapa-guerrero/",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 17.55,
+      "lon": -99.5
+    },
+    {
+      "id": "e41c2799",
+      "tipo": "bloqueo",
+      "ruta": "Transportistas liberan bloqueos en el oriente del Edomex tras dos…",
+      "descripcion": "Transportistas liberan bloqueos en el oriente del Edomex tras dos horas de protesta - El Sol de México. Transportistas liberan bloqueos en el oriente del Edomex tras dos horas de protesta El Sol de México",
+      "fecha": "13 mayo 2026 · 13:44 CST",
+      "fuente": "El Sol de México",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZzlrRkJ3V0dSdXpWbzVKRHl4cXVVZkpORkZDWGZacUI1QkoxRm53SjctaU5ERERfYmNxeG5lSFFWWjdjbXV0Vm41OG5FNU00YlNNNEFTOEV4RjNGX0I2UVFneTJSXzE0N3hhdWhIVDJvVTM3bnlOQmlabEFxa0hzcTJLWDB4eERNQWtsR0UxUVc3cGswNGNTX3F6UmxqWV94TUhyamdEdEJEbkhVeVVpaEFzOUFWRlNRVWE5MnFFMXNZckZtX2dUVTNuTQ?oc=5",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 19.35,
+      "lon": -99.7
+    },
+    {
+      "id": "b48a23c2",
       "tipo": "cierre_parcial",
-      "ruta": "autopista México-Puebla-Veracruz - Municipios Puebla",
-      "descripcion": "Instala Puebla 116 cámaras sobre la autopista México-Puebla-Veracruz - Municipios Puebla. Instala Puebla 116 cámaras sobre la autopista México-Puebla-Veracruz Municipios Puebla",
-      "fecha": "12 mayo 2026 · 15:44 CST",
-      "fuente": "Municipios Puebla",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOemlab1FBSnp2NGgzUldWQVoyRjRwS3owRWcyZGZ3NUpSc3QyeGplcVMzM1c3N2FZVlJOelRJb3doNlk5TG5vTHZGUmZ1Z0VuUWZVZEJFVllSQTFXNlh2R3V1NVZCSTJZckJyRlIteUtuMnMtbFV3eW1YNl93YXBseUxmSlJ3YTZoM2ZQWEtQS2dOX0Q3OGpDS2NROWozUW1RWDJZUzJMV296RGxf?oc=5",
+      "ruta": "Guardia Nacional ya pudo introducirse en comunidad de Guerrero: Sheinbaum…",
+      "descripcion": "Guardia Nacional ya pudo introducirse en comunidad de Guerrero: Sheinbaum. Por conflicto de “Los Ardillos” y los “Tlacos” que provocó el desplazamiento de los habitantes en Chilapa, Guerrero, también dejó heridos.",
+      "fecha": "13 mayo 2026 · 11:49 CST",
+      "fuente": "24 Horas",
+      "url": "https://24-horas.mx/mexico/guardia-nacional-ya-pudo-introducirse-en-comunidad-de-guerrero-sheinbaum/",
       "dot_color": "#e67e22",
       "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.18,
-      "lon": -96.14
+      "lat": 17.55,
+      "lon": -99.5
     }
   ]
 }
