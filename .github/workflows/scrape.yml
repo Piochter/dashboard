@@ -91,9 +91,6 @@ jobs:
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          # Pull antes de modificar para evitar conflictos
-          git pull --rebase origin main
-
           git add alertas.json
           git diff --cached --quiet && echo "Sin cambios en alertas.json" && exit 0
 
@@ -107,7 +104,8 @@ jobs:
           for i in 1 2 3; do
             git push && echo "✅ Push exitoso (intento $i)" && PUSH_OK=1 && break
             echo "⚠️  Intento $i falló — reintentando…"
-            git pull --rebase origin main
+            git fetch origin main
+            git rebase origin/main
             sleep 5
           done
           [ "$PUSH_OK" -eq 1 ] || { echo "❌ Push falló en los 3 intentos"; exit 1; }
