@@ -1,7 +1,7 @@
 name: Scraper Alertas Viales v2
 on:
   schedule:
-    - cron: '*/15 * * * *'   # cada 15 minutos
+    - cron: '*/15 * * * *'
   workflow_dispatch:
     inputs:
       ventana_horas:
@@ -12,14 +12,14 @@ on:
         description: 'Modo: all | official_only | media_only'
         required: false
         default: 'all'
-# Evitar que dos ejecuciones corran al mismo tiempo
+
 concurrency:
   group: alertas-scraper
   cancel-in-progress: false
-  
+
 permissions:
   contents: write
-  
+
 jobs:
   scrape:
     runs-on: ubuntu-latest
@@ -29,12 +29,21 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 1
+
       # ── 2. Python ────────────────────────────────────────────────
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-      # ── 3. Dependencias ──────────────────────────────────────────
+
+      # ── 3. Caché de dependencias ──────────────────────────────────
+      - name: Cache pip
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: pip-requests-feedparser-bs4-lxml
+
+      # ── 4. Dependencias ──────────────────────────────────────────
       - name: Instalar dependencias
         run: |
           pip install --quiet \
@@ -42,13 +51,15 @@ jobs:
             feedparser==6.0.11 \
             beautifulsoup4==4.12.3 \
             lxml==5.2.1
-      # ── 4. Ejecutar scraper ───────────────────────────────────────
+
+      # ── 5. Ejecutar scraper ───────────────────────────────────────
       - name: Ejecutar scraper
         env:
           LOOKBACK_HORAS: ${{ github.event.inputs.ventana_horas || '3' }}
           RUN_MODE:       ${{ github.event.inputs.run_mode      || 'all' }}
         run: python scraper/main.py
-      # ── 5. Validar JSON ───────────────────────────────────────────
+
+      # ── 6. Validar JSON ───────────────────────────────────────────
       - name: Validar alertas.json
         run: |
           python - <<'EOF'
@@ -65,29 +76,38 @@ jobs:
               print(f"❌  JSON inválido: {e}")
               sys.exit(1)
           EOF
-      # ── 6. Subir artefacto (diagnóstico) ─────────────────────────
+
+      # ── 7. Subir artefacto (diagnóstico) ─────────────────────────
       - name: Subir alertas.json como artefacto
         uses: actions/upload-artifact@v4
         with:
           name: alertas-${{ github.run_number }}
           path: alertas.json
           retention-days: 3
-      # ── 7. Commit + Push con reintentos ──────────────────────────
+
+      # ── 8. Commit + Push con reintentos ──────────────────────────
       - name: Commit alertas.json
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Pull antes de modificar para evitar conflictos
+          git pull --rebase origin main
+
           git add alertas.json
           git diff --cached --quiet && echo "Sin cambios en alertas.json" && exit 0
+
           TOTAL=$(python -c "import json; d=json.load(open('alertas.json')); print(d.get('total',0))")
           VENTANA=$(python -c "import json; d=json.load(open('alertas.json')); print(d.get('ventana','24h'))")
-          git commit -m "bot: alertas.json · ${TOTAL} alertas · ${VENTANA} [skip ci]"
+          TIMESTAMP=$(date -u '+%Y-%m-%dT%H:%M:%SZ')
+
+          git commit -m "bot: alertas.json · ${TOTAL} alertas · ${VENTANA} · ${TIMESTAMP} [skip ci]"
+
           PUSH_OK=0
           for i in 1 2 3; do
             git push && echo "✅ Push exitoso (intento $i)" && PUSH_OK=1 && break
             echo "⚠️  Intento $i falló — reintentando…"
-            git fetch origin main
-            git rebase origin/main
+            git pull --rebase origin main
             sleep 5
           done
           [ "$PUSH_OK" -eq 1 ] || { echo "❌ Push falló en los 3 intentos"; exit 1; }
