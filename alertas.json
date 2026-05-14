@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-05-14T14:32:21.565183-06:00",
-  "ultima_actualizacion_legible": "14 de mayo de 2026 · 14:32 CST",
-  "total": 17,
+  "ultima_actualizacion": "2026-05-14T15:01:51.390215-06:00",
+  "ultima_actualizacion_legible": "14 de mayo de 2026 · 15:01 CST",
+  "total": 14,
   "ventana": "últimas 24 horas",
   "fuentes": [
     "Google News",
@@ -55,22 +55,6 @@
       "label": "ROBOS EN CARRETERA",
       "col2": true,
       "alertas": [
-        {
-          "id": "f2de567a",
-          "tipo": "robo",
-          "ruta": "Robo vehicular cae 15%, pero las flotillas ya no confían…",
-          "descripcion": "Robo vehicular cae 15%, pero las flotillas ya no confían solo en el GPS. El promedio de automóviles robados en enero de 2026 es de 147, por ello las flotillas usan IA y telemática para proteger sus unidades.",
-          "recomendacion": "",
-          "fecha": "14 mayo 2026 · 12:30 CST",
-          "fecha_iso": "2026-05-14T12:30:00-06:00",
-          "fuente": "Expansión",
-          "url": "https://expansion.mx/tecnologia/2026/05/14/robo-vehicular-cae-15-pero-las-flotillas-ya-no-confian-solo-en-el-gps",
-          "dot_color": "#c0392b",
-          "badge": "badge-robo",
-          "badge_txt": "ROBO",
-          "lat": 21.0,
-          "lon": -104.0
-        },
         {
           "id": "19df17fc",
           "tipo": "robo",
@@ -157,20 +141,6 @@
           "lon": -103.35
         },
         {
-          "id": "82ef620b",
-          "tipo": "cierre_parcial",
-          "ruta": "Choferes de plataformas agradecen base en aeropuerto, pero piden mesa…",
-          "descripcion": "Choferes de plataformas agradecen base en aeropuerto, pero piden mesa de trabajo. El espacio para taxis de plataforma se ubicará bajo los espectaculares del retorno elevado a la Carretera a Chapala",
-          "recomendacion": "",
-          "fecha": "14 mayo 2026 · 12:08 CST",
-          "fecha_iso": "2026-05-14T12:08:00-06:00",
-          "fuente": "El Informador Jalisco",
-          "url": "https://www.informador.mx/jalisco/choferes-de-plataformas-piden-mesa-de-trabajo-para-atender-necesidades-del-aeropuerto-internacional-de-guadalajara-durante-el-mundial-2026-20260514-0106.html",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
-        },
-        {
           "id": "0aae5a5a",
           "tipo": "cierre_parcial",
           "ruta": "Falta de acuerdo de paz entre Irán y EU afecta…",
@@ -183,22 +153,6 @@
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL"
-        },
-        {
-          "id": "c0cddd7e",
-          "tipo": "cierre_parcial",
-          "ruta": "Sheinbaum: Jefa de gobierno o jefa de movimiento…",
-          "descripcion": "Sheinbaum: Jefa de gobierno o jefa de movimiento. Va para un mes que Chihuahua cristaliza el choque partidista entre Morena y el PAN, enfrentamiento que genera un ruido nacional e internacional.",
-          "recomendacion": "",
-          "fecha": "14 mayo 2026 · 08:23 CST",
-          "fecha_iso": "2026-05-14T08:23:00-06:00",
-          "fuente": "El Financiero",
-          "url": "https://www.elfinanciero.com.mx/opinion/salvador-camarena/2026/05/14/sheinbaum-jefa-de-gobierno-o-jefa-de-movimiento/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 28.64,
-          "lon": -106.08
         },
         {
           "id": "e559b353",
@@ -317,32 +271,6 @@
       "badge_txt": "CIERRE PARCIAL",
       "lat": 20.66,
       "lon": -103.35
-    },
-    {
-      "id": "f2de567a",
-      "tipo": "robo",
-      "ruta": "Robo vehicular cae 15%, pero las flotillas ya no confían…",
-      "descripcion": "Robo vehicular cae 15%, pero las flotillas ya no confían solo en el GPS. El promedio de automóviles robados en enero de 2026 es de 147, por ello las flotillas usan IA y telemática para proteger sus unidades.",
-      "fecha": "14 mayo 2026 · 12:30 CST",
-      "fuente": "Expansión",
-      "url": "https://expansion.mx/tecnologia/2026/05/14/robo-vehicular-cae-15-pero-las-flotillas-ya-no-confian-solo-en-el-gps",
-      "dot_color": "#c0392b",
-      "badge_txt": "ROBO",
-      "lat": 21.0,
-      "lon": -104.0
-    },
-    {
-      "id": "c0cddd7e",
-      "tipo": "cierre_parcial",
-      "ruta": "Sheinbaum: Jefa de gobierno o jefa de movimiento…",
-      "descripcion": "Sheinbaum: Jefa de gobierno o jefa de movimiento. Va para un mes que Chihuahua cristaliza el choque partidista entre Morena y el PAN, enfrentamiento que genera un ruido nacional e internacional.",
-      "fecha": "14 mayo 2026 · 08:23 CST",
-      "fuente": "El Financiero",
-      "url": "https://www.elfinanciero.com.mx/opinion/salvador-camarena/2026/05/14/sheinbaum-jefa-de-gobierno-o-jefa-de-movimiento/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 28.64,
-      "lon": -106.08
     },
     {
       "id": "a9fd1d6a",
