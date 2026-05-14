@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-05-14T02:11:28.025112-06:00",
-  "ultima_actualizacion_legible": "14 de mayo de 2026 · 02:11 CST",
-  "total": 16,
+  "ultima_actualizacion": "2026-05-14T10:22:16.677671-06:00",
+  "ultima_actualizacion_legible": "14 de mayo de 2026 · 10:22 CST",
+  "total": 14,
   "ventana": "últimas 24 horas",
   "fuentes": [
     "Google News",
@@ -40,6 +40,20 @@
       "col2": false,
       "alertas": [
         {
+          "id": "721471fd",
+          "tipo": "bloqueo",
+          "ruta": "Apagón masivo y protestas en Cuba, que anuncia que se…",
+          "descripcion": "Apagón masivo y protestas en Cuba, que anuncia que se quedó sin combustible. El miércoles, el ministro de Energía y Minas, Vicente de la O Levy, informó que las reservas de combustible de Cuba ya “se agotaron”",
+          "recomendacion": "",
+          "fecha": "14 mayo 2026 · 03:45 CST",
+          "fecha_iso": "2026-05-14T03:45:00-06:00",
+          "fuente": "El Sol de México",
+          "url": "https://oem.com.mx/elsoldemexico/mundo/apagon-masivo-y-protestas-en-cuba-que-anuncia-que-se-quedo-sin-combustible-29979370",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
+        {
           "id": "09f46716",
           "tipo": "bloqueo",
           "ruta": "Sheinbaum: Autoridades federales se mantendrán en Chilapa…",
@@ -54,64 +68,6 @@
           "badge_txt": "BLOQUEO",
           "lat": 17.55,
           "lon": -99.5
-        },
-        {
-          "id": "60aad074",
-          "tipo": "bloqueo",
-          "ruta": "Protestan por cuatro desaparecidos en Mazatlán…",
-          "descripcion": "Protestan por cuatro desaparecidos en Mazatlán. Familiares de cuatro jóvenes desaparecidos en Mazatlán, protestaron y bloquearon la avenida Constituyentes en la Ciudad de México.",
-          "recomendacion": "",
-          "fecha": "13 mayo 2026 · 21:13 CST",
-          "fecha_iso": "2026-05-13T21:13:00-06:00",
-          "fuente": "24 Horas",
-          "url": "https://24-horas.mx/estados/protestan-por-cuatro-desaparecidos-en-mazatlan/",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        },
-        {
-          "id": "0ba5b1af",
-          "tipo": "bloqueo",
-          "ruta": "Reprimen a manifestantes que exigen suministro de agua en Chimalhuacán…",
-          "descripcion": "Reprimen a manifestantes que exigen suministro de agua en Chimalhuacán. Policías locales reprimieron a los habitantes del municipio de Chimalhuacán, quienes exigen drenaje y suministro de agua.",
-          "recomendacion": "",
-          "fecha": "13 mayo 2026 · 20:21 CST",
-          "fecha_iso": "2026-05-13T20:21:00-06:00",
-          "fuente": "24 Horas",
-          "url": "https://24-horas.mx/estados/reprimen-a-manifestantes-que-exigen-suministro-de-agua-en-chimalhuacan/",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        },
-        {
-          "id": "ac45bac0",
-          "tipo": "bloqueo",
-          "ruta": "Farid Acevedo rinde protesta como nuevo rector de la UABJO…",
-          "descripcion": "Farid Acevedo rinde protesta como nuevo rector de la UABJO para el periodo. Farid Acevedo López asumió la Rectoría de la Universidad Autónoma Benito Juárez de Oaxaca (UABJO) para el periodo 2026-2030 tras obtener 13 mil 776 votos; anunció una gestión enfocada en unidad, fortalecimiento académico, inclusión y defensa de la autonomía universitaria.",
-          "recomendacion": "",
-          "fecha": "13 mayo 2026 · 19:55 CST",
-          "fecha_iso": "2026-05-13T19:55:00-06:00",
-          "fuente": "El Sol de México",
-          "url": "https://oem.com.mx/elsoldemexico/mexico/farid-acevedo-rinde-protesta-como-nuevo-rector-de-la-uabjo-para-el-periodo-29974488",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 17.06,
-          "lon": -96.72
-        },
-        {
-          "id": "5f433595",
-          "tipo": "bloqueo",
-          "ruta": "Tras protestas de estudiantes del IPN, Mario Delgado y Arturo…",
-          "descripcion": "Tras protestas de estudiantes del IPN, Mario Delgado y Arturo Reyes Sandoval se reúnen. “Se vienen cosas muy buenas en favor de esta gran institución”, publicó en X el titular de la SEP",
-          "recomendacion": "",
-          "fecha": "13 mayo 2026 · 16:12 CST",
-          "fecha_iso": "2026-05-13T16:12:00-06:00",
-          "fuente": "El Sol de México",
-          "url": "https://oem.com.mx/elsoldemexico/mexico/tras-protestas-de-estudiantes-del-ipn-mario-delgado-y-arturo-reyes-sandoval-se-reunen-29971836",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
         },
         {
           "id": "eccbdb49",
@@ -142,48 +98,6 @@
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO"
-        },
-        {
-          "id": "be96e2c6",
-          "tipo": "bloqueo",
-          "ruta": "Escalan protestas en IPN: estudiantes bloquean Insurgentes y Reforma…",
-          "descripcion": "Escalan protestas en IPN: estudiantes bloquean Insurgentes y Reforma. Los alumnos exigen que la nueva dirección del Politécnico sea designada por voto popular, en lugar de ser designada por el Gobierno",
-          "recomendacion": "",
-          "fecha": "13 mayo 2026 · 13:59 CST",
-          "fecha_iso": "2026-05-13T13:59:00-06:00",
-          "fuente": "El Sol de México",
-          "url": "https://oem.com.mx/elsoldemexico/metropoli/escalan-protestas-en-ipn-estudiantes-bloquean-insurgentes-y-reforma-29968747",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        },
-        {
-          "id": "99e3c6ed",
-          "tipo": "bloqueo",
-          "ruta": "Bloqueos en Carreteras Hoy: Estas Son las Autopistas Cerradas en…",
-          "descripcion": "Bloqueos en Carreteras Hoy: Estas Son las Autopistas Cerradas en México - N+. Bloqueos en Carreteras Hoy: Estas Son las Autopistas Cerradas en México N+",
-          "recomendacion": "",
-          "fecha": "13 mayo 2026 · 07:55 CST",
-          "fecha_iso": "2026-05-13T07:55:00-06:00",
-          "fuente": "N+",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVTBVTXVEVG1iRm1GeTZSbENqMU5RRmw4UXI1dzJmbC1GN3ZEa2haTlppTThQVUZhSl9BQ3hsSDZEV1ZMdnhybTlKTWxUV3BtME9Damd5Z2l2M2Rwa0Ewam1hbVJVM2QxbXgteW1kdHhFa255cWg1TVEwQW84Tk5tY1EzQ0hQUTZXS3FTRlhjLW5ST1Z3bEdyNTJ2SkNfVG1uMkM2bQ?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        },
-        {
-          "id": "9b5e1bcd",
-          "tipo": "bloqueo",
-          "ruta": "Bloqueos carreteras HOY 13 de mayo: Autopistas cerradas en México,…",
-          "descripcion": "Bloqueos carreteras HOY 13 de mayo: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 13 de mayo: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
-          "recomendacion": "",
-          "fecha": "13 mayo 2026 · 07:05 CST",
-          "fecha_iso": "2026-05-13T07:05:00-06:00",
-          "fuente": "Eje Central",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQUXVobmtSWFctTXpiVHZ5eURCT3V6dXR1eVp2dmZ4T0pycVg4QWMwRTV0RE43OHNUS0M3NFI4OF90WVF1S21nWDVEMGttUHNzLXZOdHE1d3dwR3N5RFRrdEZEYUFpakpWNDVkUGRaVTRvdlRZckM5WVJGT1IyRVdkYnZnZFNvX1V0Ny1SeXVzSjVzWi1KSnJFaUFVMGhfUzdBdnFhYUJTS3hROTBodUJLcmJxczBvSmczdjgzUHVDcWhxbmg5a2hxV1dLc0Jqd0xPaUpRVFhLVEVBWDRrZHAzdmhrdW9JZw?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
         }
       ]
     },
@@ -194,22 +108,6 @@
       "label": "ROBOS EN CARRETERA",
       "col2": true,
       "alertas": [
-        {
-          "id": "e9ec1896",
-          "tipo": "robo",
-          "ruta": "Detienen a exempleado de banco por el robo de 3.6…",
-          "descripcion": "Detienen a exempleado de banco por el robo de 3.6 millones de pesos de la nómina del DIF Oaxaca. Detienen en Oaxaca a exempleado de Banamex acusado de filtrar información bancaria para cometer robos a cuentahabientes; operaba con una banda en seis estados del país.",
-          "recomendacion": "",
-          "fecha": "13 mayo 2026 · 21:21 CST",
-          "fecha_iso": "2026-05-13T21:21:00-06:00",
-          "fuente": "El Financiero",
-          "url": "https://www.elfinanciero.com.mx/nacional/2026/05/13/detienen-a-exempleado-de-banco-por-el-robo-de-36-millones-de-pesos-de-la-nomina-del-dif-oaxaca/",
-          "dot_color": "#c0392b",
-          "badge": "badge-robo",
-          "badge_txt": "ROBO",
-          "lat": 17.06,
-          "lon": -96.72
-        },
         {
           "id": "19df17fc",
           "tipo": "robo",
@@ -225,20 +123,6 @@
           "badge_txt": "ROBO",
           "lat": 19.04,
           "lon": -98.2
-        },
-        {
-          "id": "580539ce",
-          "tipo": "robo",
-          "ruta": "Morena, PT y Verde cierran filas rumbo a 2027; competirán…",
-          "descripcion": "Morena, PT y Verde cierran filas rumbo a 2027; competirán con perfiles incuestionables. La coalición oficialista elegirá sus candidaturas mediante encuestas luego de pedir a autoridades de seguridad que corroboren que son personas incuestionables",
-          "recomendacion": "",
-          "fecha": "13 mayo 2026 · 15:56 CST",
-          "fecha_iso": "2026-05-13T15:56:00-06:00",
-          "fuente": "El Sol de México",
-          "url": "https://oem.com.mx/elsoldemexico/mexico/morena-pt-y-verde-cierran-filas-rumbo-a-2027-competiran-con-perfiles-incuestionables-29971306",
-          "dot_color": "#c0392b",
-          "badge": "badge-robo",
-          "badge_txt": "ROBO"
         }
       ]
     },
@@ -249,6 +133,108 @@
       "label": "CIERRE PARCIAL / ACCIDENTES",
       "col2": true,
       "alertas": [
+        {
+          "id": "0aae5a5a",
+          "tipo": "cierre_parcial",
+          "ruta": "Falta de acuerdo de paz entre Irán y EU afecta…",
+          "descripcion": "Falta de acuerdo de paz entre Irán y EU afecta al peso: Así está el tipo de cambio HOY. Especialistas también señalaron que la debilidad del peso se debe a que los inversionistas aún analizan los impactos de la decisión de S&P de cambiar de estable a negativa la perspectiva de la nota de México.",
+          "recomendacion": "",
+          "fecha": "14 mayo 2026 · 10:15 CST",
+          "fecha_iso": "2026-05-14T10:15:00-06:00",
+          "fuente": "El Financiero",
+          "url": "https://www.elfinanciero.com.mx/mercados/2026/05/14/peso-dolar-precio-hoy-14-de-mayo-de-2026/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        },
+        {
+          "id": "e6fc1726",
+          "tipo": "cierre_parcial",
+          "ruta": "Cierra PVEM filas con Ruth González en SLP y rechaza…",
+          "descripcion": "Cierra PVEM filas con Ruth González en SLP y rechaza versión de ruptura. Rumbo a las gubernaturas de 2027",
+          "recomendacion": "",
+          "fecha": "14 mayo 2026 · 09:34 CST",
+          "fecha_iso": "2026-05-14T09:34:00-06:00",
+          "fuente": "Quadratín Michoacán",
+          "url": "https://www.quadratin.com.mx/nacionales/cierra-pvem-filas-con-ruth-gonzalez-en-slp-y-rechaza-version-de-ruptura/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        },
+        {
+          "id": "c0cddd7e",
+          "tipo": "cierre_parcial",
+          "ruta": "Sheinbaum: Jefa de gobierno o jefa de movimiento…",
+          "descripcion": "Sheinbaum: Jefa de gobierno o jefa de movimiento. Va para un mes que Chihuahua cristaliza el choque partidista entre Morena y el PAN, enfrentamiento que genera un ruido nacional e internacional.",
+          "recomendacion": "",
+          "fecha": "14 mayo 2026 · 08:23 CST",
+          "fecha_iso": "2026-05-14T08:23:00-06:00",
+          "fuente": "El Financiero",
+          "url": "https://www.elfinanciero.com.mx/opinion/salvador-camarena/2026/05/14/sheinbaum-jefa-de-gobierno-o-jefa-de-movimiento/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 28.64,
+          "lon": -106.08
+        },
+        {
+          "id": "1ad5135e",
+          "tipo": "cierre_parcial",
+          "ruta": "Más allá de Ormuz…",
+          "descripcion": "Más allá de Ormuz. Los choques de Ormuz son, en esencia, choques de oferta. Afectan energéticos y frutas y verduras vía fertilizantes. Son transitorios, y la política monetaria tiene poca fuerza para hacerles frente.",
+          "recomendacion": "",
+          "fecha": "14 mayo 2026 · 07:54 CST",
+          "fecha_iso": "2026-05-14T07:54:00-06:00",
+          "fuente": "El Financiero",
+          "url": "https://www.elfinanciero.com.mx/opinion/colaborador-invitado/2026/05/14/mas-alla-de-ormuz/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        },
+        {
+          "id": "d333e873",
+          "tipo": "cierre_parcial",
+          "ruta": "Carreteras Bloqueadas Hoy: En Estos Tramos Hay Cierres este 14…",
+          "descripcion": "Carreteras Bloqueadas Hoy: En Estos Tramos Hay Cierres este 14 de Mayo de 2026 - N+. Carreteras Bloqueadas Hoy: En Estos Tramos Hay Cierres este 14 de Mayo de 2026 N+",
+          "recomendacion": "",
+          "fecha": "14 mayo 2026 · 06:39 CST",
+          "fecha_iso": "2026-05-14T06:39:00-06:00",
+          "fuente": "N+",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMXQ0bGNIQmYyQm9aTWdyYkRfOEthYjl3dHo4OXlsNl96S2hOaUFZbWwxdEZLWU9YV1A4TU5pWUFaLUFjcENISjV3THgtazJ4TVN4Z3RiM2J6UjdDeDVkQ3NzVkRKcjNzR0xlUHlLYnVjUXFVNTBuR3UyeVB0QlItSDlOVE95UEVkSnUySnQ3Zk9VbUM4X1JoTTRVWkZfZ3NPbWVFNGlVT09GMklwTGxMeA?oc=5",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        },
+        {
+          "id": "a9fd1d6a",
+          "tipo": "cierre_parcial",
+          "ruta": "DESTROZADO CAMIÓN DE LALA EN CHOQUE POR ALCANCE CONTRA TRÁILER…",
+          "descripcion": "DESTROZADO CAMIÓN DE LALA EN CHOQUE POR ALCANCE CONTRA TRÁILER - Nayarit Noticias. DESTROZADO CAMIÓN DE LALA EN CHOQUE POR ALCANCE CONTRA TRÁILER Nayarit Noticias",
+          "recomendacion": "",
+          "fecha": "14 mayo 2026 · 00:35 CST",
+          "fecha_iso": "2026-05-14T00:35:00-06:00",
+          "fuente": "Nayarit Noticias",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZW9jNTFiUGtwa1U3czJmMndoWkc0MUZDZENwSEl3R1RxeXI0eG84cmJhWWxscmN4VUVrdUI2Uk9VUmNvN0ZJOERHdEpfVVl1MHNNbVJFLThYenJqbnVBLVF6QW1BZG1CQ1RucklreXlFTnQ1OURDVU5qM1Y5WUwyU1Vqam41ekplVW13alhDSjNReHI2eUxseVJNOGpOM2ZraVlNZg?oc=5",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 21.75,
+          "lon": -104.85
+        },
+        {
+          "id": "46aab97c",
+          "tipo": "cierre_parcial",
+          "ruta": "Trump y Xi defienden libre tránsito en el estrecho de…",
+          "descripcion": "Trump y Xi defienden libre tránsito en el estrecho de Ormuz. Los presidentes de Estados Unidos y China coincidieron con la libre circulación energética en el estrecho de Ormuz durante su reunión en Pekín",
+          "recomendacion": "",
+          "fecha": "14 mayo 2026 · 00:12 CST",
+          "fecha_iso": "2026-05-14T00:12:00-06:00",
+          "fuente": "El Sol de México",
+          "url": "https://oem.com.mx/elsoldemexico/mundo/trump-y-xi-defienden-libre-transito-en-el-estrecho-de-ormuz-29976704",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        },
         {
           "id": "72abd16e",
           "tipo": "cierre_parcial",
@@ -264,25 +250,37 @@
           "badge_txt": "CIERRE PARCIAL",
           "lat": 19.04,
           "lon": -98.2
-        },
-        {
-          "id": "f6934623",
-          "tipo": "cierre_parcial",
-          "ruta": "Hacienda confía en acciones para dar revés a perspectiva negativa…",
-          "descripcion": "Hacienda confía en acciones para dar revés a perspectiva negativa de SP. Édgar Amador Zamora, titular de la Secretaría de Hacienda y Crédito Público, destacó que la mayoría de la deuda pública está en moneda nacional y se converge a reducir el déficit al cierre de año.",
-          "recomendacion": "",
-          "fecha": "13 mayo 2026 · 09:56 CST",
-          "fecha_iso": "2026-05-13T09:56:00-06:00",
-          "fuente": "Expansión",
-          "url": "https://expansion.mx/economia/2026/05/13/hacienda-confia-acciones-perspectiva-negativa-sp",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
         }
       ]
     }
   ],
   "para_mapa": [
+    {
+      "id": "c0cddd7e",
+      "tipo": "cierre_parcial",
+      "ruta": "Sheinbaum: Jefa de gobierno o jefa de movimiento…",
+      "descripcion": "Sheinbaum: Jefa de gobierno o jefa de movimiento. Va para un mes que Chihuahua cristaliza el choque partidista entre Morena y el PAN, enfrentamiento que genera un ruido nacional e internacional.",
+      "fecha": "14 mayo 2026 · 08:23 CST",
+      "fuente": "El Financiero",
+      "url": "https://www.elfinanciero.com.mx/opinion/salvador-camarena/2026/05/14/sheinbaum-jefa-de-gobierno-o-jefa-de-movimiento/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 28.64,
+      "lon": -106.08
+    },
+    {
+      "id": "a9fd1d6a",
+      "tipo": "cierre_parcial",
+      "ruta": "DESTROZADO CAMIÓN DE LALA EN CHOQUE POR ALCANCE CONTRA TRÁILER…",
+      "descripcion": "DESTROZADO CAMIÓN DE LALA EN CHOQUE POR ALCANCE CONTRA TRÁILER - Nayarit Noticias. DESTROZADO CAMIÓN DE LALA EN CHOQUE POR ALCANCE CONTRA TRÁILER Nayarit Noticias",
+      "fecha": "14 mayo 2026 · 00:35 CST",
+      "fuente": "Nayarit Noticias",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZW9jNTFiUGtwa1U3czJmMndoWkc0MUZDZENwSEl3R1RxeXI0eG84cmJhWWxscmN4VUVrdUI2Uk9VUmNvN0ZJOERHdEpfVVl1MHNNbVJFLThYenJqbnVBLVF6QW1BZG1CQ1RucklreXlFTnQ1OURDVU5qM1Y5WUwyU1Vqam41ekplVW13alhDSjNReHI2eUxseVJNOGpOM2ZraVlNZg?oc=5",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 21.75,
+      "lon": -104.85
+    },
     {
       "id": "09f46716",
       "tipo": "bloqueo",
@@ -297,19 +295,6 @@
       "lon": -99.5
     },
     {
-      "id": "e9ec1896",
-      "tipo": "robo",
-      "ruta": "Detienen a exempleado de banco por el robo de 3.6…",
-      "descripcion": "Detienen a exempleado de banco por el robo de 3.6 millones de pesos de la nómina del DIF Oaxaca. Detienen en Oaxaca a exempleado de Banamex acusado de filtrar información bancaria para cometer robos a cuentahabientes; operaba con una banda en seis estados del país.",
-      "fecha": "13 mayo 2026 · 21:21 CST",
-      "fuente": "El Financiero",
-      "url": "https://www.elfinanciero.com.mx/nacional/2026/05/13/detienen-a-exempleado-de-banco-por-el-robo-de-36-millones-de-pesos-de-la-nomina-del-dif-oaxaca/",
-      "dot_color": "#c0392b",
-      "badge_txt": "ROBO",
-      "lat": 17.06,
-      "lon": -96.72
-    },
-    {
       "id": "19df17fc",
       "tipo": "robo",
       "ruta": "Detienen a Cuatro por Presunto Robo a Transporte de Carga…",
@@ -321,19 +306,6 @@
       "badge_txt": "ROBO",
       "lat": 19.04,
       "lon": -98.2
-    },
-    {
-      "id": "ac45bac0",
-      "tipo": "bloqueo",
-      "ruta": "Farid Acevedo rinde protesta como nuevo rector de la UABJO…",
-      "descripcion": "Farid Acevedo rinde protesta como nuevo rector de la UABJO para el periodo. Farid Acevedo López asumió la Rectoría de la Universidad Autónoma Benito Juárez de Oaxaca (UABJO) para el periodo 2026-2030 tras obtener 13 mil 776 votos; anunció una gestión enfocada en unidad, fortalecimiento académico, inclusión y defensa de la autonomía universitaria.",
-      "fecha": "13 mayo 2026 · 19:55 CST",
-      "fuente": "El Sol de México",
-      "url": "https://oem.com.mx/elsoldemexico/mexico/farid-acevedo-rinde-protesta-como-nuevo-rector-de-la-uabjo-para-el-periodo-29974488",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 17.06,
-      "lon": -96.72
     },
     {
       "id": "72abd16e",
