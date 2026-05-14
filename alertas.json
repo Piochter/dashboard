@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-05-14T10:22:16.677671-06:00",
-  "ultima_actualizacion_legible": "14 de mayo de 2026 · 10:22 CST",
-  "total": 14,
+  "ultima_actualizacion": "2026-05-14T14:32:21.565183-06:00",
+  "ultima_actualizacion_legible": "14 de mayo de 2026 · 14:32 CST",
+  "total": 17,
   "ventana": "últimas 24 horas",
   "fuentes": [
     "Google News",
@@ -9,29 +9,6 @@
     "Medios regionales"
   ],
   "grupos": [
-    {
-      "tipo": "cierre_total",
-      "color": "rojo",
-      "icono": "🔴",
-      "label": "CIERRE TOTAL",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "d300508b",
-          "tipo": "cierre_total",
-          "ruta": "Autopista Acatzingo-Cd",
-          "descripcion": "Vuelca Tractocamión con Fierro Oxidado en Autopista Acatzingo-Cd. Mendoza: Hay Cierre Total - N+. Vuelca Tractocamión con Fierro Oxidado en Autopista Acatzingo-Cd. Mendoza: Hay Cierre Total N+",
-          "recomendacion": "",
-          "fecha": "13 mayo 2026 · 13:42 CST",
-          "fecha_iso": "2026-05-13T13:42:00-06:00",
-          "fuente": "N+",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSGkzVTZpTzY4Q0dQTWIxd3VsYUNRS1JmUTU0R2I0TngtMmhhTEVwU09STzBZMFBieWlBdEQtMFU2cWhGWFNvZHd0cXpaVEMwMHdNeFoyakU0ZTJ1c3lMTzFzajBMemlQbVRzbUJrWWZGdjRaYzR1RXljOWdnQUQ4VDJ6bzhLcEU1STNTNEVtS0xKT1FjamUzX1hITm9FaE92RzV2Rzl5UUozVHZXcWhodFVlc1VZV3RYck03LVk2cWlKX3hVX2tzRHU5SFNRUQ?oc=5",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL"
-        }
-      ]
-    },
     {
       "tipo": "bloqueo",
       "color": "rojo",
@@ -54,22 +31,6 @@
           "badge_txt": "BLOQUEO"
         },
         {
-          "id": "09f46716",
-          "tipo": "bloqueo",
-          "ruta": "Sheinbaum: Autoridades federales se mantendrán en Chilapa…",
-          "descripcion": "Sheinbaum: Autoridades federales se mantendrán en Chilapa. La presidenta de México, Claudia Sheinbaum, informó que el Gobierno federal y la administración de Guerrero mantendrán presencia permanente en Chilapa y comunidades de la Montaña baja, tras los hechos de violencia registrados en la región, donde ataques armados y presuntos drones artillados provocaron desplazamientos de familias y bloqueos carreteros. La primera mandataria señaló que […]",
-          "recomendacion": "",
-          "fecha": "14 mayo 2026 · 00:01 CST",
-          "fecha_iso": "2026-05-14T00:01:00-06:00",
-          "fuente": "24 Horas",
-          "url": "https://24-horas.mx/columnas/desde-las-camaras-legislativas/sheinbaum-autoridades-federales-se-mantendran-en-chilapa/",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 17.55,
-          "lon": -99.5
-        },
-        {
           "id": "eccbdb49",
           "tipo": "bloqueo",
           "ruta": "Bloqueo de transportistas en la México-Pachuca este miércoles: así avanza…",
@@ -84,20 +45,6 @@
           "badge_txt": "BLOQUEO",
           "lat": 20.12,
           "lon": -98.73
-        },
-        {
-          "id": "9643e8f2",
-          "tipo": "bloqueo",
-          "ruta": "Últimas noticias EN VIVO de los bloqueos que afectan carreteras…",
-          "descripcion": "Últimas noticias EN VIVO de los bloqueos que afectan carreteras en México hoy 13 de mayo - TV Azteca. Últimas noticias EN VIVO de los bloqueos que afectan carreteras en México hoy 13 de mayo TV Azteca",
-          "recomendacion": "",
-          "fecha": "13 mayo 2026 · 14:06 CST",
-          "fecha_iso": "2026-05-13T14:06:00-06:00",
-          "fuente": "TV Azteca",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcVVhWWd0VENWTXVUYjctd2FGbVNpSFRQVjhwUVFON3VPRy1IWTBaTGwtSEJNcDhISDBnTmI0TmNoZEhkY3BlVHV3bXgyS3lkQ25KWktBS0UtNUEtYmVyOEZMOGpUOXB6Y2NTcDcwOWFqQWU1SE5KTE5RNnZXbHJ4ZW1BTUhQbnA5TUtEaG5oSUh1MFdXR0xEcHFTd2xPYWtFREJubFl0V1R6dmRkUXVuOFNn?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
         }
       ]
     },
@@ -108,6 +55,22 @@
       "label": "ROBOS EN CARRETERA",
       "col2": true,
       "alertas": [
+        {
+          "id": "f2de567a",
+          "tipo": "robo",
+          "ruta": "Robo vehicular cae 15%, pero las flotillas ya no confían…",
+          "descripcion": "Robo vehicular cae 15%, pero las flotillas ya no confían solo en el GPS. El promedio de automóviles robados en enero de 2026 es de 147, por ello las flotillas usan IA y telemática para proteger sus unidades.",
+          "recomendacion": "",
+          "fecha": "14 mayo 2026 · 12:30 CST",
+          "fecha_iso": "2026-05-14T12:30:00-06:00",
+          "fuente": "Expansión",
+          "url": "https://expansion.mx/tecnologia/2026/05/14/robo-vehicular-cae-15-pero-las-flotillas-ya-no-confian-solo-en-el-gps",
+          "dot_color": "#c0392b",
+          "badge": "badge-robo",
+          "badge_txt": "ROBO",
+          "lat": 21.0,
+          "lon": -104.0
+        },
         {
           "id": "19df17fc",
           "tipo": "robo",
@@ -134,6 +97,80 @@
       "col2": true,
       "alertas": [
         {
+          "id": "3ce91d1e",
+          "tipo": "cierre_parcial",
+          "ruta": "Perfila PVEM a Ruth González como candidata en SLP, pese…",
+          "descripcion": "Perfila PVEM a Ruth González como candidata en SLP, pese a estar en contra del nepotismo. Ruth González, esposa del gobernador de SLP, es la mejor posicionada para ser candidata y sustituir a Ricardo Gallardo en el cargo",
+          "recomendacion": "",
+          "fecha": "14 mayo 2026 · 14:21 CST",
+          "fecha_iso": "2026-05-14T14:21:00-06:00",
+          "fuente": "24 Horas",
+          "url": "https://24-horas.mx/mexico/perfila-pvem-a-ruth-gonzalez-como-candidata-en-slp-pese-a-estar-en-contra-del-nepotismo/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        },
+        {
+          "id": "f8125323",
+          "tipo": "cierre_parcial",
+          "ruta": "Tuvo Guardia Nacional 11 mil 860 bajas y deserciones en…",
+          "descripcion": "Tuvo Guardia Nacional 11 mil 860 bajas y deserciones en 2025. De acuerdo con el Informe Anual de Actividades",
+          "recomendacion": "",
+          "fecha": "14 mayo 2026 · 14:08 CST",
+          "fecha_iso": "2026-05-14T14:08:00-06:00",
+          "fuente": "Quadratín Michoacán",
+          "url": "https://www.quadratin.com.mx/nacionales/tuvo-guardia-nacional-11-mil-860-bajas-y-deserciones-en-2025/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        },
+        {
+          "id": "458509a2",
+          "tipo": "cierre_parcial",
+          "ruta": "Ruth González, esposa del ‘góber’ de SLP, será candidata… pese…",
+          "descripcion": "Ruth González, esposa del ‘góber’ de SLP, será candidata… pese a que el Verde se dice vs. el nepotismo. Ruth González Silva, senadora y esposa del actual gobernador de San Luis Potosí, se perfila como candidata al gobierno de SLP en las elecciones 2027, señaló Karen Castrejón, presidenta del Partido Verde.",
+          "recomendacion": "",
+          "fecha": "14 mayo 2026 · 12:51 CST",
+          "fecha_iso": "2026-05-14T12:51:00-06:00",
+          "fuente": "El Financiero",
+          "url": "https://www.elfinanciero.com.mx/estados/2026/05/14/ruth-gonzalez-esposa-del-gobernador-de-slp-sera-candidata-no-es-nepotismo-partido-verde/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 22.15,
+          "lon": -100.97
+        },
+        {
+          "id": "600b4356",
+          "tipo": "cierre_parcial",
+          "ruta": "Carretera a Chapala por obras",
+          "descripcion": "Conoce los horarios de los cierres viales en la Carretera a Chapala por obras. Revisa los horarios de las afectaciones viales en Carretera a Chapala por los trabajos en el Aeropuerto de Guadalajara para planear tu viaje con anticipación",
+          "recomendacion": "",
+          "fecha": "14 mayo 2026 · 12:47 CST",
+          "fecha_iso": "2026-05-14T12:47:00-06:00",
+          "fuente": "El Informador Jalisco",
+          "url": "https://www.informador.mx/jalisco/conoce-los-horarios-de-los-cierres-viales-en-la-carretera-a-chapala-por-obras-del-aeropuerto-de-guadalajara-20260514-0112.html",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 20.66,
+          "lon": -103.35
+        },
+        {
+          "id": "82ef620b",
+          "tipo": "cierre_parcial",
+          "ruta": "Choferes de plataformas agradecen base en aeropuerto, pero piden mesa…",
+          "descripcion": "Choferes de plataformas agradecen base en aeropuerto, pero piden mesa de trabajo. El espacio para taxis de plataforma se ubicará bajo los espectaculares del retorno elevado a la Carretera a Chapala",
+          "recomendacion": "",
+          "fecha": "14 mayo 2026 · 12:08 CST",
+          "fecha_iso": "2026-05-14T12:08:00-06:00",
+          "fuente": "El Informador Jalisco",
+          "url": "https://www.informador.mx/jalisco/choferes-de-plataformas-piden-mesa-de-trabajo-para-atender-necesidades-del-aeropuerto-internacional-de-guadalajara-durante-el-mundial-2026-20260514-0106.html",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        },
+        {
           "id": "0aae5a5a",
           "tipo": "cierre_parcial",
           "ruta": "Falta de acuerdo de paz entre Irán y EU afecta…",
@@ -143,20 +180,6 @@
           "fecha_iso": "2026-05-14T10:15:00-06:00",
           "fuente": "El Financiero",
           "url": "https://www.elfinanciero.com.mx/mercados/2026/05/14/peso-dolar-precio-hoy-14-de-mayo-de-2026/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
-        },
-        {
-          "id": "e6fc1726",
-          "tipo": "cierre_parcial",
-          "ruta": "Cierra PVEM filas con Ruth González en SLP y rechaza…",
-          "descripcion": "Cierra PVEM filas con Ruth González en SLP y rechaza versión de ruptura. Rumbo a las gubernaturas de 2027",
-          "recomendacion": "",
-          "fecha": "14 mayo 2026 · 09:34 CST",
-          "fecha_iso": "2026-05-14T09:34:00-06:00",
-          "fuente": "Quadratín Michoacán",
-          "url": "https://www.quadratin.com.mx/nacionales/cierra-pvem-filas-con-ruth-gonzalez-en-slp-y-rechaza-version-de-ruptura/",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL"
@@ -178,15 +201,15 @@
           "lon": -106.08
         },
         {
-          "id": "1ad5135e",
+          "id": "e559b353",
           "tipo": "cierre_parcial",
-          "ruta": "Más allá de Ormuz…",
-          "descripcion": "Más allá de Ormuz. Los choques de Ormuz son, en esencia, choques de oferta. Afectan energéticos y frutas y verduras vía fertilizantes. Son transitorios, y la política monetaria tiene poca fuerza para hacerles frente.",
+          "ruta": "Erika N asegura que muerte de ex reina de belleza…",
+          "descripcion": "Erika N asegura que muerte de ex reina de belleza Carolina Flores fue por “accidente”. Erika María “N” dijo que desconoce dónde está el arma con la que habría disparado contra Carolina Flores Gómez, quien era esposa de su hijo",
           "recomendacion": "",
-          "fecha": "14 mayo 2026 · 07:54 CST",
-          "fecha_iso": "2026-05-14T07:54:00-06:00",
-          "fuente": "El Financiero",
-          "url": "https://www.elfinanciero.com.mx/opinion/colaborador-invitado/2026/05/14/mas-alla-de-ormuz/",
+          "fecha": "14 mayo 2026 · 07:04 CST",
+          "fecha_iso": "2026-05-14T07:04:00-06:00",
+          "fuente": "El Sol de México",
+          "url": "https://oem.com.mx/elsoldemexico/mexico/erika-n-asegura-que-muerte-de-ex-reina-de-belleza-carolina-flores-fue-por-accidente-29981906",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL"
@@ -201,6 +224,20 @@
           "fecha_iso": "2026-05-14T06:39:00-06:00",
           "fuente": "N+",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMXQ0bGNIQmYyQm9aTWdyYkRfOEthYjl3dHo4OXlsNl96S2hOaUFZbWwxdEZLWU9YV1A4TU5pWUFaLUFjcENISjV3THgtazJ4TVN4Z3RiM2J6UjdDeDVkQ3NzVkRKcjNzR0xlUHlLYnVjUXFVNTBuR3UyeVB0QlItSDlOVE95UEVkSnUySnQ3Zk9VbUM4X1JoTTRVWkZfZ3NPbWVFNGlVT09GMklwTGxMeA?oc=5",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        },
+        {
+          "id": "82d19600",
+          "tipo": "cierre_parcial",
+          "ruta": "¡Vamos, México! El impacto del “Tri” y el consumo del…",
+          "descripcion": "¡Vamos, México! El impacto del “Tri” y el consumo del mexicano. La prolongada participación de México en el Mundial tiene un efecto multiplicador directo, casi simbiótico, y perfectamente cuantificable en el consumo masivo y el Producto Interno Bruto nacional.",
+          "recomendacion": "",
+          "fecha": "14 mayo 2026 · 06:02 CST",
+          "fecha_iso": "2026-05-14T06:02:00-06:00",
+          "fuente": "Expansión",
+          "url": "https://expansion.mx/opinion/2026/05/14/vamos-mexico-el-impacto-del-tri-y-el-consumo-del-mexicano",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL"
@@ -256,6 +293,45 @@
   ],
   "para_mapa": [
     {
+      "id": "458509a2",
+      "tipo": "cierre_parcial",
+      "ruta": "Ruth González, esposa del ‘góber’ de SLP, será candidata… pese…",
+      "descripcion": "Ruth González, esposa del ‘góber’ de SLP, será candidata… pese a que el Verde se dice vs. el nepotismo. Ruth González Silva, senadora y esposa del actual gobernador de San Luis Potosí, se perfila como candidata al gobierno de SLP en las elecciones 2027, señaló Karen Castrejón, presidenta del Partido Verde.",
+      "fecha": "14 mayo 2026 · 12:51 CST",
+      "fuente": "El Financiero",
+      "url": "https://www.elfinanciero.com.mx/estados/2026/05/14/ruth-gonzalez-esposa-del-gobernador-de-slp-sera-candidata-no-es-nepotismo-partido-verde/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 22.15,
+      "lon": -100.97
+    },
+    {
+      "id": "600b4356",
+      "tipo": "cierre_parcial",
+      "ruta": "Carretera a Chapala por obras",
+      "descripcion": "Conoce los horarios de los cierres viales en la Carretera a Chapala por obras. Revisa los horarios de las afectaciones viales en Carretera a Chapala por los trabajos en el Aeropuerto de Guadalajara para planear tu viaje con anticipación",
+      "fecha": "14 mayo 2026 · 12:47 CST",
+      "fuente": "El Informador Jalisco",
+      "url": "https://www.informador.mx/jalisco/conoce-los-horarios-de-los-cierres-viales-en-la-carretera-a-chapala-por-obras-del-aeropuerto-de-guadalajara-20260514-0112.html",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 20.66,
+      "lon": -103.35
+    },
+    {
+      "id": "f2de567a",
+      "tipo": "robo",
+      "ruta": "Robo vehicular cae 15%, pero las flotillas ya no confían…",
+      "descripcion": "Robo vehicular cae 15%, pero las flotillas ya no confían solo en el GPS. El promedio de automóviles robados en enero de 2026 es de 147, por ello las flotillas usan IA y telemática para proteger sus unidades.",
+      "fecha": "14 mayo 2026 · 12:30 CST",
+      "fuente": "Expansión",
+      "url": "https://expansion.mx/tecnologia/2026/05/14/robo-vehicular-cae-15-pero-las-flotillas-ya-no-confian-solo-en-el-gps",
+      "dot_color": "#c0392b",
+      "badge_txt": "ROBO",
+      "lat": 21.0,
+      "lon": -104.0
+    },
+    {
       "id": "c0cddd7e",
       "tipo": "cierre_parcial",
       "ruta": "Sheinbaum: Jefa de gobierno o jefa de movimiento…",
@@ -280,19 +356,6 @@
       "badge_txt": "CIERRE PARCIAL",
       "lat": 21.75,
       "lon": -104.85
-    },
-    {
-      "id": "09f46716",
-      "tipo": "bloqueo",
-      "ruta": "Sheinbaum: Autoridades federales se mantendrán en Chilapa…",
-      "descripcion": "Sheinbaum: Autoridades federales se mantendrán en Chilapa. La presidenta de México, Claudia Sheinbaum, informó que el Gobierno federal y la administración de Guerrero mantendrán presencia permanente en Chilapa y comunidades de la Montaña baja, tras los hechos de violencia registrados en la región, donde ataques armados y presuntos drones artillados provocaron desplazamientos de familias y bloqueos carreteros. La primera mandataria señaló que […]",
-      "fecha": "14 mayo 2026 · 00:01 CST",
-      "fuente": "24 Horas",
-      "url": "https://24-horas.mx/columnas/desde-las-camaras-legislativas/sheinbaum-autoridades-federales-se-mantendran-en-chilapa/",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 17.55,
-      "lon": -99.5
     },
     {
       "id": "19df17fc",
