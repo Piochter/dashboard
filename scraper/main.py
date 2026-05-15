@@ -725,7 +725,7 @@ def fetch_rsshub() -> list[dict]:
     for cuenta in CUENTAS_X:
         obtenido = False
         for base in RSSHUB_INSTANCES:
-            url  = f"{base}/twitter/user/{cuenta}"
+            url  = f"{base}/x/user/{cuenta}"
             resp = get(url, timeout=12)
             if not resp:
                 continue
