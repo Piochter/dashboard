@@ -8,7 +8,7 @@
 ║    • RSS regionales    — 10 medios estatales                        ║
 ║    • CAPUFE directo    — scraping página oficial                    ║
 ║    • CONAGUA/SMN       — XML oficial                                ║
-║    • Nitter/X          — RSS de @CAPUFE_Oficial y @GN_Carreteras    ║
+║    • RSSHub            — RSS de cuentas X sin API key               ║
 ║  Ventana: últimas LOOKBACK_HORAS horas (default 24, configurable)   ║
 ╚══════════════════════════════════════════════════════════════════════╝
 """
@@ -29,7 +29,7 @@ RUN_MODE       = os.getenv("SCRAPER_RUN_MODE", "all")
 ACCEPT_UNDATED = os.getenv("SCRAPER_ACCEPT_UNDATED", "false").lower() == "true"
 
 # ─────────────────────────────────────────────────────────────────────
-# GOOGLE NEWS RSS — 28 queries
+# GOOGLE NEWS RSS
 # ─────────────────────────────────────────────────────────────────────
 GNEWS_BASE = (
     "https://news.google.com/rss/search"
@@ -122,27 +122,49 @@ CAPUFE_URLS = [
 ]
 
 # ─────────────────────────────────────────────────────────────────────
-# NITTER
+# RSSHUB — instancias públicas + cuentas X de vialidad
 # ─────────────────────────────────────────────────────────────────────
-NITTER_INSTANCES = [
-    "https://nitter.poast.org",
-    "https://nitter.privacydev.net",
-    "https://xcancel.com",
-    "https://nitter.cz",
-    "https://nitter.1d4.us",
-    "https://nitter.nicfab.eu",
-    "https://nitter.rawbit.ninja",
-    "https://nitter.mint.lgbt",
+RSSHUB_INSTANCES = [
+    "https://rsshub.app",
+    "https://hub.slarker.me",
+    "https://rsshub.rssforever.com",
+    "https://rsshub.feeded.xyz",
+    "https://rsshub.woodland.cafe",
+    "https://rss.fatpandadev.com",
 ]
 
 CUENTAS_X = [
-    "CAPUFE_Oficial", "GN_Carreteras", "SICT_mx", "088_GN",
-    "SEMAR_mx", "conagua_clima", "C5_CDMX", "OVIALCDMX",
-    "SSC_CDMX", "LaDeTrafico", "CAE_AAM", "Circuito_mx",
-    "C5Edomex", "Vialidad_EDOMEX", "PolVial_GobOax", "PC_Oaxaca",
-    "RED_Michoacan", "SICT_Michoacan", "SSP_Jalisco", "C4iSinaloa",
-    "SICT_BC", "nSaltillo", "RedVialRC", "SatelTrack",
-    "LaHoraMX", "InformaOriente",
+    # Federales y carreteras
+    "CAPUFE_Oficial",
+    "GN_Carreteras",
+    "SICT_mx",
+    "088_GN",
+    "SEMAR_mx",
+    "conagua_clima",
+    # Vialidad CDMX y área metropolitana
+    "C5_CDMX",
+    "OVIALCDMX",
+    "SSC_CDMX",
+    "LaDeTrafico",
+    "CAE_AAM",
+    "Circuito_mx",
+    # Estado de México
+    "C5Edomex",
+    "Vialidad_EDOMEX",
+    # Regionales
+    "PolVial_GobOax",
+    "PC_Oaxaca",
+    "RED_Michoacan",
+    "SICT_Michoacan",
+    "SSP_Jalisco",
+    "C4iSinaloa",
+    "SICT_BC",
+    "nSaltillo",
+    "RedVialRC",
+    # Especializados
+    "SatelTrack",
+    "LaHoraMX",
+    "InformaOriente",
 ]
 
 # ─────────────────────────────────────────────────────────────────────
@@ -217,32 +239,32 @@ TIPO_CONFIG = {
 # COORDENADAS
 # ─────────────────────────────────────────────────────────────────────
 COORD_MAP = {
-    "mexico puebla":           (19.35, -98.40),  "150d":            (19.35, -98.40),
-    "mexico queretaro":        (20.10, -99.50),  "57d":             (20.10, -99.50),
-    "mexico guadalajara":      (20.40,-103.35),  "15d":             (20.40,-103.35),
-    "mexico veracruz":         (19.20, -96.80),  "140d":            (19.20, -96.80),
-    "mexico acapulco":         (17.55, -99.50),  "95d":             (17.55, -99.50),
-    "mexico laredo":           (24.00, -99.00),  "85d":             (24.00, -99.00),
-    "mexico tuxpan":           (20.50, -97.90),  "130d":            (20.50, -97.90),
-    "tepic guadalajara":       (21.00,-104.00),  "15":              (21.00,-104.00),
-    "puebla cordoba":          (18.90, -97.00),  "150":             (18.90, -97.00),
-    "siglo xxi":               (19.30,-104.00),  "jiquilpan manzanillo": (19.30,-104.00),
+    "mexico puebla":           (19.35, -98.40),  "150d":                  (19.35, -98.40),
+    "mexico queretaro":        (20.10, -99.50),  "57d":                   (20.10, -99.50),
+    "mexico guadalajara":      (20.40,-103.35),  "15d":                   (20.40,-103.35),
+    "mexico veracruz":         (19.20, -96.80),  "140d":                  (19.20, -96.80),
+    "mexico acapulco":         (17.55, -99.50),  "95d":                   (17.55, -99.50),
+    "mexico laredo":           (24.00, -99.00),  "85d":                   (24.00, -99.00),
+    "mexico tuxpan":           (20.50, -97.90),  "130d":                  (20.50, -97.90),
+    "tepic guadalajara":       (21.00,-104.00),  "15":                    (21.00,-104.00),
+    "puebla cordoba":          (18.90, -97.00),  "150":                   (18.90, -97.00),
+    "siglo xxi":               (19.30,-104.00),  "jiquilpan manzanillo":  (19.30,-104.00),
     "cuernavaca acapulco":     (18.20, -99.20),
     "amozoc":                  (19.10, -98.00),
     "tinaja isla":             (18.10, -95.20),
     "arco norte":              (19.80, -99.10),
-    "monterrey saltillo":      (25.50,-100.90),  "40d":             (25.50,-100.90),
-    "monterrey laredo":        (26.50, -99.50),  "85":              (26.50, -99.50),
+    "monterrey saltillo":      (25.50,-100.90),  "40d":                   (25.50,-100.90),
+    "monterrey laredo":        (26.50, -99.50),  "85":                    (26.50, -99.50),
     "guadalajara zapotlanejo": (20.65,-103.00),
-    "colima manzanillo":       (19.10,-104.30),  "200":             (19.10,-104.30),
-    "aguascalientes guadalajara":(21.20,-102.50),"45d":             (21.20,-102.50),
+    "colima manzanillo":       (19.10,-104.30),  "200":                   (19.10,-104.30),
+    "aguascalientes guadalajara":(21.20,-102.50),"45d":                   (21.20,-102.50),
     "irapuato guadalajara":    (20.70,-102.60),
     "leon silao":              (21.12,-101.68),
     "celaya queretaro":        (20.55,-100.60),
-    "queretaro san luis":      (21.50,-100.00),  "57":              (21.50,-100.00),
-    "san luis tampico":        (22.50, -99.00),  "80":              (22.50, -99.00),
+    "queretaro san luis":      (21.50,-100.00),  "57":                    (21.50,-100.00),
+    "san luis tampico":        (22.50, -99.00),  "80":                    (22.50, -99.00),
     "tampico ciudad mante":    (22.80, -98.20),
-    "torreon saltillo":        (25.20,-102.00),  "40":              (25.20,-102.00),
+    "torreon saltillo":        (25.20,-102.00),  "40":                    (25.20,-102.00),
     "culiacan mazatlan":       (23.70,-106.70),
     "mazatlan durango":        (23.60,-105.90),
     "tijuana ensenada":        (31.70,-116.70),
@@ -250,7 +272,7 @@ COORD_MAP = {
     "navojoa hermosillo":      (28.00,-109.90),
     "chihuahua ciudad juarez": (30.40,-106.40),
     "parral chihuahua":        (27.00,-105.70),
-    "durango mazatlan":        (24.50,-106.00),  "40 libre":        (24.50,-106.00),
+    "durango mazatlan":        (24.50,-106.00),  "40 libre":              (24.50,-106.00),
     "veracruz coatzacoalcos":  (18.20, -94.80),
     "oaxaca istmo":            (16.50, -95.00),
     "cordoba veracruz":        (18.80, -96.90),
@@ -261,47 +283,47 @@ COORD_MAP = {
     "campeche merida":         (20.30, -90.30),
     "chetumal cancun":         (19.80, -87.40),
     "palenque san cristobal":  (17.00, -92.70),
-    "tuxtla gutierrez":        (16.75, -93.12),  "190":             (16.75, -93.12),
+    "tuxtla gutierrez":        (16.75, -93.12),  "190":                   (16.75, -93.12),
     "arriaga tonala":          (15.90, -93.90),
     "carretera federal 2":     (30.00,-108.00),
     "carretera federal 45":    (23.00,-102.50),
     "libre federal":           (22.00,-100.00),
-    "jalisco":         (20.66,-103.35), "veracruz":    (19.18, -96.14),
-    "oaxaca":          (17.06, -96.72), "guerrero":    (17.55, -99.50),
-    "chiapas":         (16.75, -93.12), "puebla":      (19.04, -98.20),
-    "hidalgo":         (20.11, -98.73), "michoacan":   (19.70,-101.19),
-    "guanajuato":      (21.02,-101.26), "cdmx":        (19.43, -99.13),
-    "edomex":          (19.35, -99.70), "tamaulipas":  (24.26, -98.84),
-    "nuevo leon":      (25.67,-100.31), "sinaloa":     (24.80,-107.39),
-    "sonora":          (29.07,-110.96), "chihuahua":   (28.64,-106.08),
-    "baja california": (30.84,-115.28), "baja sur":    (23.70,-110.00),
-    "coahuila":        (27.06,-101.71), "durango":     (24.02,-104.66),
-    "zacatecas":       (22.77,-102.58), "san luis":    (22.15,-100.97),
-    "nayarit":         (21.75,-104.85), "colima":      (19.24,-103.72),
-    "tlaxcala":        (19.32, -98.24), "morelos":     (18.67, -99.10),
-    "queretaro":       (20.59,-100.39), "aguascalientes":(21.88,-102.29),
-    "tabasco":         (17.99, -92.93), "campeche":    (19.83, -90.53),
-    "yucatan":         (20.97, -89.62), "quintana roo":(18.50, -88.30),
-    "monterrey":       (25.67,-100.31), "guadalajara": (20.66,-103.35),
-    "hermosillo":      (29.07,-110.96), "tijuana":     (32.52,-117.00),
-    "ciudad juarez":   (31.69,-106.42), "culiacan":    (24.80,-107.39),
-    "mazatlan":        (23.24,-106.41), "manzanillo":  (19.05,-104.32),
-    "acapulco":        (16.86, -99.88), "cancun":      (21.16, -86.85),
-    "merida":          (20.97, -89.62), "cuernavaca":  (18.92, -99.23),
-    "toluca":          (19.29, -99.66), "pachuca":     (20.12, -98.73),
-    "xalapa":          (19.53, -96.91), "villahermosa":(17.99, -92.93),
-    "tuxtla":          (16.75, -93.12),
+    "jalisco":          (20.66,-103.35), "veracruz":     (19.18, -96.14),
+    "oaxaca":           (17.06, -96.72), "guerrero":     (17.55, -99.50),
+    "chiapas":          (16.75, -93.12), "puebla":       (19.04, -98.20),
+    "hidalgo":          (20.11, -98.73), "michoacan":    (19.70,-101.19),
+    "guanajuato":       (21.02,-101.26), "cdmx":         (19.43, -99.13),
+    "edomex":           (19.35, -99.70), "tamaulipas":   (24.26, -98.84),
+    "nuevo leon":       (25.67,-100.31), "sinaloa":      (24.80,-107.39),
+    "sonora":           (29.07,-110.96), "chihuahua":    (28.64,-106.08),
+    "baja california":  (30.84,-115.28), "baja sur":     (23.70,-110.00),
+    "coahuila":         (27.06,-101.71), "durango":      (24.02,-104.66),
+    "zacatecas":        (22.77,-102.58), "san luis":     (22.15,-100.97),
+    "nayarit":          (21.75,-104.85), "colima":       (19.24,-103.72),
+    "tlaxcala":         (19.32, -98.24), "morelos":      (18.67, -99.10),
+    "queretaro":        (20.59,-100.39), "aguascalientes":(21.88,-102.29),
+    "tabasco":          (17.99, -92.93), "campeche":     (19.83, -90.53),
+    "yucatan":          (20.97, -89.62), "quintana roo": (18.50, -88.30),
+    "monterrey":        (25.67,-100.31), "guadalajara":  (20.66,-103.35),
+    "hermosillo":       (29.07,-110.96), "tijuana":      (32.52,-117.00),
+    "ciudad juarez":    (31.69,-106.42), "culiacan":     (24.80,-107.39),
+    "mazatlan":         (23.24,-106.41), "manzanillo":   (19.05,-104.32),
+    "acapulco":         (16.86, -99.88), "cancun":       (21.16, -86.85),
+    "merida":           (20.97, -89.62), "cuernavaca":   (18.92, -99.23),
+    "toluca":           (19.29, -99.66), "pachuca":      (20.12, -98.73),
+    "xalapa":           (19.53, -96.91), "villahermosa": (17.99, -92.93),
+    "tuxtla":           (16.75, -93.12),
 }
 
 # ─────────────────────────────────────────────────────────────────────
-# FALSOS POSITIVOS — ampliado con contextos no viales
+# FALSOS POSITIVOS
 # ─────────────────────────────────────────────────────────────────────
 FALSOS_POSITIVOS = [
     # Resolución de incidentes
     "reabre","restablece circulación","circulación normal","sin novedad",
     "se normaliza","ya liberaron","retiraron bloqueo","fue detenido",
     "fueron detenidos","capturan","capturaron","detienen banda",
-    # Contenido histórico/archivo
+    # Histórico / archivo
     "simulacro","en memoria","aniversario","recuerdan","conmemoran",
     "historia","hace 10 años","hace un año","archivo","reportaje especial",
     "análisis de","tendencias de","estadísticas de","ranking de",
@@ -336,7 +358,7 @@ FALSOS_POSITIVOS = [
 ]
 
 # ─────────────────────────────────────────────────────────────────────
-# KEYWORDS VIALES — primarios + contexto (ambos requeridos)
+# KEYWORDS VIALES
 # ─────────────────────────────────────────────────────────────────────
 VIAL_KW_PRIMARIOS = [
     "carretera","autopista","cierre vial","bloqueo carretero",
@@ -410,7 +432,6 @@ def clasificar(texto: str) -> str:
 
 
 def es_relevante(texto: str) -> bool:
-    """Exige keyword vial primaria + keyword de contexto geográfico/carretero."""
     t = texto.lower()
     tiene_primario = any(k in t for k in VIAL_KW_PRIMARIOS)
     tiene_contexto = any(k in t for k in VIAL_KW_CONTEXTO)
@@ -531,32 +552,27 @@ def fetch_google_news() -> list[dict]:
             log.warning(f"  GNews sin respuesta: {query[:40]}")
             continue
 
-        feed = feedparser.parse(resp.text)
+        feed   = feedparser.parse(resp.text)
         nuevas = 0
 
         for entry in feed.entries[:MAX_POR_FEED]:
             pub_date = entry.get("published", "")
             if not esta_en_ventana(pub_date):
                 continue
-
             titulo  = limpiar(entry.get("title", ""))
             resumen = limpiar(entry.get("summary", ""))
             texto   = f"{titulo}. {resumen}"
-
             if not es_relevante(texto) or es_falso_positivo(texto):
                 continue
-
             key = make_id(titulo[:60].lower())
             if key in vistos:
                 continue
             vistos.add(key)
-
             tipo   = clasificar(texto)
             ruta   = extraer_ruta(titulo)
             fecha  = fmt_fecha(pub_date)
             fuente = entry.get("source", {}).get("title", "Google News")
             link   = entry.get("link", "")
-
             alertas.append(hacer_alerta(tipo, ruta, texto[:500],
                                         extraer_rec(texto), fecha, fuente, link, texto))
             nuevas += 1
@@ -580,39 +596,27 @@ def _procesar_rss(feeds: list[tuple]) -> list[dict]:
         if not resp:
             log.warning(f"  RSS {nombre}: sin respuesta")
             continue
-
-        feed = feedparser.parse(resp.text)
+        feed   = feedparser.parse(resp.text)
         nuevas = 0
-
         for entry in feed.entries[:MAX_POR_FEED]:
             pub_date = entry.get("published", "")
             if not esta_en_ventana(pub_date):
                 continue
-
             titulo  = limpiar(entry.get("title", ""))
             resumen = limpiar(entry.get("summary", ""))
             texto   = f"{titulo}. {resumen}"
-
             if not es_relevante(texto) or es_falso_positivo(texto):
                 continue
-
             key = make_id(titulo[:60].lower())
             if key in vistos:
                 continue
             vistos.add(key)
-
             alertas.append(hacer_alerta(
-                clasificar(texto),
-                extraer_ruta(titulo),
-                texto[:500],
-                extraer_rec(texto),
-                fmt_fecha(pub_date),
-                nombre,
-                entry.get("link", rss_url),
-                texto,
+                clasificar(texto), extraer_ruta(titulo), texto[:500],
+                extraer_rec(texto), fmt_fecha(pub_date),
+                nombre, entry.get("link", rss_url), texto,
             ))
             nuevas += 1
-
         log.info(f"  RSS {nombre}: {len(feed.entries)} entradas → {nuevas} alertas")
 
     return alertas
@@ -636,14 +640,11 @@ def fetch_rss_regionales() -> list[dict]:
 
 def fetch_capufe() -> list[dict]:
     alertas = []
-
     for url in CAPUFE_URLS:
         resp = get(url, timeout=15)
         if not resp:
             continue
-
         ct = resp.headers.get("content-type", "")
-
         if "xml" in ct or url.endswith(".xml"):
             feed = feedparser.parse(resp.text)
             if feed.entries:
@@ -655,27 +656,21 @@ def fetch_capufe() -> list[dict]:
                     titulo  = limpiar(entry.get("title", "Alerta CAPUFE"))
                     resumen = limpiar(entry.get("summary", titulo))
                     texto   = f"{titulo}. {resumen}"
-                    tipo    = clasificar(texto)
                     alertas.append(hacer_alerta(
-                        tipo, extraer_ruta(titulo), texto[:500],
+                        clasificar(texto), extraer_ruta(titulo), texto[:500],
                         extraer_rec(texto), fmt_fecha(pub_date),
                         "CAPUFE", entry.get("link", url), texto,
                     ))
                 return alertas
-
-        soup = BeautifulSoup(resp.text, "html.parser")
+        soup  = BeautifulSoup(resp.text, "html.parser")
         filas = soup.select("tr, .reporte, .alerta-row, .vialidad-item, article")
         for fila in filas[:40]:
             texto = fila.get_text(separator=" ", strip=True)
-            if len(texto) < 30 or not es_relevante(texto):
+            if len(texto) < 30 or not es_relevante(texto) or es_falso_positivo(texto):
                 continue
-            if es_falso_positivo(texto):
-                continue
-            tipo = clasificar(texto)
             alertas.append(hacer_alerta(
-                tipo, extraer_ruta(texto), texto[:500],
-                extraer_rec(texto), _ahora_str(),
-                "CAPUFE", url, texto,
+                clasificar(texto), extraer_ruta(texto), texto[:500],
+                extraer_rec(texto), _ahora_str(), "CAPUFE", url, texto,
             ))
         if alertas:
             log.info(f"  CAPUFE HTML: {len(alertas)} reportes")
@@ -691,12 +686,10 @@ def fetch_capufe() -> list[dict]:
 
 def fetch_conagua() -> list[dict]:
     alertas = []
-
     for url in CONAGUA_URLS:
         resp = get(url, timeout=15)
         if not resp:
             continue
-
         ct = resp.headers.get("content-type", "")
         if "xml" in ct or url.endswith(".xml"):
             feed = feedparser.parse(resp.text)
@@ -712,9 +705,8 @@ def fetch_conagua() -> list[dict]:
                 texto   = f"{titulo}. {resumen}"
                 alertas.append(hacer_alerta(
                     "clima", titulo[:90], texto[:500],
-                    "Maneja con precaución.",
-                    fmt_fecha(pub_date), "CONAGUA/SMN",
-                    entry.get("link", url), texto,
+                    "Maneja con precaución.", fmt_fecha(pub_date),
+                    "CONAGUA/SMN", entry.get("link", url), texto,
                 ))
             return alertas
 
@@ -723,48 +715,55 @@ def fetch_conagua() -> list[dict]:
 
 
 # ─────────────────────────────────────────────────────────────────────
-# FUENTE 5 — NITTER
+# FUENTE 5 — RSSHUB (reemplaza Nitter)
 # ─────────────────────────────────────────────────────────────────────
 
-def fetch_nitter() -> list[dict]:
-    alertas = []
-    ok_instances: dict[str, str] = {}
+def fetch_rsshub() -> list[dict]:
+    alertas     = []
+    ok_cuentas  = []
 
     for cuenta in CUENTAS_X:
-        for base in NITTER_INSTANCES:
-            url  = f"{base}/{cuenta}/rss"
-            resp = get(url, timeout=10)
+        obtenido = False
+        for base in RSSHUB_INSTANCES:
+            url  = f"{base}/twitter/user/{cuenta}"
+            resp = get(url, timeout=12)
             if not resp:
                 continue
             ct = resp.headers.get("content-type", "")
-            if "xml" not in ct and "rss" not in ct:
+            if not any(x in ct for x in ("xml", "rss", "atom")):
                 continue
             feed = feedparser.parse(resp.text)
             if not feed.entries:
                 continue
 
-            ok_instances[cuenta] = base
-            log.info(f"  Nitter @{cuenta} via {base}: {len(feed.entries)} tweets")
+            log.info(f"  RSSHub @{cuenta} via {base}: {len(feed.entries)} tweets")
+            nuevas = 0
 
             for entry in feed.entries[:30]:
                 pub_date = entry.get("published", "")
                 if not esta_en_ventana(pub_date):
                     continue
                 texto = limpiar(entry.get("summary", entry.get("title", "")))
-                if len(texto) < 20 or not es_relevante(texto):
+                if len(texto) < 20 or not es_relevante(texto) or es_falso_positivo(texto):
                     continue
-                if es_falso_positivo(texto):
-                    continue
-                tipo  = clasificar(texto)
-                fecha = fmt_fecha(pub_date)
                 alertas.append(hacer_alerta(
-                    tipo, extraer_ruta(texto), texto[:500],
-                    extraer_rec(texto), fecha,
+                    clasificar(texto), extraer_ruta(texto), texto[:500],
+                    extraer_rec(texto), fmt_fecha(pub_date),
                     f"@{cuenta}", entry.get("link", ""), texto,
                 ))
-            break
+                nuevas += 1
 
-    log.info(f"  ✓ Nitter/X (cuentas: {list(ok_instances.keys())}): {len(alertas)} tweets")
+            ok_cuentas.append(cuenta)
+            obtenido = True
+            break  # una instancia ok basta para esta cuenta
+
+        if not obtenido:
+            log.warning(f"  RSSHub @{cuenta}: sin respuesta en ninguna instancia")
+
+        time.sleep(0.3)  # cortesía
+
+    log.info(f"  ✓ RSSHub total: {len(alertas)} tweets "
+             f"({len(ok_cuentas)}/{len(CUENTAS_X)} cuentas ok)")
     return alertas
 
 
@@ -799,11 +798,10 @@ def dedup(alertas: list[dict]) -> list[dict]:
         if uid in seen_ids:
             continue
         tok = _tokens(a["descripcion"][:120])
-        duplicado = False
-        for st in seen_tokens:
-            if len(tok) > 3 and len(tok & st) / max(len(tok), len(st), 1) >= 0.70:
-                duplicado = True
-                break
+        duplicado = any(
+            len(tok) > 3 and len(tok & st) / max(len(tok), len(st), 1) >= 0.70
+            for st in seen_tokens
+        )
         if duplicado:
             continue
         seen_ids.add(uid)
@@ -824,18 +822,15 @@ def agrupar(alertas: list[dict]) -> list[dict]:
     for tipo, cfg in sorted(TIPO_CONFIG.items(), key=lambda x: x[1]["orden"]):
         if tipo not in grupos:
             continue
-        alertas_grupo = sorted(
-            grupos[tipo],
-            key=lambda a: _parse_fecha_alerta(a.get("fecha", "")),
-            reverse=True
-        )
         resultado.append({
             "tipo":    tipo,
             "color":   cfg["color"],
             "icono":   cfg["icono"],
             "label":   cfg["label"],
             "col2":    cfg["col2"],
-            "alertas": alertas_grupo,
+            "alertas": sorted(grupos[tipo],
+                              key=lambda a: _parse_fecha_alerta(a.get("fecha", "")),
+                              reverse=True),
         })
     return resultado
 
@@ -848,8 +843,9 @@ def main():
     log.info(f"═══  Scraper Alertas Viales México v2  ══  "
              f"ventana={LOOKBACK_HORAS}h  modo={RUN_MODE}  ═══")
     todas: list[dict] = []
-    fuentes_usadas = []
+    fuentes_usadas    = []
 
+    # ── Google News ───────────────────────────────────────────────
     log.info("► Google News RSS …")
     try:
         r = fetch_google_news(); todas.extend(r)
@@ -857,6 +853,7 @@ def main():
     except Exception as e:
         log.error(f"  Google News: {e}")
 
+    # ── Periódicos ────────────────────────────────────────────────
     if RUN_MODE in ("all", "media_only"):
         log.info("► RSS Periódicos nacionales …")
         try:
@@ -872,6 +869,7 @@ def main():
         except Exception as e:
             log.error(f"  Regionales: {e}")
 
+    # ── Oficiales ─────────────────────────────────────────────────
     if RUN_MODE in ("all", "official_only"):
         log.info("► CAPUFE directo …")
         try:
@@ -887,16 +885,18 @@ def main():
         except Exception as e:
             log.error(f"  CONAGUA: {e}")
 
-        log.info("► Nitter/X …")
+        # ── RSSHub / X ────────────────────────────────────────────
+        log.info("► RSSHub / X …")
         try:
-            r = fetch_nitter(); todas.extend(r)
-            if r: fuentes_usadas.append("@CAPUFE / @GN_Carreteras")
+            r = fetch_rsshub(); todas.extend(r)
+            if r: fuentes_usadas.append("X vía RSSHub")
         except Exception as e:
-            log.error(f"  Nitter: {e}")
+            log.error(f"  RSSHub: {e}")
 
+    # ── Dedup + salida ────────────────────────────────────────────
     antes = len(todas)
     todas = dedup(todas)
-    log.info(f"Total alertas: {antes} brutas → {len(todas)} únicas "
+    log.info(f"Total: {antes} brutas → {len(todas)} únicas "
              f"({antes - len(todas)} duplicados eliminados)")
 
     ahora  = datetime.now(CST)
