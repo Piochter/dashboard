@@ -1,11 +1,10 @@
 {
-  "ultima_actualizacion": "2026-05-15T11:25:42.121309-06:00",
-  "ultima_actualizacion_legible": "15 de mayo de 2026 · 11:25 CST",
+  "ultima_actualizacion": "2026-05-15T14:42:52.759226-06:00",
+  "ultima_actualizacion_legible": "15 de mayo de 2026 · 14:42 CST",
   "total": 5,
   "ventana": "últimas 24 horas",
   "fuentes": [
-    "Google News",
-    "Medios regionales"
+    "Google News"
   ],
   "grupos": [
     {
@@ -21,8 +20,8 @@
           "ruta": "EN VIVO: ¿Hay bloqueos en carreteras hoy? Cierres y tráfico…",
           "descripcion": "EN VIVO: ¿Hay bloqueos en carreteras hoy? Cierres y tráfico en autopistas de México este 15 de mayo - TV Azteca. EN VIVO: ¿Hay bloqueos en carreteras hoy? Cierres y tráfico en autopistas de México este 15 de mayo TV Azteca",
           "recomendacion": "",
-          "fecha": "15 mayo 2026 · 11:17 CST",
-          "fecha_iso": "2026-05-15T11:17:00-06:00",
+          "fecha": "15 mayo 2026 · 14:13 CST",
+          "fecha_iso": "2026-05-15T14:13:00-06:00",
           "fuente": "TV Azteca",
           "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONjhsMmgyUGUwelZZcmVEellzb2s0R3A1Yktpd2F0bUpZeHQ2aU1yZVM0Vy02SW5ac1E4eFdRMGJ2Qjhzek1lQUQzdnRmN3djb2tKMmFVd3p4U3lZZXlWRm5fdWI3YkFubmlUWnJHYTQ5c3ZoVnhod21UanlKemNIbjJrZG9CQ0VzOWItS1RCaU5qZjY5T3U5TG1SZXRjR0pINEpKTEE1VVFEN2szMGZCdkdSYk5iSktUUFctcTNOaU43UQ?oc=5",
           "dot_color": "#8e44ad",
@@ -46,22 +45,6 @@
           "badge_txt": "BLOQUEO",
           "lat": 21.0,
           "lon": -104.0
-        },
-        {
-          "id": "f525e522",
-          "tipo": "bloqueo",
-          "ruta": "Marcha de CNTE por Día del Maestro: caos en centro…",
-          "descripcion": "Marcha de CNTE por Día del Maestro: caos en centro de CDMX por manifestación rumbo al Zócalo. El contigente avanzan por la avenida Ribera de San Cosme para llegar al Zócalo, donde no tienen contemplado algún mitín",
-          "recomendacion": "",
-          "fecha": "15 mayo 2026 · 05:53 CST",
-          "fecha_iso": "2026-05-15T05:53:00-06:00",
-          "fuente": "El Sol de México",
-          "url": "https://oem.com.mx/elsoldemexico/metropoli/marchan-maestros-de-la-cnte-en-cdmx-por-dia-del-maestro-30000164",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 19.43,
-          "lon": -99.13
         }
       ]
     },
@@ -72,6 +55,22 @@
       "label": "ROBOS EN CARRETERA",
       "col2": true,
       "alertas": [
+        {
+          "id": "4b3d2962",
+          "tipo": "robo",
+          "ruta": "Desmantelan célula criminal dedicada al robo a transporte de carga…",
+          "descripcion": "Desmantelan célula criminal dedicada al robo a transporte de carga en la Sierra Norte - La Jornada de Oriente - Puebla. Desmantelan célula criminal dedicada al robo a transporte de carga en la Sierra Norte La Jornada de Oriente - Puebla",
+          "recomendacion": "",
+          "fecha": "15 mayo 2026 · 03:01 CST",
+          "fecha_iso": "2026-05-15T03:01:00-06:00",
+          "fuente": "La Jornada de Oriente - Puebla",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOFZwME9MZlVzZllMVTRZWjgzTjZ0d3lSTVk1UlptR1JYTzJrV3J1bEtMRFdwN2J6Mk80Z0RFZlV2cDBuaDlSYVpFWXhJdUU5VGE2dVZkY2ZJOXVaWTZyc0tHci0xRUhyQ3NxbERnTXlPNEg4VUNDREx5MlJWaVBWMTdpaUoyRVNPN2phS0dIMkJOLUJqTXN6bTNiVXB4REh5Znd6LXdsaldpRnVNRFE1N19xSHluMXdmYjc1eFZWclI0bzk1TEtpTlpaWQ?oc=5",
+          "dot_color": "#c0392b",
+          "badge": "badge-robo",
+          "badge_txt": "ROBO",
+          "lat": 19.04,
+          "lon": -98.2
+        },
         {
           "id": "17d60625",
           "tipo": "robo",
@@ -122,7 +121,7 @@
       "tipo": "bloqueo",
       "ruta": "EN VIVO: ¿Hay bloqueos en carreteras hoy? Cierres y tráfico…",
       "descripcion": "EN VIVO: ¿Hay bloqueos en carreteras hoy? Cierres y tráfico en autopistas de México este 15 de mayo - TV Azteca. EN VIVO: ¿Hay bloqueos en carreteras hoy? Cierres y tráfico en autopistas de México este 15 de mayo TV Azteca",
-      "fecha": "15 mayo 2026 · 11:17 CST",
+      "fecha": "15 mayo 2026 · 14:13 CST",
       "fuente": "TV Azteca",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONjhsMmgyUGUwelZZcmVEellzb2s0R3A1Yktpd2F0bUpZeHQ2aU1yZVM0Vy02SW5ac1E4eFdRMGJ2Qjhzek1lQUQzdnRmN3djb2tKMmFVd3p4U3lZZXlWRm5fdWI3YkFubmlUWnJHYTQ5c3ZoVnhod21UanlKemNIbjJrZG9CQ0VzOWItS1RCaU5qZjY5T3U5TG1SZXRjR0pINEpKTEE1VVFEN2szMGZCdkdSYk5iSktUUFctcTNOaU43UQ?oc=5",
       "dot_color": "#8e44ad",
@@ -144,19 +143,6 @@
       "lon": -104.0
     },
     {
-      "id": "f525e522",
-      "tipo": "bloqueo",
-      "ruta": "Marcha de CNTE por Día del Maestro: caos en centro…",
-      "descripcion": "Marcha de CNTE por Día del Maestro: caos en centro de CDMX por manifestación rumbo al Zócalo. El contigente avanzan por la avenida Ribera de San Cosme para llegar al Zócalo, donde no tienen contemplado algún mitín",
-      "fecha": "15 mayo 2026 · 05:53 CST",
-      "fuente": "El Sol de México",
-      "url": "https://oem.com.mx/elsoldemexico/metropoli/marchan-maestros-de-la-cnte-en-cdmx-por-dia-del-maestro-30000164",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 19.43,
-      "lon": -99.13
-    },
-    {
       "id": "cb16a45e",
       "tipo": "cierre_parcial",
       "ruta": "¿Hay Cierres en la Autopista México-Querétaro Hoy VIERNES 15 de…",
@@ -168,6 +154,19 @@
       "badge_txt": "CIERRE PARCIAL",
       "lat": 21.0,
       "lon": -104.0
+    },
+    {
+      "id": "4b3d2962",
+      "tipo": "robo",
+      "ruta": "Desmantelan célula criminal dedicada al robo a transporte de carga…",
+      "descripcion": "Desmantelan célula criminal dedicada al robo a transporte de carga en la Sierra Norte - La Jornada de Oriente - Puebla. Desmantelan célula criminal dedicada al robo a transporte de carga en la Sierra Norte La Jornada de Oriente - Puebla",
+      "fecha": "15 mayo 2026 · 03:01 CST",
+      "fuente": "La Jornada de Oriente - Puebla",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOFZwME9MZlVzZllMVTRZWjgzTjZ0d3lSTVk1UlptR1JYTzJrV3J1bEtMRFdwN2J6Mk80Z0RFZlV2cDBuaDlSYVpFWXhJdUU5VGE2dVZkY2ZJOXVaWTZyc0tHci0xRUhyQ3NxbERnTXlPNEg4VUNDREx5MlJWaVBWMTdpaUoyRVNPN2phS0dIMkJOLUJqTXN6bTNiVXB4REh5Znd6LXdsaldpRnVNRFE1N19xSHluMXdmYjc1eFZWclI0bzk1TEtpTlpaWQ?oc=5",
+      "dot_color": "#c0392b",
+      "badge_txt": "ROBO",
+      "lat": 19.04,
+      "lon": -98.2
     },
     {
       "id": "17d60625",
