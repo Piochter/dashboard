@@ -1,12 +1,10 @@
 {
-  "ultima_actualizacion": "2026-05-15T04:04:08.819531-06:00",
-  "ultima_actualizacion_legible": "15 de mayo de 2026 · 04:04 CST",
-  "total": 10,
+  "ultima_actualizacion": "2026-05-15T09:59:52.666451-06:00",
+  "ultima_actualizacion_legible": "15 de mayo de 2026 · 09:59 CST",
+  "total": 4,
   "ventana": "últimas 24 horas",
   "fuentes": [
-    "Google News",
-    "Medios nacionales",
-    "Medios regionales"
+    "Google News"
   ],
   "grupos": [
     {
@@ -17,18 +15,36 @@
       "col2": false,
       "alertas": [
         {
-          "id": "2e05a8a0",
+          "id": "6499c9ab",
           "tipo": "bloqueo",
-          "ruta": "Tras falta de respuesta a pliego petitoria, continúan protestas de…",
-          "descripcion": "Tras falta de respuesta a pliego petitoria, continúan protestas de estudiantes del IPN. Continúan las protestas de estudiantes en el Instituto Politécnico Nacional (IPN), con una marcha y Metro Popular tras no recibir respuesta a su pliego petitorio",
+          "ruta": "Bloqueos carreteros hoy 15 de mayo: estas son las autopistas…",
+          "descripcion": "Bloqueos carreteros hoy 15 de mayo: estas son las autopistas con cierres y afectaciones en México, según CAPUFE y Guardia Nacional - Eje Central. Bloqueos carreteros hoy 15 de mayo: estas son las autopistas con cierres y afectaciones en México, según CAPUFE y Guardia Nacional Eje Central",
           "recomendacion": "",
-          "fecha": "14 mayo 2026 · 16:15 CST",
-          "fecha_iso": "2026-05-14T16:15:00-06:00",
-          "fuente": "El Sol de México",
-          "url": "https://oem.com.mx/elsoldemexico/metropoli/tras-falta-de-respuesta-a-pliego-continuan-protestas-en-ipn-29992589",
+          "fecha": "15 mayo 2026 · 09:00 CST",
+          "fecha_iso": "2026-05-15T09:00:00-06:00",
+          "fuente": "Eje Central",
+          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOcXNFRVg2Q0JJNE1tbGhnazlESmpubHNUaFozWTNIUVZrdW04aHNEMzRYSUlXYmN5cDVtNGhMTkdIWVFiWk9hbHVBTnVKd3pURHVISC0zY0tTYkszY0sxcmJUU0pWbzFMODhpRnBCWkw5WE1sb2Q2cGFldUNGTUp0VTl0STIxeFNGNlBWRlcwMnQ3YUR6YUs1T0dLcUdsZHh6d2JvR3kwWUZHY29EaFFoaVRESnVJWVFqbVpZRW9TdHEydVNJWlNRMEFMOTl5VVFiVVV2SklZYmlNdFdkRnloR3diUHQtZjV0bEdBYnFrRklPV0dJR2ltbUVrM1ZOckE?oc=5",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
+          "badge_txt": "BLOQUEO",
+          "lat": 21.0,
+          "lon": -104.0
+        },
+        {
+          "id": "135118fe",
+          "tipo": "bloqueo",
+          "ruta": "Hay Bloqueos en Carreteras Hoy: Autopistas de México con Cierres…",
+          "descripcion": "Hay Bloqueos en Carreteras Hoy: Autopistas de México con Cierres Viales este 15 de Mayo 2026 - N+. Hay Bloqueos en Carreteras Hoy: Autopistas de México con Cierres Viales este 15 de Mayo 2026 N+",
+          "recomendacion": "",
+          "fecha": "15 mayo 2026 · 07:10 CST",
+          "fecha_iso": "2026-05-15T07:10:00-06:00",
+          "fuente": "N+",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQjNMN3Z1SjlBc1NYeEthbXF1SWVIakN4Z1FBZmxDZ0p2NWdLbzhKNFJyQ1A3c2VFUmk1eXY5VWQydGFUS1ZZSVVQeTFhM3FKa2ozdERjb3R6LXc5Y2dGd3BMbEp6MlNIUFRkNHVtdkR1ajJDSHJicW1RdmhDZzNNSlBrem8wTlA5QlVMbk5KMkxhTjhOZHBnWmhlSXloMnBYTFMzWFdYT1EtUERubW5jWnd5UQ?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 21.0,
+          "lon": -104.0
         }
       ]
     },
@@ -39,20 +55,6 @@
       "label": "ROBOS EN CARRETERA",
       "col2": true,
       "alertas": [
-        {
-          "id": "e4cc309c",
-          "tipo": "robo",
-          "ruta": "Desmantelan célula criminal dedicada al robo a transporte de carga…",
-          "descripcion": "Desmantelan célula criminal dedicada al robo a transporte de carga en la Sierra Norte - La Jornada de Oriente. Desmantelan célula criminal dedicada al robo a transporte de carga en la Sierra Norte La Jornada de Oriente",
-          "recomendacion": "",
-          "fecha": "15 mayo 2026 · 03:01 CST",
-          "fecha_iso": "2026-05-15T03:01:00-06:00",
-          "fuente": "La Jornada de Oriente",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOFZwME9MZlVzZllMVTRZWjgzTjZ0d3lSTVk1UlptR1JYTzJrV3J1bEtMRFdwN2J6Mk80Z0RFZlV2cDBuaDlSYVpFWXhJdUU5VGE2dVZkY2ZJOXVaWTZyc0tHci0xRUhyQ3NxbERnTXlPNEg4VUNDREx5MlJWaVBWMTdpaUoyRVNPN2phS0dIMkJOLUJqTXN6bTNiVXB4REh5Znd6LXdsaldpRnVNRFE1N19xSHluMXdmYjc1eFZWclI0bzk1TEtpTlpaWQ?oc=5",
-          "dot_color": "#c0392b",
-          "badge": "badge-robo",
-          "badge_txt": "ROBO"
-        },
         {
           "id": "17d60625",
           "tipo": "robo",
@@ -68,22 +70,6 @@
           "badge_txt": "ROBO",
           "lat": 19.04,
           "lon": -98.2
-        },
-        {
-          "id": "f2de567a",
-          "tipo": "robo",
-          "ruta": "Robo vehicular cae 15%, pero las flotillas ya no confían…",
-          "descripcion": "Robo vehicular cae 15%, pero las flotillas ya no confían solo en el GPS. El promedio de automóviles robados en enero de 2026 es de 147, por ello las flotillas usan IA y telemática para proteger sus unidades.",
-          "recomendacion": "",
-          "fecha": "14 mayo 2026 · 12:30 CST",
-          "fecha_iso": "2026-05-14T12:30:00-06:00",
-          "fuente": "Expansión",
-          "url": "https://expansion.mx/tecnologia/2026/05/14/robo-vehicular-cae-15-pero-las-flotillas-ya-no-confian-solo-en-el-gps",
-          "dot_color": "#c0392b",
-          "badge": "badge-robo",
-          "badge_txt": "ROBO",
-          "lat": 21.0,
-          "lon": -104.0
         }
       ]
     },
@@ -95,107 +81,63 @@
       "col2": true,
       "alertas": [
         {
-          "id": "e7d31c4c",
+          "id": "cb16a45e",
           "tipo": "cierre_parcial",
-          "ruta": "AIFA: El sabotaje orquestado desde las filas de Morena…",
-          "descripcion": "AIFA: El sabotaje orquestado desde las filas de Morena. Mientras el gobierno federal intenta vender al AIFA como símbolo de modernidad, eficiencia y orgullo nacional rumbo al Mundial de 2026, en Tonanitla parece que alguien decidió dinamitarle la pista al proyecto estrella del sexenio pasado y prioridad política del actual.",
+          "ruta": "¿Hay Cierres en la Autopista México-Querétaro Hoy VIERNES 15 de…",
+          "descripcion": "¿Hay Cierres en la Autopista México-Querétaro Hoy VIERNES 15 de Mayo de 2026? - N+. ¿Hay Cierres en la Autopista México-Querétaro Hoy VIERNES 15 de Mayo de 2026? N+",
           "recomendacion": "",
-          "fecha": "15 mayo 2026 · 01:03 CST",
-          "fecha_iso": "2026-05-15T01:03:00-06:00",
-          "fuente": "El Financiero",
-          "url": "https://www.elfinanciero.com.mx/opinion/lourdes-mendoza/2026/05/15/aifa-el-sabotaje-orquestado-desde-las-filas-de-morena/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
-        },
-        {
-          "id": "f8b5440a",
-          "tipo": "cierre_parcial",
-          "ruta": "'The Boys' y el peso de su final…",
-          "descripcion": "'The Boys' y el peso de su final. La última temporada de la serie de superhéroes ha sido bombardeada por quejas, pero son exageradas. Otra última temporada, otro buzón lleno de quejas. Desde el infame final de Game of Thrones, constantemente mencionado cada que se habla del cierre de cualquier otro programa de televisión de fantasía popular, hay miedo por parte de grupos […]",
-          "recomendacion": "",
-          "fecha": "15 mayo 2026 · 00:01 CST",
-          "fecha_iso": "2026-05-15T00:01:00-06:00",
-          "fuente": "24 Horas",
-          "url": "https://24-horas.mx/el-popculturista/the-boys-y-el-peso-de-su-final/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
-        },
-        {
-          "id": "cd9683e2",
-          "tipo": "cierre_parcial",
-          "ruta": "Rayadas derrota al América y se perfila a su quinto…",
-          "descripcion": "Rayadas derrota al América y se perfila a su quinto título de Liga Mx Femenil. Rayadas de Monterrey venció 1 por 0 a la águilas del América en la final de ida del torneo Clausura 2026 de la Liga Mx Femenil.",
-          "recomendacion": "",
-          "fecha": "14 mayo 2026 · 23:52 CST",
-          "fecha_iso": "2026-05-14T23:52:00-06:00",
-          "fuente": "24 Horas",
-          "url": "https://24-horas.mx/dxt/rayadas-derrota-al-america-y-se-perfila-a-su-quinto-titulo-de-liga-mx-femenil/",
+          "fecha": "15 mayo 2026 · 03:56 CST",
+          "fecha_iso": "2026-05-15T03:56:00-06:00",
+          "fuente": "N+",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbF9Rb0x1OGc4X1d0Y3JRQUx4aGlSbWV3YnRCOVZHUEV3bFlseHd0WDFKQUlqYk42a2w4S2FKT1BpU0tPWFBtNlp6RVVNLTFKa0d3MDVVbERMSXRyUjN2RnR3c1BsNVlZTkZ6dzA5eExHUkZxc3FOaVU5eTJsVHFEZVRKN2RrS0RlbzhaS3FFX0ItNnl4alA0bFdIaUpZSGduYzc5NE03Y3AtUnRDVnV0NENNN1VNVEVL?oc=5",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL",
-          "lat": 25.67,
-          "lon": -100.31
-        },
-        {
-          "id": "9ce9c876",
-          "tipo": "cierre_parcial",
-          "ruta": "El Síndrome de Ovario Poliquístico (SOP) tiene un nuevo nombre:…",
-          "descripcion": "El Síndrome de Ovario Poliquístico (SOP) tiene un nuevo nombre: ¿Por qué ahora se llamará SOMP?. El SOP ahora se denomina SOMP: especialistas redefinen este síndrome para reflejar mejor su impacto hormonal y metabólico, así como para facilitar su diagnóstico y mejorar su comprensión.",
-          "recomendacion": "",
-          "fecha": "14 mayo 2026 · 22:52 CST",
-          "fecha_iso": "2026-05-14T22:52:00-06:00",
-          "fuente": "El Financiero",
-          "url": "https://www.elfinanciero.com.mx/salud/2026/05/14/el-sindrome-de-ovario-poliquistico-tiene-un-nuevo-nombre-por-que-ahora-se-llamara-somp-y-que-implica-este-cambio/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
-        },
-        {
-          "id": "d333e873",
-          "tipo": "cierre_parcial",
-          "ruta": "Carreteras Bloqueadas Hoy: En Estos Tramos Hay Cierres este 14…",
-          "descripcion": "Carreteras Bloqueadas Hoy: En Estos Tramos Hay Cierres este 14 de Mayo de 2026 - N+. Carreteras Bloqueadas Hoy: En Estos Tramos Hay Cierres este 14 de Mayo de 2026 N+",
-          "recomendacion": "",
-          "fecha": "14 mayo 2026 · 06:39 CST",
-          "fecha_iso": "2026-05-14T06:39:00-06:00",
-          "fuente": "N+",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMXQ0bGNIQmYyQm9aTWdyYkRfOEthYjl3dHo4OXlsNl96S2hOaUFZbWwxdEZLWU9YV1A4TU5pWUFaLUFjcENISjV3THgtazJ4TVN4Z3RiM2J6UjdDeDVkQ3NzVkRKcjNzR0xlUHlLYnVjUXFVNTBuR3UyeVB0QlItSDlOVE95UEVkSnUySnQ3Zk9VbUM4X1JoTTRVWkZfZ3NPbWVFNGlVT09GMklwTGxMeA?oc=5",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
-        },
-        {
-          "id": "82d19600",
-          "tipo": "cierre_parcial",
-          "ruta": "¡Vamos, México! El impacto del “Tri” y el consumo del…",
-          "descripcion": "¡Vamos, México! El impacto del “Tri” y el consumo del mexicano. La prolongada participación de México en el Mundial tiene un efecto multiplicador directo, casi simbiótico, y perfectamente cuantificable en el consumo masivo y el Producto Interno Bruto nacional.",
-          "recomendacion": "",
-          "fecha": "14 mayo 2026 · 06:02 CST",
-          "fecha_iso": "2026-05-14T06:02:00-06:00",
-          "fuente": "Expansión",
-          "url": "https://expansion.mx/opinion/2026/05/14/vamos-mexico-el-impacto-del-tri-y-el-consumo-del-mexicano",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
+          "lat": 21.0,
+          "lon": -104.0
         }
       ]
     }
   ],
   "para_mapa": [
     {
-      "id": "cd9683e2",
+      "id": "6499c9ab",
+      "tipo": "bloqueo",
+      "ruta": "Bloqueos carreteros hoy 15 de mayo: estas son las autopistas…",
+      "descripcion": "Bloqueos carreteros hoy 15 de mayo: estas son las autopistas con cierres y afectaciones en México, según CAPUFE y Guardia Nacional - Eje Central. Bloqueos carreteros hoy 15 de mayo: estas son las autopistas con cierres y afectaciones en México, según CAPUFE y Guardia Nacional Eje Central",
+      "fecha": "15 mayo 2026 · 09:00 CST",
+      "fuente": "Eje Central",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOcXNFRVg2Q0JJNE1tbGhnazlESmpubHNUaFozWTNIUVZrdW04aHNEMzRYSUlXYmN5cDVtNGhMTkdIWVFiWk9hbHVBTnVKd3pURHVISC0zY0tTYkszY0sxcmJUU0pWbzFMODhpRnBCWkw5WE1sb2Q2cGFldUNGTUp0VTl0STIxeFNGNlBWRlcwMnQ3YUR6YUs1T0dLcUdsZHh6d2JvR3kwWUZHY29EaFFoaVRESnVJWVFqbVpZRW9TdHEydVNJWlNRMEFMOTl5VVFiVVV2SklZYmlNdFdkRnloR3diUHQtZjV0bEdBYnFrRklPV0dJR2ltbUVrM1ZOckE?oc=5",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 21.0,
+      "lon": -104.0
+    },
+    {
+      "id": "135118fe",
+      "tipo": "bloqueo",
+      "ruta": "Hay Bloqueos en Carreteras Hoy: Autopistas de México con Cierres…",
+      "descripcion": "Hay Bloqueos en Carreteras Hoy: Autopistas de México con Cierres Viales este 15 de Mayo 2026 - N+. Hay Bloqueos en Carreteras Hoy: Autopistas de México con Cierres Viales este 15 de Mayo 2026 N+",
+      "fecha": "15 mayo 2026 · 07:10 CST",
+      "fuente": "N+",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQjNMN3Z1SjlBc1NYeEthbXF1SWVIakN4Z1FBZmxDZ0p2NWdLbzhKNFJyQ1A3c2VFUmk1eXY5VWQydGFUS1ZZSVVQeTFhM3FKa2ozdERjb3R6LXc5Y2dGd3BMbEp6MlNIUFRkNHVtdkR1ajJDSHJicW1RdmhDZzNNSlBrem8wTlA5QlVMbk5KMkxhTjhOZHBnWmhlSXloMnBYTFMzWFdYT1EtUERubW5jWnd5UQ?oc=5",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 21.0,
+      "lon": -104.0
+    },
+    {
+      "id": "cb16a45e",
       "tipo": "cierre_parcial",
-      "ruta": "Rayadas derrota al América y se perfila a su quinto…",
-      "descripcion": "Rayadas derrota al América y se perfila a su quinto título de Liga Mx Femenil. Rayadas de Monterrey venció 1 por 0 a la águilas del América en la final de ida del torneo Clausura 2026 de la Liga Mx Femenil.",
-      "fecha": "14 mayo 2026 · 23:52 CST",
-      "fuente": "24 Horas",
-      "url": "https://24-horas.mx/dxt/rayadas-derrota-al-america-y-se-perfila-a-su-quinto-titulo-de-liga-mx-femenil/",
+      "ruta": "¿Hay Cierres en la Autopista México-Querétaro Hoy VIERNES 15 de…",
+      "descripcion": "¿Hay Cierres en la Autopista México-Querétaro Hoy VIERNES 15 de Mayo de 2026? - N+. ¿Hay Cierres en la Autopista México-Querétaro Hoy VIERNES 15 de Mayo de 2026? N+",
+      "fecha": "15 mayo 2026 · 03:56 CST",
+      "fuente": "N+",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbF9Rb0x1OGc4X1d0Y3JRQUx4aGlSbWV3YnRCOVZHUEV3bFlseHd0WDFKQUlqYk42a2w4S2FKT1BpU0tPWFBtNlp6RVVNLTFKa0d3MDVVbERMSXRyUjN2RnR3c1BsNVlZTkZ6dzA5eExHUkZxc3FOaVU5eTJsVHFEZVRKN2RrS0RlbzhaS3FFX0ItNnl4alA0bFdIaUpZSGduYzc5NE03Y3AtUnRDVnV0NENNN1VNVEVL?oc=5",
       "dot_color": "#e67e22",
       "badge_txt": "CIERRE PARCIAL",
-      "lat": 25.67,
-      "lon": -100.31
+      "lat": 21.0,
+      "lon": -104.0
     },
     {
       "id": "17d60625",
@@ -209,19 +151,6 @@
       "badge_txt": "ROBO",
       "lat": 19.04,
       "lon": -98.2
-    },
-    {
-      "id": "f2de567a",
-      "tipo": "robo",
-      "ruta": "Robo vehicular cae 15%, pero las flotillas ya no confían…",
-      "descripcion": "Robo vehicular cae 15%, pero las flotillas ya no confían solo en el GPS. El promedio de automóviles robados en enero de 2026 es de 147, por ello las flotillas usan IA y telemática para proteger sus unidades.",
-      "fecha": "14 mayo 2026 · 12:30 CST",
-      "fuente": "Expansión",
-      "url": "https://expansion.mx/tecnologia/2026/05/14/robo-vehicular-cae-15-pero-las-flotillas-ya-no-confian-solo-en-el-gps",
-      "dot_color": "#c0392b",
-      "badge_txt": "ROBO",
-      "lat": 21.0,
-      "lon": -104.0
     }
   ]
 }
