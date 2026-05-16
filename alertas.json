@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-05-16T05:33:14.215369-06:00",
-  "ultima_actualizacion_legible": "16 de mayo de 2026 · 05:33 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-05-16T08:46:45.833308-06:00",
+  "ultima_actualizacion_legible": "16 de mayo de 2026 · 08:46 CST",
+  "total": 4,
   "ventana": "últimas 24 horas",
   "fuentes": [
     "Google News"
@@ -14,6 +14,20 @@
       "label": "BLOQUEOS / MANIFESTACIONES",
       "col2": false,
       "alertas": [
+        {
+          "id": "b3eda136",
+          "tipo": "bloqueo",
+          "ruta": "Bloqueos carreteros hoy 16 de mayo: estas son las autopistas…",
+          "descripcion": "Bloqueos carreteros hoy 16 de mayo: estas son las autopistas con cierres y afectaciones en México, según CAPUFE y Guardia Nacional - Eje Central. Bloqueos carreteros hoy 16 de mayo: estas son las autopistas con cierres y afectaciones en México, según CAPUFE y Guardia Nacional Eje Central",
+          "recomendacion": "",
+          "fecha": "16 mayo 2026 · 07:55 CST",
+          "fecha_iso": "2026-05-16T07:55:00-06:00",
+          "fuente": "Eje Central",
+          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNRVFJVDRTeHg0VjQ3Szl0aGNfTnpRdFRKamZ4ZFhRZGdTRE94WjRqWGRTa1ByNU1DOWRRLWxwbHR1OVdva29odmlYbGVXZDg0MGszYmU3NHRhT3FOOGZ4RElfcmdkQjRNZ3AxdUpjQVpvS2tMcWx4Ql9RWHp1eTNPbFhYMmJnYnBoUDBTWEV4d1B3SmFSTXRxNEIxOTdvak1MTVhZcXRwaEF5b3hXck1ENE1GUFdFclYzX2pNSEMxckRVTExId2VFTHp4RGNJT19KdVhGUUJEQndBcHM5QTd2VDl6LUdodFBGWWFuVzZ0eEVpWXVGcFhtRkxDSzcyUDQ?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
         {
           "id": "c24f5ea5",
           "tipo": "bloqueo",
@@ -29,22 +43,6 @@
           "badge_txt": "BLOQUEO",
           "lat": 21.0,
           "lon": -104.0
-        },
-        {
-          "id": "6499c9ab",
-          "tipo": "bloqueo",
-          "ruta": "Bloqueos carreteros hoy 15 de mayo: estas son las autopistas…",
-          "descripcion": "Bloqueos carreteros hoy 15 de mayo: estas son las autopistas con cierres y afectaciones en México, según CAPUFE y Guardia Nacional - Eje Central. Bloqueos carreteros hoy 15 de mayo: estas son las autopistas con cierres y afectaciones en México, según CAPUFE y Guardia Nacional Eje Central",
-          "recomendacion": "",
-          "fecha": "15 mayo 2026 · 06:52 CST",
-          "fecha_iso": "2026-05-15T06:52:00-06:00",
-          "fuente": "Eje Central",
-          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOcXNFRVg2Q0JJNE1tbGhnazlESmpubHNUaFozWTNIUVZrdW04aHNEMzRYSUlXYmN5cDVtNGhMTkdIWVFiWk9hbHVBTnVKd3pURHVISC0zY0tTYkszY0sxcmJUU0pWbzFMODhpRnBCWkw5WE1sb2Q2cGFldUNGTUp0VTl0STIxeFNGNlBWRlcwMnQ3YUR6YUs1T0dLcUdsZHh6d2JvR3kwWUZHY29EaFFoaVRESnVJWVFqbVpZRW9TdHEydVNJWlNRMEFMOTl5VVFiVVV2SklZYmlNdFdkRnloR3diUHQtZjV0bEdBYnFrRklPV0dJR2ltbUVrM1ZOckE?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 21.0,
-          "lon": -104.0
         }
       ]
     },
@@ -55,6 +53,20 @@
       "label": "CIERRE PARCIAL / ACCIDENTES",
       "col2": true,
       "alertas": [
+        {
+          "id": "baaf0713",
+          "tipo": "cierre_parcial",
+          "ruta": "Carreteras Bloqueadas en México Hoy, Sábado 16 de Mayo 2026…",
+          "descripcion": "Carreteras Bloqueadas en México Hoy, Sábado 16 de Mayo 2026 - N+. Carreteras Bloqueadas en México Hoy, Sábado 16 de Mayo 2026 N+",
+          "recomendacion": "",
+          "fecha": "16 mayo 2026 · 06:07 CST",
+          "fecha_iso": "2026-05-16T06:07:00-06:00",
+          "fuente": "N+",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQN19teGR2LVQ0Ulh6OGJOQXhDZTJrZ0RaQ2dRbWxZRk42Y2VMRkVscHA1NGJiWlhLU21hUnkzVlpQRWZhSXRpMUNNWmJpWGtublBIUFAzd3NkT21iN202T3lidXVqaTVyejUzTnlxWU9YVTc4Y3pvcE1wcnpiampYZUdSaVNtX0g1eE0xQVdRODNDTFlMb1FR?oc=5",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        },
         {
           "id": "7baca8b6",
           "tipo": "cierre_parcial",
@@ -96,19 +108,6 @@
       "fecha": "15 mayo 2026 · 15:13 CST",
       "fuente": "TV Azteca",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONjhsMmgyUGUwelZZcmVEellzb2s0R3A1Yktpd2F0bUpZeHQ2aU1yZVM0Vy02SW5ac1E4eFdRMGJ2Qjhzek1lQUQzdnRmN3djb2tKMmFVd3p4U3lZZXlWRm5fdWI3YkFubmlUWnJHYTQ5c3ZoVnhod21UanlKemNIbjJrZG9CQ0VzOWItS1RCaU5qZjY5T3U5TG1SZXRjR0pINEpKTEE1VVFEN2szMGZCdkdSYk5iSktUUFctcTNOaU43UQ?oc=5",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 21.0,
-      "lon": -104.0
-    },
-    {
-      "id": "6499c9ab",
-      "tipo": "bloqueo",
-      "ruta": "Bloqueos carreteros hoy 15 de mayo: estas son las autopistas…",
-      "descripcion": "Bloqueos carreteros hoy 15 de mayo: estas son las autopistas con cierres y afectaciones en México, según CAPUFE y Guardia Nacional - Eje Central. Bloqueos carreteros hoy 15 de mayo: estas son las autopistas con cierres y afectaciones en México, según CAPUFE y Guardia Nacional Eje Central",
-      "fecha": "15 mayo 2026 · 06:52 CST",
-      "fuente": "Eje Central",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOcXNFRVg2Q0JJNE1tbGhnazlESmpubHNUaFozWTNIUVZrdW04aHNEMzRYSUlXYmN5cDVtNGhMTkdIWVFiWk9hbHVBTnVKd3pURHVISC0zY0tTYkszY0sxcmJUU0pWbzFMODhpRnBCWkw5WE1sb2Q2cGFldUNGTUp0VTl0STIxeFNGNlBWRlcwMnQ3YUR6YUs1T0dLcUdsZHh6d2JvR3kwWUZHY29EaFFoaVRESnVJWVFqbVpZRW9TdHEydVNJWlNRMEFMOTl5VVFiVVV2SklZYmlNdFdkRnloR3diUHQtZjV0bEdBYnFrRklPV0dJR2ltbUVrM1ZOckE?oc=5",
       "dot_color": "#8e44ad",
       "badge_txt": "BLOQUEO",
       "lat": 21.0,
