@@ -1,6 +1,6 @@
 {
-  "ultima_actualizacion": "2026-05-17T06:05:56.779764-06:00",
-  "ultima_actualizacion_legible": "17 de mayo de 2026 · 06:05 CST",
+  "ultima_actualizacion": "2026-05-17T09:46:18.818993-06:00",
+  "ultima_actualizacion_legible": "17 de mayo de 2026 · 09:46 CST",
   "total": 4,
   "ventana": "últimas 24 horas",
   "fuentes": [
@@ -17,18 +17,34 @@
       "col2": false,
       "alertas": [
         {
-          "id": "b3eda136",
+          "id": "b0cb258b",
           "tipo": "bloqueo",
-          "ruta": "Bloqueos carreteros hoy 16 de mayo: estas son las autopistas…",
-          "descripcion": "Bloqueos carreteros hoy 16 de mayo: estas son las autopistas con cierres y afectaciones en México, según CAPUFE y Guardia Nacional - Eje Central. Bloqueos carreteros hoy 16 de mayo: estas son las autopistas con cierres y afectaciones en México, según CAPUFE y Guardia Nacional Eje Central",
+          "ruta": "Bloqueos carreteras HOY 17 de mayo: Autopistas cerradas en México,…",
+          "descripcion": "Bloqueos carreteras HOY 17 de mayo: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 17 de mayo: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
           "recomendacion": "",
-          "fecha": "16 mayo 2026 · 07:55 CST",
-          "fecha_iso": "2026-05-16T07:55:00-06:00",
+          "fecha": "17 mayo 2026 · 08:38 CST",
+          "fecha_iso": "2026-05-17T08:38:00-06:00",
           "fuente": "Eje Central",
-          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNRVFJVDRTeHg0VjQ3Szl0aGNfTnpRdFRKamZ4ZFhRZGdTRE94WjRqWGRTa1ByNU1DOWRRLWxwbHR1OVdva29odmlYbGVXZDg0MGszYmU3NHRhT3FOOGZ4RElfcmdkQjRNZ3AxdUpjQVpvS2tMcWx4Ql9RWHp1eTNPbFhYMmJnYnBoUDBTWEV4d1B3SmFSTXRxNEIxOTdvak1MTVhZcXRwaEF5b3hXck1ENE1GUFdFclYzX2pNSEMxckRVTExId2VFTHp4RGNJT19KdVhGUUJEQndBcHM5QTd2VDl6LUdodFBGWWFuVzZ0eEVpWXVGcFhtRkxDSzcyUDQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbi1uVDJnMFFzRUlYRUUtbmZkblRPUmJLREl0V2dwSVFMUjhyODVIOU1tTjVVRDlHLWdiLVRxYWFTZzZLcG9iRDJSSFBfQzFpT0VtOV9TQmVtZGFqOHJ1ckliNS1tdGpHaUpibHBpNERicDZZclpuNFJOWVpBdEx0QWhudXNVY3JoZllNYlpmWFhQd2hyLW5YeFZWNDdSZ1d1T2JyMWRpWkF5TzRUYjBmTHhfMGVObWtHTFlaVE9QZVlwS0trQnRRLXZOdERObENvRjR6WEdiay1Cblh6WTFfM25MS3Rkdw?oc=5",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO"
+        },
+        {
+          "id": "7cff7de0",
+          "tipo": "bloqueo",
+          "ruta": "¡Día complicado para viajar! Bloqueos en carreteras hoy 17 de…",
+          "descripcion": "¡Día complicado para viajar! Bloqueos en carreteras hoy 17 de mayo - adn40.mx. ¡Día complicado para viajar! Bloqueos en carreteras hoy 17 de mayo adn40.mx",
+          "recomendacion": "",
+          "fecha": "17 mayo 2026 · 07:44 CST",
+          "fecha_iso": "2026-05-17T07:44:00-06:00",
+          "fuente": "adn40.mx",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQXJWUmFON2VDcGpDdXlmT2lfcWlBbU5tUFZRUWVZdnN2MnlXSElfYV9YQnREOUdJcWNvVnJyMFhVaDcxQmJ6dk51OEVNRUFmdW9MVWliTTBUZ2xVZmYzamdXYzVWeVlmWVgzNHJNX0dITVJPYjRvRHc3NGotalVJUFlTTXZ5a1pIQ2tqbHJnOC1Kcl85TVhSdmJLR2x4aDY4RHMxRFZPdEQ4OXhrVFJiQ2VfWQ?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 25.2,
+          "lon": -102.0
         }
       ]
     },
@@ -68,25 +84,24 @@
           "badge_txt": "CIERRE PARCIAL",
           "lat": 19.43,
           "lon": -99.13
-        },
-        {
-          "id": "baaf0713",
-          "tipo": "cierre_parcial",
-          "ruta": "Carreteras Bloqueadas en México Hoy, Sábado 16 de Mayo 2026…",
-          "descripcion": "Carreteras Bloqueadas en México Hoy, Sábado 16 de Mayo 2026 - N+. Carreteras Bloqueadas en México Hoy, Sábado 16 de Mayo 2026 N+",
-          "recomendacion": "",
-          "fecha": "16 mayo 2026 · 06:07 CST",
-          "fecha_iso": "2026-05-16T06:07:00-06:00",
-          "fuente": "N+",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQN19teGR2LVQ0Ulh6OGJOQXhDZTJrZ0RaQ2dRbWxZRk42Y2VMRkVscHA1NGJiWlhLU21hUnkzVlpQRWZhSXRpMUNNWmJpWGtublBIUFAzd3NkT21iN202T3lidXVqaTVyejUzTnlxWU9YVTc4Y3pvcE1wcnpiampYZUdSaVNtX0g1eE0xQVdRODNDTFlMb1FR?oc=5",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
         }
       ]
     }
   ],
   "para_mapa": [
+    {
+      "id": "7cff7de0",
+      "tipo": "bloqueo",
+      "ruta": "¡Día complicado para viajar! Bloqueos en carreteras hoy 17 de…",
+      "descripcion": "¡Día complicado para viajar! Bloqueos en carreteras hoy 17 de mayo - adn40.mx. ¡Día complicado para viajar! Bloqueos en carreteras hoy 17 de mayo adn40.mx",
+      "fecha": "17 mayo 2026 · 07:44 CST",
+      "fuente": "adn40.mx",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQXJWUmFON2VDcGpDdXlmT2lfcWlBbU5tUFZRUWVZdnN2MnlXSElfYV9YQnREOUdJcWNvVnJyMFhVaDcxQmJ6dk51OEVNRUFmdW9MVWliTTBUZ2xVZmYzamdXYzVWeVlmWVgzNHJNX0dITVJPYjRvRHc3NGotalVJUFlTTXZ5a1pIQ2tqbHJnOC1Kcl85TVhSdmJLR2x4aDY4RHMxRFZPdEQ4OXhrVFJiQ2VfWQ?oc=5",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 25.2,
+      "lon": -102.0
+    },
     {
       "id": "2e83ea7c",
       "tipo": "cierre_parcial",
