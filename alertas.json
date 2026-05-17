@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-05-17T09:46:18.818993-06:00",
-  "ultima_actualizacion_legible": "17 de mayo de 2026 · 09:46 CST",
-  "total": 4,
+  "ultima_actualizacion": "2026-05-17T13:51:25.744951-06:00",
+  "ultima_actualizacion_legible": "17 de mayo de 2026 · 13:51 CST",
+  "total": 5,
   "ventana": "últimas 24 horas",
   "fuentes": [
     "Google News",
@@ -55,6 +55,20 @@
       "label": "CIERRE PARCIAL / ACCIDENTES",
       "col2": true,
       "alertas": [
+        {
+          "id": "fc644023",
+          "tipo": "cierre_parcial",
+          "ruta": "Carreteras Bloqueadas en México Hoy, Domingo 17 de Mayo 2026…",
+          "descripcion": "Carreteras Bloqueadas en México Hoy, Domingo 17 de Mayo 2026 - N+. Carreteras Bloqueadas en México Hoy, Domingo 17 de Mayo 2026 N+",
+          "recomendacion": "",
+          "fecha": "17 mayo 2026 · 00:52 CST",
+          "fecha_iso": "2026-05-17T00:52:00-06:00",
+          "fuente": "N+",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbFVOYW9PWW1Fb3BtbEJLSXMyclc1WktOclVvRTRXamxxdjVpZkJIRVdfbFZkU1VqMnYzZ3VCSDJiaXBNMnNQNGJRakVmRkxpbEtnTl9ua2NodFZIMkJKeF82Y0pDR05DVWttOTdPOWxfeVAyRmppS3lVV0NaVVk5V3R6UnVsWDI1dnZpTl94QUk2eWlOQ28xSUIxRzhMMzdscUVrZEhB?oc=5",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        },
         {
           "id": "003a48bb",
           "tipo": "cierre_parcial",
