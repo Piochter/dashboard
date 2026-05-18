@@ -71,7 +71,7 @@ jobs:
 
       - name: 🔍 Ejecutar scraper
         env:
-          TWITTER_BEARER_TOKEN: "${{AAAAAAAAAAAAAAAAAAAAACbG9gEAAAAAaswhScU%2FoIfq7wxIcgyVxgZSr5M%3DkjZOTpLYPOdI3bW39k3OjplgQb9Ggn3SWUOg7hN4KtOVO8m7Ju}}"
+          TWITTER_BEARER_TOKEN: ${{ secrets.TWITTER_BEARER_TOKEN }}
         run: python scraper/main.py
 
       - name: ✅ Validar alertas.json
