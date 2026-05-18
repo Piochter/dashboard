@@ -82,36 +82,35 @@ GNEWS_QUERIES = [
 # RSS MEDIOS NACIONALES
 # ─────────────────────────────────────────────────────────────────────
 RSS_NACIONALES = [
-    ("Milenio",         "https://www.milenio.com/rss"),
-    ("El Universal",    "https://www.eluniversal.com.mx/rss.xml"),
-    ("Excélsior",       "https://www.excelsior.com.mx/rss.xml"),
-    ("Infobae MX",      "https://www.infobae.com/feeds/rss/"),
-    ("El Heraldo",      "https://heraldodemexico.com.mx/feed/"),
-    ("La Silla Rota",   "https://lasillarota.com/feed"),
-    ("SDP Noticias",    "https://www.sdpnoticias.com/rss"),
+    # ── Solo fuentes que respondieron en el log ────────────────────
     ("24 Horas",        "https://www.24-horas.mx/feed/"),
+    ("El Financiero",   "https://www.elfinanciero.com.mx/rss/nacional"),  # sección nacional, no economía
     ("Aristegui",       "https://aristeguinoticias.com/feed/"),
-    ("El Financiero",   "https://www.elfinanciero.com.mx/rss"),
-    ("Proceso",         "https://www.proceso.com.mx/?feed=rss2"),
-    ("Animal Político", "https://www.animalpolitico.com/feed"),
     ("Expansión",       "https://expansion.mx/rss"),
-    ("Forbes MX",       "https://www.forbes.com.mx/feed/"),
+    ("Proceso",         "https://www.proceso.com.mx/?feed=rss2"),
+    # ── RSS alternativos para las que fallaron ─────────────────────
+    ("Milenio Policial","https://www.milenio.com/rss/policia"),
+    ("El Universal MX", "https://www.eluniversal.com.mx/nacion/rss.xml"),
+    ("La Silla Rota",   "https://lasillarota.com/feed/"),
+    ("SDP Noticias",    "https://www.sdpnoticias.com/feed/"),
 ]
 
 # ─────────────────────────────────────────────────────────────────────
 # RSS MEDIOS REGIONALES (cobertura por estado)
 # ─────────────────────────────────────────────────────────────────────
 RSS_REGIONALES = [
+    # ── Fuentes que respondieron bien ─────────────────────────────
     ("El Sol de México",     "https://www.elsoldemexico.com.mx/rss.xml"),
-    ("NTR Guadalajara",      "https://ntrgdl.com/feed/"),
     ("El Informador Jalisco","https://www.informador.mx/rss/ultimas-noticias.xml"),
-    ("Milenio Jalisco",      "https://www.milenio.com/rss/jalisco"),
-    ("La Jornada Veracruz",  "https://www.jornadaveracruz.com.mx/feed/"),
-    ("E-consulta Puebla",    "https://e-consulta.com/feed/"),
     ("Quadratín Michoacán",  "https://www.quadratin.com.mx/rss"),
     ("El Sol de Sinaloa",    "https://www.elsoldesinaloa.com.mx/rss.xml"),
-    ("El Horizonte NL",      "https://www.elhorizonte.mx/rss"),
     ("AM Guanajuato",        "https://www.am.com.mx/rss"),
+    # ── Alternativas para las que fallaron ────────────────────────
+    ("NTR Guadalajara",      "https://www.ntrguadalajara.com/feed/"),
+    ("Milenio Jalisco",      "https://www.milenio.com/rss/estados/jalisco"),
+    ("E-consulta Puebla",    "https://e-consulta.com/feed/"),
+    ("Jornada Veracruz",     "https://www.jornadaveracruz.com.mx/feed/"),
+    ("El Horizonte NL",      "https://www.elhorizonte.mx/feed"),
 ]
 
 # ─────────────────────────────────────────────────────────────────────
@@ -146,33 +145,25 @@ MIRADAS_RSS  = "https://miradas.mx/feed"
 
 # RSS adicionales especializados en seguridad vial y estados críticos
 RSS_VIALES_EXTRA = [
-    # ── Cobertura diaria de cierres ────────────────────────────────
-    ("N+ Seguridad",         "https://www.nmas.com.mx/nacional/seguridad/feed/"),
-    ("N+ Nacional",          "https://www.nmas.com.mx/nacional/feed/"),
-    ("Milenio Seguridad",    "https://www.milenio.com/rss/policia"),
-    ("El Universal Nación",  "https://www.eluniversal.com.mx/nacion/rss.xml"),
-    # ── Estados de alto riesgo carretero ──────────────────────────
-    ("Quadratín Guerrero",   "https://guerrero.quadratin.com.mx/feed/"),
+    # ── Quadratín por estado (los que respondieron) ────────────────
     ("Quadratín Oaxaca",     "https://oaxaca.quadratin.com.mx/feed/"),
     ("Quadratín Veracruz",   "https://veracruz.quadratin.com.mx/feed/"),
-    ("Quadratín Michoacán",  "https://michoacan.quadratin.com.mx/feed/"),
     ("Quadratín Puebla",     "https://puebla.quadratin.com.mx/feed/"),
-    ("Quadratín Tamaulipas", "https://tamaulipas.quadratin.com.mx/feed/"),
     ("Quadratín Jalisco",    "https://jalisco.quadratin.com.mx/feed/"),
     ("Quadratín Sinaloa",    "https://sinaloa.quadratin.com.mx/feed/"),
-    # ── Medios regionales adicionales ─────────────────────────────
+    # ── Medios regionales que respondieron ────────────────────────
     ("El Sol de Puebla",     "https://www.elsoldepuebla.com.mx/rss.xml"),
     ("El Sol de Sinaloa",    "https://www.elsoldesinaloa.com.mx/rss.xml"),
-    ("Cambio Puebla",        "https://www.cambiopuebla.mx/feed/"),
     ("Noticias Veracruz",    "https://www.noticiasveracruz.com.mx/feed/"),
-    ("Debate Sinaloa",       "https://www.debate.com.mx/rss"),
-    ("El Imparcial Oaxaca",  "https://www.imparcialoaxaca.mx/feed/"),
-    ("Proceso Guerrero",     "https://www.proceso.com.mx/?feed=rss2"),
-    # ── Protección Civil y Seguridad Pública estatal ───────────────
-    ("PC Jalisco",           "https://pcbomberos.jalisco.gob.mx/feed/"),
-    ("Info7 NL",             "https://www.info7.mx/feed/"),
-    ("Multimedios",          "https://www.multimedios.com/rss"),
     ("El Norte NL",          "https://www.elnorte.com/rss/portada.xml"),
+    # ── URLs corregidas para los que fallaron ──────────────────────
+    ("Quadratín Guerrero",   "https://guerrero.quadratin.com.mx/feed/"),
+    ("Quadratín Michoacán",  "https://michoacan.quadratin.com.mx/feed/"),
+    ("Quadratín Tamaulipas", "https://tamaulipas.quadratin.com.mx/feed/"),
+    ("Debate Sinaloa",       "https://www.debate.com.mx/feed/"),
+    ("El Imparcial Oaxaca",  "https://www.imparcialoaxaca.mx/feed/"),
+    ("Info7 NL",             "https://www.info7.mx/rss/noticias.xml"),
+    ("Multimedios",          "https://www.multimedios.com/feed/"),
 ]
 
 # ─────────────────────────────────────────────────────────────────────
@@ -330,12 +321,30 @@ COORD_MAP = {
 # FALSOS POSITIVOS — noticias que no son alertas activas
 # ─────────────────────────────────────────────────────────────────────
 FALSOS_POSITIVOS = [
+    # ── Noticias de restablecimiento (no alertas activas) ──────────
     "reabre","restablece circulación","circulación normal","sin novedad",
     "se normaliza","ya liberaron","retiraron bloqueo","fue detenido",
     "fueron detenidos","capturan","capturaron","detienen banda",
+    # ── Contenido editorial / histórico ───────────────────────────
     "simulacro","en memoria","aniversario","recuerdan","conmemoran",
     "historia","hace 10 años","hace un año","archivo","reportaje especial",
     "análisis de","tendencias de","estadísticas de","ranking de",
+    # ── Falsos positivos económicos / financieros (El Financiero etc.) ──
+    "cierre de mercado","cierre bursátil","bolsa de valores",
+    "cierre de año","cierre fiscal","cierre de operaciones",
+    "cierre de empresa","cierre de negocio","cierre de planta",
+    "petróleo","irán","trump","sanciones","aranceles","dólar",
+    "inflación","banco","pib","economía","inversión","exporta",
+    "importa","comercio exterior","finanzas","presupuesto",
+    "pensión afore","crédito","hipoteca","deuda pública",
+    "elección","candidato","político","congreso","senado","diputado",
+    "hidro sustentable","ahorro de agua","sustentabilidad ambiental",
+    "distintivo","certificación","premio","reconocimiento",
+    "fútbol","liga mx","deportes","beisbol","basquetbol",
+    "concierto","festival","espectáculo","cine","televisión",
+    "receta","cocina","gastronomía","restaurante",
+    "covid","vacuna","salud","hospital","médico","enfermedad",
+    "inmobiliaria","vivienda","departamento","construcción residencial",
 ]
 
 CST   = timezone(timedelta(hours=-6))
@@ -343,14 +352,20 @@ MESES = ["enero","febrero","marzo","abril","mayo","junio",
          "julio","agosto","septiembre","octubre","noviembre","diciembre"]
 
 VIAL_KW = [
-    "carretera","autopista","km ","cierre","bloqueo","manifestación",
-    "accidente","volcadura","derrumbe","inundación","neblina",
-    "robo","asalto","capufe","gn_carreteras","guardia nacional",
-    "transporte de carga","tractocamión","manifestantes","protesta",
-    "obra vial","tránsito","vialidad","carril","caseta","peaje",
+    # ── Palabras que por sí solas implican contexto carretero ──────
+    "carretera","autopista","capufe","guardia nacional carretera",
+    "gn_carreteras","tractocamión","volcadura","derrumbe","deslave",
+    "caseta de cobro","caseta de peaje","km ","kilómetro",
     "57d","95d","150d","15d","85d","140d","siglo xxi","arco norte",
-    "percance","colisión","impacto","volcó","chocó","choque","fila",
-    "retención","congestionamiento","tráfico pesado","lento avance",
+    "cierre vial","cierre carretero","cierre de circulación",
+    "bloqueo carretero","bloqueo vial","manifestantes carretera",
+    "accidente carretero","accidente vial","choque carretera",
+    "robo carretera","asalto carretera","asalto autopista",
+    "transporte de carga","robo a transporte","pipa robada",
+    "obra vial","obra carretera","mantenimiento vial",
+    "carga vehicular","congestionamiento vial","tráfico en carretera",
+    "tramo carretero","libramiento","periférico","viaducto federal",
+    "reducción de carril","carril cerrado","ambos sentidos",
 ]
 
 # ─────────────────────────────────────────────────────────────────────
