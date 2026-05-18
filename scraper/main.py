@@ -1,15 +1,19 @@
 #!/usr/bin/env python3
 """
 ╔══════════════════════════════════════════════════════════════════════╗
-║       SCRAPER ALERTAS VIALES MÉXICO v2 — AssistCargo                ║
+║       SCRAPER ALERTAS VIALES MÉXICO v3 — AssistCargo                ║
 ║  Fuentes:                                                           ║
 ║    • Google News RSS   — 28 búsquedas específicas (sin API key)     ║
 ║    • RSS nacionales    — 14 medios (Milenio, Universal, Reforma…)   ║
 ║    • RSS regionales    — 10 medios estatales                        ║
 ║    • CAPUFE directo    — scraping página oficial                    ║
 ║    • CONAGUA/SMN       — XML oficial                                ║
-║    • API X (Twitter)   — 6 cuentas clave vía Bearer Token           ║
-║  Ventana: últimas LOOKBACK_HORAS horas (default 24, configurable)   ║
+║    • N+ / nmas.com.mx  — scraping artículo diario de cierres       ║
+║    • Miradas.mx        — live blog de bloqueos carreteros           ║
+║    • El Informador     — RSS Jalisco + scraping vial                ║
+║    • Quadratín         — RSS estados críticos                       ║
+║    • Protección Civil  — feeds estatales (Oaxaca, Guerrero, etc.)   ║
+║  Ventana: últimas LOOKBACK_HORAS horas (default 4, configurable)    ║
 ╚══════════════════════════════════════════════════════════════════════╝
 """
 
@@ -23,11 +27,10 @@ from bs4 import BeautifulSoup
 # ─────────────────────────────────────────────────────────────────────
 # CONFIGURACIÓN  (sobreescribible con variables de entorno)
 # ─────────────────────────────────────────────────────────────────────
-LOOKBACK_HORAS    = int(os.getenv("SCRAPER_LOOKBACK_MINUTES", str(24*60))) // 60  # ventana de tiempo
+LOOKBACK_HORAS    = int(os.getenv("SCRAPER_LOOKBACK_MINUTES", str(4*60))) // 60   # ventana de tiempo (default 4h)
 MAX_POR_FEED      = int(os.getenv("MAX_POR_FEED",   "30"))   # entradas a leer por feed
-RUN_MODE          = os.getenv("SCRAPER_RUN_MODE", "all")             # all | official_only | media_only
-ACCEPT_UNDATED    = os.getenv("SCRAPER_ACCEPT_UNDATED", "false").lower() == "true"  # rechazar sin fecha
-TWITTER_BEARER    = os.getenv("TWITTER_BEARER_TOKEN", "")            # API X — Bearer Token
+RUN_MODE          = os.getenv("SCRAPER_RUN_MODE", "all")              # all | official_only | media_only
+ACCEPT_UNDATED    = os.getenv("SCRAPER_ACCEPT_UNDATED", "false").lower() == "true"
 
 # ─────────────────────────────────────────────────────────────────────
 # GOOGLE NEWS RSS — 28 queries segmentadas por tipo y región
@@ -129,22 +132,48 @@ CAPUFE_URLS = [
 ]
 
 # ─────────────────────────────────────────────────────────────────────
-# CUENTAS X — 6 cuentas clave (API oficial, plan Basic)
-# Presupuesto: ~10,000 tweets/mes · 6 cuentas · 24 ejecuciones/día
-# = máx 15 tweets por cuenta por ejecución para no pasarse
+# FUENTE 5 — SCRAPING DIRECTO DE SITIOS ESPECIALIZADOS
+# Sitios que consolidan reportes de GN + CAPUFE en tiempo real
 # ─────────────────────────────────────────────────────────────────────
-CUENTAS_X = [
-    "GN_Carreteras",    # Guardia Nacional Carreteras — alertas federales
-    "Circuito_mx",      # Circuito Interior / vialidades CDMX
-    "ClarabellaDra",    # Alertas viales en tiempo real
-    "MazatlanCuliac1",  # Alertas región Sinaloa / Mazatlán
-    "CAPUFE",           # CAPUFE oficial — casetas y cierres
-    "TrianguloRojo01",  # Triángulo Rojo — incidentes carreteros
-]
 
-# Tweets máximos por cuenta por ejecución (conservador para plan Basic)
-# 10,000 tweets/mes ÷ 30 días ÷ 24 ejecuciones ÷ 6 cuentas ≈ 2.3 → usamos 10 con margen
-MAX_TWEETS_X = 10
+# N+ publica un artículo diario con el listado oficial de cierres
+# La URL cambia cada día pero el patrón es constante
+NMAS_RSS = "https://www.nmas.com.mx/feed/"
+NMAS_KEYWORDS = ["carretera", "autopista", "bloqueada", "cierre", "bloqueo", "vial"]
+
+# Miradas.mx — live blog de bloqueos (scraping HTML)
+MIRADAS_RSS  = "https://miradas.mx/feed"
+
+# RSS adicionales especializados en seguridad vial y estados críticos
+RSS_VIALES_EXTRA = [
+    # ── Cobertura diaria de cierres ────────────────────────────────
+    ("N+ Seguridad",         "https://www.nmas.com.mx/nacional/seguridad/feed/"),
+    ("N+ Nacional",          "https://www.nmas.com.mx/nacional/feed/"),
+    ("Milenio Seguridad",    "https://www.milenio.com/rss/policia"),
+    ("El Universal Nación",  "https://www.eluniversal.com.mx/nacion/rss.xml"),
+    # ── Estados de alto riesgo carretero ──────────────────────────
+    ("Quadratín Guerrero",   "https://guerrero.quadratin.com.mx/feed/"),
+    ("Quadratín Oaxaca",     "https://oaxaca.quadratin.com.mx/feed/"),
+    ("Quadratín Veracruz",   "https://veracruz.quadratin.com.mx/feed/"),
+    ("Quadratín Michoacán",  "https://michoacan.quadratin.com.mx/feed/"),
+    ("Quadratín Puebla",     "https://puebla.quadratin.com.mx/feed/"),
+    ("Quadratín Tamaulipas", "https://tamaulipas.quadratin.com.mx/feed/"),
+    ("Quadratín Jalisco",    "https://jalisco.quadratin.com.mx/feed/"),
+    ("Quadratín Sinaloa",    "https://sinaloa.quadratin.com.mx/feed/"),
+    # ── Medios regionales adicionales ─────────────────────────────
+    ("El Sol de Puebla",     "https://www.elsoldepuebla.com.mx/rss.xml"),
+    ("El Sol de Sinaloa",    "https://www.elsoldesinaloa.com.mx/rss.xml"),
+    ("Cambio Puebla",        "https://www.cambiopuebla.mx/feed/"),
+    ("Noticias Veracruz",    "https://www.noticiasveracruz.com.mx/feed/"),
+    ("Debate Sinaloa",       "https://www.debate.com.mx/rss"),
+    ("El Imparcial Oaxaca",  "https://www.imparcialoaxaca.mx/feed/"),
+    ("Proceso Guerrero",     "https://www.proceso.com.mx/?feed=rss2"),
+    # ── Protección Civil y Seguridad Pública estatal ───────────────
+    ("PC Jalisco",           "https://pcbomberos.jalisco.gob.mx/feed/"),
+    ("Info7 NL",             "https://www.info7.mx/feed/"),
+    ("Multimedios",          "https://www.multimedios.com/rss"),
+    ("El Norte NL",          "https://www.elnorte.com/rss/portada.xml"),
+]
 
 # ─────────────────────────────────────────────────────────────────────
 # CLASIFICACIÓN
@@ -690,97 +719,105 @@ def fetch_conagua() -> list[dict]:
 # ─────────────────────────────────────────────────────────────────────
 
 # ─────────────────────────────────────────────────────────────────────
-# FUENTE 5 — API OFICIAL DE X (Twitter v2) con Bearer Token
-# Endpoint: GET /2/tweets/search/recent  ← disponible en plan Basic
-# Busca tweets de las 6 cuentas usando "from:cuenta" operator
+# FUENTE 5 — SCRAPING N+ y MIRADAS (listados diarios de cierres GN/CAPUFE)
 # ─────────────────────────────────────────────────────────────────────
 
-def _twitter_headers() -> dict:
-    return {
-        "Authorization": f"Bearer {TWITTER_BEARER}",
-        "User-Agent": "AlertasVialesMX/2.0",
-    }
+def _extraer_items_articulo(soup: BeautifulSoup, fuente: str, url_base: str) -> list[dict]:
+    """Extrae alertas individuales de un artículo de cierres carreteros."""
+    alertas = []
+    # Buscar párrafos y listados con horas y km
+    patron_hora = re.compile(r"\d{1,2}:\d{2}\s*[Hh]oras?\.?", re.IGNORECASE)
+    patron_km   = re.compile(r"km\s*\d+", re.IGNORECASE)
 
-
-def fetch_twitter_api() -> list[dict]:
-    """Busca tweets recientes de las 6 cuentas via API v2 /search/recent (plan Basic)."""
-    if not TWITTER_BEARER:
-        log.warning("  X API — TWITTER_BEARER_TOKEN no configurado, omitiendo.")
-        return []
-
-    alertas   = []
-    ahora_utc = datetime.now(timezone.utc)
-    ventana   = timedelta(hours=LOOKBACK_HORAS)
-
-    # Construir query: from:cuenta1 OR from:cuenta2 ... (excluir retweets)
-    from_ops = " OR ".join(f"from:{c}" for c in CUENTAS_X)
-    query    = f"({from_ops}) -is:retweet -is:reply lang:es"
-
-    params = {
-        "query":        query,
-        "tweet.fields": "created_at,text,author_id,entities",
-        "expansions":   "author_id",
-        "user.fields":  "username",
-        "max_results":  MAX_TWEETS_X,   # 10–100 por llamada
-    }
-
-    url  = "https://api.twitter.com/2/tweets/search/recent"
-    resp = requests.get(url, headers=_twitter_headers(), params=params, timeout=20)
-
-    if resp.status_code == 429:
-        log.warning("  X API — rate limit alcanzado. Omitiendo fuente X esta ejecución.")
-        return []
-    if resp.status_code != 200:
-        log.warning(f"  X API — error {resp.status_code}: {resp.text[:200]}")
-        return []
-
-    body = resp.json()
-    tweets = body.get("data", [])
-
-    # Construir mapa author_id → username desde expansions
-    users  = {u["id"]: u["username"]
-              for u in body.get("includes", {}).get("users", [])}
-
-    nuevas = 0
-    for tw in tweets:
-        created_at = tw.get("created_at", "")
-        if created_at:
-            try:
-                dt_tw = datetime.fromisoformat(created_at.replace("Z", "+00:00"))
-                if ahora_utc - dt_tw > ventana:
-                    continue
-            except Exception:
-                pass
-
-        texto = limpiar(tw.get("text", ""))
-        if len(texto) < 20 or not es_relevante(texto):
+    bloques = soup.find_all(["p", "li"], string=True)
+    for bloque in bloques:
+        texto = bloque.get_text(separator=" ", strip=True)
+        if len(texto) < 30:
+            continue
+        if not (patron_hora.search(texto) or patron_km.search(texto)):
+            continue
+        if not es_relevante(texto):
             continue
         if es_falso_positivo(texto):
             continue
-
-        tipo  = clasificar(texto)
-        fecha = _ahora_str()
-        if created_at:
-            try:
-                dt_cst = datetime.fromisoformat(
-                    created_at.replace("Z", "+00:00")).astimezone(CST)
-                fecha = (f"{dt_cst.day} {MESES[dt_cst.month-1]} {dt_cst.year}"
-                         f" · {dt_cst.strftime('%H:%M')} CST")
-            except Exception:
-                pass
-
-        autor  = users.get(tw.get("author_id", ""), "X")
-        tw_id  = tw.get("id", "")
-        url_tw = f"https://x.com/{autor}/status/{tw_id}" if tw_id else ""
-
+        tipo = clasificar(texto)
         alertas.append(hacer_alerta(
             tipo, extraer_ruta(texto), texto[:500],
-            extraer_rec(texto), fecha,
-            f"@{autor}", url_tw, texto,
+            extraer_rec(texto), _ahora_str(),
+            fuente, url_base, texto,
         ))
-        nuevas += 1
+    return alertas
 
-    log.info(f"  ✓ X API /search/recent: {len(tweets)} tweets → {nuevas} alertas")
+
+def fetch_sitios_viales() -> list[dict]:
+    """Scraping de N+ y Miradas — artículos diarios con reportes GN/CAPUFE."""
+    alertas = []
+
+    # ── N+ RSS → buscar artículos de carreteras de hoy ───────────
+    resp = get(NMAS_RSS, timeout=15)
+    if resp:
+        feed = feedparser.parse(resp.text)
+        for entry in feed.entries[:20]:
+            titulo = limpiar(entry.get("title", "")).lower()
+            if not any(kw in titulo for kw in NMAS_KEYWORDS):
+                continue
+            pub_date = entry.get("published", "")
+            if not esta_en_ventana(pub_date):
+                # Para artículos diarios de cierres aceptamos el de hoy aunque
+                # sea de hace unas horas (ventana extendida a 26h para este feed)
+                dt = parse_fecha_rss(pub_date)
+                if dt is None:
+                    continue
+                if (datetime.now(CST) - dt).total_seconds() > 26 * 3600:
+                    continue
+
+            link = entry.get("link", "")
+            if not link:
+                continue
+            page = get(link, timeout=20)
+            if not page:
+                continue
+            soup = BeautifulSoup(page.text, "html.parser")
+            nuevas = _extraer_items_articulo(soup, "N+/CAPUFE-GN", link)
+            alertas.extend(nuevas)
+            log.info(f"  N+ '{entry.get('title','')[:50]}': {len(nuevas)} alertas")
+            time.sleep(1)
+
+    # ── Miradas.mx RSS ────────────────────────────────────────────
+    resp2 = get(MIRADAS_RSS, timeout=15)
+    if resp2:
+        feed2 = feedparser.parse(resp2.text)
+        for entry in feed2.entries[:10]:
+            titulo = limpiar(entry.get("title", "")).lower()
+            if not any(kw in titulo for kw in ["carretera", "bloqueo", "cierre", "autopista"]):
+                continue
+            pub_date = entry.get("published", "")
+            dt = parse_fecha_rss(pub_date)
+            if dt and (datetime.now(CST) - dt).total_seconds() > 26 * 3600:
+                continue
+            link = entry.get("link", "")
+            if not link:
+                continue
+            page = get(link, timeout=20)
+            if not page:
+                continue
+            soup = BeautifulSoup(page.text, "html.parser")
+            nuevas = _extraer_items_articulo(soup, "Miradas.mx/GN", link)
+            alertas.extend(nuevas)
+            log.info(f"  Miradas.mx '{entry.get('title','')[:50]}': {len(nuevas)} alertas")
+            time.sleep(1)
+
+    log.info(f"  ✓ Sitios especializados: {len(alertas)} alertas")
+    return alertas
+
+
+# ─────────────────────────────────────────────────────────────────────
+# FUENTE 6 — RSS EXTRA (Quadratín por estados + más medios regionales)
+# ─────────────────────────────────────────────────────────────────────
+
+def fetch_rss_extra() -> list[dict]:
+    alertas = _procesar_rss(RSS_VIALES_EXTRA)
+    log.info(f"  ✓ RSS extra (Quadratín + regionales): {len(alertas)} alertas")
     return alertas
 
 
@@ -911,14 +948,23 @@ def main():
         except Exception as e:
             log.error(f"  CONAGUA: {e}")
 
-    # ── API X (Twitter) ────────────────────────────────────────────
+    # ── Sitios especializados N+ / Miradas ─────────────────────────
     if RUN_MODE in ("all", "official_only"):
-        log.info("► API X (Twitter) …")
+        log.info("► Scraping N+ / Miradas (reportes GN+CAPUFE) …")
         try:
-            r = fetch_twitter_api(); todas.extend(r)
-            if r: fuentes_usadas.append("X/@GN_Carreteras/@CAPUFE y más")
+            r = fetch_sitios_viales(); todas.extend(r)
+            if r: fuentes_usadas.append("N+/Miradas (GN+CAPUFE)")
         except Exception as e:
-            log.error(f"  X API: {e}")
+            log.error(f"  Sitios viales: {e}")
+
+    # ── RSS extra — Quadratín + más regionales ─────────────────────
+    if RUN_MODE in ("all", "media_only"):
+        log.info("► RSS extra (Quadratín estados + regionales) …")
+        try:
+            r = fetch_rss_extra(); todas.extend(r)
+            if r: fuentes_usadas.append("Quadratín + regionales")
+        except Exception as e:
+            log.error(f"  RSS extra: {e}")
 
     # ── Dedup y salida ─────────────────────────────────────────────
     antes = len(todas)
