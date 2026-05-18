@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-05-18T10:56:23.844839-06:00",
-  "ultima_actualizacion_legible": "18 de mayo de 2026 · 10:56 CST",
-  "total": 10,
+  "ultima_actualizacion": "2026-05-18T11:02:09.624012-06:00",
+  "ultima_actualizacion_legible": "18 de mayo de 2026 · 11:02 CST",
+  "total": 12,
   "ventana": "últimas 4 horas",
   "fuentes": [
     "Google News",
@@ -68,6 +68,20 @@
       "col2": true,
       "alertas": [
         {
+          "id": "e9e48fe1",
+          "tipo": "cierre_parcial",
+          "ruta": "Ofrecimiento de Trump a Irán impulsa al peso contra el…",
+          "descripcion": "Ofrecimiento de Trump a Irán impulsa al peso contra el dólar: Así está el tipo de cambio HOY 18 de mayo. La guerra entre EU e Irán está cerca de cumplir tres meses. Durante este tiempo, los precios del petróleo se han disparado por arriba de los 100 dólares debido al cierre del Estrecho de Ormuz.",
+          "recomendacion": "",
+          "fecha": "18 mayo 2026 · 10:53 CST",
+          "fecha_iso": "2026-05-18T10:53:00-06:00",
+          "fuente": "El Financiero",
+          "url": "https://www.elfinanciero.com.mx/mercados/2026/05/18/peso-dolar-precio-hoy-18-de-mayo-de-2026/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        },
+        {
           "id": "804e731a",
           "tipo": "cierre_parcial",
           "ruta": "En Puruándiro, soberanía no se negocia: Jesús Mora…",
@@ -112,6 +126,20 @@
           "badge_txt": "CIERRE PARCIAL",
           "lat": 20.66,
           "lon": -103.35
+        },
+        {
+          "id": "8802e6ae",
+          "tipo": "cierre_parcial",
+          "ruta": "Muerte y fuga en carretera Abasolo-Pénjamo: Atropella conductor a motociclista…",
+          "descripcion": "Muerte y fuga en carretera Abasolo-Pénjamo: Atropella conductor a motociclista y decide irse. Como seña particular, la moto tiene las letras SANCHEZ en el tanque de gasolina. No hay pistas del conductor responsable y su auto.",
+          "recomendacion": "",
+          "fecha": "18 mayo 2026 · 08:46 CST",
+          "fecha_iso": "2026-05-18T08:46:00-06:00",
+          "fuente": "AM Guanajuato",
+          "url": "https://www.am.com.mx/guanajuato-sur/2026/05/18/motociclista-murio-en-accidente-en-la-abasolo-penjamo-1795068.html",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
         },
         {
           "id": "969ad531",
