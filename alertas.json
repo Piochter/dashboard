@@ -1,12 +1,13 @@
 {
-  "ultima_actualizacion": "2026-05-18T11:02:09.624012-06:00",
-  "ultima_actualizacion_legible": "18 de mayo de 2026 · 11:02 CST",
-  "total": 12,
+  "ultima_actualizacion": "2026-05-18T11:09:28.508725-06:00",
+  "ultima_actualizacion_legible": "18 de mayo de 2026 · 11:09 CST",
+  "total": 15,
   "ventana": "últimas 4 horas",
   "fuentes": [
     "Google News",
     "Medios nacionales",
-    "Medios regionales"
+    "Medios regionales",
+    "Quadratín + regionales"
   ],
   "grupos": [
     {
@@ -17,6 +18,20 @@
       "col2": false,
       "alertas": [
         {
+          "id": "abc47fce",
+          "tipo": "bloqueo",
+          "ruta": "Protestan extrabajadores del Seguro Popular; exigen laudos laborales…",
+          "descripcion": "Protestan extrabajadores del Seguro Popular; exigen laudos laborales. Permanecen sin resolverse desde hace más de nueve años",
+          "recomendacion": "",
+          "fecha": "18 mayo 2026 · 11:03 CST",
+          "fecha_iso": "2026-05-18T11:03:00-06:00",
+          "fuente": "Quadratín Veracruz",
+          "url": "https://veracruz.quadratin.com.mx/protestan-extrabajadores-del-seguro-popular-exigen-laudos-laborales/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
+        {
           "id": "f0e26764",
           "tipo": "bloqueo",
           "ruta": "EN VIVO: ¿Hay bloqueos en carreteras hoy? Cierres y tráfico…",
@@ -26,6 +41,20 @@
           "fecha_iso": "2026-05-18T10:37:00-06:00",
           "fuente": "TV Azteca",
           "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSmduZ3JsY2RnMlRSN1l3N1VMZlM3VGFuWHNpNVA1MDB3RFUwYi14QnBqVUpEOWhpa1lGOTMtNmN6OE9za3hPdEZlc0Via1Y0YjV4OEVWeUtwS25zdkYxdmhaZW1TcnFXRXM1MldJaWNYbDF6Q1BPSXR4R1I2SGVmWmhHbHo4cHdpWU5yb2l6aEZ6c0I5MXhsYUtNRW1ETFAyTDB1blR4RVRGWDhUZFNkUjJhdjlKRDVDTWpadWtLOWk5dDVNRmJ2b2VkdnY?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
+        {
+          "id": "0726df8f",
+          "tipo": "bloqueo",
+          "ruta": "Bloqueo de cuentas a Rocha e hijos es preventivo, dice…",
+          "descripcion": "Bloqueo de cuentas a Rocha e hijos es preventivo, dice UIF. La UIF afirma que el bloqueo de cuentas a Rubén Rocha, tres de sus hijos y 9 ex funcionarios acusados por EU es sólo preventivo.",
+          "recomendacion": "",
+          "fecha": "18 mayo 2026 · 10:19 CST",
+          "fecha_iso": "2026-05-18T10:19:00-06:00",
+          "fuente": "El Norte NL",
+          "url": "https://www.elnorte.com/bloqueo-de-cuentas-a-rocha-e-hijos-es-preventivo-dice-uif/ar3206175",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO"
@@ -45,18 +74,41 @@
           "badge_txt": "BLOQUEO"
         },
         {
-          "id": "c3eae49c",
+          "id": "986f4d90",
           "tipo": "bloqueo",
-          "ruta": "47,000 trabajadores de Samsung se alistan para una huelga en…",
-          "descripcion": "47,000 trabajadores de Samsung se alistan para una huelga en Corea del Sur. El sindicato prevé entrar en huelga de 18 días el 21 de mayo, pero el presidente surcoreano ya instó a las partes a alcanzar un acuerdo para evitar el impacto económico.",
-          "recomendacion": "evitar el impacto económico",
-          "fecha": "18 mayo 2026 · 08:30 CST",
-          "fecha_iso": "2026-05-18T08:30:00-06:00",
-          "fuente": "Expansión",
-          "url": "https://expansion.mx/tecnologia/2026/05/18/47-000-trabajadores-de-samsung-se-alistan-para-una-huelga-en-corea-del-sur",
+          "ruta": "La educación es primero…",
+          "descripcion": "La educación es primero. La presidenta Claudia Sheinbaum ha mostrado, desde el inicio de su gobierno, disposición al diálogo con el magisterio y sensibilidad frente a las demandas históricas de maestras y maestros. Existe una diferencia clara entre la lógica priista y panista que durante años criminalizó la protesta docente y la visión de un gobierno que reconoce al […]",
+          "recomendacion": "",
+          "fecha": "18 mayo 2026 · 10:03 CST",
+          "fecha_iso": "2026-05-18T10:03:00-06:00",
+          "fuente": "Quadratín Veracruz",
+          "url": "https://veracruz.quadratin.com.mx/la-educacion-es-primero/",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO"
+        }
+      ]
+    },
+    {
+      "tipo": "robo",
+      "color": "rojo",
+      "icono": "🚨",
+      "label": "ROBOS EN CARRETERA",
+      "col2": true,
+      "alertas": [
+        {
+          "id": "dc13e7d6",
+          "tipo": "robo",
+          "ruta": "Robo de datos en internet: deben verificar autenticidad y evitar…",
+          "descripcion": "Robo de datos en internet: deben verificar autenticidad y evitar fraudes. Uno de los mayores retos en ciberseguridad es enseñar reglas básicas de protección digital desde edades tempranas.",
+          "recomendacion": "",
+          "fecha": "18 mayo 2026 · 10:38 CST",
+          "fecha_iso": "2026-05-18T10:38:00-06:00",
+          "fuente": "Quadratín Sinaloa",
+          "url": "https://sinaloa.quadratin.com.mx/robo-de-datos-en-internet-deben-verificar-autenticidad-y-evitar-fraudes/",
+          "dot_color": "#c0392b",
+          "badge": "badge-robo",
+          "badge_txt": "ROBO"
         }
       ]
     },
