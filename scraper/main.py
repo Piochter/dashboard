@@ -689,6 +689,12 @@ def fetch_conagua() -> list[dict]:
 # FUENTE 5 — API OFICIAL DE X (Twitter v2) con Bearer Token
 # ─────────────────────────────────────────────────────────────────────
 
+# ─────────────────────────────────────────────────────────────────────
+# FUENTE 5 — API OFICIAL DE X (Twitter v2) con Bearer Token
+# Endpoint: GET /2/tweets/search/recent  ← disponible en plan Basic
+# Busca tweets de las 6 cuentas usando "from:cuenta" operator
+# ─────────────────────────────────────────────────────────────────────
+
 def _twitter_headers() -> dict:
     return {
         "Authorization": f"Bearer {TWITTER_BEARER}",
@@ -696,19 +702,8 @@ def _twitter_headers() -> dict:
     }
 
 
-def _get_user_id(username: str) -> Optional[str]:
-    """Obtiene el user_id numérico a partir del username."""
-    url  = f"https://api.twitter.com/2/users/by/username/{username}"
-    resp = requests.get(url, headers=_twitter_headers(), timeout=15)
-    if resp.status_code != 200:
-        log.warning(f"  X API — no se pudo resolver @{username}: {resp.status_code}")
-        return None
-    data = resp.json().get("data", {})
-    return data.get("id")
-
-
 def fetch_twitter_api() -> list[dict]:
-    """Lee los últimos tweets de las 6 cuentas usando la API v2 de X."""
+    """Busca tweets recientes de las 6 cuentas via API v2 /search/recent (plan Basic)."""
     if not TWITTER_BEARER:
         log.warning("  X API — TWITTER_BEARER_TOKEN no configurado, omitiendo.")
         return []
@@ -717,79 +712,75 @@ def fetch_twitter_api() -> list[dict]:
     ahora_utc = datetime.now(timezone.utc)
     ventana   = timedelta(hours=LOOKBACK_HORAS)
 
-    # Parámetros de la búsqueda de timeline
-    tweet_fields = "created_at,text,entities"
-    params_base  = {
-        "tweet.fields": tweet_fields,
-        "max_results":  MAX_TWEETS_X,          # 5–100 por llamada
-        "exclude":      "retweets,replies",    # solo tweets originales
+    # Construir query: from:cuenta1 OR from:cuenta2 ... (excluir retweets)
+    from_ops = " OR ".join(f"from:{c}" for c in CUENTAS_X)
+    query    = f"({from_ops}) -is:retweet -is:reply lang:es"
+
+    params = {
+        "query":        query,
+        "tweet.fields": "created_at,text,author_id,entities",
+        "expansions":   "author_id",
+        "user.fields":  "username",
+        "max_results":  MAX_TWEETS_X,   # 10–100 por llamada
     }
 
-    for cuenta in CUENTAS_X:
-        user_id = _get_user_id(cuenta)
-        if not user_id:
+    url  = "https://api.twitter.com/2/tweets/search/recent"
+    resp = requests.get(url, headers=_twitter_headers(), params=params, timeout=20)
+
+    if resp.status_code == 429:
+        log.warning("  X API — rate limit alcanzado. Omitiendo fuente X esta ejecución.")
+        return []
+    if resp.status_code != 200:
+        log.warning(f"  X API — error {resp.status_code}: {resp.text[:200]}")
+        return []
+
+    body = resp.json()
+    tweets = body.get("data", [])
+
+    # Construir mapa author_id → username desde expansions
+    users  = {u["id"]: u["username"]
+              for u in body.get("includes", {}).get("users", [])}
+
+    nuevas = 0
+    for tw in tweets:
+        created_at = tw.get("created_at", "")
+        if created_at:
+            try:
+                dt_tw = datetime.fromisoformat(created_at.replace("Z", "+00:00"))
+                if ahora_utc - dt_tw > ventana:
+                    continue
+            except Exception:
+                pass
+
+        texto = limpiar(tw.get("text", ""))
+        if len(texto) < 20 or not es_relevante(texto):
+            continue
+        if es_falso_positivo(texto):
             continue
 
-        url  = f"https://api.twitter.com/2/users/{user_id}/tweets"
-        resp = requests.get(url, headers=_twitter_headers(),
-                            params=params_base, timeout=15)
+        tipo  = clasificar(texto)
+        fecha = _ahora_str()
+        if created_at:
+            try:
+                dt_cst = datetime.fromisoformat(
+                    created_at.replace("Z", "+00:00")).astimezone(CST)
+                fecha = (f"{dt_cst.day} {MESES[dt_cst.month-1]} {dt_cst.year}"
+                         f" · {dt_cst.strftime('%H:%M')} CST")
+            except Exception:
+                pass
 
-        if resp.status_code == 429:
-            log.warning(f"  X API — rate limit alcanzado en @{cuenta}. Pausando 60s.")
-            time.sleep(60)
-            continue
-        if resp.status_code != 200:
-            log.warning(f"  X API — error {resp.status_code} en @{cuenta}")
-            continue
+        autor  = users.get(tw.get("author_id", ""), "X")
+        tw_id  = tw.get("id", "")
+        url_tw = f"https://x.com/{autor}/status/{tw_id}" if tw_id else ""
 
-        tweets = resp.json().get("data", [])
-        nuevas = 0
+        alertas.append(hacer_alerta(
+            tipo, extraer_ruta(texto), texto[:500],
+            extraer_rec(texto), fecha,
+            f"@{autor}", url_tw, texto,
+        ))
+        nuevas += 1
 
-        for tw in tweets:
-            # Filtrar por ventana de tiempo
-            created_at = tw.get("created_at", "")
-            if created_at:
-                try:
-                    dt_tw = datetime.fromisoformat(
-                        created_at.replace("Z", "+00:00")
-                    )
-                    if ahora_utc - dt_tw > ventana:
-                        continue
-                except Exception:
-                    pass
-
-            texto = limpiar(tw.get("text", ""))
-            if len(texto) < 20 or not es_relevante(texto):
-                continue
-            if es_falso_positivo(texto):
-                continue
-
-            tipo   = clasificar(texto)
-            fecha  = _ahora_str()
-            if created_at:
-                try:
-                    dt_tw  = datetime.fromisoformat(created_at.replace("Z", "+00:00"))
-                    dt_cst = dt_tw.astimezone(CST)
-                    fecha  = (f"{dt_cst.day} {MESES[dt_cst.month-1]} {dt_cst.year}"
-                              f" · {dt_cst.strftime('%H:%M')} CST")
-                except Exception:
-                    pass
-
-            # URL del tweet
-            tw_id = tw.get("id", "")
-            url_tw = f"https://x.com/{cuenta}/status/{tw_id}" if tw_id else ""
-
-            alertas.append(hacer_alerta(
-                tipo, extraer_ruta(texto), texto[:500],
-                extraer_rec(texto), fecha,
-                f"@{cuenta}", url_tw, texto,
-            ))
-            nuevas += 1
-
-        log.info(f"  X API @{cuenta}: {len(tweets)} tweets → {nuevas} alertas")
-        time.sleep(1)   # pausa cortés entre cuentas
-
-    log.info(f"  ✓ X API total: {len(alertas)} alertas")
+    log.info(f"  ✓ X API /search/recent: {len(tweets)} tweets → {nuevas} alertas")
     return alertas
 
 
