@@ -1,11 +1,10 @@
 {
-  "ultima_actualizacion": "2026-05-17T16:40:40.775641-06:00",
-  "ultima_actualizacion_legible": "17 de mayo de 2026 · 16:40 CST",
-  "total": 8,
+  "ultima_actualizacion": "2026-05-18T06:05:41.262884-06:00",
+  "ultima_actualizacion_legible": "18 de mayo de 2026 · 06:05 CST",
+  "total": 3,
   "ventana": "últimas 24 horas",
   "fuentes": [
     "Google News",
-    "Medios nacionales",
     "Medios regionales"
   ],
   "grupos": [
@@ -56,90 +55,18 @@
       "col2": true,
       "alertas": [
         {
-          "id": "bdbb6abe",
+          "id": "987daadd",
           "tipo": "cierre_parcial",
-          "ruta": "Asesinan y abandonan a hombre en un auto en Serrano,…",
-          "descripcion": "Asesinan y abandonan a hombre en un auto en Serrano, comunidad de Irapuato. Fue encontrado en un extenso terreno baldío, muy cerca del camino de Santa Bárbara a San Agustín de los Tordos. Desde la autopista Salamanca-León se observaba el operativo.",
+          "ruta": "Carretera a Chapala",
+          "descripcion": "Amplían el retiro de espectaculares en Carretera a Chapala, Patria y Américas. Las estructuras intervenidas carecen de permisos vigentes o presentan anomalías estructurales que podrían provocar accidentes",
           "recomendacion": "",
-          "fecha": "17 mayo 2026 · 16:04 CST",
-          "fecha_iso": "2026-05-17T16:04:00-06:00",
-          "fuente": "AM Guanajuato",
-          "url": "https://www.am.com.mx/irapuato/2026/05/17/asesinan-y-abandonan-a-hombre-en-un-auto-en-serrano-comunidad-de-irapuato-1794875.html",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
-        },
-        {
-          "id": "3304409b",
-          "tipo": "cierre_parcial",
-          "ruta": "Estas son las nuevas tarifas de casetas en México para…",
-          "descripcion": "Estas son las nuevas tarifas de casetas en México para 2026. Estos incrementos afectan la movilidad diaria en zonas metropolitanas y corredores industriales",
-          "recomendacion": "",
-          "fecha": "17 mayo 2026 · 15:46 CST",
-          "fecha_iso": "2026-05-17T15:46:00-06:00",
+          "fecha": "18 mayo 2026 · 03:50 CST",
+          "fecha_iso": "2026-05-18T03:50:00-06:00",
           "fuente": "El Informador Jalisco",
-          "url": "https://www.informador.mx/mexico/tarifas-de-casetas-en-mexico-para-2026-conoce-el-listado-de-los-nuevos-precios-20260413-0193.html",
+          "url": "https://www.informador.mx/jalisco/aeropuerto-amplian-el-retiro-de-espectaculares-en-carretera-a-chapala-patria-y-americas-20260518-0021.html",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL"
-        },
-        {
-          "id": "8add5395",
-          "tipo": "cierre_parcial",
-          "ruta": "Un pasajero calcinado y cuatro lesionados, deja un trágico choque…",
-          "descripcion": "Un pasajero calcinado y cuatro lesionados, deja un trágico choque frontal en Abasolo. La tragedia ocurrió alrededor de las 11:30 de la mañana del domingo 17 de mayo en la carretera estatal que conecta el municipio de Abasolo, con la comunidad de San Fernando.",
-          "recomendacion": "",
-          "fecha": "17 mayo 2026 · 13:27 CST",
-          "fecha_iso": "2026-05-17T13:27:00-06:00",
-          "fuente": "AM Guanajuato",
-          "url": "https://www.am.com.mx/guanajuato-sur/2026/05/17/choque-frontal-en-abasolo-deja-un-calcinado-y-cuatro-heridos-1794818.html",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
-        },
-        {
-          "id": "7c0b638a",
-          "tipo": "cierre_parcial",
-          "ruta": "Con actitud sospechosa, cae pasajero con cargamento de marihuana en…",
-          "descripcion": "Con actitud sospechosa, cae pasajero con cargamento de marihuana en un autobús. La detención ocurrió sobre la autopista Salamanca-León, a la altura de la caseta de Cerro Gordo, en el municipio de Salamanca.",
-          "recomendacion": "",
-          "fecha": "17 mayo 2026 · 12:41 CST",
-          "fecha_iso": "2026-05-17T12:41:00-06:00",
-          "fuente": "AM Guanajuato",
-          "url": "https://www.am.com.mx/salamanca/2026/05/17/detencion-de-hombre-con-cargamento-de-marihuana-en-autobus-1794812.html",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
-        },
-        {
-          "id": "fc644023",
-          "tipo": "cierre_parcial",
-          "ruta": "Carreteras Bloqueadas en México Hoy, Domingo 17 de Mayo 2026…",
-          "descripcion": "Carreteras Bloqueadas en México Hoy, Domingo 17 de Mayo 2026 - N+. Carreteras Bloqueadas en México Hoy, Domingo 17 de Mayo 2026 N+",
-          "recomendacion": "",
-          "fecha": "17 mayo 2026 · 00:52 CST",
-          "fecha_iso": "2026-05-17T00:52:00-06:00",
-          "fuente": "N+",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbFVOYW9PWW1Fb3BtbEJLSXMyclc1WktOclVvRTRXamxxdjVpZkJIRVdfbFZkU1VqMnYzZ3VCSDJiaXBNMnNQNGJRakVmRkxpbEtnTl9ua2NodFZIMkJKeF82Y0pDR05DVWttOTdPOWxfeVAyRmppS3lVV0NaVVk5V3R6UnVsWDI1dnZpTl94QUk2eWlOQ28xSUIxRzhMMzdscUVrZEhB?oc=5",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
-        },
-        {
-          "id": "2e83ea7c",
-          "tipo": "cierre_parcial",
-          "ruta": "Megamarcha del 20 de mayo en CDMX: Transportistas convocan a…",
-          "descripcion": "Megamarcha del 20 de mayo en CDMX: Transportistas convocan a madres buscadoras, maestros y pensionados. Transportistas y organizaciones campesinas convocaron a una megamarcha nacional el próximo 20 de mayo en la CDMX para exigir mayor seguridad en carreteras y apoyo al campo.",
-          "recomendacion": "",
-          "fecha": "16 mayo 2026 · 21:56 CST",
-          "fecha_iso": "2026-05-16T21:56:00-06:00",
-          "fuente": "El Financiero",
-          "url": "https://www.elfinanciero.com.mx/cdmx/2026/05/16/megamarcha-del-20-de-mayo-en-cdmx-transportistas-convocan-a-madres-buscadoras-maestros-y-pensionados/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.43,
-          "lon": -99.13
         }
       ]
     }
@@ -157,19 +84,6 @@
       "badge_txt": "BLOQUEO",
       "lat": 25.2,
       "lon": -102.0
-    },
-    {
-      "id": "2e83ea7c",
-      "tipo": "cierre_parcial",
-      "ruta": "Megamarcha del 20 de mayo en CDMX: Transportistas convocan a…",
-      "descripcion": "Megamarcha del 20 de mayo en CDMX: Transportistas convocan a madres buscadoras, maestros y pensionados. Transportistas y organizaciones campesinas convocaron a una megamarcha nacional el próximo 20 de mayo en la CDMX para exigir mayor seguridad en carreteras y apoyo al campo.",
-      "fecha": "16 mayo 2026 · 21:56 CST",
-      "fuente": "El Financiero",
-      "url": "https://www.elfinanciero.com.mx/cdmx/2026/05/16/megamarcha-del-20-de-mayo-en-cdmx-transportistas-convocan-a-madres-buscadoras-maestros-y-pensionados/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.43,
-      "lon": -99.13
     }
   ]
 }
