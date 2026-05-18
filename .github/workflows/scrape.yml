@@ -1,17 +1,32 @@
-name: Scraper Alertas Viales v2
+name: 🚨 Alertas Viales — Scraper Automático
+
 on:
   schedule:
-    - cron: '*/15 * * * *'
+    - cron: "0 * * * *"
+
   workflow_dispatch:
     inputs:
-      ventana_horas:
-        description: 'Ventana rodante en horas (default 3)'
-        required: false
-        default: '3'
       run_mode:
-        description: 'Modo: all | official_only | media_only'
+        description: "Modo de fuentes"
         required: false
-        default: 'all'
+        default: "all"
+        type: choice
+        options:
+          - all
+          - official_only
+          - media_only
+
+      lookback_minutes:
+        description: "Ventana de búsqueda en minutos"
+        required: false
+        default: "240"
+        type: string
+
+      accept_undated:
+        description: "Aceptar fuentes sin fecha publicada"
+        required: false
+        default: false
+        type: boolean
 
 concurrency:
   group: alertas-scraper
@@ -20,92 +35,75 @@ concurrency:
 permissions:
   contents: write
 
+env:
+  SCRAPER_RUN_MODE: ${{ github.event.inputs.run_mode || 'all' }}
+  SCRAPER_LOOKBACK_MINUTES: ${{ github.event.inputs.lookback_minutes || '240' }}
+  SCRAPER_OUTPUT_FILE: alertas.json
+  SCRAPER_DEDUPE_WINDOW_HOURS: "4"
+  SCRAPER_DEDUPE_KM_TOLERANCE: "5"
+  SCRAPER_OFFICIAL_MIN_CONFIDENCE: "0.85"
+  SCRAPER_PROBABLE_MIN_CONFIDENCE: "0.60"
+  SCRAPER_ACCEPT_UNDATED: ${{ github.event.inputs.accept_undated || 'false' }}
+
 jobs:
   scrape:
     runs-on: ubuntu-latest
+    timeout-minutes: 12
+
     steps:
-      # ── 1. Código ────────────────────────────────────────────────
-      - name: Checkout
+      - name: ⬇️ Checkout
         uses: actions/checkout@v4
         with:
-          fetch-depth: 1
+          ref: main
+          fetch-depth: 0
 
-      # ── 2. Python ────────────────────────────────────────────────
-      - name: Setup Python
+      - name: 🐍 Setup Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: "3.11"
+          cache: "pip"
+          cache-dependency-path: scraper/requirements.txt
 
-      # ── 3. Caché de dependencias ──────────────────────────────────
-      - name: Cache pip
-        uses: actions/cache@v4
-        with:
-          path: ~/.cache/pip
-          key: pip-requests-feedparser-bs4-lxml
-
-      # ── 4. Dependencias ──────────────────────────────────────────
-      - name: Instalar dependencias
+      - name: 📦 Instalar dependencias
         run: |
-          pip install --quiet \
-            requests==2.31.0 \
-            feedparser==6.0.11 \
-            beautifulsoup4==4.12.3 \
-            lxml==5.2.1
+          python -m pip install --upgrade pip
+          pip install -r scraper/requirements.txt
 
-      # ── 5. Ejecutar scraper ───────────────────────────────────────
-      - name: Ejecutar scraper
+      - name: 🔍 Ejecutar scraper
         env:
-          LOOKBACK_HORAS: ${{ github.event.inputs.ventana_horas || '3' }}
-          RUN_MODE:       ${{ github.event.inputs.run_mode      || 'all' }}
+          TWITTER_BEARER_TOKEN: ${{ AAAAAAAAAAAAAAAAAAAAACbG9gEAAAAApb0BHJPlh4LRPjEbu5T6cF2n%2FKw%3DxkGERJdkE7A8C9XOZ5bOWL04UTOUdGeN60DI1C7GKp7Q51Omjg }}
         run: python scraper/main.py
 
-      # ── 6. Validar JSON ───────────────────────────────────────────
-      - name: Validar alertas.json
+      - name: ✅ Validar alertas.json
         run: |
-          python - <<'EOF'
-          import json, sys
-          try:
-              with open("alertas.json") as f:
-                  d = json.load(f)
-              total = d.get("total", 0)
-              mapa  = len(d.get("para_mapa", []))
-              print(f"✅  JSON válido · {total} alertas · {mapa} con coordenadas")
-              print(f"    Ventana: {d.get('ventana', 'n/d')}")
-              print(f"    Fuentes: {', '.join(d.get('fuentes', []))}")
-          except Exception as e:
-              print(f"❌  JSON inválido: {e}")
-              sys.exit(1)
-          EOF
+          python -m json.tool "$SCRAPER_OUTPUT_FILE" > /tmp/alertas.validado.json
+          echo "JSON válido: $SCRAPER_OUTPUT_FILE"
 
-      # ── 7. Subir artefacto (diagnóstico) ─────────────────────────
-      - name: Subir alertas.json como artefacto
+      - name: 📎 Subir diagnóstico
+        if: always()
         uses: actions/upload-artifact@v4
         with:
-          name: alertas-${{ github.run_number }}
-          path: alertas.json
-          retention-days: 3
+          name: alertas-viales-output
+          path: |
+            alertas.json
+          retention-days: 7
 
-      # ── 8. Commit + Push con reintentos ──────────────────────────
-      - name: Commit alertas.json
+      - name: 💾 Commit alertas.json
         run: |
-          git config user.name  "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.email "bot@alertas-viales.io"
+          git config user.name  "AlertasVialesBot"
 
-          git add alertas.json
-          git diff --cached --quiet && echo "Sin cambios en alertas.json" && exit 0
+          git add "$SCRAPER_OUTPUT_FILE"
+          git diff --staged --quiet && exit 0
 
-          TOTAL=$(python -c "import json; d=json.load(open('alertas.json')); print(d.get('total',0))")
-          VENTANA=$(python -c "import json; d=json.load(open('alertas.json')); print(d.get('ventana','24h'))")
-          TIMESTAMP=$(date -u '+%Y-%m-%dT%H:%M:%SZ')
-
-          git commit -m "bot: alertas.json · ${TOTAL} alertas · ${VENTANA} · ${TIMESTAMP} [skip ci]"
+          git commit -m "🔄 Alertas: $(date -u '+%d-%b-%Y %H:%M UTC')"
 
           PUSH_OK=0
           for i in 1 2 3; do
-            git push && echo "✅ Push exitoso (intento $i)" && PUSH_OK=1 && break
-            echo "⚠️  Intento $i falló — reintentando…"
+            git push && echo "✅ Push exitoso en intento $i" && PUSH_OK=1 && break
+            echo "⚠️ Intento $i falló — jalando cambios y reintentando..."
             git fetch origin main
             git rebase origin/main
-            sleep 5
+            sleep 3
           done
           [ "$PUSH_OK" -eq 1 ] || { echo "❌ Push falló en los 3 intentos"; exit 1; }
