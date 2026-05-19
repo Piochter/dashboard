@@ -1,104 +1,12 @@
 {
-  "ultima_actualizacion": "2026-05-18T14:58:58.506310-06:00",
-  "ultima_actualizacion_legible": "18 de mayo de 2026 · 14:58 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-05-19T02:47:59.889529-06:00",
+  "ultima_actualizacion_legible": "19 de mayo de 2026 · 02:47 CST",
+  "total": 0,
   "ventana": "últimas 4 horas",
   "fuentes": [
-    "Google News",
-    "Quadratín + regionales"
+    "Google News"
   ],
-  "grupos": [
-    {
-      "tipo": "bloqueo",
-      "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "f0e26764",
-          "tipo": "bloqueo",
-          "ruta": "EN VIVO: ¿Hay bloqueos en carreteras hoy? Cierres y tráfico…",
-          "descripcion": "EN VIVO: ¿Hay bloqueos en carreteras hoy? Cierres y tráfico en autopistas de México este lunes 18 de mayo - TV Azteca. EN VIVO: ¿Hay bloqueos en carreteras hoy? Cierres y tráfico en autopistas de México este lunes 18 de mayo TV Azteca",
-          "recomendacion": "",
-          "fecha": "18 mayo 2026 · 14:22 CST",
-          "fecha_iso": "2026-05-18T14:22:00-06:00",
-          "fuente": "TV Azteca",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSmduZ3JsY2RnMlRSN1l3N1VMZlM3VGFuWHNpNVA1MDB3RFUwYi14QnBqVUpEOWhpa1lGOTMtNmN6OE9za3hPdEZlc0Via1Y0YjV4OEVWeUtwS25zdkYxdmhaZW1TcnFXRXM1MldJaWNYbDF6Q1BPSXR4R1I2SGVmWmhHbHo4cHdpWU5yb2l6aEZ6c0I5MXhsYUtNRW1ETFAyTDB1blR4RVRGWDhUZFNkUjJhdjlKRDVDTWpadWtLOWk5dDVNRmJ2b2VkdnY?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        }
-      ]
-    },
-    {
-      "tipo": "cierre_parcial",
-      "color": "amarillo",
-      "icono": "🟡",
-      "label": "CIERRE PARCIAL / ACCIDENTES",
-      "col2": true,
-      "alertas": [
-        {
-          "id": "35ca7eed",
-          "tipo": "cierre_parcial",
-          "ruta": "Un Tráiler Cayó al Fondo de un Barranco en la…",
-          "descripcion": "Un Tráiler Cayó al Fondo de un Barranco en la Autopista Cuacnopalan-Oaxaca - N+. Un Tráiler Cayó al Fondo de un Barranco en la Autopista Cuacnopalan-Oaxaca N+",
-          "recomendacion": "",
-          "fecha": "18 mayo 2026 · 14:27 CST",
-          "fecha_iso": "2026-05-18T14:27:00-06:00",
-          "fuente": "N+",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObTRlaVJITDQ1bHh0UXFWSEgxV3RPOUhhS19UWUhqeDlyc1VUWG9wbVhfd1hSY1M0eUlCQWRIUEJfZkdmT3NtVzBYdy16bXVuaEN2dmNVY005QkFzUTYxZ04ydUV3WGt3cC1mSDQxTjVDaW1GNmwtbUFnWHc1S0hMVHBmVHV6Y09DeERmWldsWkp2WEVweENHRkNOa1FjMHJJWHd4M3dQMTVVNjJ0Y1RubE00SmFsLVZrNFFheks0YkJiYU5oMnN5bQ?oc=5",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 17.06,
-          "lon": -96.72
-        },
-        {
-          "id": "eaf081f3",
-          "tipo": "cierre_parcial",
-          "ruta": "Invertirá Guadalajara 20 mdp en renovar 15 kilómetros de ciclovías…",
-          "descripcion": "Invertirá Guadalajara 20 mdp en renovar 15 kilómetros de ciclovías. Se realizará el cambio de señalamiento horizontal y vertical, mantenimiento de la carpeta asfáltica, así como la reposición de bolardos",
-          "recomendacion": "",
-          "fecha": "18 mayo 2026 · 12:09 CST",
-          "fecha_iso": "2026-05-18T12:09:00-06:00",
-          "fuente": "Quadratín Jalisco",
-          "url": "https://jalisco.quadratin.com.mx/sucesos/invertira-guadalajara-20-mdp-en-renovar-15-kilometros-de-ciclovias/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 21.0,
-          "lon": -104.0
-        }
-      ]
-    }
-  ],
-  "para_mapa": [
-    {
-      "id": "35ca7eed",
-      "tipo": "cierre_parcial",
-      "ruta": "Un Tráiler Cayó al Fondo de un Barranco en la…",
-      "descripcion": "Un Tráiler Cayó al Fondo de un Barranco en la Autopista Cuacnopalan-Oaxaca - N+. Un Tráiler Cayó al Fondo de un Barranco en la Autopista Cuacnopalan-Oaxaca N+",
-      "fecha": "18 mayo 2026 · 14:27 CST",
-      "fuente": "N+",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObTRlaVJITDQ1bHh0UXFWSEgxV3RPOUhhS19UWUhqeDlyc1VUWG9wbVhfd1hSY1M0eUlCQWRIUEJfZkdmT3NtVzBYdy16bXVuaEN2dmNVY005QkFzUTYxZ04ydUV3WGt3cC1mSDQxTjVDaW1GNmwtbUFnWHc1S0hMVHBmVHV6Y09DeERmWldsWkp2WEVweENHRkNOa1FjMHJJWHd4M3dQMTVVNjJ0Y1RubE00SmFsLVZrNFFheks0YkJiYU5oMnN5bQ?oc=5",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 17.06,
-      "lon": -96.72
-    },
-    {
-      "id": "eaf081f3",
-      "tipo": "cierre_parcial",
-      "ruta": "Invertirá Guadalajara 20 mdp en renovar 15 kilómetros de ciclovías…",
-      "descripcion": "Invertirá Guadalajara 20 mdp en renovar 15 kilómetros de ciclovías. Se realizará el cambio de señalamiento horizontal y vertical, mantenimiento de la carpeta asfáltica, así como la reposición de bolardos",
-      "fecha": "18 mayo 2026 · 12:09 CST",
-      "fuente": "Quadratín Jalisco",
-      "url": "https://jalisco.quadratin.com.mx/sucesos/invertira-guadalajara-20-mdp-en-renovar-15-kilometros-de-ciclovias/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 21.0,
-      "lon": -104.0
-    }
-  ]
+  "grupos": [],
+  "para_mapa": [],
+  "nota": "Sin alertas activas en la ventana de tiempo configurada."
 }
