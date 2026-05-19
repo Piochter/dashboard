@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-05-19T10:17:50.126790-06:00",
-  "ultima_actualizacion_legible": "19 de mayo de 2026 · 10:17 CST",
-  "total": 5,
+  "ultima_actualizacion": "2026-05-19T11:43:58.120011-06:00",
+  "ultima_actualizacion_legible": "19 de mayo de 2026 · 11:43 CST",
+  "total": 3,
   "ventana": "últimas 4 horas",
   "fuentes": [
     "Google News"
@@ -14,6 +14,36 @@
       "label": "BLOQUEOS / MANIFESTACIONES",
       "col2": false,
       "alertas": [
+        {
+          "id": "2e43b2cc",
+          "tipo": "bloqueo",
+          "ruta": "EN VIVO: ¿Hay bloqueos en autopistas y carreteras hoy? ¡24…",
+          "descripcion": "EN VIVO: ¿Hay bloqueos en autopistas y carreteras hoy? ¡24 horas de bloquero en Carretera 57! - TV Azteca. EN VIVO: ¿Hay bloqueos en autopistas y carreteras hoy? ¡24 horas de bloquero en Carretera 57! TV Azteca",
+          "recomendacion": "",
+          "fecha": "19 mayo 2026 · 11:15 CST",
+          "fecha_iso": "2026-05-19T11:15:00-06:00",
+          "fuente": "TV Azteca",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOXzB1N29TU0h6a3Npbmk2NllzU0ZCMnNkVzA4amp6QnpCSk5CUlZPalFaTnlOVURzeTdTdHRsaFZobmpGVjhscHRfMGpDVGhWMEhFcnRtN0NCNWl4dkpPSWpkYktKZ2dXcWdxeUNiSENiVEQ3ZTZrYXAyQnBkMnlXMThrQTYzV1BNTHIzS2NrZ3p5ajYtOHpEMm5pWmhyaW5mUE1yNFM2SkFMMGRQN0JjQ0ZlY3pWczVfbXAxUA?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 21.5,
+          "lon": -100.0
+        },
+        {
+          "id": "91b69a93",
+          "tipo": "bloqueo",
+          "ruta": "Cumple más de 24 hrs bloqueo por agua en carretera…",
+          "descripcion": "Cumple más de 24 hrs bloqueo por agua en carretera de Querétaro - Plaza de Armas | Querétaro. Cumple más de 24 hrs bloqueo por agua en carretera de Querétaro Plaza de Armas | Querétaro",
+          "recomendacion": "",
+          "fecha": "19 mayo 2026 · 10:34 CST",
+          "fecha_iso": "2026-05-19T10:34:00-06:00",
+          "fuente": "Plaza de Armas | Querétaro",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbHZOUi0yX3pMOHJUS09XN3JRTThFOTBJQ1J3MmMzTVZZbGZkaF80T1RQUTNORmtXT0ZnYW5zVUFVRy1sM21hQlRWeXc0S3hmUTViSGlRandReHM2dzI5M241a2JxM1dLaTVrMk56X2tzZ2NlSGRkb3RwMC1Pbm1tMi1Yc3U2UThpQTdmcFg3OTA4c2dZTXVF?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
         {
           "id": "723e04a2",
           "tipo": "bloqueo",
@@ -29,69 +59,24 @@
           "badge_txt": "BLOQUEO",
           "lat": 22.15,
           "lon": -100.97
-        },
-        {
-          "id": "2e5645fc",
-          "tipo": "bloqueo",
-          "ruta": "Bloqueos en Carreteras Hoy: Capufe y Guardia Nacional Informan Estado…",
-          "descripcion": "Bloqueos en Carreteras Hoy: Capufe y Guardia Nacional Informan Estado de las Autopistas - N+. Bloqueos en Carreteras Hoy: Capufe y Guardia Nacional Informan Estado de las Autopistas N+",
-          "recomendacion": "",
-          "fecha": "19 mayo 2026 · 07:32 CST",
-          "fecha_iso": "2026-05-19T07:32:00-06:00",
-          "fuente": "N+",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQLTRWY0doNWg2X2JOdnhBc3dFcHppOUhpbzZ3cFlLY1ZwSk5NbGV2Q1YtTFlUZjF2bXlIZk1QX0t2WVJfNFVXVTN6LTRTNm04cnc3ZzQ5ZUpSclZ5WGZ6SlBlT2Fuc0Y2RkJBYXpDWk05UUJZc3BydW9RRWVFX3hFNlRCcFdsSENDMnRDeXFFU0dXOC1MX1dlcW5vTnFldHpLNUt0ZUdqdXNWbU1sLTAxcFBUbFVTdkdyVWZWZFF6V2c?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        },
-        {
-          "id": "82cdd33c",
-          "tipo": "bloqueo",
-          "ruta": "Bloqueos carreteras HOY 19 de mayo: Autopistas cerradas en México,…",
-          "descripcion": "Bloqueos carreteras HOY 19 de mayo: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 19 de mayo: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
-          "recomendacion": "",
-          "fecha": "19 mayo 2026 · 07:30 CST",
-          "fecha_iso": "2026-05-19T07:30:00-06:00",
-          "fuente": "Eje Central",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZ3pqbTQ2WC1vOTdmUUJYaUdpTngtV2QwcThvV3hSS1RqVEdSNUJ2eWpDWE90WGRpaEVkMnhOcGxlcmF5X3BzVzRSVkVDMkc0ZEI4UGN2amFiYXp6TWY5WE5yTmJOc21UcEIzbzJweDA2MG10bkhsMEg4Y0ZhS3pqYjJzTGk4czkzS2JBQjd0VkZ4UV9VVnRULWdaM0JjSUpZeEpBUERTQnhTRkdLY09RVk9DdHJ4X2FmUGhmMnp2LXlIbDZxQUdrTGptQTlST1lpbGNvWWVaekk2d3VBTXhBT3hKZWtFQQ?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        },
-        {
-          "id": "cf6a7d99",
-          "tipo": "bloqueo",
-          "ruta": "EN VIVO: ¿Hay bloqueos en carreteras hoy 19 de mayo…",
-          "descripcion": "EN VIVO: ¿Hay bloqueos en carreteras hoy 19 de mayo de 2026? Cierres y tráfico en autopistas de México - TV Azteca. EN VIVO: ¿Hay bloqueos en carreteras hoy 19 de mayo de 2026? Cierres y tráfico en autopistas de México TV Azteca",
-          "recomendacion": "",
-          "fecha": "19 mayo 2026 · 07:02 CST",
-          "fecha_iso": "2026-05-19T07:02:00-06:00",
-          "fuente": "TV Azteca",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYXFudklPUGRvdURSRGFfZGIzbzdwa183c3h3aU9HZzAxOUswNnlKeVlsUUVlandiU3JhWVE5SnRQa21oUTBjSGtjbWNBaUMxdGsyVTZLWnVNQlRVc2FJOEdpLWtrVk1JNE1VbGwzMGxIaDNoa0NIWEJLMmszRUpQWHNNSjdORTUwdDN2cFk0MERWS0xUeEUyOTBsUmR4cnE5VGpta0YwNzNpeUp4VXpQai1vNHVrbGkyUnpaYlJHQ1pUTEl6UjBLVkxR?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        },
-        {
-          "id": "2154e494",
-          "tipo": "bloqueo",
-          "ruta": "Estas son las carreteras cerradas por bloqueos y accidentes hoy…",
-          "descripcion": "Estas son las carreteras cerradas por bloqueos y accidentes hoy - adn40.mx. Estas son las carreteras cerradas por bloqueos y accidentes hoy adn40.mx",
-          "recomendacion": "",
-          "fecha": "19 mayo 2026 · 06:40 CST",
-          "fecha_iso": "2026-05-19T06:40:00-06:00",
-          "fuente": "adn40.mx",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZFhtaEVjODh5MURSY0VCamdlRXVVaUxxNDdhMmFRZjZJNkFpSEQ5Y2FLU2pVN0FGb25ZM0F0clp6T2xUdm9jZElodEpxOGV2VS1XV0FHbWFuMGZjSXlDR01YOFJDV1RTRnZsWkUtRk5fSVhoeDZoSHFnVmRMVll1NU5XdXY1ZmpHY0xRUklobkI1Sm1XYUhkNHp0bzlHU3g0LXc?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 25.2,
-          "lon": -102.0
         }
       ]
     }
   ],
   "para_mapa": [
+    {
+      "id": "2e43b2cc",
+      "tipo": "bloqueo",
+      "ruta": "EN VIVO: ¿Hay bloqueos en autopistas y carreteras hoy? ¡24…",
+      "descripcion": "EN VIVO: ¿Hay bloqueos en autopistas y carreteras hoy? ¡24 horas de bloquero en Carretera 57! - TV Azteca. EN VIVO: ¿Hay bloqueos en autopistas y carreteras hoy? ¡24 horas de bloquero en Carretera 57! TV Azteca",
+      "fecha": "19 mayo 2026 · 11:15 CST",
+      "fuente": "TV Azteca",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOXzB1N29TU0h6a3Npbmk2NllzU0ZCMnNkVzA4amp6QnpCSk5CUlZPalFaTnlOVURzeTdTdHRsaFZobmpGVjhscHRfMGpDVGhWMEhFcnRtN0NCNWl4dkpPSWpkYktKZ2dXcWdxeUNiSENiVEQ3ZTZrYXAyQnBkMnlXMThrQTYzV1BNTHIzS2NrZ3p5ajYtOHpEMm5pWmhyaW5mUE1yNFM2SkFMMGRQN0JjQ0ZlY3pWczVfbXAxUA?oc=5",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 21.5,
+      "lon": -100.0
+    },
     {
       "id": "723e04a2",
       "tipo": "bloqueo",
@@ -104,19 +89,6 @@
       "badge_txt": "BLOQUEO",
       "lat": 22.15,
       "lon": -100.97
-    },
-    {
-      "id": "2154e494",
-      "tipo": "bloqueo",
-      "ruta": "Estas son las carreteras cerradas por bloqueos y accidentes hoy…",
-      "descripcion": "Estas son las carreteras cerradas por bloqueos y accidentes hoy - adn40.mx. Estas son las carreteras cerradas por bloqueos y accidentes hoy adn40.mx",
-      "fecha": "19 mayo 2026 · 06:40 CST",
-      "fuente": "adn40.mx",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZFhtaEVjODh5MURSY0VCamdlRXVVaUxxNDdhMmFRZjZJNkFpSEQ5Y2FLU2pVN0FGb25ZM0F0clp6T2xUdm9jZElodEpxOGV2VS1XV0FHbWFuMGZjSXlDR01YOFJDV1RTRnZsWkUtRk5fSVhoeDZoSHFnVmRMVll1NU5XdXY1ZmpHY0xRUklobkI1Sm1XYUhkNHp0bzlHU3g0LXc?oc=5",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 25.2,
-      "lon": -102.0
     }
   ]
 }
