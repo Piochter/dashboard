@@ -351,21 +351,23 @@ CST   = timezone(timedelta(hours=-6))
 MESES = ["enero","febrero","marzo","abril","mayo","junio",
          "julio","agosto","septiembre","octubre","noviembre","diciembre"]
 
-VIAL_KW = [
-    # ── Palabras que por sí solas implican contexto carretero ──────
-    "carretera","autopista","capufe","guardia nacional carretera",
-    "gn_carreteras","tractocamión","volcadura","derrumbe","deslave",
-    "caseta de cobro","caseta de peaje","km ","kilómetro",
+# Palabras que indican CONTEXTO vial/carretero
+VIAL_CONTEXTO = [
+    "carretera","autopista","capufe","guardia nacional",
+    "tractocamión","caseta","peaje","tramo","libramiento",
     "57d","95d","150d","15d","85d","140d","siglo xxi","arco norte",
-    "cierre vial","cierre carretero","cierre de circulación",
-    "bloqueo carretero","bloqueo vial","manifestantes carretera",
-    "accidente carretero","accidente vial","choque carretera",
-    "robo carretera","asalto carretera","asalto autopista",
-    "transporte de carga","robo a transporte","pipa robada",
-    "obra vial","obra carretera","mantenimiento vial",
-    "carga vehicular","congestionamiento vial","tráfico en carretera",
-    "tramo carretero","libramiento","periférico","viaducto federal",
-    "reducción de carril","carril cerrado","ambos sentidos",
+    "km ","kilómetro","viaducto","periférico","carretera federal",
+    "vialidad","circulación","transporte de carga",
+]
+
+# Palabras que indican un EVENTO (algo pasó)
+VIAL_EVENTO = [
+    "cierre","bloqueo","accidente","volcadura","choque","colisión",
+    "derrumbe","deslave","inundación","neblina","incendio",
+    "robo","asalto","manifestación","manifestantes","protesta",
+    "comuneros","huelga","paro","reducción","percance",
+    "congestionamiento","retención","obstrucción","daño",
+    "falla mecánica","vehículo varado","tráfico lento",
 ]
 
 # ─────────────────────────────────────────────────────────────────────
@@ -411,8 +413,12 @@ def clasificar(texto: str) -> str:
 
 
 def es_relevante(texto: str) -> bool:
+    """Requiere al menos un término de CONTEXTO vial Y uno de EVENTO.
+    Esto evita falsos positivos (solo 'cierre') y falsos negativos (solo 'carretera')."""
     t = texto.lower()
-    return any(k in t for k in VIAL_KW)
+    tiene_contexto = any(k in t for k in VIAL_CONTEXTO)
+    tiene_evento   = any(k in t for k in VIAL_EVENTO)
+    return tiene_contexto and tiene_evento
 
 
 def es_falso_positivo(texto: str) -> bool:
