@@ -1,12 +1,37 @@
 {
-  "ultima_actualizacion": "2026-05-19T11:43:58.120011-06:00",
-  "ultima_actualizacion_legible": "19 de mayo de 2026 · 11:43 CST",
+  "ultima_actualizacion": "2026-05-19T16:42:47.712698-06:00",
+  "ultima_actualizacion_legible": "19 de mayo de 2026 · 16:42 CST",
   "total": 3,
   "ventana": "últimas 4 horas",
   "fuentes": [
     "Google News"
   ],
   "grupos": [
+    {
+      "tipo": "cierre_total",
+      "color": "rojo",
+      "icono": "🔴",
+      "label": "CIERRE TOTAL",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "17340f62",
+          "tipo": "cierre_total",
+          "ruta": "Sobrevive Chofer de Tráiler a Volcadura en Autopista Puebla-Atlixco -…",
+          "descripcion": "Sobrevive Chofer de Tráiler a Volcadura en Autopista Puebla-Atlixco - N+. Sobrevive Chofer de Tráiler a Volcadura en Autopista Puebla-Atlixco N+",
+          "recomendacion": "",
+          "fecha": "19 mayo 2026 · 15:04 CST",
+          "fecha_iso": "2026-05-19T15:04:00-06:00",
+          "fuente": "N+",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNS1QRkZ4bkRaTXRFcXA4ZU5zeTBzcl9sSXpKNW1aTjJVdWVCOW9TVmNvSklSZ2NVNFdUcGxkd2hadllSOTZfdE1xckVtTEJROFBwQWQ0aDBmQktmUkFLaUxZbmxLMWRRQTAzUjFBWVZES1p1LWJBbFVvNFpYUWpqTHR0Q3BRV0xXUWZyckdLNVg3Rk43Z1F3NGZTdi14NGJraC1UN2VSVi1RbjUwSnBGbmxNRV9iT2JFYWRpX3FEelR2R3VqQS04MTZERV9vV2NTWC00Sk1XUFdVMk1UMS1BMWtR?oc=5",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL",
+          "lat": 19.04,
+          "lon": -98.2
+        }
+      ]
+    },
     {
       "tipo": "bloqueo",
       "color": "rojo",
@@ -15,80 +40,88 @@
       "col2": false,
       "alertas": [
         {
-          "id": "2e43b2cc",
+          "id": "7813813f",
           "tipo": "bloqueo",
-          "ruta": "EN VIVO: ¿Hay bloqueos en autopistas y carreteras hoy? ¡24…",
-          "descripcion": "EN VIVO: ¿Hay bloqueos en autopistas y carreteras hoy? ¡24 horas de bloquero en Carretera 57! - TV Azteca. EN VIVO: ¿Hay bloqueos en autopistas y carreteras hoy? ¡24 horas de bloquero en Carretera 57! TV Azteca",
+          "ruta": "Carretera 57",
+          "descripcion": "Querétaro anuncia reapertura de la Carretera 57, procederá legalmente por bloqueo - El Sol de México. Querétaro anuncia reapertura de la Carretera 57, procederá legalmente por bloqueo El Sol de México",
           "recomendacion": "",
-          "fecha": "19 mayo 2026 · 11:15 CST",
-          "fecha_iso": "2026-05-19T11:15:00-06:00",
-          "fuente": "TV Azteca",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOXzB1N29TU0h6a3Npbmk2NllzU0ZCMnNkVzA4amp6QnpCSk5CUlZPalFaTnlOVURzeTdTdHRsaFZobmpGVjhscHRfMGpDVGhWMEhFcnRtN0NCNWl4dkpPSWpkYktKZ2dXcWdxeUNiSENiVEQ3ZTZrYXAyQnBkMnlXMThrQTYzV1BNTHIzS2NrZ3p5ajYtOHpEMm5pWmhyaW5mUE1yNFM2SkFMMGRQN0JjQ0ZlY3pWczVfbXAxUA?oc=5",
+          "fecha": "19 mayo 2026 · 13:27 CST",
+          "fecha_iso": "2026-05-19T13:27:00-06:00",
+          "fuente": "El Sol de México",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOaDlnR1FaeTBCblU0ZG8wak82TVc4T2tUSTFLNU9VSVdKUEJpaGl1RTF4Qmk1UGtGT2RnOG1nOVhxR0J0dDRsNVh3Wm14ZnNsNFpIN1daTzduc2J5UnFfNEo0Y1FCLWlmUkFQYXk5OVhGOWpMUGw4aUp0UmJFU2dWaDhqSjJoVGttQUpQcElGQWs3dThTYV9LcEt2YldQSWFfVFpsS2wta0JYdThubzMxZ0xEWjdMUXFWNng2Vy1tbm03cFJiemVzSmFIcW4?oc=5",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO",
           "lat": 21.5,
           "lon": -100.0
-        },
+        }
+      ]
+    },
+    {
+      "tipo": "robo",
+      "color": "rojo",
+      "icono": "🚨",
+      "label": "ROBOS EN CARRETERA",
+      "col2": true,
+      "alertas": [
         {
-          "id": "91b69a93",
-          "tipo": "bloqueo",
-          "ruta": "Cumple más de 24 hrs bloqueo por agua en carretera…",
-          "descripcion": "Cumple más de 24 hrs bloqueo por agua en carretera de Querétaro - Plaza de Armas | Querétaro. Cumple más de 24 hrs bloqueo por agua en carretera de Querétaro Plaza de Armas | Querétaro",
+          "id": "7dfccb42",
+          "tipo": "robo",
+          "ruta": "Puebla, segundo lugar nacional en robo de transporte de carga;…",
+          "descripcion": "Puebla, segundo lugar nacional en robo de transporte de carga; concentra 13% de los casos: Overhaul - La Jornada de Oriente - Puebla. Puebla, segundo lugar nacional en robo de transporte de carga; concentra 13% de los casos: Overhaul La Jornada de Oriente - Puebla",
           "recomendacion": "",
-          "fecha": "19 mayo 2026 · 10:34 CST",
-          "fecha_iso": "2026-05-19T10:34:00-06:00",
-          "fuente": "Plaza de Armas | Querétaro",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbHZOUi0yX3pMOHJUS09XN3JRTThFOTBJQ1J3MmMzTVZZbGZkaF80T1RQUTNORmtXT0ZnYW5zVUFVRy1sM21hQlRWeXc0S3hmUTViSGlRandReHM2dzI5M241a2JxM1dLaTVrMk56X2tzZ2NlSGRkb3RwMC1Pbm1tMi1Yc3U2UThpQTdmcFg3OTA4c2dZTXVF?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        },
-        {
-          "id": "723e04a2",
-          "tipo": "bloqueo",
-          "ruta": "Bloqueo de la Querétaro-San Luis cumple 24 horas; no actúan…",
-          "descripcion": "Bloqueo de la Querétaro-San Luis cumple 24 horas; no actúan Guardia Nacional ni Conagua - El Sol de México. Bloqueo de la Querétaro-San Luis cumple 24 horas; no actúan Guardia Nacional ni Conagua El Sol de México",
-          "recomendacion": "",
-          "fecha": "19 mayo 2026 · 08:03 CST",
-          "fecha_iso": "2026-05-19T08:03:00-06:00",
-          "fuente": "El Sol de México",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNX3V4bE5JdkhuMzJFcW5kbDIxb1B1bElvdFg2RU5Tekx1YVl2QWlMNDNMTjFpVFN6RXdmQW5CWVVOcUc0RnN4UWhzbENXa3J0bS04Q29Zc3JRMVV3dXJ3OUk1ZXNlMjItbmh4MXpnSURzcnFXTXpsUlZaREFicEs4MEU3ZUh0a0ZJQTdXeVNodE1PQmVBa3BEWjBPeDFGbGJWYlBnNzJCZjZxZ3Nvalp6eHNhYUhuSjdNVF9KR3ZCdWI5ZjRHSEd2N3c5OV9oQVdXUHNrMTkxTDZTdw?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 22.15,
-          "lon": -100.97
+          "fecha": "19 mayo 2026 · 14:56 CST",
+          "fecha_iso": "2026-05-19T14:56:00-06:00",
+          "fuente": "La Jornada de Oriente - Puebla",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQTVkSGVjcXdsV2UtVUZPMVVnQTMyY3pjRFJXVmRNbW1qV0MzVDFXZkxKdTJaenBiT19rbjhMVlVKMXhXLWRzYWx3OHh4eDZYeVJ4c1hZS1hubkpXajBiVDdLNjZpaGh5cndxbXFRV0FCaXZvaWZHY3VHR0lvNllMY1MwaWFJZmhISWtBdWNuSWt6ZVNlNEJDTmRRRWJvcHMw?oc=5",
+          "dot_color": "#c0392b",
+          "badge": "badge-robo",
+          "badge_txt": "ROBO",
+          "lat": 19.04,
+          "lon": -98.2
         }
       ]
     }
   ],
   "para_mapa": [
     {
-      "id": "2e43b2cc",
+      "id": "17340f62",
+      "tipo": "cierre_total",
+      "ruta": "Sobrevive Chofer de Tráiler a Volcadura en Autopista Puebla-Atlixco -…",
+      "descripcion": "Sobrevive Chofer de Tráiler a Volcadura en Autopista Puebla-Atlixco - N+. Sobrevive Chofer de Tráiler a Volcadura en Autopista Puebla-Atlixco N+",
+      "fecha": "19 mayo 2026 · 15:04 CST",
+      "fuente": "N+",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNS1QRkZ4bkRaTXRFcXA4ZU5zeTBzcl9sSXpKNW1aTjJVdWVCOW9TVmNvSklSZ2NVNFdUcGxkd2hadllSOTZfdE1xckVtTEJROFBwQWQ0aDBmQktmUkFLaUxZbmxLMWRRQTAzUjFBWVZES1p1LWJBbFVvNFpYUWpqTHR0Q3BRV0xXUWZyckdLNVg3Rk43Z1F3NGZTdi14NGJraC1UN2VSVi1RbjUwSnBGbmxNRV9iT2JFYWRpX3FEelR2R3VqQS04MTZERV9vV2NTWC00Sk1XUFdVMk1UMS1BMWtR?oc=5",
+      "dot_color": "#e74c3c",
+      "badge_txt": "CIERRE TOTAL",
+      "lat": 19.04,
+      "lon": -98.2
+    },
+    {
+      "id": "7dfccb42",
+      "tipo": "robo",
+      "ruta": "Puebla, segundo lugar nacional en robo de transporte de carga;…",
+      "descripcion": "Puebla, segundo lugar nacional en robo de transporte de carga; concentra 13% de los casos: Overhaul - La Jornada de Oriente - Puebla. Puebla, segundo lugar nacional en robo de transporte de carga; concentra 13% de los casos: Overhaul La Jornada de Oriente - Puebla",
+      "fecha": "19 mayo 2026 · 14:56 CST",
+      "fuente": "La Jornada de Oriente - Puebla",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQTVkSGVjcXdsV2UtVUZPMVVnQTMyY3pjRFJXVmRNbW1qV0MzVDFXZkxKdTJaenBiT19rbjhMVlVKMXhXLWRzYWx3OHh4eDZYeVJ4c1hZS1hubkpXajBiVDdLNjZpaGh5cndxbXFRV0FCaXZvaWZHY3VHR0lvNllMY1MwaWFJZmhISWtBdWNuSWt6ZVNlNEJDTmRRRWJvcHMw?oc=5",
+      "dot_color": "#c0392b",
+      "badge_txt": "ROBO",
+      "lat": 19.04,
+      "lon": -98.2
+    },
+    {
+      "id": "7813813f",
       "tipo": "bloqueo",
-      "ruta": "EN VIVO: ¿Hay bloqueos en autopistas y carreteras hoy? ¡24…",
-      "descripcion": "EN VIVO: ¿Hay bloqueos en autopistas y carreteras hoy? ¡24 horas de bloquero en Carretera 57! - TV Azteca. EN VIVO: ¿Hay bloqueos en autopistas y carreteras hoy? ¡24 horas de bloquero en Carretera 57! TV Azteca",
-      "fecha": "19 mayo 2026 · 11:15 CST",
-      "fuente": "TV Azteca",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOXzB1N29TU0h6a3Npbmk2NllzU0ZCMnNkVzA4amp6QnpCSk5CUlZPalFaTnlOVURzeTdTdHRsaFZobmpGVjhscHRfMGpDVGhWMEhFcnRtN0NCNWl4dkpPSWpkYktKZ2dXcWdxeUNiSENiVEQ3ZTZrYXAyQnBkMnlXMThrQTYzV1BNTHIzS2NrZ3p5ajYtOHpEMm5pWmhyaW5mUE1yNFM2SkFMMGRQN0JjQ0ZlY3pWczVfbXAxUA?oc=5",
+      "ruta": "Carretera 57",
+      "descripcion": "Querétaro anuncia reapertura de la Carretera 57, procederá legalmente por bloqueo - El Sol de México. Querétaro anuncia reapertura de la Carretera 57, procederá legalmente por bloqueo El Sol de México",
+      "fecha": "19 mayo 2026 · 13:27 CST",
+      "fuente": "El Sol de México",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOaDlnR1FaeTBCblU0ZG8wak82TVc4T2tUSTFLNU9VSVdKUEJpaGl1RTF4Qmk1UGtGT2RnOG1nOVhxR0J0dDRsNVh3Wm14ZnNsNFpIN1daTzduc2J5UnFfNEo0Y1FCLWlmUkFQYXk5OVhGOWpMUGw4aUp0UmJFU2dWaDhqSjJoVGttQUpQcElGQWs3dThTYV9LcEt2YldQSWFfVFpsS2wta0JYdThubzMxZ0xEWjdMUXFWNng2Vy1tbm03cFJiemVzSmFIcW4?oc=5",
       "dot_color": "#8e44ad",
       "badge_txt": "BLOQUEO",
       "lat": 21.5,
       "lon": -100.0
-    },
-    {
-      "id": "723e04a2",
-      "tipo": "bloqueo",
-      "ruta": "Bloqueo de la Querétaro-San Luis cumple 24 horas; no actúan…",
-      "descripcion": "Bloqueo de la Querétaro-San Luis cumple 24 horas; no actúan Guardia Nacional ni Conagua - El Sol de México. Bloqueo de la Querétaro-San Luis cumple 24 horas; no actúan Guardia Nacional ni Conagua El Sol de México",
-      "fecha": "19 mayo 2026 · 08:03 CST",
-      "fuente": "El Sol de México",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNX3V4bE5JdkhuMzJFcW5kbDIxb1B1bElvdFg2RU5Tekx1YVl2QWlMNDNMTjFpVFN6RXdmQW5CWVVOcUc0RnN4UWhzbENXa3J0bS04Q29Zc3JRMVV3dXJ3OUk1ZXNlMjItbmh4MXpnSURzcnFXTXpsUlZaREFicEs4MEU3ZUh0a0ZJQTdXeVNodE1PQmVBa3BEWjBPeDFGbGJWYlBnNzJCZjZxZ3Nvalp6eHNhYUhuSjdNVF9KR3ZCdWI5ZjRHSEd2N3c5OV9oQVdXUHNrMTkxTDZTdw?oc=5",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 22.15,
-      "lon": -100.97
     }
   ]
 }
