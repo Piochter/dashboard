@@ -1,10 +1,12 @@
 {
-  "ultima_actualizacion": "2026-05-20T13:39:39.594552-06:00",
-  "ultima_actualizacion_legible": "20 de mayo de 2026 · 13:39 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-05-20T17:59:06.293790-06:00",
+  "ultima_actualizacion_legible": "20 de mayo de 2026 · 17:59 CST",
+  "total": 4,
   "ventana": "últimas 4 horas",
   "fuentes": [
-    "Medios nacionales"
+    "Google News",
+    "Medios nacionales",
+    "Quadratín + regionales"
   ],
   "grupos": [
     {
@@ -15,37 +17,127 @@
       "col2": false,
       "alertas": [
         {
-          "id": "122bc289",
+          "id": "49aec2a3",
           "tipo": "bloqueo",
-          "ruta": "Megamarcha en CDMX: Campesinos tratan de romper a empujones bloqueo…",
-          "descripcion": "Megamarcha en CDMX: Campesinos tratan de romper a empujones bloqueo de policías en Eje 2. La megamarcha de transportistas y campesinos genera caos vial en la Ciudad de México y carreteras de acceso. Estas son las vialidades afectadas y las demandas de los manifestantes.",
+          "ruta": "Llevan campesinos protesta a Gobernación; esperan diálogo…",
+          "descripcion": "Llevan campesinos protesta a Gobernación; esperan diálogo. Tras marcha, campesinos arriban a Gobernación para dialogar con autoridades; piden que agentes de la Guardia Nacional se retiren de sede.",
           "recomendacion": "",
-          "fecha": "20 mayo 2026 · 12:04 CST",
-          "fecha_iso": "2026-05-20T12:04:00-06:00",
-          "fuente": "El Financiero",
-          "url": "https://www.elfinanciero.com.mx/cdmx/2026/05/20/marcha-de-transportistas-y-campesinos-paraliza-la-cdmx-que-calles-estan-bloqueadas-hoy/",
+          "fecha": "20 mayo 2026 · 15:31 CST",
+          "fecha_iso": "2026-05-20T15:31:00-06:00",
+          "fuente": "El Norte NL",
+          "url": "https://www.elnorte.com/llevan-campesinos-protesta-a-gobernacion-esperan-dialogo/ar3207738",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
+        {
+          "id": "1cdc8f3b",
+          "tipo": "bloqueo",
+          "ruta": "Carretera Jalpa–Aguascalientes - TV Azteca",
+          "descripcion": "EN VIVO: ¿Hay bloqueos en carreteras hoy miércoles? Bloqueos en Carretera Jalpa–Aguascalientes - TV Azteca. EN VIVO: ¿Hay bloqueos en carreteras hoy miércoles? Bloqueos en Carretera Jalpa–Aguascalientes TV Azteca",
+          "recomendacion": "",
+          "fecha": "20 mayo 2026 · 14:58 CST",
+          "fecha_iso": "2026-05-20T14:58:00-06:00",
+          "fuente": "TV Azteca",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUHJTM1hYMVJJSzVib0h3eWk2cUwzc0dtcVhPaU1WT0tHanBLVnVZYVRydHJpMy1HSERudmVhd0tENElOU25qaHIzSXMtc0V5YnRybXpCb0VEQ0MyNFlXVUxkTWhRbHpMMzl0S1ZCNTJLTjlrbEpKNDFxcXlSUzhSMS1SSHBkcHNNMUtBOUJYZ0RTclQ1endoRVV2OExyaldJTjkxdw?oc=5",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO",
-          "lat": 19.43,
-          "lon": -99.13
+          "lat": 21.88,
+          "lon": -102.29
+        }
+      ]
+    },
+    {
+      "tipo": "robo",
+      "color": "rojo",
+      "icono": "🚨",
+      "label": "ROBOS EN CARRETERA",
+      "col2": true,
+      "alertas": [
+        {
+          "id": "b195760c",
+          "tipo": "robo",
+          "ruta": "Trailero es baleado en el hombro en un intento de…",
+          "descripcion": "Trailero es baleado en el hombro en un intento de robo en Edomex. El conductor de un tráiler resultó lesionado con impactos de bala durante un intento de asalto sobre la carretera México-Cuautla, a la altura de Zentlalpan, en el municipio de Tlalmanalco, al sur del Estado de México. De acuerdo con el testimonio del operador del tractocamión, varios sujetos a bordo de una camioneta color gris intentaron […]",
+          "recomendacion": "",
+          "fecha": "20 mayo 2026 · 14:18 CST",
+          "fecha_iso": "2026-05-20T14:18:00-06:00",
+          "fuente": "24 Horas",
+          "url": "https://24-horas.mx/estados/trailero-es-baleado-en-el-hombro-en-un-intento-de-robo-en-edomex/",
+          "dot_color": "#c0392b",
+          "badge": "badge-robo",
+          "badge_txt": "ROBO",
+          "lat": 19.35,
+          "lon": -99.7
+        }
+      ]
+    },
+    {
+      "tipo": "cierre_parcial",
+      "color": "amarillo",
+      "icono": "🟡",
+      "label": "CIERRE PARCIAL / ACCIDENTES",
+      "col2": true,
+      "alertas": [
+        {
+          "id": "76f7a70b",
+          "tipo": "cierre_parcial",
+          "ruta": "Chocan camioneta y tráiler en la Cuacnopalan-Oaxaca…",
+          "descripcion": "Chocan camioneta y tráiler en la Cuacnopalan-Oaxaca. El percance cerró la supercarretera cerca de la falla geológica",
+          "recomendacion": "",
+          "fecha": "20 mayo 2026 · 14:34 CST",
+          "fecha_iso": "2026-05-20T14:34:00-06:00",
+          "fuente": "Quadratín Oaxaca",
+          "url": "https://oaxaca.quadratin.com.mx/chocan-camioneta-y-trailer-en-la-cuacnopalan-oaxaca/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 17.06,
+          "lon": -96.72
         }
       ]
     }
   ],
   "para_mapa": [
     {
-      "id": "122bc289",
+      "id": "1cdc8f3b",
       "tipo": "bloqueo",
-      "ruta": "Megamarcha en CDMX: Campesinos tratan de romper a empujones bloqueo…",
-      "descripcion": "Megamarcha en CDMX: Campesinos tratan de romper a empujones bloqueo de policías en Eje 2. La megamarcha de transportistas y campesinos genera caos vial en la Ciudad de México y carreteras de acceso. Estas son las vialidades afectadas y las demandas de los manifestantes.",
-      "fecha": "20 mayo 2026 · 12:04 CST",
-      "fuente": "El Financiero",
-      "url": "https://www.elfinanciero.com.mx/cdmx/2026/05/20/marcha-de-transportistas-y-campesinos-paraliza-la-cdmx-que-calles-estan-bloqueadas-hoy/",
+      "ruta": "Carretera Jalpa–Aguascalientes - TV Azteca",
+      "descripcion": "EN VIVO: ¿Hay bloqueos en carreteras hoy miércoles? Bloqueos en Carretera Jalpa–Aguascalientes - TV Azteca. EN VIVO: ¿Hay bloqueos en carreteras hoy miércoles? Bloqueos en Carretera Jalpa–Aguascalientes TV Azteca",
+      "fecha": "20 mayo 2026 · 14:58 CST",
+      "fuente": "TV Azteca",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUHJTM1hYMVJJSzVib0h3eWk2cUwzc0dtcVhPaU1WT0tHanBLVnVZYVRydHJpMy1HSERudmVhd0tENElOU25qaHIzSXMtc0V5YnRybXpCb0VEQ0MyNFlXVUxkTWhRbHpMMzl0S1ZCNTJLTjlrbEpKNDFxcXlSUzhSMS1SSHBkcHNNMUtBOUJYZ0RTclQ1endoRVV2OExyaldJTjkxdw?oc=5",
       "dot_color": "#8e44ad",
       "badge_txt": "BLOQUEO",
-      "lat": 19.43,
-      "lon": -99.13
+      "lat": 21.88,
+      "lon": -102.29
+    },
+    {
+      "id": "76f7a70b",
+      "tipo": "cierre_parcial",
+      "ruta": "Chocan camioneta y tráiler en la Cuacnopalan-Oaxaca…",
+      "descripcion": "Chocan camioneta y tráiler en la Cuacnopalan-Oaxaca. El percance cerró la supercarretera cerca de la falla geológica",
+      "fecha": "20 mayo 2026 · 14:34 CST",
+      "fuente": "Quadratín Oaxaca",
+      "url": "https://oaxaca.quadratin.com.mx/chocan-camioneta-y-trailer-en-la-cuacnopalan-oaxaca/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 17.06,
+      "lon": -96.72
+    },
+    {
+      "id": "b195760c",
+      "tipo": "robo",
+      "ruta": "Trailero es baleado en el hombro en un intento de…",
+      "descripcion": "Trailero es baleado en el hombro en un intento de robo en Edomex. El conductor de un tráiler resultó lesionado con impactos de bala durante un intento de asalto sobre la carretera México-Cuautla, a la altura de Zentlalpan, en el municipio de Tlalmanalco, al sur del Estado de México. De acuerdo con el testimonio del operador del tractocamión, varios sujetos a bordo de una camioneta color gris intentaron […]",
+      "fecha": "20 mayo 2026 · 14:18 CST",
+      "fuente": "24 Horas",
+      "url": "https://24-horas.mx/estados/trailero-es-baleado-en-el-hombro-en-un-intento-de-robo-en-edomex/",
+      "dot_color": "#c0392b",
+      "badge_txt": "ROBO",
+      "lat": 19.35,
+      "lon": -99.7
     }
   ]
 }
