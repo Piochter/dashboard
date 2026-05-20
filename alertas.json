@@ -1,51 +1,51 @@
 {
-  "ultima_actualizacion": "2026-05-20T04:36:50.450550-06:00",
-  "ultima_actualizacion_legible": "20 de mayo de 2026 · 04:36 CST",
+  "ultima_actualizacion": "2026-05-20T13:39:39.594552-06:00",
+  "ultima_actualizacion_legible": "20 de mayo de 2026 · 13:39 CST",
   "total": 1,
   "ventana": "últimas 4 horas",
   "fuentes": [
-    "Google News"
+    "Medios nacionales"
   ],
   "grupos": [
     {
-      "tipo": "robo",
+      "tipo": "bloqueo",
       "color": "rojo",
-      "icono": "🚨",
-      "label": "ROBOS EN CARRETERA",
-      "col2": true,
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
+      "col2": false,
       "alertas": [
         {
-          "id": "7dfccb42",
-          "tipo": "robo",
-          "ruta": "Puebla, segundo lugar nacional en robo de transporte de carga;…",
-          "descripcion": "Puebla, segundo lugar nacional en robo de transporte de carga; concentra 13% de los casos: Overhaul - La Jornada de Oriente - Puebla. Puebla, segundo lugar nacional en robo de transporte de carga; concentra 13% de los casos: Overhaul La Jornada de Oriente - Puebla",
+          "id": "122bc289",
+          "tipo": "bloqueo",
+          "ruta": "Megamarcha en CDMX: Campesinos tratan de romper a empujones bloqueo…",
+          "descripcion": "Megamarcha en CDMX: Campesinos tratan de romper a empujones bloqueo de policías en Eje 2. La megamarcha de transportistas y campesinos genera caos vial en la Ciudad de México y carreteras de acceso. Estas son las vialidades afectadas y las demandas de los manifestantes.",
           "recomendacion": "",
-          "fecha": "20 mayo 2026 · 03:10 CST",
-          "fecha_iso": "2026-05-20T03:10:00-06:00",
-          "fuente": "La Jornada de Oriente - Puebla",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQcXF6VzZaSkhDVEpzei1VTUFmLXo3MWt4dnhadkFTNEp1ekp2V3dLWlRhOTFZT3hFOThMRzVTcC16OHNnWVA4SDBrWlFtVGVaSUVQQU1KVy1TY3JkNU1yTGVuSm9Kc1hpRGFkazhpMDZJemhhTXhRa2dLbDlQd0t5dWROX09rSnFQcHMwZ3VieW9uc2h3a0d6SXVQdDVPNFNiQjNkaXFkR2d2VlFiXzdlbk0wSnNvQS1EXzJRdklxZUppdktmdVBBSVVNaW5BSXhGZDAzWEdiWGI?oc=5",
-          "dot_color": "#c0392b",
-          "badge": "badge-robo",
-          "badge_txt": "ROBO",
-          "lat": 19.04,
-          "lon": -98.2
+          "fecha": "20 mayo 2026 · 12:04 CST",
+          "fecha_iso": "2026-05-20T12:04:00-06:00",
+          "fuente": "El Financiero",
+          "url": "https://www.elfinanciero.com.mx/cdmx/2026/05/20/marcha-de-transportistas-y-campesinos-paraliza-la-cdmx-que-calles-estan-bloqueadas-hoy/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 19.43,
+          "lon": -99.13
         }
       ]
     }
   ],
   "para_mapa": [
     {
-      "id": "7dfccb42",
-      "tipo": "robo",
-      "ruta": "Puebla, segundo lugar nacional en robo de transporte de carga;…",
-      "descripcion": "Puebla, segundo lugar nacional en robo de transporte de carga; concentra 13% de los casos: Overhaul - La Jornada de Oriente - Puebla. Puebla, segundo lugar nacional en robo de transporte de carga; concentra 13% de los casos: Overhaul La Jornada de Oriente - Puebla",
-      "fecha": "20 mayo 2026 · 03:10 CST",
-      "fuente": "La Jornada de Oriente - Puebla",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQcXF6VzZaSkhDVEpzei1VTUFmLXo3MWt4dnhadkFTNEp1ekp2V3dLWlRhOTFZT3hFOThMRzVTcC16OHNnWVA4SDBrWlFtVGVaSUVQQU1KVy1TY3JkNU1yTGVuSm9Kc1hpRGFkazhpMDZJemhhTXhRa2dLbDlQd0t5dWROX09rSnFQcHMwZ3VieW9uc2h3a0d6SXVQdDVPNFNiQjNkaXFkR2d2VlFiXzdlbk0wSnNvQS1EXzJRdklxZUppdktmdVBBSVVNaW5BSXhGZDAzWEdiWGI?oc=5",
-      "dot_color": "#c0392b",
-      "badge_txt": "ROBO",
-      "lat": 19.04,
-      "lon": -98.2
+      "id": "122bc289",
+      "tipo": "bloqueo",
+      "ruta": "Megamarcha en CDMX: Campesinos tratan de romper a empujones bloqueo…",
+      "descripcion": "Megamarcha en CDMX: Campesinos tratan de romper a empujones bloqueo de policías en Eje 2. La megamarcha de transportistas y campesinos genera caos vial en la Ciudad de México y carreteras de acceso. Estas son las vialidades afectadas y las demandas de los manifestantes.",
+      "fecha": "20 mayo 2026 · 12:04 CST",
+      "fuente": "El Financiero",
+      "url": "https://www.elfinanciero.com.mx/cdmx/2026/05/20/marcha-de-transportistas-y-campesinos-paraliza-la-cdmx-que-calles-estan-bloqueadas-hoy/",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 19.43,
+      "lon": -99.13
     }
   ]
 }
