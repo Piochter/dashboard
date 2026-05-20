@@ -1,62 +1,12 @@
 {
-  "ultima_actualizacion": "2026-05-19T16:42:47.712698-06:00",
-  "ultima_actualizacion_legible": "19 de mayo de 2026 · 16:42 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-05-20T04:36:50.450550-06:00",
+  "ultima_actualizacion_legible": "20 de mayo de 2026 · 04:36 CST",
+  "total": 1,
   "ventana": "últimas 4 horas",
   "fuentes": [
     "Google News"
   ],
   "grupos": [
-    {
-      "tipo": "cierre_total",
-      "color": "rojo",
-      "icono": "🔴",
-      "label": "CIERRE TOTAL",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "17340f62",
-          "tipo": "cierre_total",
-          "ruta": "Sobrevive Chofer de Tráiler a Volcadura en Autopista Puebla-Atlixco -…",
-          "descripcion": "Sobrevive Chofer de Tráiler a Volcadura en Autopista Puebla-Atlixco - N+. Sobrevive Chofer de Tráiler a Volcadura en Autopista Puebla-Atlixco N+",
-          "recomendacion": "",
-          "fecha": "19 mayo 2026 · 15:04 CST",
-          "fecha_iso": "2026-05-19T15:04:00-06:00",
-          "fuente": "N+",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNS1QRkZ4bkRaTXRFcXA4ZU5zeTBzcl9sSXpKNW1aTjJVdWVCOW9TVmNvSklSZ2NVNFdUcGxkd2hadllSOTZfdE1xckVtTEJROFBwQWQ0aDBmQktmUkFLaUxZbmxLMWRRQTAzUjFBWVZES1p1LWJBbFVvNFpYUWpqTHR0Q3BRV0xXUWZyckdLNVg3Rk43Z1F3NGZTdi14NGJraC1UN2VSVi1RbjUwSnBGbmxNRV9iT2JFYWRpX3FEelR2R3VqQS04MTZERV9vV2NTWC00Sk1XUFdVMk1UMS1BMWtR?oc=5",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL",
-          "lat": 19.04,
-          "lon": -98.2
-        }
-      ]
-    },
-    {
-      "tipo": "bloqueo",
-      "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "7813813f",
-          "tipo": "bloqueo",
-          "ruta": "Carretera 57",
-          "descripcion": "Querétaro anuncia reapertura de la Carretera 57, procederá legalmente por bloqueo - El Sol de México. Querétaro anuncia reapertura de la Carretera 57, procederá legalmente por bloqueo El Sol de México",
-          "recomendacion": "",
-          "fecha": "19 mayo 2026 · 13:27 CST",
-          "fecha_iso": "2026-05-19T13:27:00-06:00",
-          "fuente": "El Sol de México",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOaDlnR1FaeTBCblU0ZG8wak82TVc4T2tUSTFLNU9VSVdKUEJpaGl1RTF4Qmk1UGtGT2RnOG1nOVhxR0J0dDRsNVh3Wm14ZnNsNFpIN1daTzduc2J5UnFfNEo0Y1FCLWlmUkFQYXk5OVhGOWpMUGw4aUp0UmJFU2dWaDhqSjJoVGttQUpQcElGQWs3dThTYV9LcEt2YldQSWFfVFpsS2wta0JYdThubzMxZ0xEWjdMUXFWNng2Vy1tbm03cFJiemVzSmFIcW4?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 21.5,
-          "lon": -100.0
-        }
-      ]
-    },
     {
       "tipo": "robo",
       "color": "rojo",
@@ -70,10 +20,10 @@
           "ruta": "Puebla, segundo lugar nacional en robo de transporte de carga;…",
           "descripcion": "Puebla, segundo lugar nacional en robo de transporte de carga; concentra 13% de los casos: Overhaul - La Jornada de Oriente - Puebla. Puebla, segundo lugar nacional en robo de transporte de carga; concentra 13% de los casos: Overhaul La Jornada de Oriente - Puebla",
           "recomendacion": "",
-          "fecha": "19 mayo 2026 · 14:56 CST",
-          "fecha_iso": "2026-05-19T14:56:00-06:00",
+          "fecha": "20 mayo 2026 · 03:10 CST",
+          "fecha_iso": "2026-05-20T03:10:00-06:00",
           "fuente": "La Jornada de Oriente - Puebla",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQTVkSGVjcXdsV2UtVUZPMVVnQTMyY3pjRFJXVmRNbW1qV0MzVDFXZkxKdTJaenBiT19rbjhMVlVKMXhXLWRzYWx3OHh4eDZYeVJ4c1hZS1hubkpXajBiVDdLNjZpaGh5cndxbXFRV0FCaXZvaWZHY3VHR0lvNllMY1MwaWFJZmhISWtBdWNuSWt6ZVNlNEJDTmRRRWJvcHMw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQcXF6VzZaSkhDVEpzei1VTUFmLXo3MWt4dnhadkFTNEp1ekp2V3dLWlRhOTFZT3hFOThMRzVTcC16OHNnWVA4SDBrWlFtVGVaSUVQQU1KVy1TY3JkNU1yTGVuSm9Kc1hpRGFkazhpMDZJemhhTXhRa2dLbDlQd0t5dWROX09rSnFQcHMwZ3VieW9uc2h3a0d6SXVQdDVPNFNiQjNkaXFkR2d2VlFiXzdlbk0wSnNvQS1EXzJRdklxZUppdktmdVBBSVVNaW5BSXhGZDAzWEdiWGI?oc=5",
           "dot_color": "#c0392b",
           "badge": "badge-robo",
           "badge_txt": "ROBO",
@@ -85,43 +35,17 @@
   ],
   "para_mapa": [
     {
-      "id": "17340f62",
-      "tipo": "cierre_total",
-      "ruta": "Sobrevive Chofer de Tráiler a Volcadura en Autopista Puebla-Atlixco -…",
-      "descripcion": "Sobrevive Chofer de Tráiler a Volcadura en Autopista Puebla-Atlixco - N+. Sobrevive Chofer de Tráiler a Volcadura en Autopista Puebla-Atlixco N+",
-      "fecha": "19 mayo 2026 · 15:04 CST",
-      "fuente": "N+",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNS1QRkZ4bkRaTXRFcXA4ZU5zeTBzcl9sSXpKNW1aTjJVdWVCOW9TVmNvSklSZ2NVNFdUcGxkd2hadllSOTZfdE1xckVtTEJROFBwQWQ0aDBmQktmUkFLaUxZbmxLMWRRQTAzUjFBWVZES1p1LWJBbFVvNFpYUWpqTHR0Q3BRV0xXUWZyckdLNVg3Rk43Z1F3NGZTdi14NGJraC1UN2VSVi1RbjUwSnBGbmxNRV9iT2JFYWRpX3FEelR2R3VqQS04MTZERV9vV2NTWC00Sk1XUFdVMk1UMS1BMWtR?oc=5",
-      "dot_color": "#e74c3c",
-      "badge_txt": "CIERRE TOTAL",
-      "lat": 19.04,
-      "lon": -98.2
-    },
-    {
       "id": "7dfccb42",
       "tipo": "robo",
       "ruta": "Puebla, segundo lugar nacional en robo de transporte de carga;…",
       "descripcion": "Puebla, segundo lugar nacional en robo de transporte de carga; concentra 13% de los casos: Overhaul - La Jornada de Oriente - Puebla. Puebla, segundo lugar nacional en robo de transporte de carga; concentra 13% de los casos: Overhaul La Jornada de Oriente - Puebla",
-      "fecha": "19 mayo 2026 · 14:56 CST",
+      "fecha": "20 mayo 2026 · 03:10 CST",
       "fuente": "La Jornada de Oriente - Puebla",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQTVkSGVjcXdsV2UtVUZPMVVnQTMyY3pjRFJXVmRNbW1qV0MzVDFXZkxKdTJaenBiT19rbjhMVlVKMXhXLWRzYWx3OHh4eDZYeVJ4c1hZS1hubkpXajBiVDdLNjZpaGh5cndxbXFRV0FCaXZvaWZHY3VHR0lvNllMY1MwaWFJZmhISWtBdWNuSWt6ZVNlNEJDTmRRRWJvcHMw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQcXF6VzZaSkhDVEpzei1VTUFmLXo3MWt4dnhadkFTNEp1ekp2V3dLWlRhOTFZT3hFOThMRzVTcC16OHNnWVA4SDBrWlFtVGVaSUVQQU1KVy1TY3JkNU1yTGVuSm9Kc1hpRGFkazhpMDZJemhhTXhRa2dLbDlQd0t5dWROX09rSnFQcHMwZ3VieW9uc2h3a0d6SXVQdDVPNFNiQjNkaXFkR2d2VlFiXzdlbk0wSnNvQS1EXzJRdklxZUppdktmdVBBSVVNaW5BSXhGZDAzWEdiWGI?oc=5",
       "dot_color": "#c0392b",
       "badge_txt": "ROBO",
       "lat": 19.04,
       "lon": -98.2
-    },
-    {
-      "id": "7813813f",
-      "tipo": "bloqueo",
-      "ruta": "Carretera 57",
-      "descripcion": "Querétaro anuncia reapertura de la Carretera 57, procederá legalmente por bloqueo - El Sol de México. Querétaro anuncia reapertura de la Carretera 57, procederá legalmente por bloqueo El Sol de México",
-      "fecha": "19 mayo 2026 · 13:27 CST",
-      "fuente": "El Sol de México",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOaDlnR1FaeTBCblU0ZG8wak82TVc4T2tUSTFLNU9VSVdKUEJpaGl1RTF4Qmk1UGtGT2RnOG1nOVhxR0J0dDRsNVh3Wm14ZnNsNFpIN1daTzduc2J5UnFfNEo0Y1FCLWlmUkFQYXk5OVhGOWpMUGw4aUp0UmJFU2dWaDhqSjJoVGttQUpQcElGQWs3dThTYV9LcEt2YldQSWFfVFpsS2wta0JYdThubzMxZ0xEWjdMUXFWNng2Vy1tbm03cFJiemVzSmFIcW4?oc=5",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 21.5,
-      "lon": -100.0
     }
   ]
 }
