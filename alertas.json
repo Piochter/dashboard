@@ -1,10 +1,11 @@
 {
-  "ultima_actualizacion": "2026-05-21T08:58:17.295375-06:00",
-  "ultima_actualizacion_legible": "21 de mayo de 2026 · 08:58 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-05-21T12:29:43.693164-06:00",
+  "ultima_actualizacion_legible": "21 de mayo de 2026 · 12:29 CST",
+  "total": 2,
   "ventana": "últimas 4 horas",
   "fuentes": [
-    "Google News"
+    "Google News",
+    "Medios nacionales"
   ],
   "grupos": [
     {
@@ -20,8 +21,8 @@
           "ruta": "EN VIVO: ¿Hay bloqueos en carreteras hoy? Cierre TOTAL en…",
           "descripcion": "EN VIVO: ¿Hay bloqueos en carreteras hoy? Cierre TOTAL en la Maravatío-Zapotlanejo, dirección a Morelia - TV Azteca. EN VIVO: ¿Hay bloqueos en carreteras hoy? Cierre TOTAL en la Maravatío-Zapotlanejo, dirección a Morelia TV Azteca",
           "recomendacion": "",
-          "fecha": "21 mayo 2026 · 07:08 CST",
-          "fecha_iso": "2026-05-21T07:08:00-06:00",
+          "fecha": "21 mayo 2026 · 10:17 CST",
+          "fecha_iso": "2026-05-21T10:17:00-06:00",
           "fuente": "TV Azteca",
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPLUdNMk4xeUZuTWpWUU5JU1VxNzREN2JobG9YclU0M185d2pVcHFkZ2JiaE5PbWV0QTgxMVhDbmhBUWNGOXJPVERWcVhmS0tCaWw1MnRKOU1QNk9QVHE0SF93ZHo3WTllS0pFVUw1NThyM2YxaFV5Zl9wWHVFTk5JcC1OWS1xM0EyaGVhcXRSNWp2NmZzaWZ6SVo3aGtVWXNTdC1Ubw?oc=5",
           "dot_color": "#e74c3c",
@@ -31,58 +32,28 @@
       ]
     },
     {
-      "tipo": "bloqueo",
-      "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
-      "col2": false,
+      "tipo": "cierre_parcial",
+      "color": "amarillo",
+      "icono": "🟡",
+      "label": "CIERRE PARCIAL / ACCIDENTES",
+      "col2": true,
       "alertas": [
         {
-          "id": "d20b1da7",
-          "tipo": "bloqueo",
-          "ruta": "Bloqueos carreteras HOY 21 de mayo: Autopistas cerradas en México,…",
-          "descripcion": "Bloqueos carreteras HOY 21 de mayo: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 21 de mayo: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
+          "id": "2efd7d37",
+          "tipo": "cierre_parcial",
+          "ruta": "Tramo de la escalera de la Torre Eiffel vendido por…",
+          "descripcion": "Tramo de la escalera de la Torre Eiffel vendido por 450.160 euros en subasta. Un tramo de la escalera de la Torre Eiffel, compuesto por 14 peldaños, fue adjudicado este jueves por 450.160 euros (más de 90 mil pesos).",
           "recomendacion": "",
-          "fecha": "21 mayo 2026 · 07:06 CST",
-          "fecha_iso": "2026-05-21T07:06:00-06:00",
-          "fuente": "Eje Central",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNazNpX0RXT0J1aHNWQmQwVGwxdURUVnRPUlZoamdJbnVVUDNjVk9iNEJ3eDNGQ1I3eVlNRW1lQmdlUi1wV3RtcjZBTDc0bDQ3SEtfLXk2M2QxSXN2ZDNQRkJJOS01NVlOOUQtLUhzWXpiSlN0TFd5WWg3YWVUalh3cXBFUDFFejJ6Vm9tcV9vSzFoa3NjMUgwb2NZRXlmaHJ5eUhpbzU5NUxyTllndUdKYm9SbTM0X0EyLXE4Rk5wMS1JT3M2aXp3dVkwdmZSSHZLNXZQQUg4T01FQUw3VmlEUUZpNzhkZw?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        },
-        {
-          "id": "2f95af39",
-          "tipo": "bloqueo",
-          "ruta": "¡Paso detenido! México-Querétaro caótica; bloqueos hoy 21 de mayo -…",
-          "descripcion": "¡Paso detenido! México-Querétaro caótica; bloqueos hoy 21 de mayo - adn40.mx. ¡Paso detenido! México-Querétaro caótica; bloqueos hoy 21 de mayo adn40.mx",
-          "recomendacion": "",
-          "fecha": "21 mayo 2026 · 07:04 CST",
-          "fecha_iso": "2026-05-21T07:04:00-06:00",
-          "fuente": "adn40.mx",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcl9oeGdMT0JDTlV4TlJleThKWG9naDE2aVNuWjdYUW80UW5ndnUyVUtrUG1PNXJxRmZWN2FYdG52bEp6Yzdmc3BXRzdHMjZucUpRelpvUi1vZXpoNUhaQVRBeW01MHR5TXkweVVFWDZiWlprX1dsQlF5dlF4S0RyeWV6M285YkZ2ZW9UTkFvNmkxSXkyVHI5S1pEUjVMa1hFWGFrZ0lSS2lRNW1wbWVCT1oxR3V3WW9oNFE?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 25.2,
-          "lon": -102.0
+          "fecha": "21 mayo 2026 · 11:16 CST",
+          "fecha_iso": "2026-05-21T11:16:00-06:00",
+          "fuente": "24 Horas",
+          "url": "https://24-horas.mx/vida/tramo-de-la-escalera-de-la-torre-eiffel-vendido-por-450-160-euros-en-subasta/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
         }
       ]
     }
   ],
-  "para_mapa": [
-    {
-      "id": "2f95af39",
-      "tipo": "bloqueo",
-      "ruta": "¡Paso detenido! México-Querétaro caótica; bloqueos hoy 21 de mayo -…",
-      "descripcion": "¡Paso detenido! México-Querétaro caótica; bloqueos hoy 21 de mayo - adn40.mx. ¡Paso detenido! México-Querétaro caótica; bloqueos hoy 21 de mayo adn40.mx",
-      "fecha": "21 mayo 2026 · 07:04 CST",
-      "fuente": "adn40.mx",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcl9oeGdMT0JDTlV4TlJleThKWG9naDE2aVNuWjdYUW80UW5ndnUyVUtrUG1PNXJxRmZWN2FYdG52bEp6Yzdmc3BXRzdHMjZucUpRelpvUi1vZXpoNUhaQVRBeW01MHR5TXkweVVFWDZiWlprX1dsQlF5dlF4S0RyeWV6M285YkZ2ZW9UTkFvNmkxSXkyVHI5S1pEUjVMa1hFWGFrZ0lSS2lRNW1wbWVCT1oxR3V3WW9oNFE?oc=5",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 25.2,
-      "lon": -102.0
-    }
-  ]
+  "para_mapa": []
 }
