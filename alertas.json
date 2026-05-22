@@ -1,12 +1,113 @@
 {
-  "ultima_actualizacion": "2026-05-22T04:36:04.659898-06:00",
-  "ultima_actualizacion_legible": "22 de mayo de 2026 · 04:36 CST",
-  "total": 0,
+  "ultima_actualizacion": "2026-05-22T11:29:27.812331-06:00",
+  "ultima_actualizacion_legible": "22 de mayo de 2026 · 11:29 CST",
+  "total": 3,
   "ventana": "últimas 4 horas",
   "fuentes": [
-    "Google News"
+    "Google News",
+    "Quadratín + regionales"
   ],
-  "grupos": [],
-  "para_mapa": [],
-  "nota": "Sin alertas activas en la ventana de tiempo configurada."
+  "grupos": [
+    {
+      "tipo": "cierre_total",
+      "color": "rojo",
+      "icono": "🔴",
+      "label": "CIERRE TOTAL",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "54f780f1",
+          "tipo": "cierre_total",
+          "ruta": "carretera San Luis Potosí-Mexquitic - TV Azteca",
+          "descripcion": "EN VIVO de los bloqueos que afectan carreteras en México hoy: Cierre TOTAL en carretera San Luis Potosí-Mexquitic - TV Azteca. EN VIVO de los bloqueos que afectan carreteras en México hoy: Cierre TOTAL en carretera San Luis Potosí-Mexquitic TV Azteca",
+          "recomendacion": "",
+          "fecha": "22 mayo 2026 · 10:12 CST",
+          "fecha_iso": "2026-05-22T10:12:00-06:00",
+          "fuente": "TV Azteca",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYVJFNjBEMHpXdXpSbGs5MGZZUUFfdXVMTXBZR0VtMEtCTTZaT3ZkanVobjVmbnpKM1dmZVhueENpdlhxb2o0V19QRUVHOTlBOTZ4RlZLZFVqLS16aExhWmpkRzlxMXl4OXVJZWhCVEZ3ZGVVQ2c2NjlVUUMybUxQcWpJOFlVbEJ3RTJoQWxvWlQtamQ3WWVXQW4wZDZqT2d6ZmJSRQ?oc=5",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL",
+          "lat": 22.15,
+          "lon": -100.97
+        }
+      ]
+    },
+    {
+      "tipo": "bloqueo",
+      "color": "rojo",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "28246f89",
+          "tipo": "bloqueo",
+          "ruta": "Bloqueos carreteras HOY 22 de mayo: Autopistas cerradas en México,…",
+          "descripcion": "Bloqueos carreteras HOY 22 de mayo: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 22 de mayo: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
+          "recomendacion": "",
+          "fecha": "22 mayo 2026 · 07:48 CST",
+          "fecha_iso": "2026-05-22T07:48:00-06:00",
+          "fuente": "Eje Central",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQcm1rTkpycTYyNU0xcDRienBaOVYxbVpxYWhsYWV5M2E3WmxuLVROaDRlVFBKZTNZY0lzbU1xVzNIbXdCSjA3Tnp6OTFTX3hXbUpxaDdXMWNsVjdDcDM4S1lvbzBGUzFSZ3g5U3pvaGIteGJPN3hkUTR4QmVVTWJyVklha254NHlOVzRJY0U2QXA2QUMtOVdCd2tUemNnWGdIOEdCVXhaNDNaNE5zcDg4Y0hiVVNVNmNzUFBjTzJUeFNmTXc2SlJ5VFFacWdhUzFEazNrZ095bTlMb1U1UWdQNnBYRzdJQQ?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        }
+      ]
+    },
+    {
+      "tipo": "cierre_parcial",
+      "color": "amarillo",
+      "icono": "🟡",
+      "label": "CIERRE PARCIAL / ACCIDENTES",
+      "col2": true,
+      "alertas": [
+        {
+          "id": "9edd8fdd",
+          "tipo": "cierre_parcial",
+          "ruta": "Fallece motociclista tras chocar en la lateral de la México-Puebla…",
+          "descripcion": "Fallece motociclista tras chocar en la lateral de la México-Puebla. El fatal accidente ocurrió a la altura de San Jerónimo Caleras",
+          "recomendacion": "",
+          "fecha": "22 mayo 2026 · 10:01 CST",
+          "fecha_iso": "2026-05-22T10:01:00-06:00",
+          "fuente": "Quadratín Puebla",
+          "url": "https://puebla.quadratin.com.mx/fallece-motociclista-tras-chocar-en-la-lateral-de-la-mexico-puebla/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 19.04,
+          "lon": -98.2
+        }
+      ]
+    }
+  ],
+  "para_mapa": [
+    {
+      "id": "54f780f1",
+      "tipo": "cierre_total",
+      "ruta": "carretera San Luis Potosí-Mexquitic - TV Azteca",
+      "descripcion": "EN VIVO de los bloqueos que afectan carreteras en México hoy: Cierre TOTAL en carretera San Luis Potosí-Mexquitic - TV Azteca. EN VIVO de los bloqueos que afectan carreteras en México hoy: Cierre TOTAL en carretera San Luis Potosí-Mexquitic TV Azteca",
+      "fecha": "22 mayo 2026 · 10:12 CST",
+      "fuente": "TV Azteca",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYVJFNjBEMHpXdXpSbGs5MGZZUUFfdXVMTXBZR0VtMEtCTTZaT3ZkanVobjVmbnpKM1dmZVhueENpdlhxb2o0V19QRUVHOTlBOTZ4RlZLZFVqLS16aExhWmpkRzlxMXl4OXVJZWhCVEZ3ZGVVQ2c2NjlVUUMybUxQcWpJOFlVbEJ3RTJoQWxvWlQtamQ3WWVXQW4wZDZqT2d6ZmJSRQ?oc=5",
+      "dot_color": "#e74c3c",
+      "badge_txt": "CIERRE TOTAL",
+      "lat": 22.15,
+      "lon": -100.97
+    },
+    {
+      "id": "9edd8fdd",
+      "tipo": "cierre_parcial",
+      "ruta": "Fallece motociclista tras chocar en la lateral de la México-Puebla…",
+      "descripcion": "Fallece motociclista tras chocar en la lateral de la México-Puebla. El fatal accidente ocurrió a la altura de San Jerónimo Caleras",
+      "fecha": "22 mayo 2026 · 10:01 CST",
+      "fuente": "Quadratín Puebla",
+      "url": "https://puebla.quadratin.com.mx/fallece-motociclista-tras-chocar-en-la-lateral-de-la-mexico-puebla/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 19.04,
+      "lon": -98.2
+    }
+  ]
 }
