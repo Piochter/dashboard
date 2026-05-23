@@ -1,10 +1,12 @@
 {
-  "ultima_actualizacion": "2026-05-23T09:47:53.902369-06:00",
-  "ultima_actualizacion_legible": "23 de mayo de 2026 · 09:47 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-05-23T13:57:29.606926-06:00",
+  "ultima_actualizacion_legible": "23 de mayo de 2026 · 13:57 CST",
+  "total": 4,
   "ventana": "últimas 4 horas",
   "fuentes": [
-    "Google News"
+    "Medios nacionales",
+    "Medios regionales",
+    "Quadratín + regionales"
   ],
   "grupos": [
     {
@@ -15,15 +17,43 @@
       "col2": false,
       "alertas": [
         {
-          "id": "b53eceba",
+          "id": "bba6bf60",
           "tipo": "bloqueo",
-          "ruta": "Bloqueos carreteras HOY 23 de mayo: Autopistas cerradas en México,…",
-          "descripcion": "Bloqueos carreteras HOY 23 de mayo: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 23 de mayo: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
+          "ruta": "Restablecen circulación tras bloqueo carretero en Cotija…",
+          "descripcion": "Restablecen circulación tras bloqueo carretero en Cotija. Se mantiene despliegue operativo y presencia institucional",
           "recomendacion": "",
-          "fecha": "23 mayo 2026 · 09:30 CST",
-          "fecha_iso": "2026-05-23T09:30:00-06:00",
-          "fuente": "Eje Central",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSGNmUU5rUlM1RGE2QUJOTG1zaVh4ZjhtYWFLc3ctNGI5b0F0N1Fwd1dNSUlTem9RNzBEcWh4eVlvOUtxeFF5Z2JtYS1PdVB3djhhY2NXNnZDenBVSThhNFJCdW5HVEQtTmNKUWd3S1UwZHBiVEZhQUQ3Tl9aRHl3czM0a1dvcko5ZUdOQnRjQ1lUUkJ6YWNjN3pNZ2tyRERfSkpGYUtjdXl0RWE1ZDd5MFVQVHFINzJNVm81U3VOTjM5X0VlR0w5RkY1aDQwc21MZ18zdXUwWldaRnhWM0lMRW0teGdZZw?oc=5",
+          "fecha": "23 mayo 2026 · 13:46 CST",
+          "fecha_iso": "2026-05-23T13:46:00-06:00",
+          "fuente": "Quadratín Michoacán",
+          "url": "https://www.quadratin.com.mx/sucesos/restablecen-circulacion-tras-bloqueo-carretero-en-cotija/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
+        {
+          "id": "d00f46f7",
+          "tipo": "bloqueo",
+          "ruta": "autopista a Zapotlanejo",
+          "descripcion": "Protesta provoca cierres viales en autopista a Zapotlanejo. Los cierres se encuentran a la altura de los cruces de Camino a Tonalá y avenida Tonalá, con sentido hacia Tlaquepaque Centro",
+          "recomendacion": "",
+          "fecha": "23 mayo 2026 · 13:28 CST",
+          "fecha_iso": "2026-05-23T13:28:00-06:00",
+          "fuente": "El Informador Jalisco",
+          "url": "https://www.informador.mx/jalisco/cierres-viales-en-autopista-a-zapotlanejo-por-protesta-tras-retiro-de-rutas-del-transporte-publico-20260523-0061.html",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
+        {
+          "id": "f88165e7",
+          "tipo": "bloqueo",
+          "ruta": "Se registran narcobloqueos y balaceras en Cotija, Michoacán…",
+          "descripcion": "Se registran narcobloqueos y balaceras en Cotija, Michoacán. Enfrentamientos armados entre grupos delictivos, bloqueos y vehículos incendiados paralizan carreteras en Cotija, Michoacán.",
+          "recomendacion": "",
+          "fecha": "23 mayo 2026 · 12:25 CST",
+          "fecha_iso": "2026-05-23T12:25:00-06:00",
+          "fuente": "El Norte NL",
+          "url": "https://www.elnorte.com/se-registran-narcobloqueos-y-balaceras-en-cotija-michoacan/ar3209499",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO"
@@ -38,21 +68,37 @@
       "col2": true,
       "alertas": [
         {
-          "id": "c74015a8",
+          "id": "a91bc485",
           "tipo": "cierre_parcial",
-          "ruta": "Carreteras Bloqueadas en México Hoy, Sábado 23 de Mayo 2026…",
-          "descripcion": "Carreteras Bloqueadas en México Hoy, Sábado 23 de Mayo 2026 - N+. Carreteras Bloqueadas en México Hoy, Sábado 23 de Mayo 2026 N+",
+          "ruta": "Cierre de la mitad de la Línea 2 del Metro:…",
+          "descripcion": "Cierre de la mitad de la Línea 2 del Metro: ¿Qué tramo estará abierto?. Desde hace algunos meses el gobierno de la CDMX inició una serie de obras para rehabilitar varias líneas del Metro, rumbo al Mundial 2026.",
           "recomendacion": "",
-          "fecha": "23 mayo 2026 · 06:28 CST",
-          "fecha_iso": "2026-05-23T06:28:00-06:00",
-          "fuente": "N+",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcGRFTHh1YXE0NlpoaHJ3dFNnX01vNk95TlJvVlY5bHI5SFpZX1JvLVRuaXNONlAwOE84QThIZFRCVWFkbVRhMjhwM1IxN05vS2dNOHZWY3lCUEVBRGdTRHJRTFFtSlFrbnZCWXlySDkzQVdPTDJva2xLTWtMWk5Ba0txU1ZkWVpDdmNwS2NKaUxHd2VnUWZr?oc=5",
+          "fecha": "23 mayo 2026 · 12:35 CST",
+          "fecha_iso": "2026-05-23T12:35:00-06:00",
+          "fuente": "El Financiero",
+          "url": "https://www.elfinanciero.com.mx/cdmx/2026/05/23/cierre-de-la-mitad-de-la-linea-2-del-metro-que-tramo-estara-abierto/",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 19.43,
+          "lon": -99.13
         }
       ]
     }
   ],
-  "para_mapa": []
+  "para_mapa": [
+    {
+      "id": "a91bc485",
+      "tipo": "cierre_parcial",
+      "ruta": "Cierre de la mitad de la Línea 2 del Metro:…",
+      "descripcion": "Cierre de la mitad de la Línea 2 del Metro: ¿Qué tramo estará abierto?. Desde hace algunos meses el gobierno de la CDMX inició una serie de obras para rehabilitar varias líneas del Metro, rumbo al Mundial 2026.",
+      "fecha": "23 mayo 2026 · 12:35 CST",
+      "fuente": "El Financiero",
+      "url": "https://www.elfinanciero.com.mx/cdmx/2026/05/23/cierre-de-la-mitad-de-la-linea-2-del-metro-que-tramo-estara-abierto/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 19.43,
+      "lon": -99.13
+    }
+  ]
 }
