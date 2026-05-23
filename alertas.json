@@ -1,12 +1,11 @@
 {
-  "ultima_actualizacion": "2026-05-23T13:57:29.606926-06:00",
-  "ultima_actualizacion_legible": "23 de mayo de 2026 · 13:57 CST",
-  "total": 4,
+  "ultima_actualizacion": "2026-05-23T16:39:38.201742-06:00",
+  "ultima_actualizacion_legible": "23 de mayo de 2026 · 16:39 CST",
+  "total": 3,
   "ventana": "últimas 4 horas",
   "fuentes": [
     "Medios nacionales",
-    "Medios regionales",
-    "Quadratín + regionales"
+    "Medios regionales"
   ],
   "grupos": [
     {
@@ -17,20 +16,6 @@
       "col2": false,
       "alertas": [
         {
-          "id": "bba6bf60",
-          "tipo": "bloqueo",
-          "ruta": "Restablecen circulación tras bloqueo carretero en Cotija…",
-          "descripcion": "Restablecen circulación tras bloqueo carretero en Cotija. Se mantiene despliegue operativo y presencia institucional",
-          "recomendacion": "",
-          "fecha": "23 mayo 2026 · 13:46 CST",
-          "fecha_iso": "2026-05-23T13:46:00-06:00",
-          "fuente": "Quadratín Michoacán",
-          "url": "https://www.quadratin.com.mx/sucesos/restablecen-circulacion-tras-bloqueo-carretero-en-cotija/",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        },
-        {
           "id": "d00f46f7",
           "tipo": "bloqueo",
           "ruta": "autopista a Zapotlanejo",
@@ -40,20 +25,6 @@
           "fecha_iso": "2026-05-23T13:28:00-06:00",
           "fuente": "El Informador Jalisco",
           "url": "https://www.informador.mx/jalisco/cierres-viales-en-autopista-a-zapotlanejo-por-protesta-tras-retiro-de-rutas-del-transporte-publico-20260523-0061.html",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        },
-        {
-          "id": "f88165e7",
-          "tipo": "bloqueo",
-          "ruta": "Se registran narcobloqueos y balaceras en Cotija, Michoacán…",
-          "descripcion": "Se registran narcobloqueos y balaceras en Cotija, Michoacán. Enfrentamientos armados entre grupos delictivos, bloqueos y vehículos incendiados paralizan carreteras en Cotija, Michoacán.",
-          "recomendacion": "",
-          "fecha": "23 mayo 2026 · 12:25 CST",
-          "fecha_iso": "2026-05-23T12:25:00-06:00",
-          "fuente": "El Norte NL",
-          "url": "https://www.elnorte.com/se-registran-narcobloqueos-y-balaceras-en-cotija-michoacan/ar3209499",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO"
@@ -68,13 +39,27 @@
       "col2": true,
       "alertas": [
         {
+          "id": "f7182155",
+          "tipo": "cierre_parcial",
+          "ruta": "Despliega SSP operativo en caseta tomada de Panindícuaro…",
+          "descripcion": "Despliega SSP operativo en caseta tomada de Panindícuaro. Donde un grupo de personas mantiene el cierre",
+          "recomendacion": "",
+          "fecha": "23 mayo 2026 · 15:56 CST",
+          "fecha_iso": "2026-05-23T15:56:00-06:00",
+          "fuente": "Quadratín Michoacán",
+          "url": "https://www.quadratin.com.mx/sucesos/despliega-ssp-operativo-en-caseta-tomada-de-panindicuaro/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        },
+        {
           "id": "a91bc485",
           "tipo": "cierre_parcial",
           "ruta": "Cierre de la mitad de la Línea 2 del Metro:…",
           "descripcion": "Cierre de la mitad de la Línea 2 del Metro: ¿Qué tramo estará abierto?. Desde hace algunos meses el gobierno de la CDMX inició una serie de obras para rehabilitar varias líneas del Metro, rumbo al Mundial 2026.",
           "recomendacion": "",
-          "fecha": "23 mayo 2026 · 12:35 CST",
-          "fecha_iso": "2026-05-23T12:35:00-06:00",
+          "fecha": "23 mayo 2026 · 15:06 CST",
+          "fecha_iso": "2026-05-23T15:06:00-06:00",
           "fuente": "El Financiero",
           "url": "https://www.elfinanciero.com.mx/cdmx/2026/05/23/cierre-de-la-mitad-de-la-linea-2-del-metro-que-tramo-estara-abierto/",
           "dot_color": "#e67e22",
@@ -92,7 +77,7 @@
       "tipo": "cierre_parcial",
       "ruta": "Cierre de la mitad de la Línea 2 del Metro:…",
       "descripcion": "Cierre de la mitad de la Línea 2 del Metro: ¿Qué tramo estará abierto?. Desde hace algunos meses el gobierno de la CDMX inició una serie de obras para rehabilitar varias líneas del Metro, rumbo al Mundial 2026.",
-      "fecha": "23 mayo 2026 · 12:35 CST",
+      "fecha": "23 mayo 2026 · 15:06 CST",
       "fuente": "El Financiero",
       "url": "https://www.elfinanciero.com.mx/cdmx/2026/05/23/cierre-de-la-mitad-de-la-linea-2-del-metro-que-tramo-estara-abierto/",
       "dot_color": "#e67e22",
