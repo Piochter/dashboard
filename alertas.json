@@ -1,12 +1,35 @@
 {
-  "ultima_actualizacion": "2026-05-23T05:46:09.018281-06:00",
-  "ultima_actualizacion_legible": "23 de mayo de 2026 · 05:46 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-05-23T09:47:53.902369-06:00",
+  "ultima_actualizacion_legible": "23 de mayo de 2026 · 09:47 CST",
+  "total": 2,
   "ventana": "últimas 4 horas",
   "fuentes": [
-    "Quadratín + regionales"
+    "Google News"
   ],
   "grupos": [
+    {
+      "tipo": "bloqueo",
+      "color": "rojo",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "b53eceba",
+          "tipo": "bloqueo",
+          "ruta": "Bloqueos carreteras HOY 23 de mayo: Autopistas cerradas en México,…",
+          "descripcion": "Bloqueos carreteras HOY 23 de mayo: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 23 de mayo: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
+          "recomendacion": "",
+          "fecha": "23 mayo 2026 · 09:30 CST",
+          "fecha_iso": "2026-05-23T09:30:00-06:00",
+          "fuente": "Eje Central",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSGNmUU5rUlM1RGE2QUJOTG1zaVh4ZjhtYWFLc3ctNGI5b0F0N1Fwd1dNSUlTem9RNzBEcWh4eVlvOUtxeFF5Z2JtYS1PdVB3djhhY2NXNnZDenBVSThhNFJCdW5HVEQtTmNKUWd3S1UwZHBiVEZhQUQ3Tl9aRHl3czM0a1dvcko5ZUdOQnRjQ1lUUkJ6YWNjN3pNZ2tyRERfSkpGYUtjdXl0RWE1ZDd5MFVQVHFINzJNVm81U3VOTjM5X0VlR0w5RkY1aDQwc21MZ18zdXUwWldaRnhWM0lMRW0teGdZZw?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        }
+      ]
+    },
     {
       "tipo": "cierre_parcial",
       "color": "amarillo",
@@ -15,15 +38,15 @@
       "col2": true,
       "alertas": [
         {
-          "id": "0261c4ca",
+          "id": "c74015a8",
           "tipo": "cierre_parcial",
-          "ruta": "Está NL en el top 10 de choques carreteros…",
-          "descripcion": "Está NL en el top 10 de choques carreteros. Nuevo León se ubica entre las 10 entidades con más choques en carreteras federales, siendo el tercero con más muertes por los siniestros.",
+          "ruta": "Carreteras Bloqueadas en México Hoy, Sábado 23 de Mayo 2026…",
+          "descripcion": "Carreteras Bloqueadas en México Hoy, Sábado 23 de Mayo 2026 - N+. Carreteras Bloqueadas en México Hoy, Sábado 23 de Mayo 2026 N+",
           "recomendacion": "",
-          "fecha": "23 mayo 2026 · 05:01 CST",
-          "fecha_iso": "2026-05-23T05:01:00-06:00",
-          "fuente": "El Norte NL",
-          "url": "https://www.elnorte.com/esta-nl-en-el-top-10-de-choques-carreteros/ar3209321",
+          "fecha": "23 mayo 2026 · 06:28 CST",
+          "fecha_iso": "2026-05-23T06:28:00-06:00",
+          "fuente": "N+",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcGRFTHh1YXE0NlpoaHJ3dFNnX01vNk95TlJvVlY5bHI5SFpZX1JvLVRuaXNONlAwOE84QThIZFRCVWFkbVRhMjhwM1IxN05vS2dNOHZWY3lCUEVBRGdTRHJRTFFtSlFrbnZCWXlySDkzQVdPTDJva2xLTWtMWk5Ba0txU1ZkWVpDdmNwS2NKaUxHd2VnUWZr?oc=5",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL"
