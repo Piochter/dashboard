@@ -1,12 +1,142 @@
 {
-  "ultima_actualizacion": "2026-05-24T06:14:05.237072-06:00",
-  "ultima_actualizacion_legible": "24 de mayo de 2026 · 06:14 CST",
-  "total": 0,
+  "ultima_actualizacion": "2026-05-24T10:18:06.382948-06:00",
+  "ultima_actualizacion_legible": "24 de mayo de 2026 · 10:18 CST",
+  "total": 5,
   "ventana": "últimas 4 horas",
   "fuentes": [
-    "Google News"
+    "Google News",
+    "Medios regionales",
+    "Quadratín + regionales"
   ],
-  "grupos": [],
-  "para_mapa": [],
-  "nota": "Sin alertas activas en la ventana de tiempo configurada."
+  "grupos": [
+    {
+      "tipo": "cierre_total",
+      "color": "rojo",
+      "icono": "🔴",
+      "label": "CIERRE TOTAL",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "1bb23bf2",
+          "tipo": "cierre_total",
+          "ruta": "Choque en la Cuacnopalan-Oaxaca deja 3 muertos y caos de…",
+          "descripcion": "Choque en la Cuacnopalan-Oaxaca deja 3 muertos y caos de 9 horas. Cierre total en la autopista por un fuerte impacto frontal",
+          "recomendacion": "",
+          "fecha": "24 mayo 2026 · 08:46 CST",
+          "fecha_iso": "2026-05-24T08:46:00-06:00",
+          "fuente": "Quadratín Puebla",
+          "url": "https://puebla.quadratin.com.mx/choque-en-la-cuacnopalan-oaxaca-deja-3-muertos-y-caos-de-9-horas/",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL",
+          "lat": 17.06,
+          "lon": -96.72
+        }
+      ]
+    },
+    {
+      "tipo": "bloqueo",
+      "color": "rojo",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "82825086",
+          "tipo": "bloqueo",
+          "ruta": "Bloqueos carreteras HOY 24 de mayo: Autopistas cerradas en México,…",
+          "descripcion": "Bloqueos carreteras HOY 24 de mayo: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 24 de mayo: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
+          "recomendacion": "",
+          "fecha": "24 mayo 2026 · 08:35 CST",
+          "fecha_iso": "2026-05-24T08:35:00-06:00",
+          "fuente": "Eje Central",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQS0VjajVBTzlIWTBfOGgtb0ZTeDVaY3pCV3B4ZE9YSGJIOTVSM1pzcDZpQjRuTUhyYmVhQXo0bkFlZkJaWUh3N3oxQktNYlBxOFpQa21sbVBuelhJVTRZVHg0YVVkTDZfcWg4b1Z3Qk92SkFzeXcyTGlua3EwRjNYVTJhVTdJdUNIdm5jaHVPQXFUUXAtMEt4TTVRX2EtS2M2QmNDVUEzR1NvV1kwMTdnQUlQU1poVldoWXR2dUFYcjNCZGpJUi1VUGZ3U3R4RFBaZEdXRmZOd2NEMEhOT29pMjlzd2gxZw?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        }
+      ]
+    },
+    {
+      "tipo": "cierre_parcial",
+      "color": "amarillo",
+      "icono": "🟡",
+      "label": "CIERRE PARCIAL / ACCIDENTES",
+      "col2": true,
+      "alertas": [
+        {
+          "id": "b61f76c1",
+          "tipo": "cierre_parcial",
+          "ruta": "Transforman vandalismo en arte urbano tras daño a mural mundialista…",
+          "descripcion": "Transforman vandalismo en arte urbano tras daño a mural mundialista. Los implicados fueron arrestados la tarde del sábado tras intervenir de manera ilegal la obra artística ubicada en el cruce de Periférico y la Calzada",
+          "recomendacion": "",
+          "fecha": "24 mayo 2026 · 09:40 CST",
+          "fecha_iso": "2026-05-24T09:40:00-06:00",
+          "fuente": "Quadratín Jalisco",
+          "url": "https://jalisco.quadratin.com.mx/sucesos/transforman-vandalismo-en-arte-urbano-tras-dano-a-mural-mundialista/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        },
+        {
+          "id": "5eb2f3ef",
+          "tipo": "cierre_parcial",
+          "ruta": "Dos mujeres sufren muerte desgarradora al quedar prensadas en auto…",
+          "descripcion": "Dos mujeres sufren muerte desgarradora al quedar prensadas en auto envuelto en llamas en Celaya. El fatal accidente sucedió durante la noche del sábado 23 de mayo en la carretera Comonfort-Celaya. Además, reportan que hay cinco heridos más.",
+          "recomendacion": "",
+          "fecha": "24 mayo 2026 · 08:39 CST",
+          "fecha_iso": "2026-05-24T08:39:00-06:00",
+          "fuente": "AM Guanajuato",
+          "url": "https://www.am.com.mx/celaya/2026/05/24/accidente-en-la-comonfort-celaya-mueren-dos-mujeres-1797479.html",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        },
+        {
+          "id": "c62dba8f",
+          "tipo": "cierre_parcial",
+          "ruta": "autopista a Oaxaca",
+          "descripcion": "Mueren 3 personas y colapsa tránsito 9 horas en autopista a Oaxaca. De acuerdo con los reportes, el choque ocurrió presuntamente por invasión de carril",
+          "recomendacion": "",
+          "fecha": "24 mayo 2026 · 08:39 CST",
+          "fecha_iso": "2026-05-24T08:39:00-06:00",
+          "fuente": "Quadratín Jalisco",
+          "url": "https://jalisco.quadratin.com.mx/sucesos/mueren-3-personas-y-colapsa-transito-9-horas-en-autopista-a-oaxaca/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 17.06,
+          "lon": -96.72
+        }
+      ]
+    }
+  ],
+  "para_mapa": [
+    {
+      "id": "1bb23bf2",
+      "tipo": "cierre_total",
+      "ruta": "Choque en la Cuacnopalan-Oaxaca deja 3 muertos y caos de…",
+      "descripcion": "Choque en la Cuacnopalan-Oaxaca deja 3 muertos y caos de 9 horas. Cierre total en la autopista por un fuerte impacto frontal",
+      "fecha": "24 mayo 2026 · 08:46 CST",
+      "fuente": "Quadratín Puebla",
+      "url": "https://puebla.quadratin.com.mx/choque-en-la-cuacnopalan-oaxaca-deja-3-muertos-y-caos-de-9-horas/",
+      "dot_color": "#e74c3c",
+      "badge_txt": "CIERRE TOTAL",
+      "lat": 17.06,
+      "lon": -96.72
+    },
+    {
+      "id": "c62dba8f",
+      "tipo": "cierre_parcial",
+      "ruta": "autopista a Oaxaca",
+      "descripcion": "Mueren 3 personas y colapsa tránsito 9 horas en autopista a Oaxaca. De acuerdo con los reportes, el choque ocurrió presuntamente por invasión de carril",
+      "fecha": "24 mayo 2026 · 08:39 CST",
+      "fuente": "Quadratín Jalisco",
+      "url": "https://jalisco.quadratin.com.mx/sucesos/mueren-3-personas-y-colapsa-transito-9-horas-en-autopista-a-oaxaca/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 17.06,
+      "lon": -96.72
+    }
+  ]
 }
