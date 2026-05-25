@@ -1,6 +1,6 @@
 {
-  "ultima_actualizacion": "2026-05-24T14:17:00.118751-06:00",
-  "ultima_actualizacion_legible": "24 de mayo de 2026 · 14:17 CST",
+  "ultima_actualizacion": "2026-05-24T18:17:56.016438-06:00",
+  "ultima_actualizacion_legible": "24 de mayo de 2026 · 18:17 CST",
   "total": 2,
   "ventana": "últimas 4 horas",
   "fuentes": [
@@ -9,6 +9,31 @@
   ],
   "grupos": [
     {
+      "tipo": "robo",
+      "color": "rojo",
+      "icono": "🚨",
+      "label": "ROBOS EN CARRETERA",
+      "col2": true,
+      "alertas": [
+        {
+          "id": "3056070e",
+          "tipo": "robo",
+          "ruta": "Pareja choca de frente contra patrulla en la León-Silao; mujer…",
+          "descripcion": "Pareja choca de frente contra patrulla en la León-Silao; mujer murió y hombre está grave. Una mujer sin vida y un hombre herido de gravedad fue el saldo de un choque frontal entre una motocicleta y una patrulla de la Policía Rural de León sobre la carretera León-Silao, a la altura de Los Sauces. Las agentes interceptaron a la pareja tras una alerta radial del C4 sobre un presunto reporte de robo del vehículo; sin embargo, una consulta posterior en la plataforma de Repuve Guanajuato desmintió la ",
+          "recomendacion": "",
+          "fecha": "24 mayo 2026 · 17:18 CST",
+          "fecha_iso": "2026-05-24T17:18:00-06:00",
+          "fuente": "AM Guanajuato",
+          "url": "https://www.am.com.mx/leon/2026/05/24/pareja-choca-de-frente-contra-patrulla-en-la-leon-silao-mujer-murio-y-hombre-esta-grave-1797633.html",
+          "dot_color": "#c0392b",
+          "badge": "badge-robo",
+          "badge_txt": "ROBO",
+          "lat": 21.02,
+          "lon": -101.26
+        }
+      ]
+    },
+    {
       "tipo": "cierre_parcial",
       "color": "amarillo",
       "icono": "🟡",
@@ -16,51 +41,50 @@
       "col2": true,
       "alertas": [
         {
-          "id": "207eda9a",
+          "id": "1c3b870b",
           "tipo": "cierre_parcial",
-          "ruta": "autopista del Istmo",
-          "descripcion": "Deja choque 4 personas sin vida en autopista del Istmo. El hecho de tránsito ocurrió en el kilómetro 47 de la carretera 185D.",
+          "ruta": "Muere menor de 7 años en fatal choque múltiple en…",
+          "descripcion": "Muere menor de 7 años en fatal choque múltiple en la México-Toluca. El siniestro involucró a un tráiler con placas 29BJ6H y dos vehículos particulares",
           "recomendacion": "",
-          "fecha": "24 mayo 2026 · 14:00 CST",
-          "fecha_iso": "2026-05-24T14:00:00-06:00",
+          "fecha": "24 mayo 2026 · 14:54 CST",
+          "fecha_iso": "2026-05-24T14:54:00-06:00",
           "fuente": "Quadratín Sinaloa",
-          "url": "https://sinaloa.quadratin.com.mx/deja-choque-4-personas-sin-vida-en-autopista-del-istmo/",
+          "url": "https://sinaloa.quadratin.com.mx/muere-menor-de-7-anos-en-fatal-choque-multiple-en-la-mexico-toluca/",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL",
-          "lat": 24.0,
-          "lon": -99.0
-        },
-        {
-          "id": "3b00c7a6",
-          "tipo": "cierre_parcial",
-          "ruta": "Se abren socavones en varios puntos de Irapuato y reparaciones…",
-          "descripcion": "Se abren socavones en varios puntos de Irapuato y reparaciones “van para largo”, señalan vecinos. Algunos habitantes señalaron temor por posibles accidentes y daños mayores, sobre todo en vialidades de constante circulación vehicular y peatonal.",
-          "recomendacion": "",
-          "fecha": "24 mayo 2026 · 12:07 CST",
-          "fecha_iso": "2026-05-24T12:07:00-06:00",
-          "fuente": "AM Guanajuato",
-          "url": "https://www.am.com.mx/irapuato/2026/05/24/se-abren-socavones-en-varios-puntos-de-irapuato-1797545.html",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
+          "lat": 19.29,
+          "lon": -99.66
         }
       ]
     }
   ],
   "para_mapa": [
     {
-      "id": "207eda9a",
+      "id": "3056070e",
+      "tipo": "robo",
+      "ruta": "Pareja choca de frente contra patrulla en la León-Silao; mujer…",
+      "descripcion": "Pareja choca de frente contra patrulla en la León-Silao; mujer murió y hombre está grave. Una mujer sin vida y un hombre herido de gravedad fue el saldo de un choque frontal entre una motocicleta y una patrulla de la Policía Rural de León sobre la carretera León-Silao, a la altura de Los Sauces. Las agentes interceptaron a la pareja tras una alerta radial del C4 sobre un presunto reporte de robo del vehículo; sin embargo, una consulta posterior en la plataforma de Repuve Guanajuato desmintió la ",
+      "fecha": "24 mayo 2026 · 17:18 CST",
+      "fuente": "AM Guanajuato",
+      "url": "https://www.am.com.mx/leon/2026/05/24/pareja-choca-de-frente-contra-patrulla-en-la-leon-silao-mujer-murio-y-hombre-esta-grave-1797633.html",
+      "dot_color": "#c0392b",
+      "badge_txt": "ROBO",
+      "lat": 21.02,
+      "lon": -101.26
+    },
+    {
+      "id": "1c3b870b",
       "tipo": "cierre_parcial",
-      "ruta": "autopista del Istmo",
-      "descripcion": "Deja choque 4 personas sin vida en autopista del Istmo. El hecho de tránsito ocurrió en el kilómetro 47 de la carretera 185D.",
-      "fecha": "24 mayo 2026 · 14:00 CST",
+      "ruta": "Muere menor de 7 años en fatal choque múltiple en…",
+      "descripcion": "Muere menor de 7 años en fatal choque múltiple en la México-Toluca. El siniestro involucró a un tráiler con placas 29BJ6H y dos vehículos particulares",
+      "fecha": "24 mayo 2026 · 14:54 CST",
       "fuente": "Quadratín Sinaloa",
-      "url": "https://sinaloa.quadratin.com.mx/deja-choque-4-personas-sin-vida-en-autopista-del-istmo/",
+      "url": "https://sinaloa.quadratin.com.mx/muere-menor-de-7-anos-en-fatal-choque-multiple-en-la-mexico-toluca/",
       "dot_color": "#e67e22",
       "badge_txt": "CIERRE PARCIAL",
-      "lat": 24.0,
-      "lon": -99.0
+      "lat": 19.29,
+      "lon": -99.66
     }
   ]
 }
