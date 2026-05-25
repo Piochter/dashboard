@@ -1,12 +1,35 @@
 {
-  "ultima_actualizacion": "2026-05-25T09:18:13.868701-06:00",
-  "ultima_actualizacion_legible": "25 de mayo de 2026 · 09:18 CST",
-  "total": 0,
-  "ventana": "últimas 0 horas",
+  "ultima_actualizacion": "2026-05-25T09:39:30.300721-06:00",
+  "ultima_actualizacion_legible": "25 de mayo de 2026 · 09:39 CST",
+  "total": 1,
+  "ventana": "últimos 30 minutos",
   "fuentes": [
-    "Google News"
+    "Medios regionales"
   ],
-  "grupos": [],
-  "para_mapa": [],
-  "nota": "Sin alertas activas en la ventana de tiempo configurada."
+  "grupos": [
+    {
+      "tipo": "bloqueo",
+      "color": "rojo",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "159a8f62",
+          "tipo": "bloqueo",
+          "ruta": "También la CNTE, presente en bloqueo en Morelia…",
+          "descripcion": "También la CNTE, presente en bloqueo en Morelia. La movilización afecta la circulación vehicular en la zona sur",
+          "recomendacion": "",
+          "fecha": "25 mayo 2026 · 09:16 CST",
+          "fecha_iso": "2026-05-25T09:16:00-06:00",
+          "fuente": "Quadratín Michoacán",
+          "url": "https://www.quadratin.com.mx/sucesos/tambien-la-cnte-presente-en-bloqueo-en-morelia/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        }
+      ]
+    }
+  ],
+  "para_mapa": []
 }
