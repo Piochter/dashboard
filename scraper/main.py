@@ -30,12 +30,14 @@ ACCEPT_UNDATED            = os.getenv("SCRAPER_ACCEPT_UNDATED", "true").lower() 
 DEBUG_DATES               = os.getenv("SCRAPER_DEBUG_DATES", "false").lower() == "true"
 DEBUG_REJECTIONS          = os.getenv("SCRAPER_DEBUG_REJECTIONS", "false").lower() == "true"
 
-# Telegram — configura estos secrets en GitHub Actions
-TELEGRAM_API_ID           = os.getenv("TELEGRAM_API_ID", "")
-TELEGRAM_API_HASH         = os.getenv("TELEGRAM_API_HASH", "")
-TELEGRAM_BOT_TOKEN        = os.getenv("TELEGRAM_BOT_TOKEN", "")
-TELEGRAM_SESSION_STRING   = os.getenv("TELEGRAM_SESSION_STRING", "")
-
+TELEGRAM_CANALES = [
+    # Verificados y activos
+    "monitorcarreteras",    # Monitor Carreteras 57 — muy activo
+    "NOTMEX",               # México Noticias — noticias generales con vialidad
+    "jornadaedomex",        # Jornada Estado de México — accidentes y bloqueos
+    "AlertaChiapas",        # Alerta Chiapas — bloqueos y carreteras
+    "ElDiarioDeJuarez",     # El Diario de Juárez — vialidad norte
+]
 # ─────────────────────────────────────────────────────────────────────
 # CANALES TELEGRAM DE VIALIDAD
 # ─────────────────────────────────────────────────────────────────────
