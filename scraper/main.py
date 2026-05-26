@@ -32,11 +32,10 @@ DEBUG_REJECTIONS          = os.getenv("SCRAPER_DEBUG_REJECTIONS", "false").lower
 
 TELEGRAM_CANALES = [
     # Verificados y activos
-    "monitorcarreteras",    # Monitor Carreteras 57 — muy activo
-    "NOTMEX",               # México Noticias — noticias generales con vialidad
-    "jornadaedomex",        # Jornada Estado de México — accidentes y bloqueos
-    "AlertaChiapas",        # Alerta Chiapas — bloqueos y carreteras
-    "ElDiarioDeJuarez",     # El Diario de Juárez — vialidad norte
+TELEGRAM_API_ID         = os.getenv("TELEGRAM_API_ID") or ""
+TELEGRAM_API_HASH       = os.getenv("TELEGRAM_API_HASH") or ""
+TELEGRAM_BOT_TOKEN      = os.getenv("TELEGRAM_BOT_TOKEN") or ""
+TELEGRAM_SESSION_STRING = os.getenv("TELEGRAM_SESSION_STRING") or ""
 ]
 # ─────────────────────────────────────────────────────────────────────
 # CANALES TELEGRAM DE VIALIDAD
