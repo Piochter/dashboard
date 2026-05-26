@@ -33,7 +33,7 @@ permissions:
 
 env:
   SCRAPER_RUN_MODE:               ${{ github.event.inputs.run_mode || 'all' }}
-  SCRAPER_LOOKBACK_MINUTES:       ${{ github.event.inputs.lookback_minutes || '30' }}
+  SCRAPER_LOOKBACK_MINUTES: ${{ github.event.inputs.lookback_minutes || '180' }}
   SCRAPER_OUTPUT_FILE:            alertas.json
   SCRAPER_DEDUPE_WINDOW_HOURS:    "4"
   SCRAPER_DEDUPE_KM_TOLERANCE:    "5"
