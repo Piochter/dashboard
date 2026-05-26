@@ -1,12 +1,119 @@
 {
-  "ultima_actualizacion": "2026-05-26T09:28:24.284230-06:00",
-  "ultima_actualizacion_legible": "26 de mayo de 2026 · 09:28 CST",
-  "total": 0,
-  "ventana": "últimos 30 minutos",
+  "ultima_actualizacion": "2026-05-26T09:36:21.533567-06:00",
+  "ultima_actualizacion_legible": "26 de mayo de 2026 · 09:36 CST",
+  "total": 4,
+  "ventana": "últimos 720 minutos",
   "fuentes": [
-    "Google News"
+    "Google News",
+    "Medios regionales",
+    "Telegram"
   ],
-  "grupos": [],
-  "para_mapa": [],
-  "nota": "Sin alertas activas en la ventana de tiempo configurada."
+  "grupos": [
+    {
+      "tipo": "cierre_total",
+      "color": "rojo",
+      "icono": "🔴",
+      "label": "CIERRE TOTAL",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "0bddec14",
+          "tipo": "cierre_total",
+          "ruta": "🚨Auto vuelca en la #México-#Toluca, piden extremar precauciones 👇 https://lajornadaestadodemexico.com/c-2-volcadura-en-la-carretera-mexico-toluca/…",
+          "descripcion": "🚨Auto vuelca en la #México-#Toluca, piden extremar precauciones 👇\n\nhttps://lajornadaestadodemexico.com/c-2-volcadura-en-la-carretera-mexico-toluca/",
+          "recomendacion": "",
+          "fecha": "26 mayo 2026 · 07:03 CST",
+          "fecha_iso": "2026-05-26T07:03:00-06:00",
+          "fuente": "Telegram @jornadaedomex",
+          "url": "https://t.me/jornadaedomex/10801",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL",
+          "lat": 19.29,
+          "lon": -99.66
+        }
+      ]
+    },
+    {
+      "tipo": "bloqueo",
+      "color": "rojo",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "8c8bf9c7",
+          "tipo": "bloqueo",
+          "ruta": "¿Qué hubo detrás de las balaceras y bloqueos en Colima…",
+          "descripcion": "¿Qué hubo detrás de las balaceras y bloqueos en Colima registrados ayer?. ¿Qué pasó en Colima? Balaceras y autos incendiados paralizaron tramos de la autopista Manzanillo-Colima. Conoce los detalles del operativo federal",
+          "recomendacion": "",
+          "fecha": "26 mayo 2026 · 08:57 CST",
+          "fecha_iso": "2026-05-26T08:57:00-06:00",
+          "fuente": "El Informador Jalisco",
+          "url": "https://www.informador.mx/mexico/terror-en-colima-que-hubo-detras-de-las-balaceras-y-bloqueos-registrados-ayer-20260526-0059.html",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 19.24,
+          "lon": -103.72
+        },
+        {
+          "id": "c0d7af15",
+          "tipo": "bloqueo",
+          "ruta": "Hay Cierres en Carreteras de México Hoy 26 de Mayo…",
+          "descripcion": "Hay Cierres en Carreteras de México Hoy 26 de Mayo 2026: Lista de Autopistas con Bloqueos - N+. Hay Cierres en Carreteras de México Hoy 26 de Mayo 2026: Lista de Autopistas con Bloqueos N+",
+          "recomendacion": "",
+          "fecha": "26 mayo 2026 · 08:19 CST",
+          "fecha_iso": "2026-05-26T08:19:00-06:00",
+          "fuente": "N+",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeXdNQWVEdkllMXRRaGVuUGQ5YWhYQUNheHl3ZnNoRlY0NWdmSHI1ajBOc3lheHJqQ0RoamRUUTBnOGVKMVR6aEFTdjhhTkZnd1ZDZzk2amMxVXhyZlI0c25xLVdTZGxoT0pFOTZEVEtOdmN4dGRyNzdsdlhoWkpLX2FHQUVuY2dWV1Jra3puNEx1Q1BvYlR5c2RkQkppcTBtUU9uQlZ2eGZjREptU3FRYW5ZeTFZOGt5b0NkRUhrZTg?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
+        {
+          "id": "306358d5",
+          "tipo": "bloqueo",
+          "ruta": "Bloqueos carreteras HOY 26 de mayo: Autopistas cerradas en México,…",
+          "descripcion": "Bloqueos carreteras HOY 26 de mayo: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 26 de mayo: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
+          "recomendacion": "",
+          "fecha": "26 mayo 2026 · 07:10 CST",
+          "fecha_iso": "2026-05-26T07:10:00-06:00",
+          "fuente": "Eje Central",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPWXpLVE5IaDRjZVNJNWRDZ0ZKQXVnRUJRcU1qQXFVc1phSDZRYWY0bERVYkNUYm5ZaEpiRUM0aEpQZTF1MUxOOU5GaHE2MERvdWZsaEhWWC1PTVBWY29rUFNOWlp4dlphbWk0clBNeG9LV1pxNGtpTjJGc3ZsZC1MRlZGdWlvOGJNSVgyNGU2c1FKRDhGSEFYLUFUaUxTN1NnUjVSZmkzaUt4NGxJVmdXcFRlQUg0Tm5pRTlEa2RiM2JkdVByS2ZLNGhiMWVTTTAtdmFxdjZnaUg0NExaTEdTbVlrVkdBUQ?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        }
+      ]
+    }
+  ],
+  "para_mapa": [
+    {
+      "id": "8c8bf9c7",
+      "tipo": "bloqueo",
+      "ruta": "¿Qué hubo detrás de las balaceras y bloqueos en Colima…",
+      "descripcion": "¿Qué hubo detrás de las balaceras y bloqueos en Colima registrados ayer?. ¿Qué pasó en Colima? Balaceras y autos incendiados paralizaron tramos de la autopista Manzanillo-Colima. Conoce los detalles del operativo federal",
+      "fecha": "26 mayo 2026 · 08:57 CST",
+      "fuente": "El Informador Jalisco",
+      "url": "https://www.informador.mx/mexico/terror-en-colima-que-hubo-detras-de-las-balaceras-y-bloqueos-registrados-ayer-20260526-0059.html",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 19.24,
+      "lon": -103.72
+    },
+    {
+      "id": "0bddec14",
+      "tipo": "cierre_total",
+      "ruta": "🚨Auto vuelca en la #México-#Toluca, piden extremar precauciones 👇 https://lajornadaestadodemexico.com/c-2-volcadura-en-la-carretera-mexico-toluca/…",
+      "descripcion": "🚨Auto vuelca en la #México-#Toluca, piden extremar precauciones 👇\n\nhttps://lajornadaestadodemexico.com/c-2-volcadura-en-la-carretera-mexico-toluca/",
+      "fecha": "26 mayo 2026 · 07:03 CST",
+      "fuente": "Telegram @jornadaedomex",
+      "url": "https://t.me/jornadaedomex/10801",
+      "dot_color": "#e74c3c",
+      "badge_txt": "CIERRE TOTAL",
+      "lat": 19.29,
+      "lon": -99.66
+    }
+  ]
 }
