@@ -767,11 +767,19 @@ async def _fetch_telegram_async() -> list[dict]:
     try:
         from telethon import TelegramClient
         from telethon.sessions import StringSession
+        
+api_id   = os.environ.get("TELEGRAM_API_ID", "")
+api_hash = os.environ.get("TELEGRAM_API_HASH", "")
+session  = os.environ.get("TELEGRAM_SESSION_STRING", "")
 
-        client = TelegramClient(
-            StringSession(TELEGRAM_SESSION_STRING),
-            int(TELEGRAM_API_ID),
-            TELEGRAM_API_HASH,
+if not all([api_id, api_hash, session]):
+    log.warning("  Telegram: credenciales no configuradas — omitiendo")
+    return alertas
+
+client = TelegramClient(
+    StringSession(session),
+    int(api_id),
+    api_hash,
         )
 
         await client.connect()
