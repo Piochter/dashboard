@@ -8,7 +8,7 @@
 ║    • RSS regionales    — medios estatales                           ║
 ║    • CAPUFE directo    — XML oficial                                ║
 ║    • CONAGUA/SMN       — avisos meteorológicos                      ║
-║    • Telegram          — canales oficiales de vialidad              ║
+║    • Telegram          — canales verificados de vialidad            ║
 ╚══════════════════════════════════════════════════════════════════════╝
 """
 
@@ -22,42 +22,29 @@ from bs4 import BeautifulSoup
 # ─────────────────────────────────────────────────────────────────────
 # CONFIGURACIÓN
 # ─────────────────────────────────────────────────────────────────────
-LOOKBACK_MINUTES          = int(os.getenv("SCRAPER_LOOKBACK_MINUTES", str(12 * 60)))
-LOOKBACK_HORAS            = LOOKBACK_MINUTES / 60
-MAX_POR_FEED              = int(os.getenv("MAX_POR_FEED", "30"))
-RUN_MODE                  = os.getenv("SCRAPER_RUN_MODE", "all")
-ACCEPT_UNDATED            = os.getenv("SCRAPER_ACCEPT_UNDATED", "true").lower() == "true"
-DEBUG_DATES               = os.getenv("SCRAPER_DEBUG_DATES", "false").lower() == "true"
-DEBUG_REJECTIONS          = os.getenv("SCRAPER_DEBUG_REJECTIONS", "false").lower() == "true"
+LOOKBACK_MINUTES        = int(os.getenv("SCRAPER_LOOKBACK_MINUTES", str(12 * 60)))
+LOOKBACK_HORAS          = LOOKBACK_MINUTES / 60
+MAX_POR_FEED            = int(os.getenv("MAX_POR_FEED", "30"))
+RUN_MODE                = os.getenv("SCRAPER_RUN_MODE", "all")
+ACCEPT_UNDATED          = os.getenv("SCRAPER_ACCEPT_UNDATED", "true").lower() == "true"
+DEBUG_DATES             = os.getenv("SCRAPER_DEBUG_DATES", "false").lower() == "true"
+DEBUG_REJECTIONS        = os.getenv("SCRAPER_DEBUG_REJECTIONS", "false").lower() == "true"
 
-TELEGRAM_CANALES = [
-    # Verificados y activos
+# Telegram credentials (from GitHub secrets)
 TELEGRAM_API_ID         = os.getenv("TELEGRAM_API_ID") or ""
 TELEGRAM_API_HASH       = os.getenv("TELEGRAM_API_HASH") or ""
 TELEGRAM_BOT_TOKEN      = os.getenv("TELEGRAM_BOT_TOKEN") or ""
 TELEGRAM_SESSION_STRING = os.getenv("TELEGRAM_SESSION_STRING") or ""
-]
+
 # ─────────────────────────────────────────────────────────────────────
-# CANALES TELEGRAM DE VIALIDAD
+# CANALES TELEGRAM — verificados y activos
 # ─────────────────────────────────────────────────────────────────────
 TELEGRAM_CANALES = [
-    # Oficiales federales
-    "capufe_mx",
-    "GN_Carreteras",
-    "proteccion_civil_mexico",
-    # CDMX y zona metropolitana
-    "vialidadcdmx",
-    "c5cdmx",
-    "ovialcdmx",
-    # Regionales
-    "vialidad_edomex",
-    "ssp_jalisco_vial",
-    "vialidad_nl",
-    "transito_puebla",
-    # Especializados transporte de carga
-    "transportistas_mx",
-    "carga_carretera_mexico",
-    "alertas_viales_mexico",
+    "monitorcarreteras",   # Monitor Carreteras 57 — muy activo
+    "NOTMEX",              # México Noticias
+    "jornadaedomex",       # Jornada Estado de México
+    "AlertaChiapas",       # Alerta Chiapas — bloqueos y carreteras
+    "ElDiarioDeJuarez",    # El Diario de Juárez — vialidad norte
 ]
 
 # ─────────────────────────────────────────────────────────────────────
@@ -98,7 +85,7 @@ GNEWS_QUERIES = [
 ]
 
 # ─────────────────────────────────────────────────────────────────────
-# RSS MEDIOS — solo secciones de tráfico/vialidad cuando existen
+# RSS MEDIOS
 # ─────────────────────────────────────────────────────────────────────
 RSS_NACIONALES = [
     ("24 Horas",         "https://www.24-horas.mx/feed/"),
@@ -186,84 +173,81 @@ KEYWORDS = {
 }
 
 TIPO_CONFIG = {
-    "cierre_total":    dict(color="rojo",    icono="🔴", label="CIERRE TOTAL",                dot="#e74c3c", badge="badge-cierre-total",   badge_txt="CIERRE TOTAL",    col2=False, orden=0),
-    "bloqueo":         dict(color="rojo",    icono="⛔", label="BLOQUEOS / MANIFESTACIONES",  dot="#8e44ad", badge="badge-bloqueo",         badge_txt="BLOQUEO",         col2=False, orden=1),
-    "robo":            dict(color="rojo",    icono="🚨", label="ROBOS EN CARRETERA",           dot="#c0392b", badge="badge-robo",            badge_txt="ROBO",            col2=True,  orden=2),
-    "cierre_parcial":  dict(color="amarillo",icono="🟡", label="CIERRE PARCIAL / ACCIDENTES",  dot="#e67e22", badge="badge-cierre-parcial",  badge_txt="CIERRE PARCIAL",  col2=True,  orden=3),
-    "carga_vehicular": dict(color="azul",    icono="🚗", label="CARGA VEHICULAR",              dot="#2980b9", badge="badge-carga",           badge_txt="CARGA VEHICULAR", col2=True,  orden=4),
-    "obra":            dict(color="verde",   icono="🚧", label="OBRA CONTINUA",                dot="#27ae60", badge="badge-obra",            badge_txt="OBRA CONTINUA",   col2=False, orden=5),
-    "clima":           dict(color="azul",    icono="🌧️", label="ALERTA METEOROLÓGICA",         dot="#3498db", badge="badge-clima",           badge_txt="ALERTA CLIMA",    col2=False, orden=6),
+    "cierre_total":    dict(color="rojo",    icono="🔴", label="CIERRE TOTAL",               dot="#e74c3c", badge="badge-cierre-total",  badge_txt="CIERRE TOTAL",    col2=False, orden=0),
+    "bloqueo":         dict(color="rojo",    icono="⛔", label="BLOQUEOS / MANIFESTACIONES", dot="#8e44ad", badge="badge-bloqueo",        badge_txt="BLOQUEO",         col2=False, orden=1),
+    "robo":            dict(color="rojo",    icono="🚨", label="ROBOS EN CARRETERA",          dot="#c0392b", badge="badge-robo",           badge_txt="ROBO",            col2=True,  orden=2),
+    "cierre_parcial":  dict(color="amarillo",icono="🟡", label="CIERRE PARCIAL / ACCIDENTES", dot="#e67e22", badge="badge-cierre-parcial", badge_txt="CIERRE PARCIAL",  col2=True,  orden=3),
+    "carga_vehicular": dict(color="azul",    icono="🚗", label="CARGA VEHICULAR",             dot="#2980b9", badge="badge-carga",          badge_txt="CARGA VEHICULAR", col2=True,  orden=4),
+    "obra":            dict(color="verde",   icono="🚧", label="OBRA CONTINUA",               dot="#27ae60", badge="badge-obra",           badge_txt="OBRA CONTINUA",   col2=False, orden=5),
+    "clima":           dict(color="azul",    icono="🌧️", label="ALERTA METEOROLÓGICA",        dot="#3498db", badge="badge-clima",          badge_txt="ALERTA CLIMA",    col2=False, orden=6),
 }
 
 # ─────────────────────────────────────────────────────────────────────
 # COORDENADAS
 # ─────────────────────────────────────────────────────────────────────
 COORD_MAP = {
-    "mexico puebla": (19.35, -98.40),          "150d": (19.35, -98.40),
-    "mexico queretaro": (20.10, -99.50),        "57d": (20.10, -99.50),
-    "mexico guadalajara": (20.40, -103.35),     "15d": (20.40, -103.35),
-    "mexico veracruz": (19.20, -96.80),         "140d": (19.20, -96.80),
-    "mexico acapulco": (17.55, -99.50),         "95d": (17.55, -99.50),
-    "mexico laredo": (24.00, -99.00),           "85d": (24.00, -99.00),
-    "mexico tuxpan": (20.50, -97.90),           "130d": (20.50, -97.90),
-    "tepic guadalajara": (21.00, -104.00),      "15": (21.00, -104.00),
-    "puebla cordoba": (18.90, -97.00),          "150": (18.90, -97.00),
+    "mexico puebla": (19.35, -98.40),           "150d": (19.35, -98.40),
+    "mexico queretaro": (20.10, -99.50),         "57d": (20.10, -99.50),
+    "mexico guadalajara": (20.40, -103.35),      "15d": (20.40, -103.35),
+    "mexico veracruz": (19.20, -96.80),          "140d": (19.20, -96.80),
+    "mexico acapulco": (17.55, -99.50),          "95d": (17.55, -99.50),
+    "mexico laredo": (24.00, -99.00),            "85d": (24.00, -99.00),
+    "mexico tuxpan": (20.50, -97.90),            "130d": (20.50, -97.90),
+    "tepic guadalajara": (21.00, -104.00),       "15": (21.00, -104.00),
+    "puebla cordoba": (18.90, -97.00),           "150": (18.90, -97.00),
     "siglo xxi": (19.30, -104.00),
     "cuernavaca acapulco": (18.20, -99.20),
     "amozoc": (19.10, -98.00),
     "arco norte": (19.80, -99.10),
-    "monterrey saltillo": (25.50, -100.90),     "40d": (25.50, -100.90),
-    "monterrey laredo": (26.50, -99.50),        "85": (26.50, -99.50),
-    "colima manzanillo": (19.10, -104.30),      "200": (19.10, -104.30),
+    "monterrey saltillo": (25.50, -100.90),      "40d": (25.50, -100.90),
+    "monterrey laredo": (26.50, -99.50),         "85": (26.50, -99.50),
+    "colima manzanillo": (19.10, -104.30),       "200": (19.10, -104.30),
     "aguascalientes guadalajara": (21.20, -102.50), "45d": (21.20, -102.50),
     "celaya queretaro": (20.55, -100.60),
-    "queretaro san luis": (21.50, -100.00),     "57": (21.50, -100.00),
-    "torreon saltillo": (25.20, -102.00),       "40": (25.20, -102.00),
+    "queretaro san luis": (21.50, -100.00),      "57": (21.50, -100.00),
+    "torreon saltillo": (25.20, -102.00),        "40": (25.20, -102.00),
     "tijuana ensenada": (31.70, -116.70),
     "chihuahua ciudad juarez": (30.40, -106.40),
     "durango mazatlan": (24.50, -106.00),
     "oaxaca istmo": (16.50, -95.00),
     "xalapa veracruz": (19.35, -96.60),
     "merida cancun": (20.50, -87.90),
-    "tuxtla gutierrez": (16.75, -93.12),        "190": (16.75, -93.12),
-    "jalisco": (20.66, -103.35),   "veracruz": (19.18, -96.14),
-    "oaxaca": (17.06, -96.72),     "guerrero": (17.55, -99.50),
-    "chiapas": (16.75, -93.12),    "puebla": (19.04, -98.20),
-    "hidalgo": (20.11, -98.73),    "michoacan": (19.70, -101.19),
-    "guanajuato": (21.02, -101.26),"cdmx": (19.43, -99.13),
-    "edomex": (19.35, -99.70),     "tamaulipas": (24.26, -98.84),
-    "nuevo leon": (25.67, -100.31),"sinaloa": (24.80, -107.39),
-    "sonora": (29.07, -110.96),    "chihuahua": (28.64, -106.08),
+    "tuxtla gutierrez": (16.75, -93.12),         "190": (16.75, -93.12),
+    "jalisco": (20.66, -103.35),    "veracruz": (19.18, -96.14),
+    "oaxaca": (17.06, -96.72),      "guerrero": (17.55, -99.50),
+    "chiapas": (16.75, -93.12),     "puebla": (19.04, -98.20),
+    "hidalgo": (20.11, -98.73),     "michoacan": (19.70, -101.19),
+    "guanajuato": (21.02, -101.26), "cdmx": (19.43, -99.13),
+    "edomex": (19.35, -99.70),      "tamaulipas": (24.26, -98.84),
+    "nuevo leon": (25.67, -100.31), "sinaloa": (24.80, -107.39),
+    "sonora": (29.07, -110.96),     "chihuahua": (28.64, -106.08),
     "baja california": (30.84, -115.28),
-    "coahuila": (27.06, -101.71),  "durango": (24.02, -104.66),
-    "zacatecas": (22.77, -102.58), "san luis": (22.15, -100.97),
-    "nayarit": (21.75, -104.85),   "colima": (19.24, -103.72),
-    "morelos": (18.67, -99.10),    "queretaro": (20.59, -100.39),
-    "tabasco": (17.99, -92.93),    "campeche": (19.83, -90.53),
-    "yucatan": (20.97, -89.62),    "quintana roo": (18.50, -88.30),
-    "monterrey": (25.67, -100.31), "guadalajara": (20.66, -103.35),
-    "tijuana": (32.52, -117.00),   "culiacan": (24.80, -107.39),
-    "mazatlan": (23.24, -106.41),  "manzanillo": (19.05, -104.32),
-    "acapulco": (16.86, -99.88),   "cancun": (21.16, -86.85),
-    "merida": (20.97, -89.62),     "cuernavaca": (18.92, -99.23),
-    "toluca": (19.29, -99.66),     "pachuca": (20.12, -98.73),
-    "xalapa": (19.53, -96.91),     "villahermosa": (17.99, -92.93),
-    "tuxtla": (16.75, -93.12),     "hermosillo": (29.07, -110.96),
+    "coahuila": (27.06, -101.71),   "durango": (24.02, -104.66),
+    "zacatecas": (22.77, -102.58),  "san luis": (22.15, -100.97),
+    "nayarit": (21.75, -104.85),    "colima": (19.24, -103.72),
+    "morelos": (18.67, -99.10),     "queretaro": (20.59, -100.39),
+    "tabasco": (17.99, -92.93),     "campeche": (19.83, -90.53),
+    "yucatan": (20.97, -89.62),     "quintana roo": (18.50, -88.30),
+    "monterrey": (25.67, -100.31),  "guadalajara": (20.66, -103.35),
+    "tijuana": (32.52, -117.00),    "culiacan": (24.80, -107.39),
+    "mazatlan": (23.24, -106.41),   "manzanillo": (19.05, -104.32),
+    "acapulco": (16.86, -99.88),    "cancun": (21.16, -86.85),
+    "merida": (20.97, -89.62),      "cuernavaca": (18.92, -99.23),
+    "toluca": (19.29, -99.66),      "pachuca": (20.12, -98.73),
+    "xalapa": (19.53, -96.91),      "villahermosa": (17.99, -92.93),
+    "tuxtla": (16.75, -93.12),      "hermosillo": (29.07, -110.96),
 }
 
 # ─────────────────────────────────────────────────────────────────────
-# FALSOS POSITIVOS — muy ampliado
+# FALSOS POSITIVOS
 # ─────────────────────────────────────────────────────────────────────
 FALSOS_POSITIVOS = [
-    # Resolución de incidentes
     "reabre", "restablece circulacion", "circulacion normal", "sin novedad",
     "se normaliza", "ya liberaron", "retiraron bloqueo", "fue detenido",
     "fueron detenidos", "capturan", "capturaron", "detienen banda",
-    # Histórico
     "simulacro", "en memoria", "aniversario", "recuerdan", "conmemoran",
     "hace 10 anos", "hace un ano", "archivo", "reportaje especial",
     "analisis de", "tendencias de", "estadisticas de", "ranking de",
-    # Finanzas y economía
     "cierre de mercado", "cierre bursatil", "bolsa de valores",
     "cierre de ano", "cierre fiscal", "cierre de operaciones",
     "cierre de empresa", "cierre de negocio", "cierre de planta",
@@ -272,39 +256,33 @@ FALSOS_POSITIVOS = [
     "importa", "comercio exterior", "finanzas", "presupuesto",
     "pension afore", "credito", "hipoteca", "deuda publica",
     "tipo de cambio", "banxico", "banco de mexico", "reforma fiscal",
-    # Política
     "eleccion", "candidato", "politico", "congreso", "senado", "diputado",
     "partido ", "morena", "pan ", "pri ", "gobierno federal anuncia",
-    # Deportes
     "futbol", "liga mx", "deportes", "beisbol", "basquetbol", "nfl", "nba",
     "champions league", "copa mx", "derrota", "victoria", "gol", "partido",
     "jugador", "equipo ", "tecnico ", "torneo", "atleta",
     "rayadas", "chivas", "america fc", "cruz azul", "pumas", "tigres",
-    # Entretenimiento
     "concierto", "festival", "espectaculo", "cine", "television",
     "serie de tv", "pelicula", "estreno", "netflix", "disney",
     "the boys", "amazon prime", "spotify", "cantante", "actor", "actriz",
-    # Salud
     "covid", "vacuna", "salud ", "hospital", "medico", "enfermedad",
     "sindrome", "padecimiento", "tratamiento medico", "clinica",
     "ovario poliquistico", "diabetes", "cancer", "obesidad",
-    # Inmobiliaria
     "inmobiliaria", "vivienda", "departamento", "construccion residencial",
-    # Tecnología
     "inteligencia artificial", "startup", "software", "hardware",
     "criptomoneda", "bitcoin", "nft", "metaverso",
-    # AIFA / aeropuerto (no es carretera)
     "aifa", "aeropuerto", "vuelo", "aerolinea", "terminal aerea",
     "pasajeros aereos", "pista de aterrizaje",
-    # Gastronomía
     "receta", "cocina", "gastronomia", "restaurante",
-    # Medio ambiente no vial
     "hidro sustentable", "ahorro de agua", "sustentabilidad ambiental",
     "distintivo", "certificacion", "premio", "reconocimiento",
+    "ciudadanos del", "mundial", "copa del mundo", "seleccion nacional",
+    "pide mexico a", "cancilleria", "embajada", "consulado",
+    "migrantes", "migracion", "refugiados",
 ]
 
 # ─────────────────────────────────────────────────────────────────────
-# KEYWORDS VIALES — primarios (incidente) + contexto (lugar)
+# KEYWORDS VIALES
 # ─────────────────────────────────────────────────────────────────────
 VIAL_CONTEXTO = [
     "carretera", "autopista", "capufe", "guardia nacional",
@@ -392,13 +370,6 @@ def clasificar(texto: str) -> str:
 
 
 def es_relevante(texto: str) -> bool:
-    """
-    Requiere:
-      1. Al menos UN keyword de evento vial
-      2. Al menos UN keyword de contexto carretero
-    Ambos deben estar presentes — evita noticias que solo mencionan
-    'accidente' o 'bloqueo' en contexto no vial.
-    """
     t = normalizar(texto)
     tiene_contexto = any(normalizar(k) in t for k in VIAL_CONTEXTO)
     tiene_evento   = any(normalizar(k) in t for k in VIAL_EVENTO)
@@ -558,9 +529,9 @@ def fetch_google_news() -> list[dict]:
             log.warning(f"  GNews sin respuesta: {query[:40]}")
             continue
 
-        feed = feedparser.parse(resp.text)
+        feed   = feedparser.parse(resp.text)
         nuevas = 0
-        rec = {"ventana": 0, "relevancia": 0, "falso_pos": 0, "dup": 0}
+        rec    = {"ventana": 0, "relevancia": 0, "falso_pos": 0, "dup": 0}
 
         for entry in feed.entries[:MAX_POR_FEED]:
             titulo  = limpiar(entry.get("title", ""))
@@ -749,37 +720,28 @@ def fetch_conagua() -> list[dict]:
 
 
 # ─────────────────────────────────────────────────────────────────────
-# FUENTE 5 — TELEGRAM (canales públicos de vialidad)
+# FUENTE 5 — TELEGRAM
 # ─────────────────────────────────────────────────────────────────────
 
 async def _fetch_telegram_async() -> list[dict]:
-    """
-    Lee mensajes recientes de canales públicos de Telegram.
-    Requiere TELEGRAM_API_ID, TELEGRAM_API_HASH y TELEGRAM_SESSION_STRING
-    configurados como secrets en GitHub Actions.
-    """
     alertas = []
 
-    if not all([TELEGRAM_API_ID, TELEGRAM_API_HASH, TELEGRAM_SESSION_STRING]):
+    api_id   = os.environ.get("TELEGRAM_API_ID", "")
+    api_hash = os.environ.get("TELEGRAM_API_HASH", "")
+    session  = os.environ.get("TELEGRAM_SESSION_STRING", "")
+
+    if not all([api_id, api_hash, session]):
         log.warning("  Telegram: credenciales no configuradas — omitiendo")
         return alertas
 
     try:
         from telethon import TelegramClient
         from telethon.sessions import StringSession
-        
-api_id   = os.environ.get("TELEGRAM_API_ID", "")
-api_hash = os.environ.get("TELEGRAM_API_HASH", "")
-session  = os.environ.get("TELEGRAM_SESSION_STRING", "")
 
-if not all([api_id, api_hash, session]):
-    log.warning("  Telegram: credenciales no configuradas — omitiendo")
-    return alertas
-
-client = TelegramClient(
-    StringSession(session),
-    int(api_id),
-    api_hash,
+        client = TelegramClient(
+            StringSession(session),
+            int(api_id),
+            api_hash,
         )
 
         await client.connect()
@@ -793,39 +755,27 @@ client = TelegramClient(
 
         for canal in TELEGRAM_CANALES:
             try:
-                entity = await client.get_entity(canal)
+                entity   = await client.get_entity(canal)
                 mensajes = await client.get_messages(entity, limit=50)
+                nuevas   = 0
 
-                nuevas = 0
                 for msg in mensajes:
                     if not msg.text:
                         continue
-
-                    # Verificar ventana de tiempo
                     msg_dt = msg.date
                     if msg_dt.tzinfo is None:
                         msg_dt = msg_dt.replace(tzinfo=timezone.utc)
-                    delta = ahora - msg_dt
-                    if delta.total_seconds() > LOOKBACK_MINUTES * 60:
+                    if (ahora - msg_dt).total_seconds() > LOOKBACK_MINUTES * 60:
                         continue
-
                     texto = msg.text.strip()
                     if len(texto) < 20:
                         continue
-
-                    if not es_relevante(texto):
+                    if not es_relevante(texto) or es_falso_positivo(texto):
                         continue
-
-                    if es_falso_positivo(texto):
-                        continue
-
                     dt_cst = msg_dt.astimezone(CST)
                     alertas.append(hacer_alerta(
-                        clasificar(texto),
-                        extraer_ruta(texto),
-                        texto[:500],
-                        extraer_rec(texto),
-                        fmt_fecha_dt(dt_cst),
+                        clasificar(texto), extraer_ruta(texto), texto[:500],
+                        extraer_rec(texto), fmt_fecha_dt(dt_cst),
                         f"Telegram @{canal}",
                         f"https://t.me/{canal}/{msg.id}",
                         texto,
@@ -833,7 +783,7 @@ client = TelegramClient(
                     nuevas += 1
 
                 log.info(f"  Telegram @{canal}: {nuevas} alertas")
-                await asyncio.sleep(0.5)  # cortesía con la API
+                await asyncio.sleep(0.5)
 
             except Exception as e:
                 log.warning(f"  Telegram @{canal}: {e}")
@@ -851,7 +801,6 @@ client = TelegramClient(
 
 
 def fetch_telegram() -> list[dict]:
-    """Wrapper síncrono para la función async de Telegram."""
     try:
         return asyncio.run(_fetch_telegram_async())
     except Exception as e:
@@ -936,7 +885,6 @@ def main():
     todas: list[dict] = []
     fuentes_usadas    = []
 
-    # ── Google News ───────────────────────────────────────────────
     log.info("► Google News RSS …")
     try:
         r = fetch_google_news(); todas.extend(r)
@@ -944,7 +892,6 @@ def main():
     except Exception as e:
         log.error(f"  Google News: {e}")
 
-    # ── Periódicos ────────────────────────────────────────────────
     if RUN_MODE in ("all", "media_only"):
         log.info("► RSS Periódicos nacionales …")
         try:
@@ -967,7 +914,6 @@ def main():
         except Exception as e:
             log.error(f"  RSS extra: {e}")
 
-    # ── Oficiales ─────────────────────────────────────────────────
     if RUN_MODE in ("all", "official_only"):
         log.info("► CAPUFE directo …")
         try:
@@ -983,8 +929,6 @@ def main():
         except Exception as e:
             log.error(f"  CONAGUA: {e}")
 
-    # ── Telegram ──────────────────────────────────────────────────
-    if RUN_MODE in ("all", "official_only"):
         log.info("► Telegram canales viales …")
         try:
             r = fetch_telegram(); todas.extend(r)
@@ -992,7 +936,6 @@ def main():
         except Exception as e:
             log.error(f"  Telegram: {e}")
 
-    # ── Dedup + salida ────────────────────────────────────────────
     antes = len(todas)
     todas = dedup(todas)
     log.info(
