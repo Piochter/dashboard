@@ -1,32 +1,47 @@
 {
-  "ultima_actualizacion": "2026-05-25T14:28:57.188240-06:00",
-  "ultima_actualizacion_legible": "25 de mayo de 2026 · 14:28 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-05-25T18:18:35.858896-06:00",
+  "ultima_actualizacion_legible": "25 de mayo de 2026 · 18:18 CST",
+  "total": 2,
   "ventana": "últimos 30 minutos",
   "fuentes": [
+    "Medios nacionales",
     "Medios regionales"
   ],
   "grupos": [
     {
-      "tipo": "bloqueo",
-      "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
-      "col2": false,
+      "tipo": "cierre_parcial",
+      "color": "amarillo",
+      "icono": "🟡",
+      "label": "CIERRE PARCIAL / ACCIDENTES",
+      "col2": true,
       "alertas": [
         {
-          "id": "8023db43",
-          "tipo": "bloqueo",
-          "ruta": "Rinden protesta 22 integrantes del Consejo Ciudadano de Morelia…",
-          "descripcion": "Rinden protesta 22 integrantes del Consejo Ciudadano de Morelia. No solo implica un cargo honorífico, sino una responsabilidad",
+          "id": "62d9f459",
+          "tipo": "cierre_parcial",
+          "ruta": "Bolsa Mexicana arranca la última semana de mayo 2026 con…",
+          "descripcion": "Bolsa Mexicana arranca la última semana de mayo 2026 con caída del 0.11 %. El mercado bursátil nacional encadena tres sesiones a la baja en una sesión marcada por el cierre de Wall Street por el Día de los Caídos",
           "recomendacion": "",
-          "fecha": "25 mayo 2026 · 14:06 CST",
-          "fecha_iso": "2026-05-25T14:06:00-06:00",
-          "fuente": "Quadratín Michoacán",
-          "url": "https://www.quadratin.com.mx/morelia/rinden-protesta-22-integrantes-del-consejo-ciudadano-de-morelia/",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
+          "fecha": "25 mayo 2026 · 18:07 CST",
+          "fecha_iso": "2026-05-25T18:07:00-06:00",
+          "fuente": "El Informador Jalisco",
+          "url": "https://www.informador.mx/economia/bolsa-mexicana-arranca-la-ultima-semana-de-mayo-2026-con-caida-del-0.11--20260525-0170.html",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        },
+        {
+          "id": "bbfc8de2",
+          "tipo": "cierre_parcial",
+          "ruta": "BMV pierde 0.11 % en último lunes de mayo; Wall…",
+          "descripcion": "BMV pierde 0.11 % en último lunes de mayo; Wall Street cierra por Día de los Caídos. La bolsa de Nueva York está cerrada este lunes, debido a la conmemoración por el Día de los Caídos.",
+          "recomendacion": "",
+          "fecha": "25 mayo 2026 · 17:52 CST",
+          "fecha_iso": "2026-05-25T17:52:00-06:00",
+          "fuente": "El Financiero",
+          "url": "https://www.elfinanciero.com.mx/mercados/2026/05/25/bmv-wall-street-25-de-mayo-de-2026/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
         }
       ]
     }
