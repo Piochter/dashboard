@@ -1,10 +1,7 @@
 name: 🚨 Alertas Viales — Scraper Automático
-
 on:
   schedule:
-    # GitHub Actions usa UTC. Cada 5 minutos es el mínimo permitido.
-    - cron: "*/5 * * * *"
-
+    - cron: "*/15 * * * *"
   workflow_dispatch:
     inputs:
       run_mode:
@@ -16,13 +13,11 @@ on:
           - all
           - official_only
           - media_only
-
       lookback_minutes:
         description: "Ventana de búsqueda en minutos"
         required: false
         default: "30"
         type: string
-
       accept_undated:
         description: "Aceptar fuentes sin fecha publicada"
         required: false
@@ -31,26 +26,25 @@ on:
 
 concurrency:
   group: alertas-scraper
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 permissions:
   contents: write
 
 env:
-  SCRAPER_RUN_MODE: ${{ github.event.inputs.run_mode || 'all' }}
-  SCRAPER_LOOKBACK_MINUTES: ${{ github.event.inputs.lookback_minutes || '30' }}
-  SCRAPER_OUTPUT_FILE: alertas.json
-  SCRAPER_DEDUPE_WINDOW_HOURS: "4"
-  SCRAPER_DEDUPE_KM_TOLERANCE: "5"
+  SCRAPER_RUN_MODE:               ${{ github.event.inputs.run_mode || 'all' }}
+  SCRAPER_LOOKBACK_MINUTES:       ${{ github.event.inputs.lookback_minutes || '30' }}
+  SCRAPER_OUTPUT_FILE:            alertas.json
+  SCRAPER_DEDUPE_WINDOW_HOURS:    "4"
+  SCRAPER_DEDUPE_KM_TOLERANCE:    "5"
   SCRAPER_OFFICIAL_MIN_CONFIDENCE: "0.85"
   SCRAPER_PROBABLE_MIN_CONFIDENCE: "0.60"
-  SCRAPER_ACCEPT_UNDATED: ${{ github.event.inputs.accept_undated || 'true' }}
+  SCRAPER_ACCEPT_UNDATED:         ${{ github.event.inputs.accept_undated || 'true' }}
 
 jobs:
   scrape:
     runs-on: ubuntu-latest
     timeout-minutes: 12
-
     steps:
       - name: ⬇️ Checkout
         uses: actions/checkout@v4
@@ -72,7 +66,10 @@ jobs:
 
       - name: 🔍 Ejecutar scraper
         env:
-          TWITTER_BEARER_TOKEN: ${{ secrets.TWITTER_BEARER_TOKEN }}
+          TWITTER_BEARER_TOKEN:     ${{ secrets.TWITTER_BEARER_TOKEN }}
+          TELEGRAM_API_ID:          ${{ secrets.TELEGRAM_API_ID }}
+          TELEGRAM_API_HASH:        ${{ secrets.TELEGRAM_API_HASH }}
+          TELEGRAM_SESSION_STRING:  ${{ secrets.TELEGRAM_SESSION_STRING }}
         run: python scraper/main.py
 
       - name: ✅ Validar alertas.json
@@ -85,8 +82,7 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: alertas-viales-output
-          path: |
-            alertas.json
+          path: alertas.json
           retention-days: 7
 
       - name: 💾 Commit alertas.json
@@ -95,7 +91,7 @@ jobs:
           git config user.name  "AlertasVialesBot"
 
           git add "$SCRAPER_OUTPUT_FILE"
-          git diff --staged --quiet && exit 0
+          git diff --staged --quiet && echo "Sin cambios en alertas.json" && exit 0
 
           git commit -m "🔄 Alertas: $(date -u '+%d-%b-%Y %H:%M UTC')"
 
@@ -107,5 +103,4 @@ jobs:
             git rebase origin/main
             sleep 3
           done
-
           [ "$PUSH_OK" -eq 1 ] || { echo "❌ Push falló en los 3 intentos"; exit 1; }
