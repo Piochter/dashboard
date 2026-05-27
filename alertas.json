@@ -1,10 +1,10 @@
 {
-  "ultima_actualizacion": "2026-05-26T15:16:16.820954-06:00",
-  "ultima_actualizacion_legible": "26 de mayo de 2026 · 15:16 CST",
+  "ultima_actualizacion": "2026-05-27T05:07:19.825881-06:00",
+  "ultima_actualizacion_legible": "27 de mayo de 2026 · 05:07 CST",
   "total": 1,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Medios nacionales"
+    "Medios regionales"
   ],
   "grupos": [
     {
@@ -15,37 +15,21 @@
       "col2": false,
       "alertas": [
         {
-          "id": "e97ec8aa",
+          "id": "6d758b01",
           "tipo": "bloqueo",
-          "ruta": "Canaco advierte pérdidas de 40 millones de pesos diarios con…",
-          "descripcion": "Canaco advierte pérdidas de 40 millones de pesos diarios con marchas de la CNTE. La Canaco advirtió sobre las severas afectaciones económicas provocadas por los bloqueos y el plantón instalado en el Centro Histórico.",
+          "ruta": "CNTE: ¿dónde habrá bloqueos hoy 27 de mayo?…",
+          "descripcion": "CNTE: ¿dónde habrá bloqueos hoy 27 de mayo?. Tras no llegar a un acuerdo con las autoridades federales, los maestros disidentes mantienen su plantón y alistan nuevos cierres viales este miércoles",
           "recomendacion": "",
-          "fecha": "26 mayo 2026 · 12:42 CST",
-          "fecha_iso": "2026-05-26T12:42:00-06:00",
-          "fuente": "24 Horas",
-          "url": "https://24-horas.mx/negocios/canaco-advierte-perdidas-de-40-millones-de-pesos-diarios-con-marchas-de-la-cnte/",
+          "fecha": "27 mayo 2026 · 03:35 CST",
+          "fecha_iso": "2026-05-27T03:35:00-06:00",
+          "fuente": "El Informador Jalisco",
+          "url": "https://www.informador.mx/mexico/cnte-donde-habra-bloqueos-hoy-27-de-mayo-20260527-0028.html",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 25.2,
-          "lon": -102.0
+          "badge_txt": "BLOQUEO"
         }
       ]
     }
   ],
-  "para_mapa": [
-    {
-      "id": "e97ec8aa",
-      "tipo": "bloqueo",
-      "ruta": "Canaco advierte pérdidas de 40 millones de pesos diarios con…",
-      "descripcion": "Canaco advierte pérdidas de 40 millones de pesos diarios con marchas de la CNTE. La Canaco advirtió sobre las severas afectaciones económicas provocadas por los bloqueos y el plantón instalado en el Centro Histórico.",
-      "fecha": "26 mayo 2026 · 12:42 CST",
-      "fuente": "24 Horas",
-      "url": "https://24-horas.mx/negocios/canaco-advierte-perdidas-de-40-millones-de-pesos-diarios-con-marchas-de-la-cnte/",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 25.2,
-      "lon": -102.0
-    }
-  ]
+  "para_mapa": []
 }
