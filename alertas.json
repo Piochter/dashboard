@@ -1,11 +1,12 @@
 {
-  "ultima_actualizacion": "2026-05-27T13:37:41.441934-06:00",
-  "ultima_actualizacion_legible": "27 de mayo de 2026 · 13:37 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-05-27T17:48:58.982625-06:00",
+  "ultima_actualizacion_legible": "27 de mayo de 2026 · 17:48 CST",
+  "total": 5,
   "ventana": "últimos 180 minutos",
   "fuentes": [
     "Medios regionales",
-    "Quadratín + regionales"
+    "Quadratín + regionales",
+    "Telegram"
   ],
   "grupos": [
     {
@@ -16,49 +17,162 @@
       "col2": false,
       "alertas": [
         {
-          "id": "bdf57898",
+          "id": "e9b27d00",
           "tipo": "bloqueo",
-          "ruta": "Continúa bloqueo en Celestún para exigir ampliación de carretera…",
-          "descripcion": "Continúa bloqueo en Celestún para exigir ampliación de carretera. Los manifestantes solicitan la presencia del gobernador Joaquín Díaz Mena para que se comprometa públicamente con la obra.",
+          "ruta": "Liberan algunos bloqueos en Oaxaca; continúa cierre en Tanivet…",
+          "descripcion": "Liberan algunos bloqueos en Oaxaca; continúa cierre en Tanivet. La Policía Vial reportó reapertura parcial de carreteras",
           "recomendacion": "",
-          "fecha": "27 mayo 2026 · 13:16 CST",
-          "fecha_iso": "2026-05-27T13:16:00-06:00",
+          "fecha": "27 mayo 2026 · 17:06 CST",
+          "fecha_iso": "2026-05-27T17:06:00-06:00",
           "fuente": "Quadratín Oaxaca",
-          "url": "https://oaxaca.quadratin.com.mx/continua-bloqueo-en-celestun-para-exigir-ampliacion-de-carretera/",
+          "url": "https://oaxaca.quadratin.com.mx/liberan-algunos-bloqueos-en-oaxaca-continua-cierre-en-tanivet/",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
+          "badge_txt": "BLOQUEO",
+          "lat": 17.06,
+          "lon": -96.72
         },
         {
-          "id": "ce6e4554",
+          "id": "c3305a7b",
           "tipo": "bloqueo",
-          "ruta": "Dispersan con disparos bloqueo de docentes en Mitla…",
-          "descripcion": "Dispersan con disparos bloqueo de docentes en Mitla. La Sección 22 suspendió la mesa de negociación",
+          "ruta": "Pausa CNTE negociación con Segob tras desalojo de maestros en…",
+          "descripcion": "Pausa CNTE negociación con Segob tras desalojo de maestros en Oaxaca, pero siguen bloqueos. Un violento desalojo civil a balazos contra docentes en las carreteras de Oaxaca trasladó la tensión del magisterio hasta la capital del país, estrangulando accesos clave.",
           "recomendacion": "",
-          "fecha": "27 mayo 2026 · 13:10 CST",
-          "fecha_iso": "2026-05-27T13:10:00-06:00",
-          "fuente": "Quadratín Oaxaca",
-          "url": "https://oaxaca.quadratin.com.mx/dispersan-con-disparos-bloqueo-de-docentes-en-mitla/",
+          "fecha": "27 mayo 2026 · 16:59 CST",
+          "fecha_iso": "2026-05-27T16:59:00-06:00",
+          "fuente": "AM Guanajuato",
+          "url": "https://www.am.com.mx/nacional/2026/05/27/pausa-cnte-negociacion-con-segob-tras-desalojo-de-maestros-en-oaxaca-pero-siguen-bloqueos-1799061.html",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
+          "badge_txt": "BLOQUEO",
+          "lat": 17.06,
+          "lon": -96.72
         },
         {
-          "id": "124e8cbd",
+          "id": "a60e1a21",
           "tipo": "bloqueo",
-          "ruta": "Llaman a visibilizar la Lengua de Señas Mexicana en la…",
-          "descripcion": "Llaman a visibilizar la Lengua de Señas Mexicana en la CEDH. En el cusro participaron 50 servidores de la CEDH",
+          "ruta": "Amarran en Oaxaca a maestras que participaban en bloqueo…",
+          "descripcion": "Amarran en Oaxaca a maestras que participaban en bloqueo. OAXACA, Oax. 27 de mayo de 2026.- Tres maestras de la Sección 22 de la CNTE fueron retenidas y amarradas durante el enfrentamiento ocurrido este miércoles en San Pablo Villa de Mitla, donde pobladores y personas armadas dispersaron el bloqueo magisterial instalado sobre la carretera federal 190. Imágenes difundidas tras los hechos muestran a docentes […]",
           "recomendacion": "",
-          "fecha": "27 mayo 2026 · 12:39 CST",
-          "fecha_iso": "2026-05-27T12:39:00-06:00",
-          "fuente": "Quadratín Michoacán",
-          "url": "https://www.quadratin.com.mx/educativas/llaman-a-visibilizar-la-lengua-de-senas-mexicana-en-la-cedh/",
+          "fecha": "27 mayo 2026 · 16:54 CST",
+          "fecha_iso": "2026-05-27T16:54:00-06:00",
+          "fuente": "Quadratín Guerrero",
+          "url": "https://guerrero.quadratin.com.mx/amarran-en-oaxaca-a-maestras-que-participaban-en-bloqueo/",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
+          "badge_txt": "BLOQUEO",
+          "lat": 16.75,
+          "lon": -93.12
+        },
+        {
+          "id": "6e4a26ca",
+          "tipo": "bloqueo",
+          "ruta": "Instalan en Sevina Base Permanente de Operaciones Interinstitucionales https://www.jornada.com.mx/2026/05/27/estados/030n3est?partner=rss Morelia,…",
+          "descripcion": "Instalan en Sevina Base Permanente de Operaciones Interinstitucionales\nhttps://www.jornada.com.mx/2026/05/27/estados/030n3est?partner=rss\n\nMorelia, Mich., Autoridades estatales de Michoacán instalaron antier en la noche una Base Permanente de Operaciones Interinstitucionales en la comunidad de Sevina, municipio de Nahuatzen, como parte de un acuerdo entre funcionarios y representantes del pueblo purépecha, luego de la protesta que éstos realizaron en Morelia ese día por la mañana, informó el dir",
+          "recomendacion": "",
+          "fecha": "27 mayo 2026 · 15:15 CST",
+          "fecha_iso": "2026-05-27T15:15:00-06:00",
+          "fuente": "Telegram @NOTMEX",
+          "url": "https://t.me/NOTMEX/183498",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 19.7,
+          "lon": -101.19
+        }
+      ]
+    },
+    {
+      "tipo": "cierre_parcial",
+      "color": "amarillo",
+      "icono": "🟡",
+      "label": "CIERRE PARCIAL / ACCIDENTES",
+      "col2": true,
+      "alertas": [
+        {
+          "id": "113e1d84",
+          "tipo": "cierre_parcial",
+          "ruta": "Destaca García Harfuch reducción de 50% en homicidios en Jalisco…",
+          "descripcion": "Destaca García Harfuch reducción de 50% en homicidios en Jalisco. Es el resultado de la estrategia de coordinación entre los tres niveles de Gobierno.",
+          "recomendacion": "",
+          "fecha": "27 mayo 2026 · 17:14 CST",
+          "fecha_iso": "2026-05-27T17:14:00-06:00",
+          "fuente": "Quadratín Jalisco",
+          "url": "https://jalisco.quadratin.com.mx/principal/destaca-garcia-harfuch-reduccion-de-50-en-homicidios-en-jalisco/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 20.66,
+          "lon": -103.35
         }
       ]
     }
   ],
-  "para_mapa": []
+  "para_mapa": [
+    {
+      "id": "113e1d84",
+      "tipo": "cierre_parcial",
+      "ruta": "Destaca García Harfuch reducción de 50% en homicidios en Jalisco…",
+      "descripcion": "Destaca García Harfuch reducción de 50% en homicidios en Jalisco. Es el resultado de la estrategia de coordinación entre los tres niveles de Gobierno.",
+      "fecha": "27 mayo 2026 · 17:14 CST",
+      "fuente": "Quadratín Jalisco",
+      "url": "https://jalisco.quadratin.com.mx/principal/destaca-garcia-harfuch-reduccion-de-50-en-homicidios-en-jalisco/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 20.66,
+      "lon": -103.35
+    },
+    {
+      "id": "e9b27d00",
+      "tipo": "bloqueo",
+      "ruta": "Liberan algunos bloqueos en Oaxaca; continúa cierre en Tanivet…",
+      "descripcion": "Liberan algunos bloqueos en Oaxaca; continúa cierre en Tanivet. La Policía Vial reportó reapertura parcial de carreteras",
+      "fecha": "27 mayo 2026 · 17:06 CST",
+      "fuente": "Quadratín Oaxaca",
+      "url": "https://oaxaca.quadratin.com.mx/liberan-algunos-bloqueos-en-oaxaca-continua-cierre-en-tanivet/",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 17.06,
+      "lon": -96.72
+    },
+    {
+      "id": "c3305a7b",
+      "tipo": "bloqueo",
+      "ruta": "Pausa CNTE negociación con Segob tras desalojo de maestros en…",
+      "descripcion": "Pausa CNTE negociación con Segob tras desalojo de maestros en Oaxaca, pero siguen bloqueos. Un violento desalojo civil a balazos contra docentes en las carreteras de Oaxaca trasladó la tensión del magisterio hasta la capital del país, estrangulando accesos clave.",
+      "fecha": "27 mayo 2026 · 16:59 CST",
+      "fuente": "AM Guanajuato",
+      "url": "https://www.am.com.mx/nacional/2026/05/27/pausa-cnte-negociacion-con-segob-tras-desalojo-de-maestros-en-oaxaca-pero-siguen-bloqueos-1799061.html",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 17.06,
+      "lon": -96.72
+    },
+    {
+      "id": "a60e1a21",
+      "tipo": "bloqueo",
+      "ruta": "Amarran en Oaxaca a maestras que participaban en bloqueo…",
+      "descripcion": "Amarran en Oaxaca a maestras que participaban en bloqueo. OAXACA, Oax. 27 de mayo de 2026.- Tres maestras de la Sección 22 de la CNTE fueron retenidas y amarradas durante el enfrentamiento ocurrido este miércoles en San Pablo Villa de Mitla, donde pobladores y personas armadas dispersaron el bloqueo magisterial instalado sobre la carretera federal 190. Imágenes difundidas tras los hechos muestran a docentes […]",
+      "fecha": "27 mayo 2026 · 16:54 CST",
+      "fuente": "Quadratín Guerrero",
+      "url": "https://guerrero.quadratin.com.mx/amarran-en-oaxaca-a-maestras-que-participaban-en-bloqueo/",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 16.75,
+      "lon": -93.12
+    },
+    {
+      "id": "6e4a26ca",
+      "tipo": "bloqueo",
+      "ruta": "Instalan en Sevina Base Permanente de Operaciones Interinstitucionales https://www.jornada.com.mx/2026/05/27/estados/030n3est?partner=rss Morelia,…",
+      "descripcion": "Instalan en Sevina Base Permanente de Operaciones Interinstitucionales\nhttps://www.jornada.com.mx/2026/05/27/estados/030n3est?partner=rss\n\nMorelia, Mich., Autoridades estatales de Michoacán instalaron antier en la noche una Base Permanente de Operaciones Interinstitucionales en la comunidad de Sevina, municipio de Nahuatzen, como parte de un acuerdo entre funcionarios y representantes del pueblo purépecha, luego de la protesta que éstos realizaron en Morelia ese día por la mañana, informó el dir",
+      "fecha": "27 mayo 2026 · 15:15 CST",
+      "fuente": "Telegram @NOTMEX",
+      "url": "https://t.me/NOTMEX/183498",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 19.7,
+      "lon": -101.19
+    }
+  ]
 }
