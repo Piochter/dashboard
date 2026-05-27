@@ -1,10 +1,11 @@
 {
-  "ultima_actualizacion": "2026-05-27T05:07:19.825881-06:00",
-  "ultima_actualizacion_legible": "27 de mayo de 2026 · 05:07 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-05-27T13:37:41.441934-06:00",
+  "ultima_actualizacion_legible": "27 de mayo de 2026 · 13:37 CST",
+  "total": 3,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Medios regionales"
+    "Medios regionales",
+    "Quadratín + regionales"
   ],
   "grupos": [
     {
@@ -15,15 +16,43 @@
       "col2": false,
       "alertas": [
         {
-          "id": "6d758b01",
+          "id": "bdf57898",
           "tipo": "bloqueo",
-          "ruta": "CNTE: ¿dónde habrá bloqueos hoy 27 de mayo?…",
-          "descripcion": "CNTE: ¿dónde habrá bloqueos hoy 27 de mayo?. Tras no llegar a un acuerdo con las autoridades federales, los maestros disidentes mantienen su plantón y alistan nuevos cierres viales este miércoles",
+          "ruta": "Continúa bloqueo en Celestún para exigir ampliación de carretera…",
+          "descripcion": "Continúa bloqueo en Celestún para exigir ampliación de carretera. Los manifestantes solicitan la presencia del gobernador Joaquín Díaz Mena para que se comprometa públicamente con la obra.",
           "recomendacion": "",
-          "fecha": "27 mayo 2026 · 03:35 CST",
-          "fecha_iso": "2026-05-27T03:35:00-06:00",
-          "fuente": "El Informador Jalisco",
-          "url": "https://www.informador.mx/mexico/cnte-donde-habra-bloqueos-hoy-27-de-mayo-20260527-0028.html",
+          "fecha": "27 mayo 2026 · 13:16 CST",
+          "fecha_iso": "2026-05-27T13:16:00-06:00",
+          "fuente": "Quadratín Oaxaca",
+          "url": "https://oaxaca.quadratin.com.mx/continua-bloqueo-en-celestun-para-exigir-ampliacion-de-carretera/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
+        {
+          "id": "ce6e4554",
+          "tipo": "bloqueo",
+          "ruta": "Dispersan con disparos bloqueo de docentes en Mitla…",
+          "descripcion": "Dispersan con disparos bloqueo de docentes en Mitla. La Sección 22 suspendió la mesa de negociación",
+          "recomendacion": "",
+          "fecha": "27 mayo 2026 · 13:10 CST",
+          "fecha_iso": "2026-05-27T13:10:00-06:00",
+          "fuente": "Quadratín Oaxaca",
+          "url": "https://oaxaca.quadratin.com.mx/dispersan-con-disparos-bloqueo-de-docentes-en-mitla/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
+        {
+          "id": "124e8cbd",
+          "tipo": "bloqueo",
+          "ruta": "Llaman a visibilizar la Lengua de Señas Mexicana en la…",
+          "descripcion": "Llaman a visibilizar la Lengua de Señas Mexicana en la CEDH. En el cusro participaron 50 servidores de la CEDH",
+          "recomendacion": "",
+          "fecha": "27 mayo 2026 · 12:39 CST",
+          "fecha_iso": "2026-05-27T12:39:00-06:00",
+          "fuente": "Quadratín Michoacán",
+          "url": "https://www.quadratin.com.mx/educativas/llaman-a-visibilizar-la-lengua-de-senas-mexicana-en-la-cedh/",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO"
