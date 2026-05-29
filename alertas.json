@@ -1,36 +1,12 @@
 {
-  "ultima_actualizacion": "2026-05-28T15:19:25.647274-06:00",
-  "ultima_actualizacion_legible": "28 de mayo de 2026 · 15:19 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-05-29T04:58:46.732009-06:00",
+  "ultima_actualizacion_legible": "29 de mayo de 2026 · 04:58 CST",
+  "total": 1,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Google News",
-    "Medios nacionales"
+    "Medios regionales"
   ],
   "grupos": [
-    {
-      "tipo": "bloqueo",
-      "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "c5bbd532",
-          "tipo": "bloqueo",
-          "ruta": "CNTE bloquea circulación de Circuito Interior en ambos sentidos…",
-          "descripcion": "CNTE bloquea circulación de Circuito Interior en ambos sentidos. Miembros de la CNTE Implementan un bloqueo en ambos sentidos de Circuito Interior, a la altura de Paseo de la Reforma.",
-          "recomendacion": "",
-          "fecha": "28 mayo 2026 · 12:22 CST",
-          "fecha_iso": "2026-05-28T12:22:00-06:00",
-          "fuente": "24 Horas",
-          "url": "https://24-horas.mx/cdmx/cnte-bloquea-circulacion-de-circuito-interior-en-ambos-sentidos/",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        }
-      ]
-    },
     {
       "tipo": "cierre_parcial",
       "color": "amarillo",
@@ -39,37 +15,37 @@
       "col2": true,
       "alertas": [
         {
-          "id": "d3d44e8e",
+          "id": "858f480c",
           "tipo": "cierre_parcial",
-          "ruta": "carretera Tabasco-Campeche - TV Azteca",
-          "descripcion": "¿Vas a salir? Reportan cierre parcial por percance vial en la carretera Tabasco-Campeche - TV Azteca. ¿Vas a salir? Reportan cierre parcial por percance vial en la carretera Tabasco-Campeche TV Azteca",
+          "ruta": "Alerta por accidentes de moto en Guanajuato: 86 muertes y…",
+          "descripcion": "Alerta por accidentes de moto en Guanajuato: 86 muertes y más de 5 mil lesionados este 2026. León e Irapuato concentran los mayores índices de letalidad y lesiones en percances de dos ruedas al inicio del año.",
           "recomendacion": "",
-          "fecha": "28 mayo 2026 · 14:18 CST",
-          "fecha_iso": "2026-05-28T14:18:00-06:00",
-          "fuente": "TV Azteca",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUGFxR0lfODl6eXZrQTU2bk1MRmtVMTFIOURncW9YQ05JTUJGeldlZlhTdEc2ZVdvQ3VESXMzTGVQQUk4dkF3WndET0szRkZFUDczQzgwTTNBd2lsVU40S29ORTBSZzcwY1Utc2VwYXRfSGNDcXNPM1liUEdLZlNKNTRDZDlETmtZZlJBV3A3X3J5UElSQ0x6bjZlSFNsX2MzUHVSY0VSVk9TbWY5QjZiWVJqbktRNXNRNTJmWEFOT3jSAc4BQVVfeXFMTkVqaG43cEdqendHUS1nLUVXRFpaSkRRZDB0aTFqQ1RRZlAyd3NRVTdlY0hQWVVpMTVpcU9xN0JzeWtoc3RHMURzSnNNS1NWTDl1TUliYXpPUjZWejN3TnhLT2dvR2ZQd216Yk5lNTlUX3Y4RzhPTXU1cmh5R293UVNORXZZZWFFRW44ZUJiTlZYMjNfOVRhYmZ6YUJZbFRHczVrcjFrd3BTdWlDZm5uZXIxbk5xQU9KLW9DWWFuVGY5T1IwOUNyWUtOb1U0dEE?oc=5",
+          "fecha": "29 mayo 2026 · 04:04 CST",
+          "fecha_iso": "2026-05-29T04:04:00-06:00",
+          "fuente": "AM Guanajuato",
+          "url": "https://www.am.com.mx/guanajuato/2026/05/29/alerta-por-accidentes-de-moto-en-guanajuato-86-muertes-y-mas-de-5-mil-lesionados-este-2026-1799647.html",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL",
-          "lat": 17.99,
-          "lon": -92.93
+          "lat": 21.02,
+          "lon": -101.26
         }
       ]
     }
   ],
   "para_mapa": [
     {
-      "id": "d3d44e8e",
+      "id": "858f480c",
       "tipo": "cierre_parcial",
-      "ruta": "carretera Tabasco-Campeche - TV Azteca",
-      "descripcion": "¿Vas a salir? Reportan cierre parcial por percance vial en la carretera Tabasco-Campeche - TV Azteca. ¿Vas a salir? Reportan cierre parcial por percance vial en la carretera Tabasco-Campeche TV Azteca",
-      "fecha": "28 mayo 2026 · 14:18 CST",
-      "fuente": "TV Azteca",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUGFxR0lfODl6eXZrQTU2bk1MRmtVMTFIOURncW9YQ05JTUJGeldlZlhTdEc2ZVdvQ3VESXMzTGVQQUk4dkF3WndET0szRkZFUDczQzgwTTNBd2lsVU40S29ORTBSZzcwY1Utc2VwYXRfSGNDcXNPM1liUEdLZlNKNTRDZDlETmtZZlJBV3A3X3J5UElSQ0x6bjZlSFNsX2MzUHVSY0VSVk9TbWY5QjZiWVJqbktRNXNRNTJmWEFOT3jSAc4BQVVfeXFMTkVqaG43cEdqendHUS1nLUVXRFpaSkRRZDB0aTFqQ1RRZlAyd3NRVTdlY0hQWVVpMTVpcU9xN0JzeWtoc3RHMURzSnNNS1NWTDl1TUliYXpPUjZWejN3TnhLT2dvR2ZQd216Yk5lNTlUX3Y4RzhPTXU1cmh5R293UVNORXZZZWFFRW44ZUJiTlZYMjNfOVRhYmZ6YUJZbFRHczVrcjFrd3BTdWlDZm5uZXIxbk5xQU9KLW9DWWFuVGY5T1IwOUNyWUtOb1U0dEE?oc=5",
+      "ruta": "Alerta por accidentes de moto en Guanajuato: 86 muertes y…",
+      "descripcion": "Alerta por accidentes de moto en Guanajuato: 86 muertes y más de 5 mil lesionados este 2026. León e Irapuato concentran los mayores índices de letalidad y lesiones en percances de dos ruedas al inicio del año.",
+      "fecha": "29 mayo 2026 · 04:04 CST",
+      "fuente": "AM Guanajuato",
+      "url": "https://www.am.com.mx/guanajuato/2026/05/29/alerta-por-accidentes-de-moto-en-guanajuato-86-muertes-y-mas-de-5-mil-lesionados-este-2026-1799647.html",
       "dot_color": "#e67e22",
       "badge_txt": "CIERRE PARCIAL",
-      "lat": 17.99,
-      "lon": -92.93
+      "lat": 21.02,
+      "lon": -101.26
     }
   ]
 }
