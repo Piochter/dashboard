@@ -1,35 +1,12 @@
 {
-  "ultima_actualizacion": "2026-05-29T18:01:31.939983-06:00",
-  "ultima_actualizacion_legible": "29 de mayo de 2026 · 18:01 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-05-30T03:06:57.137962-06:00",
+  "ultima_actualizacion_legible": "30 de mayo de 2026 · 03:06 CST",
+  "total": 0,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Medios regionales"
+    "Google News"
   ],
-  "grupos": [
-    {
-      "tipo": "bloqueo",
-      "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "9d288a3e",
-          "tipo": "bloqueo",
-          "ruta": "Concluye Cobaem con éxito la 42 Jornada Estatal…",
-          "descripcion": "Concluye Cobaem con éxito la 42 Jornada Estatal. Más de 2 mil 500 estudiantes participaron en actividades",
-          "recomendacion": "",
-          "fecha": "29 mayo 2026 · 16:53 CST",
-          "fecha_iso": "2026-05-29T16:53:00-06:00",
-          "fuente": "Quadratín Michoacán",
-          "url": "https://www.quadratin.com.mx/educativas/concluye-cobaem-con-exito-la-42-jornada-estatal/",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        }
-      ]
-    }
-  ],
-  "para_mapa": []
+  "grupos": [],
+  "para_mapa": [],
+  "nota": "Sin alertas activas en la ventana de tiempo configurada."
 }
