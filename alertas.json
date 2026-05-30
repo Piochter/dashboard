@@ -1,11 +1,10 @@
 {
-  "ultima_actualizacion": "2026-05-29T13:57:14.944714-06:00",
-  "ultima_actualizacion_legible": "29 de mayo de 2026 · 13:57 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-05-29T18:01:31.939983-06:00",
+  "ultima_actualizacion_legible": "29 de mayo de 2026 · 18:01 CST",
+  "total": 1,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Medios regionales",
-    "Telegram"
+    "Medios regionales"
   ],
   "grupos": [
     {
@@ -16,31 +15,15 @@
       "col2": false,
       "alertas": [
         {
-          "id": "721487d3",
+          "id": "9d288a3e",
           "tipo": "bloqueo",
-          "ruta": "Rinde protesta Consejo Directivo 2026-2027 de Canaco Servytur Morelia…",
-          "descripcion": "Rinde protesta Consejo Directivo 2026-2027 de Canaco Servytur Morelia. Morelia concentra más del 34% del valor económico de Michoacán",
+          "ruta": "Concluye Cobaem con éxito la 42 Jornada Estatal…",
+          "descripcion": "Concluye Cobaem con éxito la 42 Jornada Estatal. Más de 2 mil 500 estudiantes participaron en actividades",
           "recomendacion": "",
-          "fecha": "29 mayo 2026 · 13:20 CST",
-          "fecha_iso": "2026-05-29T13:20:00-06:00",
+          "fecha": "29 mayo 2026 · 16:53 CST",
+          "fecha_iso": "2026-05-29T16:53:00-06:00",
           "fuente": "Quadratín Michoacán",
-          "url": "https://www.quadratin.com.mx/economia/rinde-protesta-consejo-directivo-2026-2027-de-canaco-servytur-morelia/",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 19.7,
-          "lon": -101.19
-        },
-        {
-          "id": "d7651327",
-          "tipo": "bloqueo",
-          "ruta": "⚠️Manifestantes toman caseta de #Tepotzotlán para exigir la localización de…",
-          "descripcion": "⚠️Manifestantes toman caseta de #Tepotzotlán para exigir la localización de joven desaparecida\n\nhttps://lajornadaestadodemexico.com/manifestantes-toman-caseta-de-tepotzotlan-para-exigir-la-localizacion-de-joven-desaparecida/",
-          "recomendacion": "",
-          "fecha": "29 mayo 2026 · 11:13 CST",
-          "fecha_iso": "2026-05-29T11:13:00-06:00",
-          "fuente": "Telegram @jornadaedomex",
-          "url": "https://t.me/jornadaedomex/10848",
+          "url": "https://www.quadratin.com.mx/educativas/concluye-cobaem-con-exito-la-42-jornada-estatal/",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO"
@@ -48,19 +31,5 @@
       ]
     }
   ],
-  "para_mapa": [
-    {
-      "id": "721487d3",
-      "tipo": "bloqueo",
-      "ruta": "Rinde protesta Consejo Directivo 2026-2027 de Canaco Servytur Morelia…",
-      "descripcion": "Rinde protesta Consejo Directivo 2026-2027 de Canaco Servytur Morelia. Morelia concentra más del 34% del valor económico de Michoacán",
-      "fecha": "29 mayo 2026 · 13:20 CST",
-      "fuente": "Quadratín Michoacán",
-      "url": "https://www.quadratin.com.mx/economia/rinde-protesta-consejo-directivo-2026-2027-de-canaco-servytur-morelia/",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 19.7,
-      "lon": -101.19
-    }
-  ]
+  "para_mapa": []
 }
