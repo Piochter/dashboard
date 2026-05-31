@@ -1,12 +1,75 @@
 {
-  "ultima_actualizacion": "2026-05-31T04:03:38.923522-06:00",
-  "ultima_actualizacion_legible": "31 de mayo de 2026 · 04:03 CST",
-  "total": 0,
+  "ultima_actualizacion": "2026-05-31T09:09:19.422725-06:00",
+  "ultima_actualizacion_legible": "31 de mayo de 2026 · 09:09 CST",
+  "total": 2,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Google News"
+    "Google News",
+    "Medios regionales"
   ],
-  "grupos": [],
-  "para_mapa": [],
-  "nota": "Sin alertas activas en la ventana de tiempo configurada."
+  "grupos": [
+    {
+      "tipo": "bloqueo",
+      "color": "rojo",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "57c8428f",
+          "tipo": "bloqueo",
+          "ruta": "Bloqueos carreteras HOY 31 de mayo: Autopistas cerradas en México,…",
+          "descripcion": "Bloqueos carreteras HOY 31 de mayo: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 31 de mayo: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
+          "recomendacion": "",
+          "fecha": "31 mayo 2026 · 08:42 CST",
+          "fecha_iso": "2026-05-31T08:42:00-06:00",
+          "fuente": "Eje Central",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOWGk1VWlhUWlPUXpnS3RiZ0tmWldUYXV3aWRjcXBCeGZmNld6NUt3c3JGSXdWQXBUM3VaUDR0VjN1MC01cS1jUWJKOUI1Q00zeE4zczczU3VHb0dEY1FhaU5tU2ZUMEkwYVBjZWNMR0ZaM29QdXhfMmlKcXhiREJZTDBjZ0xWNWg5YnR2bXVpN19VOGJBX1Q3WExLVHJyMUNLWTI2eEhLMkQza0x1bFlNc29uemdGa3p2MmFzaF9iNW9mVHExeFRxSUlCTnZVS3Z3bzhOaDdMcWtvSW5GN0dtMkpwX3U0QQ?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        }
+      ]
+    },
+    {
+      "tipo": "robo",
+      "color": "rojo",
+      "icono": "🚨",
+      "label": "ROBOS EN CARRETERA",
+      "col2": true,
+      "alertas": [
+        {
+          "id": "b8fa1230",
+          "tipo": "robo",
+          "ruta": "Barrio de San José, bajo asedio: Comerciantes de Irapuato alertan…",
+          "descripcion": "Barrio de San José, bajo asedio: Comerciantes de Irapuato alertan por ola de robos nocturnos. Locatarios del Mercado Hidalgo y vialidades aledañas exigen patrullaje de la Policía Municipal ante robos cometidos por las azoteas.",
+          "recomendacion": "",
+          "fecha": "31 mayo 2026 · 09:02 CST",
+          "fecha_iso": "2026-05-31T09:02:00-06:00",
+          "fuente": "AM Guanajuato",
+          "url": "https://www.am.com.mx/irapuato/2026/05/31/denuncian-comerciantes-incremento-de-robos-a-negocios-en-el-barrio-de-san-jose-en-irapuato-1800564.html",
+          "dot_color": "#c0392b",
+          "badge": "badge-robo",
+          "badge_txt": "ROBO",
+          "lat": 20.11,
+          "lon": -98.73
+        }
+      ]
+    }
+  ],
+  "para_mapa": [
+    {
+      "id": "b8fa1230",
+      "tipo": "robo",
+      "ruta": "Barrio de San José, bajo asedio: Comerciantes de Irapuato alertan…",
+      "descripcion": "Barrio de San José, bajo asedio: Comerciantes de Irapuato alertan por ola de robos nocturnos. Locatarios del Mercado Hidalgo y vialidades aledañas exigen patrullaje de la Policía Municipal ante robos cometidos por las azoteas.",
+      "fecha": "31 mayo 2026 · 09:02 CST",
+      "fuente": "AM Guanajuato",
+      "url": "https://www.am.com.mx/irapuato/2026/05/31/denuncian-comerciantes-incremento-de-robos-a-negocios-en-el-barrio-de-san-jose-en-irapuato-1800564.html",
+      "dot_color": "#c0392b",
+      "badge_txt": "ROBO",
+      "lat": 20.11,
+      "lon": -98.73
+    }
+  ]
 }
