@@ -1,35 +1,89 @@
 {
-  "ultima_actualizacion": "2026-05-31T13:53:11.652642-06:00",
-  "ultima_actualizacion_legible": "31 de mayo de 2026 · 13:53 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-05-31T17:46:52.092346-06:00",
+  "ultima_actualizacion_legible": "31 de mayo de 2026 · 17:46 CST",
+  "total": 3,
   "ventana": "últimos 180 minutos",
   "fuentes": [
+    "Medios regionales",
     "Quadratín + regionales"
   ],
   "grupos": [
     {
-      "tipo": "robo",
+      "tipo": "cierre_total",
       "color": "rojo",
-      "icono": "🚨",
-      "label": "ROBOS EN CARRETERA",
-      "col2": true,
+      "icono": "🔴",
+      "label": "CIERRE TOTAL",
+      "col2": false,
       "alertas": [
         {
-          "id": "1524c9b5",
-          "tipo": "robo",
-          "ruta": "Detienen a 4 presuntos responsables de robos por 94 mil…",
-          "descripcion": "Detienen a 4 presuntos responsables de robos por 94 mil 690 pesos. Los hechos fueron reportados, por lo que se activaron de inmediato los protocolos de investigación para esclarecer los delitos",
+          "id": "b02507fb",
+          "tipo": "cierre_total",
+          "ruta": "Muere un hombre tras salir proyectado en violenta volcadura en…",
+          "descripcion": "Muere un hombre tras salir proyectado en violenta volcadura en la Maravillas-Nuevo Mexiquito. Conductor de una camioneta Silverado sale proyectado tras perder el control del vehículo en el kilómetro 2+400; un joven de 18 años sobrevive.",
           "recomendacion": "",
-          "fecha": "31 mayo 2026 · 12:09 CST",
-          "fecha_iso": "2026-05-31T12:09:00-06:00",
-          "fuente": "Quadratín Oaxaca",
-          "url": "https://oaxaca.quadratin.com.mx/detienen-a-4-personas-por-presuntos-robos-en-comercios/",
-          "dot_color": "#c0392b",
-          "badge": "badge-robo",
-          "badge_txt": "ROBO"
+          "fecha": "31 mayo 2026 · 16:02 CST",
+          "fecha_iso": "2026-05-31T16:02:00-06:00",
+          "fuente": "AM Guanajuato",
+          "url": "https://www.am.com.mx/guanajuato/2026/05/31/muere-un-hombre-tras-salir-proyectado-en-violenta-volcadura-en-la-maravillas-nuevo-mexiquito-1800659.html",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL",
+          "lat": 25.2,
+          "lon": -102.0
+        }
+      ]
+    },
+    {
+      "tipo": "bloqueo",
+      "color": "rojo",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "c69c43c6",
+          "tipo": "bloqueo",
+          "ruta": "Atentan contra un hombre en Maltrata…",
+          "descripcion": "Atentan contra un hombre en Maltrata. Perdió la vida luego de recibir más de 10 disparos",
+          "recomendacion": "",
+          "fecha": "31 mayo 2026 · 16:14 CST",
+          "fecha_iso": "2026-05-31T16:14:00-06:00",
+          "fuente": "Quadratín Veracruz",
+          "url": "https://veracruz.quadratin.com.mx/atentan-contra-hombre-en-maltrata/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
+        {
+          "id": "63db77c5",
+          "tipo": "bloqueo",
+          "ruta": "Su último viaje: Alfredo muere de un infarto mientras manejaba…",
+          "descripcion": "Su último viaje: Alfredo muere de un infarto mientras manejaba su taxi en León; se estrella contra poste. Conductor de 43 años sufre paro cardíaco al volante y colisiona su unidad en el cruce de las calles Fresno de Medina y Del Sol.",
+          "recomendacion": "",
+          "fecha": "31 mayo 2026 · 15:02 CST",
+          "fecha_iso": "2026-05-31T15:02:00-06:00",
+          "fuente": "AM Guanajuato",
+          "url": "https://www.am.com.mx/leon/2026/05/31/su-ultimo-viaje-alfredo-muere-de-un-infarto-mientras-manejaba-su-taxi-se-estrella-contra-poste-1800640.html",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
         }
       ]
     }
   ],
-  "para_mapa": []
+  "para_mapa": [
+    {
+      "id": "b02507fb",
+      "tipo": "cierre_total",
+      "ruta": "Muere un hombre tras salir proyectado en violenta volcadura en…",
+      "descripcion": "Muere un hombre tras salir proyectado en violenta volcadura en la Maravillas-Nuevo Mexiquito. Conductor de una camioneta Silverado sale proyectado tras perder el control del vehículo en el kilómetro 2+400; un joven de 18 años sobrevive.",
+      "fecha": "31 mayo 2026 · 16:02 CST",
+      "fuente": "AM Guanajuato",
+      "url": "https://www.am.com.mx/guanajuato/2026/05/31/muere-un-hombre-tras-salir-proyectado-en-violenta-volcadura-en-la-maravillas-nuevo-mexiquito-1800659.html",
+      "dot_color": "#e74c3c",
+      "badge_txt": "CIERRE TOTAL",
+      "lat": 25.2,
+      "lon": -102.0
+    }
+  ]
 }
