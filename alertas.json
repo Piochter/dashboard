@@ -1,12 +1,39 @@
 {
-  "ultima_actualizacion": "2026-06-02T07:02:35.409036-06:00",
-  "ultima_actualizacion_legible": "2 de junio de 2026 · 07:02 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-06-02T16:16:12.260173-06:00",
+  "ultima_actualizacion_legible": "2 de junio de 2026 · 16:16 CST",
+  "total": 3,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Google News"
+    "Google News",
+    "Quadratín + regionales",
+    "Telegram"
   ],
   "grupos": [
+    {
+      "tipo": "cierre_total",
+      "color": "rojo",
+      "icono": "🔴",
+      "label": "CIERRE TOTAL",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "138c28a5",
+          "tipo": "cierre_total",
+          "ruta": "🚧#AlertaVial | México-Toluca mantiene circulación lenta tras trabajos por deslave…",
+          "descripcion": "🚧#AlertaVial | México-Toluca mantiene circulación lenta tras trabajos por deslave [VIDEO] 👇\n https://lajornadaestadodemexico.com/mexico-toluca-circulacion-lenta-trabajos-por-deslave-video/",
+          "recomendacion": "",
+          "fecha": "2 junio 2026 · 14:19 CST",
+          "fecha_iso": "2026-06-02T14:19:00-06:00",
+          "fuente": "Telegram @jornadaedomex",
+          "url": "https://t.me/jornadaedomex/10899",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL",
+          "lat": 19.29,
+          "lon": -99.66
+        }
+      ]
+    },
     {
       "tipo": "bloqueo",
       "color": "rojo",
@@ -15,37 +42,88 @@
       "col2": false,
       "alertas": [
         {
-          "id": "e91fb523",
+          "id": "a5eabf31",
           "tipo": "bloqueo",
-          "ruta": "Cierres totales en carreteras por bloqueos hoy 2 de junio;…",
-          "descripcion": "Cierres totales en carreteras por bloqueos hoy 2 de junio; puntos críticos en la circulación - adn40.mx. Cierres totales en carreteras por bloqueos hoy 2 de junio; puntos críticos en la circulación adn40.mx",
+          "ruta": "carretera San Luis Potosí-Matehuala - TV Azteca",
+          "descripcion": "EN VIVO: ¿Hay bloqueos en carreteras hoy? Accidente en carretera San Luis Potosí-Matehuala - TV Azteca. EN VIVO: ¿Hay bloqueos en carreteras hoy? Accidente en carretera San Luis Potosí-Matehuala TV Azteca",
           "recomendacion": "",
-          "fecha": "2 junio 2026 · 06:33 CST",
-          "fecha_iso": "2026-06-02T06:33:00-06:00",
-          "fuente": "adn40.mx",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQ0hrZk5EX3VDYlB1TlhPenhJanJhYkRUOVpZZ1NLeWg1RUxkeDZCa3JZSDBSS1h4SjlJMzVJZHNZdl9RU0FJZkhadG9DSGtxN0ZWdW5wbHFxVmxXTGtPNGYtT1ZMMDFNUG44emZpS2NCb0ptaWVSd2Z6MTJXREROSmdLenE1WXo2eFBXOVVSYWw1aHUzY3JiZWVkUktyaWlhbTBLUElMaVhzWlhfX09oZV9OY3FaZ194QTBjd1psWk5FRXNpTjI3TXU5SQ?oc=5",
+          "fecha": "2 junio 2026 · 14:53 CST",
+          "fecha_iso": "2026-06-02T14:53:00-06:00",
+          "fuente": "TV Azteca",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbGlfWWpJWkhVb2xCekJycE0wUnRULWpPTFFVMVFnanBjYWhjTXNJUFJmLU9RSDBOeWxuRDNOOEVyM1MtcUhhc1FNaC1EMGltLWd6YU9fdUZzV1RQSl9qUjJBRFc3ZFppaEExdWJSNzBGQm1FS0FKUmwtcElzdjBiM2JWeUxSXzA1NXBuSnpYLVRpdDFudGhJOS1DTC1VTjQwSkN0NkZXU1VZZUVrZ1lyRno3bURmeXNramJ0NDNPZ3ZhUdIBzwFBVV95cUxPenljR0x2a3ctcDJNTDRURjBYVFc4NEVyeUhLXzI3aVBubWU3Qmg5cHFRNzgwQ3RVUThwbWNZSm1CeEFMRzhORGFTOF9zci1uRDItcmF1bnVDMFh0SUNoZmxtdjVCQlRaUlNVOXpsaksySmZaOEZ0NUxMa0NtT2dWM21GSVNLZUpGcDQzaG93dUMxNWVtSGVwcnZiVktSVXpERFd3MXdxaE8xaHY4Y3Zra25XWjBlYWVzcllzdFJGbVJPUjR6R3BJMWhWVkZfVnc?oc=5",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO",
-          "lat": 25.2,
-          "lon": -102.0
+          "lat": 22.15,
+          "lon": -100.97
+        }
+      ]
+    },
+    {
+      "tipo": "robo",
+      "color": "rojo",
+      "icono": "🚨",
+      "label": "ROBOS EN CARRETERA",
+      "col2": true,
+      "alertas": [
+        {
+          "id": "52d2dc29",
+          "tipo": "robo",
+          "ruta": "Propone Rafael Micalco 10 años de cárcel por robo de…",
+          "descripcion": "Propone Rafael Micalco 10 años de cárcel por robo de piezas. La reforma busca sancionar el desmantelamiento de autos en Puebla.",
+          "recomendacion": "",
+          "fecha": "2 junio 2026 · 15:50 CST",
+          "fecha_iso": "2026-06-02T15:50:00-06:00",
+          "fuente": "Quadratín Puebla",
+          "url": "https://puebla.quadratin.com.mx/?p=1221477",
+          "dot_color": "#c0392b",
+          "badge": "badge-robo",
+          "badge_txt": "ROBO",
+          "lat": 19.04,
+          "lon": -98.2
         }
       ]
     }
   ],
   "para_mapa": [
     {
-      "id": "e91fb523",
+      "id": "52d2dc29",
+      "tipo": "robo",
+      "ruta": "Propone Rafael Micalco 10 años de cárcel por robo de…",
+      "descripcion": "Propone Rafael Micalco 10 años de cárcel por robo de piezas. La reforma busca sancionar el desmantelamiento de autos en Puebla.",
+      "fecha": "2 junio 2026 · 15:50 CST",
+      "fuente": "Quadratín Puebla",
+      "url": "https://puebla.quadratin.com.mx/?p=1221477",
+      "dot_color": "#c0392b",
+      "badge_txt": "ROBO",
+      "lat": 19.04,
+      "lon": -98.2
+    },
+    {
+      "id": "a5eabf31",
       "tipo": "bloqueo",
-      "ruta": "Cierres totales en carreteras por bloqueos hoy 2 de junio;…",
-      "descripcion": "Cierres totales en carreteras por bloqueos hoy 2 de junio; puntos críticos en la circulación - adn40.mx. Cierres totales en carreteras por bloqueos hoy 2 de junio; puntos críticos en la circulación adn40.mx",
-      "fecha": "2 junio 2026 · 06:33 CST",
-      "fuente": "adn40.mx",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQ0hrZk5EX3VDYlB1TlhPenhJanJhYkRUOVpZZ1NLeWg1RUxkeDZCa3JZSDBSS1h4SjlJMzVJZHNZdl9RU0FJZkhadG9DSGtxN0ZWdW5wbHFxVmxXTGtPNGYtT1ZMMDFNUG44emZpS2NCb0ptaWVSd2Z6MTJXREROSmdLenE1WXo2eFBXOVVSYWw1aHUzY3JiZWVkUktyaWlhbTBLUElMaVhzWlhfX09oZV9OY3FaZ194QTBjd1psWk5FRXNpTjI3TXU5SQ?oc=5",
+      "ruta": "carretera San Luis Potosí-Matehuala - TV Azteca",
+      "descripcion": "EN VIVO: ¿Hay bloqueos en carreteras hoy? Accidente en carretera San Luis Potosí-Matehuala - TV Azteca. EN VIVO: ¿Hay bloqueos en carreteras hoy? Accidente en carretera San Luis Potosí-Matehuala TV Azteca",
+      "fecha": "2 junio 2026 · 14:53 CST",
+      "fuente": "TV Azteca",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbGlfWWpJWkhVb2xCekJycE0wUnRULWpPTFFVMVFnanBjYWhjTXNJUFJmLU9RSDBOeWxuRDNOOEVyM1MtcUhhc1FNaC1EMGltLWd6YU9fdUZzV1RQSl9qUjJBRFc3ZFppaEExdWJSNzBGQm1FS0FKUmwtcElzdjBiM2JWeUxSXzA1NXBuSnpYLVRpdDFudGhJOS1DTC1VTjQwSkN0NkZXU1VZZUVrZ1lyRno3bURmeXNramJ0NDNPZ3ZhUdIBzwFBVV95cUxPenljR0x2a3ctcDJNTDRURjBYVFc4NEVyeUhLXzI3aVBubWU3Qmg5cHFRNzgwQ3RVUThwbWNZSm1CeEFMRzhORGFTOF9zci1uRDItcmF1bnVDMFh0SUNoZmxtdjVCQlRaUlNVOXpsaksySmZaOEZ0NUxMa0NtT2dWM21GSVNLZUpGcDQzaG93dUMxNWVtSGVwcnZiVktSVXpERFd3MXdxaE8xaHY4Y3Zra25XWjBlYWVzcllzdFJGbVJPUjR6R3BJMWhWVkZfVnc?oc=5",
       "dot_color": "#8e44ad",
       "badge_txt": "BLOQUEO",
-      "lat": 25.2,
-      "lon": -102.0
+      "lat": 22.15,
+      "lon": -100.97
+    },
+    {
+      "id": "138c28a5",
+      "tipo": "cierre_total",
+      "ruta": "🚧#AlertaVial | México-Toluca mantiene circulación lenta tras trabajos por deslave…",
+      "descripcion": "🚧#AlertaVial | México-Toluca mantiene circulación lenta tras trabajos por deslave [VIDEO] 👇\n https://lajornadaestadodemexico.com/mexico-toluca-circulacion-lenta-trabajos-por-deslave-video/",
+      "fecha": "2 junio 2026 · 14:19 CST",
+      "fuente": "Telegram @jornadaedomex",
+      "url": "https://t.me/jornadaedomex/10899",
+      "dot_color": "#e74c3c",
+      "badge_txt": "CIERRE TOTAL",
+      "lat": 19.29,
+      "lon": -99.66
     }
   ]
 }
