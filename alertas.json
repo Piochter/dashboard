@@ -1,12 +1,10 @@
 {
-  "ultima_actualizacion": "2026-06-01T13:30:31.788605-06:00",
-  "ultima_actualizacion_legible": "1 de junio de 2026 · 13:30 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-06-01T18:01:48.421923-06:00",
+  "ultima_actualizacion_legible": "1 de junio de 2026 · 18:01 CST",
+  "total": 1,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Google News",
-    "Medios regionales",
-    "Quadratín + regionales"
+    "Telegram"
   ],
   "grupos": [
     {
@@ -17,74 +15,21 @@
       "col2": false,
       "alertas": [
         {
-          "id": "6965eef3",
+          "id": "5b184460",
           "tipo": "bloqueo",
-          "ruta": "Bloqueos en carreteras EN VIVO hoy: ¿Qué pasa en las…",
-          "descripcion": "Bloqueos en carreteras EN VIVO hoy: ¿Qué pasa en las autopistas de México este 1 de junio de 2026? - TV Azteca. Bloqueos en carreteras EN VIVO hoy: ¿Qué pasa en las autopistas de México este 1 de junio de 2026? TV Azteca",
+          "ruta": "🔴Trabajadores de Tornel llevan 99 días de huelga https://lajornadaestadodemexico.com/trabajadores-de-tornel-llevan-99-dias-de-huelga/…",
+          "descripcion": "🔴Trabajadores de Tornel llevan 99 días de huelga https://lajornadaestadodemexico.com/trabajadores-de-tornel-llevan-99-dias-de-huelga/",
           "recomendacion": "",
-          "fecha": "1 junio 2026 · 13:15 CST",
-          "fecha_iso": "2026-06-01T13:15:00-06:00",
-          "fuente": "TV Azteca",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUU9oaHdXQ0Q3a3Y0bmV1QzNvb1BSUTMzWkF0aUtzSGhUV2JjaTZsZFh5b0VSMHZ1bXR0MHUxTXZZQ3BZZVY3MXNRQ0piNV9rVGlZUWRJUDlOZHBmRGNXeThRSkZVOUo4SF9SSUNlOW1PZzVTQUNKZDVhZDg3RWVTT0l5WThJQ3ZOWFlQSHVUdnphWDFmNzczeUhuZFh2ai1RSmo5dmh3THFyVm5vajVmd0lKcUdUaVAxVFhF0gHIAUFVX3lxTE05Z3ZCR011LVd1M3VCZEVOOEZkZ2o3YVlpOHFmcENQTXNZUTF1b2ZvWFhMTzJuOWpvNG9aS1Z0Q0VNNXZkLUdFUFdmWlVYWDRPWXZYSTNUQUdfNk1zUUtMbUp6eHdSUGNRckg4b0d6Q2tYZ09TalhZcGw3ekZxWjNHY0hCR3pHcmNGam5GN05tYnJGd2ZKcGhqMGU3blFMN2JfTFI1S2ZPMUk0WkxkaVZORkFxUF90VHI4ZVBVX2YwRndDLVdySW1F?oc=5",
+          "fecha": "1 junio 2026 · 17:37 CST",
+          "fecha_iso": "2026-06-01T17:37:00-06:00",
+          "fuente": "Telegram @jornadaedomex",
+          "url": "https://t.me/jornadaedomex/10888",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO"
         }
       ]
-    },
-    {
-      "tipo": "cierre_parcial",
-      "color": "amarillo",
-      "icono": "🟡",
-      "label": "CIERRE PARCIAL / ACCIDENTES",
-      "col2": true,
-      "alertas": [
-        {
-          "id": "a82ef2a2",
-          "tipo": "cierre_parcial",
-          "ruta": "Emiten alerta atmosférica en Vallarta por incendio en El Gavilán…",
-          "descripcion": "Emiten alerta atmosférica en Vallarta por incendio en El Gavilán. Esta medida se mantiene vigente para 10 colonias del municipio costero de Jalisco",
-          "recomendacion": "",
-          "fecha": "1 junio 2026 · 12:41 CST",
-          "fecha_iso": "2026-06-01T12:41:00-06:00",
-          "fuente": "Quadratín Jalisco",
-          "url": "https://jalisco.quadratin.com.mx/sucesos/emiten-alerta-atmosferica-en-vallarta-por-incendio-en-el-gavilan/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 20.66,
-          "lon": -103.35
-        },
-        {
-          "id": "2d1c8de7",
-          "tipo": "cierre_parcial",
-          "ruta": "Accidente en León: Conductor de moto ignora malla vial de…",
-          "descripcion": "Accidente en León: Conductor de moto ignora malla vial de Sapal y termina dentro de excavación. Motociclista de 20 años cae a una zanja de obra de Sapal en el bulevar Olímpica de León y resulta ileso.",
-          "recomendacion": "",
-          "fecha": "1 junio 2026 · 10:33 CST",
-          "fecha_iso": "2026-06-01T10:33:00-06:00",
-          "fuente": "AM Guanajuato",
-          "url": "https://www.am.com.mx/leon/2026/06/01/accidente-en-leon-conductor-de-moto-ignora-malla-vial-de-sapal-y-termina-dentro-de-excavacion-1800874.html",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
-        }
-      ]
     }
   ],
-  "para_mapa": [
-    {
-      "id": "a82ef2a2",
-      "tipo": "cierre_parcial",
-      "ruta": "Emiten alerta atmosférica en Vallarta por incendio en El Gavilán…",
-      "descripcion": "Emiten alerta atmosférica en Vallarta por incendio en El Gavilán. Esta medida se mantiene vigente para 10 colonias del municipio costero de Jalisco",
-      "fecha": "1 junio 2026 · 12:41 CST",
-      "fuente": "Quadratín Jalisco",
-      "url": "https://jalisco.quadratin.com.mx/sucesos/emiten-alerta-atmosferica-en-vallarta-por-incendio-en-el-gavilan/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 20.66,
-      "lon": -103.35
-    }
-  ]
+  "para_mapa": []
 }
