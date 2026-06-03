@@ -1,12 +1,12 @@
 {
-  "ultima_actualizacion": "2026-06-03T09:59:52.779258-06:00",
-  "ultima_actualizacion_legible": "3 de junio de 2026 · 09:59 CST",
-  "total": 4,
+  "ultima_actualizacion": "2026-06-03T17:17:40.081005-06:00",
+  "ultima_actualizacion_legible": "3 de junio de 2026 · 17:17 CST",
+  "total": 3,
   "ventana": "últimos 180 minutos",
   "fuentes": [
     "Google News",
     "Medios nacionales",
-    "Medios regionales"
+    "Telegram"
   ],
   "grupos": [
     {
@@ -17,15 +17,29 @@
       "col2": false,
       "alertas": [
         {
-          "id": "2f443930",
+          "id": "8e562aed",
           "tipo": "bloqueo",
-          "ruta": "Bloqueos carreteras HOY 3 de junio: Autopistas cerradas en México,…",
-          "descripcion": "Bloqueos carreteras HOY 3 de junio: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 3 de junio: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
+          "ruta": "💢 **Protestan familiares de chofer detenido tras choque que dejó…",
+          "descripcion": "💢 **Protestan familiares de chofer detenido tras choque que dejó 24 lesionados**\n\n-Afirman que la conductora del vehículo particular sería familiar de un agente de Seguridad Vial \n\nLOS DETALLES | https://diario.mx/juarez/2026/jun/03/protestan-familiares-de-chofer-detenido-tras-choque-que-dejo-24-lesionados-1120991.html",
           "recomendacion": "",
-          "fecha": "3 junio 2026 · 07:07 CST",
-          "fecha_iso": "2026-06-03T07:07:00-06:00",
-          "fuente": "Eje Central",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxORkNtTTU3VDBHSGpUNE4xZUQ1T0lBbkQtVmRCbHI0Ym1FOVgxaVNOTWpNZGE2VmJZRUl1SnF0YTBXMnJ4Q1lVR2FyMTBhWldhYjRsSy16TWowMEFPaDBuRFR3bUY1dzY5QlRIcEV3SnczVEljWThOV1Z5aDlYTUFmMlA2c2hHOWF5STRWc0xIWlBmRE9sNmhZalMyVjBwR3VYMDA1a19WaFZTRDVESW5adEthYklZdW1Jbktmc2FaOFlfNGY3WTBQMi1oMGRUVlNRNGE4Ni1aQTdXZUMxWlpxZlpLY1pRZw?oc=5",
+          "fecha": "3 junio 2026 · 14:58 CST",
+          "fecha_iso": "2026-06-03T14:58:00-06:00",
+          "fuente": "Telegram @ElDiarioDeJuarez",
+          "url": "https://t.me/ElDiarioDeJuarez/1624",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
+        {
+          "id": "e285f14c",
+          "tipo": "bloqueo",
+          "ruta": "Últimas noticias EN VIVO de los bloqueos que afectan carreteras…",
+          "descripcion": "Últimas noticias EN VIVO de los bloqueos que afectan carreteras en México hoy 3 de junio - TV Azteca. Últimas noticias EN VIVO de los bloqueos que afectan carreteras en México hoy 3 de junio TV Azteca",
+          "recomendacion": "",
+          "fecha": "3 junio 2026 · 14:44 CST",
+          "fecha_iso": "2026-06-03T14:44:00-06:00",
+          "fuente": "TV Azteca",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNX2s3ZmV0d29IV1M1T3VjUExWXzVBdmVXT0twV093OWNRSUJQRk5MTHVtdzdJNFM0WFJXbjNmNTRubUx0OS15bm5IdE9uOVB4NUtrQ3BJcEp3U0NfTDR4bmN1bjRQXzNya2F5LW1sNGlpMXBsUV9sOTl3NzVHenJHYjV3MDBCcG5aTGFSYWpCdmJDRGZQY3FUZ1pwTXkwaVZvU3MwLXlacTI4RElDQndUdXJnNVE4b0HSAcQBQVVfeXFMTjREUHJjX2ltV0hoamZxck1pTUxSdWR6T1IyUE82bkl4VUpVS0NLUV8wWjQ0cHVwRkFrMXRUb1ZJNk0wVEprdlZMdUFSbGtuWUZucjdtdV81YkZiRlVuZl9EN3M4bGFHdDJ1ZW5sQW1aNXlzTXdtMU5abEdWbHRMRFcxT25pVWxkWWo2UDN3T0FzT09YbXBWMWxOc3BxeGVBM3k1YkwzYkNFZUR5NHJ1X3g0Rl9LQ3puZVZhdW5BUmdGTG1Jeg?oc=5",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO"
@@ -33,96 +47,28 @@
       ]
     },
     {
-      "tipo": "cierre_parcial",
-      "color": "amarillo",
-      "icono": "🟡",
-      "label": "CIERRE PARCIAL / ACCIDENTES",
+      "tipo": "robo",
+      "color": "rojo",
+      "icono": "🚨",
+      "label": "ROBOS EN CARRETERA",
       "col2": true,
       "alertas": [
         {
-          "id": "bd1a5dbf",
-          "tipo": "cierre_parcial",
-          "ruta": "Bomberos de Guadalajara cierran estas vialidades y activan operativos…",
-          "descripcion": "Bomberos de Guadalajara cierran estas vialidades y activan operativos. Tras las intensas lluvias de las últimas horas, Protección Civil y Bomberos de Guadalajara mantiene operativos de auxilio y reporta el cierre temporal de vialidades clave como Malecón, Lope de Vega y Manuel Falla, además del monitoreo constante en canales y pasos a desnivel",
+          "id": "3c04c29d",
+          "tipo": "robo",
+          "ruta": "Veterano de guerra toma rehenes y les amarra bombas durante…",
+          "descripcion": "Veterano de guerra toma rehenes y les amarra bombas durante robo al Chase Bank. Anthony Searles-Harris, un agresor sexual convicto de 41 años, entró a una sede del Chase bank",
           "recomendacion": "",
-          "fecha": "3 junio 2026 · 07:38 CST",
-          "fecha_iso": "2026-06-03T07:38:00-06:00",
-          "fuente": "El Informador Jalisco",
-          "url": "https://www.informador.mx/jalisco/lluvias-en-guadalajara-hoy-bomberos-cierran-estas-vialidades-y-activan-operativos-de-emergencia-20260603-0044.html",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 20.66,
-          "lon": -103.35
-        }
-      ]
-    },
-    {
-      "tipo": "clima",
-      "color": "azul",
-      "icono": "🌧️",
-      "label": "ALERTA METEOROLÓGICA",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "de23a8f0",
-          "tipo": "clima",
-          "ruta": "Los 10 pasos a desnivel con mayor riesgo de inundación…",
-          "descripcion": "Los 10 pasos a desnivel con mayor riesgo de inundación en Guadalajara. La actualización más reciente del Mapa Único de Inundaciones revela un incremento en el número de pasos a desnivel o túneles riesgosos en Guadalajara durante las lluvias",
-          "recomendacion": "",
-          "fecha": "3 junio 2026 · 07:39 CST",
-          "fecha_iso": "2026-06-03T07:39:00-06:00",
-          "fuente": "El Informador Jalisco",
-          "url": "https://www.informador.mx/jalisco/los-10-pasos-a-desnivel-mas-peligrosos-de-guadalajara-durante-las-lluvias-por-riesgo-de-inundacion-20260601-0110.html",
-          "dot_color": "#3498db",
-          "badge": "badge-clima",
-          "badge_txt": "ALERTA CLIMA",
-          "lat": 20.66,
-          "lon": -103.35
-        },
-        {
-          "id": "4a2f5781",
-          "tipo": "clima",
-          "ruta": "Clima hoy 3 de junio: Fuertes tormentas afectarán al norte,…",
-          "descripcion": "Clima hoy 3 de junio: Fuertes tormentas afectarán al norte, centro y sur de México. El clima hoy en México estará marcado por lluvias intensas y muy fuertes en el norte, centro y sur del país, con riesgo de inundaciones.",
-          "recomendacion": "",
-          "fecha": "3 junio 2026 · 07:34 CST",
-          "fecha_iso": "2026-06-03T07:34:00-06:00",
+          "fecha": "3 junio 2026 · 15:56 CST",
+          "fecha_iso": "2026-06-03T15:56:00-06:00",
           "fuente": "24 Horas",
-          "url": "https://24-horas.mx/mexico/clima-hoy-3-de-junio-fuertes-tormentas-afectaran-al-norte-centro-y-sur-de-mexico/",
-          "dot_color": "#3498db",
-          "badge": "badge-clima",
-          "badge_txt": "ALERTA CLIMA"
+          "url": "https://24-horas.mx/mundo/veterano-de-guerra-toma-rehenes-y-les-amarra-bombas-durante-robo-al-chase-bank/",
+          "dot_color": "#c0392b",
+          "badge": "badge-robo",
+          "badge_txt": "ROBO"
         }
       ]
     }
   ],
-  "para_mapa": [
-    {
-      "id": "de23a8f0",
-      "tipo": "clima",
-      "ruta": "Los 10 pasos a desnivel con mayor riesgo de inundación…",
-      "descripcion": "Los 10 pasos a desnivel con mayor riesgo de inundación en Guadalajara. La actualización más reciente del Mapa Único de Inundaciones revela un incremento en el número de pasos a desnivel o túneles riesgosos en Guadalajara durante las lluvias",
-      "fecha": "3 junio 2026 · 07:39 CST",
-      "fuente": "El Informador Jalisco",
-      "url": "https://www.informador.mx/jalisco/los-10-pasos-a-desnivel-mas-peligrosos-de-guadalajara-durante-las-lluvias-por-riesgo-de-inundacion-20260601-0110.html",
-      "dot_color": "#3498db",
-      "badge_txt": "ALERTA CLIMA",
-      "lat": 20.66,
-      "lon": -103.35
-    },
-    {
-      "id": "bd1a5dbf",
-      "tipo": "cierre_parcial",
-      "ruta": "Bomberos de Guadalajara cierran estas vialidades y activan operativos…",
-      "descripcion": "Bomberos de Guadalajara cierran estas vialidades y activan operativos. Tras las intensas lluvias de las últimas horas, Protección Civil y Bomberos de Guadalajara mantiene operativos de auxilio y reporta el cierre temporal de vialidades clave como Malecón, Lope de Vega y Manuel Falla, además del monitoreo constante en canales y pasos a desnivel",
-      "fecha": "3 junio 2026 · 07:38 CST",
-      "fuente": "El Informador Jalisco",
-      "url": "https://www.informador.mx/jalisco/lluvias-en-guadalajara-hoy-bomberos-cierran-estas-vialidades-y-activan-operativos-de-emergencia-20260603-0044.html",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 20.66,
-      "lon": -103.35
-    }
-  ]
+  "para_mapa": []
 }
