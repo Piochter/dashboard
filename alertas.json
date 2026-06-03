@@ -1,39 +1,14 @@
 {
-  "ultima_actualizacion": "2026-06-02T16:16:12.260173-06:00",
-  "ultima_actualizacion_legible": "2 de junio de 2026 · 16:16 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-06-03T09:59:52.779258-06:00",
+  "ultima_actualizacion_legible": "3 de junio de 2026 · 09:59 CST",
+  "total": 4,
   "ventana": "últimos 180 minutos",
   "fuentes": [
     "Google News",
-    "Quadratín + regionales",
-    "Telegram"
+    "Medios nacionales",
+    "Medios regionales"
   ],
   "grupos": [
-    {
-      "tipo": "cierre_total",
-      "color": "rojo",
-      "icono": "🔴",
-      "label": "CIERRE TOTAL",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "138c28a5",
-          "tipo": "cierre_total",
-          "ruta": "🚧#AlertaVial | México-Toluca mantiene circulación lenta tras trabajos por deslave…",
-          "descripcion": "🚧#AlertaVial | México-Toluca mantiene circulación lenta tras trabajos por deslave [VIDEO] 👇\n https://lajornadaestadodemexico.com/mexico-toluca-circulacion-lenta-trabajos-por-deslave-video/",
-          "recomendacion": "",
-          "fecha": "2 junio 2026 · 14:19 CST",
-          "fecha_iso": "2026-06-02T14:19:00-06:00",
-          "fuente": "Telegram @jornadaedomex",
-          "url": "https://t.me/jornadaedomex/10899",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL",
-          "lat": 19.29,
-          "lon": -99.66
-        }
-      ]
-    },
     {
       "tipo": "bloqueo",
       "color": "rojo",
@@ -42,88 +17,112 @@
       "col2": false,
       "alertas": [
         {
-          "id": "a5eabf31",
+          "id": "2f443930",
           "tipo": "bloqueo",
-          "ruta": "carretera San Luis Potosí-Matehuala - TV Azteca",
-          "descripcion": "EN VIVO: ¿Hay bloqueos en carreteras hoy? Accidente en carretera San Luis Potosí-Matehuala - TV Azteca. EN VIVO: ¿Hay bloqueos en carreteras hoy? Accidente en carretera San Luis Potosí-Matehuala TV Azteca",
+          "ruta": "Bloqueos carreteras HOY 3 de junio: Autopistas cerradas en México,…",
+          "descripcion": "Bloqueos carreteras HOY 3 de junio: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 3 de junio: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
           "recomendacion": "",
-          "fecha": "2 junio 2026 · 14:53 CST",
-          "fecha_iso": "2026-06-02T14:53:00-06:00",
-          "fuente": "TV Azteca",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbGlfWWpJWkhVb2xCekJycE0wUnRULWpPTFFVMVFnanBjYWhjTXNJUFJmLU9RSDBOeWxuRDNOOEVyM1MtcUhhc1FNaC1EMGltLWd6YU9fdUZzV1RQSl9qUjJBRFc3ZFppaEExdWJSNzBGQm1FS0FKUmwtcElzdjBiM2JWeUxSXzA1NXBuSnpYLVRpdDFudGhJOS1DTC1VTjQwSkN0NkZXU1VZZUVrZ1lyRno3bURmeXNramJ0NDNPZ3ZhUdIBzwFBVV95cUxPenljR0x2a3ctcDJNTDRURjBYVFc4NEVyeUhLXzI3aVBubWU3Qmg5cHFRNzgwQ3RVUThwbWNZSm1CeEFMRzhORGFTOF9zci1uRDItcmF1bnVDMFh0SUNoZmxtdjVCQlRaUlNVOXpsaksySmZaOEZ0NUxMa0NtT2dWM21GSVNLZUpGcDQzaG93dUMxNWVtSGVwcnZiVktSVXpERFd3MXdxaE8xaHY4Y3Zra25XWjBlYWVzcllzdFJGbVJPUjR6R3BJMWhWVkZfVnc?oc=5",
+          "fecha": "3 junio 2026 · 07:07 CST",
+          "fecha_iso": "2026-06-03T07:07:00-06:00",
+          "fuente": "Eje Central",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxORkNtTTU3VDBHSGpUNE4xZUQ1T0lBbkQtVmRCbHI0Ym1FOVgxaVNOTWpNZGE2VmJZRUl1SnF0YTBXMnJ4Q1lVR2FyMTBhWldhYjRsSy16TWowMEFPaDBuRFR3bUY1dzY5QlRIcEV3SnczVEljWThOV1Z5aDlYTUFmMlA2c2hHOWF5STRWc0xIWlBmRE9sNmhZalMyVjBwR3VYMDA1a19WaFZTRDVESW5adEthYklZdW1Jbktmc2FaOFlfNGY3WTBQMi1oMGRUVlNRNGE4Ni1aQTdXZUMxWlpxZlpLY1pRZw?oc=5",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 22.15,
-          "lon": -100.97
+          "badge_txt": "BLOQUEO"
         }
       ]
     },
     {
-      "tipo": "robo",
-      "color": "rojo",
-      "icono": "🚨",
-      "label": "ROBOS EN CARRETERA",
+      "tipo": "cierre_parcial",
+      "color": "amarillo",
+      "icono": "🟡",
+      "label": "CIERRE PARCIAL / ACCIDENTES",
       "col2": true,
       "alertas": [
         {
-          "id": "52d2dc29",
-          "tipo": "robo",
-          "ruta": "Propone Rafael Micalco 10 años de cárcel por robo de…",
-          "descripcion": "Propone Rafael Micalco 10 años de cárcel por robo de piezas. La reforma busca sancionar el desmantelamiento de autos en Puebla.",
+          "id": "bd1a5dbf",
+          "tipo": "cierre_parcial",
+          "ruta": "Bomberos de Guadalajara cierran estas vialidades y activan operativos…",
+          "descripcion": "Bomberos de Guadalajara cierran estas vialidades y activan operativos. Tras las intensas lluvias de las últimas horas, Protección Civil y Bomberos de Guadalajara mantiene operativos de auxilio y reporta el cierre temporal de vialidades clave como Malecón, Lope de Vega y Manuel Falla, además del monitoreo constante en canales y pasos a desnivel",
           "recomendacion": "",
-          "fecha": "2 junio 2026 · 15:50 CST",
-          "fecha_iso": "2026-06-02T15:50:00-06:00",
-          "fuente": "Quadratín Puebla",
-          "url": "https://puebla.quadratin.com.mx/?p=1221477",
-          "dot_color": "#c0392b",
-          "badge": "badge-robo",
-          "badge_txt": "ROBO",
-          "lat": 19.04,
-          "lon": -98.2
+          "fecha": "3 junio 2026 · 07:38 CST",
+          "fecha_iso": "2026-06-03T07:38:00-06:00",
+          "fuente": "El Informador Jalisco",
+          "url": "https://www.informador.mx/jalisco/lluvias-en-guadalajara-hoy-bomberos-cierran-estas-vialidades-y-activan-operativos-de-emergencia-20260603-0044.html",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 20.66,
+          "lon": -103.35
+        }
+      ]
+    },
+    {
+      "tipo": "clima",
+      "color": "azul",
+      "icono": "🌧️",
+      "label": "ALERTA METEOROLÓGICA",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "de23a8f0",
+          "tipo": "clima",
+          "ruta": "Los 10 pasos a desnivel con mayor riesgo de inundación…",
+          "descripcion": "Los 10 pasos a desnivel con mayor riesgo de inundación en Guadalajara. La actualización más reciente del Mapa Único de Inundaciones revela un incremento en el número de pasos a desnivel o túneles riesgosos en Guadalajara durante las lluvias",
+          "recomendacion": "",
+          "fecha": "3 junio 2026 · 07:39 CST",
+          "fecha_iso": "2026-06-03T07:39:00-06:00",
+          "fuente": "El Informador Jalisco",
+          "url": "https://www.informador.mx/jalisco/los-10-pasos-a-desnivel-mas-peligrosos-de-guadalajara-durante-las-lluvias-por-riesgo-de-inundacion-20260601-0110.html",
+          "dot_color": "#3498db",
+          "badge": "badge-clima",
+          "badge_txt": "ALERTA CLIMA",
+          "lat": 20.66,
+          "lon": -103.35
+        },
+        {
+          "id": "4a2f5781",
+          "tipo": "clima",
+          "ruta": "Clima hoy 3 de junio: Fuertes tormentas afectarán al norte,…",
+          "descripcion": "Clima hoy 3 de junio: Fuertes tormentas afectarán al norte, centro y sur de México. El clima hoy en México estará marcado por lluvias intensas y muy fuertes en el norte, centro y sur del país, con riesgo de inundaciones.",
+          "recomendacion": "",
+          "fecha": "3 junio 2026 · 07:34 CST",
+          "fecha_iso": "2026-06-03T07:34:00-06:00",
+          "fuente": "24 Horas",
+          "url": "https://24-horas.mx/mexico/clima-hoy-3-de-junio-fuertes-tormentas-afectaran-al-norte-centro-y-sur-de-mexico/",
+          "dot_color": "#3498db",
+          "badge": "badge-clima",
+          "badge_txt": "ALERTA CLIMA"
         }
       ]
     }
   ],
   "para_mapa": [
     {
-      "id": "52d2dc29",
-      "tipo": "robo",
-      "ruta": "Propone Rafael Micalco 10 años de cárcel por robo de…",
-      "descripcion": "Propone Rafael Micalco 10 años de cárcel por robo de piezas. La reforma busca sancionar el desmantelamiento de autos en Puebla.",
-      "fecha": "2 junio 2026 · 15:50 CST",
-      "fuente": "Quadratín Puebla",
-      "url": "https://puebla.quadratin.com.mx/?p=1221477",
-      "dot_color": "#c0392b",
-      "badge_txt": "ROBO",
-      "lat": 19.04,
-      "lon": -98.2
+      "id": "de23a8f0",
+      "tipo": "clima",
+      "ruta": "Los 10 pasos a desnivel con mayor riesgo de inundación…",
+      "descripcion": "Los 10 pasos a desnivel con mayor riesgo de inundación en Guadalajara. La actualización más reciente del Mapa Único de Inundaciones revela un incremento en el número de pasos a desnivel o túneles riesgosos en Guadalajara durante las lluvias",
+      "fecha": "3 junio 2026 · 07:39 CST",
+      "fuente": "El Informador Jalisco",
+      "url": "https://www.informador.mx/jalisco/los-10-pasos-a-desnivel-mas-peligrosos-de-guadalajara-durante-las-lluvias-por-riesgo-de-inundacion-20260601-0110.html",
+      "dot_color": "#3498db",
+      "badge_txt": "ALERTA CLIMA",
+      "lat": 20.66,
+      "lon": -103.35
     },
     {
-      "id": "a5eabf31",
-      "tipo": "bloqueo",
-      "ruta": "carretera San Luis Potosí-Matehuala - TV Azteca",
-      "descripcion": "EN VIVO: ¿Hay bloqueos en carreteras hoy? Accidente en carretera San Luis Potosí-Matehuala - TV Azteca. EN VIVO: ¿Hay bloqueos en carreteras hoy? Accidente en carretera San Luis Potosí-Matehuala TV Azteca",
-      "fecha": "2 junio 2026 · 14:53 CST",
-      "fuente": "TV Azteca",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbGlfWWpJWkhVb2xCekJycE0wUnRULWpPTFFVMVFnanBjYWhjTXNJUFJmLU9RSDBOeWxuRDNOOEVyM1MtcUhhc1FNaC1EMGltLWd6YU9fdUZzV1RQSl9qUjJBRFc3ZFppaEExdWJSNzBGQm1FS0FKUmwtcElzdjBiM2JWeUxSXzA1NXBuSnpYLVRpdDFudGhJOS1DTC1VTjQwSkN0NkZXU1VZZUVrZ1lyRno3bURmeXNramJ0NDNPZ3ZhUdIBzwFBVV95cUxPenljR0x2a3ctcDJNTDRURjBYVFc4NEVyeUhLXzI3aVBubWU3Qmg5cHFRNzgwQ3RVUThwbWNZSm1CeEFMRzhORGFTOF9zci1uRDItcmF1bnVDMFh0SUNoZmxtdjVCQlRaUlNVOXpsaksySmZaOEZ0NUxMa0NtT2dWM21GSVNLZUpGcDQzaG93dUMxNWVtSGVwcnZiVktSVXpERFd3MXdxaE8xaHY4Y3Zra25XWjBlYWVzcllzdFJGbVJPUjR6R3BJMWhWVkZfVnc?oc=5",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 22.15,
-      "lon": -100.97
-    },
-    {
-      "id": "138c28a5",
-      "tipo": "cierre_total",
-      "ruta": "🚧#AlertaVial | México-Toluca mantiene circulación lenta tras trabajos por deslave…",
-      "descripcion": "🚧#AlertaVial | México-Toluca mantiene circulación lenta tras trabajos por deslave [VIDEO] 👇\n https://lajornadaestadodemexico.com/mexico-toluca-circulacion-lenta-trabajos-por-deslave-video/",
-      "fecha": "2 junio 2026 · 14:19 CST",
-      "fuente": "Telegram @jornadaedomex",
-      "url": "https://t.me/jornadaedomex/10899",
-      "dot_color": "#e74c3c",
-      "badge_txt": "CIERRE TOTAL",
-      "lat": 19.29,
-      "lon": -99.66
+      "id": "bd1a5dbf",
+      "tipo": "cierre_parcial",
+      "ruta": "Bomberos de Guadalajara cierran estas vialidades y activan operativos…",
+      "descripcion": "Bomberos de Guadalajara cierran estas vialidades y activan operativos. Tras las intensas lluvias de las últimas horas, Protección Civil y Bomberos de Guadalajara mantiene operativos de auxilio y reporta el cierre temporal de vialidades clave como Malecón, Lope de Vega y Manuel Falla, además del monitoreo constante en canales y pasos a desnivel",
+      "fecha": "3 junio 2026 · 07:38 CST",
+      "fuente": "El Informador Jalisco",
+      "url": "https://www.informador.mx/jalisco/lluvias-en-guadalajara-hoy-bomberos-cierran-estas-vialidades-y-activan-operativos-de-emergencia-20260603-0044.html",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 20.66,
+      "lon": -103.35
     }
   ]
 }
