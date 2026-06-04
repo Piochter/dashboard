@@ -1,12 +1,127 @@
 {
-  "ultima_actualizacion": "2026-06-04T05:29:11.682656-06:00",
-  "ultima_actualizacion_legible": "4 de junio de 2026 · 05:29 CST",
-  "total": 0,
+  "ultima_actualizacion": "2026-06-04T13:39:10.632899-06:00",
+  "ultima_actualizacion_legible": "4 de junio de 2026 · 13:39 CST",
+  "total": 5,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Google News"
+    "Google News",
+    "Medios nacionales",
+    "Telegram"
   ],
-  "grupos": [],
-  "para_mapa": [],
-  "nota": "Sin alertas activas en la ventana de tiempo configurada."
+  "grupos": [
+    {
+      "tipo": "bloqueo",
+      "color": "rojo",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "4422e6ec",
+          "tipo": "bloqueo",
+          "ruta": "Segob llama a la CNTE a la reflexión tras actos…",
+          "descripcion": "Segob llama a la CNTE a la reflexión tras actos violentos en la SEP y [bloqueos:](http://telegra.ph/Segob-llama-a-la-CNTE-a-la-reflexión-tras-actos-violentos-en-la-SEP-y-bloqueos-06-04)\n\n__via__ [www.informador.mx](https://www.informador.mx/mexico/segob-llama-a-la-cnte-a-la-reflexion-tras-actos-violentos-en-la-sep-y-bloqueos-responsabilidad-compartida-20260603-0171.html)",
+          "recomendacion": "",
+          "fecha": "4 junio 2026 · 13:03 CST",
+          "fecha_iso": "2026-06-04T13:03:00-06:00",
+          "fuente": "Telegram @NOTMEX",
+          "url": "https://t.me/NOTMEX/183666",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
+        {
+          "id": "8b45c989",
+          "tipo": "bloqueo",
+          "ruta": "Maestros de la CNTE toman la caseta México-Cuernavaca tras días…",
+          "descripcion": "Maestros de la CNTE toman la caseta México-Cuernavaca tras días de protestas en la capital - Univision. Maestros de la CNTE toman la caseta México-Cuernavaca tras días de protestas en la capital Univision",
+          "recomendacion": "",
+          "fecha": "4 junio 2026 · 12:51 CST",
+          "fecha_iso": "2026-06-04T12:51:00-06:00",
+          "fuente": "Univision",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSjBuVDdBbUNGM2tEaTAzVFdNeWlvdUx1UjBudGE4azVTMTFRSjRmeUNfU2tBaUtPajVlLXcwbTg0a1BrQ0xuQi1CWVlabXhIWDYyWFl1VHpNbnpIOWNjT3RMak1XZHFnYUVtc2NtM2RsVzZmZG1wRE12RDlSMGtPVHB4MUxZVXNHanlVb2VsSldUS0hkamQ3dHhHYzhacnZoNDZZN0FONjJVSWVGT0hhSlZuUHktaDZWMlNld2xtR25QNkh0NmtKZk56RQ?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 18.92,
+          "lon": -99.23
+        },
+        {
+          "id": "8976539f",
+          "tipo": "bloqueo",
+          "ruta": "Bloqueos en carreteras EN VIVO hoy de integrantes de la…",
+          "descripcion": "Bloqueos en carreteras EN VIVO hoy de integrantes de la CNTE: ¿Qué pasa en las autopistas de México este 4 de - TV Azteca. Bloqueos en carreteras EN VIVO hoy de integrantes de la CNTE: ¿Qué pasa en las autopistas de México este 4 de TV Azteca",
+          "recomendacion": "",
+          "fecha": "4 junio 2026 · 11:14 CST",
+          "fecha_iso": "2026-06-04T11:14:00-06:00",
+          "fuente": "TV Azteca",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSlU3NGVZOWFFYmpyOVppeTBMNHhtcHVfdlduM0ZDQnZOS2YzTnUxaFEzMWV3eUhVM240dHN2QnYxMUMzZ1plYnI5d0hUaGtfWnd4b0N2NXZubjBPcF9oaG15Ynd6emdZZ3ZKYmZSQ2VCbnRCYWtLNGlBQVhVUmFNRC1yZElrWmJaX01nT0FKNVJ2aFRPTDNOdmV3R19tN3VOQWFkczdtRlV0Q25vcG80WGlYa09UTkNZQmVR0gHIAUFVX3lxTFBKQTFUTEQ4SU1USTUzaU5INTh1RGJhVmQ1NDd0VTlra0o5QzBYWFFZV1R5Wml1LVd1cVhkMmxHQ1J5cU9NWDZUS3NuVWxYOGprVGFGeWstLWpsNkI5Y2ZmUFV0MWZnQ0tvX2N0bTVCazAzOHFxX3ZWbm1PZk9oSUp4anB3c2NlVzJLUUh2clYxMDB2dExHeURIMnFxOFhsNFNjQ0dSRUxsR0gzVzFOQlFteENXOU1ITXRZYjRCQlFtTWdULU8xUGY5?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        }
+      ]
+    },
+    {
+      "tipo": "cierre_parcial",
+      "color": "amarillo",
+      "icono": "🟡",
+      "label": "CIERRE PARCIAL / ACCIDENTES",
+      "col2": true,
+      "alertas": [
+        {
+          "id": "05c2699d",
+          "tipo": "cierre_parcial",
+          "ruta": "Oficial. CNTE bloqueará AUTOPISTAS hoy 4 de junio: éstas carreteras…",
+          "descripcion": "Oficial. CNTE bloqueará AUTOPISTAS hoy 4 de junio: éstas carreteras estarán CERRADAS - Milenio. Oficial. CNTE bloqueará AUTOPISTAS hoy 4 de junio: éstas carreteras estarán CERRADAS Milenio",
+          "recomendacion": "",
+          "fecha": "4 junio 2026 · 11:05 CST",
+          "fecha_iso": "2026-06-04T11:05:00-06:00",
+          "fuente": "Milenio",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSG1yeV9EUm5ZcVR4MnJBYnhIMFgzem5NdlFlQ3g5VHhJZEplWm41VDdqR2JwZExiWGY3VmN3WC1WcHRwRno5VDNuQjdTNGtKTjV5bnlMT01RNHFOaUhCUGdmejUzaUc2ajZ0dkNDUHlNRkt6dHZ3eDBqeVZmN29haE4wbWNDV0JudVhzZ1RfQ1BHZFVhYmt0SnpKODhuVU9n0gGgAUFVX3lxTFBJaExYTEVXaG9IQWloLXNlM0ZCbUlzRXFXWnA3eEZ4ZExkQml2SVJKblBJeDZKSDFjdVFqZ3BzT2JadkJvY1ZzcFA0dTFzUmw5OHJfRE5ublI3aEkwcG9jc2pZMDYwVXNjdWN3ZHk3WHNoanVfVVhtemlJTE1kZkNObzVXLXJ1SnlzdkxNbDhNeHRtcFJQWlFGS3RPNHF3d3Q?oc=5",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        }
+      ]
+    },
+    {
+      "tipo": "obra",
+      "color": "verde",
+      "icono": "🚧",
+      "label": "OBRA CONTINUA",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "154a5e29",
+          "tipo": "obra",
+          "ruta": "Se mantiene cierre de estaciones en Línea 2 del Metro…",
+          "descripcion": "Se mantiene cierre de estaciones en Línea 2 del Metro. Debido a reparaciones, se aplazó la reapertura de las estaciones San Antonio Abad, Chabacano y Viaducto de la Línea 2 del Metro.",
+          "recomendacion": "",
+          "fecha": "4 junio 2026 · 11:03 CST",
+          "fecha_iso": "2026-06-04T11:03:00-06:00",
+          "fuente": "24 Horas",
+          "url": "https://24-horas.mx/cdmx/se-mantiene-cierre-de-estaciones-en-linea-2-del-metro/",
+          "dot_color": "#27ae60",
+          "badge": "badge-obra",
+          "badge_txt": "OBRA CONTINUA"
+        }
+      ]
+    }
+  ],
+  "para_mapa": [
+    {
+      "id": "8b45c989",
+      "tipo": "bloqueo",
+      "ruta": "Maestros de la CNTE toman la caseta México-Cuernavaca tras días…",
+      "descripcion": "Maestros de la CNTE toman la caseta México-Cuernavaca tras días de protestas en la capital - Univision. Maestros de la CNTE toman la caseta México-Cuernavaca tras días de protestas en la capital Univision",
+      "fecha": "4 junio 2026 · 12:51 CST",
+      "fuente": "Univision",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSjBuVDdBbUNGM2tEaTAzVFdNeWlvdUx1UjBudGE4azVTMTFRSjRmeUNfU2tBaUtPajVlLXcwbTg0a1BrQ0xuQi1CWVlabXhIWDYyWFl1VHpNbnpIOWNjT3RMak1XZHFnYUVtc2NtM2RsVzZmZG1wRE12RDlSMGtPVHB4MUxZVXNHanlVb2VsSldUS0hkamQ3dHhHYzhacnZoNDZZN0FONjJVSWVGT0hhSlZuUHktaDZWMlNld2xtR25QNkh0NmtKZk56RQ?oc=5",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 18.92,
+      "lon": -99.23
+    }
+  ]
 }
