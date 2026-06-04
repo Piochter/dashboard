@@ -1,74 +1,12 @@
 {
-  "ultima_actualizacion": "2026-06-03T17:17:40.081005-06:00",
-  "ultima_actualizacion_legible": "3 de junio de 2026 · 17:17 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-06-04T05:29:11.682656-06:00",
+  "ultima_actualizacion_legible": "4 de junio de 2026 · 05:29 CST",
+  "total": 0,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Google News",
-    "Medios nacionales",
-    "Telegram"
+    "Google News"
   ],
-  "grupos": [
-    {
-      "tipo": "bloqueo",
-      "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "8e562aed",
-          "tipo": "bloqueo",
-          "ruta": "💢 **Protestan familiares de chofer detenido tras choque que dejó…",
-          "descripcion": "💢 **Protestan familiares de chofer detenido tras choque que dejó 24 lesionados**\n\n-Afirman que la conductora del vehículo particular sería familiar de un agente de Seguridad Vial \n\nLOS DETALLES | https://diario.mx/juarez/2026/jun/03/protestan-familiares-de-chofer-detenido-tras-choque-que-dejo-24-lesionados-1120991.html",
-          "recomendacion": "",
-          "fecha": "3 junio 2026 · 14:58 CST",
-          "fecha_iso": "2026-06-03T14:58:00-06:00",
-          "fuente": "Telegram @ElDiarioDeJuarez",
-          "url": "https://t.me/ElDiarioDeJuarez/1624",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        },
-        {
-          "id": "e285f14c",
-          "tipo": "bloqueo",
-          "ruta": "Últimas noticias EN VIVO de los bloqueos que afectan carreteras…",
-          "descripcion": "Últimas noticias EN VIVO de los bloqueos que afectan carreteras en México hoy 3 de junio - TV Azteca. Últimas noticias EN VIVO de los bloqueos que afectan carreteras en México hoy 3 de junio TV Azteca",
-          "recomendacion": "",
-          "fecha": "3 junio 2026 · 14:44 CST",
-          "fecha_iso": "2026-06-03T14:44:00-06:00",
-          "fuente": "TV Azteca",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNX2s3ZmV0d29IV1M1T3VjUExWXzVBdmVXT0twV093OWNRSUJQRk5MTHVtdzdJNFM0WFJXbjNmNTRubUx0OS15bm5IdE9uOVB4NUtrQ3BJcEp3U0NfTDR4bmN1bjRQXzNya2F5LW1sNGlpMXBsUV9sOTl3NzVHenJHYjV3MDBCcG5aTGFSYWpCdmJDRGZQY3FUZ1pwTXkwaVZvU3MwLXlacTI4RElDQndUdXJnNVE4b0HSAcQBQVVfeXFMTjREUHJjX2ltV0hoamZxck1pTUxSdWR6T1IyUE82bkl4VUpVS0NLUV8wWjQ0cHVwRkFrMXRUb1ZJNk0wVEprdlZMdUFSbGtuWUZucjdtdV81YkZiRlVuZl9EN3M4bGFHdDJ1ZW5sQW1aNXlzTXdtMU5abEdWbHRMRFcxT25pVWxkWWo2UDN3T0FzT09YbXBWMWxOc3BxeGVBM3k1YkwzYkNFZUR5NHJ1X3g0Rl9LQ3puZVZhdW5BUmdGTG1Jeg?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        }
-      ]
-    },
-    {
-      "tipo": "robo",
-      "color": "rojo",
-      "icono": "🚨",
-      "label": "ROBOS EN CARRETERA",
-      "col2": true,
-      "alertas": [
-        {
-          "id": "3c04c29d",
-          "tipo": "robo",
-          "ruta": "Veterano de guerra toma rehenes y les amarra bombas durante…",
-          "descripcion": "Veterano de guerra toma rehenes y les amarra bombas durante robo al Chase Bank. Anthony Searles-Harris, un agresor sexual convicto de 41 años, entró a una sede del Chase bank",
-          "recomendacion": "",
-          "fecha": "3 junio 2026 · 15:56 CST",
-          "fecha_iso": "2026-06-03T15:56:00-06:00",
-          "fuente": "24 Horas",
-          "url": "https://24-horas.mx/mundo/veterano-de-guerra-toma-rehenes-y-les-amarra-bombas-durante-robo-al-chase-bank/",
-          "dot_color": "#c0392b",
-          "badge": "badge-robo",
-          "badge_txt": "ROBO"
-        }
-      ]
-    }
-  ],
-  "para_mapa": []
+  "grupos": [],
+  "para_mapa": [],
+  "nota": "Sin alertas activas en la ventana de tiempo configurada."
 }
