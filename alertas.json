@@ -1,35 +1,12 @@
 {
-  "ultima_actualizacion": "2026-06-04T17:52:18.428472-06:00",
-  "ultima_actualizacion_legible": "4 de junio de 2026 · 17:52 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-06-05T05:53:28.472384-06:00",
+  "ultima_actualizacion_legible": "5 de junio de 2026 · 05:53 CST",
+  "total": 0,
   "ventana": "últimos 180 minutos",
   "fuentes": [
     "Google News"
   ],
-  "grupos": [
-    {
-      "tipo": "bloqueo",
-      "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "4c650c5d",
-          "tipo": "bloqueo",
-          "ruta": "CNTE continúa protestas y toma casetas de peaje - CódigoQro…",
-          "descripcion": "CNTE continúa protestas y toma casetas de peaje - CódigoQro. CNTE continúa protestas y toma casetas de peaje CódigoQro",
-          "recomendacion": "",
-          "fecha": "4 junio 2026 · 15:27 CST",
-          "fecha_iso": "2026-06-04T15:27:00-06:00",
-          "fuente": "CódigoQro",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdXlBR0VmenNCVFpPYUZrSDgybGVlRk42YS1SYTk0NmNuTG5qZlJWcVVZUEEzelNZVURUN1I0ZHdZRUxqbkhXWWtFMjI5NFFsY3huOEo4TXZEQ19LS0xkS2x0d29qM24wVUs4RHR0ajIwVHU1UEhBaTRfZjl6V2NNbVdHT2tUZDRNY1dlYlU3Q1TSAZYBQVVfeXFMTVZ0MERrOGxHakZ3WjlHQ1JqZ0k5bDZKeU55MWZaQ1BSU2NRQ1Y4VnpoXzVfRWVrcDJFako3ZTljMDBFWklRX0hTY3VKcm10dkRHSGFmS0VxZHFzX3hRS2xRV0FFYlFGajliLWkyREFXUk1LNnBXY09SX0E4c1lsUHZIRWRsQ3N6YTNnQ180ZWk3NVhqTXNR?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        }
-      ]
-    }
-  ],
-  "para_mapa": []
+  "grupos": [],
+  "para_mapa": [],
+  "nota": "Sin alertas activas en la ventana de tiempo configurada."
 }
