@@ -1,12 +1,182 @@
 {
-  "ultima_actualizacion": "2026-06-05T05:53:28.472384-06:00",
-  "ultima_actualizacion_legible": "5 de junio de 2026 · 05:53 CST",
-  "total": 0,
+  "ultima_actualizacion": "2026-06-05T12:32:21.110069-06:00",
+  "ultima_actualizacion_legible": "5 de junio de 2026 · 12:32 CST",
+  "total": 5,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Google News"
+    "Google News",
+    "Medios nacionales",
+    "Medios regionales",
+    "Telegram"
   ],
-  "grupos": [],
-  "para_mapa": [],
-  "nota": "Sin alertas activas en la ventana de tiempo configurada."
+  "grupos": [
+    {
+      "tipo": "cierre_total",
+      "color": "rojo",
+      "icono": "🔴",
+      "label": "CIERRE TOTAL",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "a90bf40a",
+          "tipo": "cierre_total",
+          "ruta": "Bloqueos en carreteras EN VIVO hoy: ¿Qué pasa en las…",
+          "descripcion": "Bloqueos en carreteras EN VIVO hoy: ¿Qué pasa en las autopistas de México? Cierre TOTAL en la México-Cuernavac - TV Azteca. Bloqueos en carreteras EN VIVO hoy: ¿Qué pasa en las autopistas de México? Cierre TOTAL en la México-Cuernavac TV Azteca",
+          "recomendacion": "",
+          "fecha": "5 junio 2026 · 09:52 CST",
+          "fecha_iso": "2026-06-05T09:52:00-06:00",
+          "fuente": "TV Azteca",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbVlfMlNuQnQxSjVBRjFIUWs2M29xcEQ1eTZaNjBiRFJSQ01RLWJxNHBDM2VSdnRjS2x6YWVzc1BCYzZKeHUtb2pVZEZMNGdnRkI0S184TV9pWFlRek9rc013TFlWcUdZLXdKOFFHdmNVTTFSUTJyQTdoRGxCNEI2TUxTb1p4alFzRExRRzVxR09VNmhEcU8zblE2UGhCSkNkdmfSAa8BQVVfeXFMTkdzZEVzb2hIVlFER2lZTE40TzZKdjR3YzFOaUQ5ODJEY0NDeHJmNHk1d2lZSFhuSjJ3eTM2SU5DYUlNNi13c2JWLWx1djFRZXd3VzJLRG5iOFZrejl1US1kQ0JUSzdiaVNSa1BFMURPS3pHZnNTSmt5QU41WDVXcGNCZ0JVQWtTc0Nmd0F4azNaM00zYW91RkMyaGpPNkstdVRQcGJ6NHllbFdWUGdrcw?oc=5",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL"
+        }
+      ]
+    },
+    {
+      "tipo": "bloqueo",
+      "color": "rojo",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "2699dead",
+          "tipo": "bloqueo",
+          "ruta": "CNTE toma 13 gasolineras en Chiapas y regala combustible a…",
+          "descripcion": "CNTE toma 13 gasolineras en Chiapas y regala combustible a automovilistas. Integrantes de la CNTE toma 13 gasolineras en diversos puntos de Chiapas y como parte de la protesta, regala combustible a automovilistas.",
+          "recomendacion": "",
+          "fecha": "5 junio 2026 · 11:37 CST",
+          "fecha_iso": "2026-06-05T11:37:00-06:00",
+          "fuente": "24 Horas",
+          "url": "https://24-horas.mx/estados/cnte-toma-13-gasolineras-en-chiapas-y-regala-combustible-a-automovilistas/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 16.75,
+          "lon": -93.12
+        },
+        {
+          "id": "71bec805",
+          "tipo": "bloqueo",
+          "ruta": "🚨Maestros protestan en #Toluca, exigen atención a demandas educativas pendientes…",
+          "descripcion": "🚨Maestros protestan en #Toluca, exigen  atención a demandas educativas pendientes\n\nhttps://lajornadaestadodemexico.com/maestros-y-alumnos-protestan-en-toluca-hoy-05-de-junio-para-exigir-atencion-a-demandas-educativas-pendientes/",
+          "recomendacion": "",
+          "fecha": "5 junio 2026 · 10:26 CST",
+          "fecha_iso": "2026-06-05T10:26:00-06:00",
+          "fuente": "Telegram @jornadaedomex",
+          "url": "https://t.me/jornadaedomex/10932",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 19.29,
+          "lon": -99.66
+        }
+      ]
+    },
+    {
+      "tipo": "robo",
+      "color": "rojo",
+      "icono": "🚨",
+      "label": "ROBOS EN CARRETERA",
+      "col2": true,
+      "alertas": [
+        {
+          "id": "c60b94ab",
+          "tipo": "robo",
+          "ruta": "Terror en Celaya: Tripulantes de camión no se detienen y…",
+          "descripcion": "Terror en Celaya: Tripulantes de camión no se detienen y asaltantes disparan; copiloto fallece. Intento de asalto a camión de paquetería en la autopista Querétaro-Salamanca deja un custodio muerto y el chofer herido.",
+          "recomendacion": "",
+          "fecha": "5 junio 2026 · 10:15 CST",
+          "fecha_iso": "2026-06-05T10:15:00-06:00",
+          "fuente": "AM Guanajuato",
+          "url": "https://www.am.com.mx/celaya/2026/06/05/terror-en-celaya-tripulantes-de-camion-no-se-detienen-y-asaltantes-disparan-copiloto-fallece-1802683.html",
+          "dot_color": "#c0392b",
+          "badge": "badge-robo",
+          "badge_txt": "ROBO",
+          "lat": 20.59,
+          "lon": -100.39
+        }
+      ]
+    },
+    {
+      "tipo": "cierre_parcial",
+      "color": "amarillo",
+      "icono": "🟡",
+      "label": "CIERRE PARCIAL / ACCIDENTES",
+      "col2": true,
+      "alertas": [
+        {
+          "id": "275937e6",
+          "tipo": "cierre_parcial",
+          "ruta": "Mancha de aceite amenaza: Nuevas imágenes muestran otro posible accidente…",
+          "descripcion": "Mancha de aceite amenaza: Nuevas imágenes muestran otro posible accidente de Pemex en Manzanillo\nhttps://www.elfinanciero.com.mx/estados/2026/06/04/mancha-de-aceite-amenaza-nuevas-imagenes-muestran-otro-posible-accidente-de-pemex-en-manzanillo/\n\nPemex realizó recorridos de verificación en muelles, ductos playeros y otras de sus instalaciones debido a la presencia de una \"mancha aceitosa\".",
+          "recomendacion": "",
+          "fecha": "5 junio 2026 · 10:16 CST",
+          "fecha_iso": "2026-06-05T10:16:00-06:00",
+          "fuente": "Telegram @NOTMEX",
+          "url": "https://t.me/NOTMEX/183690",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 19.05,
+          "lon": -104.32
+        }
+      ]
+    }
+  ],
+  "para_mapa": [
+    {
+      "id": "2699dead",
+      "tipo": "bloqueo",
+      "ruta": "CNTE toma 13 gasolineras en Chiapas y regala combustible a…",
+      "descripcion": "CNTE toma 13 gasolineras en Chiapas y regala combustible a automovilistas. Integrantes de la CNTE toma 13 gasolineras en diversos puntos de Chiapas y como parte de la protesta, regala combustible a automovilistas.",
+      "fecha": "5 junio 2026 · 11:37 CST",
+      "fuente": "24 Horas",
+      "url": "https://24-horas.mx/estados/cnte-toma-13-gasolineras-en-chiapas-y-regala-combustible-a-automovilistas/",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 16.75,
+      "lon": -93.12
+    },
+    {
+      "id": "71bec805",
+      "tipo": "bloqueo",
+      "ruta": "🚨Maestros protestan en #Toluca, exigen atención a demandas educativas pendientes…",
+      "descripcion": "🚨Maestros protestan en #Toluca, exigen  atención a demandas educativas pendientes\n\nhttps://lajornadaestadodemexico.com/maestros-y-alumnos-protestan-en-toluca-hoy-05-de-junio-para-exigir-atencion-a-demandas-educativas-pendientes/",
+      "fecha": "5 junio 2026 · 10:26 CST",
+      "fuente": "Telegram @jornadaedomex",
+      "url": "https://t.me/jornadaedomex/10932",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 19.29,
+      "lon": -99.66
+    },
+    {
+      "id": "275937e6",
+      "tipo": "cierre_parcial",
+      "ruta": "Mancha de aceite amenaza: Nuevas imágenes muestran otro posible accidente…",
+      "descripcion": "Mancha de aceite amenaza: Nuevas imágenes muestran otro posible accidente de Pemex en Manzanillo\nhttps://www.elfinanciero.com.mx/estados/2026/06/04/mancha-de-aceite-amenaza-nuevas-imagenes-muestran-otro-posible-accidente-de-pemex-en-manzanillo/\n\nPemex realizó recorridos de verificación en muelles, ductos playeros y otras de sus instalaciones debido a la presencia de una \"mancha aceitosa\".",
+      "fecha": "5 junio 2026 · 10:16 CST",
+      "fuente": "Telegram @NOTMEX",
+      "url": "https://t.me/NOTMEX/183690",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 19.05,
+      "lon": -104.32
+    },
+    {
+      "id": "c60b94ab",
+      "tipo": "robo",
+      "ruta": "Terror en Celaya: Tripulantes de camión no se detienen y…",
+      "descripcion": "Terror en Celaya: Tripulantes de camión no se detienen y asaltantes disparan; copiloto fallece. Intento de asalto a camión de paquetería en la autopista Querétaro-Salamanca deja un custodio muerto y el chofer herido.",
+      "fecha": "5 junio 2026 · 10:15 CST",
+      "fuente": "AM Guanajuato",
+      "url": "https://www.am.com.mx/celaya/2026/06/05/terror-en-celaya-tripulantes-de-camion-no-se-detienen-y-asaltantes-disparan-copiloto-fallece-1802683.html",
+      "dot_color": "#c0392b",
+      "badge_txt": "ROBO",
+      "lat": 20.59,
+      "lon": -100.39
+    }
+  ]
 }
