@@ -1,33 +1,34 @@
 {
-  "ultima_actualizacion": "2026-06-06T11:36:46.613671-06:00",
-  "ultima_actualizacion_legible": "6 de junio de 2026 · 11:36 CST",
+  "ultima_actualizacion": "2026-06-06T12:55:38.646291-06:00",
+  "ultima_actualizacion_legible": "6 de junio de 2026 · 12:55 CST",
   "total": 3,
   "ventana": "últimos 180 minutos",
   "fuentes": [
+    "Google News",
     "Medios nacionales",
     "Quadratín + regionales"
   ],
   "grupos": [
     {
-      "tipo": "cierre_total",
+      "tipo": "bloqueo",
       "color": "rojo",
-      "icono": "🔴",
-      "label": "CIERRE TOTAL",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
       "col2": false,
       "alertas": [
         {
-          "id": "064135f4",
-          "tipo": "cierre_total",
-          "ruta": "Lesiona volcadura a conductor de torton en Tuxtepec…",
-          "descripcion": "Lesiona volcadura a conductor de torton en Tuxtepec. Policía Vial Estatal abanderó la zona en la carretera federal 147",
+          "id": "60ebd054",
+          "tipo": "bloqueo",
+          "ruta": "Bloqueos carreteras HOY 6 de junio: Autopistas cerradas en México,…",
+          "descripcion": "Bloqueos carreteras HOY 6 de junio: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 6 de junio: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
           "recomendacion": "",
-          "fecha": "6 junio 2026 · 09:31 CST",
-          "fecha_iso": "2026-06-06T09:31:00-06:00",
-          "fuente": "Quadratín Oaxaca",
-          "url": "https://oaxaca.quadratin.com.mx/lesiona-volcadura-a-conductor-de-torton-en-tuxtepec/",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL"
+          "fecha": "6 junio 2026 · 12:30 CST",
+          "fecha_iso": "2026-06-06T12:30:00-06:00",
+          "fuente": "Eje Central",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOUFB1elZ1a25YU0lERzY4RlBITVJRUnhvN3RqMWE2aFVwelJwdlBoVlRtN21zamItNnpJenhYRDBraERDT0RwX181UUZ4X1JDZUYwdEpGUXZUZ2xMazZYVnhlQ0U3SUZzMmZCOHBSdnlxb3lzbDUwczNjRGdUTDh4NWxqQ29iUXBDTkt6Y21qaE1la1pUb09mZ3pMbGx3YUdseE1sUWVrRUhlbWo5cWNlZ0hvZk1xeUJRaUNZc3dycFlVYm9HZjRnZjdQTkpfZnRBZDJlVVZHZWdjUlM2bjRnNDQyc1dEVTRUSmdGZm5hWQ?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
         }
       ]
     },
