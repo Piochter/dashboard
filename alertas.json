@@ -1,35 +1,12 @@
 {
-  "ultima_actualizacion": "2026-06-06T15:19:09.240400-06:00",
-  "ultima_actualizacion_legible": "6 de junio de 2026 · 15:19 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-06-06T16:37:29.788546-06:00",
+  "ultima_actualizacion_legible": "6 de junio de 2026 · 16:37 CST",
+  "total": 0,
   "ventana": "últimos 180 minutos",
   "fuentes": [
     "Google News"
   ],
-  "grupos": [
-    {
-      "tipo": "bloqueo",
-      "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "60ebd054",
-          "tipo": "bloqueo",
-          "ruta": "Bloqueos carreteras HOY 6 de junio: Autopistas cerradas en México,…",
-          "descripcion": "Bloqueos carreteras HOY 6 de junio: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 6 de junio: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
-          "recomendacion": "",
-          "fecha": "6 junio 2026 · 12:30 CST",
-          "fecha_iso": "2026-06-06T12:30:00-06:00",
-          "fuente": "Eje Central",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOUFB1elZ1a25YU0lERzY4RlBITVJRUnhvN3RqMWE2aFVwelJwdlBoVlRtN21zamItNnpJenhYRDBraERDT0RwX181UUZ4X1JDZUYwdEpGUXZUZ2xMazZYVnhlQ0U3SUZzMmZCOHBSdnlxb3lzbDUwczNjRGdUTDh4NWxqQ29iUXBDTkt6Y21qaE1la1pUb09mZ3pMbGx3YUdseE1sUWVrRUhlbWo5cWNlZ0hvZk1xeUJRaUNZc3dycFlVYm9HZjRnZjdQTkpfZnRBZDJlVVZHZWdjUlM2bjRnNDQyc1dEVTRUSmdGZm5hWQ?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        }
-      ]
-    }
-  ],
-  "para_mapa": []
+  "grupos": [],
+  "para_mapa": [],
+  "nota": "Sin alertas activas en la ventana de tiempo configurada."
 }
