@@ -1,12 +1,51 @@
 {
-  "ultima_actualizacion": "2026-06-06T16:37:29.788546-06:00",
-  "ultima_actualizacion_legible": "6 de junio de 2026 · 16:37 CST",
-  "total": 0,
+  "ultima_actualizacion": "2026-06-06T17:45:28.265996-06:00",
+  "ultima_actualizacion_legible": "6 de junio de 2026 · 17:45 CST",
+  "total": 1,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Google News"
+    "Medios regionales"
   ],
-  "grupos": [],
-  "para_mapa": [],
-  "nota": "Sin alertas activas en la ventana de tiempo configurada."
+  "grupos": [
+    {
+      "tipo": "bloqueo",
+      "color": "rojo",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "825fc91f",
+          "tipo": "bloqueo",
+          "ruta": "Marchan maestros de la CNTE en Guanajuato capital; exigen aumento…",
+          "descripcion": "Marchan maestros de la CNTE en Guanajuato capital; exigen aumento del 100% al salario. Docentes movilizados en la capital del estado advierten que mantendrán las protestas pacíficas hasta entablar mesas de negociación con las autoridades educativas federales y locales.",
+          "recomendacion": "",
+          "fecha": "6 junio 2026 · 16:30 CST",
+          "fecha_iso": "2026-06-06T16:30:00-06:00",
+          "fuente": "AM Guanajuato",
+          "url": "https://www.am.com.mx/guanajuato/2026/06/06/marchan-maestros-de-la-cnte-en-guanajuato-capital-exigen-aumento-del-100-al-salario-1803295.html",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 21.02,
+          "lon": -101.26
+        }
+      ]
+    }
+  ],
+  "para_mapa": [
+    {
+      "id": "825fc91f",
+      "tipo": "bloqueo",
+      "ruta": "Marchan maestros de la CNTE en Guanajuato capital; exigen aumento…",
+      "descripcion": "Marchan maestros de la CNTE en Guanajuato capital; exigen aumento del 100% al salario. Docentes movilizados en la capital del estado advierten que mantendrán las protestas pacíficas hasta entablar mesas de negociación con las autoridades educativas federales y locales.",
+      "fecha": "6 junio 2026 · 16:30 CST",
+      "fuente": "AM Guanajuato",
+      "url": "https://www.am.com.mx/guanajuato/2026/06/06/marchan-maestros-de-la-cnte-en-guanajuato-capital-exigen-aumento-del-100-al-salario-1803295.html",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 21.02,
+      "lon": -101.26
+    }
+  ]
 }
