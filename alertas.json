@@ -1,14 +1,36 @@
 {
-  "ultima_actualizacion": "2026-06-05T17:39:32.037876-06:00",
-  "ultima_actualizacion_legible": "5 de junio de 2026 · 17:39 CST",
+  "ultima_actualizacion": "2026-06-05T19:35:47.845511-06:00",
+  "ultima_actualizacion_legible": "5 de junio de 2026 · 19:35 CST",
   "total": 3,
   "ventana": "últimos 180 minutos",
   "fuentes": [
     "Google News",
-    "Quadratín + regionales",
-    "Telegram"
+    "Medios regionales"
   ],
   "grupos": [
+    {
+      "tipo": "cierre_total",
+      "color": "rojo",
+      "icono": "🔴",
+      "label": "CIERRE TOTAL",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "8e6ee5f3",
+          "tipo": "cierre_total",
+          "ruta": "Autopista Siglo 21 deja 4 lesionados",
+          "descripcion": "Choque y volcadura en la Autopista Siglo 21 deja 4 lesionados. Tras el impacto uno de los automotores involucrados volcó",
+          "recomendacion": "",
+          "fecha": "5 junio 2026 · 18:54 CST",
+          "fecha_iso": "2026-06-05T18:54:00-06:00",
+          "fuente": "Quadratín Michoacán",
+          "url": "https://www.quadratin.com.mx/sucesos/choque-y-volcadura-en-la-autopista-siglo-21-deja-4-lesionados/",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL"
+        }
+      ]
+    },
     {
       "tipo": "bloqueo",
       "color": "rojo",
@@ -17,18 +39,20 @@
       "col2": false,
       "alertas": [
         {
-          "id": "ef31da9b",
+          "id": "459af0ba",
           "tipo": "bloqueo",
-          "ruta": "Bloqueos en carreteras EN VIVO hoy: ¿Qué pasa en las…",
-          "descripcion": "Bloqueos en carreteras EN VIVO hoy: ¿Qué pasa en las autopistas de México? - TV Azteca. Bloqueos en carreteras EN VIVO hoy: ¿Qué pasa en las autopistas de México? TV Azteca",
+          "ruta": "Accidente en la carretera México-Puebla; Bloqueos en carreteras EN VIVO…",
+          "descripcion": "Accidente en la carretera México-Puebla; Bloqueos en carreteras EN VIVO hoy - TV Azteca. Accidente en la carretera México-Puebla; Bloqueos en carreteras EN VIVO hoy TV Azteca",
           "recomendacion": "",
-          "fecha": "5 junio 2026 · 17:12 CST",
-          "fecha_iso": "2026-06-05T17:12:00-06:00",
+          "fecha": "5 junio 2026 · 18:06 CST",
+          "fecha_iso": "2026-06-05T18:06:00-06:00",
           "fuente": "TV Azteca",
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbVlfMlNuQnQxSjVBRjFIUWs2M29xcEQ1eTZaNjBiRFJSQ01RLWJxNHBDM2VSdnRjS2x6YWVzc1BCYzZKeHUtb2pVZEZMNGdnRkI0S184TV9pWFlRek9rc013TFlWcUdZLXdKOFFHdmNVTTFSUTJyQTdoRGxCNEI2TUxTb1p4alFzRExRRzVxR09VNmhEcU8zblE2UGhCSkNkdmfSAa8BQVVfeXFMTkdzZEVzb2hIVlFER2lZTE40TzZKdjR3YzFOaUQ5ODJEY0NDeHJmNHk1d2lZSFhuSjJ3eTM2SU5DYUlNNi13c2JWLWx1djFRZXd3VzJLRG5iOFZrejl1US1kQ0JUSzdiaVNSa1BFMURPS3pHZnNTSmt5QU41WDVXcGNCZ0JVQWtTc0Nmd0F4azNaM00zYW91RkMyaGpPNkstdVRQcGJ6NHllbFdWUGdrcw?oc=5",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
+          "badge_txt": "BLOQUEO",
+          "lat": 19.35,
+          "lon": -98.4
         }
       ]
     },
@@ -40,51 +64,50 @@
       "col2": true,
       "alertas": [
         {
-          "id": "f8db9ef2",
+          "id": "8622a67e",
           "tipo": "cierre_parcial",
-          "ruta": "Cierre de Stanley Black & Decker en Puebla fue por…",
-          "descripcion": "Cierre de Stanley Black & Decker en Puebla fue por reestructura. La salida de la planta dejó sin empleo a casi 500 trabajadores.",
+          "ruta": "IPC de la Bolsa Mexicana acumula caída semanal del 3.57…",
+          "descripcion": "IPC de la Bolsa Mexicana acumula caída semanal del 3.57 %; baja a 66 mil 141.38 puntos. Con la pérdida de hoy, el mercado mexicano acumula seis cierres negativos en las últimas siete sesiones",
           "recomendacion": "",
-          "fecha": "5 junio 2026 · 16:26 CST",
-          "fecha_iso": "2026-06-05T16:26:00-06:00",
-          "fuente": "Quadratín Puebla",
-          "url": "https://puebla.quadratin.com.mx/economia/cierre-de-stanley-black-decker-en-puebla-fue-por-reestructura/",
+          "fecha": "5 junio 2026 · 18:58 CST",
+          "fecha_iso": "2026-06-05T18:58:00-06:00",
+          "fuente": "El Informador Jalisco",
+          "url": "https://www.informador.mx/economia/ipc-de-la-bolsa-mexicana-acumula-caida-semanal-del-3.57--baja-a-66-mil-141.38-puntos-20260605-0147.html",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.04,
-          "lon": -98.2
-        },
-        {
-          "id": "9c305515",
-          "tipo": "cierre_parcial",
-          "ruta": "🔴Choque múltiple paraliza la autopista, se encuentra cerrada en ambos…",
-          "descripcion": "🔴Choque múltiple paraliza la autopista, se encuentra cerrada en ambos sentidos\n\nhttps://lajornadaestadodemexico.com/choque-multiple-paraliza-la-autopista-por-casi-9-horas-en-la-chamapa-lecheria/",
-          "recomendacion": "",
-          "fecha": "5 junio 2026 · 14:51 CST",
-          "fecha_iso": "2026-06-05T14:51:00-06:00",
-          "fuente": "Telegram @jornadaedomex",
-          "url": "https://t.me/jornadaedomex/10936",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
+          "lat": 21.5,
+          "lon": -100.0
         }
       ]
     }
   ],
   "para_mapa": [
     {
-      "id": "f8db9ef2",
+      "id": "8622a67e",
       "tipo": "cierre_parcial",
-      "ruta": "Cierre de Stanley Black & Decker en Puebla fue por…",
-      "descripcion": "Cierre de Stanley Black & Decker en Puebla fue por reestructura. La salida de la planta dejó sin empleo a casi 500 trabajadores.",
-      "fecha": "5 junio 2026 · 16:26 CST",
-      "fuente": "Quadratín Puebla",
-      "url": "https://puebla.quadratin.com.mx/economia/cierre-de-stanley-black-decker-en-puebla-fue-por-reestructura/",
+      "ruta": "IPC de la Bolsa Mexicana acumula caída semanal del 3.57…",
+      "descripcion": "IPC de la Bolsa Mexicana acumula caída semanal del 3.57 %; baja a 66 mil 141.38 puntos. Con la pérdida de hoy, el mercado mexicano acumula seis cierres negativos en las últimas siete sesiones",
+      "fecha": "5 junio 2026 · 18:58 CST",
+      "fuente": "El Informador Jalisco",
+      "url": "https://www.informador.mx/economia/ipc-de-la-bolsa-mexicana-acumula-caida-semanal-del-3.57--baja-a-66-mil-141.38-puntos-20260605-0147.html",
       "dot_color": "#e67e22",
       "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.04,
-      "lon": -98.2
+      "lat": 21.5,
+      "lon": -100.0
+    },
+    {
+      "id": "459af0ba",
+      "tipo": "bloqueo",
+      "ruta": "Accidente en la carretera México-Puebla; Bloqueos en carreteras EN VIVO…",
+      "descripcion": "Accidente en la carretera México-Puebla; Bloqueos en carreteras EN VIVO hoy - TV Azteca. Accidente en la carretera México-Puebla; Bloqueos en carreteras EN VIVO hoy TV Azteca",
+      "fecha": "5 junio 2026 · 18:06 CST",
+      "fuente": "TV Azteca",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbVlfMlNuQnQxSjVBRjFIUWs2M29xcEQ1eTZaNjBiRFJSQ01RLWJxNHBDM2VSdnRjS2x6YWVzc1BCYzZKeHUtb2pVZEZMNGdnRkI0S184TV9pWFlRek9rc013TFlWcUdZLXdKOFFHdmNVTTFSUTJyQTdoRGxCNEI2TUxTb1p4alFzRExRRzVxR09VNmhEcU8zblE2UGhCSkNkdmfSAa8BQVVfeXFMTkdzZEVzb2hIVlFER2lZTE40TzZKdjR3YzFOaUQ5ODJEY0NDeHJmNHk1d2lZSFhuSjJ3eTM2SU5DYUlNNi13c2JWLWx1djFRZXd3VzJLRG5iOFZrejl1US1kQ0JUSzdiaVNSa1BFMURPS3pHZnNTSmt5QU41WDVXcGNCZ0JVQWtTc0Nmd0F4azNaM00zYW91RkMyaGpPNkstdVRQcGJ6NHllbFdWUGdrcw?oc=5",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 19.35,
+      "lon": -98.4
     }
   ]
 }
