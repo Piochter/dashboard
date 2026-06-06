@@ -1,9 +1,10 @@
 {
-  "ultima_actualizacion": "2026-06-06T10:08:42.970879-06:00",
-  "ultima_actualizacion_legible": "6 de junio de 2026 · 10:08 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-06-06T11:36:46.613671-06:00",
+  "ultima_actualizacion_legible": "6 de junio de 2026 · 11:36 CST",
+  "total": 3,
   "ventana": "últimos 180 minutos",
   "fuentes": [
+    "Medios nacionales",
     "Quadratín + regionales"
   ],
   "grupos": [
@@ -29,7 +30,69 @@
           "badge_txt": "CIERRE TOTAL"
         }
       ]
+    },
+    {
+      "tipo": "robo",
+      "color": "rojo",
+      "icono": "🚨",
+      "label": "ROBOS EN CARRETERA",
+      "col2": true,
+      "alertas": [
+        {
+          "id": "b178444c",
+          "tipo": "robo",
+          "ruta": "Caen tres presuntos miembros de banda dedicada a robo a…",
+          "descripcion": "Caen tres presuntos miembros de banda dedicada a robo a casa habitación en CDMX y Edomex. Caen tres hombres por su presunta relación con una banda dedicada al robo a casa habitación en la Ciudad de México y el Estado de México.",
+          "recomendacion": "",
+          "fecha": "6 junio 2026 · 10:47 CST",
+          "fecha_iso": "2026-06-06T10:47:00-06:00",
+          "fuente": "24 Horas",
+          "url": "https://24-horas.mx/cdmx/caen-tres-presuntos-miembros-de-banda-dedicada-a-robo-a-casa-habitacion-en-cdmx-y-edomex/",
+          "dot_color": "#c0392b",
+          "badge": "badge-robo",
+          "badge_txt": "ROBO",
+          "lat": 19.43,
+          "lon": -99.13
+        }
+      ]
+    },
+    {
+      "tipo": "clima",
+      "color": "azul",
+      "icono": "🌧️",
+      "label": "ALERTA METEOROLÓGICA",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "6af4195c",
+          "tipo": "clima",
+          "ruta": "Tlajomulco intensifica desazolve para evitar inundaciones…",
+          "descripcion": "Tlajomulco intensifica desazolve para evitar inundaciones. Las autoridades mantienen recorridos preventivos permanentes en 29 presas; 18 vasos reguladores; 10 bordos y un ojo de agua de jurisdicción municipal",
+          "recomendacion": "evitar inundaciones",
+          "fecha": "6 junio 2026 · 11:03 CST",
+          "fecha_iso": "2026-06-06T11:03:00-06:00",
+          "fuente": "Quadratín Jalisco",
+          "url": "https://jalisco.quadratin.com.mx/sucesos/tlajomulco-intensifica-desazolve-para-evitar-inundaciones/",
+          "dot_color": "#3498db",
+          "badge": "badge-clima",
+          "badge_txt": "ALERTA CLIMA"
+        }
+      ]
     }
   ],
-  "para_mapa": []
+  "para_mapa": [
+    {
+      "id": "b178444c",
+      "tipo": "robo",
+      "ruta": "Caen tres presuntos miembros de banda dedicada a robo a…",
+      "descripcion": "Caen tres presuntos miembros de banda dedicada a robo a casa habitación en CDMX y Edomex. Caen tres hombres por su presunta relación con una banda dedicada al robo a casa habitación en la Ciudad de México y el Estado de México.",
+      "fecha": "6 junio 2026 · 10:47 CST",
+      "fuente": "24 Horas",
+      "url": "https://24-horas.mx/cdmx/caen-tres-presuntos-miembros-de-banda-dedicada-a-robo-a-casa-habitacion-en-cdmx-y-edomex/",
+      "dot_color": "#c0392b",
+      "badge_txt": "ROBO",
+      "lat": 19.43,
+      "lon": -99.13
+    }
+  ]
 }
