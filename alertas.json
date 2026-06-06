@@ -1,12 +1,35 @@
 {
-  "ultima_actualizacion": "2026-06-06T05:54:01.452193-06:00",
-  "ultima_actualizacion_legible": "6 de junio de 2026 · 05:54 CST",
-  "total": 0,
+  "ultima_actualizacion": "2026-06-06T07:26:52.115544-06:00",
+  "ultima_actualizacion_legible": "6 de junio de 2026 · 07:26 CST",
+  "total": 1,
   "ventana": "últimos 180 minutos",
   "fuentes": [
     "Google News"
   ],
-  "grupos": [],
-  "para_mapa": [],
-  "nota": "Sin alertas activas en la ventana de tiempo configurada."
+  "grupos": [
+    {
+      "tipo": "cierre_parcial",
+      "color": "amarillo",
+      "icono": "🟡",
+      "label": "CIERRE PARCIAL / ACCIDENTES",
+      "col2": true,
+      "alertas": [
+        {
+          "id": "b40686cb",
+          "tipo": "cierre_parcial",
+          "ruta": "Carreteras Bloqueadas en México Hoy, Sábado 6 de Junio 2026…",
+          "descripcion": "Carreteras Bloqueadas en México Hoy, Sábado 6 de Junio 2026 - N+. Carreteras Bloqueadas en México Hoy, Sábado 6 de Junio 2026 N+",
+          "recomendacion": "",
+          "fecha": "6 junio 2026 · 06:08 CST",
+          "fecha_iso": "2026-06-06T06:08:00-06:00",
+          "fuente": "N+",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMm9fUjR4R2tqRXVFbEIwa253TFd4a0pRMnhhNUhCblB3ZEFRVjdWZTcyYkx1aHlJY3ZTTzM4eE9MS0RJajNNNTBuaXAyRU5vWVVfSElqU1U4Y0NSd0RtVVpCMjhyZXVmelh2M0xtQ0l3b3dkOUliNmZrSExrNXJ0aVBySHR3cUhweV8wMHEzUnZlYjR3eVNhMA?oc=5",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        }
+      ]
+    }
+  ],
+  "para_mapa": []
 }
