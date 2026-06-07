@@ -1,12 +1,65 @@
 {
-  "ultima_actualizacion": "2026-06-07T07:47:05.720883-06:00",
-  "ultima_actualizacion_legible": "7 de junio de 2026 · 07:47 CST",
-  "total": 0,
+  "ultima_actualizacion": "2026-06-07T09:16:22.812829-06:00",
+  "ultima_actualizacion_legible": "7 de junio de 2026 · 09:16 CST",
+  "total": 2,
   "ventana": "últimos 180 minutos",
   "fuentes": [
     "Google News"
   ],
-  "grupos": [],
-  "para_mapa": [],
-  "nota": "Sin alertas activas en la ventana de tiempo configurada."
+  "grupos": [
+    {
+      "tipo": "bloqueo",
+      "color": "rojo",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "7bc70404",
+          "tipo": "bloqueo",
+          "ruta": "Bloqueos carreteras HOY 7 de junio: Autopistas cerradas en México,…",
+          "descripcion": "Bloqueos carreteras HOY 7 de junio: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 7 de junio: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
+          "recomendacion": "",
+          "fecha": "7 junio 2026 · 08:45 CST",
+          "fecha_iso": "2026-06-07T08:45:00-06:00",
+          "fuente": "Eje Central",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOandTaExMNHFaeWt6R053cDBXV1lyT2J6NmFuTjMxc0hHM21ZbUltRXptNks2ZjdQdV81MnlpZnpJVUQxTnljNlg1Q0IzTUtqSl92RGRnTDV5WDlMbFEzUXp3cXRGX3JoRlI3alRMdkRGeHRybHZQSGxRZWpFbDVBeVpmQVU4amdrV0VSM29CVWhVVVkwNVp4UW9KTVlVSHU1eDFuT3pjbmFqbHJtalFPUUFvS1lrYXhIWVhMVWJidHVKcUQzX1c4ZkJkOEdIZmtCN1dpcGdKYjVWbk83WW9ScXA4dW5lQQ?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
+        {
+          "id": "797e0a51",
+          "tipo": "bloqueo",
+          "ruta": "Bloqueos provocan cierre de carreteras hoy 7 de junio -…",
+          "descripcion": "Bloqueos provocan cierre de carreteras hoy 7 de junio - adn40.mx. Bloqueos provocan cierre de carreteras hoy 7 de junio adn40.mx",
+          "recomendacion": "",
+          "fecha": "7 junio 2026 · 07:35 CST",
+          "fecha_iso": "2026-06-07T07:35:00-06:00",
+          "fuente": "adn40.mx",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNa3VYa3g3bUh2Rm9wZzJvZURSMmJyc1dFTTg2NEQ0bUJiRENCOERlcDVBZU8ySlVzSFRXdWNQLWJhbUZoREpRZlAycENWcDRHR24tMzZGa1pEeDQxM1ExRU8ybmxXUzFvZFpPRnpJMHExdUNhV2k5OHEyMS1ZdTk0Yl9FTW1iZmhlN0xVTENOYlNOM0ZPN1ptWnJ6Y1gyZy1XWU5ULTRlZHhQWVpaZ2VLS1NaOFdKOWZxWVA5MDBn?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 25.2,
+          "lon": -102.0
+        }
+      ]
+    }
+  ],
+  "para_mapa": [
+    {
+      "id": "797e0a51",
+      "tipo": "bloqueo",
+      "ruta": "Bloqueos provocan cierre de carreteras hoy 7 de junio -…",
+      "descripcion": "Bloqueos provocan cierre de carreteras hoy 7 de junio - adn40.mx. Bloqueos provocan cierre de carreteras hoy 7 de junio adn40.mx",
+      "fecha": "7 junio 2026 · 07:35 CST",
+      "fuente": "adn40.mx",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNa3VYa3g3bUh2Rm9wZzJvZURSMmJyc1dFTTg2NEQ0bUJiRENCOERlcDVBZU8ySlVzSFRXdWNQLWJhbUZoREpRZlAycENWcDRHR24tMzZGa1pEeDQxM1ExRU8ybmxXUzFvZFpPRnpJMHExdUNhV2k5OHEyMS1ZdTk0Yl9FTW1iZmhlN0xVTENOYlNOM0ZPN1ptWnJ6Y1gyZy1XWU5ULTRlZHhQWVpaZ2VLS1NaOFdKOWZxWVA5MDBn?oc=5",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 25.2,
+      "lon": -102.0
+    }
+  ]
 }
