@@ -1,10 +1,12 @@
 {
-  "ultima_actualizacion": "2026-06-07T13:47:47.717497-06:00",
-  "ultima_actualizacion_legible": "7 de junio de 2026 · 13:47 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-06-07T15:10:25.454655-06:00",
+  "ultima_actualizacion_legible": "7 de junio de 2026 · 15:10 CST",
+  "total": 4,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Google News"
+    "Google News",
+    "Medios nacionales",
+    "Quadratín + regionales"
   ],
   "grupos": [
     {
@@ -14,6 +16,20 @@
       "label": "BLOQUEOS / MANIFESTACIONES",
       "col2": false,
       "alertas": [
+        {
+          "id": "7bb7ef63",
+          "tipo": "bloqueo",
+          "ruta": "Concanaco advierte pérdidas de 260 mdp diarios por la CNTE…",
+          "descripcion": "Concanaco advierte pérdidas de 260 mdp diarios por la CNTE. Concanaco pronuncia ante las afectaciones económicas provocadas por bloqueos, plantones y movilizaciones de la CNTE",
+          "recomendacion": "",
+          "fecha": "7 junio 2026 · 14:38 CST",
+          "fecha_iso": "2026-06-07T14:38:00-06:00",
+          "fuente": "24 Horas",
+          "url": "https://24-horas.mx/negocios/concanaco-advierte-perdidas-de-260-mdp-diarios-por-la-cnte/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
         {
           "id": "6257b92d",
           "tipo": "bloqueo",
@@ -31,9 +47,61 @@
           "lon": -99.66
         }
       ]
+    },
+    {
+      "tipo": "cierre_parcial",
+      "color": "amarillo",
+      "icono": "🟡",
+      "label": "CIERRE PARCIAL / ACCIDENTES",
+      "col2": true,
+      "alertas": [
+        {
+          "id": "a226084d",
+          "tipo": "cierre_parcial",
+          "ruta": "Autopista del Sol deja 2 lesionados cerca de Palo Blanco",
+          "descripcion": "Choque en la Autopista del Sol deja 2 lesionados cerca de Palo Blanco. El percance, a dos kilómetros de la caseta de cobro",
+          "recomendacion": "",
+          "fecha": "7 junio 2026 · 14:31 CST",
+          "fecha_iso": "2026-06-07T14:31:00-06:00",
+          "fuente": "Quadratín Guerrero",
+          "url": "https://guerrero.quadratin.com.mx/choque-en-la-autopista-del-sol-deja-2-lesionados-cerca-de-palo-blanco/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        },
+        {
+          "id": "86336547",
+          "tipo": "cierre_parcial",
+          "ruta": "Cierran en Zihuatanejo navegación por depresión tropical Dos-E…",
+          "descripcion": "Cierran en Zihuatanejo navegación por depresión tropical Dos-E. ZIHUATANEJO, Gro., 7 de junio de 2026.- La Capitanía de Puerto de Zihuatanejo informó que desde las 18 horas del pasado sábado 6 de junio quedó cerrado el puerto a la navegación para embarcaciones menores de 15 metros de eslora, debido a la depresión tropical Dos-E. El capitán de puerto, Javier Gallardo Pérez informó que […]",
+          "recomendacion": "",
+          "fecha": "7 junio 2026 · 13:47 CST",
+          "fecha_iso": "2026-06-07T13:47:00-06:00",
+          "fuente": "Quadratín Guerrero",
+          "url": "https://guerrero.quadratin.com.mx/cierran-en-zihuatanejo-navegacion-por-depresion-tropical-dos-e/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 21.0,
+          "lon": -104.0
+        }
+      ]
     }
   ],
   "para_mapa": [
+    {
+      "id": "86336547",
+      "tipo": "cierre_parcial",
+      "ruta": "Cierran en Zihuatanejo navegación por depresión tropical Dos-E…",
+      "descripcion": "Cierran en Zihuatanejo navegación por depresión tropical Dos-E. ZIHUATANEJO, Gro., 7 de junio de 2026.- La Capitanía de Puerto de Zihuatanejo informó que desde las 18 horas del pasado sábado 6 de junio quedó cerrado el puerto a la navegación para embarcaciones menores de 15 metros de eslora, debido a la depresión tropical Dos-E. El capitán de puerto, Javier Gallardo Pérez informó que […]",
+      "fecha": "7 junio 2026 · 13:47 CST",
+      "fuente": "Quadratín Guerrero",
+      "url": "https://guerrero.quadratin.com.mx/cierran-en-zihuatanejo-navegacion-por-depresion-tropical-dos-e/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 21.0,
+      "lon": -104.0
+    },
     {
       "id": "6257b92d",
       "tipo": "bloqueo",
