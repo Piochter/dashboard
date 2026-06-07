@@ -1,49 +1,72 @@
 {
-  "ultima_actualizacion": "2026-06-06T17:45:28.265996-06:00",
-  "ultima_actualizacion_legible": "6 de junio de 2026 · 17:45 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-06-06T19:59:06.326326-06:00",
+  "ultima_actualizacion_legible": "6 de junio de 2026 · 19:59 CST",
+  "total": 2,
   "ventana": "últimos 180 minutos",
   "fuentes": [
     "Medios regionales"
   ],
   "grupos": [
     {
-      "tipo": "bloqueo",
+      "tipo": "robo",
       "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
-      "col2": false,
+      "icono": "🚨",
+      "label": "ROBOS EN CARRETERA",
+      "col2": true,
       "alertas": [
         {
-          "id": "825fc91f",
-          "tipo": "bloqueo",
-          "ruta": "Marchan maestros de la CNTE en Guanajuato capital; exigen aumento…",
-          "descripcion": "Marchan maestros de la CNTE en Guanajuato capital; exigen aumento del 100% al salario. Docentes movilizados en la capital del estado advierten que mantendrán las protestas pacíficas hasta entablar mesas de negociación con las autoridades educativas federales y locales.",
+          "id": "4184328f",
+          "tipo": "robo",
+          "ruta": "Aseguran vehículo con alteraciones y reporte de robo en Guanajuato…",
+          "descripcion": "Aseguran vehículo con alteraciones y reporte de robo en Guanajuato. Sobre la autopista 43D Cuitzeo-Salamanca",
           "recomendacion": "",
-          "fecha": "6 junio 2026 · 16:30 CST",
-          "fecha_iso": "2026-06-06T16:30:00-06:00",
-          "fuente": "AM Guanajuato",
-          "url": "https://www.am.com.mx/guanajuato/2026/06/06/marchan-maestros-de-la-cnte-en-guanajuato-capital-exigen-aumento-del-100-al-salario-1803295.html",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
+          "fecha": "6 junio 2026 · 18:39 CST",
+          "fecha_iso": "2026-06-06T18:39:00-06:00",
+          "fuente": "Quadratín Michoacán",
+          "url": "https://www.quadratin.com.mx/sucesos/aseguran-vehiculo-con-alteraciones-y-reporte-de-robo-en-guanajuato/",
+          "dot_color": "#c0392b",
+          "badge": "badge-robo",
+          "badge_txt": "ROBO",
           "lat": 21.02,
           "lon": -101.26
+        }
+      ]
+    },
+    {
+      "tipo": "cierre_parcial",
+      "color": "amarillo",
+      "icono": "🟡",
+      "label": "CIERRE PARCIAL / ACCIDENTES",
+      "col2": true,
+      "alertas": [
+        {
+          "id": "4a788232",
+          "tipo": "cierre_parcial",
+          "ruta": "Activan operativos en carreteras tras choques en Pátzcuaro y Tingambato…",
+          "descripcion": "Activan operativos en carreteras tras choques en Pátzcuaro y Tingambato. Una camioneta terminó volcada a un costado de la vialidad",
+          "recomendacion": "",
+          "fecha": "6 junio 2026 · 18:37 CST",
+          "fecha_iso": "2026-06-06T18:37:00-06:00",
+          "fuente": "Quadratín Michoacán",
+          "url": "https://www.quadratin.com.mx/sucesos/activan-operativos-en-carreteras-tras-choques-en-patzcuaro-y-tingambato/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
         }
       ]
     }
   ],
   "para_mapa": [
     {
-      "id": "825fc91f",
-      "tipo": "bloqueo",
-      "ruta": "Marchan maestros de la CNTE en Guanajuato capital; exigen aumento…",
-      "descripcion": "Marchan maestros de la CNTE en Guanajuato capital; exigen aumento del 100% al salario. Docentes movilizados en la capital del estado advierten que mantendrán las protestas pacíficas hasta entablar mesas de negociación con las autoridades educativas federales y locales.",
-      "fecha": "6 junio 2026 · 16:30 CST",
-      "fuente": "AM Guanajuato",
-      "url": "https://www.am.com.mx/guanajuato/2026/06/06/marchan-maestros-de-la-cnte-en-guanajuato-capital-exigen-aumento-del-100-al-salario-1803295.html",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
+      "id": "4184328f",
+      "tipo": "robo",
+      "ruta": "Aseguran vehículo con alteraciones y reporte de robo en Guanajuato…",
+      "descripcion": "Aseguran vehículo con alteraciones y reporte de robo en Guanajuato. Sobre la autopista 43D Cuitzeo-Salamanca",
+      "fecha": "6 junio 2026 · 18:39 CST",
+      "fuente": "Quadratín Michoacán",
+      "url": "https://www.quadratin.com.mx/sucesos/aseguran-vehiculo-con-alteraciones-y-reporte-de-robo-en-guanajuato/",
+      "dot_color": "#c0392b",
+      "badge_txt": "ROBO",
       "lat": 21.02,
       "lon": -101.26
     }
