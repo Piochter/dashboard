@@ -1,75 +1,12 @@
 {
-  "ultima_actualizacion": "2026-06-07T00:28:00.694937-06:00",
-  "ultima_actualizacion_legible": "7 de junio de 2026 · 00:28 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-06-07T03:47:50.341012-06:00",
+  "ultima_actualizacion_legible": "7 de junio de 2026 · 03:47 CST",
+  "total": 0,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Medios nacionales",
-    "Medios regionales"
+    "Google News"
   ],
-  "grupos": [
-    {
-      "tipo": "cierre_parcial",
-      "color": "amarillo",
-      "icono": "🟡",
-      "label": "CIERRE PARCIAL / ACCIDENTES",
-      "col2": true,
-      "alertas": [
-        {
-          "id": "0af6395b",
-          "tipo": "cierre_parcial",
-          "ruta": "Periférico generan caos vial",
-          "descripcion": "Morelia: choques en Camelinas y Periférico generan caos vial. Y movilización de cuerpos de emergencia",
-          "recomendacion": "",
-          "fecha": "6 junio 2026 · 21:28 CST",
-          "fecha_iso": "2026-06-06T21:28:00-06:00",
-          "fuente": "Quadratín Michoacán",
-          "url": "https://www.quadratin.com.mx/sucesos/morelia-choques-en-camelinas-y-periferico-generan-caos-vial/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
-        }
-      ]
-    },
-    {
-      "tipo": "clima",
-      "color": "azul",
-      "icono": "🌧️",
-      "label": "ALERTA METEOROLÓGICA",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "359b9ffa",
-          "tipo": "clima",
-          "ruta": "Actualizan Alerta Naranja por persistencia de lluvias en las 16…",
-          "descripcion": "Actualizan Alerta Naranja por persistencia de lluvias en las 16 alcaldías. La SGIRPC activó alerta naranja para todas las alcaldías de la CDMX ante la persistencia de lluvias fuertes con riesgo de inundaciones.",
-          "recomendacion": "",
-          "fecha": "6 junio 2026 · 23:30 CST",
-          "fecha_iso": "2026-06-06T23:30:00-06:00",
-          "fuente": "24 Horas",
-          "url": "https://24-horas.mx/cdmx/actualizan-alerta-naranja-por-persistencia-de-lluvias-en-las-16-alcaldias/",
-          "dot_color": "#3498db",
-          "badge": "badge-clima",
-          "badge_txt": "ALERTA CLIMA",
-          "lat": 19.43,
-          "lon": -99.13
-        }
-      ]
-    }
-  ],
-  "para_mapa": [
-    {
-      "id": "359b9ffa",
-      "tipo": "clima",
-      "ruta": "Actualizan Alerta Naranja por persistencia de lluvias en las 16…",
-      "descripcion": "Actualizan Alerta Naranja por persistencia de lluvias en las 16 alcaldías. La SGIRPC activó alerta naranja para todas las alcaldías de la CDMX ante la persistencia de lluvias fuertes con riesgo de inundaciones.",
-      "fecha": "6 junio 2026 · 23:30 CST",
-      "fuente": "24 Horas",
-      "url": "https://24-horas.mx/cdmx/actualizan-alerta-naranja-por-persistencia-de-lluvias-en-las-16-alcaldias/",
-      "dot_color": "#3498db",
-      "badge_txt": "ALERTA CLIMA",
-      "lat": 19.43,
-      "lon": -99.13
-    }
-  ]
+  "grupos": [],
+  "para_mapa": [],
+  "nota": "Sin alertas activas en la ventana de tiempo configurada."
 }
