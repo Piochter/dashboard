@@ -1,10 +1,11 @@
 {
-  "ultima_actualizacion": "2026-06-07T09:16:22.812829-06:00",
-  "ultima_actualizacion_legible": "7 de junio de 2026 · 09:16 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-06-07T10:48:22.939859-06:00",
+  "ultima_actualizacion_legible": "7 de junio de 2026 · 10:48 CST",
+  "total": 3,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Google News"
+    "Google News",
+    "Medios regionales"
   ],
   "grupos": [
     {
@@ -27,39 +28,71 @@
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO"
-        },
+        }
+      ]
+    },
+    {
+      "tipo": "cierre_parcial",
+      "color": "amarillo",
+      "icono": "🟡",
+      "label": "CIERRE PARCIAL / ACCIDENTES",
+      "col2": true,
+      "alertas": [
         {
-          "id": "797e0a51",
-          "tipo": "bloqueo",
-          "ruta": "Bloqueos provocan cierre de carreteras hoy 7 de junio -…",
-          "descripcion": "Bloqueos provocan cierre de carreteras hoy 7 de junio - adn40.mx. Bloqueos provocan cierre de carreteras hoy 7 de junio adn40.mx",
+          "id": "e45284c2",
+          "tipo": "cierre_parcial",
+          "ruta": "Accidente cierra parcialmente carretera Poza Rica-Veracruz; alerta de niebla en…",
+          "descripcion": "Accidente cierra parcialmente carretera Poza Rica-Veracruz; alerta de niebla en Acatzingo-Maltrata - Diario de Xalapa - El Sol de México. Accidente cierra parcialmente carretera Poza Rica-Veracruz; alerta de niebla en Acatzingo-Maltrata - Diario de Xalapa El Sol de México",
           "recomendacion": "",
-          "fecha": "7 junio 2026 · 07:35 CST",
-          "fecha_iso": "2026-06-07T07:35:00-06:00",
-          "fuente": "adn40.mx",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNa3VYa3g3bUh2Rm9wZzJvZURSMmJyc1dFTTg2NEQ0bUJiRENCOERlcDVBZU8ySlVzSFRXdWNQLWJhbUZoREpRZlAycENWcDRHR24tMzZGa1pEeDQxM1ExRU8ybmxXUzFvZFpPRnpJMHExdUNhV2k5OHEyMS1ZdTk0Yl9FTW1iZmhlN0xVTENOYlNOM0ZPN1ptWnJ6Y1gyZy1XWU5ULTRlZHhQWVpaZ2VLS1NaOFdKOWZxWVA5MDBn?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 25.2,
-          "lon": -102.0
+          "fecha": "7 junio 2026 · 10:03 CST",
+          "fecha_iso": "2026-06-07T10:03:00-06:00",
+          "fuente": "El Sol de México",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPcnAzYllmNGxzbmJTa3lPMkZsMHZYZkd6QWF5ZkRMNmVZR0tVRVVFSVFxd01WQ21lNzUzdC1mRW9MVlVOaUQ3VktaMC05b2xCQmxDV3FCUzdvVjd2UXpQV2czX210WDRjQnJNUXA1UnUzVDQwOFdKSWZ3TWhyMHUtV2ZEVGI2djdMYTFnbVY3bVphT0g5WlFlV2pKRzhQdDlaUUZTLWhXbkRWU0hLY3ZzMHRUMV95Zkw0NkNhNElvRjJpSjcwVVdjODBCM3g3ei1DNzlaenJyTUNQQ2lBRGxV?oc=5",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 19.18,
+          "lon": -96.14
+        }
+      ]
+    },
+    {
+      "tipo": "clima",
+      "color": "azul",
+      "icono": "🌧️",
+      "label": "ALERTA METEOROLÓGICA",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "6d6153e9",
+          "tipo": "clima",
+          "ruta": "Tormenta en la ZMG deja inundaciones, vehículos afectados y árboles…",
+          "descripcion": "Tormenta en la ZMG deja inundaciones, vehículos afectados y árboles caídos. Las precipitaciones se mantuvieron de manera constante hasta las 4:30 horas del domingo, generando incidentes en varias colonias de la ciudad",
+          "recomendacion": "",
+          "fecha": "7 junio 2026 · 10:27 CST",
+          "fecha_iso": "2026-06-07T10:27:00-06:00",
+          "fuente": "El Informador Jalisco",
+          "url": "https://www.informador.mx/jalisco/tormenta-en-la-zmg-deja-inundaciones-vehiculos-afectados-y-arboles-caidos-20260607-0050.html",
+          "dot_color": "#3498db",
+          "badge": "badge-clima",
+          "badge_txt": "ALERTA CLIMA"
         }
       ]
     }
   ],
   "para_mapa": [
     {
-      "id": "797e0a51",
-      "tipo": "bloqueo",
-      "ruta": "Bloqueos provocan cierre de carreteras hoy 7 de junio -…",
-      "descripcion": "Bloqueos provocan cierre de carreteras hoy 7 de junio - adn40.mx. Bloqueos provocan cierre de carreteras hoy 7 de junio adn40.mx",
-      "fecha": "7 junio 2026 · 07:35 CST",
-      "fuente": "adn40.mx",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNa3VYa3g3bUh2Rm9wZzJvZURSMmJyc1dFTTg2NEQ0bUJiRENCOERlcDVBZU8ySlVzSFRXdWNQLWJhbUZoREpRZlAycENWcDRHR24tMzZGa1pEeDQxM1ExRU8ybmxXUzFvZFpPRnpJMHExdUNhV2k5OHEyMS1ZdTk0Yl9FTW1iZmhlN0xVTENOYlNOM0ZPN1ptWnJ6Y1gyZy1XWU5ULTRlZHhQWVpaZ2VLS1NaOFdKOWZxWVA5MDBn?oc=5",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 25.2,
-      "lon": -102.0
+      "id": "e45284c2",
+      "tipo": "cierre_parcial",
+      "ruta": "Accidente cierra parcialmente carretera Poza Rica-Veracruz; alerta de niebla en…",
+      "descripcion": "Accidente cierra parcialmente carretera Poza Rica-Veracruz; alerta de niebla en Acatzingo-Maltrata - Diario de Xalapa - El Sol de México. Accidente cierra parcialmente carretera Poza Rica-Veracruz; alerta de niebla en Acatzingo-Maltrata - Diario de Xalapa El Sol de México",
+      "fecha": "7 junio 2026 · 10:03 CST",
+      "fuente": "El Sol de México",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPcnAzYllmNGxzbmJTa3lPMkZsMHZYZkd6QWF5ZkRMNmVZR0tVRVVFSVFxd01WQ21lNzUzdC1mRW9MVlVOaUQ3VktaMC05b2xCQmxDV3FCUzdvVjd2UXpQV2czX210WDRjQnJNUXA1UnUzVDQwOFdKSWZ3TWhyMHUtV2ZEVGI2djdMYTFnbVY3bVphT0g5WlFlV2pKRzhQdDlaUUZTLWhXbkRWU0hLY3ZzMHRUMV95Zkw0NkNhNElvRjJpSjcwVVdjODBCM3g3ei1DNzlaenJyTUNQQ2lBRGxV?oc=5",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 19.18,
+      "lon": -96.14
     }
   ]
 }
