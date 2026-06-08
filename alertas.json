@@ -1,39 +1,14 @@
 {
-  "ultima_actualizacion": "2026-06-08T14:37:54.990447-06:00",
-  "ultima_actualizacion_legible": "8 de junio de 2026 · 14:37 CST",
-  "total": 4,
+  "ultima_actualizacion": "2026-06-08T16:17:06.434914-06:00",
+  "ultima_actualizacion_legible": "8 de junio de 2026 · 16:17 CST",
+  "total": 3,
   "ventana": "últimos 180 minutos",
   "fuentes": [
     "Medios nacionales",
-    "Quadratín + regionales",
+    "Medios regionales",
     "Telegram"
   ],
   "grupos": [
-    {
-      "tipo": "cierre_total",
-      "color": "rojo",
-      "icono": "🔴",
-      "label": "CIERRE TOTAL",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "37dec99e",
-          "tipo": "cierre_total",
-          "ruta": "Derrumbe en carretera Oaxaca–Puerto Ángel; piden extremar precauciones…",
-          "descripcion": "Derrumbe en carretera Oaxaca–Puerto Ángel; piden extremar precauciones. En el tramo comprendido entre San Mateo Río Hondo y Puerto Ángel, por lo que se mantiene el paso vehicular con precaución.",
-          "recomendacion": "",
-          "fecha": "8 junio 2026 · 12:11 CST",
-          "fecha_iso": "2026-06-08T12:11:00-06:00",
-          "fuente": "Quadratín Oaxaca",
-          "url": "https://oaxaca.quadratin.com.mx/derrumbe-en-carretera-oaxaca-puerto-angel-piden-extremar-precauciones/",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL",
-          "lat": 17.06,
-          "lon": -96.72
-        }
-      ]
-    },
     {
       "tipo": "bloqueo",
       "color": "rojo",
@@ -42,15 +17,15 @@
       "col2": false,
       "alertas": [
         {
-          "id": "8c68059a",
+          "id": "839d2d09",
           "tipo": "bloqueo",
-          "ruta": "Autopista del Sol",
-          "descripcion": "Toman maestros de CETEG caseta de Palo Blanco en la Autopista del Sol. Los docentes salieron de su edificio sindical y se dirigieron en grupos a la caseta como parte de su paro nacional",
+          "ruta": "carretera Silao-Trejo",
+          "descripcion": "Asesinan a Sergio Daniel afuera de negocio en la carretera Silao-Trejo. Uno de los tripulantes descendió y, al tener cerca a su víctima, sacó una pistola y le disparó en al menos ocho ocasiones, para después escapar con su cómplice.",
           "recomendacion": "",
-          "fecha": "8 junio 2026 · 13:56 CST",
-          "fecha_iso": "2026-06-08T13:56:00-06:00",
-          "fuente": "Quadratín Guerrero",
-          "url": "https://guerrero.quadratin.com.mx/toman-maestros-de-ceteg-caseta-de-palo-blanco-en-la-autopista-del-sol/",
+          "fecha": "8 junio 2026 · 14:03 CST",
+          "fecha_iso": "2026-06-08T14:03:00-06:00",
+          "fuente": "AM Guanajuato",
+          "url": "https://www.am.com.mx/guanajuato/2026/06/08/asesinan-a-sergio-daniel-afuera-de-negocio-en-la-carretera-silao-trejo-1803949.html",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO"
@@ -110,19 +85,6 @@
       "badge_txt": "BLOQUEO",
       "lat": 18.92,
       "lon": -99.23
-    },
-    {
-      "id": "37dec99e",
-      "tipo": "cierre_total",
-      "ruta": "Derrumbe en carretera Oaxaca–Puerto Ángel; piden extremar precauciones…",
-      "descripcion": "Derrumbe en carretera Oaxaca–Puerto Ángel; piden extremar precauciones. En el tramo comprendido entre San Mateo Río Hondo y Puerto Ángel, por lo que se mantiene el paso vehicular con precaución.",
-      "fecha": "8 junio 2026 · 12:11 CST",
-      "fuente": "Quadratín Oaxaca",
-      "url": "https://oaxaca.quadratin.com.mx/derrumbe-en-carretera-oaxaca-puerto-angel-piden-extremar-precauciones/",
-      "dot_color": "#e74c3c",
-      "badge_txt": "CIERRE TOTAL",
-      "lat": 17.06,
-      "lon": -96.72
     }
   ]
 }
