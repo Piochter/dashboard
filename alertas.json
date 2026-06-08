@@ -1,32 +1,32 @@
 {
-  "ultima_actualizacion": "2026-06-07T20:01:50.620671-06:00",
-  "ultima_actualizacion_legible": "7 de junio de 2026 · 20:01 CST",
+  "ultima_actualizacion": "2026-06-08T00:57:08.131889-06:00",
+  "ultima_actualizacion_legible": "8 de junio de 2026 · 00:57 CST",
   "total": 1,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Medios regionales"
+    "Medios nacionales"
   ],
   "grupos": [
     {
-      "tipo": "cierre_parcial",
-      "color": "amarillo",
-      "icono": "🟡",
-      "label": "CIERRE PARCIAL / ACCIDENTES",
-      "col2": true,
+      "tipo": "bloqueo",
+      "color": "rojo",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
+      "col2": false,
       "alertas": [
         {
-          "id": "79882975",
-          "tipo": "cierre_parcial",
-          "ruta": "Menor de 12 años se dispara en la cara con…",
-          "descripcion": "Menor de 12 años se dispara en la cara con el arma de su papá, en Las Trojes. Un accidente doméstico con un arma de fuego deja a un niño bajo atención médica especializada, encendiendo las alarmas sobre el resguardo de armamento en los hogares.",
+          "id": "c1dd60f4",
+          "tipo": "bloqueo",
+          "ruta": "¿Será? / Presionarán más…",
+          "descripcion": "¿Será? / Presionarán más. Esta semana se espera que los maestros de la CNTE vuelvan a emprender protestas en la Ciudad de México y otros estados de gran afluencia turística. La Coordinadora dio tregua el fin de semana que no laboran, pero alistan múltiples movilizaciones para este lunes con el objetivo de presionar al Gobierno federal, que tiene todo […]",
           "recomendacion": "",
-          "fecha": "7 junio 2026 · 18:52 CST",
-          "fecha_iso": "2026-06-07T18:52:00-06:00",
-          "fuente": "AM Guanajuato",
-          "url": "https://www.am.com.mx/leon/2026/06/07/menor-de-12-anos-se-dispara-en-la-cara-con-el-arma-de-su-papa-en-las-trojes-1803739.html",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
+          "fecha": "8 junio 2026 · 00:01 CST",
+          "fecha_iso": "2026-06-08T00:01:00-06:00",
+          "fuente": "24 Horas",
+          "url": "https://24-horas.mx/columnas/politica-columnas/sera/sera-presionaran-mas/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
         }
       ]
     }
