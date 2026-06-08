@@ -1,35 +1,12 @@
 {
-  "ultima_actualizacion": "2026-06-08T00:57:08.131889-06:00",
-  "ultima_actualizacion_legible": "8 de junio de 2026 · 00:57 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-06-08T05:56:06.356727-06:00",
+  "ultima_actualizacion_legible": "8 de junio de 2026 · 05:56 CST",
+  "total": 0,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Medios nacionales"
+    "Google News"
   ],
-  "grupos": [
-    {
-      "tipo": "bloqueo",
-      "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "c1dd60f4",
-          "tipo": "bloqueo",
-          "ruta": "¿Será? / Presionarán más…",
-          "descripcion": "¿Será? / Presionarán más. Esta semana se espera que los maestros de la CNTE vuelvan a emprender protestas en la Ciudad de México y otros estados de gran afluencia turística. La Coordinadora dio tregua el fin de semana que no laboran, pero alistan múltiples movilizaciones para este lunes con el objetivo de presionar al Gobierno federal, que tiene todo […]",
-          "recomendacion": "",
-          "fecha": "8 junio 2026 · 00:01 CST",
-          "fecha_iso": "2026-06-08T00:01:00-06:00",
-          "fuente": "24 Horas",
-          "url": "https://24-horas.mx/columnas/politica-columnas/sera/sera-presionaran-mas/",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        }
-      ]
-    }
-  ],
-  "para_mapa": []
+  "grupos": [],
+  "para_mapa": [],
+  "nota": "Sin alertas activas en la ventana de tiempo configurada."
 }
