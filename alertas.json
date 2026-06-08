@@ -1,12 +1,127 @@
 {
-  "ultima_actualizacion": "2026-06-08T05:56:06.356727-06:00",
-  "ultima_actualizacion_legible": "8 de junio de 2026 · 05:56 CST",
-  "total": 0,
+  "ultima_actualizacion": "2026-06-08T09:44:30.257193-06:00",
+  "ultima_actualizacion_legible": "8 de junio de 2026 · 09:44 CST",
+  "total": 5,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Google News"
+    "Google News",
+    "Medios regionales",
+    "Quadratín + regionales"
   ],
-  "grupos": [],
-  "para_mapa": [],
-  "nota": "Sin alertas activas en la ventana de tiempo configurada."
+  "grupos": [
+    {
+      "tipo": "bloqueo",
+      "color": "rojo",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "66bd8118",
+          "tipo": "bloqueo",
+          "ruta": "Bloqueos carreteras HOY 8 de junio: Autopistas cerradas en México,…",
+          "descripcion": "Bloqueos carreteras HOY 8 de junio: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 8 de junio: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
+          "recomendacion": "",
+          "fecha": "8 junio 2026 · 07:03 CST",
+          "fecha_iso": "2026-06-08T07:03:00-06:00",
+          "fuente": "Eje Central",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNY0RSQndsQ0lyazF5SVZOYmZ4QkVXdmY0bWppTTRBZ3JvV0x3TENxN0xmYXVOQmVVcXkyaXZCTWxUQUtiRnd5X19hd3o0WmVYVzJlZjZIazZNbGtqaUlpVDNnMlRCLWR5YzFjUEZsNHE3d1RwZGFEUXhKQmpMM1BLR1VwVDZmQ1lmZXZxMTRQQVZPclprMG5IOVZXc2t6OV9RaEFvZEtEX1d6NFBYbGxUUmRwMVVvc1VLeXE4YURwVnJkSWpkcS1nZzNBM2liajllNkFIVDVmbWs3NzVncmFvX1lHYUZ3QQ?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
+        {
+          "id": "feab786a",
+          "tipo": "bloqueo",
+          "ruta": "¿Hay Bloqueos en Carreteras Hoy? Así las Autopistas de México…",
+          "descripcion": "¿Hay Bloqueos en Carreteras Hoy? Así las Autopistas de México este 8 de Junio 2026 - N+. ¿Hay Bloqueos en Carreteras Hoy? Así las Autopistas de México este 8 de Junio 2026 N+",
+          "recomendacion": "",
+          "fecha": "8 junio 2026 · 06:56 CST",
+          "fecha_iso": "2026-06-08T06:56:00-06:00",
+          "fuente": "N+",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdUNVdno4QV9RSm1XWGtseVBOLTM5dVk2cGh0ZTU1WE94LVRMdjVMbzRlSW1iZDRsX1Jlb3RfZHg5ZlV4Wmw2bzZKbWJxZUZQNW1ONGtTMFl3N2RuYmVqYUtlLXFLalFtaWRidUtiSUdySXkyM0J3aWt6ZXdpUTNhX01mbUtMYy0wYXFTbjl3aGRlNmFfXzEzUzZjdVB1Vm9JTDZYSXZrYmNFb1pJdmdrdEVaMHNWWG8?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        }
+      ]
+    },
+    {
+      "tipo": "cierre_parcial",
+      "color": "amarillo",
+      "icono": "🟡",
+      "label": "CIERRE PARCIAL / ACCIDENTES",
+      "col2": true,
+      "alertas": [
+        {
+          "id": "ac17f7fe",
+          "tipo": "cierre_parcial",
+          "ruta": "¿Hay Cierres en la Autopista México-Querétaro Hoy? Así la Carretera…",
+          "descripcion": "¿Hay Cierres en la Autopista México-Querétaro Hoy? Así la Carretera este 8 de Junio de 2026 - N+. ¿Hay Cierres en la Autopista México-Querétaro Hoy? Así la Carretera este 8 de Junio de 2026 N+",
+          "recomendacion": "",
+          "fecha": "8 junio 2026 · 08:39 CST",
+          "fecha_iso": "2026-06-08T08:39:00-06:00",
+          "fuente": "N+",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOLWxmbFN4YmExNFRFSGxwVFkzX0ZFNTUtSUdfYnJ4MzdndkZWd0xNSTdOSTk3MzFjUU1XcVRlTlhscDE1THJVZzNwVTcxaEtXVXRBNU4tVFB4ZWVaRkZxZnF1bnJ0MVJxU1AwamRYc2Uxc24tMjFhejJJd0lUeDQ2REJGNllOc0Y5eURDd1lfanpGWkxoQnNJc0U2MzJLWm1wdXJIczRYc0h3ODBjeFFyczJ0cWFYMldxRFF3MDUtOA?oc=5",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 20.1,
+          "lon": -99.5
+        },
+        {
+          "id": "fe31a3fd",
+          "tipo": "cierre_parcial",
+          "ruta": "Resultan ilesos estudiantes de la UABJO tras percance en autopista…",
+          "descripcion": "Resultan ilesos estudiantes de la UABJO tras percance en autopista. El vehículo presentó una falla mecánica mientras ascendía una pendiente,",
+          "recomendacion": "",
+          "fecha": "8 junio 2026 · 08:35 CST",
+          "fecha_iso": "2026-06-08T08:35:00-06:00",
+          "fuente": "Quadratín Oaxaca",
+          "url": "https://oaxaca.quadratin.com.mx/resultan-ilesos-estudiantes-de-la-uabjo-tras-percance-en-autopista/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        }
+      ]
+    },
+    {
+      "tipo": "clima",
+      "color": "azul",
+      "icono": "🌧️",
+      "label": "ALERTA METEOROLÓGICA",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "efb209bd",
+          "tipo": "clima",
+          "ruta": "¿Qué zonas de México tienen alerta de \"diluvios\" por \"Boris\"?…",
+          "descripcion": "¿Qué zonas de México tienen alerta de \"diluvios\" por \"Boris\"?. El Servicio Meteorológico Nacional advierte sobre lluvias torrenciales, oleaje elevado y riesgo de inundaciones en el sur y occidente del país por el avance del ciclón",
+          "recomendacion": "",
+          "fecha": "8 junio 2026 · 08:38 CST",
+          "fecha_iso": "2026-06-08T08:38:00-06:00",
+          "fuente": "El Informador Jalisco",
+          "url": "https://www.informador.mx/mexico/tormenta-boris-desata-alerta-por-diluvios-en-mexico-que-zonas-del-pais-estan-en-peligro-20260608-0046.html",
+          "dot_color": "#3498db",
+          "badge": "badge-clima",
+          "badge_txt": "ALERTA CLIMA"
+        }
+      ]
+    }
+  ],
+  "para_mapa": [
+    {
+      "id": "ac17f7fe",
+      "tipo": "cierre_parcial",
+      "ruta": "¿Hay Cierres en la Autopista México-Querétaro Hoy? Así la Carretera…",
+      "descripcion": "¿Hay Cierres en la Autopista México-Querétaro Hoy? Así la Carretera este 8 de Junio de 2026 - N+. ¿Hay Cierres en la Autopista México-Querétaro Hoy? Así la Carretera este 8 de Junio de 2026 N+",
+      "fecha": "8 junio 2026 · 08:39 CST",
+      "fuente": "N+",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOLWxmbFN4YmExNFRFSGxwVFkzX0ZFNTUtSUdfYnJ4MzdndkZWd0xNSTdOSTk3MzFjUU1XcVRlTlhscDE1THJVZzNwVTcxaEtXVXRBNU4tVFB4ZWVaRkZxZnF1bnJ0MVJxU1AwamRYc2Uxc24tMjFhejJJd0lUeDQ2REJGNllOc0Y5eURDd1lfanpGWkxoQnNJc0U2MzJLWm1wdXJIczRYc0h3ODBjeFFyczJ0cWFYMldxRFF3MDUtOA?oc=5",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 20.1,
+      "lon": -99.5
+    }
+  ]
 }
