@@ -1,52 +1,12 @@
 {
-  "ultima_actualizacion": "2026-06-07T17:37:13.806402-06:00",
-  "ultima_actualizacion_legible": "7 de junio de 2026 · 17:37 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-06-07T20:01:50.620671-06:00",
+  "ultima_actualizacion_legible": "7 de junio de 2026 · 20:01 CST",
+  "total": 1,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Google News",
-    "Medios nacionales"
+    "Medios regionales"
   ],
   "grupos": [
-    {
-      "tipo": "bloqueo",
-      "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "9a9088b4",
-          "tipo": "bloqueo",
-          "ruta": "Levantan Bloqueo en la México-Toluca por Tala Clandestina - N+…",
-          "descripcion": "Levantan Bloqueo en la México-Toluca por Tala Clandestina - N+. Levantan Bloqueo en la México-Toluca por Tala Clandestina N+",
-          "recomendacion": "",
-          "fecha": "7 junio 2026 · 15:08 CST",
-          "fecha_iso": "2026-06-07T15:08:00-06:00",
-          "fuente": "N+",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORGhjX0hhUkpOVTZoUGxOZ2RMTVoxaE8zSUhVVVhhNGNqMkxVd0Jld2FyaXhhVkJjZjVKZjNjWDZrLXpMSFVzSzAwaUZHenV5YmdjcWJfb0VNcnhxckhYRkFTZDNsQVh5TG53SGdSbERWVkRvLUx1aTFaQzZUUzJiMHJlS1BqcDZNU1lkS0JLYlQ2UHh2Q3hDdEc1TUh1YUpoRUZVdE1WdGw4X0lnSzRfWEpMODBnM3No?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 19.29,
-          "lon": -99.66
-        },
-        {
-          "id": "7bb7ef63",
-          "tipo": "bloqueo",
-          "ruta": "Concanaco advierte pérdidas de 260 mdp diarios por la CNTE…",
-          "descripcion": "Concanaco advierte pérdidas de 260 mdp diarios por la CNTE. Concanaco pronuncia ante las afectaciones económicas provocadas por bloqueos, plantones y movilizaciones de la CNTE",
-          "recomendacion": "",
-          "fecha": "7 junio 2026 · 14:38 CST",
-          "fecha_iso": "2026-06-07T14:38:00-06:00",
-          "fuente": "24 Horas",
-          "url": "https://24-horas.mx/negocios/concanaco-advierte-perdidas-de-260-mdp-diarios-por-la-cnte/",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        }
-      ]
-    },
     {
       "tipo": "cierre_parcial",
       "color": "amarillo",
@@ -55,50 +15,21 @@
       "col2": true,
       "alertas": [
         {
-          "id": "e45284c2",
+          "id": "79882975",
           "tipo": "cierre_parcial",
-          "ruta": "Accidente cierra parcialmente carretera Poza Rica-Veracruz; alerta de niebla en…",
-          "descripcion": "Accidente cierra parcialmente carretera Poza Rica-Veracruz; alerta de niebla en Acatzingo-Maltrata - Diario de Xalapa - El Sol de México. Accidente cierra parcialmente carretera Poza Rica-Veracruz; alerta de niebla en Acatzingo-Maltrata - Diario de Xalapa El Sol de México",
+          "ruta": "Menor de 12 años se dispara en la cara con…",
+          "descripcion": "Menor de 12 años se dispara en la cara con el arma de su papá, en Las Trojes. Un accidente doméstico con un arma de fuego deja a un niño bajo atención médica especializada, encendiendo las alarmas sobre el resguardo de armamento en los hogares.",
           "recomendacion": "",
-          "fecha": "7 junio 2026 · 15:43 CST",
-          "fecha_iso": "2026-06-07T15:43:00-06:00",
-          "fuente": "El Sol de México",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPcnAzYllmNGxzbmJTa3lPMkZsMHZYZkd6QWF5ZkRMNmVZR0tVRVVFSVFxd01WQ21lNzUzdC1mRW9MVlVOaUQ3VktaMC05b2xCQmxDV3FCUzdvVjd2UXpQV2czX210WDRjQnJNUXA1UnUzVDQwOFdKSWZ3TWhyMHUtV2ZEVGI2djdMYTFnbVY3bVphT0g5WlFlV2pKRzhQdDlaUUZTLWhXbkRWU0hLY3ZzMHRUMV95Zkw0NkNhNElvRjJpSjcwVVdjODBCM3g3ei1DNzlaenJyTUNQQ2lBRGxV?oc=5",
+          "fecha": "7 junio 2026 · 18:52 CST",
+          "fecha_iso": "2026-06-07T18:52:00-06:00",
+          "fuente": "AM Guanajuato",
+          "url": "https://www.am.com.mx/leon/2026/06/07/menor-de-12-anos-se-dispara-en-la-cara-con-el-arma-de-su-papa-en-las-trojes-1803739.html",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.18,
-          "lon": -96.14
+          "badge_txt": "CIERRE PARCIAL"
         }
       ]
     }
   ],
-  "para_mapa": [
-    {
-      "id": "e45284c2",
-      "tipo": "cierre_parcial",
-      "ruta": "Accidente cierra parcialmente carretera Poza Rica-Veracruz; alerta de niebla en…",
-      "descripcion": "Accidente cierra parcialmente carretera Poza Rica-Veracruz; alerta de niebla en Acatzingo-Maltrata - Diario de Xalapa - El Sol de México. Accidente cierra parcialmente carretera Poza Rica-Veracruz; alerta de niebla en Acatzingo-Maltrata - Diario de Xalapa El Sol de México",
-      "fecha": "7 junio 2026 · 15:43 CST",
-      "fuente": "El Sol de México",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPcnAzYllmNGxzbmJTa3lPMkZsMHZYZkd6QWF5ZkRMNmVZR0tVRVVFSVFxd01WQ21lNzUzdC1mRW9MVlVOaUQ3VktaMC05b2xCQmxDV3FCUzdvVjd2UXpQV2czX210WDRjQnJNUXA1UnUzVDQwOFdKSWZ3TWhyMHUtV2ZEVGI2djdMYTFnbVY3bVphT0g5WlFlV2pKRzhQdDlaUUZTLWhXbkRWU0hLY3ZzMHRUMV95Zkw0NkNhNElvRjJpSjcwVVdjODBCM3g3ei1DNzlaenJyTUNQQ2lBRGxV?oc=5",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.18,
-      "lon": -96.14
-    },
-    {
-      "id": "9a9088b4",
-      "tipo": "bloqueo",
-      "ruta": "Levantan Bloqueo en la México-Toluca por Tala Clandestina - N+…",
-      "descripcion": "Levantan Bloqueo en la México-Toluca por Tala Clandestina - N+. Levantan Bloqueo en la México-Toluca por Tala Clandestina N+",
-      "fecha": "7 junio 2026 · 15:08 CST",
-      "fuente": "N+",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORGhjX0hhUkpOVTZoUGxOZ2RMTVoxaE8zSUhVVVhhNGNqMkxVd0Jld2FyaXhhVkJjZjVKZjNjWDZrLXpMSFVzSzAwaUZHenV5YmdjcWJfb0VNcnhxckhYRkFTZDNsQVh5TG53SGdSbERWVkRvLUx1aTFaQzZUUzJiMHJlS1BqcDZNU1lkS0JLYlQ2UHh2Q3hDdEc1TUh1YUpoRUZVdE1WdGw4X0lnSzRfWEpMODBnM3No?oc=5",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 19.29,
-      "lon": -99.66
-    }
-  ]
+  "para_mapa": []
 }
