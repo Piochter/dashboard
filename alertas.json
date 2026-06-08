@@ -1,12 +1,10 @@
 {
-  "ultima_actualizacion": "2026-06-08T12:16:33.246758-06:00",
-  "ultima_actualizacion_legible": "8 de junio de 2026 · 12:16 CST",
-  "total": 8,
+  "ultima_actualizacion": "2026-06-08T14:37:54.990447-06:00",
+  "ultima_actualizacion_legible": "8 de junio de 2026 · 14:37 CST",
+  "total": 4,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Google News",
     "Medios nacionales",
-    "Medios regionales",
     "Quadratín + regionales",
     "Telegram"
   ],
@@ -33,34 +31,6 @@
           "badge_txt": "CIERRE TOTAL",
           "lat": 17.06,
           "lon": -96.72
-        },
-        {
-          "id": "6b2f6db4",
-          "tipo": "cierre_total",
-          "ruta": "🚨 Volcadura en #PeriféricoNorte causa congestionamientos dirección a #Satélite https://lajornadaestadodemexico.com/volcadura-en-periferico-norte-causa-congestionamientos-direccion-a-satelite/…",
-          "descripcion": "🚨 Volcadura en #PeriféricoNorte causa congestionamientos dirección a #Satélite\n\nhttps://lajornadaestadodemexico.com/volcadura-en-periferico-norte-causa-congestionamientos-direccion-a-satelite/",
-          "recomendacion": "",
-          "fecha": "8 junio 2026 · 10:20 CST",
-          "fecha_iso": "2026-06-08T10:20:00-06:00",
-          "fuente": "Telegram @jornadaedomex",
-          "url": "https://t.me/jornadaedomex/10951",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL"
-        },
-        {
-          "id": "7d17098d",
-          "tipo": "cierre_total",
-          "ruta": "Resultan ilesas 3 mujeres en volcadura en Ejutla…",
-          "descripcion": "Resultan ilesas 3 mujeres en volcadura en Ejutla. La Guardia Nacional tomó conocimiento del percance en la supercarretera",
-          "recomendacion": "",
-          "fecha": "8 junio 2026 · 10:03 CST",
-          "fecha_iso": "2026-06-08T10:03:00-06:00",
-          "fuente": "Quadratín Oaxaca",
-          "url": "https://oaxaca.quadratin.com.mx/resultan-ilesas-3-mujeres-en-volcadura-en-ejutla/",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL"
         }
       ]
     },
@@ -72,48 +42,34 @@
       "col2": false,
       "alertas": [
         {
-          "id": "364dc732",
+          "id": "8c68059a",
           "tipo": "bloqueo",
-          "ruta": "Con Policía Morelia evitan que manifestantes tomaran OOAPAS…",
-          "descripcion": "Con Policía Morelia evitan que manifestantes tomaran OOAPAS. La protesta se extendió a vialidades aledañas del centro",
+          "ruta": "Autopista del Sol",
+          "descripcion": "Toman maestros de CETEG caseta de Palo Blanco en la Autopista del Sol. Los docentes salieron de su edificio sindical y se dirigieron en grupos a la caseta como parte de su paro nacional",
           "recomendacion": "",
-          "fecha": "8 junio 2026 · 11:48 CST",
-          "fecha_iso": "2026-06-08T11:48:00-06:00",
-          "fuente": "Quadratín Michoacán",
-          "url": "https://www.quadratin.com.mx/sucesos/con-policia-morelia-evitan-que-manifestantes-tomaran-ooapas/",
+          "fecha": "8 junio 2026 · 13:56 CST",
+          "fecha_iso": "2026-06-08T13:56:00-06:00",
+          "fuente": "Quadratín Guerrero",
+          "url": "https://guerrero.quadratin.com.mx/toman-maestros-de-ceteg-caseta-de-palo-blanco-en-la-autopista-del-sol/",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO"
         },
         {
-          "id": "feab786a",
+          "id": "d5ae8e7f",
           "tipo": "bloqueo",
-          "ruta": "¿Hay Bloqueos en Carreteras Hoy? Así las Autopistas de México…",
-          "descripcion": "¿Hay Bloqueos en Carreteras Hoy? Así las Autopistas de México este 8 de Junio 2026 - N+. ¿Hay Bloqueos en Carreteras Hoy? Así las Autopistas de México este 8 de Junio 2026 N+",
+          "ruta": "Decomisan 59 artefactos explosivos en autobús en la México-Cuernavaca, iba…",
+          "descripcion": "Decomisan 59 artefactos explosivos en autobús en la México-Cuernavaca, iba a manifestación de la CNTE. El autobús circulaba en la México-Cuernavaca con 59 artefactos explosivos de fabricación casera; se localizó tras una revisión.",
           "recomendacion": "",
-          "fecha": "8 junio 2026 · 10:20 CST",
-          "fecha_iso": "2026-06-08T10:20:00-06:00",
-          "fuente": "N+",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdUNVdno4QV9RSm1XWGtseVBOLTM5dVk2cGh0ZTU1WE94LVRMdjVMbzRlSW1iZDRsX1Jlb3RfZHg5ZlV4Wmw2bzZKbWJxZUZQNW1ONGtTMFl3N2RuYmVqYUtlLXFLalFtaWRidUtiSUdySXkyM0J3aWt6ZXdpUTNhX01mbUtMYy0wYXFTbjl3aGRlNmFfXzEzUzZjdVB1Vm9JTDZYSXZrYmNFb1pJdmdrdEVaMHNWWG8?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        },
-        {
-          "id": "5460458f",
-          "tipo": "bloqueo",
-          "ruta": "CNTE inicia mega manifestación en distintos puntos de la CDMX…",
-          "descripcion": "CNTE inicia mega manifestación en distintos puntos de la CDMX. La CNTE prepara una manifestación que afectará distintos puntos de la Ciudad de México a partir de las 10:00 horas del lunes.",
-          "recomendacion": "",
-          "fecha": "8 junio 2026 · 10:17 CST",
-          "fecha_iso": "2026-06-08T10:17:00-06:00",
+          "fecha": "8 junio 2026 · 13:47 CST",
+          "fecha_iso": "2026-06-08T13:47:00-06:00",
           "fuente": "24 Horas",
-          "url": "https://24-horas.mx/cdmx/cnte-inicia-mega-manifestacion-en-distintos-puntos-de-la-cdmx/",
+          "url": "https://24-horas.mx/mexico/decomisan-59-artefactos-explosivos-en-autobus-en-la-mexico-cuernavaca/",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO",
-          "lat": 19.43,
-          "lon": -99.13
+          "lat": 18.92,
+          "lon": -99.23
         }
       ]
     },
@@ -125,29 +81,15 @@
       "col2": true,
       "alertas": [
         {
-          "id": "94f1172f",
+          "id": "dc6d7430",
           "tipo": "cierre_parcial",
-          "ruta": "Denuncia sindicato retención ilegal de ISR a 28 agremiados de…",
-          "descripcion": "Denuncia sindicato retención ilegal de ISR a 28 agremiados de CAPAMA. A cada agremiado la paramunicipal le adeuda 11 pesos diarios y le retiene 104 pesos mensuales, acusó el secretario general del Stooaeg",
+          "ruta": "🚨Accidente en Paseo Tollocan complica la circulación hoy 8 de…",
+          "descripcion": "🚨Accidente en Paseo Tollocan complica la circulación hoy 8 de junio👇\n https://lajornadaestadodemexico.com/accidente-en-paseo-tollocan-hoy-8-de-junio/",
           "recomendacion": "",
-          "fecha": "8 junio 2026 · 11:20 CST",
-          "fecha_iso": "2026-06-08T11:20:00-06:00",
-          "fuente": "Quadratín Guerrero",
-          "url": "https://guerrero.quadratin.com.mx/denuncia-sindicato-retencion-ilegal-de-isr-a-28-agremiados-de-capama/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
-        },
-        {
-          "id": "0d8a48b4",
-          "tipo": "cierre_parcial",
-          "ruta": "Se mantiene cierre en 4 estaciones de Línea 2 del…",
-          "descripcion": "Se mantiene cierre en 4 estaciones de Línea 2 del Metro. El Metro concluyó el servicio en dos tramos en la Línea 2, con lo que las corridas de los trenes ya se realizan de forma continua.",
-          "recomendacion": "",
-          "fecha": "8 junio 2026 · 10:05 CST",
-          "fecha_iso": "2026-06-08T10:05:00-06:00",
-          "fuente": "24 Horas",
-          "url": "https://24-horas.mx/cdmx/se-mantiene-cierre-en-4-estaciones-de-linea-2-del-metro/",
+          "fecha": "8 junio 2026 · 14:16 CST",
+          "fecha_iso": "2026-06-08T14:16:00-06:00",
+          "fuente": "Telegram @jornadaedomex",
+          "url": "https://t.me/jornadaedomex/10955",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL"
@@ -156,6 +98,19 @@
     }
   ],
   "para_mapa": [
+    {
+      "id": "d5ae8e7f",
+      "tipo": "bloqueo",
+      "ruta": "Decomisan 59 artefactos explosivos en autobús en la México-Cuernavaca, iba…",
+      "descripcion": "Decomisan 59 artefactos explosivos en autobús en la México-Cuernavaca, iba a manifestación de la CNTE. El autobús circulaba en la México-Cuernavaca con 59 artefactos explosivos de fabricación casera; se localizó tras una revisión.",
+      "fecha": "8 junio 2026 · 13:47 CST",
+      "fuente": "24 Horas",
+      "url": "https://24-horas.mx/mexico/decomisan-59-artefactos-explosivos-en-autobus-en-la-mexico-cuernavaca/",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 18.92,
+      "lon": -99.23
+    },
     {
       "id": "37dec99e",
       "tipo": "cierre_total",
@@ -168,19 +123,6 @@
       "badge_txt": "CIERRE TOTAL",
       "lat": 17.06,
       "lon": -96.72
-    },
-    {
-      "id": "5460458f",
-      "tipo": "bloqueo",
-      "ruta": "CNTE inicia mega manifestación en distintos puntos de la CDMX…",
-      "descripcion": "CNTE inicia mega manifestación en distintos puntos de la CDMX. La CNTE prepara una manifestación que afectará distintos puntos de la Ciudad de México a partir de las 10:00 horas del lunes.",
-      "fecha": "8 junio 2026 · 10:17 CST",
-      "fuente": "24 Horas",
-      "url": "https://24-horas.mx/cdmx/cnte-inicia-mega-manifestacion-en-distintos-puntos-de-la-cdmx/",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 19.43,
-      "lon": -99.13
     }
   ]
 }
