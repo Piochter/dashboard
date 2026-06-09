@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-06-09T11:38:24.640820-06:00",
-  "ultima_actualizacion_legible": "9 de junio de 2026 · 11:38 CST",
-  "total": 5,
+  "ultima_actualizacion": "2026-06-09T13:50:07.692983-06:00",
+  "ultima_actualizacion_legible": "9 de junio de 2026 · 13:50 CST",
+  "total": 3,
   "ventana": "últimos 180 minutos",
   "fuentes": [
     "Medios regionales",
@@ -17,34 +17,18 @@
       "col2": false,
       "alertas": [
         {
-          "id": "87559f30",
+          "id": "28b746a1",
           "tipo": "bloqueo",
-          "ruta": "📢Habitantes de #MinaMéxico levantan las plumas nuevamente de la caseta…",
-          "descripcion": "📢Habitantes de #MinaMéxico levantan las plumas nuevamente de la caseta #ElDorado\n\nhttps://lajornadaestadodemexico.com/mina-mexico-caseta-el-dorado-protesta/",
+          "ruta": "SAT lanza el nuevo candado digital que puede cancelar tus…",
+          "descripcion": "SAT lanza el nuevo candado digital que puede cancelar tus facturaciones en 24 horas. Quienes no cumplan con la veracidad de sus movimientos fiscales podrían ser acreedores al bloqueo comercial",
           "recomendacion": "",
-          "fecha": "9 junio 2026 · 08:55 CST",
-          "fecha_iso": "2026-06-09T08:55:00-06:00",
-          "fuente": "Telegram @jornadaedomex",
-          "url": "https://t.me/jornadaedomex/10968",
+          "fecha": "9 junio 2026 · 13:14 CST",
+          "fecha_iso": "2026-06-09T13:14:00-06:00",
+          "fuente": "El Informador Jalisco",
+          "url": "https://www.informador.mx/economia/sat-lanza-el-nuevo-candado-digital-que-puede-cancelar-tus-facturaciones-en-24-horas-20260609-0108.html",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO"
-        },
-        {
-          "id": "f0d3e270",
-          "tipo": "bloqueo",
-          "ruta": "Mil 559 escuelas de Guerrero permanecen en paro del CNTE:…",
-          "descripcion": "Mil 559 escuelas de Guerrero permanecen en paro del CNTE: SEP. Un total de mil 134 mil 382 alumnos están sin clases, informa Mario Delgado",
-          "recomendacion": "",
-          "fecha": "9 junio 2026 · 08:41 CST",
-          "fecha_iso": "2026-06-09T08:41:00-06:00",
-          "fuente": "Quadratín Guerrero",
-          "url": "https://guerrero.quadratin.com.mx/mil-559-escuelas-de-guerrero-permanecen-en-paro-del-cnte-sep/",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 17.55,
-          "lon": -99.5
         }
       ]
     },
@@ -86,22 +70,6 @@
           "badge_txt": "CIERRE PARCIAL",
           "lat": 19.43,
           "lon": -99.13
-        },
-        {
-          "id": "8e0d3c6b",
-          "tipo": "cierre_parcial",
-          "ruta": "Cerca de 40 fallecidos tras el sismo en Mindanao, Filipinas…",
-          "descripcion": "Cerca de 40 fallecidos tras el sismo en Mindanao, Filipinas. Según datos del Consejo Nacional para la Reducción y Gestión del Riesgo de Desastres, cuatro personas permanecen sin localizar y más de 470 resultaron heridas por el sismo en la isla sureña de Mindanao",
-          "recomendacion": "",
-          "fecha": "9 junio 2026 · 08:38 CST",
-          "fecha_iso": "2026-06-09T08:38:00-06:00",
-          "fuente": "El Informador Jalisco",
-          "url": "https://www.informador.mx/internacional/cerca-de-40-fallecidos-tras-el-sismo-en-mindanao-filipinas-20260609-0056.html",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 25.2,
-          "lon": -102.0
         }
       ]
     }
@@ -132,32 +100,6 @@
       "badge_txt": "CIERRE PARCIAL",
       "lat": 19.43,
       "lon": -99.13
-    },
-    {
-      "id": "f0d3e270",
-      "tipo": "bloqueo",
-      "ruta": "Mil 559 escuelas de Guerrero permanecen en paro del CNTE:…",
-      "descripcion": "Mil 559 escuelas de Guerrero permanecen en paro del CNTE: SEP. Un total de mil 134 mil 382 alumnos están sin clases, informa Mario Delgado",
-      "fecha": "9 junio 2026 · 08:41 CST",
-      "fuente": "Quadratín Guerrero",
-      "url": "https://guerrero.quadratin.com.mx/mil-559-escuelas-de-guerrero-permanecen-en-paro-del-cnte-sep/",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 17.55,
-      "lon": -99.5
-    },
-    {
-      "id": "8e0d3c6b",
-      "tipo": "cierre_parcial",
-      "ruta": "Cerca de 40 fallecidos tras el sismo en Mindanao, Filipinas…",
-      "descripcion": "Cerca de 40 fallecidos tras el sismo en Mindanao, Filipinas. Según datos del Consejo Nacional para la Reducción y Gestión del Riesgo de Desastres, cuatro personas permanecen sin localizar y más de 470 resultaron heridas por el sismo en la isla sureña de Mindanao",
-      "fecha": "9 junio 2026 · 08:38 CST",
-      "fuente": "El Informador Jalisco",
-      "url": "https://www.informador.mx/internacional/cerca-de-40-fallecidos-tras-el-sismo-en-mindanao-filipinas-20260609-0056.html",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 25.2,
-      "lon": -102.0
     }
   ]
 }
