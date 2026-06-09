@@ -1,51 +1,12 @@
 {
-  "ultima_actualizacion": "2026-06-08T19:33:19.551105-06:00",
-  "ultima_actualizacion_legible": "8 de junio de 2026 · 19:33 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-06-08T23:54:12.379839-06:00",
+  "ultima_actualizacion_legible": "8 de junio de 2026 · 23:54 CST",
+  "total": 0,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Quadratín + regionales"
+    "Google News"
   ],
-  "grupos": [
-    {
-      "tipo": "cierre_total",
-      "color": "rojo",
-      "icono": "🔴",
-      "label": "CIERRE TOTAL",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "f5cdac29",
-          "tipo": "cierre_total",
-          "ruta": "En riesgo, 26 municipios de Guerrero tras paso de Boris:…",
-          "descripcion": "En riesgo, 26 municipios de Guerrero tras paso de Boris: PC Nacional. Intensifican autoridades vigilancia por posibles deslaves e inundaciones",
-          "recomendacion": "",
-          "fecha": "8 junio 2026 · 18:31 CST",
-          "fecha_iso": "2026-06-08T18:31:00-06:00",
-          "fuente": "Quadratín Guerrero",
-          "url": "https://guerrero.quadratin.com.mx/en-riesgo-26-municipios-de-guerrero-tras-paso-de-boris-pc-nacional/",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL",
-          "lat": 17.55,
-          "lon": -99.5
-        }
-      ]
-    }
-  ],
-  "para_mapa": [
-    {
-      "id": "f5cdac29",
-      "tipo": "cierre_total",
-      "ruta": "En riesgo, 26 municipios de Guerrero tras paso de Boris:…",
-      "descripcion": "En riesgo, 26 municipios de Guerrero tras paso de Boris: PC Nacional. Intensifican autoridades vigilancia por posibles deslaves e inundaciones",
-      "fecha": "8 junio 2026 · 18:31 CST",
-      "fuente": "Quadratín Guerrero",
-      "url": "https://guerrero.quadratin.com.mx/en-riesgo-26-municipios-de-guerrero-tras-paso-de-boris-pc-nacional/",
-      "dot_color": "#e74c3c",
-      "badge_txt": "CIERRE TOTAL",
-      "lat": 17.55,
-      "lon": -99.5
-    }
-  ]
+  "grupos": [],
+  "para_mapa": [],
+  "nota": "Sin alertas activas en la ventana de tiempo configurada."
 }
