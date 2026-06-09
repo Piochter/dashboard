@@ -1,12 +1,12 @@
 {
-  "ultima_actualizacion": "2026-06-09T13:50:07.692983-06:00",
-  "ultima_actualizacion_legible": "9 de junio de 2026 · 13:50 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-06-09T15:46:42.884363-06:00",
+  "ultima_actualizacion_legible": "9 de junio de 2026 · 15:46 CST",
+  "total": 5,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Medios regionales",
-    "Quadratín + regionales",
-    "Telegram"
+    "Google News",
+    "Medios nacionales",
+    "Medios regionales"
   ],
   "grupos": [
     {
@@ -16,6 +16,36 @@
       "label": "BLOQUEOS / MANIFESTACIONES",
       "col2": false,
       "alertas": [
+        {
+          "id": "4d9f78f0",
+          "tipo": "bloqueo",
+          "ruta": "Tráfico en carreteras de México en vivo HOY: bloqueos 9…",
+          "descripcion": "Tráfico en carreteras de México en vivo HOY: bloqueos 9 de junio de 2026 - TV Azteca. Tráfico en carreteras de México en vivo HOY: bloqueos 9 de junio de 2026 TV Azteca",
+          "recomendacion": "",
+          "fecha": "9 junio 2026 · 15:35 CST",
+          "fecha_iso": "2026-06-09T15:35:00-06:00",
+          "fuente": "TV Azteca",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcVB0RVNtakd2aGlmZTFvbjNwZGNPR3ViTVZtUXRZVi0zLWhEcmVQamlsdDRRem83NDZ3eU1NMHhTejBpTlgxZWZ0bkZVamV2Nm1NMC1kQi1TTUlaWWhhV3poSE04OGxGaENiVkV3RkFsYzhJSTJfTkJpc1FORG5FMmZuQlh6VVU1aGduUkJxZW9RbTNzWUJob0hTYzVFbDlwdzN5NHpwWjFyeUd5RWdKN3ZEUlIxRjZpbnNfbGgtVVp2OE9RUjJ0eTJ4bkFjZ9IB2wFBVV95cUxQUWIwSjlEWDlXQ1RucFo3Vmh3MUdwZ2ZNb0pZMnoyaG1QeW5pVzFaRlBWWXZVRFJhclNiTC05Q0habThXMklyREIwRUVQUXE4d1pLaGo3VUpIRHZwdzc2eDhfUktvLWxta3J5MXdUNzdDaDJFZVllM05LV0JISThvWTdzckJoN01zT1ZLOXR4TTZvS01vVkpaODRjamo0UWVzX0VzRHdpV3h2aW9ia2FFd2NNSjkyQ2E2LWNCUjNyUmg0c1Q5R29oTEs3ekpWeXZGdUNCUkVxaTY0c28?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
+        {
+          "id": "9ccd1bf1",
+          "tipo": "bloqueo",
+          "ruta": "Toman manifestantes la México-Cuernavaca - Reforma…",
+          "descripcion": "Toman manifestantes la México-Cuernavaca - Reforma. Toman manifestantes la México-Cuernavaca Reforma",
+          "recomendacion": "",
+          "fecha": "9 junio 2026 · 13:45 CST",
+          "fecha_iso": "2026-06-09T13:45:00-06:00",
+          "fuente": "Reforma",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1kZUxtUlJheFFBWXBNVTNVa1F5dVhkU1JmUzhCMmJVQXFlTUtfOVVFWlEzam9HTlRWZ3V5OS1rb3ZjQWNkb3BxZU5hY1BRZUJ0dmNSMnI5dUJndzMyQW9QYnpSYTkyem5hTkdKVGVBbGpvWmdibjE5OGdveEZ6MFk?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 18.92,
+          "lon": -99.23
+        },
         {
           "id": "28b746a1",
           "tipo": "bloqueo",
@@ -29,77 +59,75 @@
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO"
+        },
+        {
+          "id": "8ab169d1",
+          "tipo": "bloqueo",
+          "ruta": "Protestas de la CNTE no cesan, autoridades bloquean avance al…",
+          "descripcion": "Protestas de la CNTE no cesan, autoridades bloquean avance al Estadio de la Ciudad. Ante la CNTE, en los alrededores del Estadio de la Ciudad de México se desplegaron un aproximado de 80 granaderos armados solo con el escudo",
+          "recomendacion": "",
+          "fecha": "9 junio 2026 · 13:05 CST",
+          "fecha_iso": "2026-06-09T13:05:00-06:00",
+          "fuente": "24 Horas",
+          "url": "https://24-horas.mx/cdmx/a-dos-dias-del-inicio-del-mundial-la-cnte-sigue-afuera-del-estadio-ciudad-de-mexico/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
         }
       ]
     },
     {
-      "tipo": "cierre_parcial",
-      "color": "amarillo",
-      "icono": "🟡",
-      "label": "CIERRE PARCIAL / ACCIDENTES",
+      "tipo": "carga_vehicular",
+      "color": "azul",
+      "icono": "🚗",
+      "label": "CARGA VEHICULAR",
       "col2": true,
       "alertas": [
         {
-          "id": "7de0c479",
-          "tipo": "cierre_parcial",
-          "ruta": "autopista Cuacnopalan–Oaxaca por caída de rocas",
-          "descripcion": "Cierre parcial en autopista Cuacnopalan–Oaxaca por caída de rocas. Las condiciones de tránsito continúan siendo peligrosas ante los constantes desprendimientos de piedras",
+          "id": "4794f330",
+          "tipo": "carga_vehicular",
+          "ruta": "Lista de daños por México tras el paso de \"Boris\"…",
+          "descripcion": "Lista de daños por México tras el paso de \"Boris\". El paso de “Boris” provoca inundaciones, cortes de luz y cierres viales en Oaxaca, mientras que en la región Sierra-Costa de Michoacán se detienen por completo las actividades escolares ante el riesgo de lluvias intensas",
           "recomendacion": "",
-          "fecha": "9 junio 2026 · 11:22 CST",
-          "fecha_iso": "2026-06-09T11:22:00-06:00",
-          "fuente": "Quadratín Oaxaca",
-          "url": "https://oaxaca.quadratin.com.mx/cierre-parcial-en-autopista-cuacnopalan-oaxaca-por-caida-de-rocas/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
+          "fecha": "9 junio 2026 · 14:02 CST",
+          "fecha_iso": "2026-06-09T14:02:00-06:00",
+          "fuente": "El Informador Jalisco",
+          "url": "https://www.informador.mx/mexico/alerta-por-boris-lista-de-danos-por-mexico-tras-el-paso-del-ciclon-20260609-0123.html",
+          "dot_color": "#2980b9",
+          "badge": "badge-carga",
+          "badge_txt": "CARGA VEHICULAR",
           "lat": 17.06,
           "lon": -96.72
-        },
-        {
-          "id": "f4a0e22a",
-          "tipo": "cierre_parcial",
-          "ruta": "⚠️ Se registró un accidente en la zona de la…",
-          "descripcion": "⚠️ Se registró un accidente en la zona de la curva de #LaPila generando afectaciones en la #México-#Toluca rumbo a #CDMX\nhttps://lajornadaestadodemexico.com/accidente-en-la-mexico-toluca-la-pila/",
-          "recomendacion": "",
-          "fecha": "9 junio 2026 · 10:51 CST",
-          "fecha_iso": "2026-06-09T10:51:00-06:00",
-          "fuente": "Telegram @jornadaedomex",
-          "url": "https://t.me/jornadaedomex/10971",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.43,
-          "lon": -99.13
         }
       ]
     }
   ],
   "para_mapa": [
     {
-      "id": "7de0c479",
-      "tipo": "cierre_parcial",
-      "ruta": "autopista Cuacnopalan–Oaxaca por caída de rocas",
-      "descripcion": "Cierre parcial en autopista Cuacnopalan–Oaxaca por caída de rocas. Las condiciones de tránsito continúan siendo peligrosas ante los constantes desprendimientos de piedras",
-      "fecha": "9 junio 2026 · 11:22 CST",
-      "fuente": "Quadratín Oaxaca",
-      "url": "https://oaxaca.quadratin.com.mx/cierre-parcial-en-autopista-cuacnopalan-oaxaca-por-caida-de-rocas/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
+      "id": "4794f330",
+      "tipo": "carga_vehicular",
+      "ruta": "Lista de daños por México tras el paso de \"Boris\"…",
+      "descripcion": "Lista de daños por México tras el paso de \"Boris\". El paso de “Boris” provoca inundaciones, cortes de luz y cierres viales en Oaxaca, mientras que en la región Sierra-Costa de Michoacán se detienen por completo las actividades escolares ante el riesgo de lluvias intensas",
+      "fecha": "9 junio 2026 · 14:02 CST",
+      "fuente": "El Informador Jalisco",
+      "url": "https://www.informador.mx/mexico/alerta-por-boris-lista-de-danos-por-mexico-tras-el-paso-del-ciclon-20260609-0123.html",
+      "dot_color": "#2980b9",
+      "badge_txt": "CARGA VEHICULAR",
       "lat": 17.06,
       "lon": -96.72
     },
     {
-      "id": "f4a0e22a",
-      "tipo": "cierre_parcial",
-      "ruta": "⚠️ Se registró un accidente en la zona de la…",
-      "descripcion": "⚠️ Se registró un accidente en la zona de la curva de #LaPila generando afectaciones en la #México-#Toluca rumbo a #CDMX\nhttps://lajornadaestadodemexico.com/accidente-en-la-mexico-toluca-la-pila/",
-      "fecha": "9 junio 2026 · 10:51 CST",
-      "fuente": "Telegram @jornadaedomex",
-      "url": "https://t.me/jornadaedomex/10971",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.43,
-      "lon": -99.13
+      "id": "9ccd1bf1",
+      "tipo": "bloqueo",
+      "ruta": "Toman manifestantes la México-Cuernavaca - Reforma…",
+      "descripcion": "Toman manifestantes la México-Cuernavaca - Reforma. Toman manifestantes la México-Cuernavaca Reforma",
+      "fecha": "9 junio 2026 · 13:45 CST",
+      "fuente": "Reforma",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1kZUxtUlJheFFBWXBNVTNVa1F5dVhkU1JmUzhCMmJVQXFlTUtfOVVFWlEzam9HTlRWZ3V5OS1rb3ZjQWNkb3BxZU5hY1BRZUJ0dmNSMnI5dUJndzMyQW9QYnpSYTkyem5hTkdKVGVBbGpvWmdibjE5OGdveEZ6MFk?oc=5",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 18.92,
+      "lon": -99.23
     }
   ]
 }
