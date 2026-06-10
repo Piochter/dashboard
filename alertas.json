@@ -1,75 +1,35 @@
 {
-  "ultima_actualizacion": "2026-06-09T19:32:50.784665-06:00",
-  "ultima_actualizacion_legible": "9 de junio de 2026 · 19:32 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-06-10T00:08:38.718959-06:00",
+  "ultima_actualizacion_legible": "10 de junio de 2026 · 00:08 CST",
+  "total": 1,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Google News",
     "Medios regionales"
   ],
   "grupos": [
     {
-      "tipo": "bloqueo",
+      "tipo": "robo",
       "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "4d9f78f0",
-          "tipo": "bloqueo",
-          "ruta": "Tráfico en carreteras de México en vivo HOY: bloqueos 9…",
-          "descripcion": "Tráfico en carreteras de México en vivo HOY: bloqueos 9 de junio de 2026 - TV Azteca. Tráfico en carreteras de México en vivo HOY: bloqueos 9 de junio de 2026 TV Azteca",
-          "recomendacion": "",
-          "fecha": "9 junio 2026 · 17:47 CST",
-          "fecha_iso": "2026-06-09T17:47:00-06:00",
-          "fuente": "TV Azteca",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcVB0RVNtakd2aGlmZTFvbjNwZGNPR3ViTVZtUXRZVi0zLWhEcmVQamlsdDRRem83NDZ3eU1NMHhTejBpTlgxZWZ0bkZVamV2Nm1NMC1kQi1TTUlaWWhhV3poSE04OGxGaENiVkV3RkFsYzhJSTJfTkJpc1FORG5FMmZuQlh6VVU1aGduUkJxZW9RbTNzWUJob0hTYzVFbDlwdzN5NHpwWjFyeUd5RWdKN3ZEUlIxRjZpbnNfbGgtVVp2OE9RUjJ0eTJ4bkFjZ9IB2wFBVV95cUxQUWIwSjlEWDlXQ1RucFo3Vmh3MUdwZ2ZNb0pZMnoyaG1QeW5pVzFaRlBWWXZVRFJhclNiTC05Q0habThXMklyREIwRUVQUXE4d1pLaGo3VUpIRHZwdzc2eDhfUktvLWxta3J5MXdUNzdDaDJFZVllM05LV0JISThvWTdzckJoN01zT1ZLOXR4TTZvS01vVkpaODRjamo0UWVzX0VzRHdpV3h2aW9ia2FFd2NNSjkyQ2E2LWNCUjNyUmg0c1Q5R29oTEs3ekpWeXZGdUNCUkVxaTY0c28?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        }
-      ]
-    },
-    {
-      "tipo": "cierre_parcial",
-      "color": "amarillo",
-      "icono": "🟡",
-      "label": "CIERRE PARCIAL / ACCIDENTES",
+      "icono": "🚨",
+      "label": "ROBOS EN CARRETERA",
       "col2": true,
       "alertas": [
         {
-          "id": "a4a5db75",
-          "tipo": "cierre_parcial",
-          "ruta": "IPC de la Bolsa Mexicana pierde 0.37% y encadena cinco…",
-          "descripcion": "IPC de la Bolsa Mexicana pierde 0.37% y encadena cinco cierres negativos. El indicador nacional bajó hasta las 65 mil 409.48 unidades debido al aumento en la aversión al riesgo",
+          "id": "2cfb7262",
+          "tipo": "robo",
+          "ruta": "Hieren a un hombre en ataque armado en Villaseca…",
+          "descripcion": "Hieren a un hombre en ataque armado en Villaseca. Un hombre de 36 años resultó gravemente herido. Esta es la segunda agresión que recibe. La víctima fue detenida en enero por robo y portación de armas.",
           "recomendacion": "",
-          "fecha": "9 junio 2026 · 18:26 CST",
-          "fecha_iso": "2026-06-09T18:26:00-06:00",
-          "fuente": "El Informador Jalisco",
-          "url": "https://www.informador.mx/economia/ipc-de-la-bolsa-mexicana-pierde-0.37-y-encadena-cinco-cierres-negativos-20260609-0171.html",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 25.2,
-          "lon": -102.0
+          "fecha": "9 junio 2026 · 23:48 CST",
+          "fecha_iso": "2026-06-09T23:48:00-06:00",
+          "fuente": "AM Guanajuato",
+          "url": "https://www.am.com.mx/guanajuato-capital/2026/06/09/hieren-a-un-hombre-en-ataque-armado-en-villaseca-1804788.html",
+          "dot_color": "#c0392b",
+          "badge": "badge-robo",
+          "badge_txt": "ROBO"
         }
       ]
     }
   ],
-  "para_mapa": [
-    {
-      "id": "a4a5db75",
-      "tipo": "cierre_parcial",
-      "ruta": "IPC de la Bolsa Mexicana pierde 0.37% y encadena cinco…",
-      "descripcion": "IPC de la Bolsa Mexicana pierde 0.37% y encadena cinco cierres negativos. El indicador nacional bajó hasta las 65 mil 409.48 unidades debido al aumento en la aversión al riesgo",
-      "fecha": "9 junio 2026 · 18:26 CST",
-      "fuente": "El Informador Jalisco",
-      "url": "https://www.informador.mx/economia/ipc-de-la-bolsa-mexicana-pierde-0.37-y-encadena-cinco-cierres-negativos-20260609-0171.html",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 25.2,
-      "lon": -102.0
-    }
-  ]
+  "para_mapa": []
 }
