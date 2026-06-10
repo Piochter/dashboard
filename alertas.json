@@ -1,60 +1,12 @@
 {
-  "ultima_actualizacion": "2026-06-10T08:03:26.365645-06:00",
-  "ultima_actualizacion_legible": "10 de junio de 2026 · 08:03 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-06-10T11:36:31.540124-06:00",
+  "ultima_actualizacion_legible": "10 de junio de 2026 · 11:36 CST",
+  "total": 1,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Google News",
-    "Medios regionales",
-    "Quadratín + regionales"
+    "Medios regionales"
   ],
   "grupos": [
-    {
-      "tipo": "cierre_total",
-      "color": "rojo",
-      "icono": "🔴",
-      "label": "CIERRE TOTAL",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "425897e7",
-          "tipo": "cierre_total",
-          "ruta": "carretera intermunicipal",
-          "descripcion": "Nuevo derrumbe en la Sierra Negra bloquea carretera intermunicipal. Autoridades alertan por deslave en el tramo Zapotitlán-Xochitlán.",
-          "recomendacion": "",
-          "fecha": "10 junio 2026 · 07:30 CST",
-          "fecha_iso": "2026-06-10T07:30:00-06:00",
-          "fuente": "Quadratín Puebla",
-          "url": "https://puebla.quadratin.com.mx/sucesos/nuevo-derrumbe-en-la-sierra-negra-bloquea-carretera-intermunicipal/",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL"
-        }
-      ]
-    },
-    {
-      "tipo": "bloqueo",
-      "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "b080e64c",
-          "tipo": "bloqueo",
-          "ruta": "Bloqueos carreteras HOY 10 de junio: Autopistas cerradas en México,…",
-          "descripcion": "Bloqueos carreteras HOY 10 de junio: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 10 de junio: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
-          "recomendacion": "",
-          "fecha": "10 junio 2026 · 07:15 CST",
-          "fecha_iso": "2026-06-10T07:15:00-06:00",
-          "fuente": "Eje Central",
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNU1Z3SnVDSmdFV0g0QW9EZUM3c1JscXZsNVhWaGpCSDFYX19KenBEWG9uZ2RlOHhXZVFZMmRRb015VnNZeW5rLXRaM1dXVjFPd3NrVXVMa0VMWmZvWjhLZHZ1WUJ5ZWNVYncyNWlqTWhFUlM4WEh1YkdwVFkzVUZOS3V2YWpSc3h6dktfQTNsTzF1VU9HUnljeWdLbEVmR1MtU0lmeTROZVdyOG9QOTFpMTlYMmR6TDI0OWpjUVlwN1VDeEpjanllV3NiMld6aGpYQXEwekYtYTBTR3FzTEw4YzdMdjJyLUU?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        }
-      ]
-    },
     {
       "tipo": "cierre_parcial",
       "color": "amarillo",
@@ -63,15 +15,15 @@
       "col2": true,
       "alertas": [
         {
-          "id": "cff3a447",
+          "id": "1833aeb0",
           "tipo": "cierre_parcial",
-          "ruta": "Hong Kong acusa a siete personas y dos empresas por…",
-          "descripcion": "Hong Kong acusa a siete personas y dos empresas por el incendio que dejó 168 muertos. El siniestro ocurrió el 26 de noviembre de 2025, cuando las llamas consumieron siete edificios residenciales y provocaron la muerte de 168 personas",
+          "ruta": "Choque en Atzimbo de la Morelia-Quiroga dejó una persona herida…",
+          "descripcion": "Choque en Atzimbo de la Morelia-Quiroga dejó una persona herida. Impactó un taxi con un tractocamión",
           "recomendacion": "",
-          "fecha": "10 junio 2026 · 07:51 CST",
-          "fecha_iso": "2026-06-10T07:51:00-06:00",
-          "fuente": "El Informador Jalisco",
-          "url": "https://www.informador.mx/internacional/hong-kong-acusa-a-siete-personas-y-dos-empresas-por-el-incendio-que-dejo-168-muertos-20260610-0045.html",
+          "fecha": "10 junio 2026 · 11:15 CST",
+          "fecha_iso": "2026-06-10T11:15:00-06:00",
+          "fuente": "Quadratín Michoacán",
+          "url": "https://www.quadratin.com.mx/sin-categoria/choque-en-atzimbo-de-la-morelia-quiroga-dejo-una-persona-herida/",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL"
