@@ -1,35 +1,12 @@
 {
-  "ultima_actualizacion": "2026-06-10T00:08:38.718959-06:00",
-  "ultima_actualizacion_legible": "10 de junio de 2026 · 00:08 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-06-10T04:33:47.352955-06:00",
+  "ultima_actualizacion_legible": "10 de junio de 2026 · 04:33 CST",
+  "total": 0,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Medios regionales"
+    "Google News"
   ],
-  "grupos": [
-    {
-      "tipo": "robo",
-      "color": "rojo",
-      "icono": "🚨",
-      "label": "ROBOS EN CARRETERA",
-      "col2": true,
-      "alertas": [
-        {
-          "id": "2cfb7262",
-          "tipo": "robo",
-          "ruta": "Hieren a un hombre en ataque armado en Villaseca…",
-          "descripcion": "Hieren a un hombre en ataque armado en Villaseca. Un hombre de 36 años resultó gravemente herido. Esta es la segunda agresión que recibe. La víctima fue detenida en enero por robo y portación de armas.",
-          "recomendacion": "",
-          "fecha": "9 junio 2026 · 23:48 CST",
-          "fecha_iso": "2026-06-09T23:48:00-06:00",
-          "fuente": "AM Guanajuato",
-          "url": "https://www.am.com.mx/guanajuato-capital/2026/06/09/hieren-a-un-hombre-en-ataque-armado-en-villaseca-1804788.html",
-          "dot_color": "#c0392b",
-          "badge": "badge-robo",
-          "badge_txt": "ROBO"
-        }
-      ]
-    }
-  ],
-  "para_mapa": []
+  "grupos": [],
+  "para_mapa": [],
+  "nota": "Sin alertas activas en la ventana de tiempo configurada."
 }
