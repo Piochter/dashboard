@@ -1,90 +1,12 @@
 {
-  "ultima_actualizacion": "2026-06-10T21:37:26.045933-06:00",
-  "ultima_actualizacion_legible": "10 de junio de 2026 · 21:37 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-06-11T02:26:07.036239-06:00",
+  "ultima_actualizacion_legible": "11 de junio de 2026 · 02:26 CST",
+  "total": 0,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Google News",
-    "Medios regionales"
+    "Google News"
   ],
-  "grupos": [
-    {
-      "tipo": "bloqueo",
-      "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "fc5d292e",
-          "tipo": "bloqueo",
-          "ruta": "Bloqueos en CDMX HOY: Madres buscadoras chocan con cerco de…",
-          "descripcion": "Bloqueos en CDMX HOY: Madres buscadoras chocan con cerco de seguridad rumbo al Estadio Ciudad de México - TV Azteca. Bloqueos en CDMX HOY: Madres buscadoras chocan con cerco de seguridad rumbo al Estadio Ciudad de México TV Azteca",
-          "recomendacion": "",
-          "fecha": "10 junio 2026 · 21:03 CST",
-          "fecha_iso": "2026-06-10T21:03:00-06:00",
-          "fuente": "TV Azteca",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPd2l5bzVJTlY2M2t6NjN6ZmxiMndGTjhWYjEzOGFiX0tWdVd1TlRhRkNCdFdCbFVwU0RvVENHYTVEWlh5ZGF5V25mc3dJMDMzSHk1eEM4Z1Rsbmx2WjBwSHVRSnlteGN6Z2FIWmVmY1BkOG43R0J5T2JoQVRqLVNWbnBPMXlzZjNDQUdvaGMwcloxTHE2bWNtSHlFWktPOWRsYzcwdGpnUGhOZ2UxUFktT3MyNDIwV3RPakhQdzlBM0HSAc4BQVVfeXFMUDFwQnBRTWxnNEp1SWhFU3pmUXlwOHJ1OWd3TFlYSTRKRFlZU0JsWEVuY0VqUXJVRmpIcWxyd0I5bHQ5cGpQOGIzTFBKbUh5d2VtdzcyNkJJRGdvS1BUUTlwbHR2NzNlbmtKSF92Qkw1MDZscEF1cWFVMVFrbncyejFlMWhVVHVybktQSXFkVlF2cl9td3NmR1JteDBrdHkyRTdLX284T3VxcTFyc1ppOEQ2YldScThyNWtDYWxVdTNCVklnWHRFaWcyc05OalE?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 19.43,
-          "lon": -99.13
-        }
-      ]
-    },
-    {
-      "tipo": "robo",
-      "color": "rojo",
-      "icono": "🚨",
-      "label": "ROBOS EN CARRETERA",
-      "col2": true,
-      "alertas": [
-        {
-          "id": "74334010",
-          "tipo": "robo",
-          "ruta": "Mueren cinco policías tras ataque con rifles de asalto en…",
-          "descripcion": "Mueren cinco policías tras ataque con rifles de asalto en Michoacán; hay heridos. Los elementos de la Guardia Civil fueron acribillados en la carretera que une los municipios de Zacapu y Nahuatzen",
-          "recomendacion": "",
-          "fecha": "10 junio 2026 · 20:40 CST",
-          "fecha_iso": "2026-06-10T20:40:00-06:00",
-          "fuente": "El Informador Jalisco",
-          "url": "https://www.informador.mx/mexico/cjng-mueren-5-policias-tras-ataque-con-rifles-de-asalto-en-michoacan-hay-5-heridos-20260610-0189.html",
-          "dot_color": "#c0392b",
-          "badge": "badge-robo",
-          "badge_txt": "ROBO",
-          "lat": 19.7,
-          "lon": -101.19
-        }
-      ]
-    }
-  ],
-  "para_mapa": [
-    {
-      "id": "fc5d292e",
-      "tipo": "bloqueo",
-      "ruta": "Bloqueos en CDMX HOY: Madres buscadoras chocan con cerco de…",
-      "descripcion": "Bloqueos en CDMX HOY: Madres buscadoras chocan con cerco de seguridad rumbo al Estadio Ciudad de México - TV Azteca. Bloqueos en CDMX HOY: Madres buscadoras chocan con cerco de seguridad rumbo al Estadio Ciudad de México TV Azteca",
-      "fecha": "10 junio 2026 · 21:03 CST",
-      "fuente": "TV Azteca",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPd2l5bzVJTlY2M2t6NjN6ZmxiMndGTjhWYjEzOGFiX0tWdVd1TlRhRkNCdFdCbFVwU0RvVENHYTVEWlh5ZGF5V25mc3dJMDMzSHk1eEM4Z1Rsbmx2WjBwSHVRSnlteGN6Z2FIWmVmY1BkOG43R0J5T2JoQVRqLVNWbnBPMXlzZjNDQUdvaGMwcloxTHE2bWNtSHlFWktPOWRsYzcwdGpnUGhOZ2UxUFktT3MyNDIwV3RPakhQdzlBM0HSAc4BQVVfeXFMUDFwQnBRTWxnNEp1SWhFU3pmUXlwOHJ1OWd3TFlYSTRKRFlZU0JsWEVuY0VqUXJVRmpIcWxyd0I5bHQ5cGpQOGIzTFBKbUh5d2VtdzcyNkJJRGdvS1BUUTlwbHR2NzNlbmtKSF92Qkw1MDZscEF1cWFVMVFrbncyejFlMWhVVHVybktQSXFkVlF2cl9td3NmR1JteDBrdHkyRTdLX284T3VxcTFyc1ppOEQ2YldScThyNWtDYWxVdTNCVklnWHRFaWcyc05OalE?oc=5",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 19.43,
-      "lon": -99.13
-    },
-    {
-      "id": "74334010",
-      "tipo": "robo",
-      "ruta": "Mueren cinco policías tras ataque con rifles de asalto en…",
-      "descripcion": "Mueren cinco policías tras ataque con rifles de asalto en Michoacán; hay heridos. Los elementos de la Guardia Civil fueron acribillados en la carretera que une los municipios de Zacapu y Nahuatzen",
-      "fecha": "10 junio 2026 · 20:40 CST",
-      "fuente": "El Informador Jalisco",
-      "url": "https://www.informador.mx/mexico/cjng-mueren-5-policias-tras-ataque-con-rifles-de-asalto-en-michoacan-hay-5-heridos-20260610-0189.html",
-      "dot_color": "#c0392b",
-      "badge_txt": "ROBO",
-      "lat": 19.7,
-      "lon": -101.19
-    }
-  ]
+  "grupos": [],
+  "para_mapa": [],
+  "nota": "Sin alertas activas en la ventana de tiempo configurada."
 }
