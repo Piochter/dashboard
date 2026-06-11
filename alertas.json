@@ -1,12 +1,10 @@
 {
-  "ultima_actualizacion": "2026-06-11T10:37:43.709262-06:00",
-  "ultima_actualizacion_legible": "11 de junio de 2026 · 10:37 CST",
-  "total": 4,
+  "ultima_actualizacion": "2026-06-11T13:25:31.362007-06:00",
+  "ultima_actualizacion_legible": "11 de junio de 2026 · 13:25 CST",
+  "total": 1,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Google News",
-    "Medios nacionales",
-    "Quadratín + regionales"
+    "Google News"
   ],
   "grupos": [
     {
@@ -17,112 +15,37 @@
       "col2": false,
       "alertas": [
         {
-          "id": "e42cfef6",
+          "id": "2ffa2c80",
           "tipo": "cierre_total",
-          "ruta": "Tormenta tropical Boris deja afectaciones en 15 municipios de Puebla…",
-          "descripcion": "Tormenta tropical Boris deja afectaciones en 15 municipios de Puebla. Protección Civil despliega operativo por deslaves e inundaciones.",
+          "ruta": "Volcadura de Tráiler Deja Cierre en la Autopista Cuacnopalan-Oaxaca; Esto…",
+          "descripcion": "Volcadura de Tráiler Deja Cierre en la Autopista Cuacnopalan-Oaxaca; Esto Se Sabe - N+. Volcadura de Tráiler Deja Cierre en la Autopista Cuacnopalan-Oaxaca; Esto Se Sabe N+",
           "recomendacion": "",
-          "fecha": "11 junio 2026 · 08:15 CST",
-          "fecha_iso": "2026-06-11T08:15:00-06:00",
-          "fuente": "Quadratín Puebla",
-          "url": "https://puebla.quadratin.com.mx/sucesos/tormenta-tropical-boris-deja-afectaciones-en-15-municipios-de-puebla/",
+          "fecha": "11 junio 2026 · 12:30 CST",
+          "fecha_iso": "2026-06-11T12:30:00-06:00",
+          "fuente": "N+",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQakZRaGYydHhWUlhvLWNwaFhMXzJfUm1EdWk5bGpoUUlKelJPVENKZEpTLWxMRjlxZFk2V0NXTzJ0MGNQYnhMRkpYSGdnLWV2TGxabkFjRjRlUnQ0c05UaDFUUGZEV1k2dmtMa3RnVnUwR1hyUzYzSXB4cWN3UmZOdjlPWkhzakJ1VldZX0M5VnAwUnZobFVJTXdRWVllbzVXRkJIOE5ORGJ3WmEzZkZOM2RtWkp0RENueGpMX2k1M2pvR3VNY20wT3dBYkRwSlhKVUVMOGxKaUhuamVkSk1j?oc=5",
           "dot_color": "#e74c3c",
           "badge": "badge-cierre-total",
           "badge_txt": "CIERRE TOTAL",
-          "lat": 21.0,
-          "lon": -104.0
-        }
-      ]
-    },
-    {
-      "tipo": "bloqueo",
-      "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "1293a5e4",
-          "tipo": "bloqueo",
-          "ruta": "¿Hay Bloqueos en Carreteras Hoy 11 de Junio 2026? Así…",
-          "descripcion": "¿Hay Bloqueos en Carreteras Hoy 11 de Junio 2026? Así las Autopistas de México este Jueves - N+. ¿Hay Bloqueos en Carreteras Hoy 11 de Junio 2026? Así las Autopistas de México este Jueves N+",
-          "recomendacion": "",
-          "fecha": "11 junio 2026 · 09:05 CST",
-          "fecha_iso": "2026-06-11T09:05:00-06:00",
-          "fuente": "N+",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWHFsRGlhRnE2eG04d1hBX21ZOGhCbkNndzhUWGJuMnNvTTBRUmRYRUVUa21nclRXYnliSkZ2RXdfTnZTNWhhNUE0cXZuVWp3ZE1BTDByT3BtSkJrN3Z0Ty1aS1JmcnRZd1doeFd1VUdQUFlkWjhSVlhMOFRGbXJ1Q1B1aTk2d000QnNPaEVQUFE4Z2VwNEFKOWF3MHRhc0kyeG5lNkFSM3ZZRVVzaGlRNkhUdDFZNV9KeHc?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        },
-        {
-          "id": "38e1eb45",
-          "tipo": "bloqueo",
-          "ruta": "carretera Zinapécuaro-Guadala - TV Azteca",
-          "descripcion": "Bloqueos en carreteras EN VIVO hoy: ¿Qué pasa en autopistas de México? Cierre en carretera Zinapécuaro-Guadala - TV Azteca. Bloqueos en carreteras EN VIVO hoy: ¿Qué pasa en autopistas de México? Cierre en carretera Zinapécuaro-Guadala TV Azteca",
-          "recomendacion": "",
-          "fecha": "11 junio 2026 · 07:44 CST",
-          "fecha_iso": "2026-06-11T07:44:00-06:00",
-          "fuente": "TV Azteca",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSGgyay0tQy1WMW9YYVV4cVlQS09RWjRwdjlMRGY2X0w5Snp6ZjliUl9QQUJCZ19PTDNlNEUxelRtelBWc3Z3UVhZeUNDWjRMNWJFaFZ1OG9NalFwaW93b09BTy0xeV9fOFpDU1duSm9RTVdlZmN2V3k5YzBQMDZIVktVSDBqRTN6NmVEWVRfbVRuTkpJUVFVdUJ3YS1ncm53cXNsTTJ6MGNWUElwTDZQQlR3ZGFiLUs1MmhCbEZUTUdWNXB6cmltY3lLbUJXSDlC0gHQAUFVX3lxTFBIaDJrLS1DLVYxb1hhVXhxWVBLT1FaNHB2OUxEZjZfTDlKenpmOWJSX1BBQkJnX09MM2U0RTF6VG16UFZzdndRWFl5Q0NaNEw1YkVoVnU4b01qUXBpb3dvT0FPLTF5X184WkNTV25Kb1FNV2VmY3ZXeTljMFAwNkhWS1VIMGpFM3o2ZURZVF9tVG5OSklRUVV1QndhLWdybndxc2xNMnowY1ZQSXBMNlBCVHdkYWItSzUyaEJsRlRNR1Y1cHpyaW1jeUttQldIOUI?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        }
-      ]
-    },
-    {
-      "tipo": "cierre_parcial",
-      "color": "amarillo",
-      "icono": "🟡",
-      "label": "CIERRE PARCIAL / ACCIDENTES",
-      "col2": true,
-      "alertas": [
-        {
-          "id": "c60c2de2",
-          "tipo": "cierre_parcial",
-          "ruta": "Metro CDMX suspende servicio en 14 estaciones en Líneas 1,…",
-          "descripcion": "Metro CDMX suspende servicio en 14 estaciones en Líneas 1, 2 y 3, estas son las afectadas. Un total de 14 estaciones en las Líneas 1, 2 y 3 del Metro CDMX suspenden servicio este jueves 11 de junio de 2026. A través de redes sociales, el director general del Sistema de Transporte Colectivo Metro de la Ciudad de México, Adrián Rubalcava, informó sobre los cierres que merman el flujo de usuarios […]",
-          "recomendacion": "",
-          "fecha": "11 junio 2026 · 09:28 CST",
-          "fecha_iso": "2026-06-11T09:28:00-06:00",
-          "fuente": "24 Horas",
-          "url": "https://24-horas.mx/cdmx/metro-cdmx-suspende-servicio-en-14-estaciones-en-lineas-1-2-y-3-estas-son-las-afectadas/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.43,
-          "lon": -99.13
+          "lat": 17.06,
+          "lon": -96.72
         }
       ]
     }
   ],
   "para_mapa": [
     {
-      "id": "c60c2de2",
-      "tipo": "cierre_parcial",
-      "ruta": "Metro CDMX suspende servicio en 14 estaciones en Líneas 1,…",
-      "descripcion": "Metro CDMX suspende servicio en 14 estaciones en Líneas 1, 2 y 3, estas son las afectadas. Un total de 14 estaciones en las Líneas 1, 2 y 3 del Metro CDMX suspenden servicio este jueves 11 de junio de 2026. A través de redes sociales, el director general del Sistema de Transporte Colectivo Metro de la Ciudad de México, Adrián Rubalcava, informó sobre los cierres que merman el flujo de usuarios […]",
-      "fecha": "11 junio 2026 · 09:28 CST",
-      "fuente": "24 Horas",
-      "url": "https://24-horas.mx/cdmx/metro-cdmx-suspende-servicio-en-14-estaciones-en-lineas-1-2-y-3-estas-son-las-afectadas/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.43,
-      "lon": -99.13
-    },
-    {
-      "id": "e42cfef6",
+      "id": "2ffa2c80",
       "tipo": "cierre_total",
-      "ruta": "Tormenta tropical Boris deja afectaciones en 15 municipios de Puebla…",
-      "descripcion": "Tormenta tropical Boris deja afectaciones en 15 municipios de Puebla. Protección Civil despliega operativo por deslaves e inundaciones.",
-      "fecha": "11 junio 2026 · 08:15 CST",
-      "fuente": "Quadratín Puebla",
-      "url": "https://puebla.quadratin.com.mx/sucesos/tormenta-tropical-boris-deja-afectaciones-en-15-municipios-de-puebla/",
+      "ruta": "Volcadura de Tráiler Deja Cierre en la Autopista Cuacnopalan-Oaxaca; Esto…",
+      "descripcion": "Volcadura de Tráiler Deja Cierre en la Autopista Cuacnopalan-Oaxaca; Esto Se Sabe - N+. Volcadura de Tráiler Deja Cierre en la Autopista Cuacnopalan-Oaxaca; Esto Se Sabe N+",
+      "fecha": "11 junio 2026 · 12:30 CST",
+      "fuente": "N+",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQakZRaGYydHhWUlhvLWNwaFhMXzJfUm1EdWk5bGpoUUlKelJPVENKZEpTLWxMRjlxZFk2V0NXTzJ0MGNQYnhMRkpYSGdnLWV2TGxabkFjRjRlUnQ0c05UaDFUUGZEV1k2dmtMa3RnVnUwR1hyUzYzSXB4cWN3UmZOdjlPWkhzakJ1VldZX0M5VnAwUnZobFVJTXdRWVllbzVXRkJIOE5ORGJ3WmEzZkZOM2RtWkp0RENueGpMX2k1M2pvR3VNY20wT3dBYkRwSlhKVUVMOGxKaUhuamVkSk1j?oc=5",
       "dot_color": "#e74c3c",
       "badge_txt": "CIERRE TOTAL",
-      "lat": 21.0,
-      "lon": -104.0
+      "lat": 17.06,
+      "lon": -96.72
     }
   ]
 }
