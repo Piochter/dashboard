@@ -1,11 +1,11 @@
 {
-  "ultima_actualizacion": "2026-06-10T17:51:45.892327-06:00",
-  "ultima_actualizacion_legible": "10 de junio de 2026 · 17:51 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-06-10T21:37:26.045933-06:00",
+  "ultima_actualizacion_legible": "10 de junio de 2026 · 21:37 CST",
+  "total": 2,
   "ventana": "últimos 180 minutos",
   "fuentes": [
     "Google News",
-    "Medios nacionales"
+    "Medios regionales"
   ],
   "grupos": [
     {
@@ -16,15 +16,15 @@
       "col2": false,
       "alertas": [
         {
-          "id": "bcde9cd0",
+          "id": "fc5d292e",
           "tipo": "bloqueo",
-          "ruta": "Normalistas bloquean la caseta México-Cuernavaca…",
-          "descripcion": "Normalistas bloquean la caseta México-Cuernavaca. Continúan las manifestaciones en la CDMX, este miércoles normalistas bloquean la caseta de la México-Cuernavaca.",
+          "ruta": "Bloqueos en CDMX HOY: Madres buscadoras chocan con cerco de…",
+          "descripcion": "Bloqueos en CDMX HOY: Madres buscadoras chocan con cerco de seguridad rumbo al Estadio Ciudad de México - TV Azteca. Bloqueos en CDMX HOY: Madres buscadoras chocan con cerco de seguridad rumbo al Estadio Ciudad de México TV Azteca",
           "recomendacion": "",
-          "fecha": "10 junio 2026 · 17:39 CST",
-          "fecha_iso": "2026-06-10T17:39:00-06:00",
-          "fuente": "24 Horas",
-          "url": "https://24-horas.mx/cdmx/normalistas-bloquean-la-caseta-mexico-cuernavaca/",
+          "fecha": "10 junio 2026 · 21:03 CST",
+          "fecha_iso": "2026-06-10T21:03:00-06:00",
+          "fuente": "TV Azteca",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPd2l5bzVJTlY2M2t6NjN6ZmxiMndGTjhWYjEzOGFiX0tWdVd1TlRhRkNCdFdCbFVwU0RvVENHYTVEWlh5ZGF5V25mc3dJMDMzSHk1eEM4Z1Rsbmx2WjBwSHVRSnlteGN6Z2FIWmVmY1BkOG43R0J5T2JoQVRqLVNWbnBPMXlzZjNDQUdvaGMwcloxTHE2bWNtSHlFWktPOWRsYzcwdGpnUGhOZ2UxUFktT3MyNDIwV3RPakhQdzlBM0HSAc4BQVVfeXFMUDFwQnBRTWxnNEp1SWhFU3pmUXlwOHJ1OWd3TFlYSTRKRFlZU0JsWEVuY0VqUXJVRmpIcWxyd0I5bHQ5cGpQOGIzTFBKbUh5d2VtdzcyNkJJRGdvS1BUUTlwbHR2NzNlbmtKSF92Qkw1MDZscEF1cWFVMVFrbncyejFlMWhVVHVybktQSXFkVlF2cl9td3NmR1JteDBrdHkyRTdLX284T3VxcTFyc1ppOEQ2YldScThyNWtDYWxVdTNCVklnWHRFaWcyc05OalE?oc=5",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO",
@@ -34,86 +34,57 @@
       ]
     },
     {
-      "tipo": "cierre_parcial",
-      "color": "amarillo",
-      "icono": "🟡",
-      "label": "CIERRE PARCIAL / ACCIDENTES",
+      "tipo": "robo",
+      "color": "rojo",
+      "icono": "🚨",
+      "label": "ROBOS EN CARRETERA",
       "col2": true,
       "alertas": [
         {
-          "id": "5227f0c8",
-          "tipo": "cierre_parcial",
-          "ruta": "¿Qué Pasó en la Autopista México-Querétaro Hoy? Choque Provoca Cierre…",
-          "descripcion": "¿Qué Pasó en la Autopista México-Querétaro Hoy? Choque Provoca Cierre Temporal - N+. ¿Qué Pasó en la Autopista México-Querétaro Hoy? Choque Provoca Cierre Temporal N+",
+          "id": "74334010",
+          "tipo": "robo",
+          "ruta": "Mueren cinco policías tras ataque con rifles de asalto en…",
+          "descripcion": "Mueren cinco policías tras ataque con rifles de asalto en Michoacán; hay heridos. Los elementos de la Guardia Civil fueron acribillados en la carretera que une los municipios de Zacapu y Nahuatzen",
           "recomendacion": "",
-          "fecha": "10 junio 2026 · 16:00 CST",
-          "fecha_iso": "2026-06-10T16:00:00-06:00",
-          "fuente": "N+",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPNndiMHVjcW9nbHFqU0gxOTFBWjZnSEpFMk92SEVQT0Z3T1JOTjlQVTRQSDNQNWVYQjJkQm5PYWIxc3FzbnVIUkVFSzB3UEFpaV91YkZxYXRnT3FnOFhCYldiNTBGVTdzUUZMS2l4REJwRnJBcm8zV1BRM2dyWVprN1J3eDJTV3czdDRZbldPOVRFMk1ZZ1VRa2N2QkJ2SnZNVGg1X2FnSlhnVGVsTnVQOXY4LWlGVmRkMWxGS3VPQ1BobGZPd1RHRlBNTEx4MGRSQldXLTR4ZFBZLWdwcEE?oc=5",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 20.1,
-          "lon": -99.5
-        },
-        {
-          "id": "ff784b54",
-          "tipo": "cierre_parcial",
-          "ruta": "Tractocamión Se Sale del Camino y Provoca Aparatoso Accidente en…",
-          "descripcion": "Tractocamión Se Sale del Camino y Provoca Aparatoso Accidente en la México-Querétaro - N+. Tractocamión Se Sale del Camino y Provoca Aparatoso Accidente en la México-Querétaro N+",
-          "recomendacion": "",
-          "fecha": "10 junio 2026 · 15:29 CST",
-          "fecha_iso": "2026-06-10T15:29:00-06:00",
-          "fuente": "N+",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUnM0UVR2WE1WLUlFWTVFdktnNVFxWS1WeDMxY2s3Y3BDTVlZemUwVTlOZmxJNktTZW9KRm1RMU9MVXRtT3FVb01rbjRTNG1UWWh5TjNxVlk1Y1Z3Y25iRTNjMUR0NER6cHo2M3Rnb3BxZ3RtdlB4cEtaaUFmSW5RTFhrVFNpWU1yUmRvbEJKRkdUUFdKUHE3SXFHNDNSeXBUOU5ndFZkOHhkazhEMWVXSkl1N0hUWXNISS0zaWNnTF91NTZXaFFiMU1tb2RRVEhrMjltb1F6WHFXaFVaZW1Scw?oc=5",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 20.1,
-          "lon": -99.5
+          "fecha": "10 junio 2026 · 20:40 CST",
+          "fecha_iso": "2026-06-10T20:40:00-06:00",
+          "fuente": "El Informador Jalisco",
+          "url": "https://www.informador.mx/mexico/cjng-mueren-5-policias-tras-ataque-con-rifles-de-asalto-en-michoacan-hay-5-heridos-20260610-0189.html",
+          "dot_color": "#c0392b",
+          "badge": "badge-robo",
+          "badge_txt": "ROBO",
+          "lat": 19.7,
+          "lon": -101.19
         }
       ]
     }
   ],
   "para_mapa": [
     {
-      "id": "bcde9cd0",
+      "id": "fc5d292e",
       "tipo": "bloqueo",
-      "ruta": "Normalistas bloquean la caseta México-Cuernavaca…",
-      "descripcion": "Normalistas bloquean la caseta México-Cuernavaca. Continúan las manifestaciones en la CDMX, este miércoles normalistas bloquean la caseta de la México-Cuernavaca.",
-      "fecha": "10 junio 2026 · 17:39 CST",
-      "fuente": "24 Horas",
-      "url": "https://24-horas.mx/cdmx/normalistas-bloquean-la-caseta-mexico-cuernavaca/",
+      "ruta": "Bloqueos en CDMX HOY: Madres buscadoras chocan con cerco de…",
+      "descripcion": "Bloqueos en CDMX HOY: Madres buscadoras chocan con cerco de seguridad rumbo al Estadio Ciudad de México - TV Azteca. Bloqueos en CDMX HOY: Madres buscadoras chocan con cerco de seguridad rumbo al Estadio Ciudad de México TV Azteca",
+      "fecha": "10 junio 2026 · 21:03 CST",
+      "fuente": "TV Azteca",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPd2l5bzVJTlY2M2t6NjN6ZmxiMndGTjhWYjEzOGFiX0tWdVd1TlRhRkNCdFdCbFVwU0RvVENHYTVEWlh5ZGF5V25mc3dJMDMzSHk1eEM4Z1Rsbmx2WjBwSHVRSnlteGN6Z2FIWmVmY1BkOG43R0J5T2JoQVRqLVNWbnBPMXlzZjNDQUdvaGMwcloxTHE2bWNtSHlFWktPOWRsYzcwdGpnUGhOZ2UxUFktT3MyNDIwV3RPakhQdzlBM0HSAc4BQVVfeXFMUDFwQnBRTWxnNEp1SWhFU3pmUXlwOHJ1OWd3TFlYSTRKRFlZU0JsWEVuY0VqUXJVRmpIcWxyd0I5bHQ5cGpQOGIzTFBKbUh5d2VtdzcyNkJJRGdvS1BUUTlwbHR2NzNlbmtKSF92Qkw1MDZscEF1cWFVMVFrbncyejFlMWhVVHVybktQSXFkVlF2cl9td3NmR1JteDBrdHkyRTdLX284T3VxcTFyc1ppOEQ2YldScThyNWtDYWxVdTNCVklnWHRFaWcyc05OalE?oc=5",
       "dot_color": "#8e44ad",
       "badge_txt": "BLOQUEO",
       "lat": 19.43,
       "lon": -99.13
     },
     {
-      "id": "5227f0c8",
-      "tipo": "cierre_parcial",
-      "ruta": "¿Qué Pasó en la Autopista México-Querétaro Hoy? Choque Provoca Cierre…",
-      "descripcion": "¿Qué Pasó en la Autopista México-Querétaro Hoy? Choque Provoca Cierre Temporal - N+. ¿Qué Pasó en la Autopista México-Querétaro Hoy? Choque Provoca Cierre Temporal N+",
-      "fecha": "10 junio 2026 · 16:00 CST",
-      "fuente": "N+",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPNndiMHVjcW9nbHFqU0gxOTFBWjZnSEpFMk92SEVQT0Z3T1JOTjlQVTRQSDNQNWVYQjJkQm5PYWIxc3FzbnVIUkVFSzB3UEFpaV91YkZxYXRnT3FnOFhCYldiNTBGVTdzUUZMS2l4REJwRnJBcm8zV1BRM2dyWVprN1J3eDJTV3czdDRZbldPOVRFMk1ZZ1VRa2N2QkJ2SnZNVGg1X2FnSlhnVGVsTnVQOXY4LWlGVmRkMWxGS3VPQ1BobGZPd1RHRlBNTEx4MGRSQldXLTR4ZFBZLWdwcEE?oc=5",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 20.1,
-      "lon": -99.5
-    },
-    {
-      "id": "ff784b54",
-      "tipo": "cierre_parcial",
-      "ruta": "Tractocamión Se Sale del Camino y Provoca Aparatoso Accidente en…",
-      "descripcion": "Tractocamión Se Sale del Camino y Provoca Aparatoso Accidente en la México-Querétaro - N+. Tractocamión Se Sale del Camino y Provoca Aparatoso Accidente en la México-Querétaro N+",
-      "fecha": "10 junio 2026 · 15:29 CST",
-      "fuente": "N+",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUnM0UVR2WE1WLUlFWTVFdktnNVFxWS1WeDMxY2s3Y3BDTVlZemUwVTlOZmxJNktTZW9KRm1RMU9MVXRtT3FVb01rbjRTNG1UWWh5TjNxVlk1Y1Z3Y25iRTNjMUR0NER6cHo2M3Rnb3BxZ3RtdlB4cEtaaUFmSW5RTFhrVFNpWU1yUmRvbEJKRkdUUFdKUHE3SXFHNDNSeXBUOU5ndFZkOHhkazhEMWVXSkl1N0hUWXNISS0zaWNnTF91NTZXaFFiMU1tb2RRVEhrMjltb1F6WHFXaFVaZW1Scw?oc=5",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 20.1,
-      "lon": -99.5
+      "id": "74334010",
+      "tipo": "robo",
+      "ruta": "Mueren cinco policías tras ataque con rifles de asalto en…",
+      "descripcion": "Mueren cinco policías tras ataque con rifles de asalto en Michoacán; hay heridos. Los elementos de la Guardia Civil fueron acribillados en la carretera que une los municipios de Zacapu y Nahuatzen",
+      "fecha": "10 junio 2026 · 20:40 CST",
+      "fuente": "El Informador Jalisco",
+      "url": "https://www.informador.mx/mexico/cjng-mueren-5-policias-tras-ataque-con-rifles-de-asalto-en-michoacan-hay-5-heridos-20260610-0189.html",
+      "dot_color": "#c0392b",
+      "badge_txt": "ROBO",
+      "lat": 19.7,
+      "lon": -101.19
     }
   ]
 }
