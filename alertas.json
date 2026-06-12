@@ -1,11 +1,13 @@
 {
-  "ultima_actualizacion": "2026-06-12T13:25:35.801649-06:00",
-  "ultima_actualizacion_legible": "12 de junio de 2026 · 13:25 CST",
-  "total": 4,
+  "ultima_actualizacion": "2026-06-12T15:14:28.849799-06:00",
+  "ultima_actualizacion_legible": "12 de junio de 2026 · 15:14 CST",
+  "total": 7,
   "ventana": "últimos 180 minutos",
   "fuentes": [
     "Google News",
-    "Quadratín + regionales"
+    "Medios regionales",
+    "Quadratín + regionales",
+    "Telegram"
   ],
   "grupos": [
     {
@@ -16,15 +18,15 @@
       "col2": false,
       "alertas": [
         {
-          "id": "51f171d3",
+          "id": "a21fce52",
           "tipo": "cierre_total",
-          "ruta": "Liberan carril en la Federal 200 tras derrumbe en Cabo…",
-          "descripcion": "Liberan carril en la Federal 200 tras derrumbe en Cabo Corrientes. Las labores de limpieza comenzaron con herramientas manuales, lo que permitió la apertura inmediata de un carril",
+          "ruta": "Habilitan circulación en la Federal 200 tras derrumbe en Cabo…",
+          "descripcion": "Habilitan circulación en la Federal 200 tras derrumbe en Cabo Corrientes. Esta reapertura se logró luego de las intensas labores de limpieza realizadas tras el derrumbe registrado durante la madrugada",
           "recomendacion": "",
-          "fecha": "12 junio 2026 · 11:33 CST",
-          "fecha_iso": "2026-06-12T11:33:00-06:00",
+          "fecha": "12 junio 2026 · 14:00 CST",
+          "fecha_iso": "2026-06-12T14:00:00-06:00",
           "fuente": "Quadratín Jalisco",
-          "url": "https://jalisco.quadratin.com.mx/puerto-vallarta/liberan-carril-en-la-federal-200-tras-derrumbe-en-cabo-corrientes/",
+          "url": "https://jalisco.quadratin.com.mx/puerto-vallarta/habilitan-circulacion-en-la-federal-200-tras-derrumbe-en-cabo-corrientes/",
           "dot_color": "#e74c3c",
           "badge": "badge-cierre-total",
           "badge_txt": "CIERRE TOTAL",
@@ -40,6 +42,34 @@
       "label": "BLOQUEOS / MANIFESTACIONES",
       "col2": false,
       "alertas": [
+        {
+          "id": "45bfe0c6",
+          "tipo": "bloqueo",
+          "ruta": "Dos líneas de investigación en homicidio del periodista Luis Ángel…",
+          "descripcion": "Dos líneas de investigación en homicidio del periodista Luis Ángel López. La Fiscal Lisbeth Aurelia Jiménez reveló que recibió 18 disparos por arma de fuego",
+          "recomendacion": "",
+          "fecha": "12 junio 2026 · 15:12 CST",
+          "fecha_iso": "2026-06-12T15:12:00-06:00",
+          "fuente": "Quadratín Veracruz",
+          "url": "https://veracruz.quadratin.com.mx/dos-lineas-de-investigacion-en-homicidio-del-periodista-luis-angel-lopez/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
+        {
+          "id": "87253e78",
+          "tipo": "bloqueo",
+          "ruta": "EN VIVO: ¿Hay bloqueos en carreteras hoy? Cierres y tráfico…",
+          "descripcion": "EN VIVO: ¿Hay bloqueos en carreteras hoy? Cierres y tráfico en autopistas de México este 12 de junio 2026 - TV Azteca. EN VIVO: ¿Hay bloqueos en carreteras hoy? Cierres y tráfico en autopistas de México este 12 de junio 2026 TV Azteca",
+          "recomendacion": "",
+          "fecha": "12 junio 2026 · 14:31 CST",
+          "fecha_iso": "2026-06-12T14:31:00-06:00",
+          "fuente": "TV Azteca",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNV2RFQm9ValVsZmxkelRjanlCTWtzNGI2ZUZCS3B3LUtOU2FqcVoxUURYLTZ5Umo4Q3BOS2pMOHhkZi1qVEhuQldyMkViZWRDd1A4eFZ3RFk2OUt6UEE4OHJaa3dZM2hsaEJsbk1QRjdrc0NsaUthNkhYTkNkT0t1dkZteUUxVjBqVW4yLVJNcVMwc1pkRkoxMjhiYTZNV1dlZGJGdkxXNi1uai1VdGozaHJINC1EMURMbmlPSnB3TjlzQ0tGODEzUWFjdErSAdoBQVVfeXFMUGdGb05rM01Ma0c0QjBZUS1IamNrb2RJZmZtQnIzYUhHekVtbTlYak42WU9FUHRfbmlFbGJjWldLUG5WTDlGbkNQQkdEd3Nsa2U3eTFyMi1UMVdoU2lYYXlLWXlWaWFyY3A3RERMcVJ4elJJRkdhVkJvSEF6RTJYLWJlUzdZekdtSVU5WWdxZlpuZGRPWUw3RV96RUFZeUg4VjRVc2RseEI5a0JGZTZXOUJ5UGZRWXJVcF9LNTFzNTI1RjBFT1FEcFV1QnNkQ2R5cTFBbWVjcHBacmc?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
         {
           "id": "519b1a5e",
           "tipo": "bloqueo",
@@ -57,39 +87,97 @@
           "lon": -99.23
         },
         {
-          "id": "87253e78",
+          "id": "2651b9f5",
           "tipo": "bloqueo",
-          "ruta": "EN VIVO: ¿Hay bloqueos en carreteras hoy? Cierres y tráfico…",
-          "descripcion": "EN VIVO: ¿Hay bloqueos en carreteras hoy? Cierres y tráfico en autopistas de México este 12 de junio 2026 - TV Azteca. EN VIVO: ¿Hay bloqueos en carreteras hoy? Cierres y tráfico en autopistas de México este 12 de junio 2026 TV Azteca",
+          "ruta": "¿Hay Cierres en Carreteras Hoy 12 de Junio 2026? Estas…",
+          "descripcion": "¿Hay Cierres en Carreteras Hoy 12 de Junio 2026? Estas Autopistas Tienen Bloqueos - N+. ¿Hay Cierres en Carreteras Hoy 12 de Junio 2026? Estas Autopistas Tienen Bloqueos N+",
           "recomendacion": "",
-          "fecha": "12 junio 2026 · 12:03 CST",
-          "fecha_iso": "2026-06-12T12:03:00-06:00",
-          "fuente": "TV Azteca",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNV2RFQm9ValVsZmxkelRjanlCTWtzNGI2ZUZCS3B3LUtOU2FqcVoxUURYLTZ5Umo4Q3BOS2pMOHhkZi1qVEhuQldyMkViZWRDd1A4eFZ3RFk2OUt6UEE4OHJaa3dZM2hsaEJsbk1QRjdrc0NsaUthNkhYTkNkT0t1dkZteUUxVjBqVW4yLVJNcVMwc1pkRkoxMjhiYTZNV1dlZGJGdkxXNi1uai1VdGozaHJINC1EMURMbmlPSnB3TjlzQ0tGODEzUWFjdErSAdoBQVVfeXFMUGdGb05rM01Ma0c0QjBZUS1IamNrb2RJZmZtQnIzYUhHekVtbTlYak42WU9FUHRfbmlFbGJjWldLUG5WTDlGbkNQQkdEd3Nsa2U3eTFyMi1UMVdoU2lYYXlLWXlWaWFyY3A3RERMcVJ4elJJRkdhVkJvSEF6RTJYLWJlUzdZekdtSVU5WWdxZlpuZGRPWUw3RV96RUFZeUg4VjRVc2RseEI5a0JGZTZXOUJ5UGZRWXJVcF9LNTFzNTI1RjBFT1FEcFV1QnNkQ2R5cTFBbWVjcHBacmc?oc=5",
+          "fecha": "12 junio 2026 · 12:38 CST",
+          "fecha_iso": "2026-06-12T12:38:00-06:00",
+          "fuente": "N+",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPS2pveUxtWW9PSjhBc3l3SjR2YnZPeHpvdWh4b3o5eDJWeHczR3hnd1YyUzZtOU9tbUgtVzdOYTlzRHVxdUZ2Q0w4VXB5ZWMyVnZqTURmV19JNDN6RWtBWUh0MmtUUWZzcmJrZFE2S2FacWJsMGdGQWdrdUJwdkxOaGprb1BLa1VTNGsxRUlZaTJZcnlOeHlLWjdOZlc5djFtVkhfOFJDMGpDVmRPWmhtNWQyVW1XZw?oc=5",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO"
-        },
+        }
+      ]
+    },
+    {
+      "tipo": "cierre_parcial",
+      "color": "amarillo",
+      "icono": "🟡",
+      "label": "CIERRE PARCIAL / ACCIDENTES",
+      "col2": true,
+      "alertas": [
         {
-          "id": "ec9d2ee6",
-          "tipo": "bloqueo",
-          "ruta": "Bloqueo en la carretera México-Cuernavaca da resultados; vecinos logran instalación…",
-          "descripcion": "Bloqueo en la carretera México-Cuernavaca da resultados; vecinos logran instalación de topes - El Sol de México. Bloqueo en la carretera México-Cuernavaca da resultados; vecinos logran instalación de topes El Sol de México",
+          "id": "8fbf51bc",
+          "tipo": "cierre_parcial",
+          "ruta": "Mueren dos personas tras choque en San Juan de los…",
+          "descripcion": "Mueren dos personas tras choque en San Juan de los Lagos. Personal localizó dentro del automóvil particular a dos hombres, uno de ellos de 26 años de edad, quien era originario del vecino Estado de Aguascalientes",
           "recomendacion": "",
-          "fecha": "12 junio 2026 · 11:33 CST",
-          "fecha_iso": "2026-06-12T11:33:00-06:00",
-          "fuente": "El Sol de México",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVndsc2JtVTMyVjBuT2dLbFJaZXM0YlZmY202REgwelBxTmxJcHhHRzNfWTFZNHZ0VDIxV0h6QjNnRnVwVV9UNnNYX19XY1RBb0s0RnU4c0R5VURLOVlqYTVfSkVzcFhwS2cwUnFzQjQyQ0oySUdCNklLM0VNak5iTHlDVTRDQTZZcmZhV0dxVk9XVVFEc2plQkRSeGVXcklsVzNvSGtmRkltZjZibUJqUmxzTm9mc2MyUjVxVnJWUU5HSnB5YzN4UXphUW1qNWhFRlFmTTloMVp4U3c?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 18.92,
-          "lon": -99.23
+          "fecha": "12 junio 2026 · 13:56 CST",
+          "fecha_iso": "2026-06-12T13:56:00-06:00",
+          "fuente": "El Informador Jalisco",
+          "url": "https://www.informador.mx/jalisco/san-juan-de-los-lagos-mueren-dos-personas-tras-choque-20260612-0132.html",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        }
+      ]
+    },
+    {
+      "tipo": "clima",
+      "color": "azul",
+      "icono": "🌧️",
+      "label": "ALERTA METEOROLÓGICA",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "d9e5863b",
+          "tipo": "clima",
+          "ruta": "(VIDEOS) Lluvias e inundaciones en CDMX sorprenden a aficionados: ¿Qué…",
+          "descripcion": "(VIDEOS) Lluvias e inundaciones en CDMX sorprenden a aficionados: ¿Qué alcaldías tienen alerta [roja?](http://telegra.ph/VIDEOS-Lluvias-e-inundaciones-en-CDMX-sorprenden-a-aficionados-Qué-alcaldías-tienen-alerta-roja-06-12)\n\n__via__ [www.elfinanciero.com.mx](https://www.elfinanciero.com.mx/cdmx/2026/06/11/lluvias-en-cdmx-sorprenden-a-aficionados-en-el-angel-estas-son-las-alcaldias-con-alerta-roja/)",
+          "recomendacion": "",
+          "fecha": "12 junio 2026 · 14:34 CST",
+          "fecha_iso": "2026-06-12T14:34:00-06:00",
+          "fuente": "Telegram @NOTMEX",
+          "url": "https://t.me/NOTMEX/183847",
+          "dot_color": "#3498db",
+          "badge": "badge-clima",
+          "badge_txt": "ALERTA CLIMA",
+          "lat": 19.43,
+          "lon": -99.13
         }
       ]
     }
   ],
   "para_mapa": [
+    {
+      "id": "d9e5863b",
+      "tipo": "clima",
+      "ruta": "(VIDEOS) Lluvias e inundaciones en CDMX sorprenden a aficionados: ¿Qué…",
+      "descripcion": "(VIDEOS) Lluvias e inundaciones en CDMX sorprenden a aficionados: ¿Qué alcaldías tienen alerta [roja?](http://telegra.ph/VIDEOS-Lluvias-e-inundaciones-en-CDMX-sorprenden-a-aficionados-Qué-alcaldías-tienen-alerta-roja-06-12)\n\n__via__ [www.elfinanciero.com.mx](https://www.elfinanciero.com.mx/cdmx/2026/06/11/lluvias-en-cdmx-sorprenden-a-aficionados-en-el-angel-estas-son-las-alcaldias-con-alerta-roja/)",
+      "fecha": "12 junio 2026 · 14:34 CST",
+      "fuente": "Telegram @NOTMEX",
+      "url": "https://t.me/NOTMEX/183847",
+      "dot_color": "#3498db",
+      "badge_txt": "ALERTA CLIMA",
+      "lat": 19.43,
+      "lon": -99.13
+    },
+    {
+      "id": "a21fce52",
+      "tipo": "cierre_total",
+      "ruta": "Habilitan circulación en la Federal 200 tras derrumbe en Cabo…",
+      "descripcion": "Habilitan circulación en la Federal 200 tras derrumbe en Cabo Corrientes. Esta reapertura se logró luego de las intensas labores de limpieza realizadas tras el derrumbe registrado durante la madrugada",
+      "fecha": "12 junio 2026 · 14:00 CST",
+      "fuente": "Quadratín Jalisco",
+      "url": "https://jalisco.quadratin.com.mx/puerto-vallarta/habilitan-circulacion-en-la-federal-200-tras-derrumbe-en-cabo-corrientes/",
+      "dot_color": "#e74c3c",
+      "badge_txt": "CIERRE TOTAL",
+      "lat": 19.1,
+      "lon": -104.3
+    },
     {
       "id": "519b1a5e",
       "tipo": "bloqueo",
@@ -102,32 +190,6 @@
       "badge_txt": "BLOQUEO",
       "lat": 18.92,
       "lon": -99.23
-    },
-    {
-      "id": "ec9d2ee6",
-      "tipo": "bloqueo",
-      "ruta": "Bloqueo en la carretera México-Cuernavaca da resultados; vecinos logran instalación…",
-      "descripcion": "Bloqueo en la carretera México-Cuernavaca da resultados; vecinos logran instalación de topes - El Sol de México. Bloqueo en la carretera México-Cuernavaca da resultados; vecinos logran instalación de topes El Sol de México",
-      "fecha": "12 junio 2026 · 11:33 CST",
-      "fuente": "El Sol de México",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVndsc2JtVTMyVjBuT2dLbFJaZXM0YlZmY202REgwelBxTmxJcHhHRzNfWTFZNHZ0VDIxV0h6QjNnRnVwVV9UNnNYX19XY1RBb0s0RnU4c0R5VURLOVlqYTVfSkVzcFhwS2cwUnFzQjQyQ0oySUdCNklLM0VNak5iTHlDVTRDQTZZcmZhV0dxVk9XVVFEc2plQkRSeGVXcklsVzNvSGtmRkltZjZibUJqUmxzTm9mc2MyUjVxVnJWUU5HSnB5YzN4UXphUW1qNWhFRlFmTTloMVp4U3c?oc=5",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 18.92,
-      "lon": -99.23
-    },
-    {
-      "id": "51f171d3",
-      "tipo": "cierre_total",
-      "ruta": "Liberan carril en la Federal 200 tras derrumbe en Cabo…",
-      "descripcion": "Liberan carril en la Federal 200 tras derrumbe en Cabo Corrientes. Las labores de limpieza comenzaron con herramientas manuales, lo que permitió la apertura inmediata de un carril",
-      "fecha": "12 junio 2026 · 11:33 CST",
-      "fuente": "Quadratín Jalisco",
-      "url": "https://jalisco.quadratin.com.mx/puerto-vallarta/liberan-carril-en-la-federal-200-tras-derrumbe-en-cabo-corrientes/",
-      "dot_color": "#e74c3c",
-      "badge_txt": "CIERRE TOTAL",
-      "lat": 19.1,
-      "lon": -104.3
     }
   ]
 }
