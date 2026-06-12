@@ -1,6 +1,6 @@
 {
-  "ultima_actualizacion": "2026-06-12T15:14:28.849799-06:00",
-  "ultima_actualizacion_legible": "12 de junio de 2026 · 15:14 CST",
+  "ultima_actualizacion": "2026-06-12T16:49:59.339565-06:00",
+  "ultima_actualizacion_legible": "12 de junio de 2026 · 16:49 CST",
   "total": 7,
   "ventana": "últimos 180 minutos",
   "fuentes": [
@@ -43,6 +43,22 @@
       "col2": false,
       "alertas": [
         {
+          "id": "2b47aff3",
+          "tipo": "bloqueo",
+          "ruta": "autopista México-Cuernavaca",
+          "descripcion": "Protesta de Ayotzinapa cierra la autopista México-Cuernavaca. Estudiantes de Ayotzinapa bloquearon la autopista y el paso a las casetas de cobro exigiendo justicia por los 43 desaparecidos",
+          "recomendacion": "",
+          "fecha": "12 junio 2026 · 16:32 CST",
+          "fecha_iso": "2026-06-12T16:32:00-06:00",
+          "fuente": "El Informador Jalisco",
+          "url": "https://www.informador.mx/mexico/protesta-de-ayotzinapa-cierra-la-autopista-mexico-cuernavaca-20260612-0156.html",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 18.92,
+          "lon": -99.23
+        },
+        {
           "id": "45bfe0c6",
           "tipo": "bloqueo",
           "ruta": "Dos líneas de investigación en homicidio del periodista Luis Ángel…",
@@ -57,29 +73,15 @@
           "badge_txt": "BLOQUEO"
         },
         {
-          "id": "87253e78",
+          "id": "ec9d2ee6",
           "tipo": "bloqueo",
-          "ruta": "EN VIVO: ¿Hay bloqueos en carreteras hoy? Cierres y tráfico…",
-          "descripcion": "EN VIVO: ¿Hay bloqueos en carreteras hoy? Cierres y tráfico en autopistas de México este 12 de junio 2026 - TV Azteca. EN VIVO: ¿Hay bloqueos en carreteras hoy? Cierres y tráfico en autopistas de México este 12 de junio 2026 TV Azteca",
+          "ruta": "Bloqueo en la carretera México-Cuernavaca da resultados; vecinos logran instalación…",
+          "descripcion": "Bloqueo en la carretera México-Cuernavaca da resultados; vecinos logran instalación de topes - El Sol de México. Bloqueo en la carretera México-Cuernavaca da resultados; vecinos logran instalación de topes El Sol de México",
           "recomendacion": "",
-          "fecha": "12 junio 2026 · 14:31 CST",
-          "fecha_iso": "2026-06-12T14:31:00-06:00",
-          "fuente": "TV Azteca",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNV2RFQm9ValVsZmxkelRjanlCTWtzNGI2ZUZCS3B3LUtOU2FqcVoxUURYLTZ5Umo4Q3BOS2pMOHhkZi1qVEhuQldyMkViZWRDd1A4eFZ3RFk2OUt6UEE4OHJaa3dZM2hsaEJsbk1QRjdrc0NsaUthNkhYTkNkT0t1dkZteUUxVjBqVW4yLVJNcVMwc1pkRkoxMjhiYTZNV1dlZGJGdkxXNi1uai1VdGozaHJINC1EMURMbmlPSnB3TjlzQ0tGODEzUWFjdErSAdoBQVVfeXFMUGdGb05rM01Ma0c0QjBZUS1IamNrb2RJZmZtQnIzYUhHekVtbTlYak42WU9FUHRfbmlFbGJjWldLUG5WTDlGbkNQQkdEd3Nsa2U3eTFyMi1UMVdoU2lYYXlLWXlWaWFyY3A3RERMcVJ4elJJRkdhVkJvSEF6RTJYLWJlUzdZekdtSVU5WWdxZlpuZGRPWUw3RV96RUFZeUg4VjRVc2RseEI5a0JGZTZXOUJ5UGZRWXJVcF9LNTFzNTI1RjBFT1FEcFV1QnNkQ2R5cTFBbWVjcHBacmc?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        },
-        {
-          "id": "519b1a5e",
-          "tipo": "bloqueo",
-          "ruta": "Bloqueo total en la México-Cuernavaca por manifestación de normalistas -…",
-          "descripcion": "Bloqueo total en la México-Cuernavaca por manifestación de normalistas - UnoTV. Bloqueo total en la México-Cuernavaca por manifestación de normalistas UnoTV",
-          "recomendacion": "",
-          "fecha": "12 junio 2026 · 12:58 CST",
-          "fecha_iso": "2026-06-12T12:58:00-06:00",
-          "fuente": "UnoTV",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZlJoZWlhUjRWYUNjcUJmdkFiR3lCbzhxSUhwelRHbjJVREdFWExtVDY2ZjlKZ3hwWVY4cVAxWFdlWTZmTjBDLVRReUQ2QXhkWWc2Q0xjbnJTTGVTX0tqNURlMWdsT1ozbEkwQ2J4eTZBcnk5elBsQmVLVVlhck8ydDg3c19zY1hhdWFBLUhaWTFURWc5QXVMRG5sbFV5SVhSZ1lYczBGWmFBbGRaNHl1bG9uem1ON3k5VHc?oc=5",
+          "fecha": "12 junio 2026 · 15:04 CST",
+          "fecha_iso": "2026-06-12T15:04:00-06:00",
+          "fuente": "El Sol de México",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVndsc2JtVTMyVjBuT2dLbFJaZXM0YlZmY202REgwelBxTmxJcHhHRzNfWTFZNHZ0VDIxV0h6QjNnRnVwVV9UNnNYX19XY1RBb0s0RnU4c0R5VURLOVlqYTVfSkVzcFhwS2cwUnFzQjQyQ0oySUdCNklLM0VNak5iTHlDVTRDQTZZcmZhV0dxVk9XVVFEc2plQkRSeGVXcklsVzNvSGtmRkltZjZibUJqUmxzTm9mc2MyUjVxVnJWUU5HSnB5YzN4UXphUW1qNWhFRlFmTTloMVp4U3c?oc=5",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO",
@@ -87,15 +89,15 @@
           "lon": -99.23
         },
         {
-          "id": "2651b9f5",
+          "id": "87253e78",
           "tipo": "bloqueo",
-          "ruta": "¿Hay Cierres en Carreteras Hoy 12 de Junio 2026? Estas…",
-          "descripcion": "¿Hay Cierres en Carreteras Hoy 12 de Junio 2026? Estas Autopistas Tienen Bloqueos - N+. ¿Hay Cierres en Carreteras Hoy 12 de Junio 2026? Estas Autopistas Tienen Bloqueos N+",
+          "ruta": "EN VIVO: ¿Hay bloqueos en carreteras hoy? Cierres y tráfico…",
+          "descripcion": "EN VIVO: ¿Hay bloqueos en carreteras hoy? Cierres y tráfico en autopistas de México este 12 de junio 2026 - TV Azteca. EN VIVO: ¿Hay bloqueos en carreteras hoy? Cierres y tráfico en autopistas de México este 12 de junio 2026 TV Azteca",
           "recomendacion": "",
-          "fecha": "12 junio 2026 · 12:38 CST",
-          "fecha_iso": "2026-06-12T12:38:00-06:00",
-          "fuente": "N+",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPS2pveUxtWW9PSjhBc3l3SjR2YnZPeHpvdWh4b3o5eDJWeHczR3hnd1YyUzZtOU9tbUgtVzdOYTlzRHVxdUZ2Q0w4VXB5ZWMyVnZqTURmV19JNDN6RWtBWUh0MmtUUWZzcmJrZFE2S2FacWJsMGdGQWdrdUJwdkxOaGprb1BLa1VTNGsxRUlZaTJZcnlOeHlLWjdOZlc5djFtVkhfOFJDMGpDVmRPWmhtNWQyVW1XZw?oc=5",
+          "fecha": "12 junio 2026 · 14:59 CST",
+          "fecha_iso": "2026-06-12T14:59:00-06:00",
+          "fuente": "TV Azteca",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNV2RFQm9ValVsZmxkelRjanlCTWtzNGI2ZUZCS3B3LUtOU2FqcVoxUURYLTZ5Umo4Q3BOS2pMOHhkZi1qVEhuQldyMkViZWRDd1A4eFZ3RFk2OUt6UEE4OHJaa3dZM2hsaEJsbk1QRjdrc0NsaUthNkhYTkNkT0t1dkZteUUxVjBqVW4yLVJNcVMwc1pkRkoxMjhiYTZNV1dlZGJGdkxXNi1uai1VdGozaHJINC1EMURMbmlPSnB3TjlzQ0tGODEzUWFjdErSAdoBQVVfeXFMUGdGb05rM01Ma0c0QjBZUS1IamNrb2RJZmZtQnIzYUhHekVtbTlYak42WU9FUHRfbmlFbGJjWldLUG5WTDlGbkNQQkdEd3Nsa2U3eTFyMi1UMVdoU2lYYXlLWXlWaWFyY3A3RERMcVJ4elJJRkdhVkJvSEF6RTJYLWJlUzdZekdtSVU5WWdxZlpuZGRPWUw3RV96RUFZeUg4VjRVc2RseEI5a0JGZTZXOUJ5UGZRWXJVcF9LNTFzNTI1RjBFT1FEcFV1QnNkQ2R5cTFBbWVjcHBacmc?oc=5",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO"
@@ -153,6 +155,32 @@
   ],
   "para_mapa": [
     {
+      "id": "2b47aff3",
+      "tipo": "bloqueo",
+      "ruta": "autopista México-Cuernavaca",
+      "descripcion": "Protesta de Ayotzinapa cierra la autopista México-Cuernavaca. Estudiantes de Ayotzinapa bloquearon la autopista y el paso a las casetas de cobro exigiendo justicia por los 43 desaparecidos",
+      "fecha": "12 junio 2026 · 16:32 CST",
+      "fuente": "El Informador Jalisco",
+      "url": "https://www.informador.mx/mexico/protesta-de-ayotzinapa-cierra-la-autopista-mexico-cuernavaca-20260612-0156.html",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 18.92,
+      "lon": -99.23
+    },
+    {
+      "id": "ec9d2ee6",
+      "tipo": "bloqueo",
+      "ruta": "Bloqueo en la carretera México-Cuernavaca da resultados; vecinos logran instalación…",
+      "descripcion": "Bloqueo en la carretera México-Cuernavaca da resultados; vecinos logran instalación de topes - El Sol de México. Bloqueo en la carretera México-Cuernavaca da resultados; vecinos logran instalación de topes El Sol de México",
+      "fecha": "12 junio 2026 · 15:04 CST",
+      "fuente": "El Sol de México",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVndsc2JtVTMyVjBuT2dLbFJaZXM0YlZmY202REgwelBxTmxJcHhHRzNfWTFZNHZ0VDIxV0h6QjNnRnVwVV9UNnNYX19XY1RBb0s0RnU4c0R5VURLOVlqYTVfSkVzcFhwS2cwUnFzQjQyQ0oySUdCNklLM0VNak5iTHlDVTRDQTZZcmZhV0dxVk9XVVFEc2plQkRSeGVXcklsVzNvSGtmRkltZjZibUJqUmxzTm9mc2MyUjVxVnJWUU5HSnB5YzN4UXphUW1qNWhFRlFmTTloMVp4U3c?oc=5",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 18.92,
+      "lon": -99.23
+    },
+    {
       "id": "d9e5863b",
       "tipo": "clima",
       "ruta": "(VIDEOS) Lluvias e inundaciones en CDMX sorprenden a aficionados: ¿Qué…",
@@ -177,19 +205,6 @@
       "badge_txt": "CIERRE TOTAL",
       "lat": 19.1,
       "lon": -104.3
-    },
-    {
-      "id": "519b1a5e",
-      "tipo": "bloqueo",
-      "ruta": "Bloqueo total en la México-Cuernavaca por manifestación de normalistas -…",
-      "descripcion": "Bloqueo total en la México-Cuernavaca por manifestación de normalistas - UnoTV. Bloqueo total en la México-Cuernavaca por manifestación de normalistas UnoTV",
-      "fecha": "12 junio 2026 · 12:58 CST",
-      "fuente": "UnoTV",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZlJoZWlhUjRWYUNjcUJmdkFiR3lCbzhxSUhwelRHbjJVREdFWExtVDY2ZjlKZ3hwWVY4cVAxWFdlWTZmTjBDLVRReUQ2QXhkWWc2Q0xjbnJTTGVTX0tqNURlMWdsT1ozbEkwQ2J4eTZBcnk5elBsQmVLVVlhck8ydDg3c19zY1hhdWFBLUhaWTFURWc5QXVMRG5sbFV5SVhSZ1lYczBGWmFBbGRaNHl1bG9uem1ON3k5VHc?oc=5",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 18.92,
-      "lon": -99.23
     }
   ]
 }
