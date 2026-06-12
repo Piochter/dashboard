@@ -1,51 +1,103 @@
 {
-  "ultima_actualizacion": "2026-06-12T08:10:12.266440-06:00",
-  "ultima_actualizacion_legible": "12 de junio de 2026 · 08:10 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-06-12T11:16:37.701035-06:00",
+  "ultima_actualizacion_legible": "12 de junio de 2026 · 11:16 CST",
+  "total": 4,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Telegram"
+    "Google News",
+    "Medios regionales"
   ],
   "grupos": [
     {
-      "tipo": "cierre_parcial",
-      "color": "amarillo",
-      "icono": "🟡",
-      "label": "CIERRE PARCIAL / ACCIDENTES",
-      "col2": true,
+      "tipo": "cierre_total",
+      "color": "rojo",
+      "icono": "🔴",
+      "label": "CIERRE TOTAL",
+      "col2": false,
       "alertas": [
         {
-          "id": "023e4aec",
-          "tipo": "cierre_parcial",
-          "ruta": "🚧Choque complica la circulación en la #México-#Toluca con dirección a…",
-          "descripcion": "🚧Choque complica la circulación en la #México-#Toluca con dirección a la #CDMX\n\nhttps://lajornadaestadodemexico.com/accidente-en-la-mexico-toluca-rumbo-a-la-cdmx/",
+          "id": "0977bda2",
+          "tipo": "cierre_total",
+          "ruta": "Autopista México-Querétaro y Arco Norte con cierre total - adn40",
+          "descripcion": "Bloqueos carreteros hoy: Autopista México-Querétaro y Arco Norte con cierre total - adn40.mx. Bloqueos carreteros hoy: Autopista México-Querétaro y Arco Norte con cierre total adn40.mx",
           "recomendacion": "",
-          "fecha": "12 junio 2026 · 07:22 CST",
-          "fecha_iso": "2026-06-12T07:22:00-06:00",
-          "fuente": "Telegram @jornadaedomex",
-          "url": "https://t.me/jornadaedomex/11011",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.43,
-          "lon": -99.13
+          "fecha": "12 junio 2026 · 08:20 CST",
+          "fecha_iso": "2026-06-12T08:20:00-06:00",
+          "fuente": "adn40.mx",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeTd5dW5nYUZWRkxxbGxkLWVtZzdqbFdxWEJ5WHJTMlphT1BJekkyUnppd1dZNGlmWVpuZ3JSX3NYVk1pU2tZRi13OVdOUFRGZFF3ai1FQ0FWZWxSNE5mSE1NUk91eTRrZm5LMllsMEJnUGxyMFpWb0o1UFBDVU1CYWpRZnRQMDdQbVJPWnNiYzMyajc5aHc0aWVGOFBtZVdDelFKZmhCLUszaHZ3NjdhOGoyMG1DN2pWUWQzNQ?oc=5",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL",
+          "lat": 20.1,
+          "lon": -99.5
+        }
+      ]
+    },
+    {
+      "tipo": "bloqueo",
+      "color": "rojo",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "87253e78",
+          "tipo": "bloqueo",
+          "ruta": "EN VIVO: ¿Hay bloqueos en carreteras hoy? Cierres y tráfico…",
+          "descripcion": "EN VIVO: ¿Hay bloqueos en carreteras hoy? Cierres y tráfico en autopistas de México este 12 de junio 2026 - TV Azteca. EN VIVO: ¿Hay bloqueos en carreteras hoy? Cierres y tráfico en autopistas de México este 12 de junio 2026 TV Azteca",
+          "recomendacion": "",
+          "fecha": "12 junio 2026 · 10:03 CST",
+          "fecha_iso": "2026-06-12T10:03:00-06:00",
+          "fuente": "TV Azteca",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNV2RFQm9ValVsZmxkelRjanlCTWtzNGI2ZUZCS3B3LUtOU2FqcVoxUURYLTZ5Umo4Q3BOS2pMOHhkZi1qVEhuQldyMkViZWRDd1A4eFZ3RFk2OUt6UEE4OHJaa3dZM2hsaEJsbk1QRjdrc0NsaUthNkhYTkNkT0t1dkZteUUxVjBqVW4yLVJNcVMwc1pkRkoxMjhiYTZNV1dlZGJGdkxXNi1uai1VdGozaHJINC1EMURMbmlPSnB3TjlzQ0tGODEzUWFjdErSAdoBQVVfeXFMUGdGb05rM01Ma0c0QjBZUS1IamNrb2RJZmZtQnIzYUhHekVtbTlYak42WU9FUHRfbmlFbGJjWldLUG5WTDlGbkNQQkdEd3Nsa2U3eTFyMi1UMVdoU2lYYXlLWXlWaWFyY3A3RERMcVJ4elJJRkdhVkJvSEF6RTJYLWJlUzdZekdtSVU5WWdxZlpuZGRPWUw3RV96RUFZeUg4VjRVc2RseEI5a0JGZTZXOUJ5UGZRWXJVcF9LNTFzNTI1RjBFT1FEcFV1QnNkQ2R5cTFBbWVjcHBacmc?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
+        {
+          "id": "2e26b156",
+          "tipo": "bloqueo",
+          "ruta": "Bloqueos carreteras HOY 12 de junio: Autopistas cerradas en México,…",
+          "descripcion": "Bloqueos carreteras HOY 12 de junio: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 12 de junio: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
+          "recomendacion": "",
+          "fecha": "12 junio 2026 · 09:00 CST",
+          "fecha_iso": "2026-06-12T09:00:00-06:00",
+          "fuente": "Eje Central",
+          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOTFdkYVZhVjFtcEZHMzhleDJyVVVDMXNyUEkzdnc3S2RpNlBSV1puR2dqdHZfcFJfOXBPRGNhVjZVWGVIbVd0MkN2V1NZWlpscjE5aFVtaHBFZVhCZ25NdXpKWENlQllSZ1pDRDFOYXVKZUNkSW9fMTQtNHl5QlM1ZG5tSnBIYjhPUHFiOEs1MXdTM2cycUhHV1cxamlrQUlpY3pCOXQ2NGNjWDRmZ1d6dnlCZXVNZ1JYYTJPN0x6SEpCR2pMaEFsc0Z3dTlvR213TzlfeGZRQXhrZTYyYWpjNFNVV0ZpWWd3U3hmaDBISExMQQ?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
+        {
+          "id": "a7913697",
+          "tipo": "bloqueo",
+          "ruta": "Irapuato: Descansaba afuera de su casa cuando sicarios le dispararon…",
+          "descripcion": "Irapuato: Descansaba afuera de su casa cuando sicarios le dispararon hasta matarla. Asesinan a balazos a una mujer de 60 años afuera de su domicilio en la colonia Las Heras; los agresores escaparon en una motocicleta.",
+          "recomendacion": "",
+          "fecha": "12 junio 2026 · 08:23 CST",
+          "fecha_iso": "2026-06-12T08:23:00-06:00",
+          "fuente": "AM Guanajuato",
+          "url": "https://www.am.com.mx/irapuato/2026/06/12/irapuato-descansaba-afuera-de-su-casa-cuando-sicarios-le-dispararon-hasta-matarla-1805849.html",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
         }
       ]
     }
   ],
   "para_mapa": [
     {
-      "id": "023e4aec",
-      "tipo": "cierre_parcial",
-      "ruta": "🚧Choque complica la circulación en la #México-#Toluca con dirección a…",
-      "descripcion": "🚧Choque complica la circulación en la #México-#Toluca con dirección a la #CDMX\n\nhttps://lajornadaestadodemexico.com/accidente-en-la-mexico-toluca-rumbo-a-la-cdmx/",
-      "fecha": "12 junio 2026 · 07:22 CST",
-      "fuente": "Telegram @jornadaedomex",
-      "url": "https://t.me/jornadaedomex/11011",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.43,
-      "lon": -99.13
+      "id": "0977bda2",
+      "tipo": "cierre_total",
+      "ruta": "Autopista México-Querétaro y Arco Norte con cierre total - adn40",
+      "descripcion": "Bloqueos carreteros hoy: Autopista México-Querétaro y Arco Norte con cierre total - adn40.mx. Bloqueos carreteros hoy: Autopista México-Querétaro y Arco Norte con cierre total adn40.mx",
+      "fecha": "12 junio 2026 · 08:20 CST",
+      "fuente": "adn40.mx",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeTd5dW5nYUZWRkxxbGxkLWVtZzdqbFdxWEJ5WHJTMlphT1BJekkyUnppd1dZNGlmWVpuZ3JSX3NYVk1pU2tZRi13OVdOUFRGZFF3ai1FQ0FWZWxSNE5mSE1NUk91eTRrZm5LMllsMEJnUGxyMFpWb0o1UFBDVU1CYWpRZnRQMDdQbVJPWnNiYzMyajc5aHc0aWVGOFBtZVdDelFKZmhCLUszaHZ3NjdhOGoyMG1DN2pWUWQzNQ?oc=5",
+      "dot_color": "#e74c3c",
+      "badge_txt": "CIERRE TOTAL",
+      "lat": 20.1,
+      "lon": -99.5
     }
   ]
 }
