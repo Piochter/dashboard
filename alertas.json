@@ -1,11 +1,11 @@
 {
-  "ultima_actualizacion": "2026-06-12T11:16:37.701035-06:00",
-  "ultima_actualizacion_legible": "12 de junio de 2026 · 11:16 CST",
+  "ultima_actualizacion": "2026-06-12T13:25:35.801649-06:00",
+  "ultima_actualizacion_legible": "12 de junio de 2026 · 13:25 CST",
   "total": 4,
   "ventana": "últimos 180 minutos",
   "fuentes": [
     "Google News",
-    "Medios regionales"
+    "Quadratín + regionales"
   ],
   "grupos": [
     {
@@ -16,20 +16,20 @@
       "col2": false,
       "alertas": [
         {
-          "id": "0977bda2",
+          "id": "51f171d3",
           "tipo": "cierre_total",
-          "ruta": "Autopista México-Querétaro y Arco Norte con cierre total - adn40",
-          "descripcion": "Bloqueos carreteros hoy: Autopista México-Querétaro y Arco Norte con cierre total - adn40.mx. Bloqueos carreteros hoy: Autopista México-Querétaro y Arco Norte con cierre total adn40.mx",
+          "ruta": "Liberan carril en la Federal 200 tras derrumbe en Cabo…",
+          "descripcion": "Liberan carril en la Federal 200 tras derrumbe en Cabo Corrientes. Las labores de limpieza comenzaron con herramientas manuales, lo que permitió la apertura inmediata de un carril",
           "recomendacion": "",
-          "fecha": "12 junio 2026 · 08:20 CST",
-          "fecha_iso": "2026-06-12T08:20:00-06:00",
-          "fuente": "adn40.mx",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeTd5dW5nYUZWRkxxbGxkLWVtZzdqbFdxWEJ5WHJTMlphT1BJekkyUnppd1dZNGlmWVpuZ3JSX3NYVk1pU2tZRi13OVdOUFRGZFF3ai1FQ0FWZWxSNE5mSE1NUk91eTRrZm5LMllsMEJnUGxyMFpWb0o1UFBDVU1CYWpRZnRQMDdQbVJPWnNiYzMyajc5aHc0aWVGOFBtZVdDelFKZmhCLUszaHZ3NjdhOGoyMG1DN2pWUWQzNQ?oc=5",
+          "fecha": "12 junio 2026 · 11:33 CST",
+          "fecha_iso": "2026-06-12T11:33:00-06:00",
+          "fuente": "Quadratín Jalisco",
+          "url": "https://jalisco.quadratin.com.mx/puerto-vallarta/liberan-carril-en-la-federal-200-tras-derrumbe-en-cabo-corrientes/",
           "dot_color": "#e74c3c",
           "badge": "badge-cierre-total",
           "badge_txt": "CIERRE TOTAL",
-          "lat": 20.1,
-          "lon": -99.5
+          "lat": 19.1,
+          "lon": -104.3
         }
       ]
     },
@@ -41,13 +41,29 @@
       "col2": false,
       "alertas": [
         {
+          "id": "519b1a5e",
+          "tipo": "bloqueo",
+          "ruta": "Bloqueo total en la México-Cuernavaca por manifestación de normalistas -…",
+          "descripcion": "Bloqueo total en la México-Cuernavaca por manifestación de normalistas - UnoTV. Bloqueo total en la México-Cuernavaca por manifestación de normalistas UnoTV",
+          "recomendacion": "",
+          "fecha": "12 junio 2026 · 12:58 CST",
+          "fecha_iso": "2026-06-12T12:58:00-06:00",
+          "fuente": "UnoTV",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZlJoZWlhUjRWYUNjcUJmdkFiR3lCbzhxSUhwelRHbjJVREdFWExtVDY2ZjlKZ3hwWVY4cVAxWFdlWTZmTjBDLVRReUQ2QXhkWWc2Q0xjbnJTTGVTX0tqNURlMWdsT1ozbEkwQ2J4eTZBcnk5elBsQmVLVVlhck8ydDg3c19zY1hhdWFBLUhaWTFURWc5QXVMRG5sbFV5SVhSZ1lYczBGWmFBbGRaNHl1bG9uem1ON3k5VHc?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 18.92,
+          "lon": -99.23
+        },
+        {
           "id": "87253e78",
           "tipo": "bloqueo",
           "ruta": "EN VIVO: ¿Hay bloqueos en carreteras hoy? Cierres y tráfico…",
           "descripcion": "EN VIVO: ¿Hay bloqueos en carreteras hoy? Cierres y tráfico en autopistas de México este 12 de junio 2026 - TV Azteca. EN VIVO: ¿Hay bloqueos en carreteras hoy? Cierres y tráfico en autopistas de México este 12 de junio 2026 TV Azteca",
           "recomendacion": "",
-          "fecha": "12 junio 2026 · 10:03 CST",
-          "fecha_iso": "2026-06-12T10:03:00-06:00",
+          "fecha": "12 junio 2026 · 12:03 CST",
+          "fecha_iso": "2026-06-12T12:03:00-06:00",
           "fuente": "TV Azteca",
           "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNV2RFQm9ValVsZmxkelRjanlCTWtzNGI2ZUZCS3B3LUtOU2FqcVoxUURYLTZ5Umo4Q3BOS2pMOHhkZi1qVEhuQldyMkViZWRDd1A4eFZ3RFk2OUt6UEE4OHJaa3dZM2hsaEJsbk1QRjdrc0NsaUthNkhYTkNkT0t1dkZteUUxVjBqVW4yLVJNcVMwc1pkRkoxMjhiYTZNV1dlZGJGdkxXNi1uai1VdGozaHJINC1EMURMbmlPSnB3TjlzQ0tGODEzUWFjdErSAdoBQVVfeXFMUGdGb05rM01Ma0c0QjBZUS1IamNrb2RJZmZtQnIzYUhHekVtbTlYak42WU9FUHRfbmlFbGJjWldLUG5WTDlGbkNQQkdEd3Nsa2U3eTFyMi1UMVdoU2lYYXlLWXlWaWFyY3A3RERMcVJ4elJJRkdhVkJvSEF6RTJYLWJlUzdZekdtSVU5WWdxZlpuZGRPWUw3RV96RUFZeUg4VjRVc2RseEI5a0JGZTZXOUJ5UGZRWXJVcF9LNTFzNTI1RjBFT1FEcFV1QnNkQ2R5cTFBbWVjcHBacmc?oc=5",
           "dot_color": "#8e44ad",
@@ -55,49 +71,63 @@
           "badge_txt": "BLOQUEO"
         },
         {
-          "id": "2e26b156",
+          "id": "ec9d2ee6",
           "tipo": "bloqueo",
-          "ruta": "Bloqueos carreteras HOY 12 de junio: Autopistas cerradas en México,…",
-          "descripcion": "Bloqueos carreteras HOY 12 de junio: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 12 de junio: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
+          "ruta": "Bloqueo en la carretera México-Cuernavaca da resultados; vecinos logran instalación…",
+          "descripcion": "Bloqueo en la carretera México-Cuernavaca da resultados; vecinos logran instalación de topes - El Sol de México. Bloqueo en la carretera México-Cuernavaca da resultados; vecinos logran instalación de topes El Sol de México",
           "recomendacion": "",
-          "fecha": "12 junio 2026 · 09:00 CST",
-          "fecha_iso": "2026-06-12T09:00:00-06:00",
-          "fuente": "Eje Central",
-          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOTFdkYVZhVjFtcEZHMzhleDJyVVVDMXNyUEkzdnc3S2RpNlBSV1puR2dqdHZfcFJfOXBPRGNhVjZVWGVIbVd0MkN2V1NZWlpscjE5aFVtaHBFZVhCZ25NdXpKWENlQllSZ1pDRDFOYXVKZUNkSW9fMTQtNHl5QlM1ZG5tSnBIYjhPUHFiOEs1MXdTM2cycUhHV1cxamlrQUlpY3pCOXQ2NGNjWDRmZ1d6dnlCZXVNZ1JYYTJPN0x6SEpCR2pMaEFsc0Z3dTlvR213TzlfeGZRQXhrZTYyYWpjNFNVV0ZpWWd3U3hmaDBISExMQQ?oc=5",
+          "fecha": "12 junio 2026 · 11:33 CST",
+          "fecha_iso": "2026-06-12T11:33:00-06:00",
+          "fuente": "El Sol de México",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVndsc2JtVTMyVjBuT2dLbFJaZXM0YlZmY202REgwelBxTmxJcHhHRzNfWTFZNHZ0VDIxV0h6QjNnRnVwVV9UNnNYX19XY1RBb0s0RnU4c0R5VURLOVlqYTVfSkVzcFhwS2cwUnFzQjQyQ0oySUdCNklLM0VNak5iTHlDVTRDQTZZcmZhV0dxVk9XVVFEc2plQkRSeGVXcklsVzNvSGtmRkltZjZibUJqUmxzTm9mc2MyUjVxVnJWUU5HSnB5YzN4UXphUW1qNWhFRlFmTTloMVp4U3c?oc=5",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        },
-        {
-          "id": "a7913697",
-          "tipo": "bloqueo",
-          "ruta": "Irapuato: Descansaba afuera de su casa cuando sicarios le dispararon…",
-          "descripcion": "Irapuato: Descansaba afuera de su casa cuando sicarios le dispararon hasta matarla. Asesinan a balazos a una mujer de 60 años afuera de su domicilio en la colonia Las Heras; los agresores escaparon en una motocicleta.",
-          "recomendacion": "",
-          "fecha": "12 junio 2026 · 08:23 CST",
-          "fecha_iso": "2026-06-12T08:23:00-06:00",
-          "fuente": "AM Guanajuato",
-          "url": "https://www.am.com.mx/irapuato/2026/06/12/irapuato-descansaba-afuera-de-su-casa-cuando-sicarios-le-dispararon-hasta-matarla-1805849.html",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
+          "badge_txt": "BLOQUEO",
+          "lat": 18.92,
+          "lon": -99.23
         }
       ]
     }
   ],
   "para_mapa": [
     {
-      "id": "0977bda2",
+      "id": "519b1a5e",
+      "tipo": "bloqueo",
+      "ruta": "Bloqueo total en la México-Cuernavaca por manifestación de normalistas -…",
+      "descripcion": "Bloqueo total en la México-Cuernavaca por manifestación de normalistas - UnoTV. Bloqueo total en la México-Cuernavaca por manifestación de normalistas UnoTV",
+      "fecha": "12 junio 2026 · 12:58 CST",
+      "fuente": "UnoTV",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZlJoZWlhUjRWYUNjcUJmdkFiR3lCbzhxSUhwelRHbjJVREdFWExtVDY2ZjlKZ3hwWVY4cVAxWFdlWTZmTjBDLVRReUQ2QXhkWWc2Q0xjbnJTTGVTX0tqNURlMWdsT1ozbEkwQ2J4eTZBcnk5elBsQmVLVVlhck8ydDg3c19zY1hhdWFBLUhaWTFURWc5QXVMRG5sbFV5SVhSZ1lYczBGWmFBbGRaNHl1bG9uem1ON3k5VHc?oc=5",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 18.92,
+      "lon": -99.23
+    },
+    {
+      "id": "ec9d2ee6",
+      "tipo": "bloqueo",
+      "ruta": "Bloqueo en la carretera México-Cuernavaca da resultados; vecinos logran instalación…",
+      "descripcion": "Bloqueo en la carretera México-Cuernavaca da resultados; vecinos logran instalación de topes - El Sol de México. Bloqueo en la carretera México-Cuernavaca da resultados; vecinos logran instalación de topes El Sol de México",
+      "fecha": "12 junio 2026 · 11:33 CST",
+      "fuente": "El Sol de México",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVndsc2JtVTMyVjBuT2dLbFJaZXM0YlZmY202REgwelBxTmxJcHhHRzNfWTFZNHZ0VDIxV0h6QjNnRnVwVV9UNnNYX19XY1RBb0s0RnU4c0R5VURLOVlqYTVfSkVzcFhwS2cwUnFzQjQyQ0oySUdCNklLM0VNak5iTHlDVTRDQTZZcmZhV0dxVk9XVVFEc2plQkRSeGVXcklsVzNvSGtmRkltZjZibUJqUmxzTm9mc2MyUjVxVnJWUU5HSnB5YzN4UXphUW1qNWhFRlFmTTloMVp4U3c?oc=5",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 18.92,
+      "lon": -99.23
+    },
+    {
+      "id": "51f171d3",
       "tipo": "cierre_total",
-      "ruta": "Autopista México-Querétaro y Arco Norte con cierre total - adn40",
-      "descripcion": "Bloqueos carreteros hoy: Autopista México-Querétaro y Arco Norte con cierre total - adn40.mx. Bloqueos carreteros hoy: Autopista México-Querétaro y Arco Norte con cierre total adn40.mx",
-      "fecha": "12 junio 2026 · 08:20 CST",
-      "fuente": "adn40.mx",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeTd5dW5nYUZWRkxxbGxkLWVtZzdqbFdxWEJ5WHJTMlphT1BJekkyUnppd1dZNGlmWVpuZ3JSX3NYVk1pU2tZRi13OVdOUFRGZFF3ai1FQ0FWZWxSNE5mSE1NUk91eTRrZm5LMllsMEJnUGxyMFpWb0o1UFBDVU1CYWpRZnRQMDdQbVJPWnNiYzMyajc5aHc0aWVGOFBtZVdDelFKZmhCLUszaHZ3NjdhOGoyMG1DN2pWUWQzNQ?oc=5",
+      "ruta": "Liberan carril en la Federal 200 tras derrumbe en Cabo…",
+      "descripcion": "Liberan carril en la Federal 200 tras derrumbe en Cabo Corrientes. Las labores de limpieza comenzaron con herramientas manuales, lo que permitió la apertura inmediata de un carril",
+      "fecha": "12 junio 2026 · 11:33 CST",
+      "fuente": "Quadratín Jalisco",
+      "url": "https://jalisco.quadratin.com.mx/puerto-vallarta/liberan-carril-en-la-federal-200-tras-derrumbe-en-cabo-corrientes/",
       "dot_color": "#e74c3c",
       "badge_txt": "CIERRE TOTAL",
-      "lat": 20.1,
-      "lon": -99.5
+      "lat": 19.1,
+      "lon": -104.3
     }
   ]
 }
