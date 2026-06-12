@@ -1,12 +1,51 @@
 {
-  "ultima_actualizacion": "2026-06-12T04:49:53.219656-06:00",
-  "ultima_actualizacion_legible": "12 de junio de 2026 · 04:49 CST",
-  "total": 0,
+  "ultima_actualizacion": "2026-06-12T08:10:12.266440-06:00",
+  "ultima_actualizacion_legible": "12 de junio de 2026 · 08:10 CST",
+  "total": 1,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Google News"
+    "Telegram"
   ],
-  "grupos": [],
-  "para_mapa": [],
-  "nota": "Sin alertas activas en la ventana de tiempo configurada."
+  "grupos": [
+    {
+      "tipo": "cierre_parcial",
+      "color": "amarillo",
+      "icono": "🟡",
+      "label": "CIERRE PARCIAL / ACCIDENTES",
+      "col2": true,
+      "alertas": [
+        {
+          "id": "023e4aec",
+          "tipo": "cierre_parcial",
+          "ruta": "🚧Choque complica la circulación en la #México-#Toluca con dirección a…",
+          "descripcion": "🚧Choque complica la circulación en la #México-#Toluca con dirección a la #CDMX\n\nhttps://lajornadaestadodemexico.com/accidente-en-la-mexico-toluca-rumbo-a-la-cdmx/",
+          "recomendacion": "",
+          "fecha": "12 junio 2026 · 07:22 CST",
+          "fecha_iso": "2026-06-12T07:22:00-06:00",
+          "fuente": "Telegram @jornadaedomex",
+          "url": "https://t.me/jornadaedomex/11011",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 19.43,
+          "lon": -99.13
+        }
+      ]
+    }
+  ],
+  "para_mapa": [
+    {
+      "id": "023e4aec",
+      "tipo": "cierre_parcial",
+      "ruta": "🚧Choque complica la circulación en la #México-#Toluca con dirección a…",
+      "descripcion": "🚧Choque complica la circulación en la #México-#Toluca con dirección a la #CDMX\n\nhttps://lajornadaestadodemexico.com/accidente-en-la-mexico-toluca-rumbo-a-la-cdmx/",
+      "fecha": "12 junio 2026 · 07:22 CST",
+      "fuente": "Telegram @jornadaedomex",
+      "url": "https://t.me/jornadaedomex/11011",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 19.43,
+      "lon": -99.13
+    }
+  ]
 }
