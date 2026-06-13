@@ -1,6 +1,6 @@
 {
-  "ultima_actualizacion": "2026-06-13T16:01:52.852387-06:00",
-  "ultima_actualizacion_legible": "13 de junio de 2026 · 16:01 CST",
+  "ultima_actualizacion": "2026-06-13T17:17:35.931422-06:00",
+  "ultima_actualizacion_legible": "13 de junio de 2026 · 17:17 CST",
   "total": 4,
   "ventana": "últimos 180 minutos",
   "fuentes": [
@@ -9,27 +9,27 @@
   ],
   "grupos": [
     {
-      "tipo": "cierre_total",
+      "tipo": "robo",
       "color": "rojo",
-      "icono": "🔴",
-      "label": "CIERRE TOTAL",
-      "col2": false,
+      "icono": "🚨",
+      "label": "ROBOS EN CARRETERA",
+      "col2": true,
       "alertas": [
         {
-          "id": "73fe1637",
-          "tipo": "cierre_total",
-          "ruta": "Liberan circulación Federal 200 tras derrumbe en Cabo Corrientes…",
-          "descripcion": "Liberan circulación Federal 200 tras derrumbe en Cabo Corrientes. Luego de varias horas de trabajo quedó completamente liberada la vialidad y que el tránsito puede desarrollarse nuevamente con normalidad",
+          "id": "b634a361",
+          "tipo": "robo",
+          "ruta": "Suman 11 denuncias por robo entre cónyuges en Michoacán…",
+          "descripcion": "Suman 11 denuncias por robo entre cónyuges en Michoacán. Un delito previsto y sancionado por el Código Penal del Estado",
           "recomendacion": "",
-          "fecha": "13 junio 2026 · 14:01 CST",
-          "fecha_iso": "2026-06-13T14:01:00-06:00",
-          "fuente": "Quadratín Jalisco",
-          "url": "https://jalisco.quadratin.com.mx/sucesos/liberan-circulacion-federal-200-tras-derrumbe-en-cabo-corrientes/",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL",
-          "lat": 19.1,
-          "lon": -104.3
+          "fecha": "13 junio 2026 · 17:10 CST",
+          "fecha_iso": "2026-06-13T17:10:00-06:00",
+          "fuente": "Quadratín Michoacán",
+          "url": "https://www.quadratin.com.mx/justicia/suman-11-denuncias-por-robo-entre-conyuges-en-michoacan/",
+          "dot_color": "#c0392b",
+          "badge": "badge-robo",
+          "badge_txt": "ROBO",
+          "lat": 19.7,
+          "lon": -101.19
         }
       ]
     },
@@ -73,10 +73,10 @@
           "lon": -99.88
         },
         {
-          "id": "cca9531b",
+          "id": "1891a3d1",
           "tipo": "cierre_parcial",
-          "ruta": "Atienden más 52 mil choques lamineros en Jalisco bajo protocolo…",
-          "descripcion": "Atienden más 52 mil choques lamineros en Jalisco bajo protocolo para agilizar circulación. El protocolo busca evitar embotellamientos en las vialidades en las que ocurran los incidentes",
+          "ruta": "Atienden miles de choques lamineros bajo protocolo para agilizar circulación…",
+          "descripcion": "Atienden miles de choques lamineros bajo protocolo para agilizar circulación. El protocolo busca evitar embotellamientos en las vialidades en las que ocurran los incidentes",
           "recomendacion": "evitar embotellamientos en las vialidades en las que ocurran los incidentes",
           "fecha": "13 junio 2026 · 14:44 CST",
           "fecha_iso": "2026-06-13T14:44:00-06:00",
@@ -84,14 +84,25 @@
           "url": "https://www.informador.mx/jalisco/atienden-mas-52-mil-choques-lamineros-en-jalisco-bajo-protocolo-para-agilizar-circulacion-20260613-0067.html",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 20.66,
-          "lon": -103.35
+          "badge_txt": "CIERRE PARCIAL"
         }
       ]
     }
   ],
   "para_mapa": [
+    {
+      "id": "b634a361",
+      "tipo": "robo",
+      "ruta": "Suman 11 denuncias por robo entre cónyuges en Michoacán…",
+      "descripcion": "Suman 11 denuncias por robo entre cónyuges en Michoacán. Un delito previsto y sancionado por el Código Penal del Estado",
+      "fecha": "13 junio 2026 · 17:10 CST",
+      "fuente": "Quadratín Michoacán",
+      "url": "https://www.quadratin.com.mx/justicia/suman-11-denuncias-por-robo-entre-conyuges-en-michoacan/",
+      "dot_color": "#c0392b",
+      "badge_txt": "ROBO",
+      "lat": 19.7,
+      "lon": -101.19
+    },
     {
       "id": "0fa45257",
       "tipo": "cierre_parcial",
@@ -117,32 +128,6 @@
       "badge_txt": "CIERRE PARCIAL",
       "lat": 16.86,
       "lon": -99.88
-    },
-    {
-      "id": "cca9531b",
-      "tipo": "cierre_parcial",
-      "ruta": "Atienden más 52 mil choques lamineros en Jalisco bajo protocolo…",
-      "descripcion": "Atienden más 52 mil choques lamineros en Jalisco bajo protocolo para agilizar circulación. El protocolo busca evitar embotellamientos en las vialidades en las que ocurran los incidentes",
-      "fecha": "13 junio 2026 · 14:44 CST",
-      "fuente": "El Informador Jalisco",
-      "url": "https://www.informador.mx/jalisco/atienden-mas-52-mil-choques-lamineros-en-jalisco-bajo-protocolo-para-agilizar-circulacion-20260613-0067.html",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 20.66,
-      "lon": -103.35
-    },
-    {
-      "id": "73fe1637",
-      "tipo": "cierre_total",
-      "ruta": "Liberan circulación Federal 200 tras derrumbe en Cabo Corrientes…",
-      "descripcion": "Liberan circulación Federal 200 tras derrumbe en Cabo Corrientes. Luego de varias horas de trabajo quedó completamente liberada la vialidad y que el tránsito puede desarrollarse nuevamente con normalidad",
-      "fecha": "13 junio 2026 · 14:01 CST",
-      "fuente": "Quadratín Jalisco",
-      "url": "https://jalisco.quadratin.com.mx/sucesos/liberan-circulacion-federal-200-tras-derrumbe-en-cabo-corrientes/",
-      "dot_color": "#e74c3c",
-      "badge_txt": "CIERRE TOTAL",
-      "lat": 19.1,
-      "lon": -104.3
     }
   ]
 }
