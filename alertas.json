@@ -1,40 +1,14 @@
 {
-  "ultima_actualizacion": "2026-06-12T16:49:59.339565-06:00",
-  "ultima_actualizacion_legible": "12 de junio de 2026 · 16:49 CST",
-  "total": 7,
+  "ultima_actualizacion": "2026-06-12T18:20:06.326610-06:00",
+  "ultima_actualizacion_legible": "12 de junio de 2026 · 18:20 CST",
+  "total": 3,
   "ventana": "últimos 180 minutos",
   "fuentes": [
     "Google News",
-    "Medios regionales",
-    "Quadratín + regionales",
-    "Telegram"
+    "Medios nacionales",
+    "Medios regionales"
   ],
   "grupos": [
-    {
-      "tipo": "cierre_total",
-      "color": "rojo",
-      "icono": "🔴",
-      "label": "CIERRE TOTAL",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "a21fce52",
-          "tipo": "cierre_total",
-          "ruta": "Habilitan circulación en la Federal 200 tras derrumbe en Cabo…",
-          "descripcion": "Habilitan circulación en la Federal 200 tras derrumbe en Cabo Corrientes. Esta reapertura se logró luego de las intensas labores de limpieza realizadas tras el derrumbe registrado durante la madrugada",
-          "recomendacion": "",
-          "fecha": "12 junio 2026 · 14:00 CST",
-          "fecha_iso": "2026-06-12T14:00:00-06:00",
-          "fuente": "Quadratín Jalisco",
-          "url": "https://jalisco.quadratin.com.mx/puerto-vallarta/habilitan-circulacion-en-la-federal-200-tras-derrumbe-en-cabo-corrientes/",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL",
-          "lat": 19.1,
-          "lon": -104.3
-        }
-      ]
-    },
     {
       "tipo": "bloqueo",
       "color": "rojo",
@@ -43,10 +17,10 @@
       "col2": false,
       "alertas": [
         {
-          "id": "2b47aff3",
+          "id": "f36d4c68",
           "tipo": "bloqueo",
           "ruta": "autopista México-Cuernavaca",
-          "descripcion": "Protesta de Ayotzinapa cierra la autopista México-Cuernavaca. Estudiantes de Ayotzinapa bloquearon la autopista y el paso a las casetas de cobro exigiendo justicia por los 43 desaparecidos",
+          "descripcion": "Protesta de Ayotzinapa cierra la autopista México-Cuernavaca. Estudiantes de Ayotzinapa bloquearon la autopista y el paso a las casetas de cobro, exigiendo justicia por los 43 desaparecidos",
           "recomendacion": "",
           "fecha": "12 junio 2026 · 16:32 CST",
           "fecha_iso": "2026-06-12T16:32:00-06:00",
@@ -57,50 +31,6 @@
           "badge_txt": "BLOQUEO",
           "lat": 18.92,
           "lon": -99.23
-        },
-        {
-          "id": "45bfe0c6",
-          "tipo": "bloqueo",
-          "ruta": "Dos líneas de investigación en homicidio del periodista Luis Ángel…",
-          "descripcion": "Dos líneas de investigación en homicidio del periodista Luis Ángel López. La Fiscal Lisbeth Aurelia Jiménez reveló que recibió 18 disparos por arma de fuego",
-          "recomendacion": "",
-          "fecha": "12 junio 2026 · 15:12 CST",
-          "fecha_iso": "2026-06-12T15:12:00-06:00",
-          "fuente": "Quadratín Veracruz",
-          "url": "https://veracruz.quadratin.com.mx/dos-lineas-de-investigacion-en-homicidio-del-periodista-luis-angel-lopez/",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        },
-        {
-          "id": "ec9d2ee6",
-          "tipo": "bloqueo",
-          "ruta": "Bloqueo en la carretera México-Cuernavaca da resultados; vecinos logran instalación…",
-          "descripcion": "Bloqueo en la carretera México-Cuernavaca da resultados; vecinos logran instalación de topes - El Sol de México. Bloqueo en la carretera México-Cuernavaca da resultados; vecinos logran instalación de topes El Sol de México",
-          "recomendacion": "",
-          "fecha": "12 junio 2026 · 15:04 CST",
-          "fecha_iso": "2026-06-12T15:04:00-06:00",
-          "fuente": "El Sol de México",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVndsc2JtVTMyVjBuT2dLbFJaZXM0YlZmY202REgwelBxTmxJcHhHRzNfWTFZNHZ0VDIxV0h6QjNnRnVwVV9UNnNYX19XY1RBb0s0RnU4c0R5VURLOVlqYTVfSkVzcFhwS2cwUnFzQjQyQ0oySUdCNklLM0VNak5iTHlDVTRDQTZZcmZhV0dxVk9XVVFEc2plQkRSeGVXcklsVzNvSGtmRkltZjZibUJqUmxzTm9mc2MyUjVxVnJWUU5HSnB5YzN4UXphUW1qNWhFRlFmTTloMVp4U3c?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 18.92,
-          "lon": -99.23
-        },
-        {
-          "id": "87253e78",
-          "tipo": "bloqueo",
-          "ruta": "EN VIVO: ¿Hay bloqueos en carreteras hoy? Cierres y tráfico…",
-          "descripcion": "EN VIVO: ¿Hay bloqueos en carreteras hoy? Cierres y tráfico en autopistas de México este 12 de junio 2026 - TV Azteca. EN VIVO: ¿Hay bloqueos en carreteras hoy? Cierres y tráfico en autopistas de México este 12 de junio 2026 TV Azteca",
-          "recomendacion": "",
-          "fecha": "12 junio 2026 · 14:59 CST",
-          "fecha_iso": "2026-06-12T14:59:00-06:00",
-          "fuente": "TV Azteca",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNV2RFQm9ValVsZmxkelRjanlCTWtzNGI2ZUZCS3B3LUtOU2FqcVoxUURYLTZ5Umo4Q3BOS2pMOHhkZi1qVEhuQldyMkViZWRDd1A4eFZ3RFk2OUt6UEE4OHJaa3dZM2hsaEJsbk1QRjdrc0NsaUthNkhYTkNkT0t1dkZteUUxVjBqVW4yLVJNcVMwc1pkRkoxMjhiYTZNV1dlZGJGdkxXNi1uai1VdGozaHJINC1EMURMbmlPSnB3TjlzQ0tGODEzUWFjdErSAdoBQVVfeXFMUGdGb05rM01Ma0c0QjBZUS1IamNrb2RJZmZtQnIzYUhHekVtbTlYak42WU9FUHRfbmlFbGJjWldLUG5WTDlGbkNQQkdEd3Nsa2U3eTFyMi1UMVdoU2lYYXlLWXlWaWFyY3A3RERMcVJ4elJJRkdhVkJvSEF6RTJYLWJlUzdZekdtSVU5WWdxZlpuZGRPWUw3RV96RUFZeUg4VjRVc2RseEI5a0JGZTZXOUJ5UGZRWXJVcF9LNTFzNTI1RjBFT1FEcFV1QnNkQ2R5cTFBbWVjcHBacmc?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
         }
       ]
     },
@@ -112,53 +42,59 @@
       "col2": true,
       "alertas": [
         {
-          "id": "8fbf51bc",
+          "id": "1d5b1ffe",
           "tipo": "cierre_parcial",
-          "ruta": "Mueren dos personas tras choque en San Juan de los…",
-          "descripcion": "Mueren dos personas tras choque en San Juan de los Lagos. Personal localizó dentro del automóvil particular a dos hombres, uno de ellos de 26 años de edad, quien era originario del vecino Estado de Aguascalientes",
+          "ruta": "Liberan la Caseta de Cobro de la México-Cuernavaca…",
+          "descripcion": "Liberan la Caseta de Cobro de la México-Cuernavaca. Durante más de tres horas, normalistas mantenían cerrada la Caseta de Cobro de la autopista México Cuernavaca; misma que ya fue liberada.",
           "recomendacion": "",
-          "fecha": "12 junio 2026 · 13:56 CST",
-          "fecha_iso": "2026-06-12T13:56:00-06:00",
-          "fuente": "El Informador Jalisco",
-          "url": "https://www.informador.mx/jalisco/san-juan-de-los-lagos-mueren-dos-personas-tras-choque-20260612-0132.html",
+          "fecha": "12 junio 2026 · 16:54 CST",
+          "fecha_iso": "2026-06-12T16:54:00-06:00",
+          "fuente": "24 Horas",
+          "url": "https://24-horas.mx/cdmx/liberan-la-caseta-de-cobro-de-la-mexico-cuernavaca/",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
-        }
-      ]
-    },
-    {
-      "tipo": "clima",
-      "color": "azul",
-      "icono": "🌧️",
-      "label": "ALERTA METEOROLÓGICA",
-      "col2": false,
-      "alertas": [
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 18.92,
+          "lon": -99.23
+        },
         {
-          "id": "d9e5863b",
-          "tipo": "clima",
-          "ruta": "(VIDEOS) Lluvias e inundaciones en CDMX sorprenden a aficionados: ¿Qué…",
-          "descripcion": "(VIDEOS) Lluvias e inundaciones en CDMX sorprenden a aficionados: ¿Qué alcaldías tienen alerta [roja?](http://telegra.ph/VIDEOS-Lluvias-e-inundaciones-en-CDMX-sorprenden-a-aficionados-Qué-alcaldías-tienen-alerta-roja-06-12)\n\n__via__ [www.elfinanciero.com.mx](https://www.elfinanciero.com.mx/cdmx/2026/06/11/lluvias-en-cdmx-sorprenden-a-aficionados-en-el-angel-estas-son-las-alcaldias-con-alerta-roja/)",
+          "id": "7437962f",
+          "tipo": "cierre_parcial",
+          "ruta": "VIDEO | Graban choque múltiple en la autopista México-Toluca: reportan…",
+          "descripcion": "VIDEO | Graban choque múltiple en la autopista México-Toluca: reportan varios lesionados - TV Azteca. VIDEO | Graban choque múltiple en la autopista México-Toluca: reportan varios lesionados TV Azteca",
           "recomendacion": "",
-          "fecha": "12 junio 2026 · 14:34 CST",
-          "fecha_iso": "2026-06-12T14:34:00-06:00",
-          "fuente": "Telegram @NOTMEX",
-          "url": "https://t.me/NOTMEX/183847",
-          "dot_color": "#3498db",
-          "badge": "badge-clima",
-          "badge_txt": "ALERTA CLIMA",
-          "lat": 19.43,
-          "lon": -99.13
+          "fecha": "12 junio 2026 · 16:16 CST",
+          "fecha_iso": "2026-06-12T16:16:00-06:00",
+          "fuente": "TV Azteca",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNV2RFQm9ValVsZmxkelRjanlCTWtzNGI2ZUZCS3B3LUtOU2FqcVoxUURYLTZ5Umo4Q3BOS2pMOHhkZi1qVEhuQldyMkViZWRDd1A4eFZ3RFk2OUt6UEE4OHJaa3dZM2hsaEJsbk1QRjdrc0NsaUthNkhYTkNkT0t1dkZteUUxVjBqVW4yLVJNcVMwc1pkRkoxMjhiYTZNV1dlZGJGdkxXNi1uai1VdGozaHJINC1EMURMbmlPSnB3TjlzQ0tGODEzUWFjdErSAdoBQVVfeXFMUGdGb05rM01Ma0c0QjBZUS1IamNrb2RJZmZtQnIzYUhHekVtbTlYak42WU9FUHRfbmlFbGJjWldLUG5WTDlGbkNQQkdEd3Nsa2U3eTFyMi1UMVdoU2lYYXlLWXlWaWFyY3A3RERMcVJ4elJJRkdhVkJvSEF6RTJYLWJlUzdZekdtSVU5WWdxZlpuZGRPWUw3RV96RUFZeUg4VjRVc2RseEI5a0JGZTZXOUJ5UGZRWXJVcF9LNTFzNTI1RjBFT1FEcFV1QnNkQ2R5cTFBbWVjcHBacmc?oc=5",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 19.29,
+          "lon": -99.66
         }
       ]
     }
   ],
   "para_mapa": [
     {
-      "id": "2b47aff3",
+      "id": "1d5b1ffe",
+      "tipo": "cierre_parcial",
+      "ruta": "Liberan la Caseta de Cobro de la México-Cuernavaca…",
+      "descripcion": "Liberan la Caseta de Cobro de la México-Cuernavaca. Durante más de tres horas, normalistas mantenían cerrada la Caseta de Cobro de la autopista México Cuernavaca; misma que ya fue liberada.",
+      "fecha": "12 junio 2026 · 16:54 CST",
+      "fuente": "24 Horas",
+      "url": "https://24-horas.mx/cdmx/liberan-la-caseta-de-cobro-de-la-mexico-cuernavaca/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 18.92,
+      "lon": -99.23
+    },
+    {
+      "id": "f36d4c68",
       "tipo": "bloqueo",
       "ruta": "autopista México-Cuernavaca",
-      "descripcion": "Protesta de Ayotzinapa cierra la autopista México-Cuernavaca. Estudiantes de Ayotzinapa bloquearon la autopista y el paso a las casetas de cobro exigiendo justicia por los 43 desaparecidos",
+      "descripcion": "Protesta de Ayotzinapa cierra la autopista México-Cuernavaca. Estudiantes de Ayotzinapa bloquearon la autopista y el paso a las casetas de cobro, exigiendo justicia por los 43 desaparecidos",
       "fecha": "12 junio 2026 · 16:32 CST",
       "fuente": "El Informador Jalisco",
       "url": "https://www.informador.mx/mexico/protesta-de-ayotzinapa-cierra-la-autopista-mexico-cuernavaca-20260612-0156.html",
@@ -168,43 +104,17 @@
       "lon": -99.23
     },
     {
-      "id": "ec9d2ee6",
-      "tipo": "bloqueo",
-      "ruta": "Bloqueo en la carretera México-Cuernavaca da resultados; vecinos logran instalación…",
-      "descripcion": "Bloqueo en la carretera México-Cuernavaca da resultados; vecinos logran instalación de topes - El Sol de México. Bloqueo en la carretera México-Cuernavaca da resultados; vecinos logran instalación de topes El Sol de México",
-      "fecha": "12 junio 2026 · 15:04 CST",
-      "fuente": "El Sol de México",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVndsc2JtVTMyVjBuT2dLbFJaZXM0YlZmY202REgwelBxTmxJcHhHRzNfWTFZNHZ0VDIxV0h6QjNnRnVwVV9UNnNYX19XY1RBb0s0RnU4c0R5VURLOVlqYTVfSkVzcFhwS2cwUnFzQjQyQ0oySUdCNklLM0VNak5iTHlDVTRDQTZZcmZhV0dxVk9XVVFEc2plQkRSeGVXcklsVzNvSGtmRkltZjZibUJqUmxzTm9mc2MyUjVxVnJWUU5HSnB5YzN4UXphUW1qNWhFRlFmTTloMVp4U3c?oc=5",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 18.92,
-      "lon": -99.23
-    },
-    {
-      "id": "d9e5863b",
-      "tipo": "clima",
-      "ruta": "(VIDEOS) Lluvias e inundaciones en CDMX sorprenden a aficionados: ¿Qué…",
-      "descripcion": "(VIDEOS) Lluvias e inundaciones en CDMX sorprenden a aficionados: ¿Qué alcaldías tienen alerta [roja?](http://telegra.ph/VIDEOS-Lluvias-e-inundaciones-en-CDMX-sorprenden-a-aficionados-Qué-alcaldías-tienen-alerta-roja-06-12)\n\n__via__ [www.elfinanciero.com.mx](https://www.elfinanciero.com.mx/cdmx/2026/06/11/lluvias-en-cdmx-sorprenden-a-aficionados-en-el-angel-estas-son-las-alcaldias-con-alerta-roja/)",
-      "fecha": "12 junio 2026 · 14:34 CST",
-      "fuente": "Telegram @NOTMEX",
-      "url": "https://t.me/NOTMEX/183847",
-      "dot_color": "#3498db",
-      "badge_txt": "ALERTA CLIMA",
-      "lat": 19.43,
-      "lon": -99.13
-    },
-    {
-      "id": "a21fce52",
-      "tipo": "cierre_total",
-      "ruta": "Habilitan circulación en la Federal 200 tras derrumbe en Cabo…",
-      "descripcion": "Habilitan circulación en la Federal 200 tras derrumbe en Cabo Corrientes. Esta reapertura se logró luego de las intensas labores de limpieza realizadas tras el derrumbe registrado durante la madrugada",
-      "fecha": "12 junio 2026 · 14:00 CST",
-      "fuente": "Quadratín Jalisco",
-      "url": "https://jalisco.quadratin.com.mx/puerto-vallarta/habilitan-circulacion-en-la-federal-200-tras-derrumbe-en-cabo-corrientes/",
-      "dot_color": "#e74c3c",
-      "badge_txt": "CIERRE TOTAL",
-      "lat": 19.1,
-      "lon": -104.3
+      "id": "7437962f",
+      "tipo": "cierre_parcial",
+      "ruta": "VIDEO | Graban choque múltiple en la autopista México-Toluca: reportan…",
+      "descripcion": "VIDEO | Graban choque múltiple en la autopista México-Toluca: reportan varios lesionados - TV Azteca. VIDEO | Graban choque múltiple en la autopista México-Toluca: reportan varios lesionados TV Azteca",
+      "fecha": "12 junio 2026 · 16:16 CST",
+      "fuente": "TV Azteca",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNV2RFQm9ValVsZmxkelRjanlCTWtzNGI2ZUZCS3B3LUtOU2FqcVoxUURYLTZ5Umo4Q3BOS2pMOHhkZi1qVEhuQldyMkViZWRDd1A4eFZ3RFk2OUt6UEE4OHJaa3dZM2hsaEJsbk1QRjdrc0NsaUthNkhYTkNkT0t1dkZteUUxVjBqVW4yLVJNcVMwc1pkRkoxMjhiYTZNV1dlZGJGdkxXNi1uai1VdGozaHJINC1EMURMbmlPSnB3TjlzQ0tGODEzUWFjdErSAdoBQVVfeXFMUGdGb05rM01Ma0c0QjBZUS1IamNrb2RJZmZtQnIzYUhHekVtbTlYak42WU9FUHRfbmlFbGJjWldLUG5WTDlGbkNQQkdEd3Nsa2U3eTFyMi1UMVdoU2lYYXlLWXlWaWFyY3A3RERMcVJ4elJJRkdhVkJvSEF6RTJYLWJlUzdZekdtSVU5WWdxZlpuZGRPWUw3RV96RUFZeUg4VjRVc2RseEI5a0JGZTZXOUJ5UGZRWXJVcF9LNTFzNTI1RjBFT1FEcFV1QnNkQ2R5cTFBbWVjcHBacmc?oc=5",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 19.29,
+      "lon": -99.66
     }
   ]
 }
