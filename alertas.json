@@ -1,12 +1,119 @@
 {
-  "ultima_actualizacion": "2026-06-13T13:22:26.948347-06:00",
-  "ultima_actualizacion_legible": "13 de junio de 2026 · 13:22 CST",
-  "total": 0,
+  "ultima_actualizacion": "2026-06-13T14:49:24.534149-06:00",
+  "ultima_actualizacion_legible": "13 de junio de 2026 · 14:49 CST",
+  "total": 3,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Google News"
+    "Medios regionales",
+    "Quadratín + regionales"
   ],
-  "grupos": [],
-  "para_mapa": [],
-  "nota": "Sin alertas activas en la ventana de tiempo configurada."
+  "grupos": [
+    {
+      "tipo": "cierre_total",
+      "color": "rojo",
+      "icono": "🔴",
+      "label": "CIERRE TOTAL",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "73fe1637",
+          "tipo": "cierre_total",
+          "ruta": "Liberan circulación Federal 200 tras derrumbe en Cabo Corrientes…",
+          "descripcion": "Liberan circulación Federal 200 tras derrumbe en Cabo Corrientes. Luego de varias horas de trabajo quedó completamente liberada la vialidad y que el tránsito puede desarrollarse nuevamente con normalidad",
+          "recomendacion": "",
+          "fecha": "13 junio 2026 · 14:01 CST",
+          "fecha_iso": "2026-06-13T14:01:00-06:00",
+          "fuente": "Quadratín Jalisco",
+          "url": "https://jalisco.quadratin.com.mx/sucesos/liberan-circulacion-federal-200-tras-derrumbe-en-cabo-corrientes/",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL",
+          "lat": 19.1,
+          "lon": -104.3
+        }
+      ]
+    },
+    {
+      "tipo": "cierre_parcial",
+      "color": "amarillo",
+      "icono": "🟡",
+      "label": "CIERRE PARCIAL / ACCIDENTES",
+      "col2": true,
+      "alertas": [
+        {
+          "id": "64401f9b",
+          "tipo": "cierre_parcial",
+          "ruta": "Destaca SSP Acapulco reducción del 56% de homicidios dolosos en…",
+          "descripcion": "Destaca SSP Acapulco reducción del 56% de homicidios dolosos en mayo. El secretario Federico Argumedo Rodríguez presentó el informe mensual ante el Cabildo",
+          "recomendacion": "",
+          "fecha": "13 junio 2026 · 14:46 CST",
+          "fecha_iso": "2026-06-13T14:46:00-06:00",
+          "fuente": "Quadratín Guerrero",
+          "url": "https://guerrero.quadratin.com.mx/destaca-ssp-acapulco-reduccion-del-56-de-homicidios-dolosos-en-mayo/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 16.86,
+          "lon": -99.88
+        },
+        {
+          "id": "cca9531b",
+          "tipo": "cierre_parcial",
+          "ruta": "Atienden más 52 mil choques lamineros en Jalisco bajo protocolo…",
+          "descripcion": "Atienden más 52 mil choques lamineros en Jalisco bajo protocolo para agilizar circulación. El protocolo busca evitar embotellamientos en las vialidades en las que ocurran los incidentes",
+          "recomendacion": "evitar embotellamientos en las vialidades en las que ocurran los incidentes",
+          "fecha": "13 junio 2026 · 14:44 CST",
+          "fecha_iso": "2026-06-13T14:44:00-06:00",
+          "fuente": "El Informador Jalisco",
+          "url": "https://www.informador.mx/jalisco/atienden-mas-52-mil-choques-lamineros-en-jalisco-bajo-protocolo-para-agilizar-circulacion-20260613-0067.html",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 20.66,
+          "lon": -103.35
+        }
+      ]
+    }
+  ],
+  "para_mapa": [
+    {
+      "id": "64401f9b",
+      "tipo": "cierre_parcial",
+      "ruta": "Destaca SSP Acapulco reducción del 56% de homicidios dolosos en…",
+      "descripcion": "Destaca SSP Acapulco reducción del 56% de homicidios dolosos en mayo. El secretario Federico Argumedo Rodríguez presentó el informe mensual ante el Cabildo",
+      "fecha": "13 junio 2026 · 14:46 CST",
+      "fuente": "Quadratín Guerrero",
+      "url": "https://guerrero.quadratin.com.mx/destaca-ssp-acapulco-reduccion-del-56-de-homicidios-dolosos-en-mayo/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 16.86,
+      "lon": -99.88
+    },
+    {
+      "id": "cca9531b",
+      "tipo": "cierre_parcial",
+      "ruta": "Atienden más 52 mil choques lamineros en Jalisco bajo protocolo…",
+      "descripcion": "Atienden más 52 mil choques lamineros en Jalisco bajo protocolo para agilizar circulación. El protocolo busca evitar embotellamientos en las vialidades en las que ocurran los incidentes",
+      "fecha": "13 junio 2026 · 14:44 CST",
+      "fuente": "El Informador Jalisco",
+      "url": "https://www.informador.mx/jalisco/atienden-mas-52-mil-choques-lamineros-en-jalisco-bajo-protocolo-para-agilizar-circulacion-20260613-0067.html",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 20.66,
+      "lon": -103.35
+    },
+    {
+      "id": "73fe1637",
+      "tipo": "cierre_total",
+      "ruta": "Liberan circulación Federal 200 tras derrumbe en Cabo Corrientes…",
+      "descripcion": "Liberan circulación Federal 200 tras derrumbe en Cabo Corrientes. Luego de varias horas de trabajo quedó completamente liberada la vialidad y que el tránsito puede desarrollarse nuevamente con normalidad",
+      "fecha": "13 junio 2026 · 14:01 CST",
+      "fuente": "Quadratín Jalisco",
+      "url": "https://jalisco.quadratin.com.mx/sucesos/liberan-circulacion-federal-200-tras-derrumbe-en-cabo-corrientes/",
+      "dot_color": "#e74c3c",
+      "badge_txt": "CIERRE TOTAL",
+      "lat": 19.1,
+      "lon": -104.3
+    }
+  ]
 }
