@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-06-13T10:16:33.525166-06:00",
-  "ultima_actualizacion_legible": "13 de junio de 2026 · 10:16 CST",
-  "total": 4,
+  "ultima_actualizacion": "2026-06-13T11:49:42.075814-06:00",
+  "ultima_actualizacion_legible": "13 de junio de 2026 · 11:49 CST",
+  "total": 5,
   "ventana": "últimos 180 minutos",
   "fuentes": [
     "Google News",
@@ -42,6 +42,20 @@
       "label": "BLOQUEOS / MANIFESTACIONES",
       "col2": false,
       "alertas": [
+        {
+          "id": "2afbfbd4",
+          "tipo": "bloqueo",
+          "ruta": "Bloqueos carreteros HOY 13 de junio: autopistas cerradas y afectaciones…",
+          "descripcion": "Bloqueos carreteros HOY 13 de junio: autopistas cerradas y afectaciones en México según CAPUFE y Guardia Nacional - Eje Central. Bloqueos carreteros HOY 13 de junio: autopistas cerradas y afectaciones en México según CAPUFE y Guardia Nacional Eje Central",
+          "recomendacion": "",
+          "fecha": "13 junio 2026 · 10:19 CST",
+          "fecha_iso": "2026-06-13T10:19:00-06:00",
+          "fuente": "Eje Central",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQRWxFQXJJN0s2THdIMFhDYTl6ZUNuMUlLT25LNUVxdlJtMHJJcmNzNzhuRW9xaGVwcDBlbWZyWGFmcUhaZnFDRk01QnhucmNuc0M3YzlTMU4yRUJZcWs4cnIxaTdDNFZfN0RoY0pNSUNmTlVQSHZTOVJtbmlrdHk2ZlBwelpDTzNSMnZUdVcwN0p0OEIzV2FfcG5KZThmYUJ2ejRaYnY2QlRhQmZUalBnY2JjOXpOZmVLVWF0Rk02TjREZjkzMy0zSkFQSTdkYUZWNlhIQS1FZTd1bzBvLVNHUHBoQlRtdV9Vc3c?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
         {
           "id": "f2e08b41",
           "tipo": "bloqueo",
@@ -84,13 +98,13 @@
       "col2": true,
       "alertas": [
         {
-          "id": "6ea7fba8",
+          "id": "623fea07",
           "tipo": "cierre_parcial",
-          "ruta": "Se Registra Fuerte Choque entre Tráiler y Autobús en Carretera…",
-          "descripcion": "Se Registra Fuerte Choque entre Tráiler y Autobús en Carretera de Guanajuato - N+. Se Registra Fuerte Choque entre Tráiler y Autobús en Carretera de Guanajuato N+",
+          "ruta": "Al Menos 5 Muertos en Choque entre Tráiler y Autobús…",
+          "descripcion": "Al Menos 5 Muertos en Choque entre Tráiler y Autobús en Carretera de Guanajuato - N+. Al Menos 5 Muertos en Choque entre Tráiler y Autobús en Carretera de Guanajuato N+",
           "recomendacion": "",
-          "fecha": "13 junio 2026 · 08:25 CST",
-          "fecha_iso": "2026-06-13T08:25:00-06:00",
+          "fecha": "13 junio 2026 · 11:15 CST",
+          "fecha_iso": "2026-06-13T11:15:00-06:00",
           "fuente": "N+",
           "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSHNmSDZzVGpaNnJpVFc2dDFDOURsWlBZSFV3UjFuTTlxNjVxSzE2eDA2Qm54NXh4TW5SZzlDQXBuNlFRRE9KMnZhTkNOZnJqNXIxSkFoaFR3QWtxcTc2QlhraTEtbEpCalNQOHpQeUxwckVVcEhodEtwNHFrV2VJbXJuM2FjQmViR1FjT2E5RHJtU3ZPdFhTZkNMb1pKUExFMGllVUltRGV2eGs1VXdzT3hGVzhISFZDQU5QT3RZYm5YZmpoRnBMZg?oc=5",
           "dot_color": "#e67e22",
@@ -103,6 +117,19 @@
     }
   ],
   "para_mapa": [
+    {
+      "id": "623fea07",
+      "tipo": "cierre_parcial",
+      "ruta": "Al Menos 5 Muertos en Choque entre Tráiler y Autobús…",
+      "descripcion": "Al Menos 5 Muertos en Choque entre Tráiler y Autobús en Carretera de Guanajuato - N+. Al Menos 5 Muertos en Choque entre Tráiler y Autobús en Carretera de Guanajuato N+",
+      "fecha": "13 junio 2026 · 11:15 CST",
+      "fuente": "N+",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSHNmSDZzVGpaNnJpVFc2dDFDOURsWlBZSFV3UjFuTTlxNjVxSzE2eDA2Qm54NXh4TW5SZzlDQXBuNlFRRE9KMnZhTkNOZnJqNXIxSkFoaFR3QWtxcTc2QlhraTEtbEpCalNQOHpQeUxwckVVcEhodEtwNHFrV2VJbXJuM2FjQmViR1FjT2E5RHJtU3ZPdFhTZkNMb1pKUExFMGllVUltRGV2eGs1VXdzT3hGVzhISFZDQU5QT3RZYm5YZmpoRnBMZg?oc=5",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 21.02,
+      "lon": -101.26
+    },
     {
       "id": "191b83d3",
       "tipo": "cierre_total",
@@ -141,19 +168,6 @@
       "badge_txt": "BLOQUEO",
       "lat": 17.06,
       "lon": -96.72
-    },
-    {
-      "id": "6ea7fba8",
-      "tipo": "cierre_parcial",
-      "ruta": "Se Registra Fuerte Choque entre Tráiler y Autobús en Carretera…",
-      "descripcion": "Se Registra Fuerte Choque entre Tráiler y Autobús en Carretera de Guanajuato - N+. Se Registra Fuerte Choque entre Tráiler y Autobús en Carretera de Guanajuato N+",
-      "fecha": "13 junio 2026 · 08:25 CST",
-      "fuente": "N+",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSHNmSDZzVGpaNnJpVFc2dDFDOURsWlBZSFV3UjFuTTlxNjVxSzE2eDA2Qm54NXh4TW5SZzlDQXBuNlFRRE9KMnZhTkNOZnJqNXIxSkFoaFR3QWtxcTc2QlhraTEtbEpCalNQOHpQeUxwckVVcEhodEtwNHFrV2VJbXJuM2FjQmViR1FjT2E5RHJtU3ZPdFhTZkNMb1pKUExFMGllVUltRGV2eGs1VXdzT3hGVzhISFZDQU5QT3RZYm5YZmpoRnBMZg?oc=5",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 21.02,
-      "lon": -101.26
     }
   ]
 }
