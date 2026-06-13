@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-06-13T14:49:24.534149-06:00",
-  "ultima_actualizacion_legible": "13 de junio de 2026 · 14:49 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-06-13T16:01:52.852387-06:00",
+  "ultima_actualizacion_legible": "13 de junio de 2026 · 16:01 CST",
+  "total": 4,
   "ventana": "últimos 180 minutos",
   "fuentes": [
     "Medios regionales",
@@ -41,6 +41,22 @@
       "col2": true,
       "alertas": [
         {
+          "id": "0fa45257",
+          "tipo": "cierre_parcial",
+          "ruta": "Choque en autopista Tehuacán-Oaxaca;7 muertos y más de 10 lesionados…",
+          "descripcion": "Choque en autopista Tehuacán-Oaxaca;7 muertos y más de 10 lesionados. Desplegaron un operativo de emergencia y mantienen cerrada la circulación en ambos sentidos.",
+          "recomendacion": "",
+          "fecha": "13 junio 2026 · 15:13 CST",
+          "fecha_iso": "2026-06-13T15:13:00-06:00",
+          "fuente": "Quadratín Oaxaca",
+          "url": "https://oaxaca.quadratin.com.mx/choque-en-autopista-tehuacan-oaxaca7-muertos-y-mas-de-10-lesionado/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 17.06,
+          "lon": -96.72
+        },
+        {
           "id": "64401f9b",
           "tipo": "cierre_parcial",
           "ruta": "Destaca SSP Acapulco reducción del 56% de homicidios dolosos en…",
@@ -76,6 +92,19 @@
     }
   ],
   "para_mapa": [
+    {
+      "id": "0fa45257",
+      "tipo": "cierre_parcial",
+      "ruta": "Choque en autopista Tehuacán-Oaxaca;7 muertos y más de 10 lesionados…",
+      "descripcion": "Choque en autopista Tehuacán-Oaxaca;7 muertos y más de 10 lesionados. Desplegaron un operativo de emergencia y mantienen cerrada la circulación en ambos sentidos.",
+      "fecha": "13 junio 2026 · 15:13 CST",
+      "fuente": "Quadratín Oaxaca",
+      "url": "https://oaxaca.quadratin.com.mx/choque-en-autopista-tehuacan-oaxaca7-muertos-y-mas-de-10-lesionado/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 17.06,
+      "lon": -96.72
+    },
     {
       "id": "64401f9b",
       "tipo": "cierre_parcial",
