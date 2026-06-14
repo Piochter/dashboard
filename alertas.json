@@ -1,10 +1,13 @@
 {
-  "ultima_actualizacion": "2026-06-14T08:33:24.700180-06:00",
-  "ultima_actualizacion_legible": "14 de junio de 2026 · 08:33 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-06-14T10:13:18.946444-06:00",
+  "ultima_actualizacion_legible": "14 de junio de 2026 · 10:13 CST",
+  "total": 6,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Google News"
+    "Google News",
+    "Medios nacionales",
+    "Medios regionales",
+    "Quadratín + regionales"
   ],
   "grupos": [
     {
@@ -14,6 +17,20 @@
       "label": "BLOQUEOS / MANIFESTACIONES",
       "col2": false,
       "alertas": [
+        {
+          "id": "9e8c8135",
+          "tipo": "bloqueo",
+          "ruta": "Bloqueos carreteras HOY 14 de junio: Autopistas cerradas en México,…",
+          "descripcion": "Bloqueos carreteras HOY 14 de junio: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 14 de junio: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
+          "recomendacion": "",
+          "fecha": "14 junio 2026 · 08:41 CST",
+          "fecha_iso": "2026-06-14T08:41:00-06:00",
+          "fuente": "Eje Central",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPS093Wl9xRk5aSzdfQXdIRDFJRHl1QXQ0X3hJY3d1UE4wRHlHWWpiVG05NnRZeGVVdmc0OGVOc2RzSzFPaUgzYTBNWURWTmxZZHpvVDQ4d2ZpZnlCM3BuN3R6Mk1xU09UUEs2V2NIMnBFakt0M2FYcFNObFZnNmh1ektHS1F4c0tKOVVhdmRhVFlNbGlIMDIwU3dUS0xISGZCdkNfMHZ6a1NOc2xDdmVOOUhabnk1d0Q4dW54SzZrTVZtSDlQTzBHZkFrWUcwOTJSa01iSlZ2SXRwVnZkWVFzbWNqckZ2Mnc?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
         {
           "id": "8a43d0c8",
           "tipo": "bloqueo",
@@ -31,9 +48,98 @@
           "lon": -102.0
         }
       ]
+    },
+    {
+      "tipo": "cierre_parcial",
+      "color": "amarillo",
+      "icono": "🟡",
+      "label": "CIERRE PARCIAL / ACCIDENTES",
+      "col2": true,
+      "alertas": [
+        {
+          "id": "fceb1ab0",
+          "tipo": "cierre_parcial",
+          "ruta": "Incendio tras un choque vehicular deja 10 muertos en Ecuador…",
+          "descripcion": "Incendio tras un choque vehicular deja 10 muertos en Ecuador. Al menos 10 personas murieron y una más resultó herida tras un accidente de tránsito que provocó un incendio vehicular en Ecuador.",
+          "recomendacion": "",
+          "fecha": "14 junio 2026 · 08:41 CST",
+          "fecha_iso": "2026-06-14T08:41:00-06:00",
+          "fuente": "24 Horas",
+          "url": "https://24-horas.mx/mundo/incendio-tras-un-choque-vehicular-deja-10-muertos-en-ecuador/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        },
+        {
+          "id": "68f5a228",
+          "tipo": "cierre_parcial",
+          "ruta": "carretera de Purísima a Manuel Doblado",
+          "descripcion": "Vuelca y prefiere huir: Conductor abandona su camioneta en carretera de Purísima a Manuel Doblado. Hasta el momento se desconoce cómo ocurrió el accidente y la identidad del propietario de la camioneta siniestrada.",
+          "recomendacion": "",
+          "fecha": "14 junio 2026 · 08:28 CST",
+          "fecha_iso": "2026-06-14T08:28:00-06:00",
+          "fuente": "AM Guanajuato",
+          "url": "https://www.am.com.mx/guanajuato/2026/06/14/volcadura-en-purisima-conductor-huye-y-abandona-su-camioneta-1806712.html",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        }
+      ]
+    },
+    {
+      "tipo": "clima",
+      "color": "azul",
+      "icono": "🌧️",
+      "label": "ALERTA METEOROLÓGICA",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "e67e3425",
+          "tipo": "clima",
+          "ruta": "Alerta federal de inundaciones en Guanajuato y la mitad del…",
+          "descripcion": "Alerta federal de inundaciones en Guanajuato y la mitad del país por fuertes lluvias. La Coordinación Nacional de Protección Civil alertó sobre la posibilidad de lluvias fuertes y muy fuertes en la mitad del País, que podría ocasionar inundaciones debido a la acumulación de agua superior a los 75 milímetros por metro cuadrado.",
+          "recomendacion": "",
+          "fecha": "14 junio 2026 · 09:10 CST",
+          "fecha_iso": "2026-06-14T09:10:00-06:00",
+          "fuente": "AM Guanajuato",
+          "url": "https://www.am.com.mx/nacional/2026/06/14/inundaciones-en-guanajuato-alerta-federal-por-fuertes-lluvias-1806715.html",
+          "dot_color": "#3498db",
+          "badge": "badge-clima",
+          "badge_txt": "ALERTA CLIMA",
+          "lat": 21.02,
+          "lon": -101.26
+        },
+        {
+          "id": "0a5e17ea",
+          "tipo": "clima",
+          "ruta": "Domingo con alta probabilidad de tormentas eléctricas y granizo en…",
+          "descripcion": "Domingo con alta probabilidad de tormentas eléctricas y granizo en GDL. Las autoridades de Protección Civil recomiendan a la población tomar precauciones ante posibles inundaciones en pasos a desnivel y vialidades",
+          "recomendacion": "",
+          "fecha": "14 junio 2026 · 08:22 CST",
+          "fecha_iso": "2026-06-14T08:22:00-06:00",
+          "fuente": "Quadratín Jalisco",
+          "url": "https://jalisco.quadratin.com.mx/sucesos/domingo-con-alta-probabilidad-de-tormentas-electricas-y-granizo-en-gdl/",
+          "dot_color": "#3498db",
+          "badge": "badge-clima",
+          "badge_txt": "ALERTA CLIMA"
+        }
+      ]
     }
   ],
   "para_mapa": [
+    {
+      "id": "e67e3425",
+      "tipo": "clima",
+      "ruta": "Alerta federal de inundaciones en Guanajuato y la mitad del…",
+      "descripcion": "Alerta federal de inundaciones en Guanajuato y la mitad del país por fuertes lluvias. La Coordinación Nacional de Protección Civil alertó sobre la posibilidad de lluvias fuertes y muy fuertes en la mitad del País, que podría ocasionar inundaciones debido a la acumulación de agua superior a los 75 milímetros por metro cuadrado.",
+      "fecha": "14 junio 2026 · 09:10 CST",
+      "fuente": "AM Guanajuato",
+      "url": "https://www.am.com.mx/nacional/2026/06/14/inundaciones-en-guanajuato-alerta-federal-por-fuertes-lluvias-1806715.html",
+      "dot_color": "#3498db",
+      "badge_txt": "ALERTA CLIMA",
+      "lat": 21.02,
+      "lon": -101.26
+    },
     {
       "id": "8a43d0c8",
       "tipo": "bloqueo",
