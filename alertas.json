@@ -1,51 +1,51 @@
 {
-  "ultima_actualizacion": "2026-06-13T19:44:16.610520-06:00",
-  "ultima_actualizacion_legible": "13 de junio de 2026 · 19:44 CST",
+  "ultima_actualizacion": "2026-06-14T00:23:33.960760-06:00",
+  "ultima_actualizacion_legible": "14 de junio de 2026 · 00:23 CST",
   "total": 1,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Medios regionales"
+    "Quadratín + regionales"
   ],
   "grupos": [
     {
-      "tipo": "robo",
-      "color": "rojo",
-      "icono": "🚨",
-      "label": "ROBOS EN CARRETERA",
+      "tipo": "cierre_parcial",
+      "color": "amarillo",
+      "icono": "🟡",
+      "label": "CIERRE PARCIAL / ACCIDENTES",
       "col2": true,
       "alertas": [
         {
-          "id": "b634a361",
-          "tipo": "robo",
-          "ruta": "Suman 11 denuncias por robo entre cónyuges en Michoacán…",
-          "descripcion": "Suman 11 denuncias por robo entre cónyuges en Michoacán. Un delito previsto y sancionado por el Código Penal del Estado",
+          "id": "e0a16767",
+          "tipo": "cierre_parcial",
+          "ruta": "Sube a 8 cifra de muertos por choque en la…",
+          "descripcion": "Sube a 8 cifra de muertos por choque en la Cuacnopalan–Oaxaca. La Policía Vial Estatal confirmó 14 personas lesionadas; habilitaron un carril de manera emergente",
           "recomendacion": "",
-          "fecha": "13 junio 2026 · 17:10 CST",
-          "fecha_iso": "2026-06-13T17:10:00-06:00",
-          "fuente": "Quadratín Michoacán",
-          "url": "https://www.quadratin.com.mx/justicia/suman-11-denuncias-por-robo-entre-conyuges-en-michoacan/",
-          "dot_color": "#c0392b",
-          "badge": "badge-robo",
-          "badge_txt": "ROBO",
-          "lat": 19.7,
-          "lon": -101.19
+          "fecha": "13 junio 2026 · 21:27 CST",
+          "fecha_iso": "2026-06-13T21:27:00-06:00",
+          "fuente": "Quadratín Oaxaca",
+          "url": "https://oaxaca.quadratin.com.mx/sube-a-8-cifra-de-muertos-por-choque-en-la-cuacnopalan-oaxaca/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 17.06,
+          "lon": -96.72
         }
       ]
     }
   ],
   "para_mapa": [
     {
-      "id": "b634a361",
-      "tipo": "robo",
-      "ruta": "Suman 11 denuncias por robo entre cónyuges en Michoacán…",
-      "descripcion": "Suman 11 denuncias por robo entre cónyuges en Michoacán. Un delito previsto y sancionado por el Código Penal del Estado",
-      "fecha": "13 junio 2026 · 17:10 CST",
-      "fuente": "Quadratín Michoacán",
-      "url": "https://www.quadratin.com.mx/justicia/suman-11-denuncias-por-robo-entre-conyuges-en-michoacan/",
-      "dot_color": "#c0392b",
-      "badge_txt": "ROBO",
-      "lat": 19.7,
-      "lon": -101.19
+      "id": "e0a16767",
+      "tipo": "cierre_parcial",
+      "ruta": "Sube a 8 cifra de muertos por choque en la…",
+      "descripcion": "Sube a 8 cifra de muertos por choque en la Cuacnopalan–Oaxaca. La Policía Vial Estatal confirmó 14 personas lesionadas; habilitaron un carril de manera emergente",
+      "fecha": "13 junio 2026 · 21:27 CST",
+      "fuente": "Quadratín Oaxaca",
+      "url": "https://oaxaca.quadratin.com.mx/sube-a-8-cifra-de-muertos-por-choque-en-la-cuacnopalan-oaxaca/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 17.06,
+      "lon": -96.72
     }
   ]
 }
