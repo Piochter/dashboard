@@ -1,10 +1,9 @@
 {
-  "ultima_actualizacion": "2026-06-14T14:48:28.288694-06:00",
-  "ultima_actualizacion_legible": "14 de junio de 2026 · 14:48 CST",
-  "total": 4,
+  "ultima_actualizacion": "2026-06-14T16:08:05.994299-06:00",
+  "ultima_actualizacion_legible": "14 de junio de 2026 · 16:08 CST",
+  "total": 2,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Medios regionales",
     "Quadratín + regionales",
     "Telegram"
   ],
@@ -22,45 +21,15 @@
           "ruta": "🔴 La magnitud del impacto provocó que varias personas quedaran…",
           "descripcion": "🔴 La magnitud del impacto provocó que varias personas quedaran atrapadas y requirieran atención inmediata https://lajornadaestadodemexico.com/sube-a-13-los-lesionados-por-accidente-vial-en-la-mexico-pachuca/",
           "recomendacion": "",
-          "fecha": "14 junio 2026 · 14:43 CST",
-          "fecha_iso": "2026-06-14T14:43:00-06:00",
+          "fecha": "14 junio 2026 · 14:51 CST",
+          "fecha_iso": "2026-06-14T14:51:00-06:00",
           "fuente": "Telegram @jornadaedomex",
-          "url": "https://t.me/jornadaedomex/11026",
+          "url": "https://t.me/jornadaedomex/11027",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL",
           "lat": 20.12,
           "lon": -98.73
-        },
-        {
-          "id": "3d4df043",
-          "tipo": "cierre_parcial",
-          "ruta": "¿Quién era Gaspi, youtuber reportado como fallecido tras un choque…",
-          "descripcion": "¿Quién era Gaspi, youtuber reportado como fallecido tras un choque de helicópteros en Brasil?. El fatal accidente aéreo ocurrió en Río de Janeiro y dejó un saldo de seis muertos. Las aeronaves cayeron sobre una zona comercial, provocando un incendio que destruyó 20 vehículos",
-          "recomendacion": "",
-          "fecha": "14 junio 2026 · 12:52 CST",
-          "fecha_iso": "2026-06-14T12:52:00-06:00",
-          "fuente": "El Informador Jalisco",
-          "url": "https://www.informador.mx/entretenimiento/gaspi-youtuber-se-reporta-fallecido-luego-de-choque-de-helicoptero-20260614-0063.html",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
-        },
-        {
-          "id": "d8ecfe68",
-          "tipo": "cierre_parcial",
-          "ruta": "🔴 Accidente de microbús en la México- Pachuca https://lajornadaestadodemexico.com/accidente-de-microbus-en-la-mexico-pachuca-deja-15-lesionados/…",
-          "descripcion": "🔴 Accidente de microbús en la México- Pachuca https://lajornadaestadodemexico.com/accidente-de-microbus-en-la-mexico-pachuca-deja-15-lesionados/",
-          "recomendacion": "",
-          "fecha": "14 junio 2026 · 12:08 CST",
-          "fecha_iso": "2026-06-14T12:08:00-06:00",
-          "fuente": "Telegram @jornadaedomex",
-          "url": "https://t.me/jornadaedomex/11025",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 21.0,
-          "lon": -104.0
         }
       ]
     },
@@ -96,9 +65,9 @@
       "tipo": "cierre_parcial",
       "ruta": "🔴 La magnitud del impacto provocó que varias personas quedaran…",
       "descripcion": "🔴 La magnitud del impacto provocó que varias personas quedaran atrapadas y requirieran atención inmediata https://lajornadaestadodemexico.com/sube-a-13-los-lesionados-por-accidente-vial-en-la-mexico-pachuca/",
-      "fecha": "14 junio 2026 · 14:43 CST",
+      "fecha": "14 junio 2026 · 14:51 CST",
       "fuente": "Telegram @jornadaedomex",
-      "url": "https://t.me/jornadaedomex/11026",
+      "url": "https://t.me/jornadaedomex/11027",
       "dot_color": "#e67e22",
       "badge_txt": "CIERRE PARCIAL",
       "lat": 20.12,
@@ -116,19 +85,6 @@
       "badge_txt": "ALERTA CLIMA",
       "lat": 19.53,
       "lon": -96.91
-    },
-    {
-      "id": "d8ecfe68",
-      "tipo": "cierre_parcial",
-      "ruta": "🔴 Accidente de microbús en la México- Pachuca https://lajornadaestadodemexico.com/accidente-de-microbus-en-la-mexico-pachuca-deja-15-lesionados/…",
-      "descripcion": "🔴 Accidente de microbús en la México- Pachuca https://lajornadaestadodemexico.com/accidente-de-microbus-en-la-mexico-pachuca-deja-15-lesionados/",
-      "fecha": "14 junio 2026 · 12:08 CST",
-      "fuente": "Telegram @jornadaedomex",
-      "url": "https://t.me/jornadaedomex/11025",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 21.0,
-      "lon": -104.0
     }
   ]
 }
