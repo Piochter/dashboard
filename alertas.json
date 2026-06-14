@@ -1,12 +1,51 @@
 {
-  "ultima_actualizacion": "2026-06-14T04:03:51.647862-06:00",
-  "ultima_actualizacion_legible": "14 de junio de 2026 · 04:03 CST",
-  "total": 0,
+  "ultima_actualizacion": "2026-06-14T06:16:24.977515-06:00",
+  "ultima_actualizacion_legible": "14 de junio de 2026 · 06:16 CST",
+  "total": 1,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Google News"
+    "Telegram"
   ],
-  "grupos": [],
-  "para_mapa": [],
-  "nota": "Sin alertas activas en la ventana de tiempo configurada."
+  "grupos": [
+    {
+      "tipo": "clima",
+      "color": "azul",
+      "icono": "🌧️",
+      "label": "ALERTA METEOROLÓGICA",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "3cc949f3",
+          "tipo": "clima",
+          "ruta": "Fuerte lluvia y granizada en Edomex afecta a 4 alcaldías…",
+          "descripcion": "Fuerte lluvia y granizada en Edomex afecta a 4 alcaldías\nhttps://www.jornada.com.mx/2026/06/14/estados/022n1est?partner=rss\n\nEl Circuito Exterior Mexiquense (CEM) fue cerrado y se suspendió el servicio en la línea 2 del Mexibús debido a una intensa lluvia que cayó la tarde de ayer en el estado de México y que combinada con granizo provocó inundaciones de hasta un metro en los municipios de Cuautitlán Izcalli, Tultitlán, Coacalco y Ecatepec.",
+          "recomendacion": "",
+          "fecha": "14 junio 2026 · 04:08 CST",
+          "fecha_iso": "2026-06-14T04:08:00-06:00",
+          "fuente": "Telegram @NOTMEX",
+          "url": "https://t.me/NOTMEX/183884",
+          "dot_color": "#3498db",
+          "badge": "badge-clima",
+          "badge_txt": "ALERTA CLIMA",
+          "lat": 19.35,
+          "lon": -99.7
+        }
+      ]
+    }
+  ],
+  "para_mapa": [
+    {
+      "id": "3cc949f3",
+      "tipo": "clima",
+      "ruta": "Fuerte lluvia y granizada en Edomex afecta a 4 alcaldías…",
+      "descripcion": "Fuerte lluvia y granizada en Edomex afecta a 4 alcaldías\nhttps://www.jornada.com.mx/2026/06/14/estados/022n1est?partner=rss\n\nEl Circuito Exterior Mexiquense (CEM) fue cerrado y se suspendió el servicio en la línea 2 del Mexibús debido a una intensa lluvia que cayó la tarde de ayer en el estado de México y que combinada con granizo provocó inundaciones de hasta un metro en los municipios de Cuautitlán Izcalli, Tultitlán, Coacalco y Ecatepec.",
+      "fecha": "14 junio 2026 · 04:08 CST",
+      "fuente": "Telegram @NOTMEX",
+      "url": "https://t.me/NOTMEX/183884",
+      "dot_color": "#3498db",
+      "badge_txt": "ALERTA CLIMA",
+      "lat": 19.35,
+      "lon": -99.7
+    }
+  ]
 }
