@@ -1,11 +1,11 @@
 {
-  "ultima_actualizacion": "2026-06-14T13:22:40.974362-06:00",
-  "ultima_actualizacion_legible": "14 de junio de 2026 · 13:22 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-06-14T14:48:28.288694-06:00",
+  "ultima_actualizacion_legible": "14 de junio de 2026 · 14:48 CST",
+  "total": 4,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Google News",
     "Medios regionales",
+    "Quadratín + regionales",
     "Telegram"
   ],
   "grupos": [
@@ -17,10 +17,26 @@
       "col2": true,
       "alertas": [
         {
-          "id": "97e34f4d",
+          "id": "685b119a",
           "tipo": "cierre_parcial",
-          "ruta": "Gaspi: youtuber se reporta fallecido luego de choque de helicóptero…",
-          "descripcion": "Gaspi: youtuber se reporta fallecido luego de choque de helicóptero. El fatal accidente aéreo ocurrió en Río de Janeiro y dejó un saldo de seis muertos. Las aeronaves cayeron sobre una zona comercial, provocando un incendio que destruyó 20 vehículos",
+          "ruta": "🔴 La magnitud del impacto provocó que varias personas quedaran…",
+          "descripcion": "🔴 La magnitud del impacto provocó que varias personas quedaran atrapadas y requirieran atención inmediata https://lajornadaestadodemexico.com/sube-a-13-los-lesionados-por-accidente-vial-en-la-mexico-pachuca/",
+          "recomendacion": "",
+          "fecha": "14 junio 2026 · 14:43 CST",
+          "fecha_iso": "2026-06-14T14:43:00-06:00",
+          "fuente": "Telegram @jornadaedomex",
+          "url": "https://t.me/jornadaedomex/11026",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 20.12,
+          "lon": -98.73
+        },
+        {
+          "id": "3d4df043",
+          "tipo": "cierre_parcial",
+          "ruta": "¿Quién era Gaspi, youtuber reportado como fallecido tras un choque…",
+          "descripcion": "¿Quién era Gaspi, youtuber reportado como fallecido tras un choque de helicópteros en Brasil?. El fatal accidente aéreo ocurrió en Río de Janeiro y dejó un saldo de seis muertos. Las aeronaves cayeron sobre una zona comercial, provocando un incendio que destruyó 20 vehículos",
           "recomendacion": "",
           "fecha": "14 junio 2026 · 12:52 CST",
           "fecha_iso": "2026-06-14T12:52:00-06:00",
@@ -45,27 +61,62 @@
           "badge_txt": "CIERRE PARCIAL",
           "lat": 21.0,
           "lon": -104.0
-        },
+        }
+      ]
+    },
+    {
+      "tipo": "clima",
+      "color": "azul",
+      "icono": "🌧️",
+      "label": "ALERTA METEOROLÓGICA",
+      "col2": false,
+      "alertas": [
         {
-          "id": "b436d35b",
-          "tipo": "cierre_parcial",
-          "ruta": "Accidente en Carretera México-Pachuca: Deja Al Menos 15 Lesionados y…",
-          "descripcion": "Accidente en Carretera México-Pachuca: Deja Al Menos 15 Lesionados y el Cierre de Carril - N+. Accidente en Carretera México-Pachuca: Deja Al Menos 15 Lesionados y el Cierre de Carril N+",
+          "id": "99cad05b",
+          "tipo": "clima",
+          "ruta": "Atiende ayuntamiento de Xalapa afectaciones por las lluvias…",
+          "descripcion": "Atiende ayuntamiento de Xalapa afectaciones por las lluvias. Dejan precipitaciones 12 deslizamientos, inundaciones y caída de árboles",
           "recomendacion": "",
-          "fecha": "14 junio 2026 · 10:23 CST",
-          "fecha_iso": "2026-06-14T10:23:00-06:00",
-          "fuente": "N+",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOb1BUY1BxN3I5NkRTZ0Rfcy1IVW5YNVhsTHJXdjFzLTh2SmVPamlOOXZMR1hidkgyWTZnQmMwY2phMGtKZk5GYlA2LVpuLUZPcnYzMExSdHRCWTRCTER2WnNhRjVpY0dHZ1VURjRkTE9XajVmNW5tXzNvY3dKOXIyUWdrODZNVGNiT202TmVDbFhKUzBpQllHeE1ycGZ4Vi1pZ2RoSGs5czZnMmI2WHg0RjNUSVZVY2RJc085S0JjV013SGc0dEVhWG1UdG5lWkg2ZnU2MW5ZeGRxYXNpVUN4bU8xRk0?oc=5",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 21.0,
-          "lon": -104.0
+          "fecha": "14 junio 2026 · 13:45 CST",
+          "fecha_iso": "2026-06-14T13:45:00-06:00",
+          "fuente": "Quadratín Veracruz",
+          "url": "https://veracruz.quadratin.com.mx/atiende-ayuntamiento-de-xalapa-afectaciones-por-las-lluvias/",
+          "dot_color": "#3498db",
+          "badge": "badge-clima",
+          "badge_txt": "ALERTA CLIMA",
+          "lat": 19.53,
+          "lon": -96.91
         }
       ]
     }
   ],
   "para_mapa": [
+    {
+      "id": "685b119a",
+      "tipo": "cierre_parcial",
+      "ruta": "🔴 La magnitud del impacto provocó que varias personas quedaran…",
+      "descripcion": "🔴 La magnitud del impacto provocó que varias personas quedaran atrapadas y requirieran atención inmediata https://lajornadaestadodemexico.com/sube-a-13-los-lesionados-por-accidente-vial-en-la-mexico-pachuca/",
+      "fecha": "14 junio 2026 · 14:43 CST",
+      "fuente": "Telegram @jornadaedomex",
+      "url": "https://t.me/jornadaedomex/11026",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 20.12,
+      "lon": -98.73
+    },
+    {
+      "id": "99cad05b",
+      "tipo": "clima",
+      "ruta": "Atiende ayuntamiento de Xalapa afectaciones por las lluvias…",
+      "descripcion": "Atiende ayuntamiento de Xalapa afectaciones por las lluvias. Dejan precipitaciones 12 deslizamientos, inundaciones y caída de árboles",
+      "fecha": "14 junio 2026 · 13:45 CST",
+      "fuente": "Quadratín Veracruz",
+      "url": "https://veracruz.quadratin.com.mx/atiende-ayuntamiento-de-xalapa-afectaciones-por-las-lluvias/",
+      "dot_color": "#3498db",
+      "badge_txt": "ALERTA CLIMA",
+      "lat": 19.53,
+      "lon": -96.91
+    },
     {
       "id": "d8ecfe68",
       "tipo": "cierre_parcial",
@@ -74,19 +125,6 @@
       "fecha": "14 junio 2026 · 12:08 CST",
       "fuente": "Telegram @jornadaedomex",
       "url": "https://t.me/jornadaedomex/11025",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 21.0,
-      "lon": -104.0
-    },
-    {
-      "id": "b436d35b",
-      "tipo": "cierre_parcial",
-      "ruta": "Accidente en Carretera México-Pachuca: Deja Al Menos 15 Lesionados y…",
-      "descripcion": "Accidente en Carretera México-Pachuca: Deja Al Menos 15 Lesionados y el Cierre de Carril - N+. Accidente en Carretera México-Pachuca: Deja Al Menos 15 Lesionados y el Cierre de Carril N+",
-      "fecha": "14 junio 2026 · 10:23 CST",
-      "fuente": "N+",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOb1BUY1BxN3I5NkRTZ0Rfcy1IVW5YNVhsTHJXdjFzLTh2SmVPamlOOXZMR1hidkgyWTZnQmMwY2phMGtKZk5GYlA2LVpuLUZPcnYzMExSdHRCWTRCTER2WnNhRjVpY0dHZ1VURjRkTE9XajVmNW5tXzNvY3dKOXIyUWdrODZNVGNiT202TmVDbFhKUzBpQllHeE1ycGZ4Vi1pZ2RoSGs5czZnMmI2WHg0RjNUSVZVY2RJc085S0JjV013SGc0dEVhWG1UdG5lWkg2ZnU2MW5ZeGRxYXNpVUN4bU8xRk0?oc=5",
       "dot_color": "#e67e22",
       "badge_txt": "CIERRE PARCIAL",
       "lat": 21.0,
