@@ -1,38 +1,13 @@
 {
-  "ultima_actualizacion": "2026-06-15T15:31:52.379511-06:00",
-  "ultima_actualizacion_legible": "15 de junio de 2026 · 15:31 CST",
-  "total": 4,
+  "ultima_actualizacion": "2026-06-15T17:22:18.593567-06:00",
+  "ultima_actualizacion_legible": "15 de junio de 2026 · 17:22 CST",
+  "total": 2,
   "ventana": "últimos 180 minutos",
   "fuentes": [
     "Google News",
     "Quadratín + regionales"
   ],
   "grupos": [
-    {
-      "tipo": "cierre_total",
-      "color": "rojo",
-      "icono": "🔴",
-      "label": "CIERRE TOTAL",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "555c306b",
-          "tipo": "cierre_total",
-          "ruta": "Choque múltiple y volcadura de tráiler paralizan la México-Puebla; un…",
-          "descripcion": "Choque múltiple y volcadura de tráiler paralizan la México-Puebla; un muerto - 8 Columnas. Choque múltiple y volcadura de tráiler paralizan la México-Puebla; un muerto 8 Columnas",
-          "recomendacion": "",
-          "fecha": "15 junio 2026 · 12:54 CST",
-          "fecha_iso": "2026-06-15T12:54:00-06:00",
-          "fuente": "8 Columnas",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWHljSUxFWnlDU3g5LW8xU0dzT1VOTXJoMVpDOVUwd2gxVHRUN1FBXzViSXRlRjlWTDlZU292d0ZObThLNUJZSFd3V0dKWUlXN1pUQWtmNnZuZXdHS28tYVpFSG12ODFNVjZvMG44T0REdnU4MFVmS2FkeEV6TXlfU3ZSeTRoVjhHY1RFX2xSU0Vla2xfNVVkLUJxOWhvdlNEWEZEV2liOFMwSVl1ZGNv?oc=5",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL",
-          "lat": 19.35,
-          "lon": -98.4
-        }
-      ]
-    },
     {
       "tipo": "bloqueo",
       "color": "rojo",
@@ -49,37 +24,12 @@
           "fecha": "15 junio 2026 · 15:00 CST",
           "fecha_iso": "2026-06-15T15:00:00-06:00",
           "fuente": "Quadratín Puebla",
-          "url": "https://puebla.quadratin.com.mx/?p=1223191",
+          "url": "https://puebla.quadratin.com.mx/universidad/estudiantes-buap-ganan-plata-en-olimpiada-nacional-de-quimica-2026/",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO",
           "lat": 29.07,
           "lon": -110.96
-        }
-      ]
-    },
-    {
-      "tipo": "robo",
-      "color": "rojo",
-      "icono": "🚨",
-      "label": "ROBOS EN CARRETERA",
-      "col2": true,
-      "alertas": [
-        {
-          "id": "b8f9da8f",
-          "tipo": "robo",
-          "ruta": "Regularizarán 89 escuelas de Tlajomulco…",
-          "descripcion": "Regularizarán 89 escuelas de Tlajomulco. El Ayuntamiento aprobó la donación de más de 35 mil metros cuadrados de terrenos a la Secretaría de Educación Jalisco.",
-          "recomendacion": "",
-          "fecha": "15 junio 2026 · 12:51 CST",
-          "fecha_iso": "2026-06-15T12:51:00-06:00",
-          "fuente": "Quadratín Jalisco",
-          "url": "https://jalisco.quadratin.com.mx/sucesos/regularizaran-89-escuelas-de-tlajomulco/",
-          "dot_color": "#c0392b",
-          "badge": "badge-robo",
-          "badge_txt": "ROBO",
-          "lat": 20.66,
-          "lon": -103.35
         }
       ]
     },
@@ -96,8 +46,8 @@
           "ruta": "autopista México-Puebla y largas filas vehiculares - El Sol de México",
           "descripcion": "Choque múltiple provoca cierre en la autopista México-Puebla y largas filas vehiculares - El Sol de México. Choque múltiple provoca cierre en la autopista México-Puebla y largas filas vehiculares El Sol de México",
           "recomendacion": "",
-          "fecha": "15 junio 2026 · 15:22 CST",
-          "fecha_iso": "2026-06-15T15:22:00-06:00",
+          "fecha": "15 junio 2026 · 15:24 CST",
+          "fecha_iso": "2026-06-15T15:24:00-06:00",
           "fuente": "El Sol de México",
           "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNd25GZWstX3pZeS1WWUhZTE1CcEN3V0VaVWVOTU5QdHFIRDVTT0FiQnQ4Y0dINWVWTl8wMENMUVduZXd5N1l2QzUza212NDJIS0JraVlXWng0QlpkTkNKbm9LUEFKaTlTYWxvRjRGbnBmcEE4UExNb3RQbEZDNENpYWFtX3REOEgtY1NRQzN1RW4xUVdYWGVaakpPTnVSSVhuMnFUWXlGTDJmdzI5eFk2eUlZTHdjY0JSS09TY2FkZW9RNkNDbDMwamJMa1lVc0Vz?oc=5",
           "dot_color": "#e67e22",
@@ -115,7 +65,7 @@
       "tipo": "cierre_parcial",
       "ruta": "autopista México-Puebla y largas filas vehiculares - El Sol de México",
       "descripcion": "Choque múltiple provoca cierre en la autopista México-Puebla y largas filas vehiculares - El Sol de México. Choque múltiple provoca cierre en la autopista México-Puebla y largas filas vehiculares El Sol de México",
-      "fecha": "15 junio 2026 · 15:22 CST",
+      "fecha": "15 junio 2026 · 15:24 CST",
       "fuente": "El Sol de México",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNd25GZWstX3pZeS1WWUhZTE1CcEN3V0VaVWVOTU5QdHFIRDVTT0FiQnQ4Y0dINWVWTl8wMENMUVduZXd5N1l2QzUza212NDJIS0JraVlXWng0QlpkTkNKbm9LUEFKaTlTYWxvRjRGbnBmcEE4UExNb3RQbEZDNENpYWFtX3REOEgtY1NRQzN1RW4xUVdYWGVaakpPTnVSSVhuMnFUWXlGTDJmdzI5eFk2eUlZTHdjY0JSS09TY2FkZW9RNkNDbDMwamJMa1lVc0Vz?oc=5",
       "dot_color": "#e67e22",
@@ -130,37 +80,11 @@
       "descripcion": "Estudiantes BUAP ganan plata en Olimpiada Nacional de Química 2026. Se realizó en Hermosillo, Sonora, donde participaron más de 120 jóvenes de todo el país.",
       "fecha": "15 junio 2026 · 15:00 CST",
       "fuente": "Quadratín Puebla",
-      "url": "https://puebla.quadratin.com.mx/?p=1223191",
+      "url": "https://puebla.quadratin.com.mx/universidad/estudiantes-buap-ganan-plata-en-olimpiada-nacional-de-quimica-2026/",
       "dot_color": "#8e44ad",
       "badge_txt": "BLOQUEO",
       "lat": 29.07,
       "lon": -110.96
-    },
-    {
-      "id": "555c306b",
-      "tipo": "cierre_total",
-      "ruta": "Choque múltiple y volcadura de tráiler paralizan la México-Puebla; un…",
-      "descripcion": "Choque múltiple y volcadura de tráiler paralizan la México-Puebla; un muerto - 8 Columnas. Choque múltiple y volcadura de tráiler paralizan la México-Puebla; un muerto 8 Columnas",
-      "fecha": "15 junio 2026 · 12:54 CST",
-      "fuente": "8 Columnas",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWHljSUxFWnlDU3g5LW8xU0dzT1VOTXJoMVpDOVUwd2gxVHRUN1FBXzViSXRlRjlWTDlZU292d0ZObThLNUJZSFd3V0dKWUlXN1pUQWtmNnZuZXdHS28tYVpFSG12ODFNVjZvMG44T0REdnU4MFVmS2FkeEV6TXlfU3ZSeTRoVjhHY1RFX2xSU0Vla2xfNVVkLUJxOWhvdlNEWEZEV2liOFMwSVl1ZGNv?oc=5",
-      "dot_color": "#e74c3c",
-      "badge_txt": "CIERRE TOTAL",
-      "lat": 19.35,
-      "lon": -98.4
-    },
-    {
-      "id": "b8f9da8f",
-      "tipo": "robo",
-      "ruta": "Regularizarán 89 escuelas de Tlajomulco…",
-      "descripcion": "Regularizarán 89 escuelas de Tlajomulco. El Ayuntamiento aprobó la donación de más de 35 mil metros cuadrados de terrenos a la Secretaría de Educación Jalisco.",
-      "fecha": "15 junio 2026 · 12:51 CST",
-      "fuente": "Quadratín Jalisco",
-      "url": "https://jalisco.quadratin.com.mx/sucesos/regularizaran-89-escuelas-de-tlajomulco/",
-      "dot_color": "#c0392b",
-      "badge_txt": "ROBO",
-      "lat": 20.66,
-      "lon": -103.35
     }
   ]
 }
