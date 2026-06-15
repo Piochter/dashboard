@@ -1,13 +1,11 @@
 {
-  "ultima_actualizacion": "2026-06-15T12:17:37.636271-06:00",
-  "ultima_actualizacion_legible": "15 de junio de 2026 · 12:17 CST",
-  "total": 9,
+  "ultima_actualizacion": "2026-06-15T15:31:52.379511-06:00",
+  "ultima_actualizacion_legible": "15 de junio de 2026 · 15:31 CST",
+  "total": 4,
   "ventana": "últimos 180 minutos",
   "fuentes": [
     "Google News",
-    "Medios regionales",
-    "Quadratín + regionales",
-    "Telegram"
+    "Quadratín + regionales"
   ],
   "grupos": [
     {
@@ -18,20 +16,70 @@
       "col2": false,
       "alertas": [
         {
-          "id": "f71d1e12",
+          "id": "555c306b",
           "tipo": "cierre_total",
-          "ruta": "Caos en la autopista México - Puebla: volcadura de tráiler…",
-          "descripcion": "Caos en la autopista México - Puebla: volcadura de tráiler y carambola provocan cierre total y largas filas - alcancediario.mx. Caos en la autopista México - Puebla: volcadura de tráiler y carambola provocan cierre total y largas filas alcancediario.mx",
+          "ruta": "Choque múltiple y volcadura de tráiler paralizan la México-Puebla; un…",
+          "descripcion": "Choque múltiple y volcadura de tráiler paralizan la México-Puebla; un muerto - 8 Columnas. Choque múltiple y volcadura de tráiler paralizan la México-Puebla; un muerto 8 Columnas",
           "recomendacion": "",
-          "fecha": "15 junio 2026 · 10:11 CST",
-          "fecha_iso": "2026-06-15T10:11:00-06:00",
-          "fuente": "alcancediario.mx",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWXcyNXZEbnhYaHlwZkREMjBONVctRmJXSUZ5WFZ0QlBjT0l3SVhqMmhVMzY3WEwwdTVoVEtRTmI2dTBQcjN0R21EeklsWUJRSmlNbUREQ0YyX0pmU3hWX3FuNDZOM3NEdnB0Zm5RZ29CcU14OUhiajRrOGVTSG5adzFabHRqMGhxNjdQR3VMazdPTzA1V1Q4UU5Bc0VVMXBDazRLM0c3WURQWm1WVkJJMVQwN0JHQnJEZU5naldqZ0Y5Z2Vua182ZmhnbHVBSEpoREVEYlkyZTU?oc=5",
+          "fecha": "15 junio 2026 · 12:54 CST",
+          "fecha_iso": "2026-06-15T12:54:00-06:00",
+          "fuente": "8 Columnas",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWHljSUxFWnlDU3g5LW8xU0dzT1VOTXJoMVpDOVUwd2gxVHRUN1FBXzViSXRlRjlWTDlZU292d0ZObThLNUJZSFd3V0dKWUlXN1pUQWtmNnZuZXdHS28tYVpFSG12ODFNVjZvMG44T0REdnU4MFVmS2FkeEV6TXlfU3ZSeTRoVjhHY1RFX2xSU0Vla2xfNVVkLUJxOWhvdlNEWEZEV2liOFMwSVl1ZGNv?oc=5",
           "dot_color": "#e74c3c",
           "badge": "badge-cierre-total",
           "badge_txt": "CIERRE TOTAL",
           "lat": 19.35,
           "lon": -98.4
+        }
+      ]
+    },
+    {
+      "tipo": "bloqueo",
+      "color": "rojo",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "a8bf59db",
+          "tipo": "bloqueo",
+          "ruta": "Estudiantes BUAP ganan plata en Olimpiada Nacional de Química 2026…",
+          "descripcion": "Estudiantes BUAP ganan plata en Olimpiada Nacional de Química 2026. Se realizó en Hermosillo, Sonora, donde participaron más de 120 jóvenes de todo el país.",
+          "recomendacion": "",
+          "fecha": "15 junio 2026 · 15:00 CST",
+          "fecha_iso": "2026-06-15T15:00:00-06:00",
+          "fuente": "Quadratín Puebla",
+          "url": "https://puebla.quadratin.com.mx/?p=1223191",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 29.07,
+          "lon": -110.96
+        }
+      ]
+    },
+    {
+      "tipo": "robo",
+      "color": "rojo",
+      "icono": "🚨",
+      "label": "ROBOS EN CARRETERA",
+      "col2": true,
+      "alertas": [
+        {
+          "id": "b8f9da8f",
+          "tipo": "robo",
+          "ruta": "Regularizarán 89 escuelas de Tlajomulco…",
+          "descripcion": "Regularizarán 89 escuelas de Tlajomulco. El Ayuntamiento aprobó la donación de más de 35 mil metros cuadrados de terrenos a la Secretaría de Educación Jalisco.",
+          "recomendacion": "",
+          "fecha": "15 junio 2026 · 12:51 CST",
+          "fecha_iso": "2026-06-15T12:51:00-06:00",
+          "fuente": "Quadratín Jalisco",
+          "url": "https://jalisco.quadratin.com.mx/sucesos/regularizaran-89-escuelas-de-tlajomulco/",
+          "dot_color": "#c0392b",
+          "badge": "badge-robo",
+          "badge_txt": "ROBO",
+          "lat": 20.66,
+          "lon": -103.35
         }
       ]
     },
@@ -43,87 +91,13 @@
       "col2": true,
       "alertas": [
         {
-          "id": "603574a3",
-          "tipo": "cierre_parcial",
-          "ruta": "Accidente múltiple paraliza la autopista México-Puebla; reportan un muerto y…",
-          "descripcion": "Accidente múltiple paraliza la autopista México-Puebla; reportan un muerto y varios lesionados - enfoquenoticias.com.mx. Accidente múltiple paraliza la autopista México-Puebla; reportan un muerto y varios lesionados enfoquenoticias.com.mx",
-          "recomendacion": "",
-          "fecha": "15 junio 2026 · 11:01 CST",
-          "fecha_iso": "2026-06-15T11:01:00-06:00",
-          "fuente": "enfoquenoticias.com.mx",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOFdhTzI0bmZKSVJYclNqb042VVV2cEVvNHJIazFPQmtwUGMwYjl3U1M3Uzh5SFFxVUlTQmRHc29Mb2hsMnNWYTAwQXFSbkFWX0Q2RVJUMDUwanEwQUJ0c2EzamhQcDUtNllCSWFtTzNPVWJkTlI0aGdycy1xVU83MXBnNWhaZ2JOOEdISlEyVXBweHU5N3BGNFpJTGMtMjkxdXgwSFVCWlg1VUdwR2JXYw?oc=5",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.35,
-          "lon": -98.4
-        },
-        {
-          "id": "624ae82b",
-          "tipo": "cierre_parcial",
-          "ruta": "Estos fueron los cruces más peligrosos del AMG en 2025…",
-          "descripcion": "Estos fueron los cruces más peligrosos del AMG en 2025. El director General de Seguridad Vial de la Secretaría de Transporte informó las vialidades en las que se presentaron más accidentes durante el año pasado",
-          "recomendacion": "",
-          "fecha": "15 junio 2026 · 10:53 CST",
-          "fecha_iso": "2026-06-15T10:53:00-06:00",
-          "fuente": "El Informador Jalisco",
-          "url": "https://www.informador.mx/jalisco/estos-fueron-los-cruces-mas-peligrosos-del-area-metropolitana-de-guadalajara-en-2025-20260615-0079.html",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
-        },
-        {
-          "id": "b913a894",
-          "tipo": "cierre_parcial",
-          "ruta": "La mayoría de muertes por accidentes viales en el AMG…",
-          "descripcion": "La mayoría de muertes por accidentes viales en el AMG son motociclistas. En el AMG, los hombres motociclistas de entre 18 y 27 años son quienes más fallecieron en accidentes viales el año pasado",
-          "recomendacion": "",
-          "fecha": "15 junio 2026 · 10:40 CST",
-          "fecha_iso": "2026-06-15T10:40:00-06:00",
-          "fuente": "El Informador Jalisco",
-          "url": "https://www.informador.mx/jalisco/la-mayoria-de-muertes-por-accidentes-viales-en-el-amg-son-motociclistas-20260615-0073.html",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
-        },
-        {
-          "id": "c1a29c78",
-          "tipo": "cierre_parcial",
-          "ruta": "El adiós a Oliver Tree: Las canciones icónicas para recordar…",
-          "descripcion": "El adiós a Oliver Tree: Las canciones icónicas para recordar su legado musical. El pasado domingo 14 de junio, Oliver Tree perdió la vida en un accidente de helicóptero en Río de Janeiro; repasamos los éxitos que definieron su inigualable estilo",
-          "recomendacion": "",
-          "fecha": "15 junio 2026 · 10:22 CST",
-          "fecha_iso": "2026-06-15T10:22:00-06:00",
-          "fuente": "El Informador Jalisco",
-          "url": "https://www.informador.mx/entretenimiento/oliver-tree-las-canciones-para-recordar-su-legado-musical-20260615-0068.html",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
-        },
-        {
-          "id": "0db7d38b",
-          "tipo": "cierre_parcial",
-          "ruta": "Autopista México-Puebla: cerrada la circulación por choque múltiple entre tráiler,…",
-          "descripcion": "Autopista México-Puebla: cerrada la circulación por choque múltiple entre tráiler, autobús y autos - La Silla Rota. Autopista México-Puebla: cerrada la circulación por choque múltiple entre tráiler, autobús y autos La Silla Rota",
-          "recomendacion": "",
-          "fecha": "15 junio 2026 · 09:35 CST",
-          "fecha_iso": "2026-06-15T09:35:00-06:00",
-          "fuente": "La Silla Rota",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTFU5cThtaFh6RGFZaHpaNnlvd3NGNlBlUDBPU3ktV3VWeXFiMTFUZzZHV203OEVxSVVxcU12LVVKTm9OUS1Ock1oMU1wLVp5WGxYSklHYkNpZGltYnNONDBLUGtxNkR6U3k2VE9Od1dXX0lmM2ZzZlVmYnpqaGFjSVdpZk1tb2NsNE9iODdsdkZtNjJ6cGNydnhkYVdiWGo5TE5zMnZCWEoyeS1vQVphMDM3Mml3TFJOTVhMZ05DSWc0SlZXRFF6RVFFTTYxM3JTdG56cEd5MlJMcWtmd3RkbTZTTEM?oc=5",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.35,
-          "lon": -98.4
-        },
-        {
           "id": "0375bd87",
           "tipo": "cierre_parcial",
           "ruta": "autopista México-Puebla y largas filas vehiculares - El Sol de México",
           "descripcion": "Choque múltiple provoca cierre en la autopista México-Puebla y largas filas vehiculares - El Sol de México. Choque múltiple provoca cierre en la autopista México-Puebla y largas filas vehiculares El Sol de México",
           "recomendacion": "",
-          "fecha": "15 junio 2026 · 09:24 CST",
-          "fecha_iso": "2026-06-15T09:24:00-06:00",
+          "fecha": "15 junio 2026 · 15:22 CST",
+          "fecha_iso": "2026-06-15T15:22:00-06:00",
           "fuente": "El Sol de México",
           "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNd25GZWstX3pZeS1WWUhZTE1CcEN3V0VaVWVOTU5QdHFIRDVTT0FiQnQ4Y0dINWVWTl8wMENMUVduZXd5N1l2QzUza212NDJIS0JraVlXWng0QlpkTkNKbm9LUEFKaTlTYWxvRjRGbnBmcEE4UExNb3RQbEZDNENpYWFtX3REOEgtY1NRQzN1RW4xUVdYWGVaakpPTnVSSVhuMnFUWXlGTDJmdzI5eFk2eUlZTHdjY0JSS09TY2FkZW9RNkNDbDMwamJMa1lVc0Vz?oc=5",
           "dot_color": "#e67e22",
@@ -131,88 +105,17 @@
           "badge_txt": "CIERRE PARCIAL",
           "lat": 19.35,
           "lon": -98.4
-        },
-        {
-          "id": "881e45fa",
-          "tipo": "cierre_parcial",
-          "ruta": "Fallecen 6 y 12 heridos en accidente de San José…",
-          "descripcion": "Fallecen 6 y 12 heridos en accidente de San José Iturbide, Guanajuato. Involucró a un autobús de pasajeros que viajaba de Puebla a Monterrey, Nuevo León, y a un tractocamión.",
-          "recomendacion": "",
-          "fecha": "15 junio 2026 · 09:22 CST",
-          "fecha_iso": "2026-06-15T09:22:00-06:00",
-          "fuente": "Quadratín Oaxaca",
-          "url": "https://oaxaca.quadratin.com.mx/fallecen-6-y-12-heridos-en-accidente-de-san-jose-iturbide-guanajuato/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.04,
-          "lon": -98.2
-        },
-        {
-          "id": "0f2f7083",
-          "tipo": "cierre_parcial",
-          "ruta": "Choque entre dos vehículos de pasajero deja 13 personas lesionadas…",
-          "descripcion": "Choque entre dos vehículos de pasajero deja 13 personas lesionadas en la [México-Pachuca](http://telegra.ph/Choque-entre-dos-vehículos-de-pasajero-deja-13-personas-lesionadas-en-la-México-Pachuca-06-15)\n\n__via__ [www.elfinanciero.com.mx](https://www.elfinanciero.com.mx/edomex/2026/06/14/choque-entre-dos-vehiculos-de-pasajero-deja-13-personas-lesionadas-en-la-mexico-pachuca/)",
-          "recomendacion": "",
-          "fecha": "15 junio 2026 · 09:20 CST",
-          "fecha_iso": "2026-06-15T09:20:00-06:00",
-          "fuente": "Telegram @NOTMEX",
-          "url": "https://t.me/NOTMEX/183915",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 21.0,
-          "lon": -104.0
         }
       ]
     }
   ],
   "para_mapa": [
     {
-      "id": "603574a3",
-      "tipo": "cierre_parcial",
-      "ruta": "Accidente múltiple paraliza la autopista México-Puebla; reportan un muerto y…",
-      "descripcion": "Accidente múltiple paraliza la autopista México-Puebla; reportan un muerto y varios lesionados - enfoquenoticias.com.mx. Accidente múltiple paraliza la autopista México-Puebla; reportan un muerto y varios lesionados enfoquenoticias.com.mx",
-      "fecha": "15 junio 2026 · 11:01 CST",
-      "fuente": "enfoquenoticias.com.mx",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOFdhTzI0bmZKSVJYclNqb042VVV2cEVvNHJIazFPQmtwUGMwYjl3U1M3Uzh5SFFxVUlTQmRHc29Mb2hsMnNWYTAwQXFSbkFWX0Q2RVJUMDUwanEwQUJ0c2EzamhQcDUtNllCSWFtTzNPVWJkTlI0aGdycy1xVU83MXBnNWhaZ2JOOEdISlEyVXBweHU5N3BGNFpJTGMtMjkxdXgwSFVCWlg1VUdwR2JXYw?oc=5",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.35,
-      "lon": -98.4
-    },
-    {
-      "id": "f71d1e12",
-      "tipo": "cierre_total",
-      "ruta": "Caos en la autopista México - Puebla: volcadura de tráiler…",
-      "descripcion": "Caos en la autopista México - Puebla: volcadura de tráiler y carambola provocan cierre total y largas filas - alcancediario.mx. Caos en la autopista México - Puebla: volcadura de tráiler y carambola provocan cierre total y largas filas alcancediario.mx",
-      "fecha": "15 junio 2026 · 10:11 CST",
-      "fuente": "alcancediario.mx",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWXcyNXZEbnhYaHlwZkREMjBONVctRmJXSUZ5WFZ0QlBjT0l3SVhqMmhVMzY3WEwwdTVoVEtRTmI2dTBQcjN0R21EeklsWUJRSmlNbUREQ0YyX0pmU3hWX3FuNDZOM3NEdnB0Zm5RZ29CcU14OUhiajRrOGVTSG5adzFabHRqMGhxNjdQR3VMazdPTzA1V1Q4UU5Bc0VVMXBDazRLM0c3WURQWm1WVkJJMVQwN0JHQnJEZU5naldqZ0Y5Z2Vua182ZmhnbHVBSEpoREVEYlkyZTU?oc=5",
-      "dot_color": "#e74c3c",
-      "badge_txt": "CIERRE TOTAL",
-      "lat": 19.35,
-      "lon": -98.4
-    },
-    {
-      "id": "0db7d38b",
-      "tipo": "cierre_parcial",
-      "ruta": "Autopista México-Puebla: cerrada la circulación por choque múltiple entre tráiler,…",
-      "descripcion": "Autopista México-Puebla: cerrada la circulación por choque múltiple entre tráiler, autobús y autos - La Silla Rota. Autopista México-Puebla: cerrada la circulación por choque múltiple entre tráiler, autobús y autos La Silla Rota",
-      "fecha": "15 junio 2026 · 09:35 CST",
-      "fuente": "La Silla Rota",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTFU5cThtaFh6RGFZaHpaNnlvd3NGNlBlUDBPU3ktV3VWeXFiMTFUZzZHV203OEVxSVVxcU12LVVKTm9OUS1Ock1oMU1wLVp5WGxYSklHYkNpZGltYnNONDBLUGtxNkR6U3k2VE9Od1dXX0lmM2ZzZlVmYnpqaGFjSVdpZk1tb2NsNE9iODdsdkZtNjJ6cGNydnhkYVdiWGo5TE5zMnZCWEoyeS1vQVphMDM3Mml3TFJOTVhMZ05DSWc0SlZXRFF6RVFFTTYxM3JTdG56cEd5MlJMcWtmd3RkbTZTTEM?oc=5",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.35,
-      "lon": -98.4
-    },
-    {
       "id": "0375bd87",
       "tipo": "cierre_parcial",
       "ruta": "autopista México-Puebla y largas filas vehiculares - El Sol de México",
       "descripcion": "Choque múltiple provoca cierre en la autopista México-Puebla y largas filas vehiculares - El Sol de México. Choque múltiple provoca cierre en la autopista México-Puebla y largas filas vehiculares El Sol de México",
-      "fecha": "15 junio 2026 · 09:24 CST",
+      "fecha": "15 junio 2026 · 15:22 CST",
       "fuente": "El Sol de México",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNd25GZWstX3pZeS1WWUhZTE1CcEN3V0VaVWVOTU5QdHFIRDVTT0FiQnQ4Y0dINWVWTl8wMENMUVduZXd5N1l2QzUza212NDJIS0JraVlXWng0QlpkTkNKbm9LUEFKaTlTYWxvRjRGbnBmcEE4UExNb3RQbEZDNENpYWFtX3REOEgtY1NRQzN1RW4xUVdYWGVaakpPTnVSSVhuMnFUWXlGTDJmdzI5eFk2eUlZTHdjY0JSS09TY2FkZW9RNkNDbDMwamJMa1lVc0Vz?oc=5",
       "dot_color": "#e67e22",
@@ -221,30 +124,43 @@
       "lon": -98.4
     },
     {
-      "id": "881e45fa",
-      "tipo": "cierre_parcial",
-      "ruta": "Fallecen 6 y 12 heridos en accidente de San José…",
-      "descripcion": "Fallecen 6 y 12 heridos en accidente de San José Iturbide, Guanajuato. Involucró a un autobús de pasajeros que viajaba de Puebla a Monterrey, Nuevo León, y a un tractocamión.",
-      "fecha": "15 junio 2026 · 09:22 CST",
-      "fuente": "Quadratín Oaxaca",
-      "url": "https://oaxaca.quadratin.com.mx/fallecen-6-y-12-heridos-en-accidente-de-san-jose-iturbide-guanajuato/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.04,
-      "lon": -98.2
+      "id": "a8bf59db",
+      "tipo": "bloqueo",
+      "ruta": "Estudiantes BUAP ganan plata en Olimpiada Nacional de Química 2026…",
+      "descripcion": "Estudiantes BUAP ganan plata en Olimpiada Nacional de Química 2026. Se realizó en Hermosillo, Sonora, donde participaron más de 120 jóvenes de todo el país.",
+      "fecha": "15 junio 2026 · 15:00 CST",
+      "fuente": "Quadratín Puebla",
+      "url": "https://puebla.quadratin.com.mx/?p=1223191",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 29.07,
+      "lon": -110.96
     },
     {
-      "id": "0f2f7083",
-      "tipo": "cierre_parcial",
-      "ruta": "Choque entre dos vehículos de pasajero deja 13 personas lesionadas…",
-      "descripcion": "Choque entre dos vehículos de pasajero deja 13 personas lesionadas en la [México-Pachuca](http://telegra.ph/Choque-entre-dos-vehículos-de-pasajero-deja-13-personas-lesionadas-en-la-México-Pachuca-06-15)\n\n__via__ [www.elfinanciero.com.mx](https://www.elfinanciero.com.mx/edomex/2026/06/14/choque-entre-dos-vehiculos-de-pasajero-deja-13-personas-lesionadas-en-la-mexico-pachuca/)",
-      "fecha": "15 junio 2026 · 09:20 CST",
-      "fuente": "Telegram @NOTMEX",
-      "url": "https://t.me/NOTMEX/183915",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 21.0,
-      "lon": -104.0
+      "id": "555c306b",
+      "tipo": "cierre_total",
+      "ruta": "Choque múltiple y volcadura de tráiler paralizan la México-Puebla; un…",
+      "descripcion": "Choque múltiple y volcadura de tráiler paralizan la México-Puebla; un muerto - 8 Columnas. Choque múltiple y volcadura de tráiler paralizan la México-Puebla; un muerto 8 Columnas",
+      "fecha": "15 junio 2026 · 12:54 CST",
+      "fuente": "8 Columnas",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWHljSUxFWnlDU3g5LW8xU0dzT1VOTXJoMVpDOVUwd2gxVHRUN1FBXzViSXRlRjlWTDlZU292d0ZObThLNUJZSFd3V0dKWUlXN1pUQWtmNnZuZXdHS28tYVpFSG12ODFNVjZvMG44T0REdnU4MFVmS2FkeEV6TXlfU3ZSeTRoVjhHY1RFX2xSU0Vla2xfNVVkLUJxOWhvdlNEWEZEV2liOFMwSVl1ZGNv?oc=5",
+      "dot_color": "#e74c3c",
+      "badge_txt": "CIERRE TOTAL",
+      "lat": 19.35,
+      "lon": -98.4
+    },
+    {
+      "id": "b8f9da8f",
+      "tipo": "robo",
+      "ruta": "Regularizarán 89 escuelas de Tlajomulco…",
+      "descripcion": "Regularizarán 89 escuelas de Tlajomulco. El Ayuntamiento aprobó la donación de más de 35 mil metros cuadrados de terrenos a la Secretaría de Educación Jalisco.",
+      "fecha": "15 junio 2026 · 12:51 CST",
+      "fuente": "Quadratín Jalisco",
+      "url": "https://jalisco.quadratin.com.mx/sucesos/regularizaran-89-escuelas-de-tlajomulco/",
+      "dot_color": "#c0392b",
+      "badge_txt": "ROBO",
+      "lat": 20.66,
+      "lon": -103.35
     }
   ]
 }
