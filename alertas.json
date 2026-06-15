@@ -1,53 +1,12 @@
 {
-  "ultima_actualizacion": "2026-06-14T17:38:48.364997-06:00",
-  "ultima_actualizacion_legible": "14 de junio de 2026 · 17:38 CST",
-  "total": 4,
+  "ultima_actualizacion": "2026-06-14T20:06:14.949417-06:00",
+  "ultima_actualizacion_legible": "14 de junio de 2026 · 20:06 CST",
+  "total": 1,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Medios regionales",
-    "Quadratín + regionales",
-    "Telegram"
+    "Medios regionales"
   ],
   "grupos": [
-    {
-      "tipo": "bloqueo",
-      "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "dc618f1f",
-          "tipo": "bloqueo",
-          "ruta": "Rechaza CNTE propuestas del Gobierno y acuerda liberar casetas este…",
-          "descripcion": "Rechaza CNTE propuestas del Gobierno y acuerda liberar casetas este lunes. Como parte de su jornada de protesta nacional que inició el 1 de junio",
-          "recomendacion": "",
-          "fecha": "14 junio 2026 · 16:30 CST",
-          "fecha_iso": "2026-06-14T16:30:00-06:00",
-          "fuente": "Quadratín Michoacán",
-          "url": "https://www.quadratin.com.mx/nacionales/rechaza-cnte-propuestas-del-gobierno-y-acuerda-liberar-casetas-este-lunes/",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        },
-        {
-          "id": "0eeec22a",
-          "tipo": "bloqueo",
-          "ruta": "Dará CNTE vía libre en casetas de acceso a CDMX;…",
-          "descripcion": "Dará CNTE vía libre en casetas de acceso a CDMX; fortalecerá plantón e insiste en derogar Ley del ISSSTE. El magisterio disidente convoca a intensificar el plantón en el Zócalo capitalino y activa bloqueos en accesos carreteros tras calificar como insuficientes las propuestas gubernamentales sobre reformas y pensiones.",
-          "recomendacion": "",
-          "fecha": "14 junio 2026 · 16:25 CST",
-          "fecha_iso": "2026-06-14T16:25:00-06:00",
-          "fuente": "AM Guanajuato",
-          "url": "https://www.am.com.mx/nacional/2026/06/14/dara-cnte-via-libre-en-casetas-de-acceso-a-cdmx-fortalecera-planton-e-insiste-en-derogar-ley-del-issste-1806831.html",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 19.43,
-          "lon": -99.13
-        }
-      ]
-    },
     {
       "tipo": "cierre_parcial",
       "color": "amarillo",
@@ -56,29 +15,15 @@
       "col2": true,
       "alertas": [
         {
-          "id": "e84e1810",
+          "id": "1136416a",
           "tipo": "cierre_parcial",
-          "ruta": "Investiga India accidente de avión AN‑32 que dejó 5 militares…",
-          "descripcion": "Investiga India accidente de avión AN‑32 que dejó 5 militares muertos. Un copiloto sobrevivió y fue trasladado para recibir atención médica",
+          "ruta": "Captan fuerte choque entre camión y microbús en la México-Pachuca…",
+          "descripcion": "Captan fuerte choque entre camión y microbús en la México-Pachuca (VIDEOS). Las imágenes evidencian cómo la unidad de transporte público impacta por detrás a un microbús Advertencia: La siguiente nota contiene contenido sensible para algunos lectores",
           "recomendacion": "",
-          "fecha": "14 junio 2026 · 16:19 CST",
-          "fecha_iso": "2026-06-14T16:19:00-06:00",
-          "fuente": "Quadratín Guerrero",
-          "url": "https://guerrero.quadratin.com.mx/investiga-india-accidente-de-avion-an-32-que-dejo-5-militares-muertos/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
-        },
-        {
-          "id": "685b119a",
-          "tipo": "cierre_parcial",
-          "ruta": "🔴 La magnitud del impacto provocó que varias personas quedaran…",
-          "descripcion": "🔴 La magnitud del impacto provocó que varias personas quedaran atrapadas y requirieran atención inmediata https://lajornadaestadodemexico.com/sube-a-13-los-lesionados-por-accidente-vial-en-la-mexico-pachuca/",
-          "recomendacion": "",
-          "fecha": "14 junio 2026 · 14:51 CST",
-          "fecha_iso": "2026-06-14T14:51:00-06:00",
-          "fuente": "Telegram @jornadaedomex",
-          "url": "https://t.me/jornadaedomex/11027",
+          "fecha": "14 junio 2026 · 18:35 CST",
+          "fecha_iso": "2026-06-14T18:35:00-06:00",
+          "fuente": "El Informador Jalisco",
+          "url": "https://www.informador.mx/mexico/mexico-pachuca-captan-fuerte-choque-entre-camion-y-microbus-videos-20260614-0090.html",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL",
@@ -90,26 +35,13 @@
   ],
   "para_mapa": [
     {
-      "id": "0eeec22a",
-      "tipo": "bloqueo",
-      "ruta": "Dará CNTE vía libre en casetas de acceso a CDMX;…",
-      "descripcion": "Dará CNTE vía libre en casetas de acceso a CDMX; fortalecerá plantón e insiste en derogar Ley del ISSSTE. El magisterio disidente convoca a intensificar el plantón en el Zócalo capitalino y activa bloqueos en accesos carreteros tras calificar como insuficientes las propuestas gubernamentales sobre reformas y pensiones.",
-      "fecha": "14 junio 2026 · 16:25 CST",
-      "fuente": "AM Guanajuato",
-      "url": "https://www.am.com.mx/nacional/2026/06/14/dara-cnte-via-libre-en-casetas-de-acceso-a-cdmx-fortalecera-planton-e-insiste-en-derogar-ley-del-issste-1806831.html",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 19.43,
-      "lon": -99.13
-    },
-    {
-      "id": "685b119a",
+      "id": "1136416a",
       "tipo": "cierre_parcial",
-      "ruta": "🔴 La magnitud del impacto provocó que varias personas quedaran…",
-      "descripcion": "🔴 La magnitud del impacto provocó que varias personas quedaran atrapadas y requirieran atención inmediata https://lajornadaestadodemexico.com/sube-a-13-los-lesionados-por-accidente-vial-en-la-mexico-pachuca/",
-      "fecha": "14 junio 2026 · 14:51 CST",
-      "fuente": "Telegram @jornadaedomex",
-      "url": "https://t.me/jornadaedomex/11027",
+      "ruta": "Captan fuerte choque entre camión y microbús en la México-Pachuca…",
+      "descripcion": "Captan fuerte choque entre camión y microbús en la México-Pachuca (VIDEOS). Las imágenes evidencian cómo la unidad de transporte público impacta por detrás a un microbús Advertencia: La siguiente nota contiene contenido sensible para algunos lectores",
+      "fecha": "14 junio 2026 · 18:35 CST",
+      "fuente": "El Informador Jalisco",
+      "url": "https://www.informador.mx/mexico/mexico-pachuca-captan-fuerte-choque-entre-camion-y-microbus-videos-20260614-0090.html",
       "dot_color": "#e67e22",
       "badge_txt": "CIERRE PARCIAL",
       "lat": 20.12,
