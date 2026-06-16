@@ -1,10 +1,11 @@
 {
-  "ultima_actualizacion": "2026-06-16T11:50:59.252190-06:00",
-  "ultima_actualizacion_legible": "16 de junio de 2026 · 11:50 CST",
+  "ultima_actualizacion": "2026-06-16T14:48:02.833255-06:00",
+  "ultima_actualizacion_legible": "16 de junio de 2026 · 14:48 CST",
   "total": 2,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Medios regionales"
+    "Google News",
+    "Quadratín + regionales"
   ],
   "grupos": [
     {
@@ -15,75 +16,35 @@
       "col2": false,
       "alertas": [
         {
-          "id": "6ff4c43a",
+          "id": "c7b60e49",
           "tipo": "bloqueo",
-          "ruta": "Protestas de la CNTE en CDMX HOY 16 de junio;…",
-          "descripcion": "Protestas de la CNTE en CDMX HOY 16 de junio; horarios y vialidades afectadas. Las protestas de la CNTE en Ciudad de México (CDMX) forman parte de la jornada de lucha que el magisterio disidente mantiene para demandar la abrogación de la Ley del ISSSTE de 2007",
+          "ruta": "Bloqueo en Carreteras Hoy: Últimas Noticias por Autopistas Cerradas en…",
+          "descripcion": "Bloqueo en Carreteras Hoy: Últimas Noticias por Autopistas Cerradas en México - N+. Bloqueo en Carreteras Hoy: Últimas Noticias por Autopistas Cerradas en México N+",
           "recomendacion": "",
-          "fecha": "16 junio 2026 · 10:10 CST",
-          "fecha_iso": "2026-06-16T10:10:00-06:00",
-          "fuente": "El Informador Jalisco",
-          "url": "https://www.informador.mx/mexico/manifestaciones-hoy-cnte-horarios-y-vialidades-afectadas-de-este-16-de-junio-20260616-0064.html",
+          "fecha": "16 junio 2026 · 13:27 CST",
+          "fecha_iso": "2026-06-16T13:27:00-06:00",
+          "fuente": "N+",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONTlBMWVBUFZKdnBQUU9VSW1QVzYzUVJ2WS1tWERoUDlHYk5VWWdJb212Z2RXRWhlSVpBQ3AwcUxreFZVczFpLXRETlljUTFCcDBnWDVfb21QazVibmFwTXl3YWtlNVE2QVl0UTg5OUlvV09ZZkF0UDR2QXlWcFZSc2RHenZRNk9ab201eGpCLTNMQjBSS250cnVqdzh3VFNJSTB6UDZHc3Y5UF81V2M0Y05mMWhIWklZ?oc=5",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 19.1,
-          "lon": -104.3
-        }
-      ]
-    },
-    {
-      "tipo": "cierre_parcial",
-      "color": "amarillo",
-      "icono": "🟡",
-      "label": "CIERRE PARCIAL / ACCIDENTES",
-      "col2": true,
-      "alertas": [
+          "badge_txt": "BLOQUEO"
+        },
         {
-          "id": "c2373cde",
-          "tipo": "cierre_parcial",
-          "ruta": "Cae empleo manufacturero en México por cuarto año consecutivo, el…",
-          "descripcion": "Cae empleo manufacturero en México por cuarto año consecutivo, el mayor desplome desde 2009. En México, el personal ocupado total en la industria manufacturera disminuyó 2.49 por ciento anual en enero-abril de 2026 para ser su cuarto año con reducción en lapso comparables y su peor resultado en 17 años.",
+          "id": "dec1ffd2",
+          "tipo": "bloqueo",
+          "ruta": "Entre surrealismo y protestas…",
+          "descripcion": "Entre surrealismo y protestas. Jorge Robledo/ No intentes entender a México desde la razón",
           "recomendacion": "",
-          "fecha": "16 junio 2026 · 10:55 CST",
-          "fecha_iso": "2026-06-16T10:55:00-06:00",
-          "fuente": "AM Guanajuato",
-          "url": "https://www.am.com.mx/economia/2026/06/16/cae-empleo-manufacturero-por-cuarto-ano-consecutivo-1807456.html",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.1,
-          "lon": -104.3
+          "fecha": "16 junio 2026 · 12:14 CST",
+          "fecha_iso": "2026-06-16T12:14:00-06:00",
+          "fuente": "Quadratín Oaxaca",
+          "url": "https://oaxaca.quadratin.com.mx/entre-surrealismo-y-protestas/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
         }
       ]
     }
   ],
-  "para_mapa": [
-    {
-      "id": "c2373cde",
-      "tipo": "cierre_parcial",
-      "ruta": "Cae empleo manufacturero en México por cuarto año consecutivo, el…",
-      "descripcion": "Cae empleo manufacturero en México por cuarto año consecutivo, el mayor desplome desde 2009. En México, el personal ocupado total en la industria manufacturera disminuyó 2.49 por ciento anual en enero-abril de 2026 para ser su cuarto año con reducción en lapso comparables y su peor resultado en 17 años.",
-      "fecha": "16 junio 2026 · 10:55 CST",
-      "fuente": "AM Guanajuato",
-      "url": "https://www.am.com.mx/economia/2026/06/16/cae-empleo-manufacturero-por-cuarto-ano-consecutivo-1807456.html",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.1,
-      "lon": -104.3
-    },
-    {
-      "id": "6ff4c43a",
-      "tipo": "bloqueo",
-      "ruta": "Protestas de la CNTE en CDMX HOY 16 de junio;…",
-      "descripcion": "Protestas de la CNTE en CDMX HOY 16 de junio; horarios y vialidades afectadas. Las protestas de la CNTE en Ciudad de México (CDMX) forman parte de la jornada de lucha que el magisterio disidente mantiene para demandar la abrogación de la Ley del ISSSTE de 2007",
-      "fecha": "16 junio 2026 · 10:10 CST",
-      "fuente": "El Informador Jalisco",
-      "url": "https://www.informador.mx/mexico/manifestaciones-hoy-cnte-horarios-y-vialidades-afectadas-de-este-16-de-junio-20260616-0064.html",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 19.1,
-      "lon": -104.3
-    }
-  ]
+  "para_mapa": []
 }
