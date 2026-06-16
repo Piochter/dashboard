@@ -1,51 +1,12 @@
 {
-  "ultima_actualizacion": "2026-06-16T01:44:11.522124-06:00",
-  "ultima_actualizacion_legible": "16 de junio de 2026 · 01:44 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-06-16T06:33:52.469265-06:00",
+  "ultima_actualizacion_legible": "16 de junio de 2026 · 06:33 CST",
+  "total": 0,
   "ventana": "últimos 180 minutos",
   "fuentes": [
     "Google News"
   ],
-  "grupos": [
-    {
-      "tipo": "bloqueo",
-      "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "7934c192",
-          "tipo": "bloqueo",
-          "ruta": "¿Qué pasó en la México-Toluca? Reportan bloqueo y quema de…",
-          "descripcion": "¿Qué pasó en la México-Toluca? Reportan bloqueo y quema de vehículos - La Crónica de Hoy. ¿Qué pasó en la México-Toluca? Reportan bloqueo y quema de vehículos La Crónica de Hoy",
-          "recomendacion": "",
-          "fecha": "15 junio 2026 · 23:04 CST",
-          "fecha_iso": "2026-06-15T23:04:00-06:00",
-          "fuente": "La Crónica de Hoy",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTjJOMXEtZ2F0RkNCTjBCWGVTZkpEVEVFWFpabU12MDA3akR4cmlBOGZfU2pmdUJpQ3Y3ZFBvOXhORkpZcjMwWkdUUE1ZMF9hSEFVS0szUy1YLTRYc05kVE9ibkFmSHgzZ1l0UzBlSjRTSlFxRFJ3Yjc3Q0YtYmxRelhWOTlRU2hSLUtSZ2pNNmpRVVFOYXI4ajUyakt5QTRiOGZOOVJldjkwaXo1ZnhGbDdJS3Q?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 19.29,
-          "lon": -99.66
-        }
-      ]
-    }
-  ],
-  "para_mapa": [
-    {
-      "id": "7934c192",
-      "tipo": "bloqueo",
-      "ruta": "¿Qué pasó en la México-Toluca? Reportan bloqueo y quema de…",
-      "descripcion": "¿Qué pasó en la México-Toluca? Reportan bloqueo y quema de vehículos - La Crónica de Hoy. ¿Qué pasó en la México-Toluca? Reportan bloqueo y quema de vehículos La Crónica de Hoy",
-      "fecha": "15 junio 2026 · 23:04 CST",
-      "fuente": "La Crónica de Hoy",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTjJOMXEtZ2F0RkNCTjBCWGVTZkpEVEVFWFpabU12MDA3akR4cmlBOGZfU2pmdUJpQ3Y3ZFBvOXhORkpZcjMwWkdUUE1ZMF9hSEFVS0szUy1YLTRYc05kVE9ibkFmSHgzZ1l0UzBlSjRTSlFxRFJ3Yjc3Q0YtYmxRelhWOTlRU2hSLUtSZ2pNNmpRVVFOYXI4ajUyakt5QTRiOGZOOVJldjkwaXo1ZnhGbDdJS3Q?oc=5",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 19.29,
-      "lon": -99.66
-    }
-  ]
+  "grupos": [],
+  "para_mapa": [],
+  "nota": "Sin alertas activas en la ventana de tiempo configurada."
 }
