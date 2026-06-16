@@ -1,10 +1,11 @@
 {
-  "ultima_actualizacion": "2026-06-15T17:22:18.593567-06:00",
-  "ultima_actualizacion_legible": "15 de junio de 2026 · 17:22 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-06-15T20:08:05.953866-06:00",
+  "ultima_actualizacion_legible": "15 de junio de 2026 · 20:08 CST",
+  "total": 4,
   "ventana": "últimos 180 minutos",
   "fuentes": [
     "Google News",
+    "Medios regionales",
     "Quadratín + regionales"
   ],
   "grupos": [
@@ -16,20 +17,61 @@
       "col2": false,
       "alertas": [
         {
-          "id": "a8bf59db",
+          "id": "dc9f92f0",
           "tipo": "bloqueo",
-          "ruta": "Estudiantes BUAP ganan plata en Olimpiada Nacional de Química 2026…",
-          "descripcion": "Estudiantes BUAP ganan plata en Olimpiada Nacional de Química 2026. Se realizó en Hermosillo, Sonora, donde participaron más de 120 jóvenes de todo el país.",
+          "ruta": "¿Qué Pasó en la México-Toluca Hoy? Reportan Bloqueo y Quema…",
+          "descripcion": "¿Qué Pasó en la México-Toluca Hoy? Reportan Bloqueo y Quema de Vehículos - N+. ¿Qué Pasó en la México-Toluca Hoy? Reportan Bloqueo y Quema de Vehículos N+",
           "recomendacion": "",
-          "fecha": "15 junio 2026 · 15:00 CST",
-          "fecha_iso": "2026-06-15T15:00:00-06:00",
-          "fuente": "Quadratín Puebla",
-          "url": "https://puebla.quadratin.com.mx/universidad/estudiantes-buap-ganan-plata-en-olimpiada-nacional-de-quimica-2026/",
+          "fecha": "15 junio 2026 · 19:16 CST",
+          "fecha_iso": "2026-06-15T19:16:00-06:00",
+          "fuente": "N+",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaWpmWTRkaDhOcHhNV1VnMUgzSWpvWnpLNTZaa2JCX2J0NjF1b242eE43cHVCU3pFOHpGc2tXQm9PUklOX28tR0hEd3F2SmdVaFJJelhUNDVyTGJLWXg5LXV2aUF4dE9HYjdWV2lSTFZGM3Y4TTJzZU9pRVlLNXM4R0l0SDRSTnVFdi1tVW41RWdfUm9ObnBCeVgxYXlhLVJOWW12dUhxc2k?oc=5",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO",
-          "lat": 29.07,
-          "lon": -110.96
+          "lat": 19.29,
+          "lon": -99.66
+        },
+        {
+          "id": "1d626333",
+          "tipo": "bloqueo",
+          "ruta": "Prometen mejores carreteras y seguridad para transporte de carga…",
+          "descripcion": "Prometen mejores carreteras y seguridad para transporte de carga. El mandatario acudió a la toma de protesta de la Mesa Directiva 2026-2027 de CANACAR Jalisco,",
+          "recomendacion": "",
+          "fecha": "15 junio 2026 · 17:55 CST",
+          "fecha_iso": "2026-06-15T17:55:00-06:00",
+          "fuente": "Quadratín Jalisco",
+          "url": "https://jalisco.quadratin.com.mx/principal/prometen-mejores-carreteras-y-seguridad-para-transporte-de-carga/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 20.66,
+          "lon": -103.35
+        }
+      ]
+    },
+    {
+      "tipo": "robo",
+      "color": "rojo",
+      "icono": "🚨",
+      "label": "ROBOS EN CARRETERA",
+      "col2": true,
+      "alertas": [
+        {
+          "id": "73eb8755",
+          "tipo": "robo",
+          "ruta": "Aseguran más de 110 mil litros de combustible y una…",
+          "descripcion": "Aseguran más de 110 mil litros de combustible y una pipa en Guanajuato. Este hallazgo vinculado al robo de hidrocarburos, fue puesto a disposición de la Fiscalía General de la República",
+          "recomendacion": "",
+          "fecha": "15 junio 2026 · 19:56 CST",
+          "fecha_iso": "2026-06-15T19:56:00-06:00",
+          "fuente": "El Informador Jalisco",
+          "url": "https://www.informador.mx/mexico/aseguran-mas-de-110-mil-litros-de-combustible-y-una-pipa-en-guanajuato-20260615-0187.html",
+          "dot_color": "#c0392b",
+          "badge": "badge-robo",
+          "badge_txt": "ROBO",
+          "lat": 21.02,
+          "lon": -101.26
         }
       ]
     },
@@ -41,50 +83,61 @@
       "col2": true,
       "alertas": [
         {
-          "id": "0375bd87",
+          "id": "de572526",
           "tipo": "cierre_parcial",
-          "ruta": "autopista México-Puebla y largas filas vehiculares - El Sol de México",
-          "descripcion": "Choque múltiple provoca cierre en la autopista México-Puebla y largas filas vehiculares - El Sol de México. Choque múltiple provoca cierre en la autopista México-Puebla y largas filas vehiculares El Sol de México",
+          "ruta": "Mueren los 8 tripulantes que viajaban en el bombardero B-52…",
+          "descripcion": "Mueren los 8 tripulantes que viajaban en el bombardero B-52 estrellado en California. De acuerdo con la Base Edwards de la Fuerza Aérea, no hubo sobrevivientes tras el terrible accidente",
           "recomendacion": "",
-          "fecha": "15 junio 2026 · 15:24 CST",
-          "fecha_iso": "2026-06-15T15:24:00-06:00",
-          "fuente": "El Sol de México",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNd25GZWstX3pZeS1WWUhZTE1CcEN3V0VaVWVOTU5QdHFIRDVTT0FiQnQ4Y0dINWVWTl8wMENMUVduZXd5N1l2QzUza212NDJIS0JraVlXWng0QlpkTkNKbm9LUEFKaTlTYWxvRjRGbnBmcEE4UExNb3RQbEZDNENpYWFtX3REOEgtY1NRQzN1RW4xUVdYWGVaakpPTnVSSVhuMnFUWXlGTDJmdzI5eFk2eUlZTHdjY0JSS09TY2FkZW9RNkNDbDMwamJMa1lVc0Vz?oc=5",
+          "fecha": "15 junio 2026 · 17:52 CST",
+          "fecha_iso": "2026-06-15T17:52:00-06:00",
+          "fuente": "El Informador Jalisco",
+          "url": "https://www.informador.mx/internacional/estados-unidos-mueren-los-8-tripulantes-que-viajaban-en-el--bombardero-b-52-que-se-estrello-en-california-20260615-0165.html",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.35,
-          "lon": -98.4
+          "badge_txt": "CIERRE PARCIAL"
         }
       ]
     }
   ],
   "para_mapa": [
     {
-      "id": "0375bd87",
-      "tipo": "cierre_parcial",
-      "ruta": "autopista México-Puebla y largas filas vehiculares - El Sol de México",
-      "descripcion": "Choque múltiple provoca cierre en la autopista México-Puebla y largas filas vehiculares - El Sol de México. Choque múltiple provoca cierre en la autopista México-Puebla y largas filas vehiculares El Sol de México",
-      "fecha": "15 junio 2026 · 15:24 CST",
-      "fuente": "El Sol de México",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNd25GZWstX3pZeS1WWUhZTE1CcEN3V0VaVWVOTU5QdHFIRDVTT0FiQnQ4Y0dINWVWTl8wMENMUVduZXd5N1l2QzUza212NDJIS0JraVlXWng0QlpkTkNKbm9LUEFKaTlTYWxvRjRGbnBmcEE4UExNb3RQbEZDNENpYWFtX3REOEgtY1NRQzN1RW4xUVdYWGVaakpPTnVSSVhuMnFUWXlGTDJmdzI5eFk2eUlZTHdjY0JSS09TY2FkZW9RNkNDbDMwamJMa1lVc0Vz?oc=5",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.35,
-      "lon": -98.4
+      "id": "73eb8755",
+      "tipo": "robo",
+      "ruta": "Aseguran más de 110 mil litros de combustible y una…",
+      "descripcion": "Aseguran más de 110 mil litros de combustible y una pipa en Guanajuato. Este hallazgo vinculado al robo de hidrocarburos, fue puesto a disposición de la Fiscalía General de la República",
+      "fecha": "15 junio 2026 · 19:56 CST",
+      "fuente": "El Informador Jalisco",
+      "url": "https://www.informador.mx/mexico/aseguran-mas-de-110-mil-litros-de-combustible-y-una-pipa-en-guanajuato-20260615-0187.html",
+      "dot_color": "#c0392b",
+      "badge_txt": "ROBO",
+      "lat": 21.02,
+      "lon": -101.26
     },
     {
-      "id": "a8bf59db",
+      "id": "dc9f92f0",
       "tipo": "bloqueo",
-      "ruta": "Estudiantes BUAP ganan plata en Olimpiada Nacional de Química 2026…",
-      "descripcion": "Estudiantes BUAP ganan plata en Olimpiada Nacional de Química 2026. Se realizó en Hermosillo, Sonora, donde participaron más de 120 jóvenes de todo el país.",
-      "fecha": "15 junio 2026 · 15:00 CST",
-      "fuente": "Quadratín Puebla",
-      "url": "https://puebla.quadratin.com.mx/universidad/estudiantes-buap-ganan-plata-en-olimpiada-nacional-de-quimica-2026/",
+      "ruta": "¿Qué Pasó en la México-Toluca Hoy? Reportan Bloqueo y Quema…",
+      "descripcion": "¿Qué Pasó en la México-Toluca Hoy? Reportan Bloqueo y Quema de Vehículos - N+. ¿Qué Pasó en la México-Toluca Hoy? Reportan Bloqueo y Quema de Vehículos N+",
+      "fecha": "15 junio 2026 · 19:16 CST",
+      "fuente": "N+",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaWpmWTRkaDhOcHhNV1VnMUgzSWpvWnpLNTZaa2JCX2J0NjF1b242eE43cHVCU3pFOHpGc2tXQm9PUklOX28tR0hEd3F2SmdVaFJJelhUNDVyTGJLWXg5LXV2aUF4dE9HYjdWV2lSTFZGM3Y4TTJzZU9pRVlLNXM4R0l0SDRSTnVFdi1tVW41RWdfUm9ObnBCeVgxYXlhLVJOWW12dUhxc2k?oc=5",
       "dot_color": "#8e44ad",
       "badge_txt": "BLOQUEO",
-      "lat": 29.07,
-      "lon": -110.96
+      "lat": 19.29,
+      "lon": -99.66
+    },
+    {
+      "id": "1d626333",
+      "tipo": "bloqueo",
+      "ruta": "Prometen mejores carreteras y seguridad para transporte de carga…",
+      "descripcion": "Prometen mejores carreteras y seguridad para transporte de carga. El mandatario acudió a la toma de protesta de la Mesa Directiva 2026-2027 de CANACAR Jalisco,",
+      "fecha": "15 junio 2026 · 17:55 CST",
+      "fuente": "Quadratín Jalisco",
+      "url": "https://jalisco.quadratin.com.mx/principal/prometen-mejores-carreteras-y-seguridad-para-transporte-de-carga/",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 20.66,
+      "lon": -103.35
     }
   ]
 }
