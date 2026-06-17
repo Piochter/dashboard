@@ -1,12 +1,65 @@
 {
-  "ultima_actualizacion": "2026-06-17T04:15:08.631505-06:00",
-  "ultima_actualizacion_legible": "17 de junio de 2026 · 04:15 CST",
-  "total": 0,
+  "ultima_actualizacion": "2026-06-17T08:03:58.044858-06:00",
+  "ultima_actualizacion_legible": "17 de junio de 2026 · 08:03 CST",
+  "total": 3,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Google News"
+    "Google News",
+    "Medios nacionales",
+    "Quadratín + regionales"
   ],
-  "grupos": [],
-  "para_mapa": [],
-  "nota": "Sin alertas activas en la ventana de tiempo configurada."
+  "grupos": [
+    {
+      "tipo": "bloqueo",
+      "color": "rojo",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "b11405e2",
+          "tipo": "bloqueo",
+          "ruta": "Descomplicado…",
+          "descripcion": "Descomplicado. Entre surrealismo y protestas, México es el país más surrealista del mundo",
+          "recomendacion": "",
+          "fecha": "17 junio 2026 · 07:50 CST",
+          "fecha_iso": "2026-06-17T07:50:00-06:00",
+          "fuente": "Quadratín Jalisco",
+          "url": "https://jalisco.quadratin.com.mx/opinion/descomplicado-45/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
+        {
+          "id": "114a999d",
+          "tipo": "bloqueo",
+          "ruta": "Protesta de transportistas bloquea Chimalhuacán, piden liberar a líder de…",
+          "descripcion": "Protesta de transportistas bloquea Chimalhuacán, piden liberar a líder de ruta 101. Chimalhuacán vivió una jornada de más de 12 horas de caos luego de que transportistas de la ruta 101 cerraran vialidades clave.",
+          "recomendacion": "",
+          "fecha": "17 junio 2026 · 07:31 CST",
+          "fecha_iso": "2026-06-17T07:31:00-06:00",
+          "fuente": "24 Horas",
+          "url": "https://24-horas.mx/estados/protesta-de-transportistas-bloquea-chimalhuacan-piden-liberar-a-lider-de-ruta-101/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
+        {
+          "id": "e042698d",
+          "tipo": "bloqueo",
+          "ruta": "Bloqueos carreteras HOY 17 de junio: Autopistas cerradas en México,…",
+          "descripcion": "Bloqueos carreteras HOY 17 de junio: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 17 de junio: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
+          "recomendacion": "",
+          "fecha": "17 junio 2026 · 07:16 CST",
+          "fecha_iso": "2026-06-17T07:16:00-06:00",
+          "fuente": "Eje Central",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPYXhXMEljR2t4TXA5VDlia0ZvcEZENEkteWI5SHFMTEZRcDNxRjFpcGlNWGVvUVI3YXlMMEtZdGM2M3Z4czhReU10bXpZMjB5QW9Ddi14eG5IdTNtdkI1cFlGZDd3S0Q4NnRsWk5xbm9LNEpvQm11Z3o0ckU5WEJoUXZPVUw3S1F3Z3UyWm1fbFBXTW11TGVJcGZfblFyV3o0V3lVSGZMeC1XMzhreU4zbHRXVjk3VEdkZUhfYjJPYXpZdzNuODNVSjhIY0hSX1VDNzBZSHIwYzVDbWdtOVlnbkNoZXdsZG8?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        }
+      ]
+    }
+  ],
+  "para_mapa": []
 }
