@@ -1,13 +1,12 @@
 {
-  "ultima_actualizacion": "2026-06-16T18:15:24.044439-06:00",
-  "ultima_actualizacion_legible": "16 de junio de 2026 · 18:15 CST",
-  "total": 5,
+  "ultima_actualizacion": "2026-06-16T23:19:50.106546-06:00",
+  "ultima_actualizacion_legible": "16 de junio de 2026 · 23:19 CST",
+  "total": 3,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Google News",
+    "Medios nacionales",
     "Medios regionales",
-    "Quadratín + regionales",
-    "Telegram"
+    "Quadratín + regionales"
   ],
   "grupos": [
     {
@@ -18,57 +17,18 @@
       "col2": false,
       "alertas": [
         {
-          "id": "52e8c816",
+          "id": "01f4aa23",
           "tipo": "cierre_total",
-          "ruta": "Alerta UEPCBJ por derrumbes y caída de rocas en rutas…",
-          "descripcion": "Alerta UEPCBJ por derrumbes y caída de rocas en rutas de la Costa Norte. (UEPCBJ) hizo un llamado urgente a los automovilistas a extremar precauciones al circular por los tramos carreteros de la región Costa Norte",
+          "ruta": "Impulsa Ecatepec rescate de El Caracol, frenará inundaciones y hundimientos…",
+          "descripcion": "Impulsa Ecatepec rescate de El Caracol, frenará inundaciones y hundimientos. En Ecatepec se impulsa la creación del proyecto humedal El Caracol, que contempla el rescate de 800 hectáreas de esta Área Natural Protegida.",
           "recomendacion": "",
-          "fecha": "16 junio 2026 · 15:46 CST",
-          "fecha_iso": "2026-06-16T15:46:00-06:00",
-          "fuente": "Quadratín Jalisco",
-          "url": "https://jalisco.quadratin.com.mx/puerto-vallarta/alerta-uepcbj-por-derrumbes-y-caida-de-rocas-en-rutas-de-la-costa-norte/",
+          "fecha": "16 junio 2026 · 20:20 CST",
+          "fecha_iso": "2026-06-16T20:20:00-06:00",
+          "fuente": "24 Horas",
+          "url": "https://24-horas.mx/estados/impulsa-ecatepec-rescate-de-el-caracol-frenara-inundaciones-y-hundimientos/",
           "dot_color": "#e74c3c",
           "badge": "badge-cierre-total",
           "badge_txt": "CIERRE TOTAL"
-        }
-      ]
-    },
-    {
-      "tipo": "bloqueo",
-      "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "c73520f4",
-          "tipo": "bloqueo",
-          "ruta": "🚨 #AlertaVial | Periférico Norte colapsado por bloqueo de transportistas👇…",
-          "descripcion": "🚨 #AlertaVial | Periférico Norte colapsado por bloqueo de transportistas👇\n https://lajornadaestadodemexico.com/periferico-norte-colapsado-por-bloqueo-de-transportistas/",
-          "recomendacion": "",
-          "fecha": "16 junio 2026 · 17:18 CST",
-          "fecha_iso": "2026-06-16T17:18:00-06:00",
-          "fuente": "Telegram @jornadaedomex",
-          "url": "https://t.me/jornadaedomex/11067",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        },
-        {
-          "id": "8405a051",
-          "tipo": "bloqueo",
-          "ruta": "Bloqueo sorpresivo en la carretera México-Pachuca este martes; es en…",
-          "descripcion": "Bloqueo sorpresivo en la carretera México-Pachuca este martes; es en ambos sentidos - La Silla Rota. Bloqueo sorpresivo en la carretera México-Pachuca este martes; es en ambos sentidos La Silla Rota",
-          "recomendacion": "",
-          "fecha": "16 junio 2026 · 16:23 CST",
-          "fecha_iso": "2026-06-16T16:23:00-06:00",
-          "fuente": "La Silla Rota",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSXdzd0s2NWRDMURwX2VqRlVSQXlYUUVBS09TYl9iTXAwdWlJOFpUREk1TUxaaTZTRXZxemV2REFzV1MyUmNoSEJPbUM2aWtBc1hENVNvaW1JX3JzYmtvbFJ3X1lKTzV4a3B6TUFvaW5lMHRPV29HTm9zX0VKVWJKdjc4RUdmdHdwUzFxMGFkc01MT0dQMWxCTlZhQXhXYTBjWV9GeU9tWmlsRVA4QkFyNU91cGN5M2dJdHhSSzBLR2N1ak12bFFWVXh4bGpDUTFxWGo3blc0QU1kQQ?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 20.12,
-          "lon": -98.73
         }
       ]
     },
@@ -80,49 +40,44 @@
       "col2": true,
       "alertas": [
         {
-          "id": "07657ff5",
+          "id": "e255d2ec",
           "tipo": "cierre_parcial",
-          "ruta": "Caen más de 100 alcoholizados al \"Torito\", algunos de ellos…",
-          "descripcion": "Caen más de 100 alcoholizados al \"Torito\", algunos de ellos fueron identificados tras percances viales. Los operativos de alcoholimetría tienen como objetivo sacar de circulación a conductores que ponen en riesgo la seguridad vial",
+          "ruta": "MUERE excursionista en Brasil: resbaló mientras se aplicaba repelente y…",
+          "descripcion": "MUERE excursionista en Brasil: resbaló mientras se aplicaba repelente y cayó al vacío. El sangriento accidente ocurrió el domingo 14 de junio del 2026 en la zona conocida como Gruta do Spar",
           "recomendacion": "",
-          "fecha": "16 junio 2026 · 17:34 CST",
-          "fecha_iso": "2026-06-16T17:34:00-06:00",
+          "fecha": "16 junio 2026 · 22:07 CST",
+          "fecha_iso": "2026-06-16T22:07:00-06:00",
           "fuente": "El Informador Jalisco",
-          "url": "https://www.informador.mx/jalisco/caen-mas-de-100-alcoholizados-al-torito-algunos-de-ellos-fueron-identificados-tras-percances-viales-20260616-0166.html",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
-        },
-        {
-          "id": "5f9af99b",
-          "tipo": "cierre_parcial",
-          "ruta": "Anuncian la venta de Pizza Hut, 'el eslabón débil' de…",
-          "descripcion": "Anuncian la venta de Pizza Hut, 'el eslabón débil' de Yum Brands, por dos mil 700 MDD. Luego de afrontar varios años del cierre de sus locales y caídas en sus ventas, la pizzería le pone fin a toda una era en la comida rápida",
-          "recomendacion": "",
-          "fecha": "16 junio 2026 · 15:38 CST",
-          "fecha_iso": "2026-06-16T15:38:00-06:00",
-          "fuente": "El Informador Jalisco",
-          "url": "https://www.informador.mx/economia/competencia-y-servicio-de-delivering-tumban-a-pizza-hut-la-cadena-de-restaurantes-sera-vendida-por-esta-impresionante-suma-20260616-0145.html",
+          "url": "https://www.informador.mx/internacional/muere-excursionista-en-brasil-resbalo-mientras-se-aplicaba-repelente-y-cayo-a-un-precipicio-de-30-metros-20260616-0205.html",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL"
         }
       ]
+    },
+    {
+      "tipo": "clima",
+      "color": "azul",
+      "icono": "🌧️",
+      "label": "ALERTA METEOROLÓGICA",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "964a408f",
+          "tipo": "clima",
+          "ruta": "Reporta PC de Córdoba saldo blanco tras lluvia y granizo…",
+          "descripcion": "Reporta PC de Córdoba saldo blanco tras lluvia y granizo. Bloqueada la carretera Coscomatepec - Huatusco",
+          "recomendacion": "",
+          "fecha": "16 junio 2026 · 22:19 CST",
+          "fecha_iso": "2026-06-16T22:19:00-06:00",
+          "fuente": "Quadratín Veracruz",
+          "url": "https://veracruz.quadratin.com.mx/reporta-pc-de-cordoba-saldo-blanco-tras-lluvia-y-granizo/",
+          "dot_color": "#3498db",
+          "badge": "badge-clima",
+          "badge_txt": "ALERTA CLIMA"
+        }
+      ]
     }
   ],
-  "para_mapa": [
-    {
-      "id": "8405a051",
-      "tipo": "bloqueo",
-      "ruta": "Bloqueo sorpresivo en la carretera México-Pachuca este martes; es en…",
-      "descripcion": "Bloqueo sorpresivo en la carretera México-Pachuca este martes; es en ambos sentidos - La Silla Rota. Bloqueo sorpresivo en la carretera México-Pachuca este martes; es en ambos sentidos La Silla Rota",
-      "fecha": "16 junio 2026 · 16:23 CST",
-      "fuente": "La Silla Rota",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSXdzd0s2NWRDMURwX2VqRlVSQXlYUUVBS09TYl9iTXAwdWlJOFpUREk1TUxaaTZTRXZxemV2REFzV1MyUmNoSEJPbUM2aWtBc1hENVNvaW1JX3JzYmtvbFJ3X1lKTzV4a3B6TUFvaW5lMHRPV29HTm9zX0VKVWJKdjc4RUdmdHdwUzFxMGFkc01MT0dQMWxCTlZhQXhXYTBjWV9GeU9tWmlsRVA4QkFyNU91cGN5M2dJdHhSSzBLR2N1ak12bFFWVXh4bGpDUTFxWGo3blc0QU1kQQ?oc=5",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 20.12,
-      "lon": -98.73
-    }
-  ]
+  "para_mapa": []
 }
