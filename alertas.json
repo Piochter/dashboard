@@ -1,11 +1,10 @@
 {
-  "ultima_actualizacion": "2026-06-17T15:36:10.237125-06:00",
-  "ultima_actualizacion_legible": "17 de junio de 2026 · 15:36 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-06-17T17:09:38.252646-06:00",
+  "ultima_actualizacion_legible": "17 de junio de 2026 · 17:09 CST",
+  "total": 2,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Google News",
-    "Telegram"
+    "Google News"
   ],
   "grupos": [
     {
@@ -28,20 +27,6 @@
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO"
-        },
-        {
-          "id": "38e39a53",
-          "tipo": "bloqueo",
-          "ruta": "EN VIVO: Bloqueos en carreteras de México HOY 17 de…",
-          "descripcion": "EN VIVO: Bloqueos en carreteras de México HOY 17 de junio 2026: ¿Qué pasa en las autopistas? - TV Azteca. EN VIVO: Bloqueos en carreteras de México HOY 17 de junio 2026: ¿Qué pasa en las autopistas? TV Azteca",
-          "recomendacion": "",
-          "fecha": "17 junio 2026 · 12:55 CST",
-          "fecha_iso": "2026-06-17T12:55:00-06:00",
-          "fuente": "TV Azteca",
-          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQXzl0NDlKNml1UC1WbUVxNUsyZm9aM1doUjV1M0xpY3Z0UlRBdzBGMjlLSFhEM3c5Vk00V3J1Zzc1RWdjLVNLWlhKRTVfZDVfOV80OUI4NmdzSmFOUE9iQVpsblVUbEJGVVJQdnpUbzQyX21rbUIxbmREWWZLVTdic2FmeXl4WkpRVzhMZldzbkZLYmM3S2NxOXJIWGJjTnpaOGRwQWNoblVkc1pneUE4LW5FTUdDYlpZRGtWZ2J4NGJTYkU5U2dxQlNtT1N2andsM3pSX3BQbFRrQjJVTjRtdWRGRmJzTjBvWVVqODlGOXh3MDNJTldOWlBYMUF2OHk4?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
         }
       ]
     },
@@ -53,21 +38,37 @@
       "col2": true,
       "alertas": [
         {
-          "id": "60095f7c",
+          "id": "f77cb52d",
           "tipo": "cierre_parcial",
-          "ruta": "🚧#Urgente | Tráiler sufre accidente en la carretera Tula–Atlacomulco; hay…",
-          "descripcion": "🚧#Urgente | Tráiler sufre accidente en la carretera Tula–Atlacomulco; hay afectación en la zona 👇\n https://lajornadaestadodemexico.com/trailer-sufre-accidente-en-la-carretera-tulaatlacomulco-hay-afectacion-en-la-zona/",
+          "ruta": "Accidente de Camioneta de Carga en la Autopista México-Puebla ¿Hay…",
+          "descripcion": "Accidente de Camioneta de Carga en la Autopista México-Puebla ¿Hay Paso? - N+. Accidente de Camioneta de Carga en la Autopista México-Puebla ¿Hay Paso? N+",
           "recomendacion": "",
-          "fecha": "17 junio 2026 · 13:16 CST",
-          "fecha_iso": "2026-06-17T13:16:00-06:00",
-          "fuente": "Telegram @jornadaedomex",
-          "url": "https://t.me/jornadaedomex/11077",
+          "fecha": "17 junio 2026 · 15:00 CST",
+          "fecha_iso": "2026-06-17T15:00:00-06:00",
+          "fuente": "N+",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxORVo0dV81WDV1VU1NbzNiYzN1WUsxY0F2Y09TeHRKRm0zN3piUXlCcUctb2xaMnowbjF0UUJUMXZLNkt6dXM5cmZ1cm50THFVQ0U0X0E4YVA4c2VjLVZnMHI4MW44UnJMZG1ET2JMREFfRTZReWVVT3ptVDFpZm9WOFM4aGRHUWhWeEc5MlhIN1JOa2cyVFprZFZWY0YwdUpwbHdSNS10Uzc4WFdIRVdtV3Y1ZjEwR2MtYVFHZWF6NWVjRkptR1dSUTlMMXUwOXlTSmcwWTNFbkFKdw?oc=5",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 19.35,
+          "lon": -98.4
         }
       ]
     }
   ],
-  "para_mapa": []
+  "para_mapa": [
+    {
+      "id": "f77cb52d",
+      "tipo": "cierre_parcial",
+      "ruta": "Accidente de Camioneta de Carga en la Autopista México-Puebla ¿Hay…",
+      "descripcion": "Accidente de Camioneta de Carga en la Autopista México-Puebla ¿Hay Paso? - N+. Accidente de Camioneta de Carga en la Autopista México-Puebla ¿Hay Paso? N+",
+      "fecha": "17 junio 2026 · 15:00 CST",
+      "fuente": "N+",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxORVo0dV81WDV1VU1NbzNiYzN1WUsxY0F2Y09TeHRKRm0zN3piUXlCcUctb2xaMnowbjF0UUJUMXZLNkt6dXM5cmZ1cm50THFVQ0U0X0E4YVA4c2VjLVZnMHI4MW44UnJMZG1ET2JMREFfRTZReWVVT3ptVDFpZm9WOFM4aGRHUWhWeEc5MlhIN1JOa2cyVFprZFZWY0YwdUpwbHdSNS10Uzc4WFdIRVdtV3Y1ZjEwR2MtYVFHZWF6NWVjRkptR1dSUTlMMXUwOXlTSmcwWTNFbkFKdw?oc=5",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 19.35,
+      "lon": -98.4
+    }
+  ]
 }
