@@ -1,12 +1,12 @@
 {
-  "ultima_actualizacion": "2026-06-17T08:03:58.044858-06:00",
-  "ultima_actualizacion_legible": "17 de junio de 2026 · 08:03 CST",
+  "ultima_actualizacion": "2026-06-17T11:24:50.614869-06:00",
+  "ultima_actualizacion_legible": "17 de junio de 2026 · 11:24 CST",
   "total": 3,
   "ventana": "últimos 180 minutos",
   "fuentes": [
     "Google News",
-    "Medios nacionales",
-    "Quadratín + regionales"
+    "Medios regionales",
+    "Telegram"
   ],
   "grupos": [
     {
@@ -17,49 +17,80 @@
       "col2": false,
       "alertas": [
         {
-          "id": "b11405e2",
+          "id": "5f91a3b8",
           "tipo": "bloqueo",
-          "ruta": "Descomplicado…",
-          "descripcion": "Descomplicado. Entre surrealismo y protestas, México es el país más surrealista del mundo",
+          "ruta": "🚧#Alerta Vial | Circulación podría verse afectada en Toluca tras…",
+          "descripcion": "🚧#Alerta Vial | Circulación podría verse afectada en Toluca tras manifestación hoy 17 de junio.\n https://lajornadaestadodemexico.com/manifestantes-se-reunen-en-la-entrada-de-toluca-podrian-afectar-la-circulacion/",
           "recomendacion": "",
-          "fecha": "17 junio 2026 · 07:50 CST",
-          "fecha_iso": "2026-06-17T07:50:00-06:00",
-          "fuente": "Quadratín Jalisco",
-          "url": "https://jalisco.quadratin.com.mx/opinion/descomplicado-45/",
+          "fecha": "17 junio 2026 · 11:17 CST",
+          "fecha_iso": "2026-06-17T11:17:00-06:00",
+          "fuente": "Telegram @jornadaedomex",
+          "url": "https://t.me/jornadaedomex/11073",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 19.29,
+          "lon": -99.66
+        },
+        {
+          "id": "5414a230",
+          "tipo": "bloqueo",
+          "ruta": "EN VIVO: ¿Hay bloqueos en carreteras de México? Cierres y…",
+          "descripcion": "EN VIVO: ¿Hay bloqueos en carreteras de México? Cierres y tráfico en autopistas para este miércoles; conoce la - TV Azteca. EN VIVO: ¿Hay bloqueos en carreteras de México? Cierres y tráfico en autopistas para este miércoles; conoce la TV Azteca",
+          "recomendacion": "",
+          "fecha": "17 junio 2026 · 11:07 CST",
+          "fecha_iso": "2026-06-17T11:07:00-06:00",
+          "fuente": "TV Azteca",
+          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQXzl0NDlKNml1UC1WbUVxNUsyZm9aM1doUjV1M0xpY3Z0UlRBdzBGMjlLSFhEM3c5Vk00V3J1Zzc1RWdjLVNLWlhKRTVfZDVfOV80OUI4NmdzSmFOUE9iQVpsblVUbEJGVVJQdnpUbzQyX21rbUIxbmREWWZLVTdic2FmeXl4WkpRVzhMZldzbkZLYmM3S2NxOXJIWGJjTnpaOGRwQWNoblVkc1pneUE4LW5FTUdDYlpZRGtWZ2J4NGJTYkU5U2dxQlNtT1N2andsM3pSX3BQbFRrQjJVTjRtdWRGRmJzTjBvWVVqODlGOXh3MDNJTldOWlBYMUF2OHk40gGOAkFVX3lxTE12dkM4enlvbVhiWHhFaERPNDdFTXI2eGdrc1NqZGNtTEh3X3RkN1V3UmFZSmozajAxa3pINk5vbkNiYnMxallCYTBXWXBKUnVERXY0RnJnTkFDNzFWZnhPRkFVTFVwa2t1NU1aSnEzb2pNSWd2Z1N0ZGw2M1N1LS1MNVVKbG9Dc2VNQUtiWXJTOFpFVElUSkhURUk2OUp3WlVUbmNCcGJPZ1otbzZTbG1oU2Z1YnZWcVdUYmZIWDJxNWl4TDhYZUlONUVoVWFub1Z5N1I4RkEtUzI0UXdkQVlCU1NMbVNXd25uSkxvcl9IRUpEMHkteHJEU1l6d005b2NYTGR4RFR3cjRueWozdw?oc=5",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO"
         },
         {
-          "id": "114a999d",
+          "id": "077a57b7",
           "tipo": "bloqueo",
-          "ruta": "Protesta de transportistas bloquea Chimalhuacán, piden liberar a líder de…",
-          "descripcion": "Protesta de transportistas bloquea Chimalhuacán, piden liberar a líder de ruta 101. Chimalhuacán vivió una jornada de más de 12 horas de caos luego de que transportistas de la ruta 101 cerraran vialidades clave.",
+          "ruta": "Marchas en CDMX hoy 17 de junio: Rutas, horarios y…",
+          "descripcion": "Marchas en CDMX hoy 17 de junio: Rutas, horarios y calles cerradas por la CNTE. La Secretaría de Seguridad Ciudadana advierte sobre un miércoles caótico en la capital debido a múltiples manifestaciones",
           "recomendacion": "",
-          "fecha": "17 junio 2026 · 07:31 CST",
-          "fecha_iso": "2026-06-17T07:31:00-06:00",
-          "fuente": "24 Horas",
-          "url": "https://24-horas.mx/estados/protesta-de-transportistas-bloquea-chimalhuacan-piden-liberar-a-lider-de-ruta-101/",
+          "fecha": "17 junio 2026 · 08:25 CST",
+          "fecha_iso": "2026-06-17T08:25:00-06:00",
+          "fuente": "El Informador Jalisco",
+          "url": "https://www.informador.mx/mexico/marchas-en-cdmx-hoy-17-de-junio-rutas-horarios-y-calles-cerradas-por-la-cnte-20260617-0056.html",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        },
-        {
-          "id": "e042698d",
-          "tipo": "bloqueo",
-          "ruta": "Bloqueos carreteras HOY 17 de junio: Autopistas cerradas en México,…",
-          "descripcion": "Bloqueos carreteras HOY 17 de junio: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 17 de junio: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
-          "recomendacion": "",
-          "fecha": "17 junio 2026 · 07:16 CST",
-          "fecha_iso": "2026-06-17T07:16:00-06:00",
-          "fuente": "Eje Central",
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPYXhXMEljR2t4TXA5VDlia0ZvcEZENEkteWI5SHFMTEZRcDNxRjFpcGlNWGVvUVI3YXlMMEtZdGM2M3Z4czhReU10bXpZMjB5QW9Ddi14eG5IdTNtdkI1cFlGZDd3S0Q4NnRsWk5xbm9LNEpvQm11Z3o0ckU5WEJoUXZPVUw3S1F3Z3UyWm1fbFBXTW11TGVJcGZfblFyV3o0V3lVSGZMeC1XMzhreU4zbHRXVjk3VEdkZUhfYjJPYXpZdzNuODNVSjhIY0hSX1VDNzBZSHIwYzVDbWdtOVlnbkNoZXdsZG8?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
+          "badge_txt": "BLOQUEO",
+          "lat": 19.43,
+          "lon": -99.13
         }
       ]
     }
   ],
-  "para_mapa": []
+  "para_mapa": [
+    {
+      "id": "5f91a3b8",
+      "tipo": "bloqueo",
+      "ruta": "🚧#Alerta Vial | Circulación podría verse afectada en Toluca tras…",
+      "descripcion": "🚧#Alerta Vial | Circulación podría verse afectada en Toluca tras manifestación hoy 17 de junio.\n https://lajornadaestadodemexico.com/manifestantes-se-reunen-en-la-entrada-de-toluca-podrian-afectar-la-circulacion/",
+      "fecha": "17 junio 2026 · 11:17 CST",
+      "fuente": "Telegram @jornadaedomex",
+      "url": "https://t.me/jornadaedomex/11073",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 19.29,
+      "lon": -99.66
+    },
+    {
+      "id": "077a57b7",
+      "tipo": "bloqueo",
+      "ruta": "Marchas en CDMX hoy 17 de junio: Rutas, horarios y…",
+      "descripcion": "Marchas en CDMX hoy 17 de junio: Rutas, horarios y calles cerradas por la CNTE. La Secretaría de Seguridad Ciudadana advierte sobre un miércoles caótico en la capital debido a múltiples manifestaciones",
+      "fecha": "17 junio 2026 · 08:25 CST",
+      "fuente": "El Informador Jalisco",
+      "url": "https://www.informador.mx/mexico/marchas-en-cdmx-hoy-17-de-junio-rutas-horarios-y-calles-cerradas-por-la-cnte-20260617-0056.html",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 19.43,
+      "lon": -99.13
+    }
+  ]
 }
