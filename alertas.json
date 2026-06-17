@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-06-17T13:36:50.846982-06:00",
-  "ultima_actualizacion_legible": "17 de junio de 2026 · 13:36 CST",
-  "total": 4,
+  "ultima_actualizacion": "2026-06-17T15:36:10.237125-06:00",
+  "ultima_actualizacion_legible": "17 de junio de 2026 · 15:36 CST",
+  "total": 3,
   "ventana": "últimos 180 minutos",
   "fuentes": [
     "Google News",
@@ -16,48 +16,32 @@
       "col2": false,
       "alertas": [
         {
+          "id": "5414a230",
+          "tipo": "bloqueo",
+          "ruta": "EN VIVO: ¿Hay bloqueos en carreteras de México? Cierres y…",
+          "descripcion": "EN VIVO: ¿Hay bloqueos en carreteras de México? Cierres y tráfico en autopistas para este miércoles; conoce la - TV Azteca. EN VIVO: ¿Hay bloqueos en carreteras de México? Cierres y tráfico en autopistas para este miércoles; conoce la TV Azteca",
+          "recomendacion": "",
+          "fecha": "17 junio 2026 · 14:56 CST",
+          "fecha_iso": "2026-06-17T14:56:00-06:00",
+          "fuente": "TV Azteca",
+          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQXzl0NDlKNml1UC1WbUVxNUsyZm9aM1doUjV1M0xpY3Z0UlRBdzBGMjlLSFhEM3c5Vk00V3J1Zzc1RWdjLVNLWlhKRTVfZDVfOV80OUI4NmdzSmFOUE9iQVpsblVUbEJGVVJQdnpUbzQyX21rbUIxbmREWWZLVTdic2FmeXl4WkpRVzhMZldzbkZLYmM3S2NxOXJIWGJjTnpaOGRwQWNoblVkc1pneUE4LW5FTUdDYlpZRGtWZ2J4NGJTYkU5U2dxQlNtT1N2andsM3pSX3BQbFRrQjJVTjRtdWRGRmJzTjBvWVVqODlGOXh3MDNJTldOWlBYMUF2OHk40gGOAkFVX3lxTE12dkM4enlvbVhiWHhFaERPNDdFTXI2eGdrc1NqZGNtTEh3X3RkN1V3UmFZSmozajAxa3pINk5vbkNiYnMxallCYTBXWXBKUnVERXY0RnJnTkFDNzFWZnhPRkFVTFVwa2t1NU1aSnEzb2pNSWd2Z1N0ZGw2M1N1LS1MNVVKbG9Dc2VNQUtiWXJTOFpFVElUSkhURUk2OUp3WlVUbmNCcGJPZ1otbzZTbG1oU2Z1YnZWcVdUYmZIWDJxNWl4TDhYZUlONUVoVWFub1Z5N1I4RkEtUzI0UXdkQVlCU1NMbVNXd25uSkxvcl9IRUpEMHkteHJEU1l6d005b2NYTGR4RFR3cjRueWozdw?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
+        {
           "id": "38e39a53",
           "tipo": "bloqueo",
           "ruta": "EN VIVO: Bloqueos en carreteras de México HOY 17 de…",
           "descripcion": "EN VIVO: Bloqueos en carreteras de México HOY 17 de junio 2026: ¿Qué pasa en las autopistas? - TV Azteca. EN VIVO: Bloqueos en carreteras de México HOY 17 de junio 2026: ¿Qué pasa en las autopistas? TV Azteca",
           "recomendacion": "",
-          "fecha": "17 junio 2026 · 11:55 CST",
-          "fecha_iso": "2026-06-17T11:55:00-06:00",
+          "fecha": "17 junio 2026 · 12:55 CST",
+          "fecha_iso": "2026-06-17T12:55:00-06:00",
           "fuente": "TV Azteca",
           "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQXzl0NDlKNml1UC1WbUVxNUsyZm9aM1doUjV1M0xpY3Z0UlRBdzBGMjlLSFhEM3c5Vk00V3J1Zzc1RWdjLVNLWlhKRTVfZDVfOV80OUI4NmdzSmFOUE9iQVpsblVUbEJGVVJQdnpUbzQyX21rbUIxbmREWWZLVTdic2FmeXl4WkpRVzhMZldzbkZLYmM3S2NxOXJIWGJjTnpaOGRwQWNoblVkc1pneUE4LW5FTUdDYlpZRGtWZ2J4NGJTYkU5U2dxQlNtT1N2andsM3pSX3BQbFRrQjJVTjRtdWRGRmJzTjBvWVVqODlGOXh3MDNJTldOWlBYMUF2OHk4?oc=5",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO"
-        },
-        {
-          "id": "940a02d7",
-          "tipo": "bloqueo",
-          "ruta": "¿Hay Bloqueos en Carreteras Hoy? Estas Son las Autopistas Cerradas…",
-          "descripcion": "¿Hay Bloqueos en Carreteras Hoy? Estas Son las Autopistas Cerradas en México - N+. ¿Hay Bloqueos en Carreteras Hoy? Estas Son las Autopistas Cerradas en México N+",
-          "recomendacion": "",
-          "fecha": "17 junio 2026 · 11:41 CST",
-          "fecha_iso": "2026-06-17T11:41:00-06:00",
-          "fuente": "N+",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOci0ySUVVVGJySVlGb25hRDRVYjV0YzkzcUltbXp5WkdYLUVLbE80ODBkWEVOWE1HT2ZLN2N4b3V6dHl0Rjl6MEhleVN6OHVCRXdXYUYtTk5PQlFodUlWQmN5VzBjNk83Mlh0WjJiOVVCZVpUeXFnVzEtcG1zU3cteUx2YkJhb3REZ09SRnBGWmlyM0ozTnlDeWVQcUFLeThPbzlUcEN1NE5iNVMwclJycTBlRFNwSFExSzVz?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        },
-        {
-          "id": "5f91a3b8",
-          "tipo": "bloqueo",
-          "ruta": "🚧#Alerta Vial | Circulación podría verse afectada en Toluca tras…",
-          "descripcion": "🚧#Alerta Vial | Circulación podría verse afectada en Toluca tras manifestación hoy 17 de junio.\n https://lajornadaestadodemexico.com/manifestantes-se-reunen-en-la-entrada-de-toluca-podrian-afectar-la-circulacion/",
-          "recomendacion": "",
-          "fecha": "17 junio 2026 · 11:17 CST",
-          "fecha_iso": "2026-06-17T11:17:00-06:00",
-          "fuente": "Telegram @jornadaedomex",
-          "url": "https://t.me/jornadaedomex/11073",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 19.29,
-          "lon": -99.66
         }
       ]
     },
@@ -85,19 +69,5 @@
       ]
     }
   ],
-  "para_mapa": [
-    {
-      "id": "5f91a3b8",
-      "tipo": "bloqueo",
-      "ruta": "🚧#Alerta Vial | Circulación podría verse afectada en Toluca tras…",
-      "descripcion": "🚧#Alerta Vial | Circulación podría verse afectada en Toluca tras manifestación hoy 17 de junio.\n https://lajornadaestadodemexico.com/manifestantes-se-reunen-en-la-entrada-de-toluca-podrian-afectar-la-circulacion/",
-      "fecha": "17 junio 2026 · 11:17 CST",
-      "fuente": "Telegram @jornadaedomex",
-      "url": "https://t.me/jornadaedomex/11073",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 19.29,
-      "lon": -99.66
-    }
-  ]
+  "para_mapa": []
 }
