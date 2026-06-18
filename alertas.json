@@ -1,74 +1,12 @@
 {
-  "ultima_actualizacion": "2026-06-17T17:09:38.252646-06:00",
-  "ultima_actualizacion_legible": "17 de junio de 2026 · 17:09 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-06-17T19:42:27.612590-06:00",
+  "ultima_actualizacion_legible": "17 de junio de 2026 · 19:42 CST",
+  "total": 0,
   "ventana": "últimos 180 minutos",
   "fuentes": [
     "Google News"
   ],
-  "grupos": [
-    {
-      "tipo": "bloqueo",
-      "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "5414a230",
-          "tipo": "bloqueo",
-          "ruta": "EN VIVO: ¿Hay bloqueos en carreteras de México? Cierres y…",
-          "descripcion": "EN VIVO: ¿Hay bloqueos en carreteras de México? Cierres y tráfico en autopistas para este miércoles; conoce la - TV Azteca. EN VIVO: ¿Hay bloqueos en carreteras de México? Cierres y tráfico en autopistas para este miércoles; conoce la TV Azteca",
-          "recomendacion": "",
-          "fecha": "17 junio 2026 · 14:56 CST",
-          "fecha_iso": "2026-06-17T14:56:00-06:00",
-          "fuente": "TV Azteca",
-          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQXzl0NDlKNml1UC1WbUVxNUsyZm9aM1doUjV1M0xpY3Z0UlRBdzBGMjlLSFhEM3c5Vk00V3J1Zzc1RWdjLVNLWlhKRTVfZDVfOV80OUI4NmdzSmFOUE9iQVpsblVUbEJGVVJQdnpUbzQyX21rbUIxbmREWWZLVTdic2FmeXl4WkpRVzhMZldzbkZLYmM3S2NxOXJIWGJjTnpaOGRwQWNoblVkc1pneUE4LW5FTUdDYlpZRGtWZ2J4NGJTYkU5U2dxQlNtT1N2andsM3pSX3BQbFRrQjJVTjRtdWRGRmJzTjBvWVVqODlGOXh3MDNJTldOWlBYMUF2OHk40gGOAkFVX3lxTE12dkM4enlvbVhiWHhFaERPNDdFTXI2eGdrc1NqZGNtTEh3X3RkN1V3UmFZSmozajAxa3pINk5vbkNiYnMxallCYTBXWXBKUnVERXY0RnJnTkFDNzFWZnhPRkFVTFVwa2t1NU1aSnEzb2pNSWd2Z1N0ZGw2M1N1LS1MNVVKbG9Dc2VNQUtiWXJTOFpFVElUSkhURUk2OUp3WlVUbmNCcGJPZ1otbzZTbG1oU2Z1YnZWcVdUYmZIWDJxNWl4TDhYZUlONUVoVWFub1Z5N1I4RkEtUzI0UXdkQVlCU1NMbVNXd25uSkxvcl9IRUpEMHkteHJEU1l6d005b2NYTGR4RFR3cjRueWozdw?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        }
-      ]
-    },
-    {
-      "tipo": "cierre_parcial",
-      "color": "amarillo",
-      "icono": "🟡",
-      "label": "CIERRE PARCIAL / ACCIDENTES",
-      "col2": true,
-      "alertas": [
-        {
-          "id": "f77cb52d",
-          "tipo": "cierre_parcial",
-          "ruta": "Accidente de Camioneta de Carga en la Autopista México-Puebla ¿Hay…",
-          "descripcion": "Accidente de Camioneta de Carga en la Autopista México-Puebla ¿Hay Paso? - N+. Accidente de Camioneta de Carga en la Autopista México-Puebla ¿Hay Paso? N+",
-          "recomendacion": "",
-          "fecha": "17 junio 2026 · 15:00 CST",
-          "fecha_iso": "2026-06-17T15:00:00-06:00",
-          "fuente": "N+",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxORVo0dV81WDV1VU1NbzNiYzN1WUsxY0F2Y09TeHRKRm0zN3piUXlCcUctb2xaMnowbjF0UUJUMXZLNkt6dXM5cmZ1cm50THFVQ0U0X0E4YVA4c2VjLVZnMHI4MW44UnJMZG1ET2JMREFfRTZReWVVT3ptVDFpZm9WOFM4aGRHUWhWeEc5MlhIN1JOa2cyVFprZFZWY0YwdUpwbHdSNS10Uzc4WFdIRVdtV3Y1ZjEwR2MtYVFHZWF6NWVjRkptR1dSUTlMMXUwOXlTSmcwWTNFbkFKdw?oc=5",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.35,
-          "lon": -98.4
-        }
-      ]
-    }
-  ],
-  "para_mapa": [
-    {
-      "id": "f77cb52d",
-      "tipo": "cierre_parcial",
-      "ruta": "Accidente de Camioneta de Carga en la Autopista México-Puebla ¿Hay…",
-      "descripcion": "Accidente de Camioneta de Carga en la Autopista México-Puebla ¿Hay Paso? - N+. Accidente de Camioneta de Carga en la Autopista México-Puebla ¿Hay Paso? N+",
-      "fecha": "17 junio 2026 · 15:00 CST",
-      "fuente": "N+",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxORVo0dV81WDV1VU1NbzNiYzN1WUsxY0F2Y09TeHRKRm0zN3piUXlCcUctb2xaMnowbjF0UUJUMXZLNkt6dXM5cmZ1cm50THFVQ0U0X0E4YVA4c2VjLVZnMHI4MW44UnJMZG1ET2JMREFfRTZReWVVT3ptVDFpZm9WOFM4aGRHUWhWeEc5MlhIN1JOa2cyVFprZFZWY0YwdUpwbHdSNS10Uzc4WFdIRVdtV3Y1ZjEwR2MtYVFHZWF6NWVjRkptR1dSUTlMMXUwOXlTSmcwWTNFbkFKdw?oc=5",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.35,
-      "lon": -98.4
-    }
-  ]
+  "grupos": [],
+  "para_mapa": [],
+  "nota": "Sin alertas activas en la ventana de tiempo configurada."
 }
