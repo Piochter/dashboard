@@ -1,51 +1,51 @@
 {
-  "ultima_actualizacion": "2026-06-18T11:30:15.778746-06:00",
-  "ultima_actualizacion_legible": "18 de junio de 2026 · 11:30 CST",
+  "ultima_actualizacion": "2026-06-18T13:41:46.908295-06:00",
+  "ultima_actualizacion_legible": "18 de junio de 2026 · 13:41 CST",
   "total": 1,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Quadratín + regionales"
+    "Google News"
   ],
   "grupos": [
     {
-      "tipo": "clima",
-      "color": "azul",
-      "icono": "🌧️",
-      "label": "ALERTA METEOROLÓGICA",
+      "tipo": "bloqueo",
+      "color": "rojo",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
       "col2": false,
       "alertas": [
         {
-          "id": "9fa49f35",
-          "tipo": "clima",
-          "ruta": "Suben niveles de ríos y vasos reguladores en Puebla por…",
-          "descripcion": "Suben niveles de ríos y vasos reguladores en Puebla por lluvias. Protección Civil identifica 33 municipios en riesgo de inundación.",
+          "id": "bacab155",
+          "tipo": "bloqueo",
+          "ruta": "Accidente en carretera de Veracruz: percances, bloqueos, manifestaciones y todo…",
+          "descripcion": "Accidente en carretera de Veracruz: percances, bloqueos, manifestaciones y todo sobre las carreteras de México - TV Azteca. Accidente en carretera de Veracruz: percances, bloqueos, manifestaciones y todo sobre las carreteras de México TV Azteca",
           "recomendacion": "",
-          "fecha": "18 junio 2026 · 10:20 CST",
-          "fecha_iso": "2026-06-18T10:20:00-06:00",
-          "fuente": "Quadratín Puebla",
-          "url": "https://puebla.quadratin.com.mx/sucesos/suben-niveles-de-rios-y-vasos-reguladores-en-puebla-por-lluvias/",
-          "dot_color": "#3498db",
-          "badge": "badge-clima",
-          "badge_txt": "ALERTA CLIMA",
-          "lat": 19.04,
-          "lon": -98.2
+          "fecha": "18 junio 2026 · 11:51 CST",
+          "fecha_iso": "2026-06-18T11:51:00-06:00",
+          "fuente": "TV Azteca",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOU1NrZXpLNGlJeE8tc1lPOG43REp6VkhTR0hSOEtfSlBsTndfOExoSkxPTWpiVm1SZFVXc1d2eXB4XzhyREdybktzNjVNUWJnbmlXbXlvUHZKb1A0RXlpZ2pEbnB5Q29WU0RZTElnbDViRFNVZ3dtamphOU5MZlE2V2VZdzA4LUM2V3dveTJLWjF6eHZqaWRYX1BvQTh1a1NaOXRkVzNFa1ItVnN4WDZQdm1kMDVKT1ZuOGfSAccBQVVfeXFMT2VXV3dCUjVSdHJfQ2JtdXdyc0ozNHEzVDBpcVpxQUFVTjFpNVM0WkRVcVY3cnAzRTRZSUdxUHd2Vmh5by05Q3hNTzJOYi1oUU1MU3ZQY2dYUFgtMzBJcTdXejBCTUZJdDU3V1Uzd013ZFZIbldHdzBfVzBhWFRZcVl5WXE1UzFuVDN6YWlDemlIaWtJVXFOdjdCRC01bnMtbzhmcmd2Z2hnRWJ3OTNSX3JIc043U1lGdEFiTXNtWVZzc3lMVWszZw?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 19.18,
+          "lon": -96.14
         }
       ]
     }
   ],
   "para_mapa": [
     {
-      "id": "9fa49f35",
-      "tipo": "clima",
-      "ruta": "Suben niveles de ríos y vasos reguladores en Puebla por…",
-      "descripcion": "Suben niveles de ríos y vasos reguladores en Puebla por lluvias. Protección Civil identifica 33 municipios en riesgo de inundación.",
-      "fecha": "18 junio 2026 · 10:20 CST",
-      "fuente": "Quadratín Puebla",
-      "url": "https://puebla.quadratin.com.mx/sucesos/suben-niveles-de-rios-y-vasos-reguladores-en-puebla-por-lluvias/",
-      "dot_color": "#3498db",
-      "badge_txt": "ALERTA CLIMA",
-      "lat": 19.04,
-      "lon": -98.2
+      "id": "bacab155",
+      "tipo": "bloqueo",
+      "ruta": "Accidente en carretera de Veracruz: percances, bloqueos, manifestaciones y todo…",
+      "descripcion": "Accidente en carretera de Veracruz: percances, bloqueos, manifestaciones y todo sobre las carreteras de México - TV Azteca. Accidente en carretera de Veracruz: percances, bloqueos, manifestaciones y todo sobre las carreteras de México TV Azteca",
+      "fecha": "18 junio 2026 · 11:51 CST",
+      "fuente": "TV Azteca",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOU1NrZXpLNGlJeE8tc1lPOG43REp6VkhTR0hSOEtfSlBsTndfOExoSkxPTWpiVm1SZFVXc1d2eXB4XzhyREdybktzNjVNUWJnbmlXbXlvUHZKb1A0RXlpZ2pEbnB5Q29WU0RZTElnbDViRFNVZ3dtamphOU5MZlE2V2VZdzA4LUM2V3dveTJLWjF6eHZqaWRYX1BvQTh1a1NaOXRkVzNFa1ItVnN4WDZQdm1kMDVKT1ZuOGfSAccBQVVfeXFMT2VXV3dCUjVSdHJfQ2JtdXdyc0ozNHEzVDBpcVpxQUFVTjFpNVM0WkRVcVY3cnAzRTRZSUdxUHd2Vmh5by05Q3hNTzJOYi1oUU1MU3ZQY2dYUFgtMzBJcTdXejBCTUZJdDU3V1Uzd013ZFZIbldHdzBfVzBhWFRZcVl5WXE1UzFuVDN6YWlDemlIaWtJVXFOdjdCRC01bnMtbzhmcmd2Z2hnRWJ3OTNSX3JIc043U1lGdEFiTXNtWVZzc3lMVWszZw?oc=5",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 19.18,
+      "lon": -96.14
     }
   ]
 }
