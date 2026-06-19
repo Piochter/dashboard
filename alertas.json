@@ -1,13 +1,51 @@
 {
-  "ultima_actualizacion": "2026-06-19T06:32:46.708699-06:00",
-  "ultima_actualizacion_legible": "19 de junio de 2026 · 06:32 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-06-19T09:54:55.971204-06:00",
+  "ultima_actualizacion_legible": "19 de junio de 2026 · 09:54 CST",
+  "total": 5,
   "ventana": "últimos 180 minutos",
   "fuentes": [
     "Google News",
-    "Medios regionales"
+    "Medios regionales",
+    "Telegram"
   ],
   "grupos": [
+    {
+      "tipo": "bloqueo",
+      "color": "rojo",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "938bf3c5",
+          "tipo": "bloqueo",
+          "ruta": "EN VIVO: ¿Qué pasa hoy en las carreteras de México?…",
+          "descripcion": "EN VIVO: ¿Qué pasa hoy en las carreteras de México? Bloqueos, tráfico y accidentes este 19 de junio - TV Azteca. EN VIVO: ¿Qué pasa hoy en las carreteras de México? Bloqueos, tráfico y accidentes este 19 de junio TV Azteca",
+          "recomendacion": "",
+          "fecha": "19 junio 2026 · 08:36 CST",
+          "fecha_iso": "2026-06-19T08:36:00-06:00",
+          "fuente": "TV Azteca",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYVZsV1U4R3JnNV9SZFlOdlphbmlPTmV3TnJtYTNXVF9RV2VXWUY0RkFQYTllckpKcDg0eU5ZMkNlUEw3TVNYeFRCTWVuRF9aX1RmM19BWlo5Qzg2bEtvNWlUN2tFVkJjdTgzQXdzTUhjZjE2LTd4RUgtSEh4S0wwWmF1SnlRZ0FhbzJzOG1FN2FmVDBydk53Y0lTR2wyQ3hvcVpHYjg2UEVKRnNWNWxRZ001MDBFRVg3V0k1elFRdHE1VXd0eW9hb3VB?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
+        {
+          "id": "7bc3e50d",
+          "tipo": "bloqueo",
+          "ruta": "Bloqueos carreteras HOY 19 de junio: Autopistas cerradas en México,…",
+          "descripcion": "Bloqueos carreteras HOY 19 de junio: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 19 de junio: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
+          "recomendacion": "",
+          "fecha": "19 junio 2026 · 07:59 CST",
+          "fecha_iso": "2026-06-19T07:59:00-06:00",
+          "fuente": "Eje Central",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOWWdMLUEzelAya3duQkFjdlljT0k0SEFfS0FROE9sUDVFZnNIREp6dHBQWkRNNzRxbk1lWllnVVU1VjMwV3lyNzh1V0RBRE5BbmxlU3JuQlY2OXNnTDQ4cDJHelhuVTgwRVI3aVFjQXBxQ3JkZWM4RFp3N2d0OGhFVEQxLWo2THRQYVlkanJPTkl0STU1Mm1uX3Nsd3dMdmk4YmpydFpvbTZCLVB2dTktaHY4OTNGUjRydk55NUZkVzQyT2w2SWdqZkRnX0RlMVRRLVIxV2ltZFhUZUVOaXY3TDJ0VnE1ekE?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        }
+      ]
+    },
     {
       "tipo": "cierre_parcial",
       "color": "amarillo",
@@ -16,51 +54,95 @@
       "col2": true,
       "alertas": [
         {
-          "id": "6eaabc4b",
+          "id": "3cf8af2d",
           "tipo": "cierre_parcial",
-          "ruta": "Mhoni Vidente: Signos con suerte en el amor y dinero…",
-          "descripcion": "Mhoni Vidente: Signos con suerte en el amor y dinero hoy viernes 19 de junio. La recomendación general es actuar con optimismo, mantener los pies en la tierra y aprovechar la energía positiva que marca el cierre de la semana",
+          "ruta": "Marchas en CDMX hoy 19 de junio: Rutas, horarios y…",
+          "descripcion": "Marchas en CDMX hoy 19 de junio: Rutas, horarios y calles cerradas por la CNTE. La CNTE encabeza las movilizaciones de este viernes en la capital para conmemorar el caso Nochixtlán. Conoce los puntos de concentración y evita quedar atrapado en el tráfico",
           "recomendacion": "",
-          "fecha": "19 junio 2026 · 06:07 CST",
-          "fecha_iso": "2026-06-19T06:07:00-06:00",
+          "fecha": "19 junio 2026 · 08:38 CST",
+          "fecha_iso": "2026-06-19T08:38:00-06:00",
           "fuente": "El Informador Jalisco",
-          "url": "https://www.informador.mx/entretenimiento/mhoni-vidente-signos-con-suerte-en-el-amor-y-dinero-hoy-viernes-19-de-junio-20260618-0174.html",
+          "url": "https://www.informador.mx/mexico/marchas-en-cdmx-hoy-19-de-junio-rutas-horarios-y-calles-cerradas-por-la-cnte-20260619-0054.html",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 19.43,
+          "lon": -99.13
         },
         {
-          "id": "64330383",
+          "id": "860ba868",
           "tipo": "cierre_parcial",
-          "ruta": "¿Hay Cierres en la Autopista México-Querétaro Hoy VIERNES 19 de…",
-          "descripcion": "¿Hay Cierres en la Autopista México-Querétaro Hoy VIERNES 19 de Junio de 2026? - N+. ¿Hay Cierres en la Autopista México-Querétaro Hoy VIERNES 19 de Junio de 2026? N+",
+          "ruta": "autopista México-Querétaro por accidente y otras carreteras afectadas hoy 19 de junio - ad",
+          "descripcion": "Cerrada la autopista México-Querétaro por accidente y otras carreteras afectadas hoy 19 de junio - adn40.mx. Cerrada la autopista México-Querétaro por accidente y otras carreteras afectadas hoy 19 de junio adn40.mx",
           "recomendacion": "",
-          "fecha": "19 junio 2026 · 04:47 CST",
-          "fecha_iso": "2026-06-19T04:47:00-06:00",
-          "fuente": "N+",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdURoYjBRU2E4SXNDT3p5VEEyaExETi1ZYy1WbVBBMXZJVUloZy1lWVZVVm9YOVpmek5QQW1MQUExeDhPTDY4bmY3Ulo4WTZpS3ZXUG1PVGw2MWxnNjNzT0tlaEpBOWw0NWRVZ1FvaGE0N2Uwaml6QWFtZlhGNVlDaFBPOW9EaDJRRmpOeGpkRWQ1M2VjVUxwSGVJdTU0X2x5VGdONmgxRDZKTzFpTjFHTmFnMHZrS2dpUG92X1I0M1RjQU9WaUROTk5RR0tBOHV4a01XU2xR?oc=5",
+          "fecha": "19 junio 2026 · 08:11 CST",
+          "fecha_iso": "2026-06-19T08:11:00-06:00",
+          "fuente": "adn40.mx",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRXM3UjJ4WWh3QUJZWk1wMFl2aUJ3Smd0QkdIX1FWNklycTVWX3JLWHllM045dW9ubFFWVWhNTlA0MGF5aE9DQ3hma3NBWjB0TjVlZldWV2tyTHRtNmFDakMxWXFoSTd4SkxkV2xvSjlDeVplcW5zQkRqbll1VTNGUlV2UHg4a1YtTVl3bHludHF0NEVtWmtsOWVva3ZJZy1hVnk5S2ptbWl0V1pzY2U3dnQzeTgtNXYyMEUzX3Rhc2pwMldaS2VxN1N6eU1LU29lYjdFNEU3eHBtLVZPb1U3X1NHcDhTdw?oc=5",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL",
           "lat": 20.1,
           "lon": -99.5
+        },
+        {
+          "id": "194dddfe",
+          "tipo": "cierre_parcial",
+          "ruta": "🚨Accidente en la #México-#Toluca reduce a un carril la circulación…",
+          "descripcion": "🚨Accidente en la #México-#Toluca reduce a un carril la circulación en #LaMarquesa\n\nhttps://lajornadaestadodemexico.com/accidente-en-la-mexico-toluca-reduce-a-un-carril-la-circulacion-en-la-marquesa/",
+          "recomendacion": "",
+          "fecha": "19 junio 2026 · 07:01 CST",
+          "fecha_iso": "2026-06-19T07:01:00-06:00",
+          "fuente": "Telegram @jornadaedomex",
+          "url": "https://t.me/jornadaedomex/11101",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 19.29,
+          "lon": -99.66
         }
       ]
     }
   ],
   "para_mapa": [
     {
-      "id": "64330383",
+      "id": "3cf8af2d",
       "tipo": "cierre_parcial",
-      "ruta": "¿Hay Cierres en la Autopista México-Querétaro Hoy VIERNES 19 de…",
-      "descripcion": "¿Hay Cierres en la Autopista México-Querétaro Hoy VIERNES 19 de Junio de 2026? - N+. ¿Hay Cierres en la Autopista México-Querétaro Hoy VIERNES 19 de Junio de 2026? N+",
-      "fecha": "19 junio 2026 · 04:47 CST",
-      "fuente": "N+",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdURoYjBRU2E4SXNDT3p5VEEyaExETi1ZYy1WbVBBMXZJVUloZy1lWVZVVm9YOVpmek5QQW1MQUExeDhPTDY4bmY3Ulo4WTZpS3ZXUG1PVGw2MWxnNjNzT0tlaEpBOWw0NWRVZ1FvaGE0N2Uwaml6QWFtZlhGNVlDaFBPOW9EaDJRRmpOeGpkRWQ1M2VjVUxwSGVJdTU0X2x5VGdONmgxRDZKTzFpTjFHTmFnMHZrS2dpUG92X1I0M1RjQU9WaUROTk5RR0tBOHV4a01XU2xR?oc=5",
+      "ruta": "Marchas en CDMX hoy 19 de junio: Rutas, horarios y…",
+      "descripcion": "Marchas en CDMX hoy 19 de junio: Rutas, horarios y calles cerradas por la CNTE. La CNTE encabeza las movilizaciones de este viernes en la capital para conmemorar el caso Nochixtlán. Conoce los puntos de concentración y evita quedar atrapado en el tráfico",
+      "fecha": "19 junio 2026 · 08:38 CST",
+      "fuente": "El Informador Jalisco",
+      "url": "https://www.informador.mx/mexico/marchas-en-cdmx-hoy-19-de-junio-rutas-horarios-y-calles-cerradas-por-la-cnte-20260619-0054.html",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 19.43,
+      "lon": -99.13
+    },
+    {
+      "id": "860ba868",
+      "tipo": "cierre_parcial",
+      "ruta": "autopista México-Querétaro por accidente y otras carreteras afectadas hoy 19 de junio - ad",
+      "descripcion": "Cerrada la autopista México-Querétaro por accidente y otras carreteras afectadas hoy 19 de junio - adn40.mx. Cerrada la autopista México-Querétaro por accidente y otras carreteras afectadas hoy 19 de junio adn40.mx",
+      "fecha": "19 junio 2026 · 08:11 CST",
+      "fuente": "adn40.mx",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRXM3UjJ4WWh3QUJZWk1wMFl2aUJ3Smd0QkdIX1FWNklycTVWX3JLWHllM045dW9ubFFWVWhNTlA0MGF5aE9DQ3hma3NBWjB0TjVlZldWV2tyTHRtNmFDakMxWXFoSTd4SkxkV2xvSjlDeVplcW5zQkRqbll1VTNGUlV2UHg4a1YtTVl3bHludHF0NEVtWmtsOWVva3ZJZy1hVnk5S2ptbWl0V1pzY2U3dnQzeTgtNXYyMEUzX3Rhc2pwMldaS2VxN1N6eU1LU29lYjdFNEU3eHBtLVZPb1U3X1NHcDhTdw?oc=5",
       "dot_color": "#e67e22",
       "badge_txt": "CIERRE PARCIAL",
       "lat": 20.1,
       "lon": -99.5
+    },
+    {
+      "id": "194dddfe",
+      "tipo": "cierre_parcial",
+      "ruta": "🚨Accidente en la #México-#Toluca reduce a un carril la circulación…",
+      "descripcion": "🚨Accidente en la #México-#Toluca reduce a un carril la circulación en #LaMarquesa\n\nhttps://lajornadaestadodemexico.com/accidente-en-la-mexico-toluca-reduce-a-un-carril-la-circulacion-en-la-marquesa/",
+      "fecha": "19 junio 2026 · 07:01 CST",
+      "fuente": "Telegram @jornadaedomex",
+      "url": "https://t.me/jornadaedomex/11101",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 19.29,
+      "lon": -99.66
     }
   ]
 }
