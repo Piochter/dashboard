@@ -1,35 +1,13 @@
 {
-  "ultima_actualizacion": "2026-06-18T17:44:36.383381-06:00",
-  "ultima_actualizacion_legible": "18 de junio de 2026 · 17:44 CST",
+  "ultima_actualizacion": "2026-06-18T20:33:58.013708-06:00",
+  "ultima_actualizacion_legible": "18 de junio de 2026 · 20:33 CST",
   "total": 2,
   "ventana": "últimos 180 minutos",
   "fuentes": [
+    "Google News",
     "Medios regionales"
   ],
   "grupos": [
-    {
-      "tipo": "cierre_total",
-      "color": "rojo",
-      "icono": "🔴",
-      "label": "CIERRE TOTAL",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "ed226168",
-          "tipo": "cierre_total",
-          "ruta": "Ante FIFA Fan Fest abarrotado, autoridades recomiendan elegir otro espacio…",
-          "descripcion": "Ante FIFA Fan Fest abarrotado, autoridades recomiendan elegir otro espacio para ver el juego entre México y Corea. Con más de 50 mil asistentes congregados en el Centro Histórico, Protección Civil anuncia el cierre total de accesos y pide a la afición buscar sedes alternas",
-          "recomendacion": "",
-          "fecha": "18 junio 2026 · 16:21 CST",
-          "fecha_iso": "2026-06-18T16:21:00-06:00",
-          "fuente": "El Informador Jalisco",
-          "url": "https://www.informador.mx/jalisco/mundial-2026-autoridades-piden-evitar-el-fifa-fan-fest-de-guadalajara-para-ver-el-mexico-vs-corea-del-sur-20260618-0166.html",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL"
-        }
-      ]
-    },
     {
       "tipo": "bloqueo",
       "color": "rojo",
@@ -38,21 +16,75 @@
       "col2": false,
       "alertas": [
         {
-          "id": "e7315857",
+          "id": "fdb22be6",
           "tipo": "bloqueo",
-          "ruta": "Alerta por DISPAROS en Times Square, Nueva York: caos, susto…",
-          "descripcion": "Alerta por DISPAROS en Times Square, Nueva York: caos, susto y un detenido. El incidente se registró en el cruce de la calle 44 con la séptima avenida, en pleno corazón de Manhattan",
+          "ruta": "CNTE reitera: los paros terminarán hasta que se abrogue la…",
+          "descripcion": "CNTE reitera: los paros terminarán hasta que se abrogue la Ley del ISSSTE 2007. El secretario Isael González aceptó que ya hay \"desgaste\" tras 18 días de protesta, pero las movilizaciones continuarán",
           "recomendacion": "",
-          "fecha": "18 junio 2026 · 17:19 CST",
-          "fecha_iso": "2026-06-18T17:19:00-06:00",
+          "fecha": "18 junio 2026 · 18:45 CST",
+          "fecha_iso": "2026-06-18T18:45:00-06:00",
           "fuente": "El Informador Jalisco",
-          "url": "https://www.informador.mx/internacional/alerta-por-disparos-en-times-square-nueva-york-caos-susto-y-un-detenido-20260618-0177.html",
+          "url": "https://www.informador.mx/mexico/cnte-reitera-los-paros-terminaran-hasta-que-se-abrogue-la-ley-del-issste-2007-20260618-0200.html",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
+          "badge_txt": "BLOQUEO",
+          "lat": 19.1,
+          "lon": -104.3
+        }
+      ]
+    },
+    {
+      "tipo": "cierre_parcial",
+      "color": "amarillo",
+      "icono": "🟡",
+      "label": "CIERRE PARCIAL / ACCIDENTES",
+      "col2": true,
+      "alertas": [
+        {
+          "id": "2afc10d6",
+          "tipo": "cierre_parcial",
+          "ruta": "carretera de Perote provoca cierre parcial - TV Azteca",
+          "descripcion": "¡Caos en Veracruz! Accidente en carretera de Perote provoca cierre parcial - TV Azteca. ¡Caos en Veracruz! Accidente en carretera de Perote provoca cierre parcial TV Azteca",
+          "recomendacion": "",
+          "fecha": "18 junio 2026 · 18:03 CST",
+          "fecha_iso": "2026-06-18T18:03:00-06:00",
+          "fuente": "TV Azteca",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOU1NrZXpLNGlJeE8tc1lPOG43REp6VkhTR0hSOEtfSlBsTndfOExoSkxPTWpiVm1SZFVXc1d2eXB4XzhyREdybktzNjVNUWJnbmlXbXlvUHZKb1A0RXlpZ2pEbnB5Q29WU0RZTElnbDViRFNVZ3dtamphOU5MZlE2V2VZdzA4LUM2V3dveTJLWjF6eHZqaWRYX1BvQTh1a1NaOXRkVzNFa1ItVnN4WDZQdm1kMDVKT1ZuOGfSAccBQVVfeXFMT2VXV3dCUjVSdHJfQ2JtdXdyc0ozNHEzVDBpcVpxQUFVTjFpNVM0WkRVcVY3cnAzRTRZSUdxUHd2Vmh5by05Q3hNTzJOYi1oUU1MU3ZQY2dYUFgtMzBJcTdXejBCTUZJdDU3V1Uzd013ZFZIbldHdzBfVzBhWFRZcVl5WXE1UzFuVDN6YWlDemlIaWtJVXFOdjdCRC01bnMtbzhmcmd2Z2hnRWJ3OTNSX3JIc043U1lGdEFiTXNtWVZzc3lMVWszZw?oc=5",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 19.18,
+          "lon": -96.14
         }
       ]
     }
   ],
-  "para_mapa": []
+  "para_mapa": [
+    {
+      "id": "fdb22be6",
+      "tipo": "bloqueo",
+      "ruta": "CNTE reitera: los paros terminarán hasta que se abrogue la…",
+      "descripcion": "CNTE reitera: los paros terminarán hasta que se abrogue la Ley del ISSSTE 2007. El secretario Isael González aceptó que ya hay \"desgaste\" tras 18 días de protesta, pero las movilizaciones continuarán",
+      "fecha": "18 junio 2026 · 18:45 CST",
+      "fuente": "El Informador Jalisco",
+      "url": "https://www.informador.mx/mexico/cnte-reitera-los-paros-terminaran-hasta-que-se-abrogue-la-ley-del-issste-2007-20260618-0200.html",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 19.1,
+      "lon": -104.3
+    },
+    {
+      "id": "2afc10d6",
+      "tipo": "cierre_parcial",
+      "ruta": "carretera de Perote provoca cierre parcial - TV Azteca",
+      "descripcion": "¡Caos en Veracruz! Accidente en carretera de Perote provoca cierre parcial - TV Azteca. ¡Caos en Veracruz! Accidente en carretera de Perote provoca cierre parcial TV Azteca",
+      "fecha": "18 junio 2026 · 18:03 CST",
+      "fuente": "TV Azteca",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOU1NrZXpLNGlJeE8tc1lPOG43REp6VkhTR0hSOEtfSlBsTndfOExoSkxPTWpiVm1SZFVXc1d2eXB4XzhyREdybktzNjVNUWJnbmlXbXlvUHZKb1A0RXlpZ2pEbnB5Q29WU0RZTElnbDViRFNVZ3dtamphOU5MZlE2V2VZdzA4LUM2V3dveTJLWjF6eHZqaWRYX1BvQTh1a1NaOXRkVzNFa1ItVnN4WDZQdm1kMDVKT1ZuOGfSAccBQVVfeXFMT2VXV3dCUjVSdHJfQ2JtdXdyc0ozNHEzVDBpcVpxQUFVTjFpNVM0WkRVcVY3cnAzRTRZSUdxUHd2Vmh5by05Q3hNTzJOYi1oUU1MU3ZQY2dYUFgtMzBJcTdXejBCTUZJdDU3V1Uzd013ZFZIbldHdzBfVzBhWFRZcVl5WXE1UzFuVDN6YWlDemlIaWtJVXFOdjdCRC01bnMtbzhmcmd2Z2hnRWJ3OTNSX3JIc043U1lGdEFiTXNtWVZzc3lMVWszZw?oc=5",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 19.18,
+      "lon": -96.14
+    }
+  ]
 }
