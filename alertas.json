@@ -1,90 +1,12 @@
 {
-  "ultima_actualizacion": "2026-06-18T20:33:58.013708-06:00",
-  "ultima_actualizacion_legible": "18 de junio de 2026 · 20:33 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-06-19T02:21:32.151444-06:00",
+  "ultima_actualizacion_legible": "19 de junio de 2026 · 02:21 CST",
+  "total": 0,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Google News",
-    "Medios regionales"
+    "Google News"
   ],
-  "grupos": [
-    {
-      "tipo": "bloqueo",
-      "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "fdb22be6",
-          "tipo": "bloqueo",
-          "ruta": "CNTE reitera: los paros terminarán hasta que se abrogue la…",
-          "descripcion": "CNTE reitera: los paros terminarán hasta que se abrogue la Ley del ISSSTE 2007. El secretario Isael González aceptó que ya hay \"desgaste\" tras 18 días de protesta, pero las movilizaciones continuarán",
-          "recomendacion": "",
-          "fecha": "18 junio 2026 · 18:45 CST",
-          "fecha_iso": "2026-06-18T18:45:00-06:00",
-          "fuente": "El Informador Jalisco",
-          "url": "https://www.informador.mx/mexico/cnte-reitera-los-paros-terminaran-hasta-que-se-abrogue-la-ley-del-issste-2007-20260618-0200.html",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 19.1,
-          "lon": -104.3
-        }
-      ]
-    },
-    {
-      "tipo": "cierre_parcial",
-      "color": "amarillo",
-      "icono": "🟡",
-      "label": "CIERRE PARCIAL / ACCIDENTES",
-      "col2": true,
-      "alertas": [
-        {
-          "id": "2afc10d6",
-          "tipo": "cierre_parcial",
-          "ruta": "carretera de Perote provoca cierre parcial - TV Azteca",
-          "descripcion": "¡Caos en Veracruz! Accidente en carretera de Perote provoca cierre parcial - TV Azteca. ¡Caos en Veracruz! Accidente en carretera de Perote provoca cierre parcial TV Azteca",
-          "recomendacion": "",
-          "fecha": "18 junio 2026 · 18:03 CST",
-          "fecha_iso": "2026-06-18T18:03:00-06:00",
-          "fuente": "TV Azteca",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOU1NrZXpLNGlJeE8tc1lPOG43REp6VkhTR0hSOEtfSlBsTndfOExoSkxPTWpiVm1SZFVXc1d2eXB4XzhyREdybktzNjVNUWJnbmlXbXlvUHZKb1A0RXlpZ2pEbnB5Q29WU0RZTElnbDViRFNVZ3dtamphOU5MZlE2V2VZdzA4LUM2V3dveTJLWjF6eHZqaWRYX1BvQTh1a1NaOXRkVzNFa1ItVnN4WDZQdm1kMDVKT1ZuOGfSAccBQVVfeXFMT2VXV3dCUjVSdHJfQ2JtdXdyc0ozNHEzVDBpcVpxQUFVTjFpNVM0WkRVcVY3cnAzRTRZSUdxUHd2Vmh5by05Q3hNTzJOYi1oUU1MU3ZQY2dYUFgtMzBJcTdXejBCTUZJdDU3V1Uzd013ZFZIbldHdzBfVzBhWFRZcVl5WXE1UzFuVDN6YWlDemlIaWtJVXFOdjdCRC01bnMtbzhmcmd2Z2hnRWJ3OTNSX3JIc043U1lGdEFiTXNtWVZzc3lMVWszZw?oc=5",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.18,
-          "lon": -96.14
-        }
-      ]
-    }
-  ],
-  "para_mapa": [
-    {
-      "id": "fdb22be6",
-      "tipo": "bloqueo",
-      "ruta": "CNTE reitera: los paros terminarán hasta que se abrogue la…",
-      "descripcion": "CNTE reitera: los paros terminarán hasta que se abrogue la Ley del ISSSTE 2007. El secretario Isael González aceptó que ya hay \"desgaste\" tras 18 días de protesta, pero las movilizaciones continuarán",
-      "fecha": "18 junio 2026 · 18:45 CST",
-      "fuente": "El Informador Jalisco",
-      "url": "https://www.informador.mx/mexico/cnte-reitera-los-paros-terminaran-hasta-que-se-abrogue-la-ley-del-issste-2007-20260618-0200.html",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 19.1,
-      "lon": -104.3
-    },
-    {
-      "id": "2afc10d6",
-      "tipo": "cierre_parcial",
-      "ruta": "carretera de Perote provoca cierre parcial - TV Azteca",
-      "descripcion": "¡Caos en Veracruz! Accidente en carretera de Perote provoca cierre parcial - TV Azteca. ¡Caos en Veracruz! Accidente en carretera de Perote provoca cierre parcial TV Azteca",
-      "fecha": "18 junio 2026 · 18:03 CST",
-      "fuente": "TV Azteca",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOU1NrZXpLNGlJeE8tc1lPOG43REp6VkhTR0hSOEtfSlBsTndfOExoSkxPTWpiVm1SZFVXc1d2eXB4XzhyREdybktzNjVNUWJnbmlXbXlvUHZKb1A0RXlpZ2pEbnB5Q29WU0RZTElnbDViRFNVZ3dtamphOU5MZlE2V2VZdzA4LUM2V3dveTJLWjF6eHZqaWRYX1BvQTh1a1NaOXRkVzNFa1ItVnN4WDZQdm1kMDVKT1ZuOGfSAccBQVVfeXFMT2VXV3dCUjVSdHJfQ2JtdXdyc0ozNHEzVDBpcVpxQUFVTjFpNVM0WkRVcVY3cnAzRTRZSUdxUHd2Vmh5by05Q3hNTzJOYi1oUU1MU3ZQY2dYUFgtMzBJcTdXejBCTUZJdDU3V1Uzd013ZFZIbldHdzBfVzBhWFRZcVl5WXE1UzFuVDN6YWlDemlIaWtJVXFOdjdCRC01bnMtbzhmcmd2Z2hnRWJ3OTNSX3JIc043U1lGdEFiTXNtWVZzc3lMVWszZw?oc=5",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.18,
-      "lon": -96.14
-    }
-  ]
+  "grupos": [],
+  "para_mapa": [],
+  "nota": "Sin alertas activas en la ventana de tiempo configurada."
 }
