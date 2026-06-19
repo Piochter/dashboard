@@ -1,12 +1,104 @@
 {
-  "ultima_actualizacion": "2026-06-19T11:55:28.295290-06:00",
-  "ultima_actualizacion_legible": "19 de junio de 2026 · 11:55 CST",
-  "total": 0,
+  "ultima_actualizacion": "2026-06-19T13:47:05.725426-06:00",
+  "ultima_actualizacion_legible": "19 de junio de 2026 · 13:47 CST",
+  "total": 3,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Google News"
+    "Medios regionales",
+    "Quadratín + regionales"
   ],
-  "grupos": [],
-  "para_mapa": [],
-  "nota": "Sin alertas activas en la ventana de tiempo configurada."
+  "grupos": [
+    {
+      "tipo": "bloqueo",
+      "color": "rojo",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "76c5ee9d",
+          "tipo": "bloqueo",
+          "ruta": "Cumple magisterio 26 días de paro y protestas en Oaxaca…",
+          "descripcion": "Cumple magisterio 26 días de paro y protestas en Oaxaca. La Sección 22 considera insuficientes las respuestas oficiales y mantiene la suspensión de clases, el plantón y las movilizaciones.",
+          "recomendacion": "",
+          "fecha": "19 junio 2026 · 13:08 CST",
+          "fecha_iso": "2026-06-19T13:08:00-06:00",
+          "fuente": "Quadratín Oaxaca",
+          "url": "https://oaxaca.quadratin.com.mx/cumple-magisterio-26-dias-de-paro-y-protestas-en-oaxaca/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 17.06,
+          "lon": -96.72
+        }
+      ]
+    },
+    {
+      "tipo": "cierre_parcial",
+      "color": "amarillo",
+      "icono": "🟡",
+      "label": "CIERRE PARCIAL / ACCIDENTES",
+      "col2": true,
+      "alertas": [
+        {
+          "id": "c266b2ef",
+          "tipo": "cierre_parcial",
+          "ruta": "Conoce los cierres viales del domingo en la ZMG por…",
+          "descripcion": "Conoce los cierres viales del domingo en la ZMG por carrera deportiva. ¡Toma nota! Este domingo se llevará a cabo la carrera Legacy Cup Guadalajara que afectará diversas vialidades de la ciudad",
+          "recomendacion": "",
+          "fecha": "19 junio 2026 · 12:23 CST",
+          "fecha_iso": "2026-06-19T12:23:00-06:00",
+          "fuente": "El Informador Jalisco",
+          "url": "https://www.informador.mx/jalisco/cierres-viales-en-la-zmg-el-domingo-21-de-junio-de-2026-por-carrera-deportiva-20260619-0103.html",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 20.66,
+          "lon": -103.35
+        },
+        {
+          "id": "d7802117",
+          "tipo": "cierre_parcial",
+          "ruta": "Se manifiestan taxistas en Morelia por aprobación de sitios…",
+          "descripcion": "Se manifiestan taxistas en Morelia por aprobación de sitios. Vialidades como la avenida Madero están actualmente cerradas",
+          "recomendacion": "",
+          "fecha": "19 junio 2026 · 11:59 CST",
+          "fecha_iso": "2026-06-19T11:59:00-06:00",
+          "fuente": "Quadratín Michoacán",
+          "url": "https://www.quadratin.com.mx/morelia/se-manifiestan-taxistas-en-morelia-por-aprobacion-de-sitios/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        }
+      ]
+    }
+  ],
+  "para_mapa": [
+    {
+      "id": "76c5ee9d",
+      "tipo": "bloqueo",
+      "ruta": "Cumple magisterio 26 días de paro y protestas en Oaxaca…",
+      "descripcion": "Cumple magisterio 26 días de paro y protestas en Oaxaca. La Sección 22 considera insuficientes las respuestas oficiales y mantiene la suspensión de clases, el plantón y las movilizaciones.",
+      "fecha": "19 junio 2026 · 13:08 CST",
+      "fuente": "Quadratín Oaxaca",
+      "url": "https://oaxaca.quadratin.com.mx/cumple-magisterio-26-dias-de-paro-y-protestas-en-oaxaca/",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 17.06,
+      "lon": -96.72
+    },
+    {
+      "id": "c266b2ef",
+      "tipo": "cierre_parcial",
+      "ruta": "Conoce los cierres viales del domingo en la ZMG por…",
+      "descripcion": "Conoce los cierres viales del domingo en la ZMG por carrera deportiva. ¡Toma nota! Este domingo se llevará a cabo la carrera Legacy Cup Guadalajara que afectará diversas vialidades de la ciudad",
+      "fecha": "19 junio 2026 · 12:23 CST",
+      "fuente": "El Informador Jalisco",
+      "url": "https://www.informador.mx/jalisco/cierres-viales-en-la-zmg-el-domingo-21-de-junio-de-2026-por-carrera-deportiva-20260619-0103.html",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 20.66,
+      "lon": -103.35
+    }
+  ]
 }
