@@ -1,9 +1,10 @@
 {
-  "ultima_actualizacion": "2026-06-19T13:47:05.725426-06:00",
-  "ultima_actualizacion_legible": "19 de junio de 2026 · 13:47 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-06-19T14:59:07.090367-06:00",
+  "ultima_actualizacion_legible": "19 de junio de 2026 · 14:59 CST",
+  "total": 5,
   "ventana": "últimos 180 minutos",
   "fuentes": [
+    "Google News",
     "Medios regionales",
     "Quadratín + regionales"
   ],
@@ -15,6 +16,20 @@
       "label": "BLOQUEOS / MANIFESTACIONES",
       "col2": false,
       "alertas": [
+        {
+          "id": "938bf3c5",
+          "tipo": "bloqueo",
+          "ruta": "EN VIVO: ¿Qué pasa hoy en las carreteras de México?…",
+          "descripcion": "EN VIVO: ¿Qué pasa hoy en las carreteras de México? Bloqueos, tráfico y accidentes este 19 de junio - TV Azteca. EN VIVO: ¿Qué pasa hoy en las carreteras de México? Bloqueos, tráfico y accidentes este 19 de junio TV Azteca",
+          "recomendacion": "",
+          "fecha": "19 junio 2026 · 14:47 CST",
+          "fecha_iso": "2026-06-19T14:47:00-06:00",
+          "fuente": "TV Azteca",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYVZsV1U4R3JnNV9SZFlOdlphbmlPTmV3TnJtYTNXVF9RV2VXWUY0RkFQYTllckpKcDg0eU5ZMkNlUEw3TVNYeFRCTWVuRF9aX1RmM19BWlo5Qzg2bEtvNWlUN2tFVkJjdTgzQXdzTUhjZjE2LTd4RUgtSEh4S0wwWmF1SnlRZ0FhbzJzOG1FN2FmVDBydk53Y0lTR2wyQ3hvcVpHYjg2UEVKRnNWNWxRZ001MDBFRVg3V0k1elFRdHE1VXd0eW9hb3VB0gHXAUFVX3lxTE95cGJOR183V3ZJMEhDYmRqb3NvZHN0OVpiWl9takR1SldXLWt5a2E4NXRLRTZYTEFfUDNNVS1WNHdHTmo4eFJjVHRMVUxVX2pqUFd1YVVDVzhHTDgyNkw0c285VnRxRTY1ak1UOU5SRUhQdVJzUXhDQ1ZmeHRWeEoyMDJwUTltRjJvR3hoVnNkRlVvTnRrQ05lNFhZN0ZPdy1kbGZoLW5FOU1OMjJaRUY5U1pwdVVBZzYtb2JqaV9RazhRV1BjVE55LWFIb1hxYnpBWnRjVnZz?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
         {
           "id": "76c5ee9d",
           "tipo": "bloqueo",
@@ -34,12 +49,51 @@
       ]
     },
     {
+      "tipo": "robo",
+      "color": "rojo",
+      "icono": "🚨",
+      "label": "ROBOS EN CARRETERA",
+      "col2": true,
+      "alertas": [
+        {
+          "id": "5164f4a4",
+          "tipo": "robo",
+          "ruta": "Difunden video de presunto asalto armado a tráiler en la…",
+          "descripcion": "Difunden video de presunto asalto armado a tráiler en la México–Querétaro - Quadratin Hidalgo. Difunden video de presunto asalto armado a tráiler en la México–Querétaro Quadratin Hidalgo",
+          "recomendacion": "",
+          "fecha": "19 junio 2026 · 14:30 CST",
+          "fecha_iso": "2026-06-19T14:30:00-06:00",
+          "fuente": "Quadratin Hidalgo",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNTNZUTdsalZsbzB2ZXY0MTB5dXFILUxYT3daYWN1Sy10SUNqeVM5SWZQTEJaUVp3MmhDWDFtekN0dldKaklRcG05dHNBeU1xR29OdHZiUm81YWJ0aGFVTlJMdldUN1QyNFpjdTFWbWNBMFlfQ2VqUFFhekNEWFVHNE1XRG9pSmI1MkNFRDdneEtDOExwUlVQV3o1NjBwQXN6N1VIVUUwTVFBNWxkRVh4UHA0MmZ1QQ?oc=5",
+          "dot_color": "#c0392b",
+          "badge": "badge-robo",
+          "badge_txt": "ROBO",
+          "lat": 20.1,
+          "lon": -99.5
+        }
+      ]
+    },
+    {
       "tipo": "cierre_parcial",
       "color": "amarillo",
       "icono": "🟡",
       "label": "CIERRE PARCIAL / ACCIDENTES",
       "col2": true,
       "alertas": [
+        {
+          "id": "ab75288d",
+          "tipo": "cierre_parcial",
+          "ruta": "Prepara Vicente Gómez acciones contra incendios en el Distrito 19…",
+          "descripcion": "Prepara Vicente Gómez acciones contra incendios en el Distrito 19. Para gestionar y apoyar esquemas para la protección",
+          "recomendacion": "",
+          "fecha": "19 junio 2026 · 14:39 CST",
+          "fecha_iso": "2026-06-19T14:39:00-06:00",
+          "fuente": "Quadratín Michoacán",
+          "url": "https://www.quadratin.com.mx/politicas/prepara-vicente-gomez-acciones-contra-incendios-en-el-distrito-19/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        },
         {
           "id": "c266b2ef",
           "tipo": "cierre_parcial",
@@ -55,25 +109,24 @@
           "badge_txt": "CIERRE PARCIAL",
           "lat": 20.66,
           "lon": -103.35
-        },
-        {
-          "id": "d7802117",
-          "tipo": "cierre_parcial",
-          "ruta": "Se manifiestan taxistas en Morelia por aprobación de sitios…",
-          "descripcion": "Se manifiestan taxistas en Morelia por aprobación de sitios. Vialidades como la avenida Madero están actualmente cerradas",
-          "recomendacion": "",
-          "fecha": "19 junio 2026 · 11:59 CST",
-          "fecha_iso": "2026-06-19T11:59:00-06:00",
-          "fuente": "Quadratín Michoacán",
-          "url": "https://www.quadratin.com.mx/morelia/se-manifiestan-taxistas-en-morelia-por-aprobacion-de-sitios/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
         }
       ]
     }
   ],
   "para_mapa": [
+    {
+      "id": "5164f4a4",
+      "tipo": "robo",
+      "ruta": "Difunden video de presunto asalto armado a tráiler en la…",
+      "descripcion": "Difunden video de presunto asalto armado a tráiler en la México–Querétaro - Quadratin Hidalgo. Difunden video de presunto asalto armado a tráiler en la México–Querétaro Quadratin Hidalgo",
+      "fecha": "19 junio 2026 · 14:30 CST",
+      "fuente": "Quadratin Hidalgo",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNTNZUTdsalZsbzB2ZXY0MTB5dXFILUxYT3daYWN1Sy10SUNqeVM5SWZQTEJaUVp3MmhDWDFtekN0dldKaklRcG05dHNBeU1xR29OdHZiUm81YWJ0aGFVTlJMdldUN1QyNFpjdTFWbWNBMFlfQ2VqUFFhekNEWFVHNE1XRG9pSmI1MkNFRDdneEtDOExwUlVQV3o1NjBwQXN6N1VIVUUwTVFBNWxkRVh4UHA0MmZ1QQ?oc=5",
+      "dot_color": "#c0392b",
+      "badge_txt": "ROBO",
+      "lat": 20.1,
+      "lon": -99.5
+    },
     {
       "id": "76c5ee9d",
       "tipo": "bloqueo",
