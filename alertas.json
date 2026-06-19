@@ -1,11 +1,11 @@
 {
-  "ultima_actualizacion": "2026-06-19T16:06:21.507322-06:00",
-  "ultima_actualizacion_legible": "19 de junio de 2026 · 16:06 CST",
+  "ultima_actualizacion": "2026-06-19T17:16:15.551103-06:00",
+  "ultima_actualizacion_legible": "19 de junio de 2026 · 17:16 CST",
   "total": 3,
   "ventana": "últimos 180 minutos",
   "fuentes": [
     "Google News",
-    "Quadratín + regionales"
+    "Medios regionales"
   ],
   "grupos": [
     {
@@ -21,29 +21,13 @@
           "ruta": "EN VIVO: ¿Qué pasa hoy en las carreteras de México?…",
           "descripcion": "EN VIVO: ¿Qué pasa hoy en las carreteras de México? Bloqueos, tráfico y accidentes este 19 de junio - TV Azteca. EN VIVO: ¿Qué pasa hoy en las carreteras de México? Bloqueos, tráfico y accidentes este 19 de junio TV Azteca",
           "recomendacion": "",
-          "fecha": "19 junio 2026 · 16:02 CST",
-          "fecha_iso": "2026-06-19T16:02:00-06:00",
+          "fecha": "19 junio 2026 · 16:30 CST",
+          "fecha_iso": "2026-06-19T16:30:00-06:00",
           "fuente": "TV Azteca",
           "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYVZsV1U4R3JnNV9SZFlOdlphbmlPTmV3TnJtYTNXVF9RV2VXWUY0RkFQYTllckpKcDg0eU5ZMkNlUEw3TVNYeFRCTWVuRF9aX1RmM19BWlo5Qzg2bEtvNWlUN2tFVkJjdTgzQXdzTUhjZjE2LTd4RUgtSEh4S0wwWmF1SnlRZ0FhbzJzOG1FN2FmVDBydk53Y0lTR2wyQ3hvcVpHYjg2UEVKRnNWNWxRZ001MDBFRVg3V0k1elFRdHE1VXd0eW9hb3VB0gHXAUFVX3lxTE95cGJOR183V3ZJMEhDYmRqb3NvZHN0OVpiWl9takR1SldXLWt5a2E4NXRLRTZYTEFfUDNNVS1WNHdHTmo4eFJjVHRMVUxVX2pqUFd1YVVDVzhHTDgyNkw0c285VnRxRTY1ak1UOU5SRUhQdVJzUXhDQ1ZmeHRWeEoyMDJwUTltRjJvR3hoVnNkRlVvTnRrQ05lNFhZN0ZPdy1kbGZoLW5FOU1OMjJaRUY5U1pwdVVBZzYtb2JqaV9RazhRV1BjVE55LWFIb1hxYnpBWnRjVnZz?oc=5",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO"
-        },
-        {
-          "id": "76c5ee9d",
-          "tipo": "bloqueo",
-          "ruta": "Cumple magisterio 26 días de paro y protestas en Oaxaca…",
-          "descripcion": "Cumple magisterio 26 días de paro y protestas en Oaxaca. La Sección 22 considera insuficientes las respuestas oficiales y mantiene la suspensión de clases, el plantón y las movilizaciones.",
-          "recomendacion": "",
-          "fecha": "19 junio 2026 · 13:08 CST",
-          "fecha_iso": "2026-06-19T13:08:00-06:00",
-          "fuente": "Quadratín Oaxaca",
-          "url": "https://oaxaca.quadratin.com.mx/cumple-magisterio-26-dias-de-paro-y-protestas-en-oaxaca/",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 17.06,
-          "lon": -96.72
         }
       ]
     },
@@ -71,6 +55,29 @@
           "lon": -99.5
         }
       ]
+    },
+    {
+      "tipo": "cierre_parcial",
+      "color": "amarillo",
+      "icono": "🟡",
+      "label": "CIERRE PARCIAL / ACCIDENTES",
+      "col2": true,
+      "alertas": [
+        {
+          "id": "7eb855ac",
+          "tipo": "cierre_parcial",
+          "ruta": "Terrible CHOQUE de trenes en Inglaterra deja un muerto y…",
+          "descripcion": "Terrible CHOQUE de trenes en Inglaterra deja un muerto y decenas de heridos. La colisión que dejó de forma preliminar 89 heridos tuvo lugar en una vía ferroviaria al sur de Bedford",
+          "recomendacion": "",
+          "fecha": "19 junio 2026 · 16:29 CST",
+          "fecha_iso": "2026-06-19T16:29:00-06:00",
+          "fuente": "El Informador Jalisco",
+          "url": "https://www.informador.mx/internacional/terrible-choque-de-trenes-en-inglaterra-deja-un-muerto-y-decenas-de-heridos-los-detalles-20260619-0165.html",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        }
+      ]
     }
   ],
   "para_mapa": [
@@ -86,19 +93,6 @@
       "badge_txt": "ROBO",
       "lat": 20.1,
       "lon": -99.5
-    },
-    {
-      "id": "76c5ee9d",
-      "tipo": "bloqueo",
-      "ruta": "Cumple magisterio 26 días de paro y protestas en Oaxaca…",
-      "descripcion": "Cumple magisterio 26 días de paro y protestas en Oaxaca. La Sección 22 considera insuficientes las respuestas oficiales y mantiene la suspensión de clases, el plantón y las movilizaciones.",
-      "fecha": "19 junio 2026 · 13:08 CST",
-      "fuente": "Quadratín Oaxaca",
-      "url": "https://oaxaca.quadratin.com.mx/cumple-magisterio-26-dias-de-paro-y-protestas-en-oaxaca/",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 17.06,
-      "lon": -96.72
     }
   ]
 }
