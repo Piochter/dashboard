@@ -1,66 +1,50 @@
 {
-  "ultima_actualizacion": "2026-06-19T19:32:46.429876-06:00",
-  "ultima_actualizacion_legible": "19 de junio de 2026 · 19:32 CST",
+  "ultima_actualizacion": "2026-06-20T00:04:47.166592-06:00",
+  "ultima_actualizacion_legible": "20 de junio de 2026 · 00:04 CST",
   "total": 2,
   "ventana": "últimos 180 minutos",
   "fuentes": [
     "Google News",
-    "Quadratín + regionales"
+    "Medios nacionales"
   ],
   "grupos": [
     {
-      "tipo": "bloqueo",
-      "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
-      "col2": false,
+      "tipo": "cierre_parcial",
+      "color": "amarillo",
+      "icono": "🟡",
+      "label": "CIERRE PARCIAL / ACCIDENTES",
+      "col2": true,
       "alertas": [
         {
-          "id": "4ff0e01f",
-          "tipo": "bloqueo",
-          "ruta": "Agreden a periodistas durante bloqueo de maestros en Chiapas…",
-          "descripcion": "Agreden a periodistas durante bloqueo de maestros en Chiapas. Los manifestantes atravesaron tráileres para bloquear la vialidad y también agredieron a conductores de vehículos",
+          "id": "7a60ffb4",
+          "tipo": "cierre_parcial",
+          "ruta": "Incendio en hotel de República Dominicana deja una turista italiana…",
+          "descripcion": "Incendio en hotel de República Dominicana deja una turista italiana muerta. Por el incendio, autoridades evacuaron a unos mil 690 huéspedes que se encontraban en el hotel Viva Dominicus Beach de la cadena Wyndham.",
           "recomendacion": "",
-          "fecha": "19 junio 2026 · 18:29 CST",
-          "fecha_iso": "2026-06-19T18:29:00-06:00",
-          "fuente": "Quadratín Oaxaca",
-          "url": "https://oaxaca.quadratin.com.mx/agreden-a-periodistas-durante-bloqueo-de-maestros-en-chiapas/",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 16.75,
-          "lon": -93.12
+          "fecha": "19 junio 2026 · 23:14 CST",
+          "fecha_iso": "2026-06-19T23:14:00-06:00",
+          "fuente": "24 Horas",
+          "url": "https://24-horas.mx/mundo/incendio-en-hotel-de-republica-dominicana-deja-una-turista-italiana-muerta/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
         },
         {
-          "id": "938bf3c5",
-          "tipo": "bloqueo",
-          "ruta": "EN VIVO: ¿Qué pasa hoy en las carreteras de México?…",
-          "descripcion": "EN VIVO: ¿Qué pasa hoy en las carreteras de México? Bloqueos, tráfico y accidentes este 19 de junio - TV Azteca. EN VIVO: ¿Qué pasa hoy en las carreteras de México? Bloqueos, tráfico y accidentes este 19 de junio TV Azteca",
+          "id": "3e48963c",
+          "tipo": "cierre_parcial",
+          "ruta": "Fuerte choque en Carretera federal Texcoco-Lechería; actualizaciones EN VIVO de…",
+          "descripcion": "Fuerte choque en Carretera federal Texcoco-Lechería; actualizaciones EN VIVO de carreteras hoy 19 junio - TV Azteca. Fuerte choque en Carretera federal Texcoco-Lechería; actualizaciones EN VIVO de carreteras hoy 19 junio TV Azteca",
           "recomendacion": "",
-          "fecha": "19 junio 2026 · 18:19 CST",
-          "fecha_iso": "2026-06-19T18:19:00-06:00",
+          "fecha": "19 junio 2026 · 22:34 CST",
+          "fecha_iso": "2026-06-19T22:34:00-06:00",
           "fuente": "TV Azteca",
           "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYVZsV1U4R3JnNV9SZFlOdlphbmlPTmV3TnJtYTNXVF9RV2VXWUY0RkFQYTllckpKcDg0eU5ZMkNlUEw3TVNYeFRCTWVuRF9aX1RmM19BWlo5Qzg2bEtvNWlUN2tFVkJjdTgzQXdzTUhjZjE2LTd4RUgtSEh4S0wwWmF1SnlRZ0FhbzJzOG1FN2FmVDBydk53Y0lTR2wyQ3hvcVpHYjg2UEVKRnNWNWxRZ001MDBFRVg3V0k1elFRdHE1VXd0eW9hb3VB0gHXAUFVX3lxTE95cGJOR183V3ZJMEhDYmRqb3NvZHN0OVpiWl9takR1SldXLWt5a2E4NXRLRTZYTEFfUDNNVS1WNHdHTmo4eFJjVHRMVUxVX2pqUFd1YVVDVzhHTDgyNkw0c285VnRxRTY1ak1UOU5SRUhQdVJzUXhDQ1ZmeHRWeEoyMDJwUTltRjJvR3hoVnNkRlVvTnRrQ05lNFhZN0ZPdy1kbGZoLW5FOU1OMjJaRUY5U1pwdVVBZzYtb2JqaV9RazhRV1BjVE55LWFIb1hxYnpBWnRjVnZz?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
         }
       ]
     }
   ],
-  "para_mapa": [
-    {
-      "id": "4ff0e01f",
-      "tipo": "bloqueo",
-      "ruta": "Agreden a periodistas durante bloqueo de maestros en Chiapas…",
-      "descripcion": "Agreden a periodistas durante bloqueo de maestros en Chiapas. Los manifestantes atravesaron tráileres para bloquear la vialidad y también agredieron a conductores de vehículos",
-      "fecha": "19 junio 2026 · 18:29 CST",
-      "fuente": "Quadratín Oaxaca",
-      "url": "https://oaxaca.quadratin.com.mx/agreden-a-periodistas-durante-bloqueo-de-maestros-en-chiapas/",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 16.75,
-      "lon": -93.12
-    }
-  ]
+  "para_mapa": []
 }
