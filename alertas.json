@@ -1,75 +1,12 @@
 {
-  "ultima_actualizacion": "2026-06-20T16:42:06.564351-06:00",
-  "ultima_actualizacion_legible": "20 de junio de 2026 · 16:42 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-06-20T17:51:18.236421-06:00",
+  "ultima_actualizacion_legible": "20 de junio de 2026 · 17:51 CST",
+  "total": 0,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Medios regionales",
-    "Quadratín + regionales"
+    "Google News"
   ],
-  "grupos": [
-    {
-      "tipo": "bloqueo",
-      "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "23761600",
-          "tipo": "bloqueo",
-          "ruta": "Declara Sección 22 receso para reorganizarse y retomar protestas…",
-          "descripcion": "Declara Sección 22 receso para reorganizarse y retomar protestas. El magisterio regresará a las comunidades y mantendrá vigentes sus demandas",
-          "recomendacion": "",
-          "fecha": "20 junio 2026 · 13:45 CST",
-          "fecha_iso": "2026-06-20T13:45:00-06:00",
-          "fuente": "Quadratín Oaxaca",
-          "url": "https://oaxaca.quadratin.com.mx/declara-seccion-22-receso-para-reorganizarse-y-retomar-protestas/",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        }
-      ]
-    },
-    {
-      "tipo": "clima",
-      "color": "azul",
-      "icono": "🌧️",
-      "label": "ALERTA METEOROLÓGICA",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "370cb81f",
-          "tipo": "clima",
-          "ruta": "Los cruces más inundados este sábado por tormenta en Guadalajara…",
-          "descripcion": "Los cruces más inundados este sábado por tormenta en Guadalajara. Las intensas lluvias de este sábado 20 de junio han provocado inundaciones y cierres viales en puntos estratégicos del Área Metropolitana de Guadalajara",
-          "recomendacion": "",
-          "fecha": "20 junio 2026 · 14:18 CST",
-          "fecha_iso": "2026-06-20T14:18:00-06:00",
-          "fuente": "El Informador Jalisco",
-          "url": "https://www.informador.mx/jalisco/lluvias-en-guadalajara-los-cruces-mas-inundados-este-20-de-junio-20260620-0076.html",
-          "dot_color": "#3498db",
-          "badge": "badge-clima",
-          "badge_txt": "ALERTA CLIMA",
-          "lat": 20.66,
-          "lon": -103.35
-        }
-      ]
-    }
-  ],
-  "para_mapa": [
-    {
-      "id": "370cb81f",
-      "tipo": "clima",
-      "ruta": "Los cruces más inundados este sábado por tormenta en Guadalajara…",
-      "descripcion": "Los cruces más inundados este sábado por tormenta en Guadalajara. Las intensas lluvias de este sábado 20 de junio han provocado inundaciones y cierres viales en puntos estratégicos del Área Metropolitana de Guadalajara",
-      "fecha": "20 junio 2026 · 14:18 CST",
-      "fuente": "El Informador Jalisco",
-      "url": "https://www.informador.mx/jalisco/lluvias-en-guadalajara-los-cruces-mas-inundados-este-20-de-junio-20260620-0076.html",
-      "dot_color": "#3498db",
-      "badge_txt": "ALERTA CLIMA",
-      "lat": 20.66,
-      "lon": -103.35
-    }
-  ]
+  "grupos": [],
+  "para_mapa": [],
+  "nota": "Sin alertas activas en la ventana de tiempo configurada."
 }
