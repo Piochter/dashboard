@@ -1,11 +1,11 @@
 {
-  "ultima_actualizacion": "2026-06-19T17:16:15.551103-06:00",
-  "ultima_actualizacion_legible": "19 de junio de 2026 · 17:16 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-06-19T19:32:46.429876-06:00",
+  "ultima_actualizacion_legible": "19 de junio de 2026 · 19:32 CST",
+  "total": 2,
   "ventana": "últimos 180 minutos",
   "fuentes": [
     "Google News",
-    "Medios regionales"
+    "Quadratín + regionales"
   ],
   "grupos": [
     {
@@ -16,13 +16,29 @@
       "col2": false,
       "alertas": [
         {
+          "id": "4ff0e01f",
+          "tipo": "bloqueo",
+          "ruta": "Agreden a periodistas durante bloqueo de maestros en Chiapas…",
+          "descripcion": "Agreden a periodistas durante bloqueo de maestros en Chiapas. Los manifestantes atravesaron tráileres para bloquear la vialidad y también agredieron a conductores de vehículos",
+          "recomendacion": "",
+          "fecha": "19 junio 2026 · 18:29 CST",
+          "fecha_iso": "2026-06-19T18:29:00-06:00",
+          "fuente": "Quadratín Oaxaca",
+          "url": "https://oaxaca.quadratin.com.mx/agreden-a-periodistas-durante-bloqueo-de-maestros-en-chiapas/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 16.75,
+          "lon": -93.12
+        },
+        {
           "id": "938bf3c5",
           "tipo": "bloqueo",
           "ruta": "EN VIVO: ¿Qué pasa hoy en las carreteras de México?…",
           "descripcion": "EN VIVO: ¿Qué pasa hoy en las carreteras de México? Bloqueos, tráfico y accidentes este 19 de junio - TV Azteca. EN VIVO: ¿Qué pasa hoy en las carreteras de México? Bloqueos, tráfico y accidentes este 19 de junio TV Azteca",
           "recomendacion": "",
-          "fecha": "19 junio 2026 · 16:30 CST",
-          "fecha_iso": "2026-06-19T16:30:00-06:00",
+          "fecha": "19 junio 2026 · 18:19 CST",
+          "fecha_iso": "2026-06-19T18:19:00-06:00",
           "fuente": "TV Azteca",
           "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYVZsV1U4R3JnNV9SZFlOdlphbmlPTmV3TnJtYTNXVF9RV2VXWUY0RkFQYTllckpKcDg0eU5ZMkNlUEw3TVNYeFRCTWVuRF9aX1RmM19BWlo5Qzg2bEtvNWlUN2tFVkJjdTgzQXdzTUhjZjE2LTd4RUgtSEh4S0wwWmF1SnlRZ0FhbzJzOG1FN2FmVDBydk53Y0lTR2wyQ3hvcVpHYjg2UEVKRnNWNWxRZ001MDBFRVg3V0k1elFRdHE1VXd0eW9hb3VB0gHXAUFVX3lxTE95cGJOR183V3ZJMEhDYmRqb3NvZHN0OVpiWl9takR1SldXLWt5a2E4NXRLRTZYTEFfUDNNVS1WNHdHTmo4eFJjVHRMVUxVX2pqUFd1YVVDVzhHTDgyNkw0c285VnRxRTY1ak1UOU5SRUhQdVJzUXhDQ1ZmeHRWeEoyMDJwUTltRjJvR3hoVnNkRlVvTnRrQ05lNFhZN0ZPdy1kbGZoLW5FOU1OMjJaRUY5U1pwdVVBZzYtb2JqaV9RazhRV1BjVE55LWFIb1hxYnpBWnRjVnZz?oc=5",
           "dot_color": "#8e44ad",
@@ -30,69 +46,21 @@
           "badge_txt": "BLOQUEO"
         }
       ]
-    },
-    {
-      "tipo": "robo",
-      "color": "rojo",
-      "icono": "🚨",
-      "label": "ROBOS EN CARRETERA",
-      "col2": true,
-      "alertas": [
-        {
-          "id": "5164f4a4",
-          "tipo": "robo",
-          "ruta": "Difunden video de presunto asalto armado a tráiler en la…",
-          "descripcion": "Difunden video de presunto asalto armado a tráiler en la México–Querétaro - Quadratin Hidalgo. Difunden video de presunto asalto armado a tráiler en la México–Querétaro Quadratin Hidalgo",
-          "recomendacion": "",
-          "fecha": "19 junio 2026 · 14:30 CST",
-          "fecha_iso": "2026-06-19T14:30:00-06:00",
-          "fuente": "Quadratin Hidalgo",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNTNZUTdsalZsbzB2ZXY0MTB5dXFILUxYT3daYWN1Sy10SUNqeVM5SWZQTEJaUVp3MmhDWDFtekN0dldKaklRcG05dHNBeU1xR29OdHZiUm81YWJ0aGFVTlJMdldUN1QyNFpjdTFWbWNBMFlfQ2VqUFFhekNEWFVHNE1XRG9pSmI1MkNFRDdneEtDOExwUlVQV3o1NjBwQXN6N1VIVUUwTVFBNWxkRVh4UHA0MmZ1QQ?oc=5",
-          "dot_color": "#c0392b",
-          "badge": "badge-robo",
-          "badge_txt": "ROBO",
-          "lat": 20.1,
-          "lon": -99.5
-        }
-      ]
-    },
-    {
-      "tipo": "cierre_parcial",
-      "color": "amarillo",
-      "icono": "🟡",
-      "label": "CIERRE PARCIAL / ACCIDENTES",
-      "col2": true,
-      "alertas": [
-        {
-          "id": "7eb855ac",
-          "tipo": "cierre_parcial",
-          "ruta": "Terrible CHOQUE de trenes en Inglaterra deja un muerto y…",
-          "descripcion": "Terrible CHOQUE de trenes en Inglaterra deja un muerto y decenas de heridos. La colisión que dejó de forma preliminar 89 heridos tuvo lugar en una vía ferroviaria al sur de Bedford",
-          "recomendacion": "",
-          "fecha": "19 junio 2026 · 16:29 CST",
-          "fecha_iso": "2026-06-19T16:29:00-06:00",
-          "fuente": "El Informador Jalisco",
-          "url": "https://www.informador.mx/internacional/terrible-choque-de-trenes-en-inglaterra-deja-un-muerto-y-decenas-de-heridos-los-detalles-20260619-0165.html",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
-        }
-      ]
     }
   ],
   "para_mapa": [
     {
-      "id": "5164f4a4",
-      "tipo": "robo",
-      "ruta": "Difunden video de presunto asalto armado a tráiler en la…",
-      "descripcion": "Difunden video de presunto asalto armado a tráiler en la México–Querétaro - Quadratin Hidalgo. Difunden video de presunto asalto armado a tráiler en la México–Querétaro Quadratin Hidalgo",
-      "fecha": "19 junio 2026 · 14:30 CST",
-      "fuente": "Quadratin Hidalgo",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNTNZUTdsalZsbzB2ZXY0MTB5dXFILUxYT3daYWN1Sy10SUNqeVM5SWZQTEJaUVp3MmhDWDFtekN0dldKaklRcG05dHNBeU1xR29OdHZiUm81YWJ0aGFVTlJMdldUN1QyNFpjdTFWbWNBMFlfQ2VqUFFhekNEWFVHNE1XRG9pSmI1MkNFRDdneEtDOExwUlVQV3o1NjBwQXN6N1VIVUUwTVFBNWxkRVh4UHA0MmZ1QQ?oc=5",
-      "dot_color": "#c0392b",
-      "badge_txt": "ROBO",
-      "lat": 20.1,
-      "lon": -99.5
+      "id": "4ff0e01f",
+      "tipo": "bloqueo",
+      "ruta": "Agreden a periodistas durante bloqueo de maestros en Chiapas…",
+      "descripcion": "Agreden a periodistas durante bloqueo de maestros en Chiapas. Los manifestantes atravesaron tráileres para bloquear la vialidad y también agredieron a conductores de vehículos",
+      "fecha": "19 junio 2026 · 18:29 CST",
+      "fuente": "Quadratín Oaxaca",
+      "url": "https://oaxaca.quadratin.com.mx/agreden-a-periodistas-durante-bloqueo-de-maestros-en-chiapas/",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 16.75,
+      "lon": -93.12
     }
   ]
 }
