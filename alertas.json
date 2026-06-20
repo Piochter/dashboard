@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-06-20T15:17:41.691697-06:00",
-  "ultima_actualizacion_legible": "20 de junio de 2026 · 15:17 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-06-20T16:42:06.564351-06:00",
+  "ultima_actualizacion_legible": "20 de junio de 2026 · 16:42 CST",
+  "total": 2,
   "ventana": "últimos 180 minutos",
   "fuentes": [
     "Medios regionales",
@@ -28,31 +28,6 @@
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO"
-        }
-      ]
-    },
-    {
-      "tipo": "robo",
-      "color": "rojo",
-      "icono": "🚨",
-      "label": "ROBOS EN CARRETERA",
-      "col2": true,
-      "alertas": [
-        {
-          "id": "3eea5e1c",
-          "tipo": "robo",
-          "ruta": "Tras persecución, detiene a un hombre en Guadalajara…",
-          "descripcion": "Tras persecución, detiene a un hombre en Guadalajara. Los hechos comenzaron en la colonia El Sauz, donde la víctima reportó el robo y terminó en la carretera a Nogales, donde el vehículo volcó",
-          "recomendacion": "",
-          "fecha": "20 junio 2026 · 13:32 CST",
-          "fecha_iso": "2026-06-20T13:32:00-06:00",
-          "fuente": "Quadratín Jalisco",
-          "url": "https://jalisco.quadratin.com.mx/sucesos/tras-persecucion-detiene-a-un-hombre-en-guadalajara/",
-          "dot_color": "#c0392b",
-          "badge": "badge-robo",
-          "badge_txt": "ROBO",
-          "lat": 20.66,
-          "lon": -103.35
         }
       ]
     },
@@ -93,19 +68,6 @@
       "url": "https://www.informador.mx/jalisco/lluvias-en-guadalajara-los-cruces-mas-inundados-este-20-de-junio-20260620-0076.html",
       "dot_color": "#3498db",
       "badge_txt": "ALERTA CLIMA",
-      "lat": 20.66,
-      "lon": -103.35
-    },
-    {
-      "id": "3eea5e1c",
-      "tipo": "robo",
-      "ruta": "Tras persecución, detiene a un hombre en Guadalajara…",
-      "descripcion": "Tras persecución, detiene a un hombre en Guadalajara. Los hechos comenzaron en la colonia El Sauz, donde la víctima reportó el robo y terminó en la carretera a Nogales, donde el vehículo volcó",
-      "fecha": "20 junio 2026 · 13:32 CST",
-      "fuente": "Quadratín Jalisco",
-      "url": "https://jalisco.quadratin.com.mx/sucesos/tras-persecucion-detiene-a-un-hombre-en-guadalajara/",
-      "dot_color": "#c0392b",
-      "badge_txt": "ROBO",
       "lat": 20.66,
       "lon": -103.35
     }
