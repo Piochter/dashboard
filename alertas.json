@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-06-20T13:57:54.068391-06:00",
-  "ultima_actualizacion_legible": "20 de junio de 2026 · 13:57 CST",
-  "total": 4,
+  "ultima_actualizacion": "2026-06-20T15:17:41.691697-06:00",
+  "ultima_actualizacion_legible": "20 de junio de 2026 · 15:17 CST",
+  "total": 3,
   "ventana": "últimos 180 minutos",
   "fuentes": [
     "Medios regionales",
@@ -57,29 +57,6 @@
       ]
     },
     {
-      "tipo": "cierre_parcial",
-      "color": "amarillo",
-      "icono": "🟡",
-      "label": "CIERRE PARCIAL / ACCIDENTES",
-      "col2": true,
-      "alertas": [
-        {
-          "id": "5ff57f7e",
-          "tipo": "cierre_parcial",
-          "ruta": "carretera Salamanca-Valle de Santiago",
-          "descripcion": "Choque múltiple deja 11 pasajeros heridos en la carretera Salamanca-Valle de Santiago. Aunque en el lugar no se determinaron las causas del siniestro, se presumió que la lluvia pudo afectar la visibilidad.",
-          "recomendacion": "",
-          "fecha": "20 junio 2026 · 12:04 CST",
-          "fecha_iso": "2026-06-20T12:04:00-06:00",
-          "fuente": "AM Guanajuato",
-          "url": "https://www.am.com.mx/guanajuato-sur/2026/06/20/choque-en-la-salamanca-valle-de-santiago-hay-11-heridos-1809223.html",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
-        }
-      ]
-    },
-    {
       "tipo": "clima",
       "color": "azul",
       "icono": "🌧️",
@@ -87,23 +64,38 @@
       "col2": false,
       "alertas": [
         {
-          "id": "4612e545",
+          "id": "370cb81f",
           "tipo": "clima",
-          "ruta": "Caos en León: Intensa lluvia inunda bulevares, derriba árboles y…",
-          "descripcion": "Caos en León: Intensa lluvia inunda bulevares, derriba árboles y llena el Malecón. Una intensa tormenta con acumulados de 47 mm inundó el bulevar Juan Alonso de Torres en la zona oriente, derribó 6 árboles y obligó al cierre preventivo del Malecón del Río al saturarse al 90% de su capacidad.",
+          "ruta": "Los cruces más inundados este sábado por tormenta en Guadalajara…",
+          "descripcion": "Los cruces más inundados este sábado por tormenta en Guadalajara. Las intensas lluvias de este sábado 20 de junio han provocado inundaciones y cierres viales en puntos estratégicos del Área Metropolitana de Guadalajara",
           "recomendacion": "",
-          "fecha": "20 junio 2026 · 13:13 CST",
-          "fecha_iso": "2026-06-20T13:13:00-06:00",
-          "fuente": "AM Guanajuato",
-          "url": "https://www.am.com.mx/leon/2026/06/20/caos-en-leon-intensa-lluvia-inunda-bulevares-derriba-arboles-y-llena-el-malecon-1809239.html",
+          "fecha": "20 junio 2026 · 14:18 CST",
+          "fecha_iso": "2026-06-20T14:18:00-06:00",
+          "fuente": "El Informador Jalisco",
+          "url": "https://www.informador.mx/jalisco/lluvias-en-guadalajara-los-cruces-mas-inundados-este-20-de-junio-20260620-0076.html",
           "dot_color": "#3498db",
           "badge": "badge-clima",
-          "badge_txt": "ALERTA CLIMA"
+          "badge_txt": "ALERTA CLIMA",
+          "lat": 20.66,
+          "lon": -103.35
         }
       ]
     }
   ],
   "para_mapa": [
+    {
+      "id": "370cb81f",
+      "tipo": "clima",
+      "ruta": "Los cruces más inundados este sábado por tormenta en Guadalajara…",
+      "descripcion": "Los cruces más inundados este sábado por tormenta en Guadalajara. Las intensas lluvias de este sábado 20 de junio han provocado inundaciones y cierres viales en puntos estratégicos del Área Metropolitana de Guadalajara",
+      "fecha": "20 junio 2026 · 14:18 CST",
+      "fuente": "El Informador Jalisco",
+      "url": "https://www.informador.mx/jalisco/lluvias-en-guadalajara-los-cruces-mas-inundados-este-20-de-junio-20260620-0076.html",
+      "dot_color": "#3498db",
+      "badge_txt": "ALERTA CLIMA",
+      "lat": 20.66,
+      "lon": -103.35
+    },
     {
       "id": "3eea5e1c",
       "tipo": "robo",
