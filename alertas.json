@@ -1,12 +1,35 @@
 {
-  "ultima_actualizacion": "2026-06-20T07:13:59.352283-06:00",
-  "ultima_actualizacion_legible": "20 de junio de 2026 · 07:13 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-06-20T09:16:16.491007-06:00",
+  "ultima_actualizacion_legible": "20 de junio de 2026 · 09:16 CST",
+  "total": 2,
   "ventana": "últimos 180 minutos",
   "fuentes": [
     "Google News"
   ],
   "grupos": [
+    {
+      "tipo": "bloqueo",
+      "color": "rojo",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "0b6d17fb",
+          "tipo": "bloqueo",
+          "ruta": "Bloqueos en carreteras HOY 20 de junio: estas son las…",
+          "descripcion": "Bloqueos en carreteras HOY 20 de junio: estas son las autopistas con cierres, accidentes y afectaciones según CAPUFE - Eje Central. Bloqueos en carreteras HOY 20 de junio: estas son las autopistas con cierres, accidentes y afectaciones según CAPUFE Eje Central",
+          "recomendacion": "",
+          "fecha": "20 junio 2026 · 09:03 CST",
+          "fecha_iso": "2026-06-20T09:03:00-06:00",
+          "fuente": "Eje Central",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNdzc3NTVaUEZDWVpFSHM3bGQ3VzluR18wcnhyVFhaX2xCS1ZjSHZpN3FuZUFpcUpFQjBwMllkNFZucUVVamhfbDJmQnMxMmNFUkpqYzlaaTlFcTJHWUFoM1ZCRUpvSHBOZXBobXJZd2RaRm1GWFY3V1kwSjBBczFaY0t6eV9qQ04xSi1rNERQQUw0RU5rNU5TSzRBYXJjT2VXbnFCWGZuQnl4b0xNcjRHdkM1TnJYUXJTSzBZTElnZjhkZDQtTHFfZTNJb0RxbFItSXdsUGI4OU9zSWxuSnFwcTc4TnBMMGI3aTN2ZA?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        }
+      ]
+    },
     {
       "tipo": "cierre_parcial",
       "color": "amarillo",
@@ -20,8 +43,8 @@
           "ruta": "Carreteras Bloqueadas en México Hoy, Sábado 20 de Junio 2026…",
           "descripcion": "Carreteras Bloqueadas en México Hoy, Sábado 20 de Junio 2026 - N+. Carreteras Bloqueadas en México Hoy, Sábado 20 de Junio 2026 N+",
           "recomendacion": "",
-          "fecha": "20 junio 2026 · 06:46 CST",
-          "fecha_iso": "2026-06-20T06:46:00-06:00",
+          "fecha": "20 junio 2026 · 06:44 CST",
+          "fecha_iso": "2026-06-20T06:44:00-06:00",
           "fuente": "N+",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQb1Y2UkNtcGpnRkIwdXhOVVdLRngtYWVFaWxTZWNjQy1aWTdtaHBWajVhMFAxMDhDVXhhVEhDSHU1Y0NPdWYxekw4c3poeWZvUkRLdk1paUVQRjZvTVhQMEhrWEJ5dmp6NUJEMVdac29mV0RxTlFJT0tIc2NWRU9GNmhZYTVnbnFVWGg5azBvRWgxX2w3bDY5aTNR?oc=5",
           "dot_color": "#e67e22",
