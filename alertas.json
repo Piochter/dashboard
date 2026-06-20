@@ -1,12 +1,84 @@
 {
-  "ultima_actualizacion": "2026-06-20T12:10:11.525249-06:00",
-  "ultima_actualizacion_legible": "20 de junio de 2026 · 12:10 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-06-20T13:57:54.068391-06:00",
+  "ultima_actualizacion_legible": "20 de junio de 2026 · 13:57 CST",
+  "total": 4,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Telegram"
+    "Medios regionales",
+    "Quadratín + regionales"
   ],
   "grupos": [
+    {
+      "tipo": "bloqueo",
+      "color": "rojo",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "23761600",
+          "tipo": "bloqueo",
+          "ruta": "Declara Sección 22 receso para reorganizarse y retomar protestas…",
+          "descripcion": "Declara Sección 22 receso para reorganizarse y retomar protestas. El magisterio regresará a las comunidades y mantendrá vigentes sus demandas",
+          "recomendacion": "",
+          "fecha": "20 junio 2026 · 13:45 CST",
+          "fecha_iso": "2026-06-20T13:45:00-06:00",
+          "fuente": "Quadratín Oaxaca",
+          "url": "https://oaxaca.quadratin.com.mx/declara-seccion-22-receso-para-reorganizarse-y-retomar-protestas/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        }
+      ]
+    },
+    {
+      "tipo": "robo",
+      "color": "rojo",
+      "icono": "🚨",
+      "label": "ROBOS EN CARRETERA",
+      "col2": true,
+      "alertas": [
+        {
+          "id": "3eea5e1c",
+          "tipo": "robo",
+          "ruta": "Tras persecución, detiene a un hombre en Guadalajara…",
+          "descripcion": "Tras persecución, detiene a un hombre en Guadalajara. Los hechos comenzaron en la colonia El Sauz, donde la víctima reportó el robo y terminó en la carretera a Nogales, donde el vehículo volcó",
+          "recomendacion": "",
+          "fecha": "20 junio 2026 · 13:32 CST",
+          "fecha_iso": "2026-06-20T13:32:00-06:00",
+          "fuente": "Quadratín Jalisco",
+          "url": "https://jalisco.quadratin.com.mx/sucesos/tras-persecucion-detiene-a-un-hombre-en-guadalajara/",
+          "dot_color": "#c0392b",
+          "badge": "badge-robo",
+          "badge_txt": "ROBO",
+          "lat": 20.66,
+          "lon": -103.35
+        }
+      ]
+    },
+    {
+      "tipo": "cierre_parcial",
+      "color": "amarillo",
+      "icono": "🟡",
+      "label": "CIERRE PARCIAL / ACCIDENTES",
+      "col2": true,
+      "alertas": [
+        {
+          "id": "5ff57f7e",
+          "tipo": "cierre_parcial",
+          "ruta": "carretera Salamanca-Valle de Santiago",
+          "descripcion": "Choque múltiple deja 11 pasajeros heridos en la carretera Salamanca-Valle de Santiago. Aunque en el lugar no se determinaron las causas del siniestro, se presumió que la lluvia pudo afectar la visibilidad.",
+          "recomendacion": "",
+          "fecha": "20 junio 2026 · 12:04 CST",
+          "fecha_iso": "2026-06-20T12:04:00-06:00",
+          "fuente": "AM Guanajuato",
+          "url": "https://www.am.com.mx/guanajuato-sur/2026/06/20/choque-en-la-salamanca-valle-de-santiago-hay-11-heridos-1809223.html",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        }
+      ]
+    },
     {
       "tipo": "clima",
       "color": "azul",
@@ -15,37 +87,35 @@
       "col2": false,
       "alertas": [
         {
-          "id": "6c42325a",
+          "id": "4612e545",
           "tipo": "clima",
-          "ruta": "Por fuertes lluvias en NL una mujer muerta, autos varados…",
-          "descripcion": "Por fuertes lluvias en NL una mujer muerta, autos varados e inundaciones\nhttps://www.jornada.com.mx/2026/06/20/estados/023n1est?partner=rss\n\nMonterrey, NL., Las fuertes lluvias de ayer en Nuevo León dejaron como saldo una persona fallecida, inundaciones, autos varados, así como varios lesionados, la cancelación por segunda ocasión del Fan Fest y daños en diversos municipios del área metropolitana de Monterrey, informó Protección Civil (PC) estatal.",
+          "ruta": "Caos en León: Intensa lluvia inunda bulevares, derriba árboles y…",
+          "descripcion": "Caos en León: Intensa lluvia inunda bulevares, derriba árboles y llena el Malecón. Una intensa tormenta con acumulados de 47 mm inundó el bulevar Juan Alonso de Torres en la zona oriente, derribó 6 árboles y obligó al cierre preventivo del Malecón del Río al saturarse al 90% de su capacidad.",
           "recomendacion": "",
-          "fecha": "20 junio 2026 · 10:20 CST",
-          "fecha_iso": "2026-06-20T10:20:00-06:00",
-          "fuente": "Telegram @NOTMEX",
-          "url": "https://t.me/NOTMEX/184007",
+          "fecha": "20 junio 2026 · 13:13 CST",
+          "fecha_iso": "2026-06-20T13:13:00-06:00",
+          "fuente": "AM Guanajuato",
+          "url": "https://www.am.com.mx/leon/2026/06/20/caos-en-leon-intensa-lluvia-inunda-bulevares-derriba-arboles-y-llena-el-malecon-1809239.html",
           "dot_color": "#3498db",
           "badge": "badge-clima",
-          "badge_txt": "ALERTA CLIMA",
-          "lat": 25.67,
-          "lon": -100.31
+          "badge_txt": "ALERTA CLIMA"
         }
       ]
     }
   ],
   "para_mapa": [
     {
-      "id": "6c42325a",
-      "tipo": "clima",
-      "ruta": "Por fuertes lluvias en NL una mujer muerta, autos varados…",
-      "descripcion": "Por fuertes lluvias en NL una mujer muerta, autos varados e inundaciones\nhttps://www.jornada.com.mx/2026/06/20/estados/023n1est?partner=rss\n\nMonterrey, NL., Las fuertes lluvias de ayer en Nuevo León dejaron como saldo una persona fallecida, inundaciones, autos varados, así como varios lesionados, la cancelación por segunda ocasión del Fan Fest y daños en diversos municipios del área metropolitana de Monterrey, informó Protección Civil (PC) estatal.",
-      "fecha": "20 junio 2026 · 10:20 CST",
-      "fuente": "Telegram @NOTMEX",
-      "url": "https://t.me/NOTMEX/184007",
-      "dot_color": "#3498db",
-      "badge_txt": "ALERTA CLIMA",
-      "lat": 25.67,
-      "lon": -100.31
+      "id": "3eea5e1c",
+      "tipo": "robo",
+      "ruta": "Tras persecución, detiene a un hombre en Guadalajara…",
+      "descripcion": "Tras persecución, detiene a un hombre en Guadalajara. Los hechos comenzaron en la colonia El Sauz, donde la víctima reportó el robo y terminó en la carretera a Nogales, donde el vehículo volcó",
+      "fecha": "20 junio 2026 · 13:32 CST",
+      "fuente": "Quadratín Jalisco",
+      "url": "https://jalisco.quadratin.com.mx/sucesos/tras-persecucion-detiene-a-un-hombre-en-guadalajara/",
+      "dot_color": "#c0392b",
+      "badge_txt": "ROBO",
+      "lat": 20.66,
+      "lon": -103.35
     }
   ]
 }
