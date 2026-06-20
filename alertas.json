@@ -1,10 +1,11 @@
 {
-  "ultima_actualizacion": "2026-06-20T09:16:16.491007-06:00",
-  "ultima_actualizacion_legible": "20 de junio de 2026 · 09:16 CST",
+  "ultima_actualizacion": "2026-06-20T10:54:48.474955-06:00",
+  "ultima_actualizacion_legible": "20 de junio de 2026 · 10:54 CST",
   "total": 2,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Google News"
+    "Google News",
+    "Telegram"
   ],
   "grupos": [
     {
@@ -31,28 +32,44 @@
       ]
     },
     {
-      "tipo": "cierre_parcial",
-      "color": "amarillo",
-      "icono": "🟡",
-      "label": "CIERRE PARCIAL / ACCIDENTES",
-      "col2": true,
+      "tipo": "clima",
+      "color": "azul",
+      "icono": "🌧️",
+      "label": "ALERTA METEOROLÓGICA",
+      "col2": false,
       "alertas": [
         {
-          "id": "c1b8201c",
-          "tipo": "cierre_parcial",
-          "ruta": "Carreteras Bloqueadas en México Hoy, Sábado 20 de Junio 2026…",
-          "descripcion": "Carreteras Bloqueadas en México Hoy, Sábado 20 de Junio 2026 - N+. Carreteras Bloqueadas en México Hoy, Sábado 20 de Junio 2026 N+",
+          "id": "6c42325a",
+          "tipo": "clima",
+          "ruta": "Por fuertes lluvias en NL una mujer muerta, autos varados…",
+          "descripcion": "Por fuertes lluvias en NL una mujer muerta, autos varados e inundaciones\nhttps://www.jornada.com.mx/2026/06/20/estados/023n1est?partner=rss\n\nMonterrey, NL., Las fuertes lluvias de ayer en Nuevo León dejaron como saldo una persona fallecida, inundaciones, autos varados, así como varios lesionados, la cancelación por segunda ocasión del Fan Fest y daños en diversos municipios del área metropolitana de Monterrey, informó Protección Civil (PC) estatal.",
           "recomendacion": "",
-          "fecha": "20 junio 2026 · 06:44 CST",
-          "fecha_iso": "2026-06-20T06:44:00-06:00",
-          "fuente": "N+",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQb1Y2UkNtcGpnRkIwdXhOVVdLRngtYWVFaWxTZWNjQy1aWTdtaHBWajVhMFAxMDhDVXhhVEhDSHU1Y0NPdWYxekw4c3poeWZvUkRLdk1paUVQRjZvTVhQMEhrWEJ5dmp6NUJEMVdac29mV0RxTlFJT0tIc2NWRU9GNmhZYTVnbnFVWGg5azBvRWgxX2w3bDY5aTNR?oc=5",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
+          "fecha": "20 junio 2026 · 10:20 CST",
+          "fecha_iso": "2026-06-20T10:20:00-06:00",
+          "fuente": "Telegram @NOTMEX",
+          "url": "https://t.me/NOTMEX/184007",
+          "dot_color": "#3498db",
+          "badge": "badge-clima",
+          "badge_txt": "ALERTA CLIMA",
+          "lat": 25.67,
+          "lon": -100.31
         }
       ]
     }
   ],
-  "para_mapa": []
+  "para_mapa": [
+    {
+      "id": "6c42325a",
+      "tipo": "clima",
+      "ruta": "Por fuertes lluvias en NL una mujer muerta, autos varados…",
+      "descripcion": "Por fuertes lluvias en NL una mujer muerta, autos varados e inundaciones\nhttps://www.jornada.com.mx/2026/06/20/estados/023n1est?partner=rss\n\nMonterrey, NL., Las fuertes lluvias de ayer en Nuevo León dejaron como saldo una persona fallecida, inundaciones, autos varados, así como varios lesionados, la cancelación por segunda ocasión del Fan Fest y daños en diversos municipios del área metropolitana de Monterrey, informó Protección Civil (PC) estatal.",
+      "fecha": "20 junio 2026 · 10:20 CST",
+      "fuente": "Telegram @NOTMEX",
+      "url": "https://t.me/NOTMEX/184007",
+      "dot_color": "#3498db",
+      "badge_txt": "ALERTA CLIMA",
+      "lat": 25.67,
+      "lon": -100.31
+    }
+  ]
 }
