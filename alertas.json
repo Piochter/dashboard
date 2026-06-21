@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-06-21T09:26:15.413721-06:00",
-  "ultima_actualizacion_legible": "21 de junio de 2026 · 09:26 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-06-21T11:05:07.162834-06:00",
+  "ultima_actualizacion_legible": "21 de junio de 2026 · 11:05 CST",
+  "total": 3,
   "ventana": "últimos 180 minutos",
   "fuentes": [
     "Google News",
@@ -39,6 +39,22 @@
       "col2": true,
       "alertas": [
         {
+          "id": "0903c657",
+          "tipo": "cierre_parcial",
+          "ruta": "Bajan 16% delitos de alto impacto en Guadalajara durante este…",
+          "descripcion": "Bajan 16% delitos de alto impacto en Guadalajara durante este año. Las reducciones más significativas se concentraron en los delitos de carácter patrimonial y en los indicadores de violencia comunitaria.",
+          "recomendacion": "",
+          "fecha": "21 junio 2026 · 11:00 CST",
+          "fecha_iso": "2026-06-21T11:00:00-06:00",
+          "fuente": "Quadratín Jalisco",
+          "url": "https://jalisco.quadratin.com.mx/seguridad/bajan-16-delitos-de-alto-impacto-en-guadalajara-durante-este-ano/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 20.66,
+          "lon": -103.35
+        },
+        {
           "id": "44c958e2",
           "tipo": "cierre_parcial",
           "ruta": "Gran explosión e incendio en Tabasco…",
@@ -58,6 +74,19 @@
     }
   ],
   "para_mapa": [
+    {
+      "id": "0903c657",
+      "tipo": "cierre_parcial",
+      "ruta": "Bajan 16% delitos de alto impacto en Guadalajara durante este…",
+      "descripcion": "Bajan 16% delitos de alto impacto en Guadalajara durante este año. Las reducciones más significativas se concentraron en los delitos de carácter patrimonial y en los indicadores de violencia comunitaria.",
+      "fecha": "21 junio 2026 · 11:00 CST",
+      "fuente": "Quadratín Jalisco",
+      "url": "https://jalisco.quadratin.com.mx/seguridad/bajan-16-delitos-de-alto-impacto-en-guadalajara-durante-este-ano/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 20.66,
+      "lon": -103.35
+    },
     {
       "id": "44c958e2",
       "tipo": "cierre_parcial",
