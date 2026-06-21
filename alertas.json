@@ -1,51 +1,35 @@
 {
-  "ultima_actualizacion": "2026-06-21T14:24:31.598146-06:00",
-  "ultima_actualizacion_legible": "21 de junio de 2026 · 14:24 CST",
+  "ultima_actualizacion": "2026-06-21T15:54:17.309729-06:00",
+  "ultima_actualizacion_legible": "21 de junio de 2026 · 15:54 CST",
   "total": 1,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Telegram"
+    "Medios regionales"
   ],
   "grupos": [
     {
-      "tipo": "bloqueo",
+      "tipo": "cierre_total",
       "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
+      "icono": "🔴",
+      "label": "CIERRE TOTAL",
       "col2": false,
       "alertas": [
         {
-          "id": "c0648ada",
-          "tipo": "bloqueo",
-          "ruta": "🚧#AlertaVial | Toluca-Temoaya bloqueada por manifestación hoy 21 de junio…",
-          "descripcion": "🚧#AlertaVial | Toluca-Temoaya bloqueada por manifestación hoy 21 de junio 👇\n https://lajornadaestadodemexico.com/toluca-temoaya-bloqueada-por-manifestacion-hoy-21-de-junio/",
+          "id": "520fdc7b",
+          "tipo": "cierre_total",
+          "ruta": "Deja 3 heridos volcadura en la Siglo 21, a la…",
+          "descripcion": "Deja 3 heridos volcadura en la Siglo 21, a la altura de Huertas Jucucato. Perdió el control del volante debido al exceso de velocidad y al asfalto mojado",
           "recomendacion": "",
-          "fecha": "21 junio 2026 · 11:38 CST",
-          "fecha_iso": "2026-06-21T11:38:00-06:00",
-          "fuente": "Telegram @jornadaedomex",
-          "url": "https://t.me/jornadaedomex/11126",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 19.29,
-          "lon": -99.66
+          "fecha": "21 junio 2026 · 14:54 CST",
+          "fecha_iso": "2026-06-21T14:54:00-06:00",
+          "fuente": "Quadratín Michoacán",
+          "url": "https://www.quadratin.com.mx/sucesos/deja-3-heridos-volcadura-en-la-siglo-21-a-la-altura-de-huertas-jucucato/",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL"
         }
       ]
     }
   ],
-  "para_mapa": [
-    {
-      "id": "c0648ada",
-      "tipo": "bloqueo",
-      "ruta": "🚧#AlertaVial | Toluca-Temoaya bloqueada por manifestación hoy 21 de junio…",
-      "descripcion": "🚧#AlertaVial | Toluca-Temoaya bloqueada por manifestación hoy 21 de junio 👇\n https://lajornadaestadodemexico.com/toluca-temoaya-bloqueada-por-manifestacion-hoy-21-de-junio/",
-      "fecha": "21 junio 2026 · 11:38 CST",
-      "fuente": "Telegram @jornadaedomex",
-      "url": "https://t.me/jornadaedomex/11126",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 19.29,
-      "lon": -99.66
-    }
-  ]
+  "para_mapa": []
 }
