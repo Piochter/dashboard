@@ -1,10 +1,9 @@
 {
-  "ultima_actualizacion": "2026-06-21T12:52:08.315327-06:00",
-  "ultima_actualizacion_legible": "21 de junio de 2026 · 12:52 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-06-21T14:24:31.598146-06:00",
+  "ultima_actualizacion_legible": "21 de junio de 2026 · 14:24 CST",
+  "total": 1,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Quadratín + regionales",
     "Telegram"
   ],
   "grupos": [
@@ -32,31 +31,6 @@
           "lon": -99.66
         }
       ]
-    },
-    {
-      "tipo": "cierre_parcial",
-      "color": "amarillo",
-      "icono": "🟡",
-      "label": "CIERRE PARCIAL / ACCIDENTES",
-      "col2": true,
-      "alertas": [
-        {
-          "id": "0903c657",
-          "tipo": "cierre_parcial",
-          "ruta": "Bajan 16% delitos de alto impacto en Guadalajara durante este…",
-          "descripcion": "Bajan 16% delitos de alto impacto en Guadalajara durante este año. Las reducciones más significativas se concentraron en los delitos de carácter patrimonial y en los indicadores de violencia comunitaria.",
-          "recomendacion": "",
-          "fecha": "21 junio 2026 · 11:00 CST",
-          "fecha_iso": "2026-06-21T11:00:00-06:00",
-          "fuente": "Quadratín Jalisco",
-          "url": "https://jalisco.quadratin.com.mx/seguridad/bajan-16-delitos-de-alto-impacto-en-guadalajara-durante-este-ano/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 20.66,
-          "lon": -103.35
-        }
-      ]
     }
   ],
   "para_mapa": [
@@ -72,19 +46,6 @@
       "badge_txt": "BLOQUEO",
       "lat": 19.29,
       "lon": -99.66
-    },
-    {
-      "id": "0903c657",
-      "tipo": "cierre_parcial",
-      "ruta": "Bajan 16% delitos de alto impacto en Guadalajara durante este…",
-      "descripcion": "Bajan 16% delitos de alto impacto en Guadalajara durante este año. Las reducciones más significativas se concentraron en los delitos de carácter patrimonial y en los indicadores de violencia comunitaria.",
-      "fecha": "21 junio 2026 · 11:00 CST",
-      "fuente": "Quadratín Jalisco",
-      "url": "https://jalisco.quadratin.com.mx/seguridad/bajan-16-delitos-de-alto-impacto-en-guadalajara-durante-este-ano/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 20.66,
-      "lon": -103.35
     }
   ]
 }
