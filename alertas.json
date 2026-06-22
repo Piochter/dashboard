@@ -1,12 +1,37 @@
 {
-  "ultima_actualizacion": "2026-06-22T09:25:42.945899-06:00",
-  "ultima_actualizacion_legible": "22 de junio de 2026 · 09:25 CST",
-  "total": 1,
-  "ventana": "últimos 30 minutos",
+  "ultima_actualizacion": "2026-06-22T11:50:55.202156-06:00",
+  "ultima_actualizacion_legible": "22 de junio de 2026 · 11:50 CST",
+  "total": 3,
+  "ventana": "últimos 180 minutos",
   "fuentes": [
+    "Google News",
+    "Medios regionales",
     "Telegram"
   ],
   "grupos": [
+    {
+      "tipo": "bloqueo",
+      "color": "rojo",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "58951462",
+          "tipo": "bloqueo",
+          "ruta": "Accidentes, bloqueos y tráfico en las carreteras de México HOY:…",
+          "descripcion": "Accidentes, bloqueos y tráfico en las carreteras de México HOY: Noticias EN VIVO este 22 de junio - TV Azteca. Accidentes, bloqueos y tráfico en las carreteras de México HOY: Noticias EN VIVO este 22 de junio TV Azteca",
+          "recomendacion": "",
+          "fecha": "22 junio 2026 · 10:40 CST",
+          "fecha_iso": "2026-06-22T10:40:00-06:00",
+          "fuente": "TV Azteca",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMkVIYVU4OVltdUNvemduVll2aDZvcW1zLVp1eVVoMDlyUThzWm0xQlQzdXExRnlGOFRicDFnSEY5NVlOdzYweno0dFpsbkhjb1Vtd0RmZjRVV1Y4QmVINXhZMmNBd01DU3Nid01JYm5uVG5USGJVbWhsaWxQbFlIWnlwcVN1UGJBSHpMMjE5XzJ1M3Q1azNNYVgtM2MxeFhSai1ZQUNXSldzZHBJU2RPb2hmV0Z3T0hERWRTUHZRcEpaZVRScFNJazNIcErSAdoBQVVfeXFMUGctVmxpdVJwYThPVGN4TG12cXgxSERzY055ZWhoY1A2TnFya3JJckZOMEJZYTJtZkFYM3pKbjFSTzAtb1NkRjEwNUxRMW45dmtnd2hBYlZleVB5a09YRmJkeHZSZzhLVWZOT2VvYUpfb0FTNE10anRsbnJmeWNVUWJNejdJaWJTWkZuU19GVlB3RnhZQ09NanlPNUYtV1E3NlV5UGgtd2RKMUp5a0ppaWdpb0QtS09ZMkkzenJiRGRoa2lRN1FpX0pLWFJvUEJ0RVAyZkt1S09ONHc?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        }
+      ]
+    },
     {
       "tipo": "cierre_parcial",
       "color": "amarillo",
@@ -14,6 +39,20 @@
       "label": "CIERRE PARCIAL / ACCIDENTES",
       "col2": true,
       "alertas": [
+        {
+          "id": "bfa87df4",
+          "tipo": "cierre_parcial",
+          "ruta": "Señala CRT pérdidas del 50% por reorganización de rutas por…",
+          "descripcion": "Señala CRT pérdidas del 50% por reorganización de rutas por teleférico. Derivado de la reducción de recorridos",
+          "recomendacion": "",
+          "fecha": "22 junio 2026 · 11:29 CST",
+          "fecha_iso": "2026-06-22T11:29:00-06:00",
+          "fuente": "Quadratín Michoacán",
+          "url": "https://www.quadratin.com.mx/sucesos/senala-crt-perdidas-del-50-por-reorganizacion-de-rutas-por-teleferico/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        },
         {
           "id": "9bb38691",
           "tipo": "cierre_parcial",
