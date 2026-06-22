@@ -1,12 +1,35 @@
 {
-  "ultima_actualizacion": "2026-06-22T07:07:32.201235-06:00",
-  "ultima_actualizacion_legible": "22 de junio de 2026 · 07:07 CST",
-  "total": 0,
-  "ventana": "últimos 180 minutos",
+  "ultima_actualizacion": "2026-06-22T09:25:42.945899-06:00",
+  "ultima_actualizacion_legible": "22 de junio de 2026 · 09:25 CST",
+  "total": 1,
+  "ventana": "últimos 30 minutos",
   "fuentes": [
-    "Google News"
+    "Telegram"
   ],
-  "grupos": [],
-  "para_mapa": [],
-  "nota": "Sin alertas activas en la ventana de tiempo configurada."
+  "grupos": [
+    {
+      "tipo": "cierre_parcial",
+      "color": "amarillo",
+      "icono": "🟡",
+      "label": "CIERRE PARCIAL / ACCIDENTES",
+      "col2": true,
+      "alertas": [
+        {
+          "id": "9bb38691",
+          "tipo": "cierre_parcial",
+          "ruta": "🔥🥵 **SERÁ UNA SEMANA 'INFERNAL' EN LA FRONTERA ** -…",
+          "descripcion": "🔥🥵 **SERÁ UNA SEMANA 'INFERNAL' EN LA FRONTERA **\n\n- Esta semana el calor no dará tregua. Según el pronóstico del Weather Channel, esta semana se esperan máximas de hasta 42 °C en #CiudadJuárez \n\n El calor extremo ya está instalado en la frontera y los días que vienen serán los más intensos del verano.\n\n- Evita salir entre 11:00 am y 5:00 pm, esas son las horas de mayor radiación solar\n\n- Bebe agua constantemente, entre 2 y 3 litros al día, sin esperar a tener sed\n\n- Usa ropa ligera de colores c",
+          "recomendacion": "",
+          "fecha": "22 junio 2026 · 09:00 CST",
+          "fecha_iso": "2026-06-22T09:00:00-06:00",
+          "fuente": "Telegram @ElDiarioDeJuarez",
+          "url": "https://t.me/ElDiarioDeJuarez/1630",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        }
+      ]
+    }
+  ],
+  "para_mapa": []
 }
