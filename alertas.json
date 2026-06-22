@@ -1,12 +1,13 @@
 {
-  "ultima_actualizacion": "2026-06-22T11:50:55.202156-06:00",
-  "ultima_actualizacion_legible": "22 de junio de 2026 · 11:50 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-06-22T14:43:27.017571-06:00",
+  "ultima_actualizacion_legible": "22 de junio de 2026 · 14:43 CST",
+  "total": 9,
   "ventana": "últimos 180 minutos",
   "fuentes": [
     "Google News",
+    "Medios nacionales",
     "Medios regionales",
-    "Telegram"
+    "Quadratín + regionales"
   ],
   "grupos": [
     {
@@ -17,18 +18,133 @@
       "col2": false,
       "alertas": [
         {
+          "id": "351efd14",
+          "tipo": "bloqueo",
+          "ruta": "Participaron más de 500 personas en carrera Force Run Zitácuaro…",
+          "descripcion": "Participaron más de 500 personas en carrera Force Run Zitácuaro 2026. Con un recorrido de 5 km",
+          "recomendacion": "",
+          "fecha": "22 junio 2026 · 14:37 CST",
+          "fecha_iso": "2026-06-22T14:37:00-06:00",
+          "fuente": "Quadratín Michoacán",
+          "url": "https://www.quadratin.com.mx/deportes/participaron-mas-de-500-personas-en-carrera-force-run-zitacuaro-2026/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
+        {
+          "id": "c15fc557",
+          "tipo": "bloqueo",
+          "ruta": "Mega Bloqueo de Transportistas 24 de Junio: Cómo Llegar a…",
+          "descripcion": "Mega Bloqueo de Transportistas 24 de Junio: Cómo Llegar a Tiempo al México vs Chequia en CDMX - N+. Mega Bloqueo de Transportistas 24 de Junio: Cómo Llegar a Tiempo al México vs Chequia en CDMX N+",
+          "recomendacion": "",
+          "fecha": "22 junio 2026 · 14:31 CST",
+          "fecha_iso": "2026-06-22T14:31:00-06:00",
+          "fuente": "N+",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdXRCOFFrRkIwQXdycVAzSWtyZXJyMUlXQUJPV25OU1NqWGN4b0VJVWlfLXZSYi1iRWJGWW9qY2MxdFNaOVE1ejZiMm82TC1nUlZVYnpnR21IU2Z3OG95Z1VpRzFzdHBQQ0dFQXY2dmt4OEJ5SlUyQTloWkFxNFh3YTN4R25IWTZ1d1dEQjh3d1JaMXBLc0NON1VDRXpKY1liNVBZNldmci1nNXpXX3RaNWVuRkg1NWdUQ2FydDZJcw?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 19.43,
+          "lon": -99.13
+        },
+        {
+          "id": "3722a1b0",
+          "tipo": "bloqueo",
+          "ruta": "Vuelven a las aulas más de 800 mil alumnos tras…",
+          "descripcion": "Vuelven a las aulas más de 800 mil alumnos tras paro de la CNTE. Tras finalizar el paro de la CNTE, más de 800 mil estudiantes de educación básica retomaron este lunes sus actividades escolares en Oaxaca.",
+          "recomendacion": "",
+          "fecha": "22 junio 2026 · 14:02 CST",
+          "fecha_iso": "2026-06-22T14:02:00-06:00",
+          "fuente": "24 Horas",
+          "url": "https://24-horas.mx/estados/vuelven-a-las-aulas-mas-de-800-mil-alumnos-tras-paro-de-la-cnte/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 17.06,
+          "lon": -96.72
+        },
+        {
           "id": "58951462",
           "tipo": "bloqueo",
           "ruta": "Accidentes, bloqueos y tráfico en las carreteras de México HOY:…",
           "descripcion": "Accidentes, bloqueos y tráfico en las carreteras de México HOY: Noticias EN VIVO este 22 de junio - TV Azteca. Accidentes, bloqueos y tráfico en las carreteras de México HOY: Noticias EN VIVO este 22 de junio TV Azteca",
           "recomendacion": "",
-          "fecha": "22 junio 2026 · 10:40 CST",
-          "fecha_iso": "2026-06-22T10:40:00-06:00",
+          "fecha": "22 junio 2026 · 13:42 CST",
+          "fecha_iso": "2026-06-22T13:42:00-06:00",
           "fuente": "TV Azteca",
           "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMkVIYVU4OVltdUNvemduVll2aDZvcW1zLVp1eVVoMDlyUThzWm0xQlQzdXExRnlGOFRicDFnSEY5NVlOdzYweno0dFpsbkhjb1Vtd0RmZjRVV1Y4QmVINXhZMmNBd01DU3Nid01JYm5uVG5USGJVbWhsaWxQbFlIWnlwcVN1UGJBSHpMMjE5XzJ1M3Q1azNNYVgtM2MxeFhSai1ZQUNXSldzZHBJU2RPb2hmV0Z3T0hERWRTUHZRcEpaZVRScFNJazNIcErSAdoBQVVfeXFMUGctVmxpdVJwYThPVGN4TG12cXgxSERzY055ZWhoY1A2TnFya3JJckZOMEJZYTJtZkFYM3pKbjFSTzAtb1NkRjEwNUxRMW45dmtnd2hBYlZleVB5a09YRmJkeHZSZzhLVWZOT2VvYUpfb0FTNE10anRsbnJmeWNVUWJNejdJaWJTWkZuU19GVlB3RnhZQ09NanlPNUYtV1E3NlV5UGgtd2RKMUp5a0ppaWdpb0QtS09ZMkkzenJiRGRoa2lRN1FpX0pLWFJvUEJ0RVAyZkt1S09ONHc?oc=5",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO"
+        },
+        {
+          "id": "e35e4066",
+          "tipo": "bloqueo",
+          "ruta": "¿Terminó la Huelga de la CNTE? Dónde Hay Bloqueos Hoy…",
+          "descripcion": "¿Terminó la Huelga de la CNTE? Dónde Hay Bloqueos Hoy en México - N+. ¿Terminó la Huelga de la CNTE? Dónde Hay Bloqueos Hoy en México N+",
+          "recomendacion": "",
+          "fecha": "22 junio 2026 · 12:50 CST",
+          "fecha_iso": "2026-06-22T12:50:00-06:00",
+          "fuente": "N+",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUG93cTlMOUdCSUplSzlSZHU3MU1HQ2pvYmdIeFJIaG51Z2hjZVZzeFpNRThRWEo2emY5MnJ2cUFyb1lmQlRtVG9tcXY2Y1otWGZpMFVueUxYbnRwZ0gyRU1ESklKdlZEZHg3VEJJRmRtZlVhTkpkczlfT0hPRWx5S1Zpcy1MWjR3OHlYMktNaGNsOW8zVEVOMUdhN1NHOWVtVjdHNmtaS1lIbTNkN3Y2OGdZMld3cGxlTi1vZA?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
+        {
+          "id": "8a01dee2",
+          "tipo": "bloqueo",
+          "ruta": "Concluirá CNTE en Oaxaca ciclo escolar el 7 de julio…",
+          "descripcion": "Concluirá CNTE en Oaxaca ciclo escolar el 7 de julio. La fecha será 8 días antes del cierre establecido por la SEP, después de 26 días de paro",
+          "recomendacion": "",
+          "fecha": "22 junio 2026 · 12:28 CST",
+          "fecha_iso": "2026-06-22T12:28:00-06:00",
+          "fuente": "Quadratín Oaxaca",
+          "url": "https://oaxaca.quadratin.com.mx/concluira-cnte-en-oaxaca-ciclo-escolar-el-7-de-julio/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 17.06,
+          "lon": -96.72
+        }
+      ]
+    },
+    {
+      "tipo": "robo",
+      "color": "rojo",
+      "icono": "🚨",
+      "label": "ROBOS EN CARRETERA",
+      "col2": true,
+      "alertas": [
+        {
+          "id": "c1d82ef6",
+          "tipo": "robo",
+          "ruta": "autopista México-Puebla - El Heraldo de Puebla",
+          "descripcion": "Cae robo a transporte en autopista México-Puebla - El Heraldo de Puebla. Cae robo a transporte en autopista México-Puebla El Heraldo de Puebla",
+          "recomendacion": "",
+          "fecha": "22 junio 2026 · 13:18 CST",
+          "fecha_iso": "2026-06-22T13:18:00-06:00",
+          "fuente": "El Heraldo de Puebla",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOb0pDTUc5ZzRxazJiZUlxLTVoR1ZNS1BISFJnWDlBeXA3YjNsLUZsb2NtUVFRenpXUVpLSGs5RXAyM012X0tJeXhRTDR2UjN6bkxBQVBmQnA1dU5qemYxdmZITDNnREtxUlZ4VUU1bDBqZ2dlOEo0UnNXSGlwV21PNU9uWjZER3hGTkZFQkxkWDc1dw?oc=5",
+          "dot_color": "#c0392b",
+          "badge": "badge-robo",
+          "badge_txt": "ROBO",
+          "lat": 19.35,
+          "lon": -98.4
+        },
+        {
+          "id": "00dd9945",
+          "tipo": "robo",
+          "ruta": "Autopista - elineanoticias",
+          "descripcion": "Disminuye incidencia de robo carretero a transporte en Autopista - elineanoticias.com. Disminuye incidencia de robo carretero a transporte en Autopista elineanoticias.com",
+          "recomendacion": "",
+          "fecha": "22 junio 2026 · 12:32 CST",
+          "fecha_iso": "2026-06-22T12:32:00-06:00",
+          "fuente": "elineanoticias.com",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdkVsWTF5S19jdW1RcmlKRjUxTGF6OF83TE15Y21uNWJKZDVZbG9PY0diekVHd1ZjOVE4cXhCakpVUXJ6UXQzZmtYSnJIdDZGcDE0bXNFUEJrV2NYRjhQdmdaYkFNZ3JhTGZsYnNGOEdMblhLTXIxeGlkckZ5UzVIVEZaclBEZDJ5aVBmQmd4U1htdms4cE4w?oc=5",
+          "dot_color": "#c0392b",
+          "badge": "badge-robo",
+          "badge_txt": "ROBO"
         }
       ]
     },
@@ -40,29 +156,15 @@
       "col2": true,
       "alertas": [
         {
-          "id": "bfa87df4",
+          "id": "5f811fc0",
           "tipo": "cierre_parcial",
-          "ruta": "Señala CRT pérdidas del 50% por reorganización de rutas por…",
-          "descripcion": "Señala CRT pérdidas del 50% por reorganización de rutas por teleférico. Derivado de la reducción de recorridos",
+          "ruta": "Chabacano de la Línea 2 del Metro reabrirá este martes:…",
+          "descripcion": "Chabacano de la Línea 2 del Metro reabrirá este martes: Brugada. La estación Chabacano de la Línea 2 del Metro, cerrada por obras de remodelación, reanudará el servicio este martes 23 de junio.",
           "recomendacion": "",
-          "fecha": "22 junio 2026 · 11:29 CST",
-          "fecha_iso": "2026-06-22T11:29:00-06:00",
-          "fuente": "Quadratín Michoacán",
-          "url": "https://www.quadratin.com.mx/sucesos/senala-crt-perdidas-del-50-por-reorganizacion-de-rutas-por-teleferico/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
-        },
-        {
-          "id": "9bb38691",
-          "tipo": "cierre_parcial",
-          "ruta": "🔥🥵 **SERÁ UNA SEMANA 'INFERNAL' EN LA FRONTERA ** -…",
-          "descripcion": "🔥🥵 **SERÁ UNA SEMANA 'INFERNAL' EN LA FRONTERA **\n\n- Esta semana el calor no dará tregua. Según el pronóstico del Weather Channel, esta semana se esperan máximas de hasta 42 °C en #CiudadJuárez \n\n El calor extremo ya está instalado en la frontera y los días que vienen serán los más intensos del verano.\n\n- Evita salir entre 11:00 am y 5:00 pm, esas son las horas de mayor radiación solar\n\n- Bebe agua constantemente, entre 2 y 3 litros al día, sin esperar a tener sed\n\n- Usa ropa ligera de colores c",
-          "recomendacion": "",
-          "fecha": "22 junio 2026 · 09:00 CST",
-          "fecha_iso": "2026-06-22T09:00:00-06:00",
-          "fuente": "Telegram @ElDiarioDeJuarez",
-          "url": "https://t.me/ElDiarioDeJuarez/1630",
+          "fecha": "22 junio 2026 · 12:32 CST",
+          "fecha_iso": "2026-06-22T12:32:00-06:00",
+          "fuente": "24 Horas",
+          "url": "https://24-horas.mx/cdmx/chabacano-de-la-linea-2-del-metro-reabrira-este-martes-brugada/",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL"
@@ -70,5 +172,58 @@
       ]
     }
   ],
-  "para_mapa": []
+  "para_mapa": [
+    {
+      "id": "c15fc557",
+      "tipo": "bloqueo",
+      "ruta": "Mega Bloqueo de Transportistas 24 de Junio: Cómo Llegar a…",
+      "descripcion": "Mega Bloqueo de Transportistas 24 de Junio: Cómo Llegar a Tiempo al México vs Chequia en CDMX - N+. Mega Bloqueo de Transportistas 24 de Junio: Cómo Llegar a Tiempo al México vs Chequia en CDMX N+",
+      "fecha": "22 junio 2026 · 14:31 CST",
+      "fuente": "N+",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdXRCOFFrRkIwQXdycVAzSWtyZXJyMUlXQUJPV25OU1NqWGN4b0VJVWlfLXZSYi1iRWJGWW9qY2MxdFNaOVE1ejZiMm82TC1nUlZVYnpnR21IU2Z3OG95Z1VpRzFzdHBQQ0dFQXY2dmt4OEJ5SlUyQTloWkFxNFh3YTN4R25IWTZ1d1dEQjh3d1JaMXBLc0NON1VDRXpKY1liNVBZNldmci1nNXpXX3RaNWVuRkg1NWdUQ2FydDZJcw?oc=5",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 19.43,
+      "lon": -99.13
+    },
+    {
+      "id": "3722a1b0",
+      "tipo": "bloqueo",
+      "ruta": "Vuelven a las aulas más de 800 mil alumnos tras…",
+      "descripcion": "Vuelven a las aulas más de 800 mil alumnos tras paro de la CNTE. Tras finalizar el paro de la CNTE, más de 800 mil estudiantes de educación básica retomaron este lunes sus actividades escolares en Oaxaca.",
+      "fecha": "22 junio 2026 · 14:02 CST",
+      "fuente": "24 Horas",
+      "url": "https://24-horas.mx/estados/vuelven-a-las-aulas-mas-de-800-mil-alumnos-tras-paro-de-la-cnte/",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 17.06,
+      "lon": -96.72
+    },
+    {
+      "id": "c1d82ef6",
+      "tipo": "robo",
+      "ruta": "autopista México-Puebla - El Heraldo de Puebla",
+      "descripcion": "Cae robo a transporte en autopista México-Puebla - El Heraldo de Puebla. Cae robo a transporte en autopista México-Puebla El Heraldo de Puebla",
+      "fecha": "22 junio 2026 · 13:18 CST",
+      "fuente": "El Heraldo de Puebla",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOb0pDTUc5ZzRxazJiZUlxLTVoR1ZNS1BISFJnWDlBeXA3YjNsLUZsb2NtUVFRenpXUVpLSGs5RXAyM012X0tJeXhRTDR2UjN6bkxBQVBmQnA1dU5qemYxdmZITDNnREtxUlZ4VUU1bDBqZ2dlOEo0UnNXSGlwV21PNU9uWjZER3hGTkZFQkxkWDc1dw?oc=5",
+      "dot_color": "#c0392b",
+      "badge_txt": "ROBO",
+      "lat": 19.35,
+      "lon": -98.4
+    },
+    {
+      "id": "8a01dee2",
+      "tipo": "bloqueo",
+      "ruta": "Concluirá CNTE en Oaxaca ciclo escolar el 7 de julio…",
+      "descripcion": "Concluirá CNTE en Oaxaca ciclo escolar el 7 de julio. La fecha será 8 días antes del cierre establecido por la SEP, después de 26 días de paro",
+      "fecha": "22 junio 2026 · 12:28 CST",
+      "fuente": "Quadratín Oaxaca",
+      "url": "https://oaxaca.quadratin.com.mx/concluira-cnte-en-oaxaca-ciclo-escolar-el-7-de-julio/",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 17.06,
+      "lon": -96.72
+    }
+  ]
 }
