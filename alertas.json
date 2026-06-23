@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-06-23T14:26:32.418317-06:00",
-  "ultima_actualizacion_legible": "23 de junio de 2026 · 14:26 CST",
-  "total": 7,
+  "ultima_actualizacion": "2026-06-23T15:57:41.473957-06:00",
+  "ultima_actualizacion_legible": "23 de junio de 2026 · 15:57 CST",
+  "total": 4,
   "ventana": "últimos 180 minutos",
   "fuentes": [
     "Google News",
@@ -15,6 +15,20 @@
       "label": "BLOQUEOS / MANIFESTACIONES",
       "col2": false,
       "alertas": [
+        {
+          "id": "9f9dbc45",
+          "tipo": "bloqueo",
+          "ruta": "Megabloqueo de transportistas: lista de carreteras afectadas por el paro…",
+          "descripcion": "Megabloqueo de transportistas: lista de carreteras afectadas por el paro nacional este 24 de junio - TV Azteca. Megabloqueo de transportistas: lista de carreteras afectadas por el paro nacional este 24 de junio TV Azteca",
+          "recomendacion": "",
+          "fecha": "23 junio 2026 · 14:30 CST",
+          "fecha_iso": "2026-06-23T14:30:00-06:00",
+          "fuente": "TV Azteca",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVC1EZkJHdEZzZWdTOUNsTkZaWUgxSHl5dVpBazJVVmtFWDJlMlpZUkJHRWl1elU2RjRobm1lQ1pVT1BxVk9razFJeUZ4ck15NklaQ1F0YXVfOG5YQXRMbEJ5R3NCTjRxaEU2TEdXVEo4X0RjY3Jtal9RdWxBc1lqcXhoREFXeFdvSjV1SmxYTTZ6dEhoWGdncndfV0tXYTRFelF0NklvclpoYkREZDdidkQ4bmdrWXRaV2RWZ2VENjXSAc4BQVVfeXFMUHczOV9CTnRrdDhPeHhyRV9EYnpGUXlKUXlWMUJCalAzZTV5RHVZUHl4MjJ1RS0tcjNybVZZVThCU204X2lsczBNTkI2LXZVUnR5SWtIQVRlblNkNHpvdGNxY3NVY1hyZWwxSnFKLXVPb3JSNGw2cnk4VzFZTXE1czlXX1R6LVBGdU5PeTNKN3dsSWdwdFE1ZHFYMlM2bEtsMENGanEzVm1Nb2xjZXYyMUpHbU9MRHc3NkhENks2bTFSMnA2cmpJdXNGblBoN1E?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
         {
           "id": "b73c4e25",
           "tipo": "bloqueo",
@@ -42,36 +56,6 @@
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO"
-        },
-        {
-          "id": "2649bf2b",
-          "tipo": "bloqueo",
-          "ruta": "Niñas y niños fortalecen pensamiento lógico con Feria Matemática: SEV…",
-          "descripcion": "Niñas y niños fortalecen pensamiento lógico con Feria Matemática: SEV. Participaron las comunidades educativas de la Zona Escolar 018",
-          "recomendacion": "",
-          "fecha": "23 junio 2026 · 12:03 CST",
-          "fecha_iso": "2026-06-23T12:03:00-06:00",
-          "fuente": "Quadratín Veracruz",
-          "url": "https://veracruz.quadratin.com.mx/ninas-y-ninos-fortalecen-pensamiento-logico-con-feria-matematica-sev/",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        },
-        {
-          "id": "c0a5398f",
-          "tipo": "bloqueo",
-          "ruta": "Anuncia AMOTAC paro nacional y bloqueo en la México-Puebla…",
-          "descripcion": "Anuncia AMOTAC paro nacional y bloqueo en la México-Puebla. Los transportistas acusan inseguridad y cobros excesivos de grúas.",
-          "recomendacion": "",
-          "fecha": "23 junio 2026 · 11:45 CST",
-          "fecha_iso": "2026-06-23T11:45:00-06:00",
-          "fuente": "Quadratín Puebla",
-          "url": "https://puebla.quadratin.com.mx/politica/anuncia-amotac-paro-nacional-y-bloqueo-en-la-mexico-puebla/",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 19.35,
-          "lon": -98.4
         }
       ]
     },
@@ -97,38 +81,6 @@
           "badge_txt": "CIERRE PARCIAL",
           "lat": 17.06,
           "lon": -96.72
-        },
-        {
-          "id": "f11efea0",
-          "tipo": "cierre_parcial",
-          "ruta": "Accidente en la México Puebla: así avanzan las carreteras del…",
-          "descripcion": "Accidente en la México Puebla: así avanzan las carreteras del país EN VIVO hoy 23 de junio - TV Azteca. Accidente en la México Puebla: así avanzan las carreteras del país EN VIVO hoy 23 de junio TV Azteca",
-          "recomendacion": "",
-          "fecha": "23 junio 2026 · 11:56 CST",
-          "fecha_iso": "2026-06-23T11:56:00-06:00",
-          "fuente": "TV Azteca",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMjBab2VqVnp0cElwZmx2ZHl3VFU0dTRjMi1hZ1JSOWFERnJBTGhPVml1T01NcnRib0RaaFRtUHU1RU9Uck1JTDQ1c2FvM09GRmhmZGlCVnltV3QzcWhsTFJ2a0tRN0hLRWR4SHpsZlJlZnBnSzlwUGJVdFNFSTgtd1lGR3pGZ0piQkx5SExaRkphcFY2MWh4eU52SldFOWxkRkRUVHNOWXpGeEpLYmt2Z0k3WmsxRlJNZVpDeVZB0gHLAUFVX3lxTE51S1MtRTNEbm5qYXNpWFRYQlZyRmNWbXZ3SXJ4blJRbnlzeno1VDdXQ05lSnNqM3BoZmFjeVUyUHZVdW9ITVFESzkyZjhQRmtNRkgxdlZsQVhRSWlqaGJXOTROaWdKOFJaRno1UV9mUkp4NklOWENqbnpMRXlwV3lkazc1S0lXVWxTaWNLVVVpamw0Vi0yTXdjblR0bEZGRlBDLWx5ZVNFSk1URGljSFlhR1A4NHRaa2U0YlkzU0F0RDlQSWo0ZUxXNXI0?oc=5",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.35,
-          "lon": -98.4
-        },
-        {
-          "id": "4b815aa7",
-          "tipo": "cierre_parcial",
-          "ruta": "Percance vial solo deja daños materiales en Oaxaca de Juárez…",
-          "descripcion": "Percance vial solo deja daños materiales en Oaxaca de Juárez. En el cruce de avenida Ferrocarril y 16 de Septiembre; los conductores fueron reportados ilesos.",
-          "recomendacion": "",
-          "fecha": "23 junio 2026 · 11:42 CST",
-          "fecha_iso": "2026-06-23T11:42:00-06:00",
-          "fuente": "Quadratín Oaxaca",
-          "url": "https://oaxaca.quadratin.com.mx/percance-vial-solo-deja-danos-materiales-en-oaxaca-de-juarez/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 17.06,
-          "lon": -96.72
         }
       ]
     }
@@ -142,45 +94,6 @@
       "fecha": "23 junio 2026 · 13:57 CST",
       "fuente": "Quadratín Oaxaca",
       "url": "https://oaxaca.quadratin.com.mx/cierre-parcial-por-accidente-en-carretera-pinotepa-salina-cruz/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 17.06,
-      "lon": -96.72
-    },
-    {
-      "id": "f11efea0",
-      "tipo": "cierre_parcial",
-      "ruta": "Accidente en la México Puebla: así avanzan las carreteras del…",
-      "descripcion": "Accidente en la México Puebla: así avanzan las carreteras del país EN VIVO hoy 23 de junio - TV Azteca. Accidente en la México Puebla: así avanzan las carreteras del país EN VIVO hoy 23 de junio TV Azteca",
-      "fecha": "23 junio 2026 · 11:56 CST",
-      "fuente": "TV Azteca",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMjBab2VqVnp0cElwZmx2ZHl3VFU0dTRjMi1hZ1JSOWFERnJBTGhPVml1T01NcnRib0RaaFRtUHU1RU9Uck1JTDQ1c2FvM09GRmhmZGlCVnltV3QzcWhsTFJ2a0tRN0hLRWR4SHpsZlJlZnBnSzlwUGJVdFNFSTgtd1lGR3pGZ0piQkx5SExaRkphcFY2MWh4eU52SldFOWxkRkRUVHNOWXpGeEpLYmt2Z0k3WmsxRlJNZVpDeVZB0gHLAUFVX3lxTE51S1MtRTNEbm5qYXNpWFRYQlZyRmNWbXZ3SXJ4blJRbnlzeno1VDdXQ05lSnNqM3BoZmFjeVUyUHZVdW9ITVFESzkyZjhQRmtNRkgxdlZsQVhRSWlqaGJXOTROaWdKOFJaRno1UV9mUkp4NklOWENqbnpMRXlwV3lkazc1S0lXVWxTaWNLVVVpamw0Vi0yTXdjblR0bEZGRlBDLWx5ZVNFSk1URGljSFlhR1A4NHRaa2U0YlkzU0F0RDlQSWo0ZUxXNXI0?oc=5",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.35,
-      "lon": -98.4
-    },
-    {
-      "id": "c0a5398f",
-      "tipo": "bloqueo",
-      "ruta": "Anuncia AMOTAC paro nacional y bloqueo en la México-Puebla…",
-      "descripcion": "Anuncia AMOTAC paro nacional y bloqueo en la México-Puebla. Los transportistas acusan inseguridad y cobros excesivos de grúas.",
-      "fecha": "23 junio 2026 · 11:45 CST",
-      "fuente": "Quadratín Puebla",
-      "url": "https://puebla.quadratin.com.mx/politica/anuncia-amotac-paro-nacional-y-bloqueo-en-la-mexico-puebla/",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 19.35,
-      "lon": -98.4
-    },
-    {
-      "id": "4b815aa7",
-      "tipo": "cierre_parcial",
-      "ruta": "Percance vial solo deja daños materiales en Oaxaca de Juárez…",
-      "descripcion": "Percance vial solo deja daños materiales en Oaxaca de Juárez. En el cruce de avenida Ferrocarril y 16 de Septiembre; los conductores fueron reportados ilesos.",
-      "fecha": "23 junio 2026 · 11:42 CST",
-      "fuente": "Quadratín Oaxaca",
-      "url": "https://oaxaca.quadratin.com.mx/percance-vial-solo-deja-danos-materiales-en-oaxaca-de-juarez/",
       "dot_color": "#e67e22",
       "badge_txt": "CIERRE PARCIAL",
       "lat": 17.06,
