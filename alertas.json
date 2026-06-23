@@ -1,10 +1,11 @@
 {
-  "ultima_actualizacion": "2026-06-23T15:57:41.473957-06:00",
-  "ultima_actualizacion_legible": "23 de junio de 2026 · 15:57 CST",
-  "total": 4,
+  "ultima_actualizacion": "2026-06-23T17:09:20.920776-06:00",
+  "ultima_actualizacion_legible": "23 de junio de 2026 · 17:09 CST",
+  "total": 6,
   "ventana": "últimos 180 minutos",
   "fuentes": [
     "Google News",
+    "Medios regionales",
     "Quadratín + regionales"
   ],
   "grupos": [
@@ -16,6 +17,52 @@
       "col2": false,
       "alertas": [
         {
+          "id": "086f0591",
+          "tipo": "bloqueo",
+          "ruta": "DIF Jalisco fortalece atención a las familias con alianzas académicas…",
+          "descripcion": "DIF Jalisco fortalece atención a las familias con alianzas académicas. Tan solo en 2025, un total de 740 servidoras y servidores públicos participaron en cursos, talleres y procesos de capacitación",
+          "recomendacion": "",
+          "fecha": "23 junio 2026 · 16:11 CST",
+          "fecha_iso": "2026-06-23T16:11:00-06:00",
+          "fuente": "Quadratín Jalisco",
+          "url": "https://jalisco.quadratin.com.mx/sucesos/dif-jalisco-fortalece-atencion-a-las-familias-con-alianzas-academicas/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 25.2,
+          "lon": -102.0
+        },
+        {
+          "id": "b73c4e25",
+          "tipo": "bloqueo",
+          "ruta": "Transportistas anuncian movilización nacional en carreteras: puntos de bloqueo el…",
+          "descripcion": "Transportistas anuncian movilización nacional en carreteras: puntos de bloqueo el 24 de junio - El Sol de México. Transportistas anuncian movilización nacional en carreteras: puntos de bloqueo el 24 de junio El Sol de México",
+          "recomendacion": "",
+          "fecha": "23 junio 2026 · 15:54 CST",
+          "fecha_iso": "2026-06-23T15:54:00-06:00",
+          "fuente": "El Sol de México",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQW5xWUVqUzY5MjUtSXdlS0NBV01PV2FaMTdwaFM5alBaQ0hWNVUxMGpzX3ZsX1FrMDlrWHRIa1A1OGw5bkd4bW9MYjcyN2ZHNngwQnJ6b1B2NVVKM3kwOHhSbHJObEhpVXVxWUM1bUdvV0FvSW1JOHF2T3pNUWZoYkF6VTJkajFTeGlYWU1WZWNEdkRGMEhINlMtcWNhbGJ4QUVPT3d0Y1IySlhtRm40MEhuNUJfOXpxVXk5Wk9BNkl6dGJOeEVOQWRJbzZhYkNoZi1iNnlnWjVkNEdn?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
+        {
+          "id": "5de4bcd4",
+          "tipo": "bloqueo",
+          "ruta": "Manifestación de transportistas: En estas carreteras de Guanajuato habrá caos…",
+          "descripcion": "Manifestación de transportistas: En estas carreteras de Guanajuato habrá caos vial este 24 de junio - La Silla Rota. Manifestación de transportistas: En estas carreteras de Guanajuato habrá caos vial este 24 de junio La Silla Rota",
+          "recomendacion": "",
+          "fecha": "23 junio 2026 · 15:31 CST",
+          "fecha_iso": "2026-06-23T15:31:00-06:00",
+          "fuente": "La Silla Rota",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNcUNJc2xlaThkcE9PMU5yRU5EcHFwd2VwcVMySGtJYlE5Qmh0RmVUYi1sTDdEdEJIaGtTUXpZenAzdTh4U3pjVnpybkxjSnpBR0dIdi1IaklFcHJpWHNUanUxeHR1WWZJUzNOY0k3MzdhMVN3RkFCU3A3NVAzQVpTVHZmM0hqUVl0ZHpDWVFuTFpTajg4Sklidm9OVDRpNVJ3RHVjQ0ZvTENxUlhZd3NDNVlrLUR5ZzMyRGd3WmNNUl9weWR2WkxPWS1sbXJmRFJBODM4REx5MEdRQWplNkYzOG0zME9iZjhSRTRKd25nTWxQNUpZ?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 21.02,
+          "lon": -101.26
+        },
+        {
           "id": "9f9dbc45",
           "tipo": "bloqueo",
           "ruta": "Megabloqueo de transportistas: lista de carreteras afectadas por el paro…",
@@ -25,34 +72,6 @@
           "fecha_iso": "2026-06-23T14:30:00-06:00",
           "fuente": "TV Azteca",
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVC1EZkJHdEZzZWdTOUNsTkZaWUgxSHl5dVpBazJVVmtFWDJlMlpZUkJHRWl1elU2RjRobm1lQ1pVT1BxVk9razFJeUZ4ck15NklaQ1F0YXVfOG5YQXRMbEJ5R3NCTjRxaEU2TEdXVEo4X0RjY3Jtal9RdWxBc1lqcXhoREFXeFdvSjV1SmxYTTZ6dEhoWGdncndfV0tXYTRFelF0NklvclpoYkREZDdidkQ4bmdrWXRaV2RWZ2VENjXSAc4BQVVfeXFMUHczOV9CTnRrdDhPeHhyRV9EYnpGUXlKUXlWMUJCalAzZTV5RHVZUHl4MjJ1RS0tcjNybVZZVThCU204X2lsczBNTkI2LXZVUnR5SWtIQVRlblNkNHpvdGNxY3NVY1hyZWwxSnFKLXVPb3JSNGw2cnk4VzFZTXE1czlXX1R6LVBGdU5PeTNKN3dsSWdwdFE1ZHFYMlM2bEtsMENGanEzVm1Nb2xjZXYyMUpHbU9MRHc3NkhENks2bTFSMnA2cmpJdXNGblBoN1E?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        },
-        {
-          "id": "b73c4e25",
-          "tipo": "bloqueo",
-          "ruta": "Transportistas anuncian movilización nacional en carreteras: puntos de bloqueo el…",
-          "descripcion": "Transportistas anuncian movilización nacional en carreteras: puntos de bloqueo el 24 de junio - El Sol de México. Transportistas anuncian movilización nacional en carreteras: puntos de bloqueo el 24 de junio El Sol de México",
-          "recomendacion": "",
-          "fecha": "23 junio 2026 · 13:41 CST",
-          "fecha_iso": "2026-06-23T13:41:00-06:00",
-          "fuente": "El Sol de México",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQW5xWUVqUzY5MjUtSXdlS0NBV01PV2FaMTdwaFM5alBaQ0hWNVUxMGpzX3ZsX1FrMDlrWHRIa1A1OGw5bkd4bW9MYjcyN2ZHNngwQnJ6b1B2NVVKM3kwOHhSbHJObEhpVXVxWUM1bUdvV0FvSW1JOHF2T3pNUWZoYkF6VTJkajFTeGlYWU1WZWNEdkRGMEhINlMtcWNhbGJ4QUVPT3d0Y1IySlhtRm40MEhuNUJfOXpxVXk5Wk9BNkl6dGJOeEVOQWRJbzZhYkNoZi1iNnlnWjVkNEdn?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        },
-        {
-          "id": "434d72ff",
-          "tipo": "bloqueo",
-          "ruta": "¿A qué hora inicia el megabloqueo AMOTAC? Estos son los…",
-          "descripcion": "¿A qué hora inicia el megabloqueo AMOTAC? Estos son los horario de cierres carreteros y autopistas en México mañana 24 de junio - facebook.com. ¿A qué hora inicia el megabloqueo AMOTAC? Estos son los horario de cierres carreteros y autopistas en México mañana 24 de junio facebook.com",
-          "recomendacion": "",
-          "fecha": "23 junio 2026 · 13:15 CST",
-          "fecha_iso": "2026-06-23T13:15:00-06:00",
-          "fuente": "facebook.com",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUEl4NnNDdkZjdjJFUURfcGNfRnJVNW5PTmUwek1WcUZIU3M0ZVJfNHBvSl96N19Wd3ZKMVZiRERwNHVodlFDbWpEMDdJdjczUnZBUXNja2k0NlkzODVQNC1ZUFNUNU1sN19DRzd3eDlBaXhuZVZ5NGpOVmdIMG9fVDh5Ym91X0lveXNabmdwSTlEZ1JnTnRaMWUwRzQ0UlpTZzFxaVJVRVc1dXcwRk44a2d5dnpVQmV2Nm1pWjNsajZBUDdZZ1J2dFhpN2xqNlR2bUFXSTVRZDRZRDFHeUlxNUhR?oc=5",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO"
@@ -67,37 +86,77 @@
       "col2": true,
       "alertas": [
         {
-          "id": "a9e19029",
+          "id": "46a8ad79",
           "tipo": "cierre_parcial",
-          "ruta": "carretera Pinotepa-Salina Cruz",
-          "descripcion": "Cierre parcial por accidente en carretera Pinotepa-Salina Cruz. A la altura de la comunidad de El Coyul, en la región de la Costa de Oaxaca.",
+          "ruta": "Choque entre tráiler y auto deja un lesionado en Santiago…",
+          "descripcion": "Choque entre tráiler y auto deja un lesionado en Santiago Undameo. Sobre la carretera Morelia-Pátzcuaro",
           "recomendacion": "",
-          "fecha": "23 junio 2026 · 13:57 CST",
-          "fecha_iso": "2026-06-23T13:57:00-06:00",
-          "fuente": "Quadratín Oaxaca",
-          "url": "https://oaxaca.quadratin.com.mx/cierre-parcial-por-accidente-en-carretera-pinotepa-salina-cruz/",
+          "fecha": "23 junio 2026 · 16:41 CST",
+          "fecha_iso": "2026-06-23T16:41:00-06:00",
+          "fuente": "Quadratín Michoacán",
+          "url": "https://www.quadratin.com.mx/sucesos/choque-entre-trailer-y-auto-deja-un-lesionado-en-santiago-undameo/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        },
+        {
+          "id": "f11efea0",
+          "tipo": "cierre_parcial",
+          "ruta": "Accidente en la México Puebla: así avanzan las carreteras del…",
+          "descripcion": "Accidente en la México Puebla: así avanzan las carreteras del país EN VIVO hoy 23 de junio - TV Azteca. Accidente en la México Puebla: así avanzan las carreteras del país EN VIVO hoy 23 de junio TV Azteca",
+          "recomendacion": "",
+          "fecha": "23 junio 2026 · 14:53 CST",
+          "fecha_iso": "2026-06-23T14:53:00-06:00",
+          "fuente": "TV Azteca",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMjBab2VqVnp0cElwZmx2ZHl3VFU0dTRjMi1hZ1JSOWFERnJBTGhPVml1T01NcnRib0RaaFRtUHU1RU9Uck1JTDQ1c2FvM09GRmhmZGlCVnltV3QzcWhsTFJ2a0tRN0hLRWR4SHpsZlJlZnBnSzlwUGJVdFNFSTgtd1lGR3pGZ0piQkx5SExaRkphcFY2MWh4eU52SldFOWxkRkRUVHNOWXpGeEpLYmt2Z0k3WmsxRlJNZVpDeVZB0gHLAUFVX3lxTE51S1MtRTNEbm5qYXNpWFRYQlZyRmNWbXZ3SXJ4blJRbnlzeno1VDdXQ05lSnNqM3BoZmFjeVUyUHZVdW9ITVFESzkyZjhQRmtNRkgxdlZsQVhRSWlqaGJXOTROaWdKOFJaRno1UV9mUkp4NklOWENqbnpMRXlwV3lkazc1S0lXVWxTaWNLVVVpamw0Vi0yTXdjblR0bEZGRlBDLWx5ZVNFSk1URGljSFlhR1A4NHRaa2U0YlkzU0F0RDlQSWo0ZUxXNXI0?oc=5",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL",
-          "lat": 17.06,
-          "lon": -96.72
+          "lat": 19.35,
+          "lon": -98.4
         }
       ]
     }
   ],
   "para_mapa": [
     {
-      "id": "a9e19029",
+      "id": "086f0591",
+      "tipo": "bloqueo",
+      "ruta": "DIF Jalisco fortalece atención a las familias con alianzas académicas…",
+      "descripcion": "DIF Jalisco fortalece atención a las familias con alianzas académicas. Tan solo en 2025, un total de 740 servidoras y servidores públicos participaron en cursos, talleres y procesos de capacitación",
+      "fecha": "23 junio 2026 · 16:11 CST",
+      "fuente": "Quadratín Jalisco",
+      "url": "https://jalisco.quadratin.com.mx/sucesos/dif-jalisco-fortalece-atencion-a-las-familias-con-alianzas-academicas/",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 25.2,
+      "lon": -102.0
+    },
+    {
+      "id": "5de4bcd4",
+      "tipo": "bloqueo",
+      "ruta": "Manifestación de transportistas: En estas carreteras de Guanajuato habrá caos…",
+      "descripcion": "Manifestación de transportistas: En estas carreteras de Guanajuato habrá caos vial este 24 de junio - La Silla Rota. Manifestación de transportistas: En estas carreteras de Guanajuato habrá caos vial este 24 de junio La Silla Rota",
+      "fecha": "23 junio 2026 · 15:31 CST",
+      "fuente": "La Silla Rota",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNcUNJc2xlaThkcE9PMU5yRU5EcHFwd2VwcVMySGtJYlE5Qmh0RmVUYi1sTDdEdEJIaGtTUXpZenAzdTh4U3pjVnpybkxjSnpBR0dIdi1IaklFcHJpWHNUanUxeHR1WWZJUzNOY0k3MzdhMVN3RkFCU3A3NVAzQVpTVHZmM0hqUVl0ZHpDWVFuTFpTajg4Sklidm9OVDRpNVJ3RHVjQ0ZvTENxUlhZd3NDNVlrLUR5ZzMyRGd3WmNNUl9weWR2WkxPWS1sbXJmRFJBODM4REx5MEdRQWplNkYzOG0zME9iZjhSRTRKd25nTWxQNUpZ?oc=5",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 21.02,
+      "lon": -101.26
+    },
+    {
+      "id": "f11efea0",
       "tipo": "cierre_parcial",
-      "ruta": "carretera Pinotepa-Salina Cruz",
-      "descripcion": "Cierre parcial por accidente en carretera Pinotepa-Salina Cruz. A la altura de la comunidad de El Coyul, en la región de la Costa de Oaxaca.",
-      "fecha": "23 junio 2026 · 13:57 CST",
-      "fuente": "Quadratín Oaxaca",
-      "url": "https://oaxaca.quadratin.com.mx/cierre-parcial-por-accidente-en-carretera-pinotepa-salina-cruz/",
+      "ruta": "Accidente en la México Puebla: así avanzan las carreteras del…",
+      "descripcion": "Accidente en la México Puebla: así avanzan las carreteras del país EN VIVO hoy 23 de junio - TV Azteca. Accidente en la México Puebla: así avanzan las carreteras del país EN VIVO hoy 23 de junio TV Azteca",
+      "fecha": "23 junio 2026 · 14:53 CST",
+      "fuente": "TV Azteca",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMjBab2VqVnp0cElwZmx2ZHl3VFU0dTRjMi1hZ1JSOWFERnJBTGhPVml1T01NcnRib0RaaFRtUHU1RU9Uck1JTDQ1c2FvM09GRmhmZGlCVnltV3QzcWhsTFJ2a0tRN0hLRWR4SHpsZlJlZnBnSzlwUGJVdFNFSTgtd1lGR3pGZ0piQkx5SExaRkphcFY2MWh4eU52SldFOWxkRkRUVHNOWXpGeEpLYmt2Z0k3WmsxRlJNZVpDeVZB0gHLAUFVX3lxTE51S1MtRTNEbm5qYXNpWFRYQlZyRmNWbXZ3SXJ4blJRbnlzeno1VDdXQ05lSnNqM3BoZmFjeVUyUHZVdW9ITVFESzkyZjhQRmtNRkgxdlZsQVhRSWlqaGJXOTROaWdKOFJaRno1UV9mUkp4NklOWENqbnpMRXlwV3lkazc1S0lXVWxTaWNLVVVpamw0Vi0yTXdjblR0bEZGRlBDLWx5ZVNFSk1URGljSFlhR1A4NHRaa2U0YlkzU0F0RDlQSWo0ZUxXNXI0?oc=5",
       "dot_color": "#e67e22",
       "badge_txt": "CIERRE PARCIAL",
-      "lat": 17.06,
-      "lon": -96.72
+      "lat": 19.35,
+      "lon": -98.4
     }
   ]
 }
