@@ -1,10 +1,10 @@
 {
-  "ultima_actualizacion": "2026-06-23T04:36:48.594865-06:00",
-  "ultima_actualizacion_legible": "23 de junio de 2026 · 04:36 CST",
+  "ultima_actualizacion": "2026-06-23T07:32:02.450302-06:00",
+  "ultima_actualizacion_legible": "23 de junio de 2026 · 07:32 CST",
   "total": 2,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Telegram"
+    "Google News"
   ],
   "grupos": [
     {
@@ -15,20 +15,18 @@
       "col2": false,
       "alertas": [
         {
-          "id": "69b49d12",
+          "id": "40130173",
           "tipo": "bloqueo",
-          "ruta": "Productores de frijol protestan en Durango; exigen reanudar acopio del…",
-          "descripcion": "Productores de frijol protestan en Durango; exigen reanudar acopio del grano\nhttps://www.jornada.com.mx/2026/06/23/estados/025n1est?partner=rss\n\nDurango, Dgo., Productores de frijol del estado bloquearon vialidades de esta capital y tomaron las oficinas regionales de la Secretaría de Agricultura y Desarrollo Rural (Sader) federal, así como las de Alimentación para el Bienestar, para exigir el cumplimiento de acuerdos establecidos para el acopio de sus cosechas.",
+          "ruta": "Bloqueos carreteras HOY 23 de junio: Autopistas cerradas en México,…",
+          "descripcion": "Bloqueos carreteras HOY 23 de junio: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 23 de junio: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
           "recomendacion": "",
-          "fecha": "23 junio 2026 · 03:52 CST",
-          "fecha_iso": "2026-06-23T03:52:00-06:00",
-          "fuente": "Telegram @NOTMEX",
-          "url": "https://t.me/NOTMEX/184058",
+          "fecha": "23 junio 2026 · 07:26 CST",
+          "fecha_iso": "2026-06-23T07:26:00-06:00",
+          "fuente": "Eje Central",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNSVVrNnZwa1dYMHZISHhpM2dZZmxUWVZ0MG50VlFRQWNVYjNwS3E2NlZmam9sYkVHZnIycHkzczdWZTA0aXRzcjQ0azFENGlvajRGamJDTE81SHdqZUFwRHJKdVpqdUFRUnMxdmhtcXZsVFI5am5BbWVfNGk3Z2ZBZVY5Qkp2REt3cEE1NEUyR2NtZUZwWTRQVnBRdFFiV2F3eFVlcWZBYjZvanotY3BBemdFV0hhUWRVLVF1Zll6STY1RkhfelQ4b3RLM2E3bjdOaGFuTE1wcnJoYXJaeVM1SHY4Y29WMEU?oc=5",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 24.02,
-          "lon": -104.66
+          "badge_txt": "BLOQUEO"
         }
       ]
     },
@@ -40,50 +38,21 @@
       "col2": true,
       "alertas": [
         {
-          "id": "d16bf276",
+          "id": "c0ca9bc5",
           "tipo": "cierre_parcial",
-          "ruta": "Liberan mil ejemplares de achoque en el lago de Pátzcuaro…",
-          "descripcion": "Liberan mil ejemplares de  achoque en el lago de Pátzcuaro\nhttps://www.jornada.com.mx/2026/06/23/estados/025n4est?partner=rss\n\nEl gobierno de Michoacán liberó mil ejemplares de achoque –una especie de anfibio caudado– en el lago de Pátzcuaro, a fin de preservar esta especie endémica que se encuentra en peligro de extinción; además, en este mismo embalse soltaron 40 mil crías de pez blanco.",
+          "ruta": "Carreteras Bloqueadas en México Hoy: Lista de Autopista con Cierres…",
+          "descripcion": "Carreteras Bloqueadas en México Hoy: Lista de Autopista con Cierres este 23 de Junio 2026 - N+. Carreteras Bloqueadas en México Hoy: Lista de Autopista con Cierres este 23 de Junio 2026 N+",
           "recomendacion": "",
-          "fecha": "23 junio 2026 · 03:56 CST",
-          "fecha_iso": "2026-06-23T03:56:00-06:00",
-          "fuente": "Telegram @NOTMEX",
-          "url": "https://t.me/NOTMEX/184062",
+          "fecha": "23 junio 2026 · 07:25 CST",
+          "fecha_iso": "2026-06-23T07:25:00-06:00",
+          "fuente": "N+",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOEJ4RHpfdmV4eVVEZ0U4eTFTVnhwU3hYdTltYktzWHFqY2g2ZHRONlA3QkJpT1R3TVFNaE5hWmlBZWItODlrWEU1b2FOS093amEtdm9MVWhvTnVJZE1sdkNPaVhKWi1SeFUtVnJ3R2piNkNEM1I3WVVyS1RqZWpydG1Haks2Y3U3bURwa2NRU0xwVU1zQmk3QlNWcFJlMmx3RXVXZm9STTh3RWJhQXh1dDktelgyQUhXNkZqRjA4TDI?oc=5",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 25.2,
-          "lon": -102.0
+          "badge_txt": "CIERRE PARCIAL"
         }
       ]
     }
   ],
-  "para_mapa": [
-    {
-      "id": "d16bf276",
-      "tipo": "cierre_parcial",
-      "ruta": "Liberan mil ejemplares de achoque en el lago de Pátzcuaro…",
-      "descripcion": "Liberan mil ejemplares de  achoque en el lago de Pátzcuaro\nhttps://www.jornada.com.mx/2026/06/23/estados/025n4est?partner=rss\n\nEl gobierno de Michoacán liberó mil ejemplares de achoque –una especie de anfibio caudado– en el lago de Pátzcuaro, a fin de preservar esta especie endémica que se encuentra en peligro de extinción; además, en este mismo embalse soltaron 40 mil crías de pez blanco.",
-      "fecha": "23 junio 2026 · 03:56 CST",
-      "fuente": "Telegram @NOTMEX",
-      "url": "https://t.me/NOTMEX/184062",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 25.2,
-      "lon": -102.0
-    },
-    {
-      "id": "69b49d12",
-      "tipo": "bloqueo",
-      "ruta": "Productores de frijol protestan en Durango; exigen reanudar acopio del…",
-      "descripcion": "Productores de frijol protestan en Durango; exigen reanudar acopio del grano\nhttps://www.jornada.com.mx/2026/06/23/estados/025n1est?partner=rss\n\nDurango, Dgo., Productores de frijol del estado bloquearon vialidades de esta capital y tomaron las oficinas regionales de la Secretaría de Agricultura y Desarrollo Rural (Sader) federal, así como las de Alimentación para el Bienestar, para exigir el cumplimiento de acuerdos establecidos para el acopio de sus cosechas.",
-      "fecha": "23 junio 2026 · 03:52 CST",
-      "fuente": "Telegram @NOTMEX",
-      "url": "https://t.me/NOTMEX/184058",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 24.02,
-      "lon": -104.66
-    }
-  ]
+  "para_mapa": []
 }
