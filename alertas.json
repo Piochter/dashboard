@@ -1,12 +1,12 @@
 {
-  "ultima_actualizacion": "2026-06-22T16:27:25.200094-06:00",
-  "ultima_actualizacion_legible": "22 de junio de 2026 · 16:27 CST",
-  "total": 4,
+  "ultima_actualizacion": "2026-06-22T20:53:47.809103-06:00",
+  "ultima_actualizacion_legible": "22 de junio de 2026 · 20:53 CST",
+  "total": 6,
   "ventana": "últimos 180 minutos",
   "fuentes": [
     "Google News",
-    "Medios nacionales",
-    "Quadratín + regionales"
+    "Medios regionales",
+    "Telegram"
   ],
   "grupos": [
     {
@@ -17,41 +17,13 @@
       "col2": false,
       "alertas": [
         {
-          "id": "ebe62b17",
-          "tipo": "bloqueo",
-          "ruta": "Confirma VW paro de producción para Jetta, Tiguan y Taos…",
-          "descripcion": "Confirma VW paro de producción para Jetta, Tiguan y Taos. La suspensión aplicará durante las semanas 27 y 28 del año.",
-          "recomendacion": "",
-          "fecha": "22 junio 2026 · 15:11 CST",
-          "fecha_iso": "2026-06-22T15:11:00-06:00",
-          "fuente": "Quadratín Puebla",
-          "url": "https://puebla.quadratin.com.mx/economia/confirma-vw-paro-de-produccion-para-jetta-tiguan-y-taos/",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        },
-        {
-          "id": "58951462",
-          "tipo": "bloqueo",
-          "ruta": "Accidentes, bloqueos y tráfico en las carreteras de México HOY:…",
-          "descripcion": "Accidentes, bloqueos y tráfico en las carreteras de México HOY: Noticias EN VIVO este 22 de junio - TV Azteca. Accidentes, bloqueos y tráfico en las carreteras de México HOY: Noticias EN VIVO este 22 de junio TV Azteca",
-          "recomendacion": "",
-          "fecha": "22 junio 2026 · 15:08 CST",
-          "fecha_iso": "2026-06-22T15:08:00-06:00",
-          "fuente": "TV Azteca",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMkVIYVU4OVltdUNvemduVll2aDZvcW1zLVp1eVVoMDlyUThzWm0xQlQzdXExRnlGOFRicDFnSEY5NVlOdzYweno0dFpsbkhjb1Vtd0RmZjRVV1Y4QmVINXhZMmNBd01DU3Nid01JYm5uVG5USGJVbWhsaWxQbFlIWnlwcVN1UGJBSHpMMjE5XzJ1M3Q1azNNYVgtM2MxeFhSai1ZQUNXSldzZHBJU2RPb2hmV0Z3T0hERWRTUHZRcEpaZVRScFNJazNIcErSAdoBQVVfeXFMUGctVmxpdVJwYThPVGN4TG12cXgxSERzY055ZWhoY1A2TnFya3JJckZOMEJZYTJtZkFYM3pKbjFSTzAtb1NkRjEwNUxRMW45dmtnd2hBYlZleVB5a09YRmJkeHZSZzhLVWZOT2VvYUpfb0FTNE10anRsbnJmeWNVUWJNejdJaWJTWkZuU19GVlB3RnhZQ09NanlPNUYtV1E3NlV5UGgtd2RKMUp5a0ppaWdpb0QtS09ZMkkzenJiRGRoa2lRN1FpX0pLWFJvUEJ0RVAyZkt1S09ONHc?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        },
-        {
           "id": "c15fc557",
           "tipo": "bloqueo",
           "ruta": "Mega Bloqueo de Transportistas 24 de Junio: Cómo Llegar a…",
           "descripcion": "Mega Bloqueo de Transportistas 24 de Junio: Cómo Llegar a Tiempo al México vs Chequia en CDMX - N+. Mega Bloqueo de Transportistas 24 de Junio: Cómo Llegar a Tiempo al México vs Chequia en CDMX N+",
           "recomendacion": "",
-          "fecha": "22 junio 2026 · 14:31 CST",
-          "fecha_iso": "2026-06-22T14:31:00-06:00",
+          "fecha": "22 junio 2026 · 20:32 CST",
+          "fecha_iso": "2026-06-22T20:32:00-06:00",
           "fuente": "N+",
           "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdXRCOFFrRkIwQXdycVAzSWtyZXJyMUlXQUJPV25OU1NqWGN4b0VJVWlfLXZSYi1iRWJGWW9qY2MxdFNaOVE1ejZiMm82TC1nUlZVYnpnR21IU2Z3OG95Z1VpRzFzdHBQQ0dFQXY2dmt4OEJ5SlUyQTloWkFxNFh3YTN4R25IWTZ1d1dEQjh3d1JaMXBLc0NON1VDRXpKY1liNVBZNldmci1nNXpXX3RaNWVuRkg1NWdUQ2FydDZJcw?oc=5",
           "dot_color": "#8e44ad",
@@ -61,20 +33,94 @@
           "lon": -99.13
         },
         {
-          "id": "3722a1b0",
+          "id": "35b30d0f",
           "tipo": "bloqueo",
-          "ruta": "Vuelven a las aulas más de 800 mil alumnos tras…",
-          "descripcion": "Vuelven a las aulas más de 800 mil alumnos tras paro de la CNTE. Tras finalizar el paro de la CNTE, más de 800 mil estudiantes de educación básica retomaron este lunes sus actividades escolares en Oaxaca.",
+          "ruta": "Tráfico en la México-Toluca: bloqueos y accidentes en carreteras de…",
+          "descripcion": "Tráfico en la México-Toluca: bloqueos y accidentes en carreteras de México HOY 22 de junio - TV Azteca. Tráfico en la México-Toluca: bloqueos y accidentes en carreteras de México HOY 22 de junio TV Azteca",
           "recomendacion": "",
-          "fecha": "22 junio 2026 · 14:02 CST",
-          "fecha_iso": "2026-06-22T14:02:00-06:00",
-          "fuente": "24 Horas",
-          "url": "https://24-horas.mx/estados/vuelven-a-las-aulas-mas-de-800-mil-alumnos-tras-paro-de-la-cnte/",
+          "fecha": "22 junio 2026 · 20:11 CST",
+          "fecha_iso": "2026-06-22T20:11:00-06:00",
+          "fuente": "TV Azteca",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMkVIYVU4OVltdUNvemduVll2aDZvcW1zLVp1eVVoMDlyUThzWm0xQlQzdXExRnlGOFRicDFnSEY5NVlOdzYweno0dFpsbkhjb1Vtd0RmZjRVV1Y4QmVINXhZMmNBd01DU3Nid01JYm5uVG5USGJVbWhsaWxQbFlIWnlwcVN1UGJBSHpMMjE5XzJ1M3Q1azNNYVgtM2MxeFhSai1ZQUNXSldzZHBJU2RPb2hmV0Z3T0hERWRTUHZRcEpaZVRScFNJazNIcErSAdoBQVVfeXFMUGctVmxpdVJwYThPVGN4TG12cXgxSERzY055ZWhoY1A2TnFya3JJckZOMEJZYTJtZkFYM3pKbjFSTzAtb1NkRjEwNUxRMW45dmtnd2hBYlZleVB5a09YRmJkeHZSZzhLVWZOT2VvYUpfb0FTNE10anRsbnJmeWNVUWJNejdJaWJTWkZuU19GVlB3RnhZQ09NanlPNUYtV1E3NlV5UGgtd2RKMUp5a0ppaWdpb0QtS09ZMkkzenJiRGRoa2lRN1FpX0pLWFJvUEJ0RVAyZkt1S09ONHc?oc=5",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO",
-          "lat": 17.06,
-          "lon": -96.72
+          "lat": 19.29,
+          "lon": -99.66
+        },
+        {
+          "id": "03ed4f84",
+          "tipo": "bloqueo",
+          "ruta": "🔥El blindaje de dicha zona boscosa ocurre a una semana…",
+          "descripcion": "🔥El blindaje de dicha zona boscosa ocurre a una semana de que comuneros de San Pedro Atlapulco retuvieron tres camionetas de talamontes\n\nhttps://lajornadaestadodemexico.com/secretaria-de-seguridad-desplaza-300-elementos-para-erradicar-tala-en-ocoyoacac/",
+          "recomendacion": "",
+          "fecha": "22 junio 2026 · 19:24 CST",
+          "fecha_iso": "2026-06-22T19:24:00-06:00",
+          "fuente": "Telegram @jornadaedomex",
+          "url": "https://t.me/jornadaedomex/11143",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
+        {
+          "id": "760d689b",
+          "tipo": "bloqueo",
+          "ruta": "Transportistas realizarán marcha nacional: fecha y carreteras afectadas…",
+          "descripcion": "Transportistas realizarán marcha nacional: fecha y carreteras afectadas. La AMOTAC asegura que las protestas buscan visibilizar las condiciones laborales del sector y exigir soluciones concretas",
+          "recomendacion": "",
+          "fecha": "22 junio 2026 · 18:32 CST",
+          "fecha_iso": "2026-06-22T18:32:00-06:00",
+          "fuente": "El Informador Jalisco",
+          "url": "https://www.informador.mx/mexico/transportistas-realizaran-marcha-nacional-fecha-y-carreteras-afectadas-20260622-0149.html",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        }
+      ]
+    },
+    {
+      "tipo": "cierre_parcial",
+      "color": "amarillo",
+      "icono": "🟡",
+      "label": "CIERRE PARCIAL / ACCIDENTES",
+      "col2": true,
+      "alertas": [
+        {
+          "id": "0fbbaa0f",
+          "tipo": "cierre_parcial",
+          "ruta": "La Bolsa Mexicana pierde 0.86 % y liga cuatro jornadas…",
+          "descripcion": "La Bolsa Mexicana pierde 0.86 % y liga cuatro jornadas en rojo. El IPC bajó a 67 mil 125.26 unidades en una jornada de cierres mixtos en el mundo",
+          "recomendacion": "",
+          "fecha": "22 junio 2026 · 20:16 CST",
+          "fecha_iso": "2026-06-22T20:16:00-06:00",
+          "fuente": "El Informador Jalisco",
+          "url": "https://www.informador.mx/economia/la-bolsa-mexicana-pierde-0.86--y-liga-cuatro-jornadas-en-rojo-20260622-0185.html",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        }
+      ]
+    },
+    {
+      "tipo": "clima",
+      "color": "azul",
+      "icono": "🌧️",
+      "label": "ALERTA METEOROLÓGICA",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "655dfac3",
+          "tipo": "clima",
+          "ruta": "Lluvia deja inundaciones y encharcamientos en 2 puntos de Morelia…",
+          "descripcion": "Lluvia deja inundaciones y encharcamientos en 2 puntos de Morelia. Podría afectar la circulación vehicular",
+          "recomendacion": "",
+          "fecha": "22 junio 2026 · 19:12 CST",
+          "fecha_iso": "2026-06-22T19:12:00-06:00",
+          "fuente": "Quadratín Michoacán",
+          "url": "https://www.quadratin.com.mx/sucesos/lluvia-deja-inundaciones-y-encharcamientos-en-2-puntos-de-morelia/",
+          "dot_color": "#3498db",
+          "badge": "badge-clima",
+          "badge_txt": "ALERTA CLIMA"
         }
       ]
     }
@@ -85,7 +131,7 @@
       "tipo": "bloqueo",
       "ruta": "Mega Bloqueo de Transportistas 24 de Junio: Cómo Llegar a…",
       "descripcion": "Mega Bloqueo de Transportistas 24 de Junio: Cómo Llegar a Tiempo al México vs Chequia en CDMX - N+. Mega Bloqueo de Transportistas 24 de Junio: Cómo Llegar a Tiempo al México vs Chequia en CDMX N+",
-      "fecha": "22 junio 2026 · 14:31 CST",
+      "fecha": "22 junio 2026 · 20:32 CST",
       "fuente": "N+",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdXRCOFFrRkIwQXdycVAzSWtyZXJyMUlXQUJPV25OU1NqWGN4b0VJVWlfLXZSYi1iRWJGWW9qY2MxdFNaOVE1ejZiMm82TC1nUlZVYnpnR21IU2Z3OG95Z1VpRzFzdHBQQ0dFQXY2dmt4OEJ5SlUyQTloWkFxNFh3YTN4R25IWTZ1d1dEQjh3d1JaMXBLc0NON1VDRXpKY1liNVBZNldmci1nNXpXX3RaNWVuRkg1NWdUQ2FydDZJcw?oc=5",
       "dot_color": "#8e44ad",
@@ -94,17 +140,17 @@
       "lon": -99.13
     },
     {
-      "id": "3722a1b0",
+      "id": "35b30d0f",
       "tipo": "bloqueo",
-      "ruta": "Vuelven a las aulas más de 800 mil alumnos tras…",
-      "descripcion": "Vuelven a las aulas más de 800 mil alumnos tras paro de la CNTE. Tras finalizar el paro de la CNTE, más de 800 mil estudiantes de educación básica retomaron este lunes sus actividades escolares en Oaxaca.",
-      "fecha": "22 junio 2026 · 14:02 CST",
-      "fuente": "24 Horas",
-      "url": "https://24-horas.mx/estados/vuelven-a-las-aulas-mas-de-800-mil-alumnos-tras-paro-de-la-cnte/",
+      "ruta": "Tráfico en la México-Toluca: bloqueos y accidentes en carreteras de…",
+      "descripcion": "Tráfico en la México-Toluca: bloqueos y accidentes en carreteras de México HOY 22 de junio - TV Azteca. Tráfico en la México-Toluca: bloqueos y accidentes en carreteras de México HOY 22 de junio TV Azteca",
+      "fecha": "22 junio 2026 · 20:11 CST",
+      "fuente": "TV Azteca",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMkVIYVU4OVltdUNvemduVll2aDZvcW1zLVp1eVVoMDlyUThzWm0xQlQzdXExRnlGOFRicDFnSEY5NVlOdzYweno0dFpsbkhjb1Vtd0RmZjRVV1Y4QmVINXhZMmNBd01DU3Nid01JYm5uVG5USGJVbWhsaWxQbFlIWnlwcVN1UGJBSHpMMjE5XzJ1M3Q1azNNYVgtM2MxeFhSai1ZQUNXSldzZHBJU2RPb2hmV0Z3T0hERWRTUHZRcEpaZVRScFNJazNIcErSAdoBQVVfeXFMUGctVmxpdVJwYThPVGN4TG12cXgxSERzY055ZWhoY1A2TnFya3JJckZOMEJZYTJtZkFYM3pKbjFSTzAtb1NkRjEwNUxRMW45dmtnd2hBYlZleVB5a09YRmJkeHZSZzhLVWZOT2VvYUpfb0FTNE10anRsbnJmeWNVUWJNejdJaWJTWkZuU19GVlB3RnhZQ09NanlPNUYtV1E3NlV5UGgtd2RKMUp5a0ppaWdpb0QtS09ZMkkzenJiRGRoa2lRN1FpX0pLWFJvUEJ0RVAyZkt1S09ONHc?oc=5",
       "dot_color": "#8e44ad",
       "badge_txt": "BLOQUEO",
-      "lat": 17.06,
-      "lon": -96.72
+      "lat": 19.29,
+      "lon": -99.66
     }
   ]
 }
