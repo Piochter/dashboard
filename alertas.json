@@ -1,11 +1,10 @@
 {
-  "ultima_actualizacion": "2026-06-23T12:16:54.515360-06:00",
-  "ultima_actualizacion_legible": "23 de junio de 2026 · 12:16 CST",
+  "ultima_actualizacion": "2026-06-23T14:26:32.418317-06:00",
+  "ultima_actualizacion_legible": "23 de junio de 2026 · 14:26 CST",
   "total": 7,
   "ventana": "últimos 180 minutos",
   "fuentes": [
     "Google News",
-    "Medios regionales",
     "Quadratín + regionales"
   ],
   "grupos": [
@@ -16,6 +15,34 @@
       "label": "BLOQUEOS / MANIFESTACIONES",
       "col2": false,
       "alertas": [
+        {
+          "id": "b73c4e25",
+          "tipo": "bloqueo",
+          "ruta": "Transportistas anuncian movilización nacional en carreteras: puntos de bloqueo el…",
+          "descripcion": "Transportistas anuncian movilización nacional en carreteras: puntos de bloqueo el 24 de junio - El Sol de México. Transportistas anuncian movilización nacional en carreteras: puntos de bloqueo el 24 de junio El Sol de México",
+          "recomendacion": "",
+          "fecha": "23 junio 2026 · 13:41 CST",
+          "fecha_iso": "2026-06-23T13:41:00-06:00",
+          "fuente": "El Sol de México",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQW5xWUVqUzY5MjUtSXdlS0NBV01PV2FaMTdwaFM5alBaQ0hWNVUxMGpzX3ZsX1FrMDlrWHRIa1A1OGw5bkd4bW9MYjcyN2ZHNngwQnJ6b1B2NVVKM3kwOHhSbHJObEhpVXVxWUM1bUdvV0FvSW1JOHF2T3pNUWZoYkF6VTJkajFTeGlYWU1WZWNEdkRGMEhINlMtcWNhbGJ4QUVPT3d0Y1IySlhtRm40MEhuNUJfOXpxVXk5Wk9BNkl6dGJOeEVOQWRJbzZhYkNoZi1iNnlnWjVkNEdn?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
+        {
+          "id": "434d72ff",
+          "tipo": "bloqueo",
+          "ruta": "¿A qué hora inicia el megabloqueo AMOTAC? Estos son los…",
+          "descripcion": "¿A qué hora inicia el megabloqueo AMOTAC? Estos son los horario de cierres carreteros y autopistas en México mañana 24 de junio - facebook.com. ¿A qué hora inicia el megabloqueo AMOTAC? Estos son los horario de cierres carreteros y autopistas en México mañana 24 de junio facebook.com",
+          "recomendacion": "",
+          "fecha": "23 junio 2026 · 13:15 CST",
+          "fecha_iso": "2026-06-23T13:15:00-06:00",
+          "fuente": "facebook.com",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUEl4NnNDdkZjdjJFUURfcGNfRnJVNW5PTmUwek1WcUZIU3M0ZVJfNHBvSl96N19Wd3ZKMVZiRERwNHVodlFDbWpEMDdJdjczUnZBUXNja2k0NlkzODVQNC1ZUFNUNU1sN19DRzd3eDlBaXhuZVZ5NGpOVmdIMG9fVDh5Ym91X0lveXNabmdwSTlEZ1JnTnRaMWUwRzQ0UlpTZzFxaVJVRVc1dXcwRk44a2d5dnpVQmV2Nm1pWjNsajZBUDdZZ1J2dFhpN2xqNlR2bUFXSTVRZDRZRDFHeUlxNUhR?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
         {
           "id": "2649bf2b",
           "tipo": "bloqueo",
@@ -45,34 +72,6 @@
           "badge_txt": "BLOQUEO",
           "lat": 19.35,
           "lon": -98.4
-        },
-        {
-          "id": "b73c4e25",
-          "tipo": "bloqueo",
-          "ruta": "Transportistas anuncian movilización nacional en carreteras: puntos de bloqueo el…",
-          "descripcion": "Transportistas anuncian movilización nacional en carreteras: puntos de bloqueo el 24 de junio - El Sol de México. Transportistas anuncian movilización nacional en carreteras: puntos de bloqueo el 24 de junio El Sol de México",
-          "recomendacion": "",
-          "fecha": "23 junio 2026 · 10:08 CST",
-          "fecha_iso": "2026-06-23T10:08:00-06:00",
-          "fuente": "El Sol de México",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQW5xWUVqUzY5MjUtSXdlS0NBV01PV2FaMTdwaFM5alBaQ0hWNVUxMGpzX3ZsX1FrMDlrWHRIa1A1OGw5bkd4bW9MYjcyN2ZHNngwQnJ6b1B2NVVKM3kwOHhSbHJObEhpVXVxWUM1bUdvV0FvSW1JOHF2T3pNUWZoYkF6VTJkajFTeGlYWU1WZWNEdkRGMEhINlMtcWNhbGJ4QUVPT3d0Y1IySlhtRm40MEhuNUJfOXpxVXk5Wk9BNkl6dGJOeEVOQWRJbzZhYkNoZi1iNnlnWjVkNEdn?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        },
-        {
-          "id": "8117723d",
-          "tipo": "bloqueo",
-          "ruta": "Paro de transportistas; bloqueos en 32 carreteras del país -…",
-          "descripcion": "Paro de transportistas; bloqueos en 32 carreteras del país - Poblanerias.com. Paro de transportistas; bloqueos en 32 carreteras del país Poblanerias.com",
-          "recomendacion": "",
-          "fecha": "23 junio 2026 · 10:02 CST",
-          "fecha_iso": "2026-06-23T10:02:00-06:00",
-          "fuente": "Poblanerias.com",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE04am0yd1ltN3pFcHNtaHFadHJDZE1OMmJlR25FTTQ5UVhMNldDbHRCc2thTDdrWHZOeHkwR2cxVDZCbUNMWFd6QUhsR2pGTWpXRkFIc1hLS1ZtUHVUaFM1dWcyUmJuVHFuWnBiWEpjNzI2TUxsa2NVYkhUN3hNQQ?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
         }
       ]
     },
@@ -83,6 +82,22 @@
       "label": "CIERRE PARCIAL / ACCIDENTES",
       "col2": true,
       "alertas": [
+        {
+          "id": "a9e19029",
+          "tipo": "cierre_parcial",
+          "ruta": "carretera Pinotepa-Salina Cruz",
+          "descripcion": "Cierre parcial por accidente en carretera Pinotepa-Salina Cruz. A la altura de la comunidad de El Coyul, en la región de la Costa de Oaxaca.",
+          "recomendacion": "",
+          "fecha": "23 junio 2026 · 13:57 CST",
+          "fecha_iso": "2026-06-23T13:57:00-06:00",
+          "fuente": "Quadratín Oaxaca",
+          "url": "https://oaxaca.quadratin.com.mx/cierre-parcial-por-accidente-en-carretera-pinotepa-salina-cruz/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 17.06,
+          "lon": -96.72
+        },
         {
           "id": "f11efea0",
           "tipo": "cierre_parcial",
@@ -116,32 +131,22 @@
           "lon": -96.72
         }
       ]
-    },
-    {
-      "tipo": "clima",
-      "color": "azul",
-      "icono": "🌧️",
-      "label": "ALERTA METEOROLÓGICA",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "398a302c",
-          "tipo": "clima",
-          "ruta": "Pide OOAPAS no tirar basura que puede ocasionar inundaciones…",
-          "descripcion": "Pide OOAPAS no tirar basura que puede ocasionar inundaciones. Se han retirado más de 62 mil toneladas de residuos y azolve",
-          "recomendacion": "",
-          "fecha": "23 junio 2026 · 12:03 CST",
-          "fecha_iso": "2026-06-23T12:03:00-06:00",
-          "fuente": "Quadratín Michoacán",
-          "url": "https://www.quadratin.com.mx/morelia/pide-ooapas-no-tirar-basura-que-puede-ocasionar-inundaciones/",
-          "dot_color": "#3498db",
-          "badge": "badge-clima",
-          "badge_txt": "ALERTA CLIMA"
-        }
-      ]
     }
   ],
   "para_mapa": [
+    {
+      "id": "a9e19029",
+      "tipo": "cierre_parcial",
+      "ruta": "carretera Pinotepa-Salina Cruz",
+      "descripcion": "Cierre parcial por accidente en carretera Pinotepa-Salina Cruz. A la altura de la comunidad de El Coyul, en la región de la Costa de Oaxaca.",
+      "fecha": "23 junio 2026 · 13:57 CST",
+      "fuente": "Quadratín Oaxaca",
+      "url": "https://oaxaca.quadratin.com.mx/cierre-parcial-por-accidente-en-carretera-pinotepa-salina-cruz/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 17.06,
+      "lon": -96.72
+    },
     {
       "id": "f11efea0",
       "tipo": "cierre_parcial",
