@@ -1,11 +1,12 @@
 {
-  "ultima_actualizacion": "2026-06-24T15:46:34.499861-06:00",
-  "ultima_actualizacion_legible": "24 de junio de 2026 · 15:46 CST",
-  "total": 5,
+  "ultima_actualizacion": "2026-06-24T16:56:06.667174-06:00",
+  "ultima_actualizacion_legible": "24 de junio de 2026 · 16:56 CST",
+  "total": 4,
   "ventana": "últimos 180 minutos",
   "fuentes": [
     "Google News",
-    "Quadratín + regionales"
+    "Quadratín + regionales",
+    "Telegram"
   ],
   "grupos": [
     {
@@ -30,6 +31,20 @@
           "badge_txt": "BLOQUEO"
         },
         {
+          "id": "9da46776",
+          "tipo": "bloqueo",
+          "ruta": "Bloqueo de transportistas HOY miércoles 24 de junio: tráfico en…",
+          "descripcion": "Bloqueo de transportistas HOY miércoles 24 de junio: tráfico en autopistas de México |EN VIVO - TV Azteca. Bloqueo de transportistas HOY miércoles 24 de junio: tráfico en autopistas de México |EN VIVO TV Azteca",
+          "recomendacion": "",
+          "fecha": "24 junio 2026 · 14:56 CST",
+          "fecha_iso": "2026-06-24T14:56:00-06:00",
+          "fuente": "TV Azteca",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaUxReUtCc3lqNXAxSVRSS2NsQnpramg5TTVvZEt2a2laazc3WG05M1lsUUhDN1ZUT0xRNjBjQUY0ZHE5Z2RnZXIxMkZPRTVtcDVfUmpNY0dFMTZURHloZjlwY3hsdUpXT0s0UnFfZmNWZ3V6SXZQOVVuS211eTBTemdCZ3h4eVY3XzBYWVlHeUhRN0VSWHpQc2F30gGnAUFVX3lxTE1jOFhSNjN1UTFjZGRRX0JZbFlXc1BRcVRYTkFrdG5VZE4zSEMtWXNKSk5OY29nWENBYzlYSnJfcXhjcG5xd3VOOVBmcW9MUUlKSzF0eFdYYVRSUExyOGVmTVpoUHVwTndPQUptQXpjd2Y5V2ZTTkJsNXJtbHB1YWVpT0l6OHBZU0V3VGRZUkNFZE5WZjYxUnd3cVpSTXdKN1VPajFxNGpN?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
+        {
           "id": "ef8cbc21",
           "tipo": "bloqueo",
           "ruta": "Reporta Canaco pérdidas de hasta 80% por bloqueos carreteros de…",
@@ -42,67 +57,48 @@
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO"
-        },
+        }
+      ]
+    },
+    {
+      "tipo": "clima",
+      "color": "azul",
+      "icono": "🌧️",
+      "label": "ALERTA METEOROLÓGICA",
+      "col2": false,
+      "alertas": [
         {
-          "id": "0e574950",
-          "tipo": "bloqueo",
-          "ruta": "Bloqueo de transportistas: Estas son las vialidades y carreteras que…",
-          "descripcion": "Bloqueo de transportistas: Estas son las vialidades y carreteras que serán afectadas por el paro nacional de l - Milenio. Bloqueo de transportistas: Estas son las vialidades y carreteras que serán afectadas por el paro nacional de l Milenio",
+          "id": "93c51a3c",
+          "tipo": "clima",
+          "ruta": "Lluvias en Edomex provocan inundaciones, estas son las carreteras [afectadas](http://telegra.ph/Lluvias-en-Edomex-provocan-inundaciones-estas-son-las-carreteras-afectadas-06-23)…",
+          "descripcion": "Lluvias en Edomex provocan inundaciones, estas son las carreteras [afectadas](http://telegra.ph/Lluvias-en-Edomex-provocan-inundaciones-estas-son-las-carreteras-afectadas-06-23)\n\n__via__ [www.informador.mx](https://www.informador.mx/mexico/lluvias-en-edomex-provocan-inundaciones-estas-son-las-carreteras-afectadas-20260623-0016.html)",
           "recomendacion": "",
-          "fecha": "24 junio 2026 · 13:25 CST",
-          "fecha_iso": "2026-06-24T13:25:00-06:00",
-          "fuente": "Milenio",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeG5qeFRfRmx0aktVUzNRVFZCaFZBeDlFN0o5ZTJlVW5zS2xFcmI0aFgzUUFaTDlBNklzUHVrR1AtZzNTUXBFaFVrV1k5NF9yTmJQbHRJY1hDSnlPVlRNM3pTaWlYLVllY25ndTdHNk84SWhjUlpPTXFHQUVGQ2EzbGJaRkhwM3cxT3hxQjRGOWhoRU5YQUVTMTlTMNIBmwFBVV95cUxOVmZWMUFRakw2RThiRi1DekJvQWxfSzRxNjlVNDlvcDdRTmJKLWt3UUh4Qm5hc1NHb3FKbS1Uc2xsMWsyelJPdk9PdjE3aXhvbEliaktHLXh0SlBpQkJMQ1pnOXFFTnZadEtheFZ5NHhzeVMyT2lzczlwZGtjek42eTVWTVQ4eHdlZVBnN1IwcmZMcE1ZNFJ3WDMyMA?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        },
-        {
-          "id": "98d7eed4",
-          "tipo": "bloqueo",
-          "ruta": "carretera México-Veracruz",
-          "descripcion": "Con bloqueos y protesta en la carretera México-Veracruz, en Tlaxcala agremiados a la Amotac se suman al paro nacional - La Jornada de Oriente - Puebla. Con bloqueos y protesta en la carretera México-Veracruz, en Tlaxcala agremiados a la Amotac se suman al paro nacional La Jornada de Oriente - Puebla",
-          "recomendacion": "",
-          "fecha": "24 junio 2026 · 13:22 CST",
-          "fecha_iso": "2026-06-24T13:22:00-06:00",
-          "fuente": "La Jornada de Oriente - Puebla",
-          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQWENnOUZHX0FhNm1walA2Y2QyTW85c3VrUm1YRlQ3a293ODRoMkVaU01SOVJfcWNWZVFuTGRMbVByYk80Z3ZpWllXMmw5d1ZwV3l5VWdSMnZyaDZlR2wxdVhHS1B2VFBxR0RESlRrX2F5elVYUW9mWWtSc3JwU0QyMzBzSzhLVThaUjZaa0dNWGJhSXlYNUVJRFExRkkyMlJlNnphMWJrLUZOYnl1M2tudXdnRDh1ZXU1V1JRVlhseU1sZGtidG9CY1o2Q29pT3RrVy1CdWl5T0NCYWxOUWt3TUtBNGRQRExvaUw5d1B6aHdCenZfZ1Rr?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 19.2,
-          "lon": -96.8
-        },
-        {
-          "id": "cbcbc492",
-          "tipo": "bloqueo",
-          "ruta": "¡Sí hubo bloqueo de transportistas! Así está el caos en…",
-          "descripcion": "¡Sí hubo bloqueo de transportistas! Así está el caos en las carreteras hoy 24 de junio EN VIVO - TV Azteca. ¡Sí hubo bloqueo de transportistas! Así está el caos en las carreteras hoy 24 de junio EN VIVO TV Azteca",
-          "recomendacion": "",
-          "fecha": "24 junio 2026 · 12:49 CST",
-          "fecha_iso": "2026-06-24T12:49:00-06:00",
-          "fuente": "TV Azteca",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaUxReUtCc3lqNXAxSVRSS2NsQnpramg5TTVvZEt2a2laazc3WG05M1lsUUhDN1ZUT0xRNjBjQUY0ZHE5Z2RnZXIxMkZPRTVtcDVfUmpNY0dFMTZURHloZjlwY3hsdUpXT0s0UnFfZmNWZ3V6SXZQOVVuS211eTBTemdCZ3h4eVY3XzBYWVlHeUhRN0VSWHpQc2F30gGnAUFVX3lxTE1jOFhSNjN1UTFjZGRRX0JZbFlXc1BRcVRYTkFrdG5VZE4zSEMtWXNKSk5OY29nWENBYzlYSnJfcXhjcG5xd3VOOVBmcW9MUUlKSzF0eFdYYVRSUExyOGVmTVpoUHVwTndPQUptQXpjd2Y5V2ZTTkJsNXJtbHB1YWVpT0l6OHBZU0V3VGRZUkNFZE5WZjYxUnd3cVpSTXdKN1VPajFxNGpN?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
+          "fecha": "24 junio 2026 · 16:00 CST",
+          "fecha_iso": "2026-06-24T16:00:00-06:00",
+          "fuente": "Telegram @NOTMEX",
+          "url": "https://t.me/NOTMEX/184085",
+          "dot_color": "#3498db",
+          "badge": "badge-clima",
+          "badge_txt": "ALERTA CLIMA",
+          "lat": 19.35,
+          "lon": -99.7
         }
       ]
     }
   ],
   "para_mapa": [
     {
-      "id": "98d7eed4",
-      "tipo": "bloqueo",
-      "ruta": "carretera México-Veracruz",
-      "descripcion": "Con bloqueos y protesta en la carretera México-Veracruz, en Tlaxcala agremiados a la Amotac se suman al paro nacional - La Jornada de Oriente - Puebla. Con bloqueos y protesta en la carretera México-Veracruz, en Tlaxcala agremiados a la Amotac se suman al paro nacional La Jornada de Oriente - Puebla",
-      "fecha": "24 junio 2026 · 13:22 CST",
-      "fuente": "La Jornada de Oriente - Puebla",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQWENnOUZHX0FhNm1walA2Y2QyTW85c3VrUm1YRlQ3a293ODRoMkVaU01SOVJfcWNWZVFuTGRMbVByYk80Z3ZpWllXMmw5d1ZwV3l5VWdSMnZyaDZlR2wxdVhHS1B2VFBxR0RESlRrX2F5elVYUW9mWWtSc3JwU0QyMzBzSzhLVThaUjZaa0dNWGJhSXlYNUVJRFExRkkyMlJlNnphMWJrLUZOYnl1M2tudXdnRDh1ZXU1V1JRVlhseU1sZGtidG9CY1o2Q29pT3RrVy1CdWl5T0NCYWxOUWt3TUtBNGRQRExvaUw5d1B6aHdCenZfZ1Rr?oc=5",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 19.2,
-      "lon": -96.8
+      "id": "93c51a3c",
+      "tipo": "clima",
+      "ruta": "Lluvias en Edomex provocan inundaciones, estas son las carreteras [afectadas](http://telegra.ph/Lluvias-en-Edomex-provocan-inundaciones-estas-son-las-carreteras-afectadas-06-23)…",
+      "descripcion": "Lluvias en Edomex provocan inundaciones, estas son las carreteras [afectadas](http://telegra.ph/Lluvias-en-Edomex-provocan-inundaciones-estas-son-las-carreteras-afectadas-06-23)\n\n__via__ [www.informador.mx](https://www.informador.mx/mexico/lluvias-en-edomex-provocan-inundaciones-estas-son-las-carreteras-afectadas-20260623-0016.html)",
+      "fecha": "24 junio 2026 · 16:00 CST",
+      "fuente": "Telegram @NOTMEX",
+      "url": "https://t.me/NOTMEX/184085",
+      "dot_color": "#3498db",
+      "badge_txt": "ALERTA CLIMA",
+      "lat": 19.35,
+      "lon": -99.7
     }
   ]
 }
