@@ -1,11 +1,10 @@
 {
-  "ultima_actualizacion": "2026-06-23T22:37:27.376971-06:00",
-  "ultima_actualizacion_legible": "23 de junio de 2026 · 22:37 CST",
-  "total": 6,
+  "ultima_actualizacion": "2026-06-24T02:05:50.756896-06:00",
+  "ultima_actualizacion_legible": "24 de junio de 2026 · 02:05 CST",
+  "total": 3,
   "ventana": "últimos 180 minutos",
   "fuentes": [
     "Google News",
-    "Medios nacionales",
     "Medios regionales"
   ],
   "grupos": [
@@ -17,45 +16,29 @@
       "col2": false,
       "alertas": [
         {
-          "id": "73310141",
+          "id": "33ebf2ec",
           "tipo": "bloqueo",
-          "ruta": "Industriales y transportistas rechazan bloqueos carreteros del 24 de junio…",
-          "descripcion": "Industriales y transportistas rechazan bloqueos carreteros del 24 de junio 2026. Industriales y transportistas rechazaron las movilizaciones y posibles bloqueos convocados para este 24 de junio de 2026.",
+          "ruta": "¿Habrá bloqueo de transportistas este 24 de junio?…",
+          "descripcion": "¿Habrá bloqueo de transportistas este 24 de junio?. La AMOTAC aceptó abrir una nueva ruta de diálogo con las autoridades federales y dejó sin efecto las acciones previstas para este martes",
           "recomendacion": "",
-          "fecha": "23 junio 2026 · 22:28 CST",
-          "fecha_iso": "2026-06-23T22:28:00-06:00",
-          "fuente": "24 Horas",
-          "url": "https://24-horas.mx/negocios/industriales-y-transportistas-rechazan-bloqueos-carreteros-del-24-de-junio-2026/",
+          "fecha": "24 junio 2026 · 00:50 CST",
+          "fecha_iso": "2026-06-24T00:50:00-06:00",
+          "fuente": "El Informador Jalisco",
+          "url": "https://www.informador.mx/mexico/habra-bloqueo-de-transportistas-este-24-de-junio-20260624-0017.html",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO"
         },
         {
-          "id": "5de4bcd4",
+          "id": "0e574950",
           "tipo": "bloqueo",
-          "ruta": "Manifestación de transportistas: En estas carreteras de Guanajuato habrá caos…",
-          "descripcion": "Manifestación de transportistas: En estas carreteras de Guanajuato habrá caos vial este 24 de junio - La Silla Rota. Manifestación de transportistas: En estas carreteras de Guanajuato habrá caos vial este 24 de junio La Silla Rota",
+          "ruta": "Bloqueo de transportistas: Estas son las vialidades y carreteras que…",
+          "descripcion": "Bloqueo de transportistas: Estas son las vialidades y carreteras que serán afectadas por el paro nacional de l - Milenio. Bloqueo de transportistas: Estas son las vialidades y carreteras que serán afectadas por el paro nacional de l Milenio",
           "recomendacion": "",
-          "fecha": "23 junio 2026 · 21:23 CST",
-          "fecha_iso": "2026-06-23T21:23:00-06:00",
-          "fuente": "La Silla Rota",
-          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNcUNJc2xlaThkcE9PMU5yRU5EcHFwd2VwcVMySGtJYlE5Qmh0RmVUYi1sTDdEdEJIaGtTUXpZenAzdTh4U3pjVnpybkxjSnpBR0dIdi1IaklFcHJpWHNUanUxeHR1WWZJUzNOY0k3MzdhMVN3RkFCU3A3NVAzQVpTVHZmM0hqUVl0ZHpDWVFuTFpTajg4Sklidm9OVDRpNVJ3RHVjQ0ZvTENxUlhZd3NDNVlrLUR5ZzMyRGd3WmNNUl9weWR2WkxPWS1sbXJmRFJBODM4REx5MEdRQWplNkYzOG0zME9iZjhSRTRKd25nTWxQNUpZ?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 21.02,
-          "lon": -101.26
-        },
-        {
-          "id": "b73c4e25",
-          "tipo": "bloqueo",
-          "ruta": "Transportistas anuncian movilización nacional en carreteras: puntos de bloqueo el…",
-          "descripcion": "Transportistas anuncian movilización nacional en carreteras: puntos de bloqueo el 24 de junio - El Sol de México. Transportistas anuncian movilización nacional en carreteras: puntos de bloqueo el 24 de junio El Sol de México",
-          "recomendacion": "",
-          "fecha": "23 junio 2026 · 20:36 CST",
-          "fecha_iso": "2026-06-23T20:36:00-06:00",
-          "fuente": "El Sol de México",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQW5xWUVqUzY5MjUtSXdlS0NBV01PV2FaMTdwaFM5alBaQ0hWNVUxMGpzX3ZsX1FrMDlrWHRIa1A1OGw5bkd4bW9MYjcyN2ZHNngwQnJ6b1B2NVVKM3kwOHhSbHJObEhpVXVxWUM1bUdvV0FvSW1JOHF2T3pNUWZoYkF6VTJkajFTeGlYWU1WZWNEdkRGMEhINlMtcWNhbGJ4QUVPT3d0Y1IySlhtRm40MEhuNUJfOXpxVXk5Wk9BNkl6dGJOeEVOQWRJbzZhYkNoZi1iNnlnWjVkNEdn?oc=5",
+          "fecha": "24 junio 2026 · 00:00 CST",
+          "fecha_iso": "2026-06-24T00:00:00-06:00",
+          "fuente": "Milenio",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeG5qeFRfRmx0aktVUzNRVFZCaFZBeDlFN0o5ZTJlVW5zS2xFcmI0aFgzUUFaTDlBNklzUHVrR1AtZzNTUXBFaFVrV1k5NF9yTmJQbHRJY1hDSnlPVlRNM3pTaWlYLVllY25ndTdHNk84SWhjUlpPTXFHQUVGQ2EzbGJaRkhwM3cxT3hxQjRGOWhoRU5YQUVTMTlTMNIBmwFBVV95cUxOVmZWMUFRakw2RThiRi1DekJvQWxfSzRxNjlVNDlvcDdRTmJKLWt3UUh4Qm5hc1NHb3FKbS1Uc2xsMWsyelJPdk9PdjE3aXhvbEliaktHLXh0SlBpQkJMQ1pnOXFFTnZadEtheFZ5NHhzeVMyT2lzczlwZGtjek42eTVWTVQ4eHdlZVBnN1IwcmZMcE1ZNFJ3WDMyMA?oc=5",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO"
@@ -66,82 +49,16 @@
           "ruta": "Megabloqueo de transportistas: lista de carreteras afectadas por el paro…",
           "descripcion": "Megabloqueo de transportistas: lista de carreteras afectadas por el paro nacional este 24 de junio - TV Azteca. Megabloqueo de transportistas: lista de carreteras afectadas por el paro nacional este 24 de junio TV Azteca",
           "recomendacion": "",
-          "fecha": "23 junio 2026 · 20:31 CST",
-          "fecha_iso": "2026-06-23T20:31:00-06:00",
+          "fecha": "23 junio 2026 · 23:14 CST",
+          "fecha_iso": "2026-06-23T23:14:00-06:00",
           "fuente": "TV Azteca",
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVC1EZkJHdEZzZWdTOUNsTkZaWUgxSHl5dVpBazJVVmtFWDJlMlpZUkJHRWl1elU2RjRobm1lQ1pVT1BxVk9razFJeUZ4ck15NklaQ1F0YXVfOG5YQXRMbEJ5R3NCTjRxaEU2TEdXVEo4X0RjY3Jtal9RdWxBc1lqcXhoREFXeFdvSjV1SmxYTTZ6dEhoWGdncndfV0tXYTRFelF0NklvclpoYkREZDdidkQ4bmdrWXRaV2RWZ2VENjXSAc4BQVVfeXFMUHczOV9CTnRrdDhPeHhyRV9EYnpGUXlKUXlWMUJCalAzZTV5RHVZUHl4MjJ1RS0tcjNybVZZVThCU204X2lsczBNTkI2LXZVUnR5SWtIQVRlblNkNHpvdGNxY3NVY1hyZWwxSnFKLXVPb3JSNGw2cnk4VzFZTXE1czlXX1R6LVBGdU5PeTNKN3dsSWdwdFE1ZHFYMlM2bEtsMENGanEzVm1Nb2xjZXYyMUpHbU9MRHc3NkhENks2bTFSMnA2cmpJdXNGblBoN1E?oc=5",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO"
-        },
-        {
-          "id": "174a272c",
-          "tipo": "bloqueo",
-          "ruta": "Bloqueo en la México-Pachuca este miércoles; transportistas adelantan la hora…",
-          "descripcion": "Bloqueo en la México-Pachuca este miércoles; transportistas adelantan la hora de cierre - La Silla Rota. Bloqueo en la México-Pachuca este miércoles; transportistas adelantan la hora de cierre La Silla Rota",
-          "recomendacion": "",
-          "fecha": "23 junio 2026 · 20:07 CST",
-          "fecha_iso": "2026-06-23T20:07:00-06:00",
-          "fuente": "La Silla Rota",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVFpRazlZNVhrS1FpTFZOSk5Zell4bmMtTmZ0Y2tpNWs2YjNlTmJGcU9rS3A3d2xHcGlFM0lsdTBEUXpocVVkME9ETTV3eWZqWklOaFpLSTJubUZVU0RxQW50VENKSF9Rd2VCOC1NcWxnVk5mb2U3ejh1cFBpODNXV2FZaUJTQ2dYa1JmNEtYRnJrZFA5TmttcjJORXlCZEtFVnYxNmxVWGF0dmdEcDJhbDFDNkRFSVhCT3NiOGZfNHVYRUZUQS1QWXQxVWx1M2xkOUlQVWViQTZyTFlHNXRF?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 20.12,
-          "lon": -98.73
-        }
-      ]
-    },
-    {
-      "tipo": "clima",
-      "color": "azul",
-      "icono": "🌧️",
-      "label": "ALERTA METEOROLÓGICA",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "ff30c362",
-          "tipo": "clima",
-          "ruta": "Fenómeno de 'El Niño' provocará un verano de calor extremo…",
-          "descripcion": "Fenómeno de 'El Niño' provocará un verano de calor extremo en México. México actualmente enfrenta varios fenómenos climáticos que han generado una dualidad meteorológica en la que las sequías y las inundaciones afectan por igual",
-          "recomendacion": "",
-          "fecha": "23 junio 2026 · 22:13 CST",
-          "fecha_iso": "2026-06-23T22:13:00-06:00",
-          "fuente": "El Informador Jalisco",
-          "url": "https://www.informador.mx/mexico/fenomeno-de-el-nino-provocara-un-verano-de-calor-extremo-en-mexico-20260623-0195.html",
-          "dot_color": "#3498db",
-          "badge": "badge-clima",
-          "badge_txt": "ALERTA CLIMA"
         }
       ]
     }
   ],
-  "para_mapa": [
-    {
-      "id": "5de4bcd4",
-      "tipo": "bloqueo",
-      "ruta": "Manifestación de transportistas: En estas carreteras de Guanajuato habrá caos…",
-      "descripcion": "Manifestación de transportistas: En estas carreteras de Guanajuato habrá caos vial este 24 de junio - La Silla Rota. Manifestación de transportistas: En estas carreteras de Guanajuato habrá caos vial este 24 de junio La Silla Rota",
-      "fecha": "23 junio 2026 · 21:23 CST",
-      "fuente": "La Silla Rota",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNcUNJc2xlaThkcE9PMU5yRU5EcHFwd2VwcVMySGtJYlE5Qmh0RmVUYi1sTDdEdEJIaGtTUXpZenAzdTh4U3pjVnpybkxjSnpBR0dIdi1IaklFcHJpWHNUanUxeHR1WWZJUzNOY0k3MzdhMVN3RkFCU3A3NVAzQVpTVHZmM0hqUVl0ZHpDWVFuTFpTajg4Sklidm9OVDRpNVJ3RHVjQ0ZvTENxUlhZd3NDNVlrLUR5ZzMyRGd3WmNNUl9weWR2WkxPWS1sbXJmRFJBODM4REx5MEdRQWplNkYzOG0zME9iZjhSRTRKd25nTWxQNUpZ?oc=5",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 21.02,
-      "lon": -101.26
-    },
-    {
-      "id": "174a272c",
-      "tipo": "bloqueo",
-      "ruta": "Bloqueo en la México-Pachuca este miércoles; transportistas adelantan la hora…",
-      "descripcion": "Bloqueo en la México-Pachuca este miércoles; transportistas adelantan la hora de cierre - La Silla Rota. Bloqueo en la México-Pachuca este miércoles; transportistas adelantan la hora de cierre La Silla Rota",
-      "fecha": "23 junio 2026 · 20:07 CST",
-      "fuente": "La Silla Rota",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVFpRazlZNVhrS1FpTFZOSk5Zell4bmMtTmZ0Y2tpNWs2YjNlTmJGcU9rS3A3d2xHcGlFM0lsdTBEUXpocVVkME9ETTV3eWZqWklOaFpLSTJubUZVU0RxQW50VENKSF9Rd2VCOC1NcWxnVk5mb2U3ejh1cFBpODNXV2FZaUJTQ2dYa1JmNEtYRnJrZFA5TmttcjJORXlCZEtFVnYxNmxVWGF0dmdEcDJhbDFDNkRFSVhCT3NiOGZfNHVYRUZUQS1QWXQxVWx1M2xkOUlQVWViQTZyTFlHNXRF?oc=5",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 20.12,
-      "lon": -98.73
-    }
-  ]
+  "para_mapa": []
 }
