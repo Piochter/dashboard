@@ -1,11 +1,10 @@
 {
-  "ultima_actualizacion": "2026-06-24T14:08:15.641970-06:00",
-  "ultima_actualizacion_legible": "24 de junio de 2026 · 14:08 CST",
-  "total": 9,
+  "ultima_actualizacion": "2026-06-24T15:46:34.499861-06:00",
+  "ultima_actualizacion_legible": "24 de junio de 2026 · 15:46 CST",
+  "total": 5,
   "ventana": "últimos 180 minutos",
   "fuentes": [
     "Google News",
-    "Medios regionales",
     "Quadratín + regionales"
   ],
   "grupos": [
@@ -17,20 +16,32 @@
       "col2": false,
       "alertas": [
         {
-          "id": "faa9541b",
+          "id": "1a2383e2",
           "tipo": "bloqueo",
-          "ruta": "AMOTAC rompe acuerdo y mantiene bloqueos en carreteras de Puebla…",
-          "descripcion": "AMOTAC rompe acuerdo y mantiene bloqueos en carreteras de Puebla. Las afectaciones más severas se registran en la autopista México-Puebla",
+          "ruta": "Integrantes de la Amotac protestaron en diferentes autopistas de México…",
+          "descripcion": "Integrantes de la Amotac protestaron en diferentes autopistas de México - La Jornada. Integrantes de la Amotac protestaron en diferentes autopistas de México La Jornada",
           "recomendacion": "",
-          "fecha": "24 junio 2026 · 13:26 CST",
-          "fecha_iso": "2026-06-24T13:26:00-06:00",
-          "fuente": "Quadratín Michoacán",
-          "url": "https://www.quadratin.com.mx/sucesos/amotac-rompe-acuerdo-y-mantiene-bloqueos-en-carreteras-de-puebla/",
+          "fecha": "24 junio 2026 · 15:22 CST",
+          "fecha_iso": "2026-06-24T15:22:00-06:00",
+          "fuente": "La Jornada",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxObDc1NTFRRURVV09sdEIxc3h5NENKc0tZbEJkN3VxeHdtTk1ETEhhUmdhUVBLMjhGeC10NUtYemUteU1vc3RMWXFfQ1gzUjBXN29iaWVCY2pIMkxZZjUtUmFDT05tdEsxa01tMktPbzJGU1NBSTFiR0kxbVJaVVVodmFPd04zUU1HTTRYZ3hfdzM3TF9oMnkwVlJZa2tXdzI3blAyTC1aOVI4MnA3ZHcwSXhUbzJqZU9iaHFIRDdNdG1oc0FKcE5fa0VaRll4QnRSYlVrd3ZFSlNuSUFUM2c?oc=5",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 19.35,
-          "lon": -98.4
+          "badge_txt": "BLOQUEO"
+        },
+        {
+          "id": "ef8cbc21",
+          "tipo": "bloqueo",
+          "ruta": "Reporta Canaco pérdidas de hasta 80% por bloqueos carreteros de…",
+          "descripcion": "Reporta Canaco pérdidas de hasta 80% por bloqueos carreteros de AMOTAC. Impactan directamente en las ventas y el traslado de mercancías",
+          "recomendacion": "",
+          "fecha": "24 junio 2026 · 14:53 CST",
+          "fecha_iso": "2026-06-24T14:53:00-06:00",
+          "fuente": "Quadratín Veracruz",
+          "url": "https://veracruz.quadratin.com.mx/reporta-canaco-perdidas-de-hasta-80-por-bloqueos-carreteros-de-amotac/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
         },
         {
           "id": "0e574950",
@@ -75,124 +86,11 @@
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO"
-        },
-        {
-          "id": "e669e4c3",
-          "tipo": "bloqueo",
-          "ruta": "autopista pese a acuerdos - Diario De México",
-          "descripcion": "Bloqueo México-Pachuca hoy 24 de junio: Transportistas cierran autopista pese a acuerdos - Diario De México. Bloqueo México-Pachuca hoy 24 de junio: Transportistas cierran autopista pese a acuerdos Diario De México",
-          "recomendacion": "",
-          "fecha": "24 junio 2026 · 12:15 CST",
-          "fecha_iso": "2026-06-24T12:15:00-06:00",
-          "fuente": "Diario De México",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQV2IzWFp1YXBFTFhVZWxlMHgzcHZMN0lfNEpFaE04TkoxaVJMbGJ0T2tZWGplSm9fTXFDRzBpbFRjMWdtc09jU0dVenVpd2xCOU1la3BsT3JnVHBEbjRBRG41SklOejF3cDBRWVJ5N2hNQTN5TXVyeGFHWGJlT1JHUHpqTUhnN0c2SWZBdWdMemRNVDZlUFg1TXpPTDFWWi00T2dRSU0zZjRRWFNXQWJZYTRreEdpNmxHRVVybGN6YnrSAcYBQVVfeXFMTnRzMkVqQ1BUVk1PbnVTaDdLLWJPclZqZk5CS2txNTdjVDRtUHFOakVBVEY1LTN1amx4YzVzY2RsS25OQTRaWDJqNEZpUjJuYndhRHExY1ozbXhtbnR2M0FRaF9PQ3l5Rmc0cjVqMnZlSUxWNExGY3VISERtVkpFZWZubmdxNUhBT1N3cWxJUHRNMGE1WE9ZQ1p5d19MaThPcFNDeXdZY20xa1hZVEE2dmlSNXFFVDFpcXl6N0MxVFZtcmk5UG1n?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 20.12,
-          "lon": -98.73
-        },
-        {
-          "id": "7b31c6d3",
-          "tipo": "bloqueo",
-          "ruta": "AMOTAC rompe acuerdo y mantiene bloqueos en carreteras de Puebla…",
-          "descripcion": "AMOTAC rompe acuerdo y mantiene bloqueos en carreteras de Puebla. Transportistas estrangulan la México-Puebla, Amozoc y Atlixco.",
-          "recomendacion": "",
-          "fecha": "24 junio 2026 · 12:08 CST",
-          "fecha_iso": "2026-06-24T12:08:00-06:00",
-          "fuente": "Quadratín Puebla",
-          "url": "https://puebla.quadratin.com.mx/sucesos/amotac-rompe-acuerdo-y-mantiene-bloqueos-en-carreteras-de-puebla/",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 19.35,
-          "lon": -98.4
-        },
-        {
-          "id": "3fef1233",
-          "tipo": "bloqueo",
-          "ruta": "AMOTAC mantiene bloqueos y protestas en el Valle de México…",
-          "descripcion": "AMOTAC mantiene bloqueos y protestas en el Valle de México pese a acuerdo con Gobernación - El Sol de México. AMOTAC mantiene bloqueos y protestas en el Valle de México pese a acuerdo con Gobernación El Sol de México",
-          "recomendacion": "",
-          "fecha": "24 junio 2026 · 11:22 CST",
-          "fecha_iso": "2026-06-24T11:22:00-06:00",
-          "fuente": "El Sol de México",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQ1hPeXB3YjdUaW1ucDU4VHZ6aG1vcnpZNFVNekVMMmFWa0RDc3pTMUQ0dFJsNy1PRndjSmc1cE90Z0JLR1lFVFpuN041U2o5b3lRdFRHMWt1TTVDVWEtSTl0SHdxbVdubjFmWHNHTkd0R3I0WFE4aDRXZ0REc0tEZ013cDNPRjlpTkpVMTNEZEdhNk1URjZTSVpfRjRVc09fbFVHM1ctRjA5VC1MMl8xekdyZG1RRTV0aG52RDlQTTBHb1pzeXpvaGNSeUxpTHJMTDBn?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        }
-      ]
-    },
-    {
-      "tipo": "cierre_parcial",
-      "color": "amarillo",
-      "icono": "🟡",
-      "label": "CIERRE PARCIAL / ACCIDENTES",
-      "col2": true,
-      "alertas": [
-        {
-          "id": "884ce999",
-          "tipo": "cierre_parcial",
-          "ruta": "Choque entre un auto y una Urvan deja una pasajera…",
-          "descripcion": "Choque entre un auto y una Urvan deja una pasajera lesionada en Acapulco. El accidente ocurre en la carretera Y griega-Las Cruces",
-          "recomendacion": "",
-          "fecha": "24 junio 2026 · 13:57 CST",
-          "fecha_iso": "2026-06-24T13:57:00-06:00",
-          "fuente": "Quadratín Guerrero",
-          "url": "https://guerrero.quadratin.com.mx/choque-entre-un-auto-y-una-urvan-deja-una-pasajera-lesionada-en-acapulco/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 16.86,
-          "lon": -99.88
-        },
-        {
-          "id": "1e7d70b1",
-          "tipo": "cierre_parcial",
-          "ruta": "autopista México-Cuernavaca - El Sol de México",
-          "descripcion": "Accidente provoca cierre parcial y desvío en la autopista México-Cuernavaca - El Sol de México. Accidente provoca cierre parcial y desvío en la autopista México-Cuernavaca El Sol de México",
-          "recomendacion": "desvío en la autopista México-Cuernavaca - El Sol de México",
-          "fecha": "24 junio 2026 · 11:45 CST",
-          "fecha_iso": "2026-06-24T11:45:00-06:00",
-          "fuente": "El Sol de México",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNVp6c3hVYXI5Ynk5cU1CZ0c5dWhvT0NtdzdGS2M0RW5kQkdaeElKOUVsQ24tWGp5Nk5YQWcxTjVja2RlZFp0a0FYeXhXQmdxM2hzYzF2NFpHemhIQVZZWXF4cW0zbDV3QW1zQ2JXZmVNaEJwS08xTkhJNkFQMm4ya0dfSkcyenh6ZUZBRkczR2JFdmRXWmwyVnUxRkNiTWFTcHVvQWxGbDZYNm5JdTBxcVpDZkFFZ2QtS2pGOXhkbGg1d2pDN1poZGRVTGo3SnljeDU1Snc4WUFLYzZZaWc?oc=5",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 18.92,
-          "lon": -99.23
         }
       ]
     }
   ],
   "para_mapa": [
-    {
-      "id": "884ce999",
-      "tipo": "cierre_parcial",
-      "ruta": "Choque entre un auto y una Urvan deja una pasajera…",
-      "descripcion": "Choque entre un auto y una Urvan deja una pasajera lesionada en Acapulco. El accidente ocurre en la carretera Y griega-Las Cruces",
-      "fecha": "24 junio 2026 · 13:57 CST",
-      "fuente": "Quadratín Guerrero",
-      "url": "https://guerrero.quadratin.com.mx/choque-entre-un-auto-y-una-urvan-deja-una-pasajera-lesionada-en-acapulco/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 16.86,
-      "lon": -99.88
-    },
-    {
-      "id": "faa9541b",
-      "tipo": "bloqueo",
-      "ruta": "AMOTAC rompe acuerdo y mantiene bloqueos en carreteras de Puebla…",
-      "descripcion": "AMOTAC rompe acuerdo y mantiene bloqueos en carreteras de Puebla. Las afectaciones más severas se registran en la autopista México-Puebla",
-      "fecha": "24 junio 2026 · 13:26 CST",
-      "fuente": "Quadratín Michoacán",
-      "url": "https://www.quadratin.com.mx/sucesos/amotac-rompe-acuerdo-y-mantiene-bloqueos-en-carreteras-de-puebla/",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 19.35,
-      "lon": -98.4
-    },
     {
       "id": "98d7eed4",
       "tipo": "bloqueo",
@@ -205,45 +103,6 @@
       "badge_txt": "BLOQUEO",
       "lat": 19.2,
       "lon": -96.8
-    },
-    {
-      "id": "e669e4c3",
-      "tipo": "bloqueo",
-      "ruta": "autopista pese a acuerdos - Diario De México",
-      "descripcion": "Bloqueo México-Pachuca hoy 24 de junio: Transportistas cierran autopista pese a acuerdos - Diario De México. Bloqueo México-Pachuca hoy 24 de junio: Transportistas cierran autopista pese a acuerdos Diario De México",
-      "fecha": "24 junio 2026 · 12:15 CST",
-      "fuente": "Diario De México",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQV2IzWFp1YXBFTFhVZWxlMHgzcHZMN0lfNEpFaE04TkoxaVJMbGJ0T2tZWGplSm9fTXFDRzBpbFRjMWdtc09jU0dVenVpd2xCOU1la3BsT3JnVHBEbjRBRG41SklOejF3cDBRWVJ5N2hNQTN5TXVyeGFHWGJlT1JHUHpqTUhnN0c2SWZBdWdMemRNVDZlUFg1TXpPTDFWWi00T2dRSU0zZjRRWFNXQWJZYTRreEdpNmxHRVVybGN6YnrSAcYBQVVfeXFMTnRzMkVqQ1BUVk1PbnVTaDdLLWJPclZqZk5CS2txNTdjVDRtUHFOakVBVEY1LTN1amx4YzVzY2RsS25OQTRaWDJqNEZpUjJuYndhRHExY1ozbXhtbnR2M0FRaF9PQ3l5Rmc0cjVqMnZlSUxWNExGY3VISERtVkpFZWZubmdxNUhBT1N3cWxJUHRNMGE1WE9ZQ1p5d19MaThPcFNDeXdZY20xa1hZVEE2dmlSNXFFVDFpcXl6N0MxVFZtcmk5UG1n?oc=5",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 20.12,
-      "lon": -98.73
-    },
-    {
-      "id": "7b31c6d3",
-      "tipo": "bloqueo",
-      "ruta": "AMOTAC rompe acuerdo y mantiene bloqueos en carreteras de Puebla…",
-      "descripcion": "AMOTAC rompe acuerdo y mantiene bloqueos en carreteras de Puebla. Transportistas estrangulan la México-Puebla, Amozoc y Atlixco.",
-      "fecha": "24 junio 2026 · 12:08 CST",
-      "fuente": "Quadratín Puebla",
-      "url": "https://puebla.quadratin.com.mx/sucesos/amotac-rompe-acuerdo-y-mantiene-bloqueos-en-carreteras-de-puebla/",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 19.35,
-      "lon": -98.4
-    },
-    {
-      "id": "1e7d70b1",
-      "tipo": "cierre_parcial",
-      "ruta": "autopista México-Cuernavaca - El Sol de México",
-      "descripcion": "Accidente provoca cierre parcial y desvío en la autopista México-Cuernavaca - El Sol de México. Accidente provoca cierre parcial y desvío en la autopista México-Cuernavaca El Sol de México",
-      "fecha": "24 junio 2026 · 11:45 CST",
-      "fuente": "El Sol de México",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNVp6c3hVYXI5Ynk5cU1CZ0c5dWhvT0NtdzdGS2M0RW5kQkdaeElKOUVsQ24tWGp5Nk5YQWcxTjVja2RlZFp0a0FYeXhXQmdxM2hzYzF2NFpHemhIQVZZWXF4cW0zbDV3QW1zQ2JXZmVNaEJwS08xTkhJNkFQMm4ya0dfSkcyenh6ZUZBRkczR2JFdmRXWmwyVnUxRkNiTWFTcHVvQWxGbDZYNm5JdTBxcVpDZkFFZ2QtS2pGOXhkbGg1d2pDN1poZGRVTGo3SnljeDU1Snc4WUFLYzZZaWc?oc=5",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 18.92,
-      "lon": -99.23
     }
   ]
 }
