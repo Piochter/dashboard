@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-06-23T17:09:20.920776-06:00",
-  "ultima_actualizacion_legible": "23 de junio de 2026 · 17:09 CST",
-  "total": 6,
+  "ultima_actualizacion": "2026-06-23T18:13:20.057669-06:00",
+  "ultima_actualizacion_legible": "23 de junio de 2026 · 18:13 CST",
+  "total": 7,
   "ventana": "últimos 180 minutos",
   "fuentes": [
     "Google News",
@@ -16,6 +16,36 @@
       "label": "BLOQUEOS / MANIFESTACIONES",
       "col2": false,
       "alertas": [
+        {
+          "id": "9f9dbc45",
+          "tipo": "bloqueo",
+          "ruta": "Megabloqueo de transportistas: lista de carreteras afectadas por el paro…",
+          "descripcion": "Megabloqueo de transportistas: lista de carreteras afectadas por el paro nacional este 24 de junio - TV Azteca. Megabloqueo de transportistas: lista de carreteras afectadas por el paro nacional este 24 de junio TV Azteca",
+          "recomendacion": "",
+          "fecha": "23 junio 2026 · 17:31 CST",
+          "fecha_iso": "2026-06-23T17:31:00-06:00",
+          "fuente": "TV Azteca",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVC1EZkJHdEZzZWdTOUNsTkZaWUgxSHl5dVpBazJVVmtFWDJlMlpZUkJHRWl1elU2RjRobm1lQ1pVT1BxVk9razFJeUZ4ck15NklaQ1F0YXVfOG5YQXRMbEJ5R3NCTjRxaEU2TEdXVEo4X0RjY3Jtal9RdWxBc1lqcXhoREFXeFdvSjV1SmxYTTZ6dEhoWGdncndfV0tXYTRFelF0NklvclpoYkREZDdidkQ4bmdrWXRaV2RWZ2VENjXSAc4BQVVfeXFMUHczOV9CTnRrdDhPeHhyRV9EYnpGUXlKUXlWMUJCalAzZTV5RHVZUHl4MjJ1RS0tcjNybVZZVThCU204X2lsczBNTkI2LXZVUnR5SWtIQVRlblNkNHpvdGNxY3NVY1hyZWwxSnFKLXVPb3JSNGw2cnk4VzFZTXE1czlXX1R6LVBGdU5PeTNKN3dsSWdwdFE1ZHFYMlM2bEtsMENGanEzVm1Nb2xjZXYyMUpHbU9MRHc3NkhENks2bTFSMnA2cmpJdXNGblBoN1E?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
+        {
+          "id": "3ddc636d",
+          "tipo": "bloqueo",
+          "ruta": "Transportistas de AMOTAC anuncian bloqueos carreteros para el 24 de…",
+          "descripcion": "Transportistas de AMOTAC anuncian bloqueos carreteros para el 24 de junio; concentrarán protesta en Puebla - La Jornada. Transportistas de AMOTAC anuncian bloqueos carreteros para el 24 de junio; concentrarán protesta en Puebla La Jornada",
+          "recomendacion": "",
+          "fecha": "23 junio 2026 · 16:58 CST",
+          "fecha_iso": "2026-06-23T16:58:00-06:00",
+          "fuente": "La Jornada",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdWFYQ1NWQ3hVaGpSc1RkV1k2Umlla0hPNFA3QVFJSFR5NE5FaXIzSXlLcjd5M1JpR0JvMVhMdXJZMzJVc0JTZWtlTVVINVJPZVlOeHE2WVdWNTdXRU1QLW1TRmV6a28wejNPSDNvUzI2VVdwSTJEVTRjTHRzSk9HTEg1U3ZKcVU5ZGtiWUhObGlLMExuSVF2SE1adF9MdHJSVWR1eTZPcU1xaS1TMFgyYUZlaWt5SzJhYjB3Y3QzRDgzdjBzT1E?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 19.04,
+          "lon": -98.2
+        },
         {
           "id": "086f0591",
           "tipo": "bloqueo",
@@ -61,20 +91,6 @@
           "badge_txt": "BLOQUEO",
           "lat": 21.02,
           "lon": -101.26
-        },
-        {
-          "id": "9f9dbc45",
-          "tipo": "bloqueo",
-          "ruta": "Megabloqueo de transportistas: lista de carreteras afectadas por el paro…",
-          "descripcion": "Megabloqueo de transportistas: lista de carreteras afectadas por el paro nacional este 24 de junio - TV Azteca. Megabloqueo de transportistas: lista de carreteras afectadas por el paro nacional este 24 de junio TV Azteca",
-          "recomendacion": "",
-          "fecha": "23 junio 2026 · 14:30 CST",
-          "fecha_iso": "2026-06-23T14:30:00-06:00",
-          "fuente": "TV Azteca",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVC1EZkJHdEZzZWdTOUNsTkZaWUgxSHl5dVpBazJVVmtFWDJlMlpZUkJHRWl1elU2RjRobm1lQ1pVT1BxVk9razFJeUZ4ck15NklaQ1F0YXVfOG5YQXRMbEJ5R3NCTjRxaEU2TEdXVEo4X0RjY3Jtal9RdWxBc1lqcXhoREFXeFdvSjV1SmxYTTZ6dEhoWGdncndfV0tXYTRFelF0NklvclpoYkREZDdidkQ4bmdrWXRaV2RWZ2VENjXSAc4BQVVfeXFMUHczOV9CTnRrdDhPeHhyRV9EYnpGUXlKUXlWMUJCalAzZTV5RHVZUHl4MjJ1RS0tcjNybVZZVThCU204X2lsczBNTkI2LXZVUnR5SWtIQVRlblNkNHpvdGNxY3NVY1hyZWwxSnFKLXVPb3JSNGw2cnk4VzFZTXE1czlXX1R6LVBGdU5PeTNKN3dsSWdwdFE1ZHFYMlM2bEtsMENGanEzVm1Nb2xjZXYyMUpHbU9MRHc3NkhENks2bTFSMnA2cmpJdXNGblBoN1E?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
         }
       ]
     },
@@ -85,6 +101,20 @@
       "label": "CIERRE PARCIAL / ACCIDENTES",
       "col2": true,
       "alertas": [
+        {
+          "id": "bd9bbf80",
+          "tipo": "cierre_parcial",
+          "ruta": "La Bolsa Mexicana pierde 0.41 %; el IPC liga cinco…",
+          "descripcion": "La Bolsa Mexicana pierde 0.41 %; el IPC liga cinco cierres a la baja. El indicador nacional se quedó en 66 mil 848.42 unidades, en una jornada con cierres negativos en el mundo",
+          "recomendacion": "",
+          "fecha": "23 junio 2026 · 17:35 CST",
+          "fecha_iso": "2026-06-23T17:35:00-06:00",
+          "fuente": "El Informador Jalisco",
+          "url": "https://www.informador.mx/economia/la-bolsa-mexicana-pierde-0.41--el-ipc-liga-cinco-cierres-a-la-baja-20260623-0184.html",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        },
         {
           "id": "46a8ad79",
           "tipo": "cierre_parcial",
@@ -98,27 +128,24 @@
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL"
-        },
-        {
-          "id": "f11efea0",
-          "tipo": "cierre_parcial",
-          "ruta": "Accidente en la México Puebla: así avanzan las carreteras del…",
-          "descripcion": "Accidente en la México Puebla: así avanzan las carreteras del país EN VIVO hoy 23 de junio - TV Azteca. Accidente en la México Puebla: así avanzan las carreteras del país EN VIVO hoy 23 de junio TV Azteca",
-          "recomendacion": "",
-          "fecha": "23 junio 2026 · 14:53 CST",
-          "fecha_iso": "2026-06-23T14:53:00-06:00",
-          "fuente": "TV Azteca",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMjBab2VqVnp0cElwZmx2ZHl3VFU0dTRjMi1hZ1JSOWFERnJBTGhPVml1T01NcnRib0RaaFRtUHU1RU9Uck1JTDQ1c2FvM09GRmhmZGlCVnltV3QzcWhsTFJ2a0tRN0hLRWR4SHpsZlJlZnBnSzlwUGJVdFNFSTgtd1lGR3pGZ0piQkx5SExaRkphcFY2MWh4eU52SldFOWxkRkRUVHNOWXpGeEpLYmt2Z0k3WmsxRlJNZVpDeVZB0gHLAUFVX3lxTE51S1MtRTNEbm5qYXNpWFRYQlZyRmNWbXZ3SXJ4blJRbnlzeno1VDdXQ05lSnNqM3BoZmFjeVUyUHZVdW9ITVFESzkyZjhQRmtNRkgxdlZsQVhRSWlqaGJXOTROaWdKOFJaRno1UV9mUkp4NklOWENqbnpMRXlwV3lkazc1S0lXVWxTaWNLVVVpamw0Vi0yTXdjblR0bEZGRlBDLWx5ZVNFSk1URGljSFlhR1A4NHRaa2U0YlkzU0F0RDlQSWo0ZUxXNXI0?oc=5",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.35,
-          "lon": -98.4
         }
       ]
     }
   ],
   "para_mapa": [
+    {
+      "id": "3ddc636d",
+      "tipo": "bloqueo",
+      "ruta": "Transportistas de AMOTAC anuncian bloqueos carreteros para el 24 de…",
+      "descripcion": "Transportistas de AMOTAC anuncian bloqueos carreteros para el 24 de junio; concentrarán protesta en Puebla - La Jornada. Transportistas de AMOTAC anuncian bloqueos carreteros para el 24 de junio; concentrarán protesta en Puebla La Jornada",
+      "fecha": "23 junio 2026 · 16:58 CST",
+      "fuente": "La Jornada",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdWFYQ1NWQ3hVaGpSc1RkV1k2Umlla0hPNFA3QVFJSFR5NE5FaXIzSXlLcjd5M1JpR0JvMVhMdXJZMzJVc0JTZWtlTVVINVJPZVlOeHE2WVdWNTdXRU1QLW1TRmV6a28wejNPSDNvUzI2VVdwSTJEVTRjTHRzSk9HTEg1U3ZKcVU5ZGtiWUhObGlLMExuSVF2SE1adF9MdHJSVWR1eTZPcU1xaS1TMFgyYUZlaWt5SzJhYjB3Y3QzRDgzdjBzT1E?oc=5",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 19.04,
+      "lon": -98.2
+    },
     {
       "id": "086f0591",
       "tipo": "bloqueo",
@@ -144,19 +171,6 @@
       "badge_txt": "BLOQUEO",
       "lat": 21.02,
       "lon": -101.26
-    },
-    {
-      "id": "f11efea0",
-      "tipo": "cierre_parcial",
-      "ruta": "Accidente en la México Puebla: así avanzan las carreteras del…",
-      "descripcion": "Accidente en la México Puebla: así avanzan las carreteras del país EN VIVO hoy 23 de junio - TV Azteca. Accidente en la México Puebla: así avanzan las carreteras del país EN VIVO hoy 23 de junio TV Azteca",
-      "fecha": "23 junio 2026 · 14:53 CST",
-      "fuente": "TV Azteca",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMjBab2VqVnp0cElwZmx2ZHl3VFU0dTRjMi1hZ1JSOWFERnJBTGhPVml1T01NcnRib0RaaFRtUHU1RU9Uck1JTDQ1c2FvM09GRmhmZGlCVnltV3QzcWhsTFJ2a0tRN0hLRWR4SHpsZlJlZnBnSzlwUGJVdFNFSTgtd1lGR3pGZ0piQkx5SExaRkphcFY2MWh4eU52SldFOWxkRkRUVHNOWXpGeEpLYmt2Z0k3WmsxRlJNZVpDeVZB0gHLAUFVX3lxTE51S1MtRTNEbm5qYXNpWFRYQlZyRmNWbXZ3SXJ4blJRbnlzeno1VDdXQ05lSnNqM3BoZmFjeVUyUHZVdW9ITVFESzkyZjhQRmtNRkgxdlZsQVhRSWlqaGJXOTROaWdKOFJaRno1UV9mUkp4NklOWENqbnpMRXlwV3lkazc1S0lXVWxTaWNLVVVpamw0Vi0yTXdjblR0bEZGRlBDLWx5ZVNFSk1URGljSFlhR1A4NHRaa2U0YlkzU0F0RDlQSWo0ZUxXNXI0?oc=5",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.35,
-      "lon": -98.4
     }
   ]
 }
