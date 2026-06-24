@@ -1,64 +1,12 @@
 {
-  "ultima_actualizacion": "2026-06-24T02:05:50.756896-06:00",
-  "ultima_actualizacion_legible": "24 de junio de 2026 · 02:05 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-06-24T05:18:56.817963-06:00",
+  "ultima_actualizacion_legible": "24 de junio de 2026 · 05:18 CST",
+  "total": 0,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Google News",
-    "Medios regionales"
+    "Google News"
   ],
-  "grupos": [
-    {
-      "tipo": "bloqueo",
-      "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "33ebf2ec",
-          "tipo": "bloqueo",
-          "ruta": "¿Habrá bloqueo de transportistas este 24 de junio?…",
-          "descripcion": "¿Habrá bloqueo de transportistas este 24 de junio?. La AMOTAC aceptó abrir una nueva ruta de diálogo con las autoridades federales y dejó sin efecto las acciones previstas para este martes",
-          "recomendacion": "",
-          "fecha": "24 junio 2026 · 00:50 CST",
-          "fecha_iso": "2026-06-24T00:50:00-06:00",
-          "fuente": "El Informador Jalisco",
-          "url": "https://www.informador.mx/mexico/habra-bloqueo-de-transportistas-este-24-de-junio-20260624-0017.html",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        },
-        {
-          "id": "0e574950",
-          "tipo": "bloqueo",
-          "ruta": "Bloqueo de transportistas: Estas son las vialidades y carreteras que…",
-          "descripcion": "Bloqueo de transportistas: Estas son las vialidades y carreteras que serán afectadas por el paro nacional de l - Milenio. Bloqueo de transportistas: Estas son las vialidades y carreteras que serán afectadas por el paro nacional de l Milenio",
-          "recomendacion": "",
-          "fecha": "24 junio 2026 · 00:00 CST",
-          "fecha_iso": "2026-06-24T00:00:00-06:00",
-          "fuente": "Milenio",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeG5qeFRfRmx0aktVUzNRVFZCaFZBeDlFN0o5ZTJlVW5zS2xFcmI0aFgzUUFaTDlBNklzUHVrR1AtZzNTUXBFaFVrV1k5NF9yTmJQbHRJY1hDSnlPVlRNM3pTaWlYLVllY25ndTdHNk84SWhjUlpPTXFHQUVGQ2EzbGJaRkhwM3cxT3hxQjRGOWhoRU5YQUVTMTlTMNIBmwFBVV95cUxOVmZWMUFRakw2RThiRi1DekJvQWxfSzRxNjlVNDlvcDdRTmJKLWt3UUh4Qm5hc1NHb3FKbS1Uc2xsMWsyelJPdk9PdjE3aXhvbEliaktHLXh0SlBpQkJMQ1pnOXFFTnZadEtheFZ5NHhzeVMyT2lzczlwZGtjek42eTVWTVQ4eHdlZVBnN1IwcmZMcE1ZNFJ3WDMyMA?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        },
-        {
-          "id": "9f9dbc45",
-          "tipo": "bloqueo",
-          "ruta": "Megabloqueo de transportistas: lista de carreteras afectadas por el paro…",
-          "descripcion": "Megabloqueo de transportistas: lista de carreteras afectadas por el paro nacional este 24 de junio - TV Azteca. Megabloqueo de transportistas: lista de carreteras afectadas por el paro nacional este 24 de junio TV Azteca",
-          "recomendacion": "",
-          "fecha": "23 junio 2026 · 23:14 CST",
-          "fecha_iso": "2026-06-23T23:14:00-06:00",
-          "fuente": "TV Azteca",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVC1EZkJHdEZzZWdTOUNsTkZaWUgxSHl5dVpBazJVVmtFWDJlMlpZUkJHRWl1elU2RjRobm1lQ1pVT1BxVk9razFJeUZ4ck15NklaQ1F0YXVfOG5YQXRMbEJ5R3NCTjRxaEU2TEdXVEo4X0RjY3Jtal9RdWxBc1lqcXhoREFXeFdvSjV1SmxYTTZ6dEhoWGdncndfV0tXYTRFelF0NklvclpoYkREZDdidkQ4bmdrWXRaV2RWZ2VENjXSAc4BQVVfeXFMUHczOV9CTnRrdDhPeHhyRV9EYnpGUXlKUXlWMUJCalAzZTV5RHVZUHl4MjJ1RS0tcjNybVZZVThCU204X2lsczBNTkI2LXZVUnR5SWtIQVRlblNkNHpvdGNxY3NVY1hyZWwxSnFKLXVPb3JSNGw2cnk4VzFZTXE1czlXX1R6LVBGdU5PeTNKN3dsSWdwdFE1ZHFYMlM2bEtsMENGanEzVm1Nb2xjZXYyMUpHbU9MRHc3NkhENks2bTFSMnA2cmpJdXNGblBoN1E?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        }
-      ]
-    }
-  ],
-  "para_mapa": []
+  "grupos": [],
+  "para_mapa": [],
+  "nota": "Sin alertas activas en la ventana de tiempo configurada."
 }
