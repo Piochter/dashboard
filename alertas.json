@@ -1,12 +1,103 @@
 {
-  "ultima_actualizacion": "2026-06-24T05:18:56.817963-06:00",
-  "ultima_actualizacion_legible": "24 de junio de 2026 · 05:18 CST",
-  "total": 0,
+  "ultima_actualizacion": "2026-06-24T07:36:35.305361-06:00",
+  "ultima_actualizacion_legible": "24 de junio de 2026 · 07:36 CST",
+  "total": 4,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Google News"
+    "Google News",
+    "Telegram"
   ],
-  "grupos": [],
-  "para_mapa": [],
-  "nota": "Sin alertas activas en la ventana de tiempo configurada."
+  "grupos": [
+    {
+      "tipo": "bloqueo",
+      "color": "rojo",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "0e574950",
+          "tipo": "bloqueo",
+          "ruta": "Bloqueo de transportistas: Estas son las vialidades y carreteras que…",
+          "descripcion": "Bloqueo de transportistas: Estas son las vialidades y carreteras que serán afectadas por el paro nacional de l - Milenio. Bloqueo de transportistas: Estas son las vialidades y carreteras que serán afectadas por el paro nacional de l Milenio",
+          "recomendacion": "",
+          "fecha": "24 junio 2026 · 07:23 CST",
+          "fecha_iso": "2026-06-24T07:23:00-06:00",
+          "fuente": "Milenio",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeG5qeFRfRmx0aktVUzNRVFZCaFZBeDlFN0o5ZTJlVW5zS2xFcmI0aFgzUUFaTDlBNklzUHVrR1AtZzNTUXBFaFVrV1k5NF9yTmJQbHRJY1hDSnlPVlRNM3pTaWlYLVllY25ndTdHNk84SWhjUlpPTXFHQUVGQ2EzbGJaRkhwM3cxT3hxQjRGOWhoRU5YQUVTMTlTMNIBmwFBVV95cUxOVmZWMUFRakw2RThiRi1DekJvQWxfSzRxNjlVNDlvcDdRTmJKLWt3UUh4Qm5hc1NHb3FKbS1Uc2xsMWsyelJPdk9PdjE3aXhvbEliaktHLXh0SlBpQkJMQ1pnOXFFTnZadEtheFZ5NHhzeVMyT2lzczlwZGtjek42eTVWTVQ4eHdlZVBnN1IwcmZMcE1ZNFJ3WDMyMA?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
+        {
+          "id": "b967088b",
+          "tipo": "bloqueo",
+          "ruta": "Bloqueos carreteras HOY 24 de junio: Autopistas cerradas en México,…",
+          "descripcion": "Bloqueos carreteras HOY 24 de junio: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 24 de junio: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
+          "recomendacion": "",
+          "fecha": "24 junio 2026 · 07:03 CST",
+          "fecha_iso": "2026-06-24T07:03:00-06:00",
+          "fuente": "Eje Central",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPUWJ1QVg3a0J1eWxyeExFTDRDYnFIajk5VWZ4c1pjeFdldUlrLVZvejBXRDBYOTYwN1pyQXdSQ2Vtdm90QXdicDg3OWd3Qm9Sa2JyUWV6RHV1eE1KZms5WnEwNkJ3R3lMdUFNVHNJTUV3bjYwZ1ZCZ2d2SFo2V2JtV0tfaW93SVVBT2ZYcHkxT0lpeXpUQ0tnV3FTYnJsR3gtTnpIY1FfQkc4Y3JFeGVLTUp1eFNaaFppX3dOeHBoUEV5MDNrNzFCSUhvLVF4b0FMVUREZVpnYXVRWkFOODYtcW9RdS02emc?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
+        {
+          "id": "0646dd69",
+          "tipo": "bloqueo",
+          "ruta": "Tras diálogo con Gobernación, cancelan transportistas cierres carreteros para hoy…",
+          "descripcion": "Tras diálogo con Gobernación, cancelan transportistas cierres carreteros para hoy\nhttps://www.jornada.com.mx/2026/06/24/estados/024n1est?partner=rss\n\nTras concluir anoche una mesa de diálogo con la Alianza Mexicana de Organización de Transportistas AC (Amotac), la Secretaría de Gobernación (SG) informó que los líderes de esa agrupación se comprometieron a no realizar bloqueos carreteros hoy, como habían anticipado.",
+          "recomendacion": "",
+          "fecha": "24 junio 2026 · 06:54 CST",
+          "fecha_iso": "2026-06-24T06:54:00-06:00",
+          "fuente": "Telegram @NOTMEX",
+          "url": "https://t.me/NOTMEX/184080",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        }
+      ]
+    },
+    {
+      "tipo": "cierre_parcial",
+      "color": "amarillo",
+      "icono": "🟡",
+      "label": "CIERRE PARCIAL / ACCIDENTES",
+      "col2": true,
+      "alertas": [
+        {
+          "id": "acf88bd6",
+          "tipo": "cierre_parcial",
+          "ruta": "🚧#AlertaVial | México-Toluca se encuentra totalmente bloqueada hoy 24 de…",
+          "descripcion": "🚧#AlertaVial | México-Toluca se encuentra totalmente bloqueada hoy 24 de junio, reportan usuarios👇\n https://lajornadaestadodemexico.com/mexico-toluca-bloqueada-hoy-24-de-junio/",
+          "recomendacion": "",
+          "fecha": "24 junio 2026 · 06:54 CST",
+          "fecha_iso": "2026-06-24T06:54:00-06:00",
+          "fuente": "Telegram @jornadaedomex",
+          "url": "https://t.me/jornadaedomex/11157",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 19.29,
+          "lon": -99.66
+        }
+      ]
+    }
+  ],
+  "para_mapa": [
+    {
+      "id": "acf88bd6",
+      "tipo": "cierre_parcial",
+      "ruta": "🚧#AlertaVial | México-Toluca se encuentra totalmente bloqueada hoy 24 de…",
+      "descripcion": "🚧#AlertaVial | México-Toluca se encuentra totalmente bloqueada hoy 24 de junio, reportan usuarios👇\n https://lajornadaestadodemexico.com/mexico-toluca-bloqueada-hoy-24-de-junio/",
+      "fecha": "24 junio 2026 · 06:54 CST",
+      "fuente": "Telegram @jornadaedomex",
+      "url": "https://t.me/jornadaedomex/11157",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 19.29,
+      "lon": -99.66
+    }
+  ]
 }
