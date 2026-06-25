@@ -1,11 +1,10 @@
 {
-  "ultima_actualizacion": "2026-06-24T22:34:53.095032-06:00",
-  "ultima_actualizacion_legible": "24 de junio de 2026 · 22:34 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-06-25T02:05:27.812288-06:00",
+  "ultima_actualizacion_legible": "25 de junio de 2026 · 02:05 CST",
+  "total": 1,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Google News",
-    "Telegram"
+    "Google News"
   ],
   "grupos": [
     {
@@ -21,8 +20,8 @@
           "ruta": "Bloqueo en carreteras de México HOY miércoles 24 de junio:…",
           "descripcion": "Bloqueo en carreteras de México HOY miércoles 24 de junio: auto se incendia en la México-Querétaro - TV Azteca. Bloqueo en carreteras de México HOY miércoles 24 de junio: auto se incendia en la México-Querétaro TV Azteca",
           "recomendacion": "",
-          "fecha": "24 junio 2026 · 20:09 CST",
-          "fecha_iso": "2026-06-24T20:09:00-06:00",
+          "fecha": "24 junio 2026 · 23:06 CST",
+          "fecha_iso": "2026-06-24T23:06:00-06:00",
           "fuente": "TV Azteca",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaUxReUtCc3lqNXAxSVRSS2NsQnpramg5TTVvZEt2a2laazc3WG05M1lsUUhDN1ZUT0xRNjBjQUY0ZHE5Z2RnZXIxMkZPRTVtcDVfUmpNY0dFMTZURHloZjlwY3hsdUpXT0s0UnFfZmNWZ3V6SXZQOVVuS211eTBTemdCZ3h4eVY3XzBYWVlHeUhRN0VSWHpQc2F30gGnAUFVX3lxTE1jOFhSNjN1UTFjZGRRX0JZbFlXc1BRcVRYTkFrdG5VZE4zSEMtWXNKSk5OY29nWENBYzlYSnJfcXhjcG5xd3VOOVBmcW9MUUlKSzF0eFdYYVRSUExyOGVmTVpoUHVwTndPQUptQXpjd2Y5V2ZTTkJsNXJtbHB1YWVpT0l6OHBZU0V3VGRZUkNFZE5WZjYxUnd3cVpSTXdKN1VPajFxNGpN?oc=5",
           "dot_color": "#8e44ad",
@@ -30,20 +29,6 @@
           "badge_txt": "BLOQUEO",
           "lat": 20.1,
           "lon": -99.5
-        },
-        {
-          "id": "776383be",
-          "tipo": "bloqueo",
-          "ruta": "Paro de transportistas: ¿Cuándo inician las manifestaciones y hacia dónde…",
-          "descripcion": "Paro de transportistas: ¿Cuándo inician las manifestaciones y hacia dónde se [dirigen?](http://telegra.ph/Paro-de-transportistas-Cuándo-inician-las-manifestaciones-y-hacia-dónde-se-dirigen-06-23)\n\n__via__ [www.informador.mx](https://www.informador.mx/mexico/paro-de-transportistas-cuando-inician-las-manifestaciones-y-hacia-donde-se-dirigen-20260623-0060.html)",
-          "recomendacion": "",
-          "fecha": "24 junio 2026 · 20:06 CST",
-          "fecha_iso": "2026-06-24T20:06:00-06:00",
-          "fuente": "Telegram @NOTMEX",
-          "url": "https://t.me/NOTMEX/184090",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
         }
       ]
     }
@@ -54,7 +39,7 @@
       "tipo": "bloqueo",
       "ruta": "Bloqueo en carreteras de México HOY miércoles 24 de junio:…",
       "descripcion": "Bloqueo en carreteras de México HOY miércoles 24 de junio: auto se incendia en la México-Querétaro - TV Azteca. Bloqueo en carreteras de México HOY miércoles 24 de junio: auto se incendia en la México-Querétaro TV Azteca",
-      "fecha": "24 junio 2026 · 20:09 CST",
+      "fecha": "24 junio 2026 · 23:06 CST",
       "fuente": "TV Azteca",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaUxReUtCc3lqNXAxSVRSS2NsQnpramg5TTVvZEt2a2laazc3WG05M1lsUUhDN1ZUT0xRNjBjQUY0ZHE5Z2RnZXIxMkZPRTVtcDVfUmpNY0dFMTZURHloZjlwY3hsdUpXT0s0UnFfZmNWZ3V6SXZQOVVuS211eTBTemdCZ3h4eVY3XzBYWVlHeUhRN0VSWHpQc2F30gGnAUFVX3lxTE1jOFhSNjN1UTFjZGRRX0JZbFlXc1BRcVRYTkFrdG5VZE4zSEMtWXNKSk5OY29nWENBYzlYSnJfcXhjcG5xd3VOOVBmcW9MUUlKSzF0eFdYYVRSUExyOGVmTVpoUHVwTndPQUptQXpjd2Y5V2ZTTkJsNXJtbHB1YWVpT0l6OHBZU0V3VGRZUkNFZE5WZjYxUnd3cVpSTXdKN1VPajFxNGpN?oc=5",
       "dot_color": "#8e44ad",
