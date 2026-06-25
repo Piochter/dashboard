@@ -1,51 +1,12 @@
 {
-  "ultima_actualizacion": "2026-06-25T02:05:27.812288-06:00",
-  "ultima_actualizacion_legible": "25 de junio de 2026 · 02:05 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-06-25T05:09:57.116738-06:00",
+  "ultima_actualizacion_legible": "25 de junio de 2026 · 05:09 CST",
+  "total": 0,
   "ventana": "últimos 180 minutos",
   "fuentes": [
     "Google News"
   ],
-  "grupos": [
-    {
-      "tipo": "bloqueo",
-      "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "bb92acd3",
-          "tipo": "bloqueo",
-          "ruta": "Bloqueo en carreteras de México HOY miércoles 24 de junio:…",
-          "descripcion": "Bloqueo en carreteras de México HOY miércoles 24 de junio: auto se incendia en la México-Querétaro - TV Azteca. Bloqueo en carreteras de México HOY miércoles 24 de junio: auto se incendia en la México-Querétaro TV Azteca",
-          "recomendacion": "",
-          "fecha": "24 junio 2026 · 23:06 CST",
-          "fecha_iso": "2026-06-24T23:06:00-06:00",
-          "fuente": "TV Azteca",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaUxReUtCc3lqNXAxSVRSS2NsQnpramg5TTVvZEt2a2laazc3WG05M1lsUUhDN1ZUT0xRNjBjQUY0ZHE5Z2RnZXIxMkZPRTVtcDVfUmpNY0dFMTZURHloZjlwY3hsdUpXT0s0UnFfZmNWZ3V6SXZQOVVuS211eTBTemdCZ3h4eVY3XzBYWVlHeUhRN0VSWHpQc2F30gGnAUFVX3lxTE1jOFhSNjN1UTFjZGRRX0JZbFlXc1BRcVRYTkFrdG5VZE4zSEMtWXNKSk5OY29nWENBYzlYSnJfcXhjcG5xd3VOOVBmcW9MUUlKSzF0eFdYYVRSUExyOGVmTVpoUHVwTndPQUptQXpjd2Y5V2ZTTkJsNXJtbHB1YWVpT0l6OHBZU0V3VGRZUkNFZE5WZjYxUnd3cVpSTXdKN1VPajFxNGpN?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 20.1,
-          "lon": -99.5
-        }
-      ]
-    }
-  ],
-  "para_mapa": [
-    {
-      "id": "bb92acd3",
-      "tipo": "bloqueo",
-      "ruta": "Bloqueo en carreteras de México HOY miércoles 24 de junio:…",
-      "descripcion": "Bloqueo en carreteras de México HOY miércoles 24 de junio: auto se incendia en la México-Querétaro - TV Azteca. Bloqueo en carreteras de México HOY miércoles 24 de junio: auto se incendia en la México-Querétaro TV Azteca",
-      "fecha": "24 junio 2026 · 23:06 CST",
-      "fuente": "TV Azteca",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaUxReUtCc3lqNXAxSVRSS2NsQnpramg5TTVvZEt2a2laazc3WG05M1lsUUhDN1ZUT0xRNjBjQUY0ZHE5Z2RnZXIxMkZPRTVtcDVfUmpNY0dFMTZURHloZjlwY3hsdUpXT0s0UnFfZmNWZ3V6SXZQOVVuS211eTBTemdCZ3h4eVY3XzBYWVlHeUhRN0VSWHpQc2F30gGnAUFVX3lxTE1jOFhSNjN1UTFjZGRRX0JZbFlXc1BRcVRYTkFrdG5VZE4zSEMtWXNKSk5OY29nWENBYzlYSnJfcXhjcG5xd3VOOVBmcW9MUUlKSzF0eFdYYVRSUExyOGVmTVpoUHVwTndPQUptQXpjd2Y5V2ZTTkJsNXJtbHB1YWVpT0l6OHBZU0V3VGRZUkNFZE5WZjYxUnd3cVpSTXdKN1VPajFxNGpN?oc=5",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 20.1,
-      "lon": -99.5
-    }
-  ]
+  "grupos": [],
+  "para_mapa": [],
+  "nota": "Sin alertas activas en la ventana de tiempo configurada."
 }
