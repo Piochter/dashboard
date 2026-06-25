@@ -1,11 +1,10 @@
 {
-  "ultima_actualizacion": "2026-06-24T16:56:06.667174-06:00",
-  "ultima_actualizacion_legible": "24 de junio de 2026 · 16:56 CST",
+  "ultima_actualizacion": "2026-06-24T18:09:00.382091-06:00",
+  "ultima_actualizacion_legible": "24 de junio de 2026 · 18:09 CST",
   "total": 4,
   "ventana": "últimos 180 minutos",
   "fuentes": [
     "Google News",
-    "Quadratín + regionales",
     "Telegram"
   ],
   "grupos": [
@@ -16,6 +15,20 @@
       "label": "BLOQUEOS / MANIFESTACIONES",
       "col2": false,
       "alertas": [
+        {
+          "id": "9da46776",
+          "tipo": "bloqueo",
+          "ruta": "Bloqueo de transportistas HOY miércoles 24 de junio: tráfico en…",
+          "descripcion": "Bloqueo de transportistas HOY miércoles 24 de junio: tráfico en autopistas de México |EN VIVO - TV Azteca. Bloqueo de transportistas HOY miércoles 24 de junio: tráfico en autopistas de México |EN VIVO TV Azteca",
+          "recomendacion": "",
+          "fecha": "24 junio 2026 · 16:08 CST",
+          "fecha_iso": "2026-06-24T16:08:00-06:00",
+          "fuente": "TV Azteca",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaUxReUtCc3lqNXAxSVRSS2NsQnpramg5TTVvZEt2a2laazc3WG05M1lsUUhDN1ZUT0xRNjBjQUY0ZHE5Z2RnZXIxMkZPRTVtcDVfUmpNY0dFMTZURHloZjlwY3hsdUpXT0s0UnFfZmNWZ3V6SXZQOVVuS211eTBTemdCZ3h4eVY3XzBYWVlHeUhRN0VSWHpQc2F30gGnAUFVX3lxTE1jOFhSNjN1UTFjZGRRX0JZbFlXc1BRcVRYTkFrdG5VZE4zSEMtWXNKSk5OY29nWENBYzlYSnJfcXhjcG5xd3VOOVBmcW9MUUlKSzF0eFdYYVRSUExyOGVmTVpoUHVwTndPQUptQXpjd2Y5V2ZTTkJsNXJtbHB1YWVpT0l6OHBZU0V3VGRZUkNFZE5WZjYxUnd3cVpSTXdKN1VPajFxNGpN?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
         {
           "id": "1a2383e2",
           "tipo": "bloqueo",
@@ -29,34 +42,31 @@
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO"
-        },
+        }
+      ]
+    },
+    {
+      "tipo": "robo",
+      "color": "rojo",
+      "icono": "🚨",
+      "label": "ROBOS EN CARRETERA",
+      "col2": true,
+      "alertas": [
         {
-          "id": "9da46776",
-          "tipo": "bloqueo",
-          "ruta": "Bloqueo de transportistas HOY miércoles 24 de junio: tráfico en…",
-          "descripcion": "Bloqueo de transportistas HOY miércoles 24 de junio: tráfico en autopistas de México |EN VIVO - TV Azteca. Bloqueo de transportistas HOY miércoles 24 de junio: tráfico en autopistas de México |EN VIVO TV Azteca",
+          "id": "32d1523d",
+          "tipo": "robo",
+          "ruta": "Trailero Sufre Secuestro Exprés tras Intento de Robo de Pipa…",
+          "descripcion": "Trailero Sufre Secuestro Exprés tras Intento de Robo de Pipa en la Autopista Puebla-Orizaba - N+. Trailero Sufre Secuestro Exprés tras Intento de Robo de Pipa en la Autopista Puebla-Orizaba N+",
           "recomendacion": "",
-          "fecha": "24 junio 2026 · 14:56 CST",
-          "fecha_iso": "2026-06-24T14:56:00-06:00",
-          "fuente": "TV Azteca",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaUxReUtCc3lqNXAxSVRSS2NsQnpramg5TTVvZEt2a2laazc3WG05M1lsUUhDN1ZUT0xRNjBjQUY0ZHE5Z2RnZXIxMkZPRTVtcDVfUmpNY0dFMTZURHloZjlwY3hsdUpXT0s0UnFfZmNWZ3V6SXZQOVVuS211eTBTemdCZ3h4eVY3XzBYWVlHeUhRN0VSWHpQc2F30gGnAUFVX3lxTE1jOFhSNjN1UTFjZGRRX0JZbFlXc1BRcVRYTkFrdG5VZE4zSEMtWXNKSk5OY29nWENBYzlYSnJfcXhjcG5xd3VOOVBmcW9MUUlKSzF0eFdYYVRSUExyOGVmTVpoUHVwTndPQUptQXpjd2Y5V2ZTTkJsNXJtbHB1YWVpT0l6OHBZU0V3VGRZUkNFZE5WZjYxUnd3cVpSTXdKN1VPajFxNGpN?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        },
-        {
-          "id": "ef8cbc21",
-          "tipo": "bloqueo",
-          "ruta": "Reporta Canaco pérdidas de hasta 80% por bloqueos carreteros de…",
-          "descripcion": "Reporta Canaco pérdidas de hasta 80% por bloqueos carreteros de AMOTAC. Impactan directamente en las ventas y el traslado de mercancías",
-          "recomendacion": "",
-          "fecha": "24 junio 2026 · 14:53 CST",
-          "fecha_iso": "2026-06-24T14:53:00-06:00",
-          "fuente": "Quadratín Veracruz",
-          "url": "https://veracruz.quadratin.com.mx/reporta-canaco-perdidas-de-hasta-80-por-bloqueos-carreteros-de-amotac/",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
+          "fecha": "24 junio 2026 · 16:52 CST",
+          "fecha_iso": "2026-06-24T16:52:00-06:00",
+          "fuente": "N+",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNakMyblVrSGhHVk9aSDlsTTl3alRBWHZpUndCR0pIdmVLM0hFOFJReF9ZQ2xBRWNLV25VMzMzclNMOFRJUWNwbW1nQW1LVzdweXV0dlNtVk1CUjItOVlUZ1E2U0xnVmlGZVBESWg2emZzYTBsRk1TbmRVeTl6S3lLQzdMS2FoM3lOdUZTTUVoVUp4ZlZfYUdiRnU0SjNhcFQ3MW5sZHp4ZU0xZ1ZsRHczakNCa3VrOUxRZGZhYmVOLXlxN3JnSl83Y0Z1aw?oc=5",
+          "dot_color": "#c0392b",
+          "badge": "badge-robo",
+          "badge_txt": "ROBO",
+          "lat": 19.04,
+          "lon": -98.2
         }
       ]
     },
@@ -87,6 +97,19 @@
     }
   ],
   "para_mapa": [
+    {
+      "id": "32d1523d",
+      "tipo": "robo",
+      "ruta": "Trailero Sufre Secuestro Exprés tras Intento de Robo de Pipa…",
+      "descripcion": "Trailero Sufre Secuestro Exprés tras Intento de Robo de Pipa en la Autopista Puebla-Orizaba - N+. Trailero Sufre Secuestro Exprés tras Intento de Robo de Pipa en la Autopista Puebla-Orizaba N+",
+      "fecha": "24 junio 2026 · 16:52 CST",
+      "fuente": "N+",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNakMyblVrSGhHVk9aSDlsTTl3alRBWHZpUndCR0pIdmVLM0hFOFJReF9ZQ2xBRWNLV25VMzMzclNMOFRJUWNwbW1nQW1LVzdweXV0dlNtVk1CUjItOVlUZ1E2U0xnVmlGZVBESWg2emZzYTBsRk1TbmRVeTl6S3lLQzdMS2FoM3lOdUZTTUVoVUp4ZlZfYUdiRnU0SjNhcFQ3MW5sZHp4ZU0xZ1ZsRHczakNCa3VrOUxRZGZhYmVOLXlxN3JnSl83Y0Z1aw?oc=5",
+      "dot_color": "#c0392b",
+      "badge_txt": "ROBO",
+      "lat": 19.04,
+      "lon": -98.2
+    },
     {
       "id": "93c51a3c",
       "tipo": "clima",
