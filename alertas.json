@@ -1,12 +1,51 @@
 {
-  "ultima_actualizacion": "2026-06-25T05:09:57.116738-06:00",
-  "ultima_actualizacion_legible": "25 de junio de 2026 · 05:09 CST",
-  "total": 0,
+  "ultima_actualizacion": "2026-06-25T07:28:10.621315-06:00",
+  "ultima_actualizacion_legible": "25 de junio de 2026 · 07:28 CST",
+  "total": 1,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Google News"
+    "Telegram"
   ],
-  "grupos": [],
-  "para_mapa": [],
-  "nota": "Sin alertas activas en la ventana de tiempo configurada."
+  "grupos": [
+    {
+      "tipo": "bloqueo",
+      "color": "rojo",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "3eed1b85",
+          "tipo": "bloqueo",
+          "ruta": "carretera federal 115",
+          "descripcion": "🔴 #EnPortada | Por más de tres horas, transportistas de AMOTAC bloquearon la carretera federal 115, México-Cuautla.\n https://lajornadaestadodemexico.com/bloqueos-de-amotac-en-la-carretera-mexico-cuautla-y-calzada-zaragoza-generaron-caos-vial/",
+          "recomendacion": "",
+          "fecha": "25 junio 2026 · 06:11 CST",
+          "fecha_iso": "2026-06-25T06:11:00-06:00",
+          "fuente": "Telegram @jornadaedomex",
+          "url": "https://t.me/jornadaedomex/11176",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 21.0,
+          "lon": -104.0
+        }
+      ]
+    }
+  ],
+  "para_mapa": [
+    {
+      "id": "3eed1b85",
+      "tipo": "bloqueo",
+      "ruta": "carretera federal 115",
+      "descripcion": "🔴 #EnPortada | Por más de tres horas, transportistas de AMOTAC bloquearon la carretera federal 115, México-Cuautla.\n https://lajornadaestadodemexico.com/bloqueos-de-amotac-en-la-carretera-mexico-cuautla-y-calzada-zaragoza-generaron-caos-vial/",
+      "fecha": "25 junio 2026 · 06:11 CST",
+      "fuente": "Telegram @jornadaedomex",
+      "url": "https://t.me/jornadaedomex/11176",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 21.0,
+      "lon": -104.0
+    }
+  ]
 }
