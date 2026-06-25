@@ -1,11 +1,10 @@
 {
-  "ultima_actualizacion": "2026-06-25T14:32:02.134217-06:00",
-  "ultima_actualizacion_legible": "25 de junio de 2026 · 14:32 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-06-25T16:08:51.361502-06:00",
+  "ultima_actualizacion_legible": "25 de junio de 2026 · 16:08 CST",
+  "total": 1,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Google News",
-    "Quadratín + regionales"
+    "Google News"
   ],
   "grupos": [
     {
@@ -21,8 +20,8 @@
           "ruta": "¿Hay accidentes en la México-Puebla hoy? Bloqueos, tráfico y todo…",
           "descripcion": "¿Hay accidentes en la México-Puebla hoy? Bloqueos, tráfico y todo lo que pasa EN VIVO este 25 de junio - TV Azteca. ¿Hay accidentes en la México-Puebla hoy? Bloqueos, tráfico y todo lo que pasa EN VIVO este 25 de junio TV Azteca",
           "recomendacion": "",
-          "fecha": "25 junio 2026 · 13:32 CST",
-          "fecha_iso": "2026-06-25T13:32:00-06:00",
+          "fecha": "25 junio 2026 · 14:51 CST",
+          "fecha_iso": "2026-06-25T14:51:00-06:00",
           "fuente": "TV Azteca",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMFpPb0tLZm40RUlGcjVuTC1yZEFJcXJmX05HUjNBYS1WSDZ1cGktZ2NsWDZzdVFoR19NaXlhalJkSENhc2NGV0x0NG1mVDNXT1RkZ1pGSlF5Y21ZbnZtaGFHV3g0Qm5iSDVDal9UZ3N1MmttVzRTUzY4VXVIemVMQ21teGlyb01ibnIwd0RYUjdBYlVuRGktLVNRSmVIcTdoNTlxajZ3bHFTZDZ3T2F3TXZ30gG_AUFVX3lxTE00Ui1pY0Q0c1hZM3hpWVA0c0VQOGMtZEd2R2JVOUs1Q1RSOG9hQUUtLS1VVVlTYzR4S1oyN3RRQXVQRmhQblB1U1NQcmJQRHI3d1lna010Mmt1dm5DaDIxcDlHYnhTcktVNmRjTUlLbkdvSmJQRGgydmlNOWd1akFXVnBsV3VaVkQwT0pYNml4a2M1TXo3OHI5QUNpeC12RWNJRXo1andoSHZyZDVwNlNRcnEzR3A1bmpGNWo0enJn?oc=5",
           "dot_color": "#8e44ad",
@@ -30,45 +29,6 @@
           "badge_txt": "BLOQUEO",
           "lat": 19.35,
           "lon": -98.4
-        },
-        {
-          "id": "ee10aa41",
-          "tipo": "bloqueo",
-          "ruta": "¿Hay Bloqueos en Carreteras Hoy? Así las Autopistas de México…",
-          "descripcion": "¿Hay Bloqueos en Carreteras Hoy? Así las Autopistas de México este 25 de Junio 2026 - N+. ¿Hay Bloqueos en Carreteras Hoy? Así las Autopistas de México este 25 de Junio 2026 N+",
-          "recomendacion": "",
-          "fecha": "25 junio 2026 · 11:39 CST",
-          "fecha_iso": "2026-06-25T11:39:00-06:00",
-          "fuente": "N+",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdGMxTDlmTWtkc2FLZ21jeG91R2h0clJlRy02aXVRZE9MMUZIMDZtOE1DcE1XMnVLUkZKU2NxczVCQXNZZVVzdzV4UHBSQnk4dXpFaktlN3dmUTVsbHB2QTJXSktSU25kSTZ5NVh1NFAyU1RoM0xQa0V0eW9uUEpjX29ZMkN4bTAtRWU0UEFveGJYeTBOV1RDUHAweU9GczR5SmhfbzQwTHJsdFk?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        }
-      ]
-    },
-    {
-      "tipo": "cierre_parcial",
-      "color": "amarillo",
-      "icono": "🟡",
-      "label": "CIERRE PARCIAL / ACCIDENTES",
-      "col2": true,
-      "alertas": [
-        {
-          "id": "4d792f4b",
-          "tipo": "cierre_parcial",
-          "ruta": "Accidente carretero deja 5 lesionados en la Sierra de Flores…",
-          "descripcion": "Accidente carretero deja 5 lesionados en la Sierra de Flores Magón. El accidente ocurrió a la altura del kilómetro 58+200, en la región Sierra de Flores Magón",
-          "recomendacion": "",
-          "fecha": "25 junio 2026 · 12:29 CST",
-          "fecha_iso": "2026-06-25T12:29:00-06:00",
-          "fuente": "Quadratín Oaxaca",
-          "url": "https://oaxaca.quadratin.com.mx/accidente-carretero-deja-5-lesionados-en-la-sierra-de-flores-magon/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.1,
-          "lon": -104.3
         }
       ]
     }
@@ -79,26 +39,13 @@
       "tipo": "bloqueo",
       "ruta": "¿Hay accidentes en la México-Puebla hoy? Bloqueos, tráfico y todo…",
       "descripcion": "¿Hay accidentes en la México-Puebla hoy? Bloqueos, tráfico y todo lo que pasa EN VIVO este 25 de junio - TV Azteca. ¿Hay accidentes en la México-Puebla hoy? Bloqueos, tráfico y todo lo que pasa EN VIVO este 25 de junio TV Azteca",
-      "fecha": "25 junio 2026 · 13:32 CST",
+      "fecha": "25 junio 2026 · 14:51 CST",
       "fuente": "TV Azteca",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMFpPb0tLZm40RUlGcjVuTC1yZEFJcXJmX05HUjNBYS1WSDZ1cGktZ2NsWDZzdVFoR19NaXlhalJkSENhc2NGV0x0NG1mVDNXT1RkZ1pGSlF5Y21ZbnZtaGFHV3g0Qm5iSDVDal9UZ3N1MmttVzRTUzY4VXVIemVMQ21teGlyb01ibnIwd0RYUjdBYlVuRGktLVNRSmVIcTdoNTlxajZ3bHFTZDZ3T2F3TXZ30gG_AUFVX3lxTE00Ui1pY0Q0c1hZM3hpWVA0c0VQOGMtZEd2R2JVOUs1Q1RSOG9hQUUtLS1VVVlTYzR4S1oyN3RRQXVQRmhQblB1U1NQcmJQRHI3d1lna010Mmt1dm5DaDIxcDlHYnhTcktVNmRjTUlLbkdvSmJQRGgydmlNOWd1akFXVnBsV3VaVkQwT0pYNml4a2M1TXo3OHI5QUNpeC12RWNJRXo1andoSHZyZDVwNlNRcnEzR3A1bmpGNWo0enJn?oc=5",
       "dot_color": "#8e44ad",
       "badge_txt": "BLOQUEO",
       "lat": 19.35,
       "lon": -98.4
-    },
-    {
-      "id": "4d792f4b",
-      "tipo": "cierre_parcial",
-      "ruta": "Accidente carretero deja 5 lesionados en la Sierra de Flores…",
-      "descripcion": "Accidente carretero deja 5 lesionados en la Sierra de Flores Magón. El accidente ocurrió a la altura del kilómetro 58+200, en la región Sierra de Flores Magón",
-      "fecha": "25 junio 2026 · 12:29 CST",
-      "fuente": "Quadratín Oaxaca",
-      "url": "https://oaxaca.quadratin.com.mx/accidente-carretero-deja-5-lesionados-en-la-sierra-de-flores-magon/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.1,
-      "lon": -104.3
     }
   ]
 }
