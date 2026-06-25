@@ -1,12 +1,69 @@
 {
-  "ultima_actualizacion": "2026-06-25T07:28:10.621315-06:00",
-  "ultima_actualizacion_legible": "25 de junio de 2026 · 07:28 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-06-25T10:02:44.558038-06:00",
+  "ultima_actualizacion_legible": "25 de junio de 2026 · 10:02 CST",
+  "total": 4,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Telegram"
+    "Google News",
+    "Medios regionales",
+    "Quadratín + regionales"
   ],
   "grupos": [
+    {
+      "tipo": "cierre_total",
+      "color": "rojo",
+      "icono": "🔴",
+      "label": "CIERRE TOTAL",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "21c328a0",
+          "tipo": "cierre_total",
+          "ruta": "Amir, de 16 años, lleva más de 12 horas sepultado…",
+          "descripcion": "Amir, de 16 años, lleva más de 12 horas sepultado bajo un edificio entero tras terremotos en Venezuela. A pesar de la magnitud del derrumbe, su rostro y parte del torso aún son visibles entre los fragmentos de concreto, mientras rescatistas y familiares mantienen la esperanza de lograr sacarlo con vida",
+          "recomendacion": "",
+          "fecha": "25 junio 2026 · 08:57 CST",
+          "fecha_iso": "2026-06-25T08:57:00-06:00",
+          "fuente": "El Informador Jalisco",
+          "url": "https://www.informador.mx/internacional/terremotos-en-venezuela-amir-de-16-anos-lleva-mas-de-12-horas-sepultado-bajo-un-edificio-entero-20260625-0063.html",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL"
+        },
+        {
+          "id": "ead06825",
+          "tipo": "cierre_total",
+          "ruta": "autopista Tehuacán-Oaxaca por deslave",
+          "descripcion": "Paso intermitente en la autopista Tehuacán-Oaxaca por deslave. El deslizamiento no dejó vehículos afectados ni personas lesionadas",
+          "recomendacion": "",
+          "fecha": "25 junio 2026 · 08:27 CST",
+          "fecha_iso": "2026-06-25T08:27:00-06:00",
+          "fuente": "Quadratín Oaxaca",
+          "url": "https://oaxaca.quadratin.com.mx/paso-intermitente-en-la-autopista-tehuacan-oaxaca-por-deslave/",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL",
+          "lat": 17.06,
+          "lon": -96.72
+        },
+        {
+          "id": "b4b15861",
+          "tipo": "cierre_total",
+          "ruta": "Deslave de Talud Invade Carril de la Carretera Cuacnopalan-Oaxaca -…",
+          "descripcion": "Deslave de Talud Invade Carril de la Carretera Cuacnopalan-Oaxaca - N+. Deslave de Talud Invade Carril de la Carretera Cuacnopalan-Oaxaca N+",
+          "recomendacion": "",
+          "fecha": "25 junio 2026 · 07:40 CST",
+          "fecha_iso": "2026-06-25T07:40:00-06:00",
+          "fuente": "N+",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOaFcxSzhqX29Edk9JQmlfUXBVQ3k0V3lLRFpDY0I5SUpHUjNObW9Ga0FiUTAyc2xWdDM2WnliN1k1YjB6MUtWQlQ5UXlpeFg5dU01T3ZZbWFSSnpubTdadUlPTXROMU01a3BtZEV2c0VDbVlYTnA0bnBuYWhyNmRURTFwSC01VktoOFFUV09ERFZiUjdMVGZpZFZST1hEOU5OYjRHWER0VVpLdm5mb2Y2cEg2dUpfbWwyeEtwN0tFcDBRNktMeWp2VktLajVxMzQ?oc=5",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL",
+          "lat": 17.06,
+          "lon": -96.72
+        }
+      ]
+    },
     {
       "tipo": "bloqueo",
       "color": "rojo",
@@ -15,37 +72,48 @@
       "col2": false,
       "alertas": [
         {
-          "id": "3eed1b85",
+          "id": "b896b3fa",
           "tipo": "bloqueo",
-          "ruta": "carretera federal 115",
-          "descripcion": "🔴 #EnPortada | Por más de tres horas, transportistas de AMOTAC bloquearon la carretera federal 115, México-Cuautla.\n https://lajornadaestadodemexico.com/bloqueos-de-amotac-en-la-carretera-mexico-cuautla-y-calzada-zaragoza-generaron-caos-vial/",
+          "ruta": "Bloqueos carreteras HOY 25 de junio: Autopistas cerradas en México,…",
+          "descripcion": "Bloqueos carreteras HOY 25 de junio: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 25 de junio: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
           "recomendacion": "",
-          "fecha": "25 junio 2026 · 06:11 CST",
-          "fecha_iso": "2026-06-25T06:11:00-06:00",
-          "fuente": "Telegram @jornadaedomex",
-          "url": "https://t.me/jornadaedomex/11176",
+          "fecha": "25 junio 2026 · 07:47 CST",
+          "fecha_iso": "2026-06-25T07:47:00-06:00",
+          "fuente": "Eje Central",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNN1FWaE1xV19vbThDdU9uSzVNQnBlQUViWjRnaUNFQk9qWXJGMElrSFJiMzI2M3RZc1Y0N1FJZzFUdGZFVkwzX0oxRy1ib2ZWWkJPREdHLWdhdWxhV3pYOUFSWTQtSDNmYnJDUWJvMHhQR1UxN1FUdEtwUHZKNm1mM0s3WVJuSDROU2xaOEZNaDNGcTR6T3VwT3RweGR5QXFOa0hkY0l0d1AzMENZdXZTY001Uzgxd2dxVHpNNngwbmNKc25sa1FJbnNIYVlKaG5RcjRBVDF2SVBEU1JkZFBJRENmUVVNSWM?oc=5",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 21.0,
-          "lon": -104.0
+          "badge_txt": "BLOQUEO"
         }
       ]
     }
   ],
   "para_mapa": [
     {
-      "id": "3eed1b85",
-      "tipo": "bloqueo",
-      "ruta": "carretera federal 115",
-      "descripcion": "🔴 #EnPortada | Por más de tres horas, transportistas de AMOTAC bloquearon la carretera federal 115, México-Cuautla.\n https://lajornadaestadodemexico.com/bloqueos-de-amotac-en-la-carretera-mexico-cuautla-y-calzada-zaragoza-generaron-caos-vial/",
-      "fecha": "25 junio 2026 · 06:11 CST",
-      "fuente": "Telegram @jornadaedomex",
-      "url": "https://t.me/jornadaedomex/11176",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 21.0,
-      "lon": -104.0
+      "id": "ead06825",
+      "tipo": "cierre_total",
+      "ruta": "autopista Tehuacán-Oaxaca por deslave",
+      "descripcion": "Paso intermitente en la autopista Tehuacán-Oaxaca por deslave. El deslizamiento no dejó vehículos afectados ni personas lesionadas",
+      "fecha": "25 junio 2026 · 08:27 CST",
+      "fuente": "Quadratín Oaxaca",
+      "url": "https://oaxaca.quadratin.com.mx/paso-intermitente-en-la-autopista-tehuacan-oaxaca-por-deslave/",
+      "dot_color": "#e74c3c",
+      "badge_txt": "CIERRE TOTAL",
+      "lat": 17.06,
+      "lon": -96.72
+    },
+    {
+      "id": "b4b15861",
+      "tipo": "cierre_total",
+      "ruta": "Deslave de Talud Invade Carril de la Carretera Cuacnopalan-Oaxaca -…",
+      "descripcion": "Deslave de Talud Invade Carril de la Carretera Cuacnopalan-Oaxaca - N+. Deslave de Talud Invade Carril de la Carretera Cuacnopalan-Oaxaca N+",
+      "fecha": "25 junio 2026 · 07:40 CST",
+      "fuente": "N+",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOaFcxSzhqX29Edk9JQmlfUXBVQ3k0V3lLRFpDY0I5SUpHUjNObW9Ga0FiUTAyc2xWdDM2WnliN1k1YjB6MUtWQlQ5UXlpeFg5dU01T3ZZbWFSSnpubTdadUlPTXROMU01a3BtZEV2c0VDbVlYTnA0bnBuYWhyNmRURTFwSC01VktoOFFUV09ERFZiUjdMVGZpZFZST1hEOU5OYjRHWER0VVpLdm5mb2Y2cEg2dUpfbWwyeEtwN0tFcDBRNktMeWp2VktLajVxMzQ?oc=5",
+      "dot_color": "#e74c3c",
+      "badge_txt": "CIERRE TOTAL",
+      "lat": 17.06,
+      "lon": -96.72
     }
   ]
 }
