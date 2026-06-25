@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-06-24T18:09:00.382091-06:00",
-  "ultima_actualizacion_legible": "24 de junio de 2026 · 18:09 CST",
-  "total": 4,
+  "ultima_actualizacion": "2026-06-24T22:34:53.095032-06:00",
+  "ultima_actualizacion_legible": "24 de junio de 2026 · 22:34 CST",
+  "total": 2,
   "ventana": "últimos 180 minutos",
   "fuentes": [
     "Google News",
@@ -16,112 +16,51 @@
       "col2": false,
       "alertas": [
         {
-          "id": "9da46776",
+          "id": "bb92acd3",
           "tipo": "bloqueo",
-          "ruta": "Bloqueo de transportistas HOY miércoles 24 de junio: tráfico en…",
-          "descripcion": "Bloqueo de transportistas HOY miércoles 24 de junio: tráfico en autopistas de México |EN VIVO - TV Azteca. Bloqueo de transportistas HOY miércoles 24 de junio: tráfico en autopistas de México |EN VIVO TV Azteca",
+          "ruta": "Bloqueo en carreteras de México HOY miércoles 24 de junio:…",
+          "descripcion": "Bloqueo en carreteras de México HOY miércoles 24 de junio: auto se incendia en la México-Querétaro - TV Azteca. Bloqueo en carreteras de México HOY miércoles 24 de junio: auto se incendia en la México-Querétaro TV Azteca",
           "recomendacion": "",
-          "fecha": "24 junio 2026 · 16:08 CST",
-          "fecha_iso": "2026-06-24T16:08:00-06:00",
+          "fecha": "24 junio 2026 · 20:09 CST",
+          "fecha_iso": "2026-06-24T20:09:00-06:00",
           "fuente": "TV Azteca",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaUxReUtCc3lqNXAxSVRSS2NsQnpramg5TTVvZEt2a2laazc3WG05M1lsUUhDN1ZUT0xRNjBjQUY0ZHE5Z2RnZXIxMkZPRTVtcDVfUmpNY0dFMTZURHloZjlwY3hsdUpXT0s0UnFfZmNWZ3V6SXZQOVVuS211eTBTemdCZ3h4eVY3XzBYWVlHeUhRN0VSWHpQc2F30gGnAUFVX3lxTE1jOFhSNjN1UTFjZGRRX0JZbFlXc1BRcVRYTkFrdG5VZE4zSEMtWXNKSk5OY29nWENBYzlYSnJfcXhjcG5xd3VOOVBmcW9MUUlKSzF0eFdYYVRSUExyOGVmTVpoUHVwTndPQUptQXpjd2Y5V2ZTTkJsNXJtbHB1YWVpT0l6OHBZU0V3VGRZUkNFZE5WZjYxUnd3cVpSTXdKN1VPajFxNGpN?oc=5",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
+          "badge_txt": "BLOQUEO",
+          "lat": 20.1,
+          "lon": -99.5
         },
         {
-          "id": "1a2383e2",
+          "id": "776383be",
           "tipo": "bloqueo",
-          "ruta": "Integrantes de la Amotac protestaron en diferentes autopistas de México…",
-          "descripcion": "Integrantes de la Amotac protestaron en diferentes autopistas de México - La Jornada. Integrantes de la Amotac protestaron en diferentes autopistas de México La Jornada",
+          "ruta": "Paro de transportistas: ¿Cuándo inician las manifestaciones y hacia dónde…",
+          "descripcion": "Paro de transportistas: ¿Cuándo inician las manifestaciones y hacia dónde se [dirigen?](http://telegra.ph/Paro-de-transportistas-Cuándo-inician-las-manifestaciones-y-hacia-dónde-se-dirigen-06-23)\n\n__via__ [www.informador.mx](https://www.informador.mx/mexico/paro-de-transportistas-cuando-inician-las-manifestaciones-y-hacia-donde-se-dirigen-20260623-0060.html)",
           "recomendacion": "",
-          "fecha": "24 junio 2026 · 15:22 CST",
-          "fecha_iso": "2026-06-24T15:22:00-06:00",
-          "fuente": "La Jornada",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxObDc1NTFRRURVV09sdEIxc3h5NENKc0tZbEJkN3VxeHdtTk1ETEhhUmdhUVBLMjhGeC10NUtYemUteU1vc3RMWXFfQ1gzUjBXN29iaWVCY2pIMkxZZjUtUmFDT05tdEsxa01tMktPbzJGU1NBSTFiR0kxbVJaVVVodmFPd04zUU1HTTRYZ3hfdzM3TF9oMnkwVlJZa2tXdzI3blAyTC1aOVI4MnA3ZHcwSXhUbzJqZU9iaHFIRDdNdG1oc0FKcE5fa0VaRll4QnRSYlVrd3ZFSlNuSUFUM2c?oc=5",
+          "fecha": "24 junio 2026 · 20:06 CST",
+          "fecha_iso": "2026-06-24T20:06:00-06:00",
+          "fuente": "Telegram @NOTMEX",
+          "url": "https://t.me/NOTMEX/184090",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO"
-        }
-      ]
-    },
-    {
-      "tipo": "robo",
-      "color": "rojo",
-      "icono": "🚨",
-      "label": "ROBOS EN CARRETERA",
-      "col2": true,
-      "alertas": [
-        {
-          "id": "32d1523d",
-          "tipo": "robo",
-          "ruta": "Trailero Sufre Secuestro Exprés tras Intento de Robo de Pipa…",
-          "descripcion": "Trailero Sufre Secuestro Exprés tras Intento de Robo de Pipa en la Autopista Puebla-Orizaba - N+. Trailero Sufre Secuestro Exprés tras Intento de Robo de Pipa en la Autopista Puebla-Orizaba N+",
-          "recomendacion": "",
-          "fecha": "24 junio 2026 · 16:52 CST",
-          "fecha_iso": "2026-06-24T16:52:00-06:00",
-          "fuente": "N+",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNakMyblVrSGhHVk9aSDlsTTl3alRBWHZpUndCR0pIdmVLM0hFOFJReF9ZQ2xBRWNLV25VMzMzclNMOFRJUWNwbW1nQW1LVzdweXV0dlNtVk1CUjItOVlUZ1E2U0xnVmlGZVBESWg2emZzYTBsRk1TbmRVeTl6S3lLQzdMS2FoM3lOdUZTTUVoVUp4ZlZfYUdiRnU0SjNhcFQ3MW5sZHp4ZU0xZ1ZsRHczakNCa3VrOUxRZGZhYmVOLXlxN3JnSl83Y0Z1aw?oc=5",
-          "dot_color": "#c0392b",
-          "badge": "badge-robo",
-          "badge_txt": "ROBO",
-          "lat": 19.04,
-          "lon": -98.2
-        }
-      ]
-    },
-    {
-      "tipo": "clima",
-      "color": "azul",
-      "icono": "🌧️",
-      "label": "ALERTA METEOROLÓGICA",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "93c51a3c",
-          "tipo": "clima",
-          "ruta": "Lluvias en Edomex provocan inundaciones, estas son las carreteras [afectadas](http://telegra.ph/Lluvias-en-Edomex-provocan-inundaciones-estas-son-las-carreteras-afectadas-06-23)…",
-          "descripcion": "Lluvias en Edomex provocan inundaciones, estas son las carreteras [afectadas](http://telegra.ph/Lluvias-en-Edomex-provocan-inundaciones-estas-son-las-carreteras-afectadas-06-23)\n\n__via__ [www.informador.mx](https://www.informador.mx/mexico/lluvias-en-edomex-provocan-inundaciones-estas-son-las-carreteras-afectadas-20260623-0016.html)",
-          "recomendacion": "",
-          "fecha": "24 junio 2026 · 16:00 CST",
-          "fecha_iso": "2026-06-24T16:00:00-06:00",
-          "fuente": "Telegram @NOTMEX",
-          "url": "https://t.me/NOTMEX/184085",
-          "dot_color": "#3498db",
-          "badge": "badge-clima",
-          "badge_txt": "ALERTA CLIMA",
-          "lat": 19.35,
-          "lon": -99.7
         }
       ]
     }
   ],
   "para_mapa": [
     {
-      "id": "32d1523d",
-      "tipo": "robo",
-      "ruta": "Trailero Sufre Secuestro Exprés tras Intento de Robo de Pipa…",
-      "descripcion": "Trailero Sufre Secuestro Exprés tras Intento de Robo de Pipa en la Autopista Puebla-Orizaba - N+. Trailero Sufre Secuestro Exprés tras Intento de Robo de Pipa en la Autopista Puebla-Orizaba N+",
-      "fecha": "24 junio 2026 · 16:52 CST",
-      "fuente": "N+",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNakMyblVrSGhHVk9aSDlsTTl3alRBWHZpUndCR0pIdmVLM0hFOFJReF9ZQ2xBRWNLV25VMzMzclNMOFRJUWNwbW1nQW1LVzdweXV0dlNtVk1CUjItOVlUZ1E2U0xnVmlGZVBESWg2emZzYTBsRk1TbmRVeTl6S3lLQzdMS2FoM3lOdUZTTUVoVUp4ZlZfYUdiRnU0SjNhcFQ3MW5sZHp4ZU0xZ1ZsRHczakNCa3VrOUxRZGZhYmVOLXlxN3JnSl83Y0Z1aw?oc=5",
-      "dot_color": "#c0392b",
-      "badge_txt": "ROBO",
-      "lat": 19.04,
-      "lon": -98.2
-    },
-    {
-      "id": "93c51a3c",
-      "tipo": "clima",
-      "ruta": "Lluvias en Edomex provocan inundaciones, estas son las carreteras [afectadas](http://telegra.ph/Lluvias-en-Edomex-provocan-inundaciones-estas-son-las-carreteras-afectadas-06-23)…",
-      "descripcion": "Lluvias en Edomex provocan inundaciones, estas son las carreteras [afectadas](http://telegra.ph/Lluvias-en-Edomex-provocan-inundaciones-estas-son-las-carreteras-afectadas-06-23)\n\n__via__ [www.informador.mx](https://www.informador.mx/mexico/lluvias-en-edomex-provocan-inundaciones-estas-son-las-carreteras-afectadas-20260623-0016.html)",
-      "fecha": "24 junio 2026 · 16:00 CST",
-      "fuente": "Telegram @NOTMEX",
-      "url": "https://t.me/NOTMEX/184085",
-      "dot_color": "#3498db",
-      "badge_txt": "ALERTA CLIMA",
-      "lat": 19.35,
-      "lon": -99.7
+      "id": "bb92acd3",
+      "tipo": "bloqueo",
+      "ruta": "Bloqueo en carreteras de México HOY miércoles 24 de junio:…",
+      "descripcion": "Bloqueo en carreteras de México HOY miércoles 24 de junio: auto se incendia en la México-Querétaro - TV Azteca. Bloqueo en carreteras de México HOY miércoles 24 de junio: auto se incendia en la México-Querétaro TV Azteca",
+      "fecha": "24 junio 2026 · 20:09 CST",
+      "fuente": "TV Azteca",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaUxReUtCc3lqNXAxSVRSS2NsQnpramg5TTVvZEt2a2laazc3WG05M1lsUUhDN1ZUT0xRNjBjQUY0ZHE5Z2RnZXIxMkZPRTVtcDVfUmpNY0dFMTZURHloZjlwY3hsdUpXT0s0UnFfZmNWZ3V6SXZQOVVuS211eTBTemdCZ3h4eVY3XzBYWVlHeUhRN0VSWHpQc2F30gGnAUFVX3lxTE1jOFhSNjN1UTFjZGRRX0JZbFlXc1BRcVRYTkFrdG5VZE4zSEMtWXNKSk5OY29nWENBYzlYSnJfcXhjcG5xd3VOOVBmcW9MUUlKSzF0eFdYYVRSUExyOGVmTVpoUHVwTndPQUptQXpjd2Y5V2ZTTkJsNXJtbHB1YWVpT0l6OHBZU0V3VGRZUkNFZE5WZjYxUnd3cVpSTXdKN1VPajFxNGpN?oc=5",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 20.1,
+      "lon": -99.5
     }
   ]
 }
