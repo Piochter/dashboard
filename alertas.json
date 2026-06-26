@@ -1,6 +1,6 @@
 {
-  "ultima_actualizacion": "2026-06-26T16:11:20.295521-06:00",
-  "ultima_actualizacion_legible": "26 de junio de 2026 · 16:11 CST",
+  "ultima_actualizacion": "2026-06-26T17:35:52.138884-06:00",
+  "ultima_actualizacion_legible": "26 de junio de 2026 · 17:35 CST",
   "total": 2,
   "ventana": "últimos 180 minutos",
   "fuentes": [
@@ -39,15 +39,15 @@
       "col2": true,
       "alertas": [
         {
-          "id": "2a905790",
+          "id": "cd7876a4",
           "tipo": "cierre_parcial",
-          "ruta": "¿Qué pasó en el bulevar Solidaridad? Cierran la vialidad por…",
-          "descripcion": "¿Qué pasó en el bulevar Solidaridad? Cierran la vialidad por incendio. Falla mecánica provoca el incendio de un automóvil en el bulevar Solidaridad; Bomberos controlan la emergencia.",
+          "ruta": "Peso mexicano gana terreno al cierre de la jornada…",
+          "descripcion": "Peso mexicano gana terreno al cierre de la jornada. Conoce la cotización de la divisa americana de este 26 de junio de 2026",
           "recomendacion": "",
-          "fecha": "26 junio 2026 · 14:20 CST",
-          "fecha_iso": "2026-06-26T14:20:00-06:00",
-          "fuente": "AM Guanajuato",
-          "url": "https://www.am.com.mx/irapuato/2026/06/26/que-paso-en-el-bulevar-solidaridad-cierran-la-vialidad-por-incendio-1811820.html",
+          "fecha": "26 junio 2026 · 17:16 CST",
+          "fecha_iso": "2026-06-26T17:16:00-06:00",
+          "fuente": "El Informador Jalisco",
+          "url": "https://www.informador.mx/economia/precio-del-dolar-hoy-26-de-junio-de-2026-asi-cerro-el-tipo-de-cambio-frente-al-peso-mexicano-20260626-0165.html",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL"
