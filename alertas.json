@@ -1,12 +1,36 @@
 {
-  "ultima_actualizacion": "2026-06-26T14:47:17.998270-06:00",
-  "ultima_actualizacion_legible": "26 de junio de 2026 · 14:47 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-06-26T16:11:20.295521-06:00",
+  "ultima_actualizacion_legible": "26 de junio de 2026 · 16:11 CST",
+  "total": 2,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Google News"
+    "Medios regionales",
+    "Quadratín + regionales"
   ],
   "grupos": [
+    {
+      "tipo": "bloqueo",
+      "color": "rojo",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "7f7d621f",
+          "tipo": "bloqueo",
+          "ruta": "Hay 14 maestros investigados por la FGR por protestas: CETEG…",
+          "descripcion": "Hay 14 maestros investigados por la FGR por protestas: CETEG. No a la persecución ni a la represión administrativa, llama dirigente",
+          "recomendacion": "",
+          "fecha": "26 junio 2026 · 15:10 CST",
+          "fecha_iso": "2026-06-26T15:10:00-06:00",
+          "fuente": "Quadratín Guerrero",
+          "url": "https://guerrero.quadratin.com.mx/hay-14-maestros-investigados-por-la-fgr-por-protestas-ceteg/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        }
+      ]
+    },
     {
       "tipo": "cierre_parcial",
       "color": "amarillo",
@@ -15,15 +39,15 @@
       "col2": true,
       "alertas": [
         {
-          "id": "3e7b189d",
+          "id": "2a905790",
           "tipo": "cierre_parcial",
-          "ruta": "Cierres masivos paralizan nueve autopistas en México este 26 de…",
-          "descripcion": "Cierres masivos paralizan nueve autopistas en México este 26 de junio - Xpectro. Cierres masivos paralizan nueve autopistas en México este 26 de junio Xpectro",
+          "ruta": "¿Qué pasó en el bulevar Solidaridad? Cierran la vialidad por…",
+          "descripcion": "¿Qué pasó en el bulevar Solidaridad? Cierran la vialidad por incendio. Falla mecánica provoca el incendio de un automóvil en el bulevar Solidaridad; Bomberos controlan la emergencia.",
           "recomendacion": "",
-          "fecha": "26 junio 2026 · 12:32 CST",
-          "fecha_iso": "2026-06-26T12:32:00-06:00",
-          "fuente": "Xpectro",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOU0ZnTElkamZEREhwOFlQQ25udXNjcTVhS2hKanJvUVgzUlV4aWV1c0JzeVRDd1EweGVVTmU5a3ZhaWljektQSVg2NmNrUktOcG9XQUlla3pJRlQ3cE5UbVRMTjhoZEJDTGVjaXBXREVYMVlpY01SYldXUUtxN2FDQkNNRm9FcU5xbWlraFJjazF1UnN3VDNJ?oc=5",
+          "fecha": "26 junio 2026 · 14:20 CST",
+          "fecha_iso": "2026-06-26T14:20:00-06:00",
+          "fuente": "AM Guanajuato",
+          "url": "https://www.am.com.mx/irapuato/2026/06/26/que-paso-en-el-bulevar-solidaridad-cierran-la-vialidad-por-incendio-1811820.html",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL"
