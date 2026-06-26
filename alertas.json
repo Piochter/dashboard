@@ -1,12 +1,51 @@
 {
-  "ultima_actualizacion": "2026-06-26T03:53:06.090348-06:00",
-  "ultima_actualizacion_legible": "26 de junio de 2026 · 03:53 CST",
-  "total": 0,
+  "ultima_actualizacion": "2026-06-26T06:10:45.450669-06:00",
+  "ultima_actualizacion_legible": "26 de junio de 2026 · 06:10 CST",
+  "total": 1,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Google News"
+    "Telegram"
   ],
-  "grupos": [],
-  "para_mapa": [],
-  "nota": "Sin alertas activas en la ventana de tiempo configurada."
+  "grupos": [
+    {
+      "tipo": "cierre_parcial",
+      "color": "amarillo",
+      "icono": "🟡",
+      "label": "CIERRE PARCIAL / ACCIDENTES",
+      "col2": true,
+      "alertas": [
+        {
+          "id": "b5ccd620",
+          "tipo": "cierre_parcial",
+          "ruta": "Colisión múltiple en tijuana deja 30 heridos https://www.jornada.com.mx/2026/06/26/estados/025n4est?partner=rss Un accidente…",
+          "descripcion": "Colisión múltiple en tijuana deja 30 heridos\nhttps://www.jornada.com.mx/2026/06/26/estados/025n4est?partner=rss\n\nUn accidente que involucró 30 vehículos particulares, cuatro unidades de transporte público y un camión de carga, dejó al menos 30 personas heridas ayer en la mañana en Tijuana, Baja California. Testigos señalaron que la unidad pesada presuntamente se quedó sin frenos antes de chocar con el resto de los automotores.",
+          "recomendacion": "",
+          "fecha": "26 junio 2026 · 05:10 CST",
+          "fecha_iso": "2026-06-26T05:10:00-06:00",
+          "fuente": "Telegram @NOTMEX",
+          "url": "https://t.me/NOTMEX/184127",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 30.84,
+          "lon": -115.28
+        }
+      ]
+    }
+  ],
+  "para_mapa": [
+    {
+      "id": "b5ccd620",
+      "tipo": "cierre_parcial",
+      "ruta": "Colisión múltiple en tijuana deja 30 heridos https://www.jornada.com.mx/2026/06/26/estados/025n4est?partner=rss Un accidente…",
+      "descripcion": "Colisión múltiple en tijuana deja 30 heridos\nhttps://www.jornada.com.mx/2026/06/26/estados/025n4est?partner=rss\n\nUn accidente que involucró 30 vehículos particulares, cuatro unidades de transporte público y un camión de carga, dejó al menos 30 personas heridas ayer en la mañana en Tijuana, Baja California. Testigos señalaron que la unidad pesada presuntamente se quedó sin frenos antes de chocar con el resto de los automotores.",
+      "fecha": "26 junio 2026 · 05:10 CST",
+      "fuente": "Telegram @NOTMEX",
+      "url": "https://t.me/NOTMEX/184127",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 30.84,
+      "lon": -115.28
+    }
+  ]
 }
