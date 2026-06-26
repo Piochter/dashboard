@@ -1,12 +1,49 @@
 {
-  "ultima_actualizacion": "2026-06-26T06:10:45.450669-06:00",
-  "ultima_actualizacion_legible": "26 de junio de 2026 · 06:10 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-06-26T08:48:59.451121-06:00",
+  "ultima_actualizacion_legible": "26 de junio de 2026 · 08:48 CST",
+  "total": 4,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Telegram"
+    "Google News"
   ],
   "grupos": [
+    {
+      "tipo": "bloqueo",
+      "color": "rojo",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "14c4a412",
+          "tipo": "bloqueo",
+          "ruta": "Bloqueos carreteras HOY viernes 26 de junio: Autopistas cerradas en…",
+          "descripcion": "Bloqueos carreteras HOY viernes 26 de junio: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY viernes 26 de junio: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
+          "recomendacion": "",
+          "fecha": "26 junio 2026 · 07:18 CST",
+          "fecha_iso": "2026-06-26T07:18:00-06:00",
+          "fuente": "Eje Central",
+          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQN0llWk5HOEJUalV3eGVKN1pKZHQ3Q1c0VVRzWTQzU0ZsOTl6UHNXQko3cFZ2Z0diamduakFHYmlZNlJLaWxHTDEwZ2ZFdHVKWGoxblFTVEZWNURwbW1CUS1oRTRjajJBeFB0SlFraDBOLTlNckYxcHBUbVZQRi1DRlcyLXR2S0FCbnNGamlRamxlaG5FWG9tR2hDOW1PV1U2T2pBWkM3LV9SY095WTFNR0VzcnotcjJqcWp0VGJIc1p1MDNPZHg0NzIwdFktSnVxYUU5S3pwQ0FLbFhTRTJXblg3SHBCV2FHMTR6UnVfYXViUQ?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
+        {
+          "id": "e1e25857",
+          "tipo": "bloqueo",
+          "ruta": "Bloqueo de Carreteras Hoy: ¿Dónde Hay Autopistas Cerradas en México?…",
+          "descripcion": "Bloqueo de Carreteras Hoy: ¿Dónde Hay Autopistas Cerradas en México? - N+. Bloqueo de Carreteras Hoy: ¿Dónde Hay Autopistas Cerradas en México? N+",
+          "recomendacion": "",
+          "fecha": "26 junio 2026 · 07:08 CST",
+          "fecha_iso": "2026-06-26T07:08:00-06:00",
+          "fuente": "N+",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRTNkSVk4QVJJSk9PTUdCUU42TGxtRk05a3BJQ2N6MVd1bVpJOElLV2tlNXNJcVl4b3pDMkN5VTREVFZkLWw0NFRFMmpzTjlybjNBS0dqVTVWVGp5V1l4WHlvRDZKdGh1dFFOVk9uNkxkSEFGaUtSbXB1WExhTjJ2R3VPMnBobG9fSlgwV2dDZXB3enVSQ19DM19TQlpGWEcwTzh4bkNMT0hLeVBzMkRzV3N0aUtxTjRXTXY4RkV3?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        }
+      ]
+    },
     {
       "tipo": "cierre_parcial",
       "color": "amarillo",
@@ -15,37 +52,66 @@
       "col2": true,
       "alertas": [
         {
-          "id": "b5ccd620",
+          "id": "17403079",
           "tipo": "cierre_parcial",
-          "ruta": "Colisión múltiple en tijuana deja 30 heridos https://www.jornada.com.mx/2026/06/26/estados/025n4est?partner=rss Un accidente…",
-          "descripcion": "Colisión múltiple en tijuana deja 30 heridos\nhttps://www.jornada.com.mx/2026/06/26/estados/025n4est?partner=rss\n\nUn accidente que involucró 30 vehículos particulares, cuatro unidades de transporte público y un camión de carga, dejó al menos 30 personas heridas ayer en la mañana en Tijuana, Baja California. Testigos señalaron que la unidad pesada presuntamente se quedó sin frenos antes de chocar con el resto de los automotores.",
+          "ruta": "¿Viajas a CDMX? Accidente en la México-Puebla: Carreteras hoy 26…",
+          "descripcion": "¿Viajas a CDMX? Accidente en la México-Puebla: Carreteras hoy 26 de junio - TV Azteca. ¿Viajas a CDMX? Accidente en la México-Puebla: Carreteras hoy 26 de junio TV Azteca",
           "recomendacion": "",
-          "fecha": "26 junio 2026 · 05:10 CST",
-          "fecha_iso": "2026-06-26T05:10:00-06:00",
-          "fuente": "Telegram @NOTMEX",
-          "url": "https://t.me/NOTMEX/184127",
+          "fecha": "26 junio 2026 · 07:53 CST",
+          "fecha_iso": "2026-06-26T07:53:00-06:00",
+          "fuente": "TV Azteca",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRnVhY0pBUEliWXRTV3FrWlZ5R1NqRGt4QmNrOC1lZ0hTbUxfTGF4bzM5MUw1d3VWUlpFN3VrS2xvZGFEdFFSam9tOUN6ZmFLeFJyeDZ5bENZTnAteTVyVWZpbFBMZkIzM29jNWRiQ1owQXhGMF9KRm5nZ3dPNlFpR3FlMVZnM0taM2V5Yk1GSmRURllfcWNPZlBFUTJhaUXSAawBQVVfeXFMUExqWDBDc0pmQmRrajNjYlhUMGU4dGVYem1fQlFkR1ppNktFQmNvWGZRXzgycXd4a3cwWm8tMmMzXzJUR0N3SXlQZFJDQ2dXdktrelpmLUYtSXJlMkdPVVVteWJBZmtIdDA4RFlVemZFWTZPWVZaNUNvQ0Z3Y1F1djF3ZTA0dkF2V0xNUEJBbUhESXNKN1VjVmo5YmhnLV9lYnNqc05xQjAyMVQ2Zw?oc=5",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL",
-          "lat": 30.84,
-          "lon": -115.28
+          "lat": 19.35,
+          "lon": -98.4
+        },
+        {
+          "id": "13f38c9e",
+          "tipo": "cierre_parcial",
+          "ruta": "carretera Villahermosa – Escárcega por desmantelamiento de puente peatonal - XEVT",
+          "descripcion": "Anuncia SICT Tabasco cierre parcial en la carretera Villahermosa – Escárcega por desmantelamiento de puente peatonal - XEVT. Anuncia SICT Tabasco cierre parcial en la carretera Villahermosa – Escárcega por desmantelamiento de puente peatonal XEVT",
+          "recomendacion": "",
+          "fecha": "26 junio 2026 · 07:40 CST",
+          "fecha_iso": "2026-06-26T07:40:00-06:00",
+          "fuente": "XEVT",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOdDhudDJZS294M1B5bHZLVWF5cGVfSDFKc1lTS05SdnpIZ3g2a3E3X3JXRlI3UEhhVF91a1RpMXQySHZFZVJ3emdFb3NtOGliakF2WjBRN0kyZ2dhSmZEMTdUMXZic2Fxa1M5cFUtRXFTRnMzRGhxem1IZXo4Q1FveWpNMGVadThra3FiY1pKeERaU2tYNy01bUdZcVFBcWVxQi1DcW4tUmZxMWNPYW1lOVpfX19jcWliYy1lYXZVWE15aVBjdE5ja2FDUlc5aGVvN0lmZXVFXzZmdFJwangwLV9hVlNnZw?oc=5",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 17.99,
+          "lon": -92.93
         }
       ]
     }
   ],
   "para_mapa": [
     {
-      "id": "b5ccd620",
+      "id": "17403079",
       "tipo": "cierre_parcial",
-      "ruta": "Colisión múltiple en tijuana deja 30 heridos https://www.jornada.com.mx/2026/06/26/estados/025n4est?partner=rss Un accidente…",
-      "descripcion": "Colisión múltiple en tijuana deja 30 heridos\nhttps://www.jornada.com.mx/2026/06/26/estados/025n4est?partner=rss\n\nUn accidente que involucró 30 vehículos particulares, cuatro unidades de transporte público y un camión de carga, dejó al menos 30 personas heridas ayer en la mañana en Tijuana, Baja California. Testigos señalaron que la unidad pesada presuntamente se quedó sin frenos antes de chocar con el resto de los automotores.",
-      "fecha": "26 junio 2026 · 05:10 CST",
-      "fuente": "Telegram @NOTMEX",
-      "url": "https://t.me/NOTMEX/184127",
+      "ruta": "¿Viajas a CDMX? Accidente en la México-Puebla: Carreteras hoy 26…",
+      "descripcion": "¿Viajas a CDMX? Accidente en la México-Puebla: Carreteras hoy 26 de junio - TV Azteca. ¿Viajas a CDMX? Accidente en la México-Puebla: Carreteras hoy 26 de junio TV Azteca",
+      "fecha": "26 junio 2026 · 07:53 CST",
+      "fuente": "TV Azteca",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRnVhY0pBUEliWXRTV3FrWlZ5R1NqRGt4QmNrOC1lZ0hTbUxfTGF4bzM5MUw1d3VWUlpFN3VrS2xvZGFEdFFSam9tOUN6ZmFLeFJyeDZ5bENZTnAteTVyVWZpbFBMZkIzM29jNWRiQ1owQXhGMF9KRm5nZ3dPNlFpR3FlMVZnM0taM2V5Yk1GSmRURllfcWNPZlBFUTJhaUXSAawBQVVfeXFMUExqWDBDc0pmQmRrajNjYlhUMGU4dGVYem1fQlFkR1ppNktFQmNvWGZRXzgycXd4a3cwWm8tMmMzXzJUR0N3SXlQZFJDQ2dXdktrelpmLUYtSXJlMkdPVVVteWJBZmtIdDA4RFlVemZFWTZPWVZaNUNvQ0Z3Y1F1djF3ZTA0dkF2V0xNUEJBbUhESXNKN1VjVmo5YmhnLV9lYnNqc05xQjAyMVQ2Zw?oc=5",
       "dot_color": "#e67e22",
       "badge_txt": "CIERRE PARCIAL",
-      "lat": 30.84,
-      "lon": -115.28
+      "lat": 19.35,
+      "lon": -98.4
+    },
+    {
+      "id": "13f38c9e",
+      "tipo": "cierre_parcial",
+      "ruta": "carretera Villahermosa – Escárcega por desmantelamiento de puente peatonal - XEVT",
+      "descripcion": "Anuncia SICT Tabasco cierre parcial en la carretera Villahermosa – Escárcega por desmantelamiento de puente peatonal - XEVT. Anuncia SICT Tabasco cierre parcial en la carretera Villahermosa – Escárcega por desmantelamiento de puente peatonal XEVT",
+      "fecha": "26 junio 2026 · 07:40 CST",
+      "fuente": "XEVT",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOdDhudDJZS294M1B5bHZLVWF5cGVfSDFKc1lTS05SdnpIZ3g2a3E3X3JXRlI3UEhhVF91a1RpMXQySHZFZVJ3emdFb3NtOGliakF2WjBRN0kyZ2dhSmZEMTdUMXZic2Fxa1M5cFUtRXFTRnMzRGhxem1IZXo4Q1FveWpNMGVadThra3FiY1pKeERaU2tYNy01bUdZcVFBcWVxQi1DcW4tUmZxMWNPYW1lOVpfX19jcWliYy1lYXZVWE15aVBjdE5ja2FDUlc5aGVvN0lmZXVFXzZmdFJwangwLV9hVlNnZw?oc=5",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 17.99,
+      "lon": -92.93
     }
   ]
 }
