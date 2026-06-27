@@ -1,11 +1,9 @@
 {
-  "ultima_actualizacion": "2026-06-27T10:47:39.529234-06:00",
-  "ultima_actualizacion_legible": "27 de junio de 2026 · 10:47 CST",
-  "total": 4,
+  "ultima_actualizacion": "2026-06-27T12:00:41.960389-06:00",
+  "ultima_actualizacion_legible": "27 de junio de 2026 · 12:00 CST",
+  "total": 2,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Google News",
-    "Medios regionales",
     "Telegram"
   ],
   "grupos": [
@@ -31,34 +29,6 @@
           "badge_txt": "BLOQUEO",
           "lat": 24.8,
           "lon": -107.39
-        },
-        {
-          "id": "d0d27c45",
-          "tipo": "bloqueo",
-          "ruta": "Acusa SUEUM acuerdos sin cumplir; emplaza a otra huelga para…",
-          "descripcion": "Acusa SUEUM acuerdos sin cumplir; emplaza a otra huelga para agosto. Señalan que aún hay 28 trabajadores que esperan el pago de sus ayudas",
-          "recomendacion": "",
-          "fecha": "27 junio 2026 · 09:00 CST",
-          "fecha_iso": "2026-06-27T09:00:00-06:00",
-          "fuente": "Quadratín Michoacán",
-          "url": "https://www.quadratin.com.mx/educativas/acusa-sueum-acuerdos-sin-cumplir-emplaza-a-otra-huelga-para-agosto/",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        },
-        {
-          "id": "b7702968",
-          "tipo": "bloqueo",
-          "ruta": "Bloqueos carreteras HOY 27 de junio: Autopistas cerradas en México,…",
-          "descripcion": "Bloqueos carreteras HOY 27 de junio: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 27 de junio: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
-          "recomendacion": "",
-          "fecha": "27 junio 2026 · 08:20 CST",
-          "fecha_iso": "2026-06-27T08:20:00-06:00",
-          "fuente": "Eje Central",
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPblpVek9WN1NVQmhJOVNXQko1SVAzN2ZLZVFwSTYxaUZJYzJ6NTh0SDZZRVlmRWdIU25qdmpFeVNhdFZlVmJhWWozV2JKMDg1NUFGeWU1SlVGNVVySkxJUU5yWkFPME1VOGVMd1IweWxVeVY0MUUwSFYwR3JRenEtTHRvSFFGLXJCRkVwVU9ZdVRkbloxaEZ5ZzhSYmxfN3VIZnJ4OTN0Rm0yRVlrU1NOQ043UGhvbTNGQW1nTVhReW1pYVhZWFNkcF9OT2VxUTNBZFI0VV9jRzlnR0hSUVFfZUNzZUNlVEk?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
         }
       ]
     },
