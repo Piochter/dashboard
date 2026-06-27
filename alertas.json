@@ -1,38 +1,12 @@
 {
-  "ultima_actualizacion": "2026-06-26T19:35:45.957285-06:00",
-  "ultima_actualizacion_legible": "26 de junio de 2026 · 19:35 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-06-26T23:40:00.303287-06:00",
+  "ultima_actualizacion_legible": "26 de junio de 2026 · 23:40 CST",
+  "total": 1,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Medios regionales",
-    "Quadratín + regionales"
+    "Medios regionales"
   ],
   "grupos": [
-    {
-      "tipo": "bloqueo",
-      "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "870a10ec",
-          "tipo": "bloqueo",
-          "ruta": "Lleva 26 días paro en el Colegio Superior Agropecuario de…",
-          "descripcion": "Lleva 26 días paro en el Colegio Superior Agropecuario de Guerrero. Trabajadores y alumnos exigen la renuncia del director general por presunta corrupción",
-          "recomendacion": "",
-          "fecha": "26 junio 2026 · 17:35 CST",
-          "fecha_iso": "2026-06-26T17:35:00-06:00",
-          "fuente": "Quadratín Guerrero",
-          "url": "https://guerrero.quadratin.com.mx/lleva-26-dias-paro-en-el-colegio-superior-agropecuario-de-guerrero/",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 17.55,
-          "lon": -99.5
-        }
-      ]
-    },
     {
       "tipo": "cierre_parcial",
       "color": "amarillo",
@@ -41,15 +15,15 @@
       "col2": true,
       "alertas": [
         {
-          "id": "cd7876a4",
+          "id": "ec0372e3",
           "tipo": "cierre_parcial",
-          "ruta": "Peso mexicano gana terreno al cierre de la jornada…",
-          "descripcion": "Peso mexicano gana terreno al cierre de la jornada. Conoce la cotización de la divisa americana de este 26 de junio de 2026",
+          "ruta": "México solo espera entre Ecuador y Escocia para su próximo…",
+          "descripcion": "México solo espera entre Ecuador y Escocia para su próximo rival. Con la definición del Grupo H y el cierre de la fase de grupos, Ecuador se perfila como el rival casi confirmado para México en los dieciseisavos de final, dejando a Escocia con apenas un margen matemático mínimo para sorpresa",
           "recomendacion": "",
-          "fecha": "26 junio 2026 · 17:16 CST",
-          "fecha_iso": "2026-06-26T17:16:00-06:00",
+          "fecha": "26 junio 2026 · 21:31 CST",
+          "fecha_iso": "2026-06-26T21:31:00-06:00",
           "fuente": "El Informador Jalisco",
-          "url": "https://www.informador.mx/economia/precio-del-dolar-hoy-26-de-junio-de-2026-asi-cerro-el-tipo-de-cambio-frente-al-peso-mexicano-20260626-0165.html",
+          "url": "https://www.informador.mx/deportes/mundial-2026-mexico-solo-espera-entre-ecuador-y-escocia-para-su-proximo-rival-20260626-0214.html",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL"
@@ -57,19 +31,5 @@
       ]
     }
   ],
-  "para_mapa": [
-    {
-      "id": "870a10ec",
-      "tipo": "bloqueo",
-      "ruta": "Lleva 26 días paro en el Colegio Superior Agropecuario de…",
-      "descripcion": "Lleva 26 días paro en el Colegio Superior Agropecuario de Guerrero. Trabajadores y alumnos exigen la renuncia del director general por presunta corrupción",
-      "fecha": "26 junio 2026 · 17:35 CST",
-      "fuente": "Quadratín Guerrero",
-      "url": "https://guerrero.quadratin.com.mx/lleva-26-dias-paro-en-el-colegio-superior-agropecuario-de-guerrero/",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 17.55,
-      "lon": -99.5
-    }
-  ]
+  "para_mapa": []
 }
