@@ -1,11 +1,12 @@
 {
-  "ultima_actualizacion": "2026-06-27T09:39:59.977724-06:00",
-  "ultima_actualizacion_legible": "27 de junio de 2026 · 09:39 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-06-27T10:47:39.529234-06:00",
+  "ultima_actualizacion_legible": "27 de junio de 2026 · 10:47 CST",
+  "total": 4,
   "ventana": "últimos 180 minutos",
   "fuentes": [
     "Google News",
-    "Medios regionales"
+    "Medios regionales",
+    "Telegram"
   ],
   "grupos": [
     {
@@ -15,6 +16,22 @@
       "label": "BLOQUEOS / MANIFESTACIONES",
       "col2": false,
       "alertas": [
+        {
+          "id": "db76a79b",
+          "tipo": "bloqueo",
+          "ruta": "Registran bloqueos en Sinaloa tras captura de “El Güero Pin”,…",
+          "descripcion": "Registran bloqueos en Sinaloa tras captura de “El Güero Pin”, líder criminal en [Escuinapa](http://telegra.ph/Registran-bloqueos-en-Sinaloa-tras-captura-de-El-Güero-Pin-líder-criminal-en-Escuinapa-06-26)\n\n__via__ [www.informador.mx](https://www.informador.mx/mexico/registran-bloqueos-en-sinaloa-tras-captura-de-el-guero-pin-lider-criminal-en-escuinapa-20260625-0186.html)",
+          "recomendacion": "",
+          "fecha": "27 junio 2026 · 09:53 CST",
+          "fecha_iso": "2026-06-27T09:53:00-06:00",
+          "fuente": "Telegram @NOTMEX",
+          "url": "https://t.me/NOTMEX/184146",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 24.8,
+          "lon": -107.39
+        },
         {
           "id": "d0d27c45",
           "tipo": "bloqueo",
@@ -53,21 +70,50 @@
       "col2": true,
       "alertas": [
         {
-          "id": "11df2009",
+          "id": "628fa0bb",
           "tipo": "cierre_parcial",
-          "ruta": "Parálisis nacional: cierres viales y siniestros ahogan a México hoy…",
-          "descripcion": "Parálisis nacional: cierres viales y siniestros ahogan a México hoy - Xpectro. Parálisis nacional: cierres viales y siniestros ahogan a México hoy Xpectro",
+          "ruta": "Ponte bloqueador: Península de Yucatán tendrá calor intenso este viernes…",
+          "descripcion": "Ponte bloqueador: Península de Yucatán tendrá calor intenso este viernes 26 de [junio](http://telegra.ph/Ponte-bloqueador-Península-de-Yucatán-tendrá-calor-intenso-este-viernes-26-de-junio-06-26)\n\n__via__ [www.elfinanciero.com.mx](https://www.elfinanciero.com.mx/estados/2026/06/25/clima-en-peninsula-de-yucatan-viernes-26-de-junio-con-calor-intenso-source-ia/)",
           "recomendacion": "",
-          "fecha": "27 junio 2026 · 07:12 CST",
-          "fecha_iso": "2026-06-27T07:12:00-06:00",
-          "fuente": "Xpectro",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZGE2MWZrOURHNWhnYjVnTmFYVEQ3RC1FaGllZVBkN2dFYVJEM3pMLXNOU0QyN0NQcEpKalJUNUgxeU9xcWM2Vm1obFA5VC1aajlhYnM5dmRoLUUtQzBOOXZRWXVITzZySXZETTcwQVE3TVg5X1NLZmVyM2JyYXpzNkVHZFpqRXVxNWJWMTBrbEc0NTg?oc=5",
+          "fecha": "27 junio 2026 · 09:52 CST",
+          "fecha_iso": "2026-06-27T09:52:00-06:00",
+          "fuente": "Telegram @NOTMEX",
+          "url": "https://t.me/NOTMEX/184143",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 20.97,
+          "lon": -89.62
         }
       ]
     }
   ],
-  "para_mapa": []
+  "para_mapa": [
+    {
+      "id": "db76a79b",
+      "tipo": "bloqueo",
+      "ruta": "Registran bloqueos en Sinaloa tras captura de “El Güero Pin”,…",
+      "descripcion": "Registran bloqueos en Sinaloa tras captura de “El Güero Pin”, líder criminal en [Escuinapa](http://telegra.ph/Registran-bloqueos-en-Sinaloa-tras-captura-de-El-Güero-Pin-líder-criminal-en-Escuinapa-06-26)\n\n__via__ [www.informador.mx](https://www.informador.mx/mexico/registran-bloqueos-en-sinaloa-tras-captura-de-el-guero-pin-lider-criminal-en-escuinapa-20260625-0186.html)",
+      "fecha": "27 junio 2026 · 09:53 CST",
+      "fuente": "Telegram @NOTMEX",
+      "url": "https://t.me/NOTMEX/184146",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 24.8,
+      "lon": -107.39
+    },
+    {
+      "id": "628fa0bb",
+      "tipo": "cierre_parcial",
+      "ruta": "Ponte bloqueador: Península de Yucatán tendrá calor intenso este viernes…",
+      "descripcion": "Ponte bloqueador: Península de Yucatán tendrá calor intenso este viernes 26 de [junio](http://telegra.ph/Ponte-bloqueador-Península-de-Yucatán-tendrá-calor-intenso-este-viernes-26-de-junio-06-26)\n\n__via__ [www.elfinanciero.com.mx](https://www.elfinanciero.com.mx/estados/2026/06/25/clima-en-peninsula-de-yucatan-viernes-26-de-junio-con-calor-intenso-source-ia/)",
+      "fecha": "27 junio 2026 · 09:52 CST",
+      "fuente": "Telegram @NOTMEX",
+      "url": "https://t.me/NOTMEX/184143",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 20.97,
+      "lon": -89.62
+    }
+  ]
 }
