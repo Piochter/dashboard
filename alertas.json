@@ -1,6 +1,6 @@
 {
-  "ultima_actualizacion": "2026-06-26T17:35:52.138884-06:00",
-  "ultima_actualizacion_legible": "26 de junio de 2026 · 17:35 CST",
+  "ultima_actualizacion": "2026-06-26T19:35:45.957285-06:00",
+  "ultima_actualizacion_legible": "26 de junio de 2026 · 19:35 CST",
   "total": 2,
   "ventana": "últimos 180 minutos",
   "fuentes": [
@@ -16,18 +16,20 @@
       "col2": false,
       "alertas": [
         {
-          "id": "7f7d621f",
+          "id": "870a10ec",
           "tipo": "bloqueo",
-          "ruta": "Hay 14 maestros investigados por la FGR por protestas: CETEG…",
-          "descripcion": "Hay 14 maestros investigados por la FGR por protestas: CETEG. No a la persecución ni a la represión administrativa, llama dirigente",
+          "ruta": "Lleva 26 días paro en el Colegio Superior Agropecuario de…",
+          "descripcion": "Lleva 26 días paro en el Colegio Superior Agropecuario de Guerrero. Trabajadores y alumnos exigen la renuncia del director general por presunta corrupción",
           "recomendacion": "",
-          "fecha": "26 junio 2026 · 15:10 CST",
-          "fecha_iso": "2026-06-26T15:10:00-06:00",
+          "fecha": "26 junio 2026 · 17:35 CST",
+          "fecha_iso": "2026-06-26T17:35:00-06:00",
           "fuente": "Quadratín Guerrero",
-          "url": "https://guerrero.quadratin.com.mx/hay-14-maestros-investigados-por-la-fgr-por-protestas-ceteg/",
+          "url": "https://guerrero.quadratin.com.mx/lleva-26-dias-paro-en-el-colegio-superior-agropecuario-de-guerrero/",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
+          "badge_txt": "BLOQUEO",
+          "lat": 17.55,
+          "lon": -99.5
         }
       ]
     },
@@ -55,5 +57,19 @@
       ]
     }
   ],
-  "para_mapa": []
+  "para_mapa": [
+    {
+      "id": "870a10ec",
+      "tipo": "bloqueo",
+      "ruta": "Lleva 26 días paro en el Colegio Superior Agropecuario de…",
+      "descripcion": "Lleva 26 días paro en el Colegio Superior Agropecuario de Guerrero. Trabajadores y alumnos exigen la renuncia del director general por presunta corrupción",
+      "fecha": "26 junio 2026 · 17:35 CST",
+      "fuente": "Quadratín Guerrero",
+      "url": "https://guerrero.quadratin.com.mx/lleva-26-dias-paro-en-el-colegio-superior-agropecuario-de-guerrero/",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 17.55,
+      "lon": -99.5
+    }
+  ]
 }
