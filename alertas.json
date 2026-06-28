@@ -1,51 +1,12 @@
 {
-  "ultima_actualizacion": "2026-06-27T19:55:59.763951-06:00",
-  "ultima_actualizacion_legible": "27 de junio de 2026 · 19:55 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-06-28T00:16:33.402066-06:00",
+  "ultima_actualizacion_legible": "28 de junio de 2026 · 00:16 CST",
+  "total": 0,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Medios regionales"
+    "Google News"
   ],
-  "grupos": [
-    {
-      "tipo": "cierre_total",
-      "color": "rojo",
-      "icono": "🔴",
-      "label": "CIERRE TOTAL",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "2142c1f1",
-          "tipo": "cierre_total",
-          "ruta": "Conoce a Héctor Méndez, el 'topo' mexicano de 80 años…",
-          "descripcion": "Conoce a Héctor Méndez, el 'topo' mexicano de 80 años que ahora apoya en Venezuela. El rescatista tiene 40 años de carrera y ha atendido 3 catástrofes en Venezuela: un terremoto en 1997, un deslave en 1999 y el terremoto doble de este 2026",
-          "recomendacion": "",
-          "fecha": "27 junio 2026 · 17:37 CST",
-          "fecha_iso": "2026-06-27T17:37:00-06:00",
-          "fuente": "El Informador Jalisco",
-          "url": "https://www.informador.mx/mexico/tiene-80-anos-y-apoya-en-venezuela-tras-los-terremotos-el-es-hector-mendez-el-topo-mexicano-que-recorre-el-mundo-entre-escombros-20260627-0085.html",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL",
-          "lat": 25.2,
-          "lon": -102.0
-        }
-      ]
-    }
-  ],
-  "para_mapa": [
-    {
-      "id": "2142c1f1",
-      "tipo": "cierre_total",
-      "ruta": "Conoce a Héctor Méndez, el 'topo' mexicano de 80 años…",
-      "descripcion": "Conoce a Héctor Méndez, el 'topo' mexicano de 80 años que ahora apoya en Venezuela. El rescatista tiene 40 años de carrera y ha atendido 3 catástrofes en Venezuela: un terremoto en 1997, un deslave en 1999 y el terremoto doble de este 2026",
-      "fecha": "27 junio 2026 · 17:37 CST",
-      "fuente": "El Informador Jalisco",
-      "url": "https://www.informador.mx/mexico/tiene-80-anos-y-apoya-en-venezuela-tras-los-terremotos-el-es-hector-mendez-el-topo-mexicano-que-recorre-el-mundo-entre-escombros-20260627-0085.html",
-      "dot_color": "#e74c3c",
-      "badge_txt": "CIERRE TOTAL",
-      "lat": 25.2,
-      "lon": -102.0
-    }
-  ]
+  "grupos": [],
+  "para_mapa": [],
+  "nota": "Sin alertas activas en la ventana de tiempo configurada."
 }
