@@ -1,12 +1,61 @@
 {
-  "ultima_actualizacion": "2026-06-28T08:48:24.276734-06:00",
-  "ultima_actualizacion_legible": "28 de junio de 2026 · 08:48 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-06-28T10:09:41.915391-06:00",
+  "ultima_actualizacion_legible": "28 de junio de 2026 · 10:09 CST",
+  "total": 3,
   "ventana": "últimos 180 minutos",
   "fuentes": [
+    "Google News",
     "Telegram"
   ],
   "grupos": [
+    {
+      "tipo": "cierre_total",
+      "color": "rojo",
+      "icono": "🔴",
+      "label": "CIERRE TOTAL",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "9c8feb0f",
+          "tipo": "cierre_total",
+          "ruta": "autopista México-Querétaro - Al Diálogo",
+          "descripcion": "Volcadura de tractocamión y caída de carga bloquea autopista México-Querétaro - Al Diálogo. Volcadura de tractocamión y caída de carga bloquea autopista México-Querétaro Al Diálogo",
+          "recomendacion": "",
+          "fecha": "28 junio 2026 · 08:55 CST",
+          "fecha_iso": "2026-06-28T08:55:00-06:00",
+          "fuente": "Al Diálogo",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbVdMeEstS1Iyem45OVNza1pOaV9jSHRaVDhHSG5MMGtQY1JEN2Z4ck1PX2cwaU80Wk01QktBblJwcFhDLUR4REs1SnAxSUR5c24wVGU2LU0zem95TWI4d0xaSC01NldDeUJMTUlNQ1BKRklwcktmbElzV0dsT25fdkhvNzVKZU1hVldjTTg2d29jbzI1aUR1dWdPT3psM2Qza05yMGJtUFhXNUVqTHNnblAwX25IRzQ?oc=5",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL",
+          "lat": 20.1,
+          "lon": -99.5
+        }
+      ]
+    },
+    {
+      "tipo": "bloqueo",
+      "color": "rojo",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "8ddcbdb4",
+          "tipo": "bloqueo",
+          "ruta": "Bloqueos carreteras HOY 28 de junio: Autopistas cerradas en México,…",
+          "descripcion": "Bloqueos carreteras HOY 28 de junio: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 28 de junio: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
+          "recomendacion": "",
+          "fecha": "28 junio 2026 · 08:45 CST",
+          "fecha_iso": "2026-06-28T08:45:00-06:00",
+          "fuente": "Eje Central",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQQ1ZlM0drWEVxbFkxaUxsVkJXS1lGdTBJeHJFVkhjdHROdUpkQzlrMVItSkp2b2M3c0dlLXRDSU51WnkzMXNhYUNUV0tHQWsyQ3NUWUdhWWhFRW9RZDZsOWtReTZ4ckMyN1FmeDJsUUF4RXpnT3ZSTm1HdlA4czVjeUJNQkdyY1c0TjFzbHUxX1l5YVJmRE9GRnlzTVdOcnVTaDFsZ3ZFVlJ5bjFoWUlhSEgyakxpQU9ZNkg2ZHo5NksyZG11UHlEQU1pRU5EQTNWdC1fRnJFMnhvcVN0SUR6OC1sWkFuTXM?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        }
+      ]
+    },
     {
       "tipo": "cierre_parcial",
       "color": "amarillo",
@@ -34,6 +83,19 @@
     }
   ],
   "para_mapa": [
+    {
+      "id": "9c8feb0f",
+      "tipo": "cierre_total",
+      "ruta": "autopista México-Querétaro - Al Diálogo",
+      "descripcion": "Volcadura de tractocamión y caída de carga bloquea autopista México-Querétaro - Al Diálogo. Volcadura de tractocamión y caída de carga bloquea autopista México-Querétaro Al Diálogo",
+      "fecha": "28 junio 2026 · 08:55 CST",
+      "fuente": "Al Diálogo",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbVdMeEstS1Iyem45OVNza1pOaV9jSHRaVDhHSG5MMGtQY1JEN2Z4ck1PX2cwaU80Wk01QktBblJwcFhDLUR4REs1SnAxSUR5c24wVGU2LU0zem95TWI4d0xaSC01NldDeUJMTUlNQ1BKRklwcktmbElzV0dsT25fdkhvNzVKZU1hVldjTTg2d29jbzI1aUR1dWdPT3psM2Qza05yMGJtUFhXNUVqTHNnblAwX25IRzQ?oc=5",
+      "dot_color": "#e74c3c",
+      "badge_txt": "CIERRE TOTAL",
+      "lat": 20.1,
+      "lon": -99.5
+    },
     {
       "id": "02c9c0d5",
       "tipo": "cierre_parcial",
