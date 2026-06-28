@@ -1,51 +1,12 @@
 {
-  "ultima_actualizacion": "2026-06-28T12:51:19.423845-06:00",
-  "ultima_actualizacion_legible": "28 de junio de 2026 · 12:51 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-06-28T14:12:20.211563-06:00",
+  "ultima_actualizacion_legible": "28 de junio de 2026 · 14:12 CST",
+  "total": 0,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Quadratín + regionales"
+    "Google News"
   ],
-  "grupos": [
-    {
-      "tipo": "bloqueo",
-      "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "beebe253",
-          "tipo": "bloqueo",
-          "ruta": "Segunda voz de Memo Garza es el que resultó herido…",
-          "descripcion": "Segunda voz de Memo Garza es el que resultó herido en la México-Puebla. Uno de los disparos lesionó en el antebrazo izquierdo a Mora Luna",
-          "recomendacion": "",
-          "fecha": "28 junio 2026 · 10:18 CST",
-          "fecha_iso": "2026-06-28T10:18:00-06:00",
-          "fuente": "Quadratín Puebla",
-          "url": "https://puebla.quadratin.com.mx/principal/segunda-voz-de-memo-garza-es-el-que-resulto-herido-en-la-mexico-puebla/",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 19.35,
-          "lon": -98.4
-        }
-      ]
-    }
-  ],
-  "para_mapa": [
-    {
-      "id": "beebe253",
-      "tipo": "bloqueo",
-      "ruta": "Segunda voz de Memo Garza es el que resultó herido…",
-      "descripcion": "Segunda voz de Memo Garza es el que resultó herido en la México-Puebla. Uno de los disparos lesionó en el antebrazo izquierdo a Mora Luna",
-      "fecha": "28 junio 2026 · 10:18 CST",
-      "fuente": "Quadratín Puebla",
-      "url": "https://puebla.quadratin.com.mx/principal/segunda-voz-de-memo-garza-es-el-que-resulto-herido-en-la-mexico-puebla/",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 19.35,
-      "lon": -98.4
-    }
-  ]
+  "grupos": [],
+  "para_mapa": [],
+  "nota": "Sin alertas activas en la ventana de tiempo configurada."
 }
