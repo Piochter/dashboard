@@ -1,59 +1,51 @@
 {
-  "ultima_actualizacion": "2026-06-28T17:48:52.987165-06:00",
-  "ultima_actualizacion_legible": "28 de junio de 2026 · 17:48 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-06-28T21:34:10.835055-06:00",
+  "ultima_actualizacion_legible": "28 de junio de 2026 · 21:34 CST",
+  "total": 1,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Medios regionales",
-    "Quadratín + regionales"
+    "Medios regionales"
   ],
   "grupos": [
     {
-      "tipo": "cierre_total",
-      "color": "rojo",
-      "icono": "🔴",
-      "label": "CIERRE TOTAL",
-      "col2": false,
+      "tipo": "carga_vehicular",
+      "color": "azul",
+      "icono": "🚗",
+      "label": "CARGA VEHICULAR",
+      "col2": true,
       "alertas": [
         {
-          "id": "2c8fe876",
-          "tipo": "cierre_total",
-          "ruta": "SMN alerta por lluvias, granizo e inundaciones en gran parte…",
-          "descripcion": "SMN alerta por lluvias, granizo e inundaciones en gran parte de México esta semana. Las precipitaciones podrían provocar inundaciones, deslaves y aumento en los niveles de ríos y arroyos",
+          "id": "ecbb066c",
+          "tipo": "carga_vehicular",
+          "ruta": "Lluvias colapsan vialidades en Puebla; hay un muerto por caída…",
+          "descripcion": "Lluvias colapsan vialidades en Puebla; hay un muerto por caída de árbol. Caída de árboles, inundaciones y desbordamientos",
           "recomendacion": "",
-          "fecha": "28 junio 2026 · 16:15 CST",
-          "fecha_iso": "2026-06-28T16:15:00-06:00",
-          "fuente": "El Informador Jalisco",
-          "url": "https://www.informador.mx/mexico/smn-alerta-por-lluvias-granizo-e-inundaciones-en-gran-parte-de-mexico-esta-semana-20260628-0075.html",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL"
-        }
-      ]
-    },
-    {
-      "tipo": "bloqueo",
-      "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "6e522e03",
-          "tipo": "bloqueo",
-          "ruta": "Caso Elsa Leticia: convocan protesta; piden vinculación por feminicidio…",
-          "descripcion": "Caso Elsa Leticia: convocan protesta; piden vinculación por feminicidio. La protesta se realizará en la Casa de Justicia de Cholula este martes 30 de junio",
-          "recomendacion": "",
-          "fecha": "28 junio 2026 · 15:34 CST",
-          "fecha_iso": "2026-06-28T15:34:00-06:00",
-          "fuente": "Quadratín Puebla",
-          "url": "https://puebla.quadratin.com.mx/principal/caso-elsa-leticia-convocan-protesta-piden-vinculacion-por-feminicidio/",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
+          "fecha": "28 junio 2026 · 20:44 CST",
+          "fecha_iso": "2026-06-28T20:44:00-06:00",
+          "fuente": "Quadratín Michoacán",
+          "url": "https://www.quadratin.com.mx/nacionales/lluvias-colapsan-vialidades-en-puebla-hay-un-muerto-por-caida-de-arbol/",
+          "dot_color": "#2980b9",
+          "badge": "badge-carga",
+          "badge_txt": "CARGA VEHICULAR",
+          "lat": 19.04,
+          "lon": -98.2
         }
       ]
     }
   ],
-  "para_mapa": []
+  "para_mapa": [
+    {
+      "id": "ecbb066c",
+      "tipo": "carga_vehicular",
+      "ruta": "Lluvias colapsan vialidades en Puebla; hay un muerto por caída…",
+      "descripcion": "Lluvias colapsan vialidades en Puebla; hay un muerto por caída de árbol. Caída de árboles, inundaciones y desbordamientos",
+      "fecha": "28 junio 2026 · 20:44 CST",
+      "fuente": "Quadratín Michoacán",
+      "url": "https://www.quadratin.com.mx/nacionales/lluvias-colapsan-vialidades-en-puebla-hay-un-muerto-por-caida-de-arbol/",
+      "dot_color": "#2980b9",
+      "badge_txt": "CARGA VEHICULAR",
+      "lat": 19.04,
+      "lon": -98.2
+    }
+  ]
 }
