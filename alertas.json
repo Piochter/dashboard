@@ -1,51 +1,12 @@
 {
-  "ultima_actualizacion": "2026-06-28T21:34:10.835055-06:00",
-  "ultima_actualizacion_legible": "28 de junio de 2026 · 21:34 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-06-29T02:36:46.270133-06:00",
+  "ultima_actualizacion_legible": "29 de junio de 2026 · 02:36 CST",
+  "total": 0,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Medios regionales"
+    "Google News"
   ],
-  "grupos": [
-    {
-      "tipo": "carga_vehicular",
-      "color": "azul",
-      "icono": "🚗",
-      "label": "CARGA VEHICULAR",
-      "col2": true,
-      "alertas": [
-        {
-          "id": "ecbb066c",
-          "tipo": "carga_vehicular",
-          "ruta": "Lluvias colapsan vialidades en Puebla; hay un muerto por caída…",
-          "descripcion": "Lluvias colapsan vialidades en Puebla; hay un muerto por caída de árbol. Caída de árboles, inundaciones y desbordamientos",
-          "recomendacion": "",
-          "fecha": "28 junio 2026 · 20:44 CST",
-          "fecha_iso": "2026-06-28T20:44:00-06:00",
-          "fuente": "Quadratín Michoacán",
-          "url": "https://www.quadratin.com.mx/nacionales/lluvias-colapsan-vialidades-en-puebla-hay-un-muerto-por-caida-de-arbol/",
-          "dot_color": "#2980b9",
-          "badge": "badge-carga",
-          "badge_txt": "CARGA VEHICULAR",
-          "lat": 19.04,
-          "lon": -98.2
-        }
-      ]
-    }
-  ],
-  "para_mapa": [
-    {
-      "id": "ecbb066c",
-      "tipo": "carga_vehicular",
-      "ruta": "Lluvias colapsan vialidades en Puebla; hay un muerto por caída…",
-      "descripcion": "Lluvias colapsan vialidades en Puebla; hay un muerto por caída de árbol. Caída de árboles, inundaciones y desbordamientos",
-      "fecha": "28 junio 2026 · 20:44 CST",
-      "fuente": "Quadratín Michoacán",
-      "url": "https://www.quadratin.com.mx/nacionales/lluvias-colapsan-vialidades-en-puebla-hay-un-muerto-por-caida-de-arbol/",
-      "dot_color": "#2980b9",
-      "badge_txt": "CARGA VEHICULAR",
-      "lat": 19.04,
-      "lon": -98.2
-    }
-  ]
+  "grupos": [],
+  "para_mapa": [],
+  "nota": "Sin alertas activas en la ventana de tiempo configurada."
 }
