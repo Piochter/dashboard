@@ -1,12 +1,77 @@
 {
-  "ultima_actualizacion": "2026-06-29T06:50:31.151128-06:00",
-  "ultima_actualizacion_legible": "29 de junio de 2026 · 06:50 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-06-29T10:39:14.686288-06:00",
+  "ultima_actualizacion_legible": "29 de junio de 2026 · 10:39 CST",
+  "total": 7,
   "ventana": "últimos 180 minutos",
   "fuentes": [
+    "Google News",
+    "Medios nacionales",
+    "Quadratín + regionales",
     "Telegram"
   ],
   "grupos": [
+    {
+      "tipo": "bloqueo",
+      "color": "rojo",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "347c86af",
+          "tipo": "bloqueo",
+          "ruta": "🚧#AlertaVial | Manifestación en la caseta de Tepotzotlán de transportistas…",
+          "descripcion": "🚧#AlertaVial | Manifestación en la caseta de Tepotzotlán de transportistas afecta circulación en la México–Querétaro 👇\n https://lajornadaestadodemexico.com/manifestacion-caseta-de-tepotzotlan-transportistas-mexicoqueretaro/",
+          "recomendacion": "",
+          "fecha": "29 junio 2026 · 09:05 CST",
+          "fecha_iso": "2026-06-29T09:05:00-06:00",
+          "fuente": "Telegram @jornadaedomex",
+          "url": "https://t.me/jornadaedomex/11223",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 20.1,
+          "lon": -99.5
+        },
+        {
+          "id": "3e4817fb",
+          "tipo": "bloqueo",
+          "ruta": "Autopistas HOY: Tráfico y bloqueos EN VIVO en las carreteras…",
+          "descripcion": "Autopistas HOY: Tráfico y bloqueos EN VIVO en las carreteras de México este 29 de junio - TV Azteca. Autopistas HOY: Tráfico y bloqueos EN VIVO en las carreteras de México este 29 de junio TV Azteca",
+          "recomendacion": "",
+          "fecha": "29 junio 2026 · 08:12 CST",
+          "fecha_iso": "2026-06-29T08:12:00-06:00",
+          "fuente": "TV Azteca",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQkxHc1MxVWhZWHZCbmdNWHQxQy1ObUpGN1d1dzBMR2ZtbEcyVnJLaEM0R09WMWJGdG5RbDlIRk82Q1hUaXZUZDM3cnZiTWNhX0ViTGxPOWJFd203UTgtYzVYV0tuTFZzZjhXbzlFeXZVRXN5cXAyZDZfRE1sTng3dUdjaEZ6TW9kdlgtcTE2MV9tVERJVUpHTWFXX1Bqb25CRkhGRlZibDlPM3NDcXJZV3FnUWU5TUpSS25LWFdwSjl4RUpLQUl2eVJn0gHXAUFVX3lxTE5iTHNTRFQzdFdGcUdzMll5aC1VUk1VWXBUUC14dGhHamRlTl9YcFg3SVFKZTBsZTB6dlJFR3Rya3FzdmQwR2VEckRjR2VEaDRtdzhSX3M2YXlNb19ycmdaWFo4SkgwQ1dNcHNUQ2dKRkQ2bW9RNDlnMlVpT2c3OG42UVQzR2dIVHpZOWdEQXU0ZWktbzZwNVNXekJYZXlQRWZ3eUNVZnk2Mm4xSThMaWxERzlzYTg1X3BRVE5yWDJkVGQzUy1LbHkzTDl5SjB4MmR1Um5TVHdR?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        }
+      ]
+    },
+    {
+      "tipo": "robo",
+      "color": "rojo",
+      "icono": "🚨",
+      "label": "ROBOS EN CARRETERA",
+      "col2": true,
+      "alertas": [
+        {
+          "id": "662b1a04",
+          "tipo": "robo",
+          "ruta": "Mercado negro alimenta robo a transportistas en carreteras…",
+          "descripcion": "Mercado negro alimenta robo a transportistas en carreteras. Los transportistas son víctimas de una cadena de complicidad entre autoridades, crimen organizado y compradores de mercancía robada,",
+          "recomendacion": "",
+          "fecha": "29 junio 2026 · 08:03 CST",
+          "fecha_iso": "2026-06-29T08:03:00-06:00",
+          "fuente": "24 Horas",
+          "url": "https://24-horas.mx/mexico/mercado-negro-alimenta-robo-a-transportistas-en-carreteras/",
+          "dot_color": "#c0392b",
+          "badge": "badge-robo",
+          "badge_txt": "ROBO"
+        }
+      ]
+    },
     {
       "tipo": "cierre_parcial",
       "color": "amarillo",
@@ -15,20 +80,50 @@
       "col2": true,
       "alertas": [
         {
-          "id": "4cd2c711",
+          "id": "ee725b5b",
           "tipo": "cierre_parcial",
-          "ruta": "🚧#AlertaVial | Autopista México-Toluca en caos vial tras diversos percances…",
-          "descripcion": "🚧#AlertaVial | Autopista México-Toluca en caos vial tras diversos percances\n https://lajornadaestadodemexico.com/autopista-mexico-toluca-en-caos-vial-tras-diversos-percances/",
+          "ruta": "autopista México-Querétaro - Al Diálogo",
+          "descripcion": "Accidente causa incendio de vehículo en autopista México-Querétaro - Al Diálogo. Accidente causa incendio de vehículo en autopista México-Querétaro Al Diálogo",
           "recomendacion": "",
-          "fecha": "29 junio 2026 · 06:45 CST",
-          "fecha_iso": "2026-06-29T06:45:00-06:00",
-          "fuente": "Telegram @jornadaedomex",
-          "url": "https://t.me/jornadaedomex/11221",
+          "fecha": "29 junio 2026 · 09:22 CST",
+          "fecha_iso": "2026-06-29T09:22:00-06:00",
+          "fuente": "Al Diálogo",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcWk5VnI3T25Bdmt2YnlMNE9Fb0k5WDZmRndsbVhKYU9lVWdYbUVBbVF4bnVKWEpDUWpjSnRRa0RvLUVoSF85X2pBZ1hXT3VYbTlUdUd1eGxxRFpEaF9ra1dzV1hXQkduWE1Ra2VNSmY3MjktcGM1RUNWam9kRUFrd1BHd29QQ0MtSHJfMVkwUzdtYWxsdzV2cFNwQU1BREQ2QTB0SmhEQi0?oc=5",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.29,
-          "lon": -99.66
+          "lat": 20.1,
+          "lon": -99.5
+        },
+        {
+          "id": "d89008ee",
+          "tipo": "cierre_parcial",
+          "ruta": "Atropella motociclista a niño de 8 años en Tlapa…",
+          "descripcion": "Atropella motociclista a niño de 8 años en Tlapa. El accidente ocurrió en la avenida 20 de Noviembre, en la colonia Cuba",
+          "recomendacion": "",
+          "fecha": "29 junio 2026 · 09:15 CST",
+          "fecha_iso": "2026-06-29T09:15:00-06:00",
+          "fuente": "Quadratín Guerrero",
+          "url": "https://guerrero.quadratin.com.mx/atropella-motociclista-a-nino-de-8-anos-en-tlapa/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        },
+        {
+          "id": "5938d37a",
+          "tipo": "cierre_parcial",
+          "ruta": "¿Hay Cierres en la Autopista México-Querétaro Hoy? Así las Afectaciones…",
+          "descripcion": "¿Hay Cierres en la Autopista México-Querétaro Hoy? Así las Afectaciones este 29 de Junio 2026 - N+. ¿Hay Cierres en la Autopista México-Querétaro Hoy? Así las Afectaciones este 29 de Junio 2026 N+",
+          "recomendacion": "",
+          "fecha": "29 junio 2026 · 08:00 CST",
+          "fecha_iso": "2026-06-29T08:00:00-06:00",
+          "fuente": "N+",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQaVpvUHRMd19MbGlfTFotWjdsamI2TWRiN3VTZ2FlelNKU0pSN0EwLV9nMFQ4eWV1QVhsN1l6YUZteENDSFdTdHk3aEJsWHNfNDl3ZzdIWlhOS3J3cjZfNklZNWozbjRXdm02Yl9QRjBpc2pfbHdhaXFDbzZYcmNEbnZSdzFrQzJVMFl1YndrbXRycDBNUUg1SGdpOVBFMXNzbEgtWDIxcldoRFg1OF93ZHU4QWs5X0RSMWhKaHdkYWNDRkZBVGVfTy1B?oc=5",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 20.1,
+          "lon": -99.5
         }
       ]
     },
@@ -40,64 +135,76 @@
       "col2": false,
       "alertas": [
         {
-          "id": "a5db53ad",
+          "id": "1c3ed0a4",
           "tipo": "clima",
-          "ruta": "Lluvias provocan inundaciones severas en Puebla: Reportan un muerto y…",
-          "descripcion": "Lluvias provocan inundaciones severas en Puebla: Reportan un muerto y autos y negocios afectados [(VIDEO)](http://telegra.ph/Lluvias-provocan-inundaciones-severas-en-Puebla-Reportan-un-muerto-y-autos-y-negocios-afectados-VIDEO-06-29)\n\n__via__ [www.elfinanciero.com.mx](https://www.elfinanciero.com.mx/estados/2026/06/29/lluvias-provocan-inundaciones-severas-en-puebla-reportan-una-muerte-y-autos-y-negocios-afectados-video/)",
+          "ruta": "Despliegan a más de 800 elementos tras las inundaciones en…",
+          "descripcion": "Despliegan a más de 800 elementos tras las inundaciones en Puebla. El vaso regulador Puente Negro se encuentra al 90% de capacidad.",
           "recomendacion": "",
-          "fecha": "29 junio 2026 · 06:30 CST",
-          "fecha_iso": "2026-06-29T06:30:00-06:00",
-          "fuente": "Telegram @NOTMEX",
-          "url": "https://t.me/NOTMEX/184198",
+          "fecha": "29 junio 2026 · 09:17 CST",
+          "fecha_iso": "2026-06-29T09:17:00-06:00",
+          "fuente": "Quadratín Puebla",
+          "url": "https://puebla.quadratin.com.mx/sucesos/despliegan-a-mas-de-800-elementos-tras-las-inundaciones-en-puebla/",
           "dot_color": "#3498db",
           "badge": "badge-clima",
           "badge_txt": "ALERTA CLIMA",
           "lat": 19.04,
           "lon": -98.2
-        },
-        {
-          "id": "6511372d",
-          "tipo": "clima",
-          "ruta": "SMN alerta por lluvias, granizo e inundaciones en gran parte…",
-          "descripcion": "SMN alerta por lluvias, granizo e inundaciones en gran parte de México esta [semana](http://telegra.ph/SMN-alerta-por-lluvias-granizo-e-inundaciones-en-gran-parte-de-México-esta-semana-06-29)\n\n__via__ [www.informador.mx](https://www.informador.mx/mexico/smn-alerta-por-lluvias-granizo-e-inundaciones-en-gran-parte-de-mexico-esta-semana-20260628-0075.html)",
-          "recomendacion": "",
-          "fecha": "29 junio 2026 · 06:29 CST",
-          "fecha_iso": "2026-06-29T06:29:00-06:00",
-          "fuente": "Telegram @NOTMEX",
-          "url": "https://t.me/NOTMEX/184196",
-          "dot_color": "#3498db",
-          "badge": "badge-clima",
-          "badge_txt": "ALERTA CLIMA"
         }
       ]
     }
   ],
   "para_mapa": [
     {
-      "id": "4cd2c711",
+      "id": "ee725b5b",
       "tipo": "cierre_parcial",
-      "ruta": "🚧#AlertaVial | Autopista México-Toluca en caos vial tras diversos percances…",
-      "descripcion": "🚧#AlertaVial | Autopista México-Toluca en caos vial tras diversos percances\n https://lajornadaestadodemexico.com/autopista-mexico-toluca-en-caos-vial-tras-diversos-percances/",
-      "fecha": "29 junio 2026 · 06:45 CST",
-      "fuente": "Telegram @jornadaedomex",
-      "url": "https://t.me/jornadaedomex/11221",
+      "ruta": "autopista México-Querétaro - Al Diálogo",
+      "descripcion": "Accidente causa incendio de vehículo en autopista México-Querétaro - Al Diálogo. Accidente causa incendio de vehículo en autopista México-Querétaro Al Diálogo",
+      "fecha": "29 junio 2026 · 09:22 CST",
+      "fuente": "Al Diálogo",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcWk5VnI3T25Bdmt2YnlMNE9Fb0k5WDZmRndsbVhKYU9lVWdYbUVBbVF4bnVKWEpDUWpjSnRRa0RvLUVoSF85X2pBZ1hXT3VYbTlUdUd1eGxxRFpEaF9ra1dzV1hXQkduWE1Ra2VNSmY3MjktcGM1RUNWam9kRUFrd1BHd29QQ0MtSHJfMVkwUzdtYWxsdzV2cFNwQU1BREQ2QTB0SmhEQi0?oc=5",
       "dot_color": "#e67e22",
       "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.29,
-      "lon": -99.66
+      "lat": 20.1,
+      "lon": -99.5
     },
     {
-      "id": "a5db53ad",
+      "id": "1c3ed0a4",
       "tipo": "clima",
-      "ruta": "Lluvias provocan inundaciones severas en Puebla: Reportan un muerto y…",
-      "descripcion": "Lluvias provocan inundaciones severas en Puebla: Reportan un muerto y autos y negocios afectados [(VIDEO)](http://telegra.ph/Lluvias-provocan-inundaciones-severas-en-Puebla-Reportan-un-muerto-y-autos-y-negocios-afectados-VIDEO-06-29)\n\n__via__ [www.elfinanciero.com.mx](https://www.elfinanciero.com.mx/estados/2026/06/29/lluvias-provocan-inundaciones-severas-en-puebla-reportan-una-muerte-y-autos-y-negocios-afectados-video/)",
-      "fecha": "29 junio 2026 · 06:30 CST",
-      "fuente": "Telegram @NOTMEX",
-      "url": "https://t.me/NOTMEX/184198",
+      "ruta": "Despliegan a más de 800 elementos tras las inundaciones en…",
+      "descripcion": "Despliegan a más de 800 elementos tras las inundaciones en Puebla. El vaso regulador Puente Negro se encuentra al 90% de capacidad.",
+      "fecha": "29 junio 2026 · 09:17 CST",
+      "fuente": "Quadratín Puebla",
+      "url": "https://puebla.quadratin.com.mx/sucesos/despliegan-a-mas-de-800-elementos-tras-las-inundaciones-en-puebla/",
       "dot_color": "#3498db",
       "badge_txt": "ALERTA CLIMA",
       "lat": 19.04,
       "lon": -98.2
+    },
+    {
+      "id": "347c86af",
+      "tipo": "bloqueo",
+      "ruta": "🚧#AlertaVial | Manifestación en la caseta de Tepotzotlán de transportistas…",
+      "descripcion": "🚧#AlertaVial | Manifestación en la caseta de Tepotzotlán de transportistas afecta circulación en la México–Querétaro 👇\n https://lajornadaestadodemexico.com/manifestacion-caseta-de-tepotzotlan-transportistas-mexicoqueretaro/",
+      "fecha": "29 junio 2026 · 09:05 CST",
+      "fuente": "Telegram @jornadaedomex",
+      "url": "https://t.me/jornadaedomex/11223",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 20.1,
+      "lon": -99.5
+    },
+    {
+      "id": "5938d37a",
+      "tipo": "cierre_parcial",
+      "ruta": "¿Hay Cierres en la Autopista México-Querétaro Hoy? Así las Afectaciones…",
+      "descripcion": "¿Hay Cierres en la Autopista México-Querétaro Hoy? Así las Afectaciones este 29 de Junio 2026 - N+. ¿Hay Cierres en la Autopista México-Querétaro Hoy? Así las Afectaciones este 29 de Junio 2026 N+",
+      "fecha": "29 junio 2026 · 08:00 CST",
+      "fuente": "N+",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQaVpvUHRMd19MbGlfTFotWjdsamI2TWRiN3VTZ2FlelNKU0pSN0EwLV9nMFQ4eWV1QVhsN1l6YUZteENDSFdTdHk3aEJsWHNfNDl3ZzdIWlhOS3J3cjZfNklZNWozbjRXdm02Yl9QRjBpc2pfbHdhaXFDbzZYcmNEbnZSdzFrQzJVMFl1YndrbXRycDBNUUg1SGdpOVBFMXNzbEgtWDIxcldoRFg1OF93ZHU4QWs5X0RSMWhKaHdkYWNDRkZBVGVfTy1B?oc=5",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 20.1,
+      "lon": -99.5
     }
   ]
 }
