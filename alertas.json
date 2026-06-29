@@ -1,89 +1,12 @@
 {
-  "ultima_actualizacion": "2026-06-29T14:33:18.661530-06:00",
-  "ultima_actualizacion_legible": "29 de junio de 2026 · 14:33 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-06-29T16:01:06.882244-06:00",
+  "ultima_actualizacion_legible": "29 de junio de 2026 · 16:01 CST",
+  "total": 0,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Medios regionales",
-    "Quadratín + regionales"
+    "Google News"
   ],
-  "grupos": [
-    {
-      "tipo": "cierre_parcial",
-      "color": "amarillo",
-      "icono": "🟡",
-      "label": "CIERRE PARCIAL / ACCIDENTES",
-      "col2": true,
-      "alertas": [
-        {
-          "id": "4fd0cfaa",
-          "tipo": "cierre_parcial",
-          "ruta": "Cierra la semana con casi 180 retenidos en el \"Torito\"…",
-          "descripcion": "Cierra la semana con casi 180 retenidos en el \"Torito\" en la ZMG. El operativo \"Salvando Vidas\" tiene como objetivo la reducción significativa de los accidentes de tránsito",
-          "recomendacion": "",
-          "fecha": "29 junio 2026 · 12:55 CST",
-          "fecha_iso": "2026-06-29T12:55:00-06:00",
-          "fuente": "El Informador Jalisco",
-          "url": "https://www.informador.mx/jalisco/cierra-la-semana-con-casi-180-retenidos-en-el-torito-en-la-zmg-20260629-0085.html",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
-        },
-        {
-          "id": "0d1a3afc",
-          "tipo": "cierre_parcial",
-          "ruta": "Autopista Guadalajara-Colima",
-          "descripcion": "Ante percance vial, mantienen cierres intermitentes en la Autopista Guadalajara-Colima. Un choque entre dos tractocamiones que transportaban combustible provocó cierres intermitentes en el camino este lunes",
-          "recomendacion": "",
-          "fecha": "29 junio 2026 · 12:35 CST",
-          "fecha_iso": "2026-06-29T12:35:00-06:00",
-          "fuente": "El Informador Jalisco",
-          "url": "https://www.informador.mx/jalisco/cierres-autopista-guadalajara-colima-percance-vial-mantiene-bloqueos-intermitentes-20260629-0082.html",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.24,
-          "lon": -103.72
-        }
-      ]
-    },
-    {
-      "tipo": "clima",
-      "color": "azul",
-      "icono": "🌧️",
-      "label": "ALERTA METEOROLÓGICA",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "8fe108c3",
-          "tipo": "clima",
-          "ruta": "Llama Tlajomulco a evitar tirar basura para prevenir inundaciones…",
-          "descripcion": "Llama Tlajomulco a evitar tirar basura para prevenir inundaciones. El municipio recolecta alrededor de 930 toneladas de residuos sólidos urbanos cada día y realiza trabajos preventivos",
-          "recomendacion": "evitar tirar basura para prevenir inundaciones",
-          "fecha": "29 junio 2026 · 13:28 CST",
-          "fecha_iso": "2026-06-29T13:28:00-06:00",
-          "fuente": "Quadratín Jalisco",
-          "url": "https://jalisco.quadratin.com.mx/sucesos/llama-tlajomulco-a-evitar-tirar-basura-para-prevenir-inundaciones/",
-          "dot_color": "#3498db",
-          "badge": "badge-clima",
-          "badge_txt": "ALERTA CLIMA"
-        }
-      ]
-    }
-  ],
-  "para_mapa": [
-    {
-      "id": "0d1a3afc",
-      "tipo": "cierre_parcial",
-      "ruta": "Autopista Guadalajara-Colima",
-      "descripcion": "Ante percance vial, mantienen cierres intermitentes en la Autopista Guadalajara-Colima. Un choque entre dos tractocamiones que transportaban combustible provocó cierres intermitentes en el camino este lunes",
-      "fecha": "29 junio 2026 · 12:35 CST",
-      "fuente": "El Informador Jalisco",
-      "url": "https://www.informador.mx/jalisco/cierres-autopista-guadalajara-colima-percance-vial-mantiene-bloqueos-intermitentes-20260629-0082.html",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.24,
-      "lon": -103.72
-    }
-  ]
+  "grupos": [],
+  "para_mapa": [],
+  "nota": "Sin alertas activas en la ventana de tiempo configurada."
 }
