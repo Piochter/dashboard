@@ -1,12 +1,103 @@
 {
-  "ultima_actualizacion": "2026-06-29T02:36:46.270133-06:00",
-  "ultima_actualizacion_legible": "29 de junio de 2026 · 02:36 CST",
-  "total": 0,
+  "ultima_actualizacion": "2026-06-29T06:50:31.151128-06:00",
+  "ultima_actualizacion_legible": "29 de junio de 2026 · 06:50 CST",
+  "total": 3,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Google News"
+    "Telegram"
   ],
-  "grupos": [],
-  "para_mapa": [],
-  "nota": "Sin alertas activas en la ventana de tiempo configurada."
+  "grupos": [
+    {
+      "tipo": "cierre_parcial",
+      "color": "amarillo",
+      "icono": "🟡",
+      "label": "CIERRE PARCIAL / ACCIDENTES",
+      "col2": true,
+      "alertas": [
+        {
+          "id": "4cd2c711",
+          "tipo": "cierre_parcial",
+          "ruta": "🚧#AlertaVial | Autopista México-Toluca en caos vial tras diversos percances…",
+          "descripcion": "🚧#AlertaVial | Autopista México-Toluca en caos vial tras diversos percances\n https://lajornadaestadodemexico.com/autopista-mexico-toluca-en-caos-vial-tras-diversos-percances/",
+          "recomendacion": "",
+          "fecha": "29 junio 2026 · 06:45 CST",
+          "fecha_iso": "2026-06-29T06:45:00-06:00",
+          "fuente": "Telegram @jornadaedomex",
+          "url": "https://t.me/jornadaedomex/11221",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 19.29,
+          "lon": -99.66
+        }
+      ]
+    },
+    {
+      "tipo": "clima",
+      "color": "azul",
+      "icono": "🌧️",
+      "label": "ALERTA METEOROLÓGICA",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "a5db53ad",
+          "tipo": "clima",
+          "ruta": "Lluvias provocan inundaciones severas en Puebla: Reportan un muerto y…",
+          "descripcion": "Lluvias provocan inundaciones severas en Puebla: Reportan un muerto y autos y negocios afectados [(VIDEO)](http://telegra.ph/Lluvias-provocan-inundaciones-severas-en-Puebla-Reportan-un-muerto-y-autos-y-negocios-afectados-VIDEO-06-29)\n\n__via__ [www.elfinanciero.com.mx](https://www.elfinanciero.com.mx/estados/2026/06/29/lluvias-provocan-inundaciones-severas-en-puebla-reportan-una-muerte-y-autos-y-negocios-afectados-video/)",
+          "recomendacion": "",
+          "fecha": "29 junio 2026 · 06:30 CST",
+          "fecha_iso": "2026-06-29T06:30:00-06:00",
+          "fuente": "Telegram @NOTMEX",
+          "url": "https://t.me/NOTMEX/184198",
+          "dot_color": "#3498db",
+          "badge": "badge-clima",
+          "badge_txt": "ALERTA CLIMA",
+          "lat": 19.04,
+          "lon": -98.2
+        },
+        {
+          "id": "6511372d",
+          "tipo": "clima",
+          "ruta": "SMN alerta por lluvias, granizo e inundaciones en gran parte…",
+          "descripcion": "SMN alerta por lluvias, granizo e inundaciones en gran parte de México esta [semana](http://telegra.ph/SMN-alerta-por-lluvias-granizo-e-inundaciones-en-gran-parte-de-México-esta-semana-06-29)\n\n__via__ [www.informador.mx](https://www.informador.mx/mexico/smn-alerta-por-lluvias-granizo-e-inundaciones-en-gran-parte-de-mexico-esta-semana-20260628-0075.html)",
+          "recomendacion": "",
+          "fecha": "29 junio 2026 · 06:29 CST",
+          "fecha_iso": "2026-06-29T06:29:00-06:00",
+          "fuente": "Telegram @NOTMEX",
+          "url": "https://t.me/NOTMEX/184196",
+          "dot_color": "#3498db",
+          "badge": "badge-clima",
+          "badge_txt": "ALERTA CLIMA"
+        }
+      ]
+    }
+  ],
+  "para_mapa": [
+    {
+      "id": "4cd2c711",
+      "tipo": "cierre_parcial",
+      "ruta": "🚧#AlertaVial | Autopista México-Toluca en caos vial tras diversos percances…",
+      "descripcion": "🚧#AlertaVial | Autopista México-Toluca en caos vial tras diversos percances\n https://lajornadaestadodemexico.com/autopista-mexico-toluca-en-caos-vial-tras-diversos-percances/",
+      "fecha": "29 junio 2026 · 06:45 CST",
+      "fuente": "Telegram @jornadaedomex",
+      "url": "https://t.me/jornadaedomex/11221",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 19.29,
+      "lon": -99.66
+    },
+    {
+      "id": "a5db53ad",
+      "tipo": "clima",
+      "ruta": "Lluvias provocan inundaciones severas en Puebla: Reportan un muerto y…",
+      "descripcion": "Lluvias provocan inundaciones severas en Puebla: Reportan un muerto y autos y negocios afectados [(VIDEO)](http://telegra.ph/Lluvias-provocan-inundaciones-severas-en-Puebla-Reportan-un-muerto-y-autos-y-negocios-afectados-VIDEO-06-29)\n\n__via__ [www.elfinanciero.com.mx](https://www.elfinanciero.com.mx/estados/2026/06/29/lluvias-provocan-inundaciones-severas-en-puebla-reportan-una-muerte-y-autos-y-negocios-afectados-video/)",
+      "fecha": "29 junio 2026 · 06:30 CST",
+      "fuente": "Telegram @NOTMEX",
+      "url": "https://t.me/NOTMEX/184198",
+      "dot_color": "#3498db",
+      "badge_txt": "ALERTA CLIMA",
+      "lat": 19.04,
+      "lon": -98.2
+    }
+  ]
 }
