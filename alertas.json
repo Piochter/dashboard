@@ -1,11 +1,11 @@
 {
-  "ultima_actualizacion": "2026-06-30T05:29:09.925350-06:00",
-  "ultima_actualizacion_legible": "30 de junio de 2026 · 05:29 CST",
+  "ultima_actualizacion": "2026-06-30T07:23:47.049848-06:00",
+  "ultima_actualizacion_legible": "30 de junio de 2026 · 07:23 CST",
   "total": 2,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Medios nacionales",
-    "Medios regionales"
+    "Google News",
+    "Telegram"
   ],
   "grupos": [
     {
@@ -16,75 +16,44 @@
       "col2": false,
       "alertas": [
         {
-          "id": "4b547bd2",
+          "id": "b44a541f",
           "tipo": "bloqueo",
-          "ruta": "‘Faltan insumos, sobran promesas’: Trabajadores del IMSS León exhiben carencias…",
-          "descripcion": "‘Faltan insumos, sobran promesas’: Trabajadores del IMSS León exhiben carencias y saturación. León, Guanajuato.- Un grupo de trabajadores del IMSS en León realizó al mediodía del lunes un bloqueo parcial de casi tres horas en el bulevar Paseo de los Insurgentes, frente a la UMAE 48, para protestar por la falta de materiales e insumos básicos -como jabón y toallas desechables de papel- y la falta de […]",
+          "ruta": "Bloqueos carreteras HOY 30 de junio: Autopistas cerradas en México,…",
+          "descripcion": "Bloqueos carreteras HOY 30 de junio: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 30 de junio: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
           "recomendacion": "",
-          "fecha": "30 junio 2026 · 04:05 CST",
-          "fecha_iso": "2026-06-30T04:05:00-06:00",
-          "fuente": "AM Guanajuato",
-          "url": "https://www.am.com.mx/leon/2026/06/30/faltan-insumos-sobran-promesas-trabajadores-del-imss-leon-exhiben-carencias-y-saturacion-1813166.html",
+          "fecha": "30 junio 2026 · 07:07 CST",
+          "fecha_iso": "2026-06-30T07:07:00-06:00",
+          "fuente": "Eje Central",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNdGZ6UFpjc1FDa20wRUNOTlQzWWlQRHd0X1JJRW9uMXNaNkU4YTA3RWdGVTBRYVdfY1d6c0NyWGdDQVdFS05iVC1VM1dEZEQ5OGhrT1V2QkpucUl1ZkpiRGdXZzBPalpzdDgzZzNpZUZmdm90cU80VlJNNkU4dkhsTnNTY3c2T1BCeVdzSUc2dGdzcGZQWVVlbDV6bFRMOWNfSEJ6V3hWaEplN29wejdMYWF4SDBqWHBSMFRYM2FJTGlIZ01QZG1nNlctYlk0d2hlcWlqRGx3dTFublJEWVpHNVpxVHZKNWc?oc=5",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 21.02,
-          "lon": -101.26
+          "badge_txt": "BLOQUEO"
         }
       ]
     },
     {
-      "tipo": "robo",
-      "color": "rojo",
-      "icono": "🚨",
-      "label": "ROBOS EN CARRETERA",
+      "tipo": "cierre_parcial",
+      "color": "amarillo",
+      "icono": "🟡",
+      "label": "CIERRE PARCIAL / ACCIDENTES",
       "col2": true,
       "alertas": [
         {
-          "id": "5b210f97",
-          "tipo": "robo",
-          "ruta": "FGR realiza megacateo contra robo a transporte en San Luis…",
-          "descripcion": "FGR realiza megacateo contra robo a transporte en San Luis Potosí. Una investigación por el hurto de neumáticos terminó en el aseguramiento de un predio de casi 30 mil metros cuadrados en San Luis Potosí.",
+          "id": "97889c5c",
+          "tipo": "cierre_parcial",
+          "ruta": "🚧#AlertaVial | Accidente en Alfredo del Mazo complica la circulación…",
+          "descripcion": "🚧#AlertaVial | Accidente en Alfredo del Mazo complica la circulación hoy 30 de junio 👇\n https://lajornadaestadodemexico.com/accidente-en-alfredo-del-mazo-complica-la-circulacion-hoy-30-de-junio/",
           "recomendacion": "",
-          "fecha": "30 junio 2026 · 03:00 CST",
-          "fecha_iso": "2026-06-30T03:00:00-06:00",
-          "fuente": "24 Horas",
-          "url": "https://24-horas.mx/mexico/fgr-realiza-megacateo-contra-robo-a-transporte-en-san-luis-potosi/",
-          "dot_color": "#c0392b",
-          "badge": "badge-robo",
-          "badge_txt": "ROBO",
-          "lat": 22.15,
-          "lon": -100.97
+          "fecha": "30 junio 2026 · 06:49 CST",
+          "fecha_iso": "2026-06-30T06:49:00-06:00",
+          "fuente": "Telegram @jornadaedomex",
+          "url": "https://t.me/jornadaedomex/11240",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
         }
       ]
     }
   ],
-  "para_mapa": [
-    {
-      "id": "4b547bd2",
-      "tipo": "bloqueo",
-      "ruta": "‘Faltan insumos, sobran promesas’: Trabajadores del IMSS León exhiben carencias…",
-      "descripcion": "‘Faltan insumos, sobran promesas’: Trabajadores del IMSS León exhiben carencias y saturación. León, Guanajuato.- Un grupo de trabajadores del IMSS en León realizó al mediodía del lunes un bloqueo parcial de casi tres horas en el bulevar Paseo de los Insurgentes, frente a la UMAE 48, para protestar por la falta de materiales e insumos básicos -como jabón y toallas desechables de papel- y la falta de […]",
-      "fecha": "30 junio 2026 · 04:05 CST",
-      "fuente": "AM Guanajuato",
-      "url": "https://www.am.com.mx/leon/2026/06/30/faltan-insumos-sobran-promesas-trabajadores-del-imss-leon-exhiben-carencias-y-saturacion-1813166.html",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 21.02,
-      "lon": -101.26
-    },
-    {
-      "id": "5b210f97",
-      "tipo": "robo",
-      "ruta": "FGR realiza megacateo contra robo a transporte en San Luis…",
-      "descripcion": "FGR realiza megacateo contra robo a transporte en San Luis Potosí. Una investigación por el hurto de neumáticos terminó en el aseguramiento de un predio de casi 30 mil metros cuadrados en San Luis Potosí.",
-      "fecha": "30 junio 2026 · 03:00 CST",
-      "fuente": "24 Horas",
-      "url": "https://24-horas.mx/mexico/fgr-realiza-megacateo-contra-robo-a-transporte-en-san-luis-potosi/",
-      "dot_color": "#c0392b",
-      "badge_txt": "ROBO",
-      "lat": 22.15,
-      "lon": -100.97
-    }
-  ]
+  "para_mapa": []
 }
