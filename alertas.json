@@ -1,11 +1,11 @@
 {
-  "ultima_actualizacion": "2026-06-30T07:23:47.049848-06:00",
-  "ultima_actualizacion_legible": "30 de junio de 2026 · 07:23 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-06-30T10:04:12.468299-06:00",
+  "ultima_actualizacion_legible": "30 de junio de 2026 · 10:04 CST",
+  "total": 3,
   "ventana": "últimos 180 minutos",
   "fuentes": [
     "Google News",
-    "Telegram"
+    "Medios regionales"
   ],
   "grupos": [
     {
@@ -15,6 +15,22 @@
       "label": "BLOQUEOS / MANIFESTACIONES",
       "col2": false,
       "alertas": [
+        {
+          "id": "078bea32",
+          "tipo": "bloqueo",
+          "ruta": "autopista este 30 de junio - TV Azteca",
+          "descripcion": "¿Qué pasa en la carretera México-Querétaro hoy EN VIVO? Bloqueos y tráfico en la autopista este 30 de junio - TV Azteca. ¿Qué pasa en la carretera México-Querétaro hoy EN VIVO? Bloqueos y tráfico en la autopista este 30 de junio TV Azteca",
+          "recomendacion": "",
+          "fecha": "30 junio 2026 · 07:46 CST",
+          "fecha_iso": "2026-06-30T07:46:00-06:00",
+          "fuente": "TV Azteca",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQOTQ0SGdWV1NIMjJKSTJFUTVHa21kTl8wLTFUU2dKaDNNRHJaa1BxVWhXcFFIbGVwX2NDa0tTMUxRMDhUV1FLSzhoMU04SFUzaU8zRDVhTkRKSG9EblR5RWIwMmxDRkhPak90VFZRWHBxZ0FQcmtXU0xQNUNJRENYQkxxZF9CVVJRblZjSk1CRXJ6M0Y2c3BET2ZsTnBBYXRqS0NlTnlsOU1VbUNaWWhsbzVmY3BIVkhfNElfekVNcWlLLXlPbGl2dDNjclnSAcwBQVVfeXFMUDk0NEhnVldTSDIySkkyRVE1R2ttZE5fMC0xVFNnSmgzTURyWmtQcVVoV3BRSGxlcF9jQ2tLUzFMUTA4VFdRS0s4aDFNOEhVM2lPM0Q1YU5ESkhvRG5UeUViMDJsQ0ZIT2pPdFRWUVhwcWdBUHJrV1NMUDVDSURDWEJMcWRfQlVSUW5WY0pNQkVyejNGNnNwRE9mbE5wQWF0aktDZU55bDlNVW1DWllobG81ZmNwSFZIXzRJX3pFTXFpSy15T2xpdnQzY3JZ?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 20.1,
+          "lon": -99.5
+        },
         {
           "id": "b44a541f",
           "tipo": "bloqueo",
@@ -39,21 +55,50 @@
       "col2": true,
       "alertas": [
         {
-          "id": "97889c5c",
+          "id": "71cc6a2f",
           "tipo": "cierre_parcial",
-          "ruta": "🚧#AlertaVial | Accidente en Alfredo del Mazo complica la circulación…",
-          "descripcion": "🚧#AlertaVial | Accidente en Alfredo del Mazo complica la circulación hoy 30 de junio 👇\n https://lajornadaestadodemexico.com/accidente-en-alfredo-del-mazo-complica-la-circulacion-hoy-30-de-junio/",
+          "ruta": "Reportan aumento de 15% en accidentes viales por lluvias en…",
+          "descripcion": "Reportan aumento de 15% en accidentes viales por lluvias en Morelia. Señaló José Pablo Alarcón Olmedo",
           "recomendacion": "",
-          "fecha": "30 junio 2026 · 06:49 CST",
-          "fecha_iso": "2026-06-30T06:49:00-06:00",
-          "fuente": "Telegram @jornadaedomex",
-          "url": "https://t.me/jornadaedomex/11240",
+          "fecha": "30 junio 2026 · 09:35 CST",
+          "fecha_iso": "2026-06-30T09:35:00-06:00",
+          "fuente": "Quadratín Michoacán",
+          "url": "https://www.quadratin.com.mx/municipios/reportan-aumento-de-15-en-accidentes-viales-por-lluvias-en-morelia/",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 21.0,
+          "lon": -104.0
         }
       ]
     }
   ],
-  "para_mapa": []
+  "para_mapa": [
+    {
+      "id": "71cc6a2f",
+      "tipo": "cierre_parcial",
+      "ruta": "Reportan aumento de 15% en accidentes viales por lluvias en…",
+      "descripcion": "Reportan aumento de 15% en accidentes viales por lluvias en Morelia. Señaló José Pablo Alarcón Olmedo",
+      "fecha": "30 junio 2026 · 09:35 CST",
+      "fuente": "Quadratín Michoacán",
+      "url": "https://www.quadratin.com.mx/municipios/reportan-aumento-de-15-en-accidentes-viales-por-lluvias-en-morelia/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 21.0,
+      "lon": -104.0
+    },
+    {
+      "id": "078bea32",
+      "tipo": "bloqueo",
+      "ruta": "autopista este 30 de junio - TV Azteca",
+      "descripcion": "¿Qué pasa en la carretera México-Querétaro hoy EN VIVO? Bloqueos y tráfico en la autopista este 30 de junio - TV Azteca. ¿Qué pasa en la carretera México-Querétaro hoy EN VIVO? Bloqueos y tráfico en la autopista este 30 de junio TV Azteca",
+      "fecha": "30 junio 2026 · 07:46 CST",
+      "fuente": "TV Azteca",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQOTQ0SGdWV1NIMjJKSTJFUTVHa21kTl8wLTFUU2dKaDNNRHJaa1BxVWhXcFFIbGVwX2NDa0tTMUxRMDhUV1FLSzhoMU04SFUzaU8zRDVhTkRKSG9EblR5RWIwMmxDRkhPak90VFZRWHBxZ0FQcmtXU0xQNUNJRENYQkxxZF9CVVJRblZjSk1CRXJ6M0Y2c3BET2ZsTnBBYXRqS0NlTnlsOU1VbUNaWWhsbzVmY3BIVkhfNElfekVNcWlLLXlPbGl2dDNjclnSAcwBQVVfeXFMUDk0NEhnVldTSDIySkkyRVE1R2ttZE5fMC0xVFNnSmgzTURyWmtQcVVoV3BRSGxlcF9jQ2tLUzFMUTA4VFdRS0s4aDFNOEhVM2lPM0Q1YU5ESkhvRG5UeUViMDJsQ0ZIT2pPdFRWUVhwcWdBUHJrV1NMUDVDSURDWEJMcWRfQlVSUW5WY0pNQkVyejNGNnNwRE9mbE5wQWF0aktDZU55bDlNVW1DWllobG81ZmNwSFZIXzRJX3pFTXFpSy15T2xpdnQzY3JZ?oc=5",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 20.1,
+      "lon": -99.5
+    }
+  ]
 }
