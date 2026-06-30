@@ -1,90 +1,12 @@
 {
-  "ultima_actualizacion": "2026-06-29T18:20:52.338421-06:00",
-  "ultima_actualizacion_legible": "29 de junio de 2026 · 18:20 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-06-29T22:44:50.421142-06:00",
+  "ultima_actualizacion_legible": "29 de junio de 2026 · 22:44 CST",
+  "total": 0,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Quadratín + regionales",
-    "Telegram"
+    "Google News"
   ],
-  "grupos": [
-    {
-      "tipo": "bloqueo",
-      "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "3528ba21",
-          "tipo": "bloqueo",
-          "ruta": "Autopista México-Puebla: ¿Qué quieren manifestantes que la [cerraron?](http://telegra.ph/Autopista-México-Puebla-Qué-quieren-manifestantes-que-la-cerraron-06-29) __via__ [www.informador.mx](https://www.informador.mx/mexico/autopista-mexico-puebla-que-quieren-manifestantes-que-la-cerraron-20260628-0067.html)…",
-          "descripcion": "Autopista México-Puebla: ¿Qué quieren manifestantes que la [cerraron?](http://telegra.ph/Autopista-México-Puebla-Qué-quieren-manifestantes-que-la-cerraron-06-29)\n\n__via__ [www.informador.mx](https://www.informador.mx/mexico/autopista-mexico-puebla-que-quieren-manifestantes-que-la-cerraron-20260628-0067.html)",
-          "recomendacion": "",
-          "fecha": "29 junio 2026 · 17:10 CST",
-          "fecha_iso": "2026-06-29T17:10:00-06:00",
-          "fuente": "Telegram @NOTMEX",
-          "url": "https://t.me/NOTMEX/184205",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 19.35,
-          "lon": -98.4
-        }
-      ]
-    },
-    {
-      "tipo": "robo",
-      "color": "rojo",
-      "icono": "🚨",
-      "label": "ROBOS EN CARRETERA",
-      "col2": true,
-      "alertas": [
-        {
-          "id": "63f932fc",
-          "tipo": "robo",
-          "ruta": "Reportan detención de 32 personas del 22 al 28 de…",
-          "descripcion": "Reportan detención de 32 personas del 22 al 28 de junio en Guerrero. Recupera FGE 156 autos con reporte de robo",
-          "recomendacion": "",
-          "fecha": "29 junio 2026 · 17:38 CST",
-          "fecha_iso": "2026-06-29T17:38:00-06:00",
-          "fuente": "Quadratín Guerrero",
-          "url": "https://guerrero.quadratin.com.mx/reportan-detencion-de-32-personas-del-22-al-28-de-junio-en-guerrero/",
-          "dot_color": "#c0392b",
-          "badge": "badge-robo",
-          "badge_txt": "ROBO",
-          "lat": 21.0,
-          "lon": -104.0
-        }
-      ]
-    }
-  ],
-  "para_mapa": [
-    {
-      "id": "63f932fc",
-      "tipo": "robo",
-      "ruta": "Reportan detención de 32 personas del 22 al 28 de…",
-      "descripcion": "Reportan detención de 32 personas del 22 al 28 de junio en Guerrero. Recupera FGE 156 autos con reporte de robo",
-      "fecha": "29 junio 2026 · 17:38 CST",
-      "fuente": "Quadratín Guerrero",
-      "url": "https://guerrero.quadratin.com.mx/reportan-detencion-de-32-personas-del-22-al-28-de-junio-en-guerrero/",
-      "dot_color": "#c0392b",
-      "badge_txt": "ROBO",
-      "lat": 21.0,
-      "lon": -104.0
-    },
-    {
-      "id": "3528ba21",
-      "tipo": "bloqueo",
-      "ruta": "Autopista México-Puebla: ¿Qué quieren manifestantes que la [cerraron?](http://telegra.ph/Autopista-México-Puebla-Qué-quieren-manifestantes-que-la-cerraron-06-29) __via__ [www.informador.mx](https://www.informador.mx/mexico/autopista-mexico-puebla-que-quieren-manifestantes-que-la-cerraron-20260628-0067.html)…",
-      "descripcion": "Autopista México-Puebla: ¿Qué quieren manifestantes que la [cerraron?](http://telegra.ph/Autopista-México-Puebla-Qué-quieren-manifestantes-que-la-cerraron-06-29)\n\n__via__ [www.informador.mx](https://www.informador.mx/mexico/autopista-mexico-puebla-que-quieren-manifestantes-que-la-cerraron-20260628-0067.html)",
-      "fecha": "29 junio 2026 · 17:10 CST",
-      "fuente": "Telegram @NOTMEX",
-      "url": "https://t.me/NOTMEX/184205",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 19.35,
-      "lon": -98.4
-    }
-  ]
+  "grupos": [],
+  "para_mapa": [],
+  "nota": "Sin alertas activas en la ventana de tiempo configurada."
 }
