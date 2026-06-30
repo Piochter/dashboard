@@ -1,12 +1,90 @@
 {
-  "ultima_actualizacion": "2026-06-30T02:23:30.301947-06:00",
-  "ultima_actualizacion_legible": "30 de junio de 2026 · 02:23 CST",
-  "total": 0,
+  "ultima_actualizacion": "2026-06-30T05:29:09.925350-06:00",
+  "ultima_actualizacion_legible": "30 de junio de 2026 · 05:29 CST",
+  "total": 2,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Google News"
+    "Medios nacionales",
+    "Medios regionales"
   ],
-  "grupos": [],
-  "para_mapa": [],
-  "nota": "Sin alertas activas en la ventana de tiempo configurada."
+  "grupos": [
+    {
+      "tipo": "bloqueo",
+      "color": "rojo",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "4b547bd2",
+          "tipo": "bloqueo",
+          "ruta": "‘Faltan insumos, sobran promesas’: Trabajadores del IMSS León exhiben carencias…",
+          "descripcion": "‘Faltan insumos, sobran promesas’: Trabajadores del IMSS León exhiben carencias y saturación. León, Guanajuato.- Un grupo de trabajadores del IMSS en León realizó al mediodía del lunes un bloqueo parcial de casi tres horas en el bulevar Paseo de los Insurgentes, frente a la UMAE 48, para protestar por la falta de materiales e insumos básicos -como jabón y toallas desechables de papel- y la falta de […]",
+          "recomendacion": "",
+          "fecha": "30 junio 2026 · 04:05 CST",
+          "fecha_iso": "2026-06-30T04:05:00-06:00",
+          "fuente": "AM Guanajuato",
+          "url": "https://www.am.com.mx/leon/2026/06/30/faltan-insumos-sobran-promesas-trabajadores-del-imss-leon-exhiben-carencias-y-saturacion-1813166.html",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 21.02,
+          "lon": -101.26
+        }
+      ]
+    },
+    {
+      "tipo": "robo",
+      "color": "rojo",
+      "icono": "🚨",
+      "label": "ROBOS EN CARRETERA",
+      "col2": true,
+      "alertas": [
+        {
+          "id": "5b210f97",
+          "tipo": "robo",
+          "ruta": "FGR realiza megacateo contra robo a transporte en San Luis…",
+          "descripcion": "FGR realiza megacateo contra robo a transporte en San Luis Potosí. Una investigación por el hurto de neumáticos terminó en el aseguramiento de un predio de casi 30 mil metros cuadrados en San Luis Potosí.",
+          "recomendacion": "",
+          "fecha": "30 junio 2026 · 03:00 CST",
+          "fecha_iso": "2026-06-30T03:00:00-06:00",
+          "fuente": "24 Horas",
+          "url": "https://24-horas.mx/mexico/fgr-realiza-megacateo-contra-robo-a-transporte-en-san-luis-potosi/",
+          "dot_color": "#c0392b",
+          "badge": "badge-robo",
+          "badge_txt": "ROBO",
+          "lat": 22.15,
+          "lon": -100.97
+        }
+      ]
+    }
+  ],
+  "para_mapa": [
+    {
+      "id": "4b547bd2",
+      "tipo": "bloqueo",
+      "ruta": "‘Faltan insumos, sobran promesas’: Trabajadores del IMSS León exhiben carencias…",
+      "descripcion": "‘Faltan insumos, sobran promesas’: Trabajadores del IMSS León exhiben carencias y saturación. León, Guanajuato.- Un grupo de trabajadores del IMSS en León realizó al mediodía del lunes un bloqueo parcial de casi tres horas en el bulevar Paseo de los Insurgentes, frente a la UMAE 48, para protestar por la falta de materiales e insumos básicos -como jabón y toallas desechables de papel- y la falta de […]",
+      "fecha": "30 junio 2026 · 04:05 CST",
+      "fuente": "AM Guanajuato",
+      "url": "https://www.am.com.mx/leon/2026/06/30/faltan-insumos-sobran-promesas-trabajadores-del-imss-leon-exhiben-carencias-y-saturacion-1813166.html",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 21.02,
+      "lon": -101.26
+    },
+    {
+      "id": "5b210f97",
+      "tipo": "robo",
+      "ruta": "FGR realiza megacateo contra robo a transporte en San Luis…",
+      "descripcion": "FGR realiza megacateo contra robo a transporte en San Luis Potosí. Una investigación por el hurto de neumáticos terminó en el aseguramiento de un predio de casi 30 mil metros cuadrados en San Luis Potosí.",
+      "fecha": "30 junio 2026 · 03:00 CST",
+      "fuente": "24 Horas",
+      "url": "https://24-horas.mx/mexico/fgr-realiza-megacateo-contra-robo-a-transporte-en-san-luis-potosi/",
+      "dot_color": "#c0392b",
+      "badge_txt": "ROBO",
+      "lat": 22.15,
+      "lon": -100.97
+    }
+  ]
 }
