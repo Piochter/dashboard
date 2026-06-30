@@ -1,75 +1,12 @@
 {
-  "ultima_actualizacion": "2026-06-30T14:22:22.806480-06:00",
-  "ultima_actualizacion_legible": "30 de junio de 2026 · 14:22 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-06-30T15:56:27.490534-06:00",
+  "ultima_actualizacion_legible": "30 de junio de 2026 · 15:56 CST",
+  "total": 0,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Google News",
-    "Medios regionales"
+    "Google News"
   ],
-  "grupos": [
-    {
-      "tipo": "robo",
-      "color": "rojo",
-      "icono": "🚨",
-      "label": "ROBOS EN CARRETERA",
-      "col2": true,
-      "alertas": [
-        {
-          "id": "515c7cfa",
-          "tipo": "robo",
-          "ruta": "Cae Joven de 19 Años por Robo de Hidrocarburos en…",
-          "descripcion": "Cae Joven de 19 Años por Robo de Hidrocarburos en Puebla; Aseguraron Dos Pipas de Gas LP - N+. Cae Joven de 19 Años por Robo de Hidrocarburos en Puebla; Aseguraron Dos Pipas de Gas LP N+",
-          "recomendacion": "",
-          "fecha": "30 junio 2026 · 11:35 CST",
-          "fecha_iso": "2026-06-30T11:35:00-06:00",
-          "fuente": "N+",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYmtEd1BFUkFCRzMzQkJKQXFLcVJyeXV6blp2MkZYa3BJYlprczdZRFRsdTZkODdrVThpbjVzWEdLOFZoS3paRjBWbnVaVkVNdUU3cV9Pc1pNR1hqOVdQbmFkOXFRMmdTYUpuQzFJcE1NWUJlalVzaW5OZ1RocFdBNVFOYzRyNEVESm9pNDhTbl9wVllYZDBuOXZhYUo5YlJTNlN6cDZ5aWdReEdWeHBUcDkyd2hmcHpoUVE?oc=5",
-          "dot_color": "#c0392b",
-          "badge": "badge-robo",
-          "badge_txt": "ROBO",
-          "lat": 19.04,
-          "lon": -98.2
-        }
-      ]
-    },
-    {
-      "tipo": "clima",
-      "color": "azul",
-      "icono": "🌧️",
-      "label": "ALERTA METEOROLÓGICA",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "9ef43bc8",
-          "tipo": "clima",
-          "ruta": "Realizan limpieza y mantenimiento en Paso Catrinas tras inundación…",
-          "descripcion": "Realizan limpieza y mantenimiento en Paso Catrinas tras inundación. Continúan con el retiro de 170 toneladas de material",
-          "recomendacion": "",
-          "fecha": "30 junio 2026 · 14:12 CST",
-          "fecha_iso": "2026-06-30T14:12:00-06:00",
-          "fuente": "Quadratín Michoacán",
-          "url": "https://www.quadratin.com.mx/sucesos/realizan-limpieza-y-mantenimiento-en-paso-catrinas-tras-inundacion/",
-          "dot_color": "#3498db",
-          "badge": "badge-clima",
-          "badge_txt": "ALERTA CLIMA"
-        }
-      ]
-    }
-  ],
-  "para_mapa": [
-    {
-      "id": "515c7cfa",
-      "tipo": "robo",
-      "ruta": "Cae Joven de 19 Años por Robo de Hidrocarburos en…",
-      "descripcion": "Cae Joven de 19 Años por Robo de Hidrocarburos en Puebla; Aseguraron Dos Pipas de Gas LP - N+. Cae Joven de 19 Años por Robo de Hidrocarburos en Puebla; Aseguraron Dos Pipas de Gas LP N+",
-      "fecha": "30 junio 2026 · 11:35 CST",
-      "fuente": "N+",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYmtEd1BFUkFCRzMzQkJKQXFLcVJyeXV6blp2MkZYa3BJYlprczdZRFRsdTZkODdrVThpbjVzWEdLOFZoS3paRjBWbnVaVkVNdUU3cV9Pc1pNR1hqOVdQbmFkOXFRMmdTYUpuQzFJcE1NWUJlalVzaW5OZ1RocFdBNVFOYzRyNEVESm9pNDhTbl9wVllYZDBuOXZhYUo5YlJTNlN6cDZ5aWdReEdWeHBUcDkyd2hmcHpoUVE?oc=5",
-      "dot_color": "#c0392b",
-      "badge_txt": "ROBO",
-      "lat": 19.04,
-      "lon": -98.2
-    }
-  ]
+  "grupos": [],
+  "para_mapa": [],
+  "nota": "Sin alertas activas en la ventana de tiempo configurada."
 }
