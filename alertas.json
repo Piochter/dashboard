@@ -1,11 +1,10 @@
 {
-  "ultima_actualizacion": "2026-06-30T10:04:12.468299-06:00",
-  "ultima_actualizacion_legible": "30 de junio de 2026 · 10:04 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-06-30T12:15:46.813494-06:00",
+  "ultima_actualizacion_legible": "30 de junio de 2026 · 12:15 CST",
+  "total": 1,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Google News",
-    "Medios regionales"
+    "Google News"
   ],
   "grupos": [
     {
@@ -16,89 +15,21 @@
       "col2": false,
       "alertas": [
         {
-          "id": "078bea32",
+          "id": "3d97679a",
           "tipo": "bloqueo",
-          "ruta": "autopista este 30 de junio - TV Azteca",
-          "descripcion": "¿Qué pasa en la carretera México-Querétaro hoy EN VIVO? Bloqueos y tráfico en la autopista este 30 de junio - TV Azteca. ¿Qué pasa en la carretera México-Querétaro hoy EN VIVO? Bloqueos y tráfico en la autopista este 30 de junio TV Azteca",
+          "ruta": "¿Hay Bloqueos en Carreteras Hoy? Así las Autopistas de México…",
+          "descripcion": "¿Hay Bloqueos en Carreteras Hoy? Así las Autopistas de México este 30 de Junio 2026 - N+. ¿Hay Bloqueos en Carreteras Hoy? Así las Autopistas de México este 30 de Junio 2026 N+",
           "recomendacion": "",
-          "fecha": "30 junio 2026 · 07:46 CST",
-          "fecha_iso": "2026-06-30T07:46:00-06:00",
-          "fuente": "TV Azteca",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQOTQ0SGdWV1NIMjJKSTJFUTVHa21kTl8wLTFUU2dKaDNNRHJaa1BxVWhXcFFIbGVwX2NDa0tTMUxRMDhUV1FLSzhoMU04SFUzaU8zRDVhTkRKSG9EblR5RWIwMmxDRkhPak90VFZRWHBxZ0FQcmtXU0xQNUNJRENYQkxxZF9CVVJRblZjSk1CRXJ6M0Y2c3BET2ZsTnBBYXRqS0NlTnlsOU1VbUNaWWhsbzVmY3BIVkhfNElfekVNcWlLLXlPbGl2dDNjclnSAcwBQVVfeXFMUDk0NEhnVldTSDIySkkyRVE1R2ttZE5fMC0xVFNnSmgzTURyWmtQcVVoV3BRSGxlcF9jQ2tLUzFMUTA4VFdRS0s4aDFNOEhVM2lPM0Q1YU5ESkhvRG5UeUViMDJsQ0ZIT2pPdFRWUVhwcWdBUHJrV1NMUDVDSURDWEJMcWRfQlVSUW5WY0pNQkVyejNGNnNwRE9mbE5wQWF0aktDZU55bDlNVW1DWllobG81ZmNwSFZIXzRJX3pFTXFpSy15T2xpdnQzY3JZ?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 20.1,
-          "lon": -99.5
-        },
-        {
-          "id": "b44a541f",
-          "tipo": "bloqueo",
-          "ruta": "Bloqueos carreteras HOY 30 de junio: Autopistas cerradas en México,…",
-          "descripcion": "Bloqueos carreteras HOY 30 de junio: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 30 de junio: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
-          "recomendacion": "",
-          "fecha": "30 junio 2026 · 07:07 CST",
-          "fecha_iso": "2026-06-30T07:07:00-06:00",
-          "fuente": "Eje Central",
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNdGZ6UFpjc1FDa20wRUNOTlQzWWlQRHd0X1JJRW9uMXNaNkU4YTA3RWdGVTBRYVdfY1d6c0NyWGdDQVdFS05iVC1VM1dEZEQ5OGhrT1V2QkpucUl1ZkpiRGdXZzBPalpzdDgzZzNpZUZmdm90cU80VlJNNkU4dkhsTnNTY3c2T1BCeVdzSUc2dGdzcGZQWVVlbDV6bFRMOWNfSEJ6V3hWaEplN29wejdMYWF4SDBqWHBSMFRYM2FJTGlIZ01QZG1nNlctYlk0d2hlcWlqRGx3dTFublJEWVpHNVpxVHZKNWc?oc=5",
+          "fecha": "30 junio 2026 · 09:37 CST",
+          "fecha_iso": "2026-06-30T09:37:00-06:00",
+          "fuente": "N+",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORVZZdFlOQmFtTmNleWdTRF92dGJmbHJOOW03eGdFOEpRWFJ2LWR4a2p6YTJRSmFaY2I5YTF2aUpJNjdyWmxKNS1YTzR0S1YtRWhUOEZJR29oaVdjR0RFNGJPdUVVbk9feGkzRmhOVTdaWjRRNjRDa2t0aU9fVjhtb2hxdmxIOVJnZU44djJFdE81MmwxSkFfTWpJVHZGeUlJdWpWellVNTVTWlBkblMtMWVudjhCQVF3cG95MHYxX3dwbmpWZ21B?oc=5",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO"
         }
       ]
-    },
-    {
-      "tipo": "cierre_parcial",
-      "color": "amarillo",
-      "icono": "🟡",
-      "label": "CIERRE PARCIAL / ACCIDENTES",
-      "col2": true,
-      "alertas": [
-        {
-          "id": "71cc6a2f",
-          "tipo": "cierre_parcial",
-          "ruta": "Reportan aumento de 15% en accidentes viales por lluvias en…",
-          "descripcion": "Reportan aumento de 15% en accidentes viales por lluvias en Morelia. Señaló José Pablo Alarcón Olmedo",
-          "recomendacion": "",
-          "fecha": "30 junio 2026 · 09:35 CST",
-          "fecha_iso": "2026-06-30T09:35:00-06:00",
-          "fuente": "Quadratín Michoacán",
-          "url": "https://www.quadratin.com.mx/municipios/reportan-aumento-de-15-en-accidentes-viales-por-lluvias-en-morelia/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 21.0,
-          "lon": -104.0
-        }
-      ]
     }
   ],
-  "para_mapa": [
-    {
-      "id": "71cc6a2f",
-      "tipo": "cierre_parcial",
-      "ruta": "Reportan aumento de 15% en accidentes viales por lluvias en…",
-      "descripcion": "Reportan aumento de 15% en accidentes viales por lluvias en Morelia. Señaló José Pablo Alarcón Olmedo",
-      "fecha": "30 junio 2026 · 09:35 CST",
-      "fuente": "Quadratín Michoacán",
-      "url": "https://www.quadratin.com.mx/municipios/reportan-aumento-de-15-en-accidentes-viales-por-lluvias-en-morelia/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 21.0,
-      "lon": -104.0
-    },
-    {
-      "id": "078bea32",
-      "tipo": "bloqueo",
-      "ruta": "autopista este 30 de junio - TV Azteca",
-      "descripcion": "¿Qué pasa en la carretera México-Querétaro hoy EN VIVO? Bloqueos y tráfico en la autopista este 30 de junio - TV Azteca. ¿Qué pasa en la carretera México-Querétaro hoy EN VIVO? Bloqueos y tráfico en la autopista este 30 de junio TV Azteca",
-      "fecha": "30 junio 2026 · 07:46 CST",
-      "fuente": "TV Azteca",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQOTQ0SGdWV1NIMjJKSTJFUTVHa21kTl8wLTFUU2dKaDNNRHJaa1BxVWhXcFFIbGVwX2NDa0tTMUxRMDhUV1FLSzhoMU04SFUzaU8zRDVhTkRKSG9EblR5RWIwMmxDRkhPak90VFZRWHBxZ0FQcmtXU0xQNUNJRENYQkxxZF9CVVJRblZjSk1CRXJ6M0Y2c3BET2ZsTnBBYXRqS0NlTnlsOU1VbUNaWWhsbzVmY3BIVkhfNElfekVNcWlLLXlPbGl2dDNjclnSAcwBQVVfeXFMUDk0NEhnVldTSDIySkkyRVE1R2ttZE5fMC0xVFNnSmgzTURyWmtQcVVoV3BRSGxlcF9jQ2tLUzFMUTA4VFdRS0s4aDFNOEhVM2lPM0Q1YU5ESkhvRG5UeUViMDJsQ0ZIT2pPdFRWUVhwcWdBUHJrV1NMUDVDSURDWEJMcWRfQlVSUW5WY0pNQkVyejNGNnNwRE9mbE5wQWF0aktDZU55bDlNVW1DWllobG81ZmNwSFZIXzRJX3pFTXFpSy15T2xpdnQzY3JZ?oc=5",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 20.1,
-      "lon": -99.5
-    }
-  ]
+  "para_mapa": []
 }
