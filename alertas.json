@@ -1,12 +1,35 @@
 {
-  "ultima_actualizacion": "2026-07-01T15:07:13.438368-06:00",
-  "ultima_actualizacion_legible": "1 de julio de 2026 · 15:07 CST",
-  "total": 0,
+  "ultima_actualizacion": "2026-07-01T16:41:38.356190-06:00",
+  "ultima_actualizacion_legible": "1 de julio de 2026 · 16:41 CST",
+  "total": 1,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Google News"
+    "Quadratín + regionales"
   ],
-  "grupos": [],
-  "para_mapa": [],
-  "nota": "Sin alertas activas en la ventana de tiempo configurada."
+  "grupos": [
+    {
+      "tipo": "bloqueo",
+      "color": "rojo",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "22b13f20",
+          "tipo": "bloqueo",
+          "ruta": "Juzgados federales no reciben amparos: jubilados de Pemex y CFE…",
+          "descripcion": "Juzgados federales no reciben amparos: jubilados de Pemex y CFE. En un lapso de 24 horas los están rechazando",
+          "recomendacion": "",
+          "fecha": "1 julio 2026 · 16:32 CST",
+          "fecha_iso": "2026-07-01T16:32:00-06:00",
+          "fuente": "Quadratín Veracruz",
+          "url": "https://veracruz.quadratin.com.mx/juzgados-federales-no-reciben-amparos-jubilados-de-pemex-y-cfe/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        }
+      ]
+    }
+  ],
+  "para_mapa": []
 }
