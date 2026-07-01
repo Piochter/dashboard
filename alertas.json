@@ -1,12 +1,133 @@
 {
-  "ultima_actualizacion": "2026-07-01T06:03:10.804039-06:00",
-  "ultima_actualizacion_legible": "1 de julio de 2026 · 06:03 CST",
-  "total": 0,
+  "ultima_actualizacion": "2026-07-01T09:12:58.533167-06:00",
+  "ultima_actualizacion_legible": "1 de julio de 2026 · 09:12 CST",
+  "total": 4,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Google News"
+    "Google News",
+    "Telegram"
   ],
-  "grupos": [],
-  "para_mapa": [],
-  "nota": "Sin alertas activas en la ventana de tiempo configurada."
+  "grupos": [
+    {
+      "tipo": "bloqueo",
+      "color": "rojo",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "ec51717f",
+          "tipo": "bloqueo",
+          "ruta": "Un Tráiler Volcó en la Lateral de la Autopista México-Puebla:…",
+          "descripcion": "Un Tráiler Volcó en la Lateral de la Autopista México-Puebla: Reportan Bloqueo Total - N+. Un Tráiler Volcó en la Lateral de la Autopista México-Puebla: Reportan Bloqueo Total N+",
+          "recomendacion": "",
+          "fecha": "1 julio 2026 · 08:13 CST",
+          "fecha_iso": "2026-07-01T08:13:00-06:00",
+          "fuente": "N+",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQNXF6TkxuS3BDbzRsc3hhQ1V6ZlpKQ1RWR2NwQUZmOVpWZVI4ZEZDOTUwSWxlR1ZINGo5LW5UUzRwS2VERmNMT2dQM0ZDZHIyUWltSFhkUEVIaUV4Rl9aUHVvcFBVZVJkUkIzZFpuaVdJdXdsblh0R2FBTGU3NVJ2emVwQlJGN3RQdGZGM0JkZk5yUTBxV0NOZzJBM05ybWRFWUlXcmZ1M0Nvb0NMMlZKUFAtOGVXcEhkcHB0dTJXakpqSWU4NS1BVi1WVm5uOVZzandRVXRLN2pnWDdRSEJmSndLckpLcGh6SnZ4SXBzbks5QVQ2?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 19.35,
+          "lon": -98.4
+        },
+        {
+          "id": "61349fee",
+          "tipo": "bloqueo",
+          "ruta": "Bloqueos carreteras HOY 1 de julio: Autopistas cerradas en México,…",
+          "descripcion": "Bloqueos carreteras HOY 1 de julio: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 1 de julio: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
+          "recomendacion": "",
+          "fecha": "1 julio 2026 · 08:01 CST",
+          "fecha_iso": "2026-07-01T08:01:00-06:00",
+          "fuente": "Eje Central",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPQnVVQV9RT2NoMHczdE8wNjJ0RmZmMjUwYmpJZEQ4Z1gtUlY1anpOWjg3WS1CNEFVWXlSVVIza1JnX0czRDdGRHBLNEVUMEJnd1VnOVI5WnRWYTJILTFMbGd1RkNkaElWNUFlNm9RMDR3ZVpRU3l4aWhZMDIza2o1ODNrNFdJQmU1WXJWNVMxNGVOX2Q0dVB4a2kzaDNzeUtmQjUwQlpVSjlzMndqMlh4MzZ5RjNRVGYwYXZGOTd2SmZBZW5tT05ZcTlhZ3JiTjdoTzYxQVI2SklHdVM5VC1jbm5aRU43UQ?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
+        {
+          "id": "5a1d21d5",
+          "tipo": "bloqueo",
+          "ruta": "carretera este 1 de julio - TV Azteca",
+          "descripcion": "Autopista México-Toluca hoy: Tráfico y bloqueos EN VIVO en la carretera este 1 de julio - TV Azteca. Autopista México-Toluca hoy: Tráfico y bloqueos EN VIVO en la carretera este 1 de julio TV Azteca",
+          "recomendacion": "",
+          "fecha": "1 julio 2026 · 07:47 CST",
+          "fecha_iso": "2026-07-01T07:47:00-06:00",
+          "fuente": "TV Azteca",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbzhuRDRTYkJZUmNxay1EVEVvQ3A3U3o1dm5SSExIVi11cWd2bEhaNC1oajU5YlkyNVZPMkFhU2R4SDl4S21RMkh4akZkMndpTEhoNWsxSFl3Um9MYmNhcW9reHZIY2NJRWNJUFRRUXlTb0lzcTdMelBrR1lHZTBRWGVRTm5nVHJjUjZBRWtpYVNxTG0xcjI5TFhNZ3dqaGwtYnhGQy1rUVBudVdVbmFzb2dGcmtIUXpT0gHGAUFVX3lxTE9GY3F3MlZma2syaVpuYUtxTjB2QTRCcGp2VlFWMFRsN0JoN0N3cWtvTmFId3NjTm9WOW14a0pVeEpVcFN1cldVNW1IbFF3NGYtLXpnZV96bTFsNi1mdF9ibWRyMDgwaklQdDlxS1hISUNyeEZ1WFdHRVVrNHdYZjZ2MHkzcFdFdF8wT2todFdkY2VjQ3NsbXlEU3JjVFJGRUptMXFLZzg4WkcyZDN2TVc3X2hRb0RqQzZWeElNR1pZMW0zd1FvQQ?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 19.29,
+          "lon": -99.66
+        }
+      ]
+    },
+    {
+      "tipo": "cierre_parcial",
+      "color": "amarillo",
+      "icono": "🟡",
+      "label": "CIERRE PARCIAL / ACCIDENTES",
+      "col2": true,
+      "alertas": [
+        {
+          "id": "9edd46b1",
+          "tipo": "cierre_parcial",
+          "ruta": "🚧🚨#AlertaVial | Accidente en la México-Pachuca deja un auto volcado…",
+          "descripcion": "🚧🚨#AlertaVial | Accidente en la México-Pachuca deja un auto volcado hoy 1 de julio [VIDEO]\n https://lajornadaestadodemexico.com/accidente-en-la-mexico-pachuca-deja-un-auto-volcado-hoy-1-de-julio-video/",
+          "recomendacion": "",
+          "fecha": "1 julio 2026 · 08:07 CST",
+          "fecha_iso": "2026-07-01T08:07:00-06:00",
+          "fuente": "Telegram @jornadaedomex",
+          "url": "https://t.me/jornadaedomex/11258",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 20.12,
+          "lon": -98.73
+        }
+      ]
+    }
+  ],
+  "para_mapa": [
+    {
+      "id": "ec51717f",
+      "tipo": "bloqueo",
+      "ruta": "Un Tráiler Volcó en la Lateral de la Autopista México-Puebla:…",
+      "descripcion": "Un Tráiler Volcó en la Lateral de la Autopista México-Puebla: Reportan Bloqueo Total - N+. Un Tráiler Volcó en la Lateral de la Autopista México-Puebla: Reportan Bloqueo Total N+",
+      "fecha": "1 julio 2026 · 08:13 CST",
+      "fuente": "N+",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQNXF6TkxuS3BDbzRsc3hhQ1V6ZlpKQ1RWR2NwQUZmOVpWZVI4ZEZDOTUwSWxlR1ZINGo5LW5UUzRwS2VERmNMT2dQM0ZDZHIyUWltSFhkUEVIaUV4Rl9aUHVvcFBVZVJkUkIzZFpuaVdJdXdsblh0R2FBTGU3NVJ2emVwQlJGN3RQdGZGM0JkZk5yUTBxV0NOZzJBM05ybWRFWUlXcmZ1M0Nvb0NMMlZKUFAtOGVXcEhkcHB0dTJXakpqSWU4NS1BVi1WVm5uOVZzandRVXRLN2pnWDdRSEJmSndLckpLcGh6SnZ4SXBzbks5QVQ2?oc=5",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 19.35,
+      "lon": -98.4
+    },
+    {
+      "id": "9edd46b1",
+      "tipo": "cierre_parcial",
+      "ruta": "🚧🚨#AlertaVial | Accidente en la México-Pachuca deja un auto volcado…",
+      "descripcion": "🚧🚨#AlertaVial | Accidente en la México-Pachuca deja un auto volcado hoy 1 de julio [VIDEO]\n https://lajornadaestadodemexico.com/accidente-en-la-mexico-pachuca-deja-un-auto-volcado-hoy-1-de-julio-video/",
+      "fecha": "1 julio 2026 · 08:07 CST",
+      "fuente": "Telegram @jornadaedomex",
+      "url": "https://t.me/jornadaedomex/11258",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 20.12,
+      "lon": -98.73
+    },
+    {
+      "id": "5a1d21d5",
+      "tipo": "bloqueo",
+      "ruta": "carretera este 1 de julio - TV Azteca",
+      "descripcion": "Autopista México-Toluca hoy: Tráfico y bloqueos EN VIVO en la carretera este 1 de julio - TV Azteca. Autopista México-Toluca hoy: Tráfico y bloqueos EN VIVO en la carretera este 1 de julio TV Azteca",
+      "fecha": "1 julio 2026 · 07:47 CST",
+      "fuente": "TV Azteca",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbzhuRDRTYkJZUmNxay1EVEVvQ3A3U3o1dm5SSExIVi11cWd2bEhaNC1oajU5YlkyNVZPMkFhU2R4SDl4S21RMkh4akZkMndpTEhoNWsxSFl3Um9MYmNhcW9reHZIY2NJRWNJUFRRUXlTb0lzcTdMelBrR1lHZTBRWGVRTm5nVHJjUjZBRWtpYVNxTG0xcjI5TFhNZ3dqaGwtYnhGQy1rUVBudVdVbmFzb2dGcmtIUXpT0gHGAUFVX3lxTE9GY3F3MlZma2syaVpuYUtxTjB2QTRCcGp2VlFWMFRsN0JoN0N3cWtvTmFId3NjTm9WOW14a0pVeEpVcFN1cldVNW1IbFF3NGYtLXpnZV96bTFsNi1mdF9ibWRyMDgwaklQdDlxS1hISUNyeEZ1WFdHRVVrNHdYZjZ2MHkzcFdFdF8wT2todFdkY2VjQ3NsbXlEU3JjVFJGRUptMXFLZzg4WkcyZDN2TVc3X2hRb0RqQzZWeElNR1pZMW0zd1FvQQ?oc=5",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 19.29,
+      "lon": -99.66
+    }
+  ]
 }
