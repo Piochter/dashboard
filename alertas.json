@@ -1,74 +1,12 @@
 {
-  "ultima_actualizacion": "2026-06-30T18:23:00.455672-06:00",
-  "ultima_actualizacion_legible": "30 de junio de 2026 · 18:23 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-06-30T23:06:49.880469-06:00",
+  "ultima_actualizacion_legible": "30 de junio de 2026 · 23:06 CST",
+  "total": 0,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Medios regionales"
+    "Google News"
   ],
-  "grupos": [
-    {
-      "tipo": "robo",
-      "color": "rojo",
-      "icono": "🚨",
-      "label": "ROBOS EN CARRETERA",
-      "col2": true,
-      "alertas": [
-        {
-          "id": "d609499c",
-          "tipo": "robo",
-          "ruta": "Astronautas de la NASA reparan el brazo robótico de la…",
-          "descripcion": "Astronautas de la NASA reparan el brazo robótico de la EEI tras una caminata espacial. Con esta caminata espacial, la NASA se ha situado unas pocas misiones más para llegar a las 300, en las que los astronautas se han vuelto expertos trabajando en el vacío",
-          "recomendacion": "",
-          "fecha": "30 junio 2026 · 16:25 CST",
-          "fecha_iso": "2026-06-30T16:25:00-06:00",
-          "fuente": "El Informador Jalisco",
-          "url": "https://www.informador.mx/tecnologia/astronautas-de-la-nasa-reparan-el-brazo-robotico-de-la-eei-tras-una-caminata-espacial-20260630-0138.html",
-          "dot_color": "#c0392b",
-          "badge": "badge-robo",
-          "badge_txt": "ROBO"
-        }
-      ]
-    },
-    {
-      "tipo": "cierre_parcial",
-      "color": "amarillo",
-      "icono": "🟡",
-      "label": "CIERRE PARCIAL / ACCIDENTES",
-      "col2": true,
-      "alertas": [
-        {
-          "id": "246c8ef2",
-          "tipo": "cierre_parcial",
-          "ruta": "Fan Fest de Guadalajara reporta cupo lleno una vez más;…",
-          "descripcion": "Fan Fest de Guadalajara reporta cupo lleno una vez más; transmisión en La Minerva contará con música y fiesta. Ante el cupo lleno en el FIFA Fan Fest para el duelo entre México y Ecuador, autoridades invitan a la afición a sedes alternas y anuncian el desvío de 19 rutas de transporte público por cierres viales",
-          "recomendacion": "desvío de 19 rutas de transporte público por cierres viales",
-          "fecha": "30 junio 2026 · 15:59 CST",
-          "fecha_iso": "2026-06-30T15:59:00-06:00",
-          "fuente": "El Informador Jalisco",
-          "url": "https://www.informador.mx/jalisco/mundial-2026-fan-fest-de-guadalajara-reporta-cupo-lleno-una-vez-mas-transmision-en-la-minerva-contara-con-musica-y-fiesta-20260630-0143.html",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 20.66,
-          "lon": -103.35
-        }
-      ]
-    }
-  ],
-  "para_mapa": [
-    {
-      "id": "246c8ef2",
-      "tipo": "cierre_parcial",
-      "ruta": "Fan Fest de Guadalajara reporta cupo lleno una vez más;…",
-      "descripcion": "Fan Fest de Guadalajara reporta cupo lleno una vez más; transmisión en La Minerva contará con música y fiesta. Ante el cupo lleno en el FIFA Fan Fest para el duelo entre México y Ecuador, autoridades invitan a la afición a sedes alternas y anuncian el desvío de 19 rutas de transporte público por cierres viales",
-      "fecha": "30 junio 2026 · 15:59 CST",
-      "fuente": "El Informador Jalisco",
-      "url": "https://www.informador.mx/jalisco/mundial-2026-fan-fest-de-guadalajara-reporta-cupo-lleno-una-vez-mas-transmision-en-la-minerva-contara-con-musica-y-fiesta-20260630-0143.html",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 20.66,
-      "lon": -103.35
-    }
-  ]
+  "grupos": [],
+  "para_mapa": [],
+  "nota": "Sin alertas activas en la ventana de tiempo configurada."
 }
