@@ -1,35 +1,12 @@
 {
-  "ultima_actualizacion": "2026-07-02T00:40:43.310740-06:00",
-  "ultima_actualizacion_legible": "2 de julio de 2026 · 00:40 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-07-02T03:49:33.651719-06:00",
+  "ultima_actualizacion_legible": "2 de julio de 2026 · 03:49 CST",
+  "total": 0,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Medios regionales"
+    "Google News"
   ],
-  "grupos": [
-    {
-      "tipo": "cierre_parcial",
-      "color": "amarillo",
-      "icono": "🟡",
-      "label": "CIERRE PARCIAL / ACCIDENTES",
-      "col2": true,
-      "alertas": [
-        {
-          "id": "e340b5b8",
-          "tipo": "cierre_parcial",
-          "ruta": "Rescatan a 16 niños que vivían confinados en cuarto, eran…",
-          "descripcion": "Rescatan a 16 niños que vivían confinados en cuarto, eran como ‘salvajes’, dicen autoridades. Un operativo de cateo accidental dejó al descubierto un caso de maltrato sistemático en Hamden, Ohio. Dieciséis hermanos vivían encerrados en un cuarto rodeados de basura.",
-          "recomendacion": "",
-          "fecha": "1 julio 2026 · 22:41 CST",
-          "fecha_iso": "2026-07-01T22:41:00-06:00",
-          "fuente": "AM Guanajuato",
-          "url": "https://www.am.com.mx/estados-unidos/2026/07/01/rescatan-a-16-ninos-que-vivian-confinados-en-cuarto-eran-como-salvajes-dicen-autoridades-1814169.html",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
-        }
-      ]
-    }
-  ],
-  "para_mapa": []
+  "grupos": [],
+  "para_mapa": [],
+  "nota": "Sin alertas activas en la ventana de tiempo configurada."
 }
