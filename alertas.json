@@ -1,12 +1,80 @@
 {
-  "ultima_actualizacion": "2026-07-02T06:08:53.634940-06:00",
-  "ultima_actualizacion_legible": "2 de julio de 2026 · 06:08 CST",
-  "total": 0,
+  "ultima_actualizacion": "2026-07-02T08:30:21.156086-06:00",
+  "ultima_actualizacion_legible": "2 de julio de 2026 · 08:30 CST",
+  "total": 3,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Google News"
+    "Google News",
+    "Telegram"
   ],
-  "grupos": [],
-  "para_mapa": [],
-  "nota": "Sin alertas activas en la ventana de tiempo configurada."
+  "grupos": [
+    {
+      "tipo": "bloqueo",
+      "color": "rojo",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "696029f5",
+          "tipo": "bloqueo",
+          "ruta": "EN VIVO: ¿Hay bloqueos en carreteras hoy? Cierres y tráfico…",
+          "descripcion": "EN VIVO: ¿Hay bloqueos en carreteras hoy? Cierres y tráfico en autopistas de México este 2 de julio - TV Azteca. EN VIVO: ¿Hay bloqueos en carreteras hoy? Cierres y tráfico en autopistas de México este 2 de julio TV Azteca",
+          "recomendacion": "",
+          "fecha": "2 julio 2026 · 07:29 CST",
+          "fecha_iso": "2026-07-02T07:29:00-06:00",
+          "fuente": "TV Azteca",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRHVybTRUc3kwV1EzVFJuWmFJVUNlM1NUODNfWEhDV0hzWHpMQnRwYUhBRmptTzdDWWlablRvNzVLbmNBdDBZZ3VLZ19YbW5vOE1RZmhFVEdyR1E0dmhIcnFTZnNZZzZqV0lBdVhnLTlqQm05QVBzNFB2ZGpBb1VPREZNZ2pfcmRVM2l6SG9yMFZ2QjlQRjFWT3NQOEM1cXQzdmNTSldSLU5BWF9TRVNVaXJOd2FkWml1QTJQSWs4VnFYUdIBzwFBVV95cUxOSmQ3dTNpd1FwMXJacG8yQXZxSDNPc1BQenhZS0NqUHc2dXhhbUlvR0QxMWc3ZVRVT0JDaFZoLXVDcVo0cEtEUXBjdlpXb0NBcWdWaUtvd0R0X2hFbkl3VXQwTEItOHItd3NENVhEbFdBUURtLXdkX213ZXEtbm1XSEpHbGpqQnpIZ1A2ZVBoZXUzb1dwUXVHWURsQXE4ei1waUhiVXhhU3lmSW1PTnVZM3VSVjVUQktGZ1k4aHRfNVRfS2pjZDllUTVMUXRCRHc?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
+        {
+          "id": "aa39136a",
+          "tipo": "bloqueo",
+          "ruta": "Bloqueos carreteras HOY 2 de julio: Autopistas cerradas en México,…",
+          "descripcion": "Bloqueos carreteras HOY 2 de julio: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 2 de julio: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
+          "recomendacion": "",
+          "fecha": "2 julio 2026 · 07:06 CST",
+          "fecha_iso": "2026-07-02T07:06:00-06:00",
+          "fuente": "Eje Central",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQNWZVLUI0ZDhaME1zYUpyOXhxaHpEdERkSUszcG0yV3o2VGFBVWZIZzl2ck9tdHVELTFibEpFOFo5cUNTMGJ6ZHV6Yl9KLTNzMlMxVkl1M0FrMy1OQm84bFpvcFJzQXdCR19iOVhSOC1SamRVdTAyMkVpdTJlMml6MlBicmdTRUNKS2hrWEJmQzFUb3IzRmpxeUJZNHREMGlyQlFOMXdvRC1JWnhsbUg5cE5RbUlkOWM1ZVlDRlBXZ1lOM3RKVF9zVlJRZ3MxcElOb2pFaTBNWTIzT2l6amdUNkxqU044QQ?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
+        {
+          "id": "3de64ce1",
+          "tipo": "bloqueo",
+          "ruta": "Rector de la UAS confía en una solución a la…",
+          "descripcion": "Rector de la UAS confía en una solución a la crisis financiera de la institución\nhttps://www.jornada.com.mx/2026/07/02/estados/026n3est?partner=rss\n\nEl rector de la Universidad Autónoma de Sinaloa (UAS), Jesús Madueña Molina, espera que haya acuerdos en la reunión de autoridades federales de las secretarías de Educación Pública y de Hacienda para destrabar el problema financiero que mantiene en paro laboral a la universidad.",
+          "recomendacion": "",
+          "fecha": "2 julio 2026 · 06:34 CST",
+          "fecha_iso": "2026-07-02T06:34:00-06:00",
+          "fuente": "Telegram @NOTMEX",
+          "url": "https://t.me/NOTMEX/184282",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 24.8,
+          "lon": -107.39
+        }
+      ]
+    }
+  ],
+  "para_mapa": [
+    {
+      "id": "3de64ce1",
+      "tipo": "bloqueo",
+      "ruta": "Rector de la UAS confía en una solución a la…",
+      "descripcion": "Rector de la UAS confía en una solución a la crisis financiera de la institución\nhttps://www.jornada.com.mx/2026/07/02/estados/026n3est?partner=rss\n\nEl rector de la Universidad Autónoma de Sinaloa (UAS), Jesús Madueña Molina, espera que haya acuerdos en la reunión de autoridades federales de las secretarías de Educación Pública y de Hacienda para destrabar el problema financiero que mantiene en paro laboral a la universidad.",
+      "fecha": "2 julio 2026 · 06:34 CST",
+      "fuente": "Telegram @NOTMEX",
+      "url": "https://t.me/NOTMEX/184282",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 24.8,
+      "lon": -107.39
+    }
+  ]
 }
