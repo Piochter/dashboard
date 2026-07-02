@@ -1,13 +1,37 @@
 {
-  "ultima_actualizacion": "2026-07-02T08:30:21.156086-06:00",
-  "ultima_actualizacion_legible": "2 de julio de 2026 · 08:30 CST",
+  "ultima_actualizacion": "2026-07-02T10:22:24.668929-06:00",
+  "ultima_actualizacion_legible": "2 de julio de 2026 · 10:22 CST",
   "total": 3,
   "ventana": "últimos 180 minutos",
   "fuentes": [
     "Google News",
-    "Telegram"
+    "Medios regionales",
+    "Quadratín + regionales"
   ],
   "grupos": [
+    {
+      "tipo": "cierre_total",
+      "color": "rojo",
+      "icono": "🔴",
+      "label": "CIERRE TOTAL",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "968ecc92",
+          "tipo": "cierre_total",
+          "ruta": "carretera Nochixtlán-Huitzo",
+          "descripcion": "Derrumbes por lluvia afectan la carretera Nochixtlán-Huitzo. Deslaves afectan varios tramos; exhortan a extremar precauciones y atender avisos oficiales.",
+          "recomendacion": "",
+          "fecha": "2 julio 2026 · 08:32 CST",
+          "fecha_iso": "2026-07-02T08:32:00-06:00",
+          "fuente": "Quadratín Oaxaca",
+          "url": "https://oaxaca.quadratin.com.mx/derrumbes-por-lluvia-afectan-la-carretera-nochixtlan-huitzo/",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL"
+        }
+      ]
+    },
     {
       "tipo": "bloqueo",
       "color": "rojo",
@@ -28,53 +52,48 @@
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO"
-        },
+        }
+      ]
+    },
+    {
+      "tipo": "clima",
+      "color": "azul",
+      "icono": "🌧️",
+      "label": "ALERTA METEOROLÓGICA",
+      "col2": false,
+      "alertas": [
         {
-          "id": "aa39136a",
-          "tipo": "bloqueo",
-          "ruta": "Bloqueos carreteras HOY 2 de julio: Autopistas cerradas en México,…",
-          "descripcion": "Bloqueos carreteras HOY 2 de julio: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 2 de julio: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
+          "id": "d999dcf2",
+          "tipo": "clima",
+          "ruta": "Alerta en Celaya: ‘Brotan’ animales silvestres de sus nidos por…",
+          "descripcion": "Alerta en Celaya: ‘Brotan’ animales silvestres de sus nidos por lluvias recientes. Suben 40% los reportes de fauna silvestre en zonas urbanas por inundación de sus madrigueras; piden llamar al 911.",
           "recomendacion": "",
-          "fecha": "2 julio 2026 · 07:06 CST",
-          "fecha_iso": "2026-07-02T07:06:00-06:00",
-          "fuente": "Eje Central",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQNWZVLUI0ZDhaME1zYUpyOXhxaHpEdERkSUszcG0yV3o2VGFBVWZIZzl2ck9tdHVELTFibEpFOFo5cUNTMGJ6ZHV6Yl9KLTNzMlMxVkl1M0FrMy1OQm84bFpvcFJzQXdCR19iOVhSOC1SamRVdTAyMkVpdTJlMml6MlBicmdTRUNKS2hrWEJmQzFUb3IzRmpxeUJZNHREMGlyQlFOMXdvRC1JWnhsbUg5cE5RbUlkOWM1ZVlDRlBXZ1lOM3RKVF9zVlJRZ3MxcElOb2pFaTBNWTIzT2l6amdUNkxqU044QQ?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        },
-        {
-          "id": "3de64ce1",
-          "tipo": "bloqueo",
-          "ruta": "Rector de la UAS confía en una solución a la…",
-          "descripcion": "Rector de la UAS confía en una solución a la crisis financiera de la institución\nhttps://www.jornada.com.mx/2026/07/02/estados/026n3est?partner=rss\n\nEl rector de la Universidad Autónoma de Sinaloa (UAS), Jesús Madueña Molina, espera que haya acuerdos en la reunión de autoridades federales de las secretarías de Educación Pública y de Hacienda para destrabar el problema financiero que mantiene en paro laboral a la universidad.",
-          "recomendacion": "",
-          "fecha": "2 julio 2026 · 06:34 CST",
-          "fecha_iso": "2026-07-02T06:34:00-06:00",
-          "fuente": "Telegram @NOTMEX",
-          "url": "https://t.me/NOTMEX/184282",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 24.8,
-          "lon": -107.39
+          "fecha": "2 julio 2026 · 09:52 CST",
+          "fecha_iso": "2026-07-02T09:52:00-06:00",
+          "fuente": "AM Guanajuato",
+          "url": "https://www.am.com.mx/celaya/2026/07/02/alerta-en-celaya-brotan-animales-silvestres-de-sus-nidos-por-lluvias-recientes-1814254.html",
+          "dot_color": "#3498db",
+          "badge": "badge-clima",
+          "badge_txt": "ALERTA CLIMA",
+          "lat": 25.2,
+          "lon": -102.0
         }
       ]
     }
   ],
   "para_mapa": [
     {
-      "id": "3de64ce1",
-      "tipo": "bloqueo",
-      "ruta": "Rector de la UAS confía en una solución a la…",
-      "descripcion": "Rector de la UAS confía en una solución a la crisis financiera de la institución\nhttps://www.jornada.com.mx/2026/07/02/estados/026n3est?partner=rss\n\nEl rector de la Universidad Autónoma de Sinaloa (UAS), Jesús Madueña Molina, espera que haya acuerdos en la reunión de autoridades federales de las secretarías de Educación Pública y de Hacienda para destrabar el problema financiero que mantiene en paro laboral a la universidad.",
-      "fecha": "2 julio 2026 · 06:34 CST",
-      "fuente": "Telegram @NOTMEX",
-      "url": "https://t.me/NOTMEX/184282",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 24.8,
-      "lon": -107.39
+      "id": "d999dcf2",
+      "tipo": "clima",
+      "ruta": "Alerta en Celaya: ‘Brotan’ animales silvestres de sus nidos por…",
+      "descripcion": "Alerta en Celaya: ‘Brotan’ animales silvestres de sus nidos por lluvias recientes. Suben 40% los reportes de fauna silvestre en zonas urbanas por inundación de sus madrigueras; piden llamar al 911.",
+      "fecha": "2 julio 2026 · 09:52 CST",
+      "fuente": "AM Guanajuato",
+      "url": "https://www.am.com.mx/celaya/2026/07/02/alerta-en-celaya-brotan-animales-silvestres-de-sus-nidos-por-lluvias-recientes-1814254.html",
+      "dot_color": "#3498db",
+      "badge_txt": "ALERTA CLIMA",
+      "lat": 25.2,
+      "lon": -102.0
     }
   ]
 }
