@@ -1,57 +1,32 @@
 {
-  "ultima_actualizacion": "2026-07-02T10:22:24.668929-06:00",
-  "ultima_actualizacion_legible": "2 de julio de 2026 · 10:22 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-07-02T12:13:57.540052-06:00",
+  "ultima_actualizacion_legible": "2 de julio de 2026 · 12:13 CST",
+  "total": 2,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Google News",
-    "Medios regionales",
-    "Quadratín + regionales"
+    "Medios regionales"
   ],
   "grupos": [
     {
-      "tipo": "cierre_total",
+      "tipo": "robo",
       "color": "rojo",
-      "icono": "🔴",
-      "label": "CIERRE TOTAL",
-      "col2": false,
+      "icono": "🚨",
+      "label": "ROBOS EN CARRETERA",
+      "col2": true,
       "alertas": [
         {
-          "id": "968ecc92",
-          "tipo": "cierre_total",
-          "ruta": "carretera Nochixtlán-Huitzo",
-          "descripcion": "Derrumbes por lluvia afectan la carretera Nochixtlán-Huitzo. Deslaves afectan varios tramos; exhortan a extremar precauciones y atender avisos oficiales.",
+          "id": "51e379cc",
+          "tipo": "robo",
+          "ruta": "Balacera en la autopista Apaseo-Celaya: Policías frustran robo a transportista…",
+          "descripcion": "Balacera en la autopista Apaseo-Celaya: Policías frustran robo a transportista. Policías estatales frustran asalto a transportista tras balacera frente al Parque Industrial La Amistad en Apaseo.",
           "recomendacion": "",
-          "fecha": "2 julio 2026 · 08:32 CST",
-          "fecha_iso": "2026-07-02T08:32:00-06:00",
-          "fuente": "Quadratín Oaxaca",
-          "url": "https://oaxaca.quadratin.com.mx/derrumbes-por-lluvia-afectan-la-carretera-nochixtlan-huitzo/",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL"
-        }
-      ]
-    },
-    {
-      "tipo": "bloqueo",
-      "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "696029f5",
-          "tipo": "bloqueo",
-          "ruta": "EN VIVO: ¿Hay bloqueos en carreteras hoy? Cierres y tráfico…",
-          "descripcion": "EN VIVO: ¿Hay bloqueos en carreteras hoy? Cierres y tráfico en autopistas de México este 2 de julio - TV Azteca. EN VIVO: ¿Hay bloqueos en carreteras hoy? Cierres y tráfico en autopistas de México este 2 de julio TV Azteca",
-          "recomendacion": "",
-          "fecha": "2 julio 2026 · 07:29 CST",
-          "fecha_iso": "2026-07-02T07:29:00-06:00",
-          "fuente": "TV Azteca",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRHVybTRUc3kwV1EzVFJuWmFJVUNlM1NUODNfWEhDV0hzWHpMQnRwYUhBRmptTzdDWWlablRvNzVLbmNBdDBZZ3VLZ19YbW5vOE1RZmhFVEdyR1E0dmhIcnFTZnNZZzZqV0lBdVhnLTlqQm05QVBzNFB2ZGpBb1VPREZNZ2pfcmRVM2l6SG9yMFZ2QjlQRjFWT3NQOEM1cXQzdmNTSldSLU5BWF9TRVNVaXJOd2FkWml1QTJQSWs4VnFYUdIBzwFBVV95cUxOSmQ3dTNpd1FwMXJacG8yQXZxSDNPc1BQenhZS0NqUHc2dXhhbUlvR0QxMWc3ZVRVT0JDaFZoLXVDcVo0cEtEUXBjdlpXb0NBcWdWaUtvd0R0X2hFbkl3VXQwTEItOHItd3NENVhEbFdBUURtLXdkX213ZXEtbm1XSEpHbGpqQnpIZ1A2ZVBoZXUzb1dwUXVHWURsQXE4ei1waUhiVXhhU3lmSW1PTnVZM3VSVjVUQktGZ1k4aHRfNVRfS2pjZDllUTVMUXRCRHc?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
+          "fecha": "2 julio 2026 · 11:42 CST",
+          "fecha_iso": "2026-07-02T11:42:00-06:00",
+          "fuente": "AM Guanajuato",
+          "url": "https://www.am.com.mx/guanajuato-sur/2026/07/02/balacera-en-la-autopista-apaseo-celaya-policias-frustran-robo-a-transportista-1814277.html",
+          "dot_color": "#c0392b",
+          "badge": "badge-robo",
+          "badge_txt": "ROBO"
         }
       ]
     },
