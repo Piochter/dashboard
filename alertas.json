@@ -1,38 +1,12 @@
 {
-  "ultima_actualizacion": "2026-07-01T20:55:04.634258-06:00",
-  "ultima_actualizacion_legible": "1 de julio de 2026 · 20:55 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-07-02T00:40:43.310740-06:00",
+  "ultima_actualizacion_legible": "2 de julio de 2026 · 00:40 CST",
+  "total": 1,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Medios regionales",
-    "Quadratín + regionales"
+    "Medios regionales"
   ],
   "grupos": [
-    {
-      "tipo": "bloqueo",
-      "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "8f4ab866",
-          "tipo": "bloqueo",
-          "ruta": "Renuevan dirigencia de la Asociación de Industriales en Veracruz…",
-          "descripcion": "Renuevan dirigencia de la Asociación de Industriales en Veracruz. Toma protesta Gerardo Correa Falffortd como presidente del Consejo Directivo 26-28",
-          "recomendacion": "",
-          "fecha": "1 julio 2026 · 19:25 CST",
-          "fecha_iso": "2026-07-01T19:25:00-06:00",
-          "fuente": "Quadratín Veracruz",
-          "url": "https://veracruz.quadratin.com.mx/renuevan-dirigencia-de-la-asociacion-de-industriales-en-veracruz/",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 19.18,
-          "lon": -96.14
-        }
-      ]
-    },
     {
       "tipo": "cierre_parcial",
       "color": "amarillo",
@@ -41,50 +15,21 @@
       "col2": true,
       "alertas": [
         {
-          "id": "cf39ffa7",
+          "id": "e340b5b8",
           "tipo": "cierre_parcial",
-          "ruta": "Explota pipa de combustible en Tlaxcala; cierran carretera México-Veracruz (VIDEO)…",
-          "descripcion": "Explota pipa de combustible en Tlaxcala; cierran carretera México-Veracruz (VIDEO). Hasta la noche de este miércoles no se ha informado sobre las causas del accidente y si hay personas lesionadas o fallecidas",
+          "ruta": "Rescatan a 16 niños que vivían confinados en cuarto, eran…",
+          "descripcion": "Rescatan a 16 niños que vivían confinados en cuarto, eran como ‘salvajes’, dicen autoridades. Un operativo de cateo accidental dejó al descubierto un caso de maltrato sistemático en Hamden, Ohio. Dieciséis hermanos vivían encerrados en un cuarto rodeados de basura.",
           "recomendacion": "",
-          "fecha": "1 julio 2026 · 20:45 CST",
-          "fecha_iso": "2026-07-01T20:45:00-06:00",
-          "fuente": "El Informador Jalisco",
-          "url": "https://www.informador.mx/mexico/explota-pipa-de-combustible-en-tlaxcala-cierran-carretera-mexico-veracruz-video-20260701-0261.html",
+          "fecha": "1 julio 2026 · 22:41 CST",
+          "fecha_iso": "2026-07-01T22:41:00-06:00",
+          "fuente": "AM Guanajuato",
+          "url": "https://www.am.com.mx/estados-unidos/2026/07/01/rescatan-a-16-ninos-que-vivian-confinados-en-cuarto-eran-como-salvajes-dicen-autoridades-1814169.html",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.2,
-          "lon": -96.8
+          "badge_txt": "CIERRE PARCIAL"
         }
       ]
     }
   ],
-  "para_mapa": [
-    {
-      "id": "cf39ffa7",
-      "tipo": "cierre_parcial",
-      "ruta": "Explota pipa de combustible en Tlaxcala; cierran carretera México-Veracruz (VIDEO)…",
-      "descripcion": "Explota pipa de combustible en Tlaxcala; cierran carretera México-Veracruz (VIDEO). Hasta la noche de este miércoles no se ha informado sobre las causas del accidente y si hay personas lesionadas o fallecidas",
-      "fecha": "1 julio 2026 · 20:45 CST",
-      "fuente": "El Informador Jalisco",
-      "url": "https://www.informador.mx/mexico/explota-pipa-de-combustible-en-tlaxcala-cierran-carretera-mexico-veracruz-video-20260701-0261.html",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.2,
-      "lon": -96.8
-    },
-    {
-      "id": "8f4ab866",
-      "tipo": "bloqueo",
-      "ruta": "Renuevan dirigencia de la Asociación de Industriales en Veracruz…",
-      "descripcion": "Renuevan dirigencia de la Asociación de Industriales en Veracruz. Toma protesta Gerardo Correa Falffortd como presidente del Consejo Directivo 26-28",
-      "fecha": "1 julio 2026 · 19:25 CST",
-      "fuente": "Quadratín Veracruz",
-      "url": "https://veracruz.quadratin.com.mx/renuevan-dirigencia-de-la-asociacion-de-industriales-en-veracruz/",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 19.18,
-      "lon": -96.14
-    }
-  ]
+  "para_mapa": []
 }
