@@ -1,111 +1,12 @@
 {
-  "ultima_actualizacion": "2026-07-02T16:20:21.608895-06:00",
-  "ultima_actualizacion_legible": "2 de julio de 2026 · 16:20 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-07-02T17:37:20.351823-06:00",
+  "ultima_actualizacion_legible": "2 de julio de 2026 · 17:37 CST",
+  "total": 0,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Google News",
-    "Medios regionales",
-    "Quadratín + regionales"
+    "Google News"
   ],
-  "grupos": [
-    {
-      "tipo": "cierre_parcial",
-      "color": "amarillo",
-      "icono": "🟡",
-      "label": "CIERRE PARCIAL / ACCIDENTES",
-      "col2": true,
-      "alertas": [
-        {
-          "id": "215f7c1d",
-          "tipo": "cierre_parcial",
-          "ruta": "Camión Provoca Fuerte Accidente en la México–Querétaro; Embiste al Menos…",
-          "descripcion": "Camión Provoca Fuerte Accidente en la México–Querétaro; Embiste al Menos Cuatro Vehículos - N+. Camión Provoca Fuerte Accidente en la México–Querétaro; Embiste al Menos Cuatro Vehículos N+",
-          "recomendacion": "",
-          "fecha": "2 julio 2026 · 13:52 CST",
-          "fecha_iso": "2026-07-02T13:52:00-06:00",
-          "fuente": "N+",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZzBCM3N2WTJhUDlFVTZLbHBuMVdNUXpnQTlmSjhjdFhkLWxmYWkyR0dDaVZxWVJrVXZVeWFhN0tkbnhDd0xDU0tJSEd2V0ZqNEs0VGhXS0NZX19SNUViT1BEallxSUFhYlp0bGpNT0VCaHk4ZEpBcnJxSHZ5Y09qb253VDM5bUdnbklJbXdoVENKVXprYXlvZGs2MHVBRjhwbl9wWi1OYjVrdVlsU0M0M3pMWWI1SnJWRVlzbUhRbmlCMzZYa20ySHBmeXR5UzhTbjN2X0Z5Y0xtZG8?oc=5",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 20.1,
-          "lon": -99.5
-        },
-        {
-          "id": "953c64be",
-          "tipo": "cierre_parcial",
-          "ruta": "autopista Querétaro-Salamanca rumbo a Celaya por choque de tráiler",
-          "descripcion": "Cierran la autopista Querétaro-Salamanca rumbo a Celaya por choque de tráiler. Aparentemente un desperfecto mecánico hizo que el chofer perdiera el control del volante y se estrellara de lleno contra las estructuras de concreto.",
-          "recomendacion": "",
-          "fecha": "2 julio 2026 · 13:24 CST",
-          "fecha_iso": "2026-07-02T13:24:00-06:00",
-          "fuente": "AM Guanajuato",
-          "url": "https://www.am.com.mx/celaya/2026/07/02/cierran-la-autopista-queretaro-salamanca-rumbo-a-celaya-por-choque-de-trailer-1814309.html",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 20.59,
-          "lon": -100.39
-        },
-        {
-          "id": "514a16e9",
-          "tipo": "cierre_parcial",
-          "ruta": "Choque entre tráiler y taxi deja 3 lesionados en el…",
-          "descripcion": "Choque entre tráiler y taxi deja 3 lesionados en el Istmo. Las víctimas quedaron atrapadas en la unidad de alquiler tras el impacto ocurrido en la carretera federal 200",
-          "recomendacion": "",
-          "fecha": "2 julio 2026 · 13:21 CST",
-          "fecha_iso": "2026-07-02T13:21:00-06:00",
-          "fuente": "Quadratín Oaxaca",
-          "url": "https://oaxaca.quadratin.com.mx/choque-entre-trailer-y-taxi-deja-3-lesionados-en-el-istmo/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.1,
-          "lon": -104.3
-        }
-      ]
-    }
-  ],
-  "para_mapa": [
-    {
-      "id": "215f7c1d",
-      "tipo": "cierre_parcial",
-      "ruta": "Camión Provoca Fuerte Accidente en la México–Querétaro; Embiste al Menos…",
-      "descripcion": "Camión Provoca Fuerte Accidente en la México–Querétaro; Embiste al Menos Cuatro Vehículos - N+. Camión Provoca Fuerte Accidente en la México–Querétaro; Embiste al Menos Cuatro Vehículos N+",
-      "fecha": "2 julio 2026 · 13:52 CST",
-      "fuente": "N+",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZzBCM3N2WTJhUDlFVTZLbHBuMVdNUXpnQTlmSjhjdFhkLWxmYWkyR0dDaVZxWVJrVXZVeWFhN0tkbnhDd0xDU0tJSEd2V0ZqNEs0VGhXS0NZX19SNUViT1BEallxSUFhYlp0bGpNT0VCaHk4ZEpBcnJxSHZ5Y09qb253VDM5bUdnbklJbXdoVENKVXprYXlvZGs2MHVBRjhwbl9wWi1OYjVrdVlsU0M0M3pMWWI1SnJWRVlzbUhRbmlCMzZYa20ySHBmeXR5UzhTbjN2X0Z5Y0xtZG8?oc=5",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 20.1,
-      "lon": -99.5
-    },
-    {
-      "id": "953c64be",
-      "tipo": "cierre_parcial",
-      "ruta": "autopista Querétaro-Salamanca rumbo a Celaya por choque de tráiler",
-      "descripcion": "Cierran la autopista Querétaro-Salamanca rumbo a Celaya por choque de tráiler. Aparentemente un desperfecto mecánico hizo que el chofer perdiera el control del volante y se estrellara de lleno contra las estructuras de concreto.",
-      "fecha": "2 julio 2026 · 13:24 CST",
-      "fuente": "AM Guanajuato",
-      "url": "https://www.am.com.mx/celaya/2026/07/02/cierran-la-autopista-queretaro-salamanca-rumbo-a-celaya-por-choque-de-trailer-1814309.html",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 20.59,
-      "lon": -100.39
-    },
-    {
-      "id": "514a16e9",
-      "tipo": "cierre_parcial",
-      "ruta": "Choque entre tráiler y taxi deja 3 lesionados en el…",
-      "descripcion": "Choque entre tráiler y taxi deja 3 lesionados en el Istmo. Las víctimas quedaron atrapadas en la unidad de alquiler tras el impacto ocurrido en la carretera federal 200",
-      "fecha": "2 julio 2026 · 13:21 CST",
-      "fuente": "Quadratín Oaxaca",
-      "url": "https://oaxaca.quadratin.com.mx/choque-entre-trailer-y-taxi-deja-3-lesionados-en-el-istmo/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.1,
-      "lon": -104.3
-    }
-  ]
+  "grupos": [],
+  "para_mapa": [],
+  "nota": "Sin alertas activas en la ventana de tiempo configurada."
 }
