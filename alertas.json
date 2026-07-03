@@ -1,9 +1,10 @@
 {
-  "ultima_actualizacion": "2026-07-03T16:17:20.229938-06:00",
-  "ultima_actualizacion_legible": "3 de julio de 2026 · 16:17 CST",
+  "ultima_actualizacion": "2026-07-03T17:31:28.576596-06:00",
+  "ultima_actualizacion_legible": "3 de julio de 2026 · 17:31 CST",
   "total": 2,
   "ventana": "últimos 180 minutos",
   "fuentes": [
+    "Google News",
     "Quadratín + regionales"
   ],
   "grupos": [
@@ -14,6 +15,22 @@
       "label": "CIERRE PARCIAL / ACCIDENTES",
       "col2": true,
       "alertas": [
+        {
+          "id": "d1d76c74",
+          "tipo": "cierre_parcial",
+          "ruta": "Tramos y carreteras de Veracruz con cierres hoy 03 de…",
+          "descripcion": "Tramos y carreteras de Veracruz con cierres hoy 03 de julio de 2026 - Diario de Xalapa - El Sol de México. Tramos y carreteras de Veracruz con cierres hoy 03 de julio de 2026 - Diario de Xalapa El Sol de México",
+          "recomendacion": "",
+          "fecha": "3 julio 2026 · 16:30 CST",
+          "fecha_iso": "2026-07-03T16:30:00-06:00",
+          "fuente": "El Sol de México",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUUlBTGh2MDRFeVNvV1VrSVkxS0lTQ2p0MWNsOVhUdUVqc2VuLUJCOW5nZXVEeGY3eFY3ZXdETFZwTHhOeUxpYzk3VEtPU3F3WDN0bWphamFqTEMyZ1dHMXNZb1VIb2xrcURDTEtUb2phZmE5R0VUbWNfMlRiRU1fZGktUldLdWpRR1RCaktuOVowRGprSUFEckRpOHUwMndldXI4Y0d1NldneF93M2FHamRBd2ZvSFE?oc=5",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 19.18,
+          "lon": -96.14
+        },
         {
           "id": "e5b910c8",
           "tipo": "cierre_parcial",
@@ -29,27 +46,24 @@
           "badge_txt": "CIERRE PARCIAL",
           "lat": 20.66,
           "lon": -103.35
-        },
-        {
-          "id": "7236a6bf",
-          "tipo": "cierre_parcial",
-          "ruta": "Michoacán logra reducción del 46% en homicidios dolosos…",
-          "descripcion": "Michoacán logra reducción del 46% en homicidios dolosos. SESNSP destaca baja histórica en incidencia de homicidios.",
-          "recomendacion": "",
-          "fecha": "3 julio 2026 · 14:13 CST",
-          "fecha_iso": "2026-07-03T14:13:00-06:00",
-          "fuente": "Quadratín Puebla",
-          "url": "https://puebla.quadratin.com.mx/nacionales/michoacan-logra-reduccion-del-46-en-homicidios-dolosos/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.7,
-          "lon": -101.19
         }
       ]
     }
   ],
   "para_mapa": [
+    {
+      "id": "d1d76c74",
+      "tipo": "cierre_parcial",
+      "ruta": "Tramos y carreteras de Veracruz con cierres hoy 03 de…",
+      "descripcion": "Tramos y carreteras de Veracruz con cierres hoy 03 de julio de 2026 - Diario de Xalapa - El Sol de México. Tramos y carreteras de Veracruz con cierres hoy 03 de julio de 2026 - Diario de Xalapa El Sol de México",
+      "fecha": "3 julio 2026 · 16:30 CST",
+      "fuente": "El Sol de México",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUUlBTGh2MDRFeVNvV1VrSVkxS0lTQ2p0MWNsOVhUdUVqc2VuLUJCOW5nZXVEeGY3eFY3ZXdETFZwTHhOeUxpYzk3VEtPU3F3WDN0bWphamFqTEMyZ1dHMXNZb1VIb2xrcURDTEtUb2phZmE5R0VUbWNfMlRiRU1fZGktUldLdWpRR1RCaktuOVowRGprSUFEckRpOHUwMndldXI4Y0d1NldneF93M2FHamRBd2ZvSFE?oc=5",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 19.18,
+      "lon": -96.14
+    },
     {
       "id": "e5b910c8",
       "tipo": "cierre_parcial",
@@ -62,19 +76,6 @@
       "badge_txt": "CIERRE PARCIAL",
       "lat": 20.66,
       "lon": -103.35
-    },
-    {
-      "id": "7236a6bf",
-      "tipo": "cierre_parcial",
-      "ruta": "Michoacán logra reducción del 46% en homicidios dolosos…",
-      "descripcion": "Michoacán logra reducción del 46% en homicidios dolosos. SESNSP destaca baja histórica en incidencia de homicidios.",
-      "fecha": "3 julio 2026 · 14:13 CST",
-      "fuente": "Quadratín Puebla",
-      "url": "https://puebla.quadratin.com.mx/nacionales/michoacan-logra-reduccion-del-46-en-homicidios-dolosos/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.7,
-      "lon": -101.19
     }
   ]
 }
