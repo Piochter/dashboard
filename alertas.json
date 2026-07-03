@@ -1,12 +1,11 @@
 {
-  "ultima_actualizacion": "2026-07-03T09:26:53.137226-06:00",
-  "ultima_actualizacion_legible": "3 de julio de 2026 · 09:26 CST",
-  "total": 5,
+  "ultima_actualizacion": "2026-07-03T10:54:37.065293-06:00",
+  "ultima_actualizacion_legible": "3 de julio de 2026 · 10:54 CST",
+  "total": 3,
   "ventana": "últimos 180 minutos",
   "fuentes": [
     "Google News",
     "Medios nacionales",
-    "Medios regionales",
     "Quadratín + regionales"
   ],
   "grupos": [
@@ -39,24 +38,10 @@
           "ruta": "¿Hay Bloqueos en Carreteras Hoy? Así las Autopistas de México…",
           "descripcion": "¿Hay Bloqueos en Carreteras Hoy? Así las Autopistas de México este 3 de Julio 2026 - N+. ¿Hay Bloqueos en Carreteras Hoy? Así las Autopistas de México este 3 de Julio 2026 N+",
           "recomendacion": "",
-          "fecha": "3 julio 2026 · 07:56 CST",
-          "fecha_iso": "2026-07-03T07:56:00-06:00",
+          "fecha": "3 julio 2026 · 08:06 CST",
+          "fecha_iso": "2026-07-03T08:06:00-06:00",
           "fuente": "N+",
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQXzR6MTVsMG16MGZHNGM1TG9VUm9wd095X1gyeXdWOHA3aTlKUi0za1ZEeVR4aEJleG1QWjlnVWtfbDNfNmd0OXo5SnRhOWZwSTlOMHhKd0xqd25rNWdmMVF0bkJHZkJ4THltLVJhRUdESjJHUWNKMnlDVXNESFQ5ai1fQVZFOGhSV0ZpRmhlQVU4QTdVdEdkRlNrMVJtbkZIUC1qV3BaSXJ1MUlFNlBpRm1YWGstQzJ2R2FGUFVSTHY?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        },
-        {
-          "id": "fa8415c9",
-          "tipo": "bloqueo",
-          "ruta": "Bloqueos carreteras HOY 3 de julio: Autopistas cerradas en México,…",
-          "descripcion": "Bloqueos carreteras HOY 3 de julio: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 3 de julio: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
-          "recomendacion": "",
-          "fecha": "3 julio 2026 · 07:23 CST",
-          "fecha_iso": "2026-07-03T07:23:00-06:00",
-          "fuente": "Eje Central",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNOFlob1M1QmgtUFdDU01zdUVVRUFLUEdOalA5ZjAxekxnNlJINUJPTjltcGNUeW1zOTNudjh3OHBaR3pwQUJ0M2xqZ21iMmwxSXFFNGFkUHFVNThXSjRHVi1XT2hyRE9ubk1TdV9Vb0JwX0FuS0dCMy1Tb1g3ZFlTU3o1VW1kQktqUlJnazlpaEpaeWItek5TbkE4WHp3bThwM2IxTkh5YlBfajZtbDliYnExVmVqM09tcXktYk5uMDJBZmdDZEVlTFMtajZBSm0xLTdjZ01LOEtKQ1Y3dDNPejl5WUJidw?oc=5",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO"
@@ -71,49 +56,33 @@
       "col2": true,
       "alertas": [
         {
-          "id": "21c4175c",
+          "id": "295e362e",
           "tipo": "cierre_parcial",
           "ruta": "Destacan reducción de 46% en homicidios dolosos en Michoacán…",
-          "descripcion": "Destacan reducción de 46% en homicidios dolosos en Michoacán. De acuerdo con el SESNSP",
+          "descripcion": "Destacan reducción de 46% en homicidios dolosos en Michoacán. De acuerdo con el Secretariado Ejecutiva del Sistema Nacional de Seguridad Pública",
           "recomendacion": "",
-          "fecha": "3 julio 2026 · 08:42 CST",
-          "fecha_iso": "2026-07-03T08:42:00-06:00",
-          "fuente": "Quadratín Michoacán",
-          "url": "https://www.quadratin.com.mx/sucesos/destacan-reduccion-de-46-en-homicidios-dolosos-en-michoacan/",
+          "fecha": "3 julio 2026 · 09:31 CST",
+          "fecha_iso": "2026-07-03T09:31:00-06:00",
+          "fuente": "Quadratín Guerrero",
+          "url": "https://guerrero.quadratin.com.mx/destacan-reduccion-de-46-en-homicidios-dolosos-en-michoacan/",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL",
           "lat": 19.7,
           "lon": -101.19
-        },
-        {
-          "id": "32378e5d",
-          "tipo": "cierre_parcial",
-          "ruta": "En Puebla, un conductor alcoholizado provoca un accidente cada 18…",
-          "descripcion": "En Puebla, un conductor alcoholizado provoca un accidente cada 18 horas. El INEGI alerta por alza en accidentes viales por alcohol.",
-          "recomendacion": "",
-          "fecha": "3 julio 2026 · 07:20 CST",
-          "fecha_iso": "2026-07-03T07:20:00-06:00",
-          "fuente": "Quadratín Puebla",
-          "url": "https://puebla.quadratin.com.mx/investigacion/en-puebla-un-conductor-alcoholizado-provoca-un-accidente-cada-18-horas/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.04,
-          "lon": -98.2
         }
       ]
     }
   ],
   "para_mapa": [
     {
-      "id": "21c4175c",
+      "id": "295e362e",
       "tipo": "cierre_parcial",
       "ruta": "Destacan reducción de 46% en homicidios dolosos en Michoacán…",
-      "descripcion": "Destacan reducción de 46% en homicidios dolosos en Michoacán. De acuerdo con el SESNSP",
-      "fecha": "3 julio 2026 · 08:42 CST",
-      "fuente": "Quadratín Michoacán",
-      "url": "https://www.quadratin.com.mx/sucesos/destacan-reduccion-de-46-en-homicidios-dolosos-en-michoacan/",
+      "descripcion": "Destacan reducción de 46% en homicidios dolosos en Michoacán. De acuerdo con el Secretariado Ejecutiva del Sistema Nacional de Seguridad Pública",
+      "fecha": "3 julio 2026 · 09:31 CST",
+      "fuente": "Quadratín Guerrero",
+      "url": "https://guerrero.quadratin.com.mx/destacan-reduccion-de-46-en-homicidios-dolosos-en-michoacan/",
       "dot_color": "#e67e22",
       "badge_txt": "CIERRE PARCIAL",
       "lat": 19.7,
@@ -131,19 +100,6 @@
       "badge_txt": "BLOQUEO",
       "lat": 19.43,
       "lon": -99.13
-    },
-    {
-      "id": "32378e5d",
-      "tipo": "cierre_parcial",
-      "ruta": "En Puebla, un conductor alcoholizado provoca un accidente cada 18…",
-      "descripcion": "En Puebla, un conductor alcoholizado provoca un accidente cada 18 horas. El INEGI alerta por alza en accidentes viales por alcohol.",
-      "fecha": "3 julio 2026 · 07:20 CST",
-      "fuente": "Quadratín Puebla",
-      "url": "https://puebla.quadratin.com.mx/investigacion/en-puebla-un-conductor-alcoholizado-provoca-un-accidente-cada-18-horas/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.04,
-      "lon": -98.2
     }
   ]
 }
