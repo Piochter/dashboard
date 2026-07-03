@@ -1,35 +1,12 @@
 {
-  "ultima_actualizacion": "2026-07-03T05:12:34.458699-06:00",
-  "ultima_actualizacion_legible": "3 de julio de 2026 · 05:12 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-07-03T07:12:13.834482-06:00",
+  "ultima_actualizacion_legible": "3 de julio de 2026 · 07:12 CST",
+  "total": 0,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Medios regionales"
+    "Google News"
   ],
-  "grupos": [
-    {
-      "tipo": "cierre_parcial",
-      "color": "amarillo",
-      "icono": "🟡",
-      "label": "CIERRE PARCIAL / ACCIDENTES",
-      "col2": true,
-      "alertas": [
-        {
-          "id": "a6080e57",
-          "tipo": "cierre_parcial",
-          "ruta": "Cierres en la carretera 45: Inicia reencarpetamiento del tramo Irapuato-León…",
-          "descripcion": "Cierres en la carretera 45: Inicia reencarpetamiento del tramo Irapuato-León. La ganadora de la licitación fue la constructora leonesa VISE y el contrato es por 250 millones de pesos. Los cierres durarán entre seis y ocho meses.",
-          "recomendacion": "",
-          "fecha": "3 julio 2026 · 04:02 CST",
-          "fecha_iso": "2026-07-03T04:02:00-06:00",
-          "fuente": "AM Guanajuato",
-          "url": "https://www.am.com.mx/guanajuato/2026/07/03/cierres-en-la-carretera-45-inicia-reencarpetamiento-del-tramo-irapuato-leon-1814678.html",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
-        }
-      ]
-    }
-  ],
-  "para_mapa": []
+  "grupos": [],
+  "para_mapa": [],
+  "nota": "Sin alertas activas en la ventana de tiempo configurada."
 }
