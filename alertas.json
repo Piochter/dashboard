@@ -1,50 +1,36 @@
 {
-  "ultima_actualizacion": "2026-07-03T10:54:37.065293-06:00",
-  "ultima_actualizacion_legible": "3 de julio de 2026 · 10:54 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-07-03T12:12:24.380830-06:00",
+  "ultima_actualizacion_legible": "3 de julio de 2026 · 12:12 CST",
+  "total": 4,
   "ventana": "últimos 180 minutos",
   "fuentes": [
     "Google News",
-    "Medios nacionales",
+    "Medios regionales",
     "Quadratín + regionales"
   ],
   "grupos": [
     {
-      "tipo": "bloqueo",
+      "tipo": "robo",
       "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
-      "col2": false,
+      "icono": "🚨",
+      "label": "ROBOS EN CARRETERA",
+      "col2": true,
       "alertas": [
         {
-          "id": "048d6525",
-          "tipo": "bloqueo",
-          "ruta": "¿Habrá bloqueos hoy 3 de julio? Conoce las concentraciones previstas…",
-          "descripcion": "¿Habrá bloqueos hoy 3 de julio? Conoce las concentraciones previstas en la CDMX. La Ciudad de México tendrá este viernes una jornada de movilizaciones relativamente tranquila, marcada solo por concentraciones sociales en diversas alcaldías. De acuerdo con la Agenda de Movilizaciones de la Secretaría de Seguridad Ciudadana (SSC) para este viernes 3 de julio, se prevén ocho concentraciones sociales, además de dos citas agendadas y 16 eventos de […]",
+          "id": "fd742776",
+          "tipo": "robo",
+          "ruta": "carretera a Tlaxcala",
+          "descripcion": "Asesinan a hombre durante presunto robo a casa habitación en carretera a Tlaxcala. Autoridades investigan homicidio tras asalto en un domicilio junto a la carretera federal Puebla-Tlaxcala.",
           "recomendacion": "",
-          "fecha": "3 julio 2026 · 08:18 CST",
-          "fecha_iso": "2026-07-03T08:18:00-06:00",
-          "fuente": "24 Horas",
-          "url": "https://24-horas.mx/cdmx/habra-bloqueos-hoy-3-de-julio-conoce-las-concentraciones-previstas-en-la-cdmx/",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 19.43,
-          "lon": -99.13
-        },
-        {
-          "id": "26e50b98",
-          "tipo": "bloqueo",
-          "ruta": "¿Hay Bloqueos en Carreteras Hoy? Así las Autopistas de México…",
-          "descripcion": "¿Hay Bloqueos en Carreteras Hoy? Así las Autopistas de México este 3 de Julio 2026 - N+. ¿Hay Bloqueos en Carreteras Hoy? Así las Autopistas de México este 3 de Julio 2026 N+",
-          "recomendacion": "",
-          "fecha": "3 julio 2026 · 08:06 CST",
-          "fecha_iso": "2026-07-03T08:06:00-06:00",
-          "fuente": "N+",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQXzR6MTVsMG16MGZHNGM1TG9VUm9wd095X1gyeXdWOHA3aTlKUi0za1ZEeVR4aEJleG1QWjlnVWtfbDNfNmd0OXo5SnRhOWZwSTlOMHhKd0xqd25rNWdmMVF0bkJHZkJ4THltLVJhRUdESjJHUWNKMnlDVXNESFQ5ai1fQVZFOGhSV0ZpRmhlQVU4QTdVdEdkRlNrMVJtbkZIUC1qV3BaSXJ1MUlFNlBpRm1YWGstQzJ2R2FGUFVSTHY?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
+          "fecha": "3 julio 2026 · 11:44 CST",
+          "fecha_iso": "2026-07-03T11:44:00-06:00",
+          "fuente": "Quadratín Puebla",
+          "url": "https://puebla.quadratin.com.mx/sucesos/asesinan-a-hombre-durante-presunto-robo-a-casa-habitacion-en-carretera-a-tlaxcala/",
+          "dot_color": "#c0392b",
+          "badge": "badge-robo",
+          "badge_txt": "ROBO",
+          "lat": 19.04,
+          "lon": -98.2
         }
       ]
     },
@@ -55,6 +41,36 @@
       "label": "CIERRE PARCIAL / ACCIDENTES",
       "col2": true,
       "alertas": [
+        {
+          "id": "69b6fba8",
+          "tipo": "cierre_parcial",
+          "ruta": "Choca tractocamión contra 2 autos en la Morelia-Pátzcuaro…",
+          "descripcion": "Choca tractocamión contra 2 autos en la Morelia-Pátzcuaro. El saldo del percance fue de únicamente daños materiales",
+          "recomendacion": "",
+          "fecha": "3 julio 2026 · 11:59 CST",
+          "fecha_iso": "2026-07-03T11:59:00-06:00",
+          "fuente": "Quadratín Michoacán",
+          "url": "https://www.quadratin.com.mx/sucesos/choca-tractocamion-contra-2-autos-en-la-morelia-patzcuaro/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        },
+        {
+          "id": "2404c234",
+          "tipo": "cierre_parcial",
+          "ruta": "Accidente de Tráiler Provoca Cierre en la Autopista Puebla-Orizaba; Esto…",
+          "descripcion": "Accidente de Tráiler Provoca Cierre en la Autopista Puebla-Orizaba; Esto Se Sabe - N+. Accidente de Tráiler Provoca Cierre en la Autopista Puebla-Orizaba; Esto Se Sabe N+",
+          "recomendacion": "",
+          "fecha": "3 julio 2026 · 10:08 CST",
+          "fecha_iso": "2026-07-03T10:08:00-06:00",
+          "fuente": "N+",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdld4N201a21kTmF2RzUtVWdBc1ZIRU0zajNRVG5qQ3UxX1Q2YTRJTmdDN3B3dEFKYktEaWdKZ1NodU50RFVYdmZJa0xGTzhZR3E2SktQWlJKbW80bUI1c0VNVXNUX18xbDYtMEh5ZTBrSEtiNzZnOHQ4UVdiLXp6TTZ0X1JQaTVMWmlpR2JMTWxZeDlGVGh5M0xrSTJ6SkJWVXhlMUswbjhTeDZCVGxqWTVsTEF0QU5nY0l2aV92WUZhdkkyNlNVWFZUcGJRTGx3amdSNkNB?oc=5",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 19.04,
+          "lon": -98.2
+        },
         {
           "id": "295e362e",
           "tipo": "cierre_parcial",
@@ -76,6 +92,32 @@
   ],
   "para_mapa": [
     {
+      "id": "fd742776",
+      "tipo": "robo",
+      "ruta": "carretera a Tlaxcala",
+      "descripcion": "Asesinan a hombre durante presunto robo a casa habitación en carretera a Tlaxcala. Autoridades investigan homicidio tras asalto en un domicilio junto a la carretera federal Puebla-Tlaxcala.",
+      "fecha": "3 julio 2026 · 11:44 CST",
+      "fuente": "Quadratín Puebla",
+      "url": "https://puebla.quadratin.com.mx/sucesos/asesinan-a-hombre-durante-presunto-robo-a-casa-habitacion-en-carretera-a-tlaxcala/",
+      "dot_color": "#c0392b",
+      "badge_txt": "ROBO",
+      "lat": 19.04,
+      "lon": -98.2
+    },
+    {
+      "id": "2404c234",
+      "tipo": "cierre_parcial",
+      "ruta": "Accidente de Tráiler Provoca Cierre en la Autopista Puebla-Orizaba; Esto…",
+      "descripcion": "Accidente de Tráiler Provoca Cierre en la Autopista Puebla-Orizaba; Esto Se Sabe - N+. Accidente de Tráiler Provoca Cierre en la Autopista Puebla-Orizaba; Esto Se Sabe N+",
+      "fecha": "3 julio 2026 · 10:08 CST",
+      "fuente": "N+",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdld4N201a21kTmF2RzUtVWdBc1ZIRU0zajNRVG5qQ3UxX1Q2YTRJTmdDN3B3dEFKYktEaWdKZ1NodU50RFVYdmZJa0xGTzhZR3E2SktQWlJKbW80bUI1c0VNVXNUX18xbDYtMEh5ZTBrSEtiNzZnOHQ4UVdiLXp6TTZ0X1JQaTVMWmlpR2JMTWxZeDlGVGh5M0xrSTJ6SkJWVXhlMUswbjhTeDZCVGxqWTVsTEF0QU5nY0l2aV92WUZhdkkyNlNVWFZUcGJRTGx3amdSNkNB?oc=5",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 19.04,
+      "lon": -98.2
+    },
+    {
       "id": "295e362e",
       "tipo": "cierre_parcial",
       "ruta": "Destacan reducción de 46% en homicidios dolosos en Michoacán…",
@@ -87,19 +129,6 @@
       "badge_txt": "CIERRE PARCIAL",
       "lat": 19.7,
       "lon": -101.19
-    },
-    {
-      "id": "048d6525",
-      "tipo": "bloqueo",
-      "ruta": "¿Habrá bloqueos hoy 3 de julio? Conoce las concentraciones previstas…",
-      "descripcion": "¿Habrá bloqueos hoy 3 de julio? Conoce las concentraciones previstas en la CDMX. La Ciudad de México tendrá este viernes una jornada de movilizaciones relativamente tranquila, marcada solo por concentraciones sociales en diversas alcaldías. De acuerdo con la Agenda de Movilizaciones de la Secretaría de Seguridad Ciudadana (SSC) para este viernes 3 de julio, se prevén ocho concentraciones sociales, además de dos citas agendadas y 16 eventos de […]",
-      "fecha": "3 julio 2026 · 08:18 CST",
-      "fuente": "24 Horas",
-      "url": "https://24-horas.mx/cdmx/habra-bloqueos-hoy-3-de-julio-conoce-las-concentraciones-previstas-en-la-cdmx/",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 19.43,
-      "lon": -99.13
     }
   ]
 }
