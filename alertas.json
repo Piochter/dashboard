@@ -1,12 +1,11 @@
 {
-  "ultima_actualizacion": "2026-07-03T12:12:24.380830-06:00",
-  "ultima_actualizacion_legible": "3 de julio de 2026 · 12:12 CST",
-  "total": 4,
+  "ultima_actualizacion": "2026-07-03T13:50:54.270262-06:00",
+  "ultima_actualizacion_legible": "3 de julio de 2026 · 13:50 CST",
+  "total": 2,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Google News",
-    "Medios regionales",
-    "Quadratín + regionales"
+    "Quadratín + regionales",
+    "Telegram"
   ],
   "grupos": [
     {
@@ -35,62 +34,45 @@
       ]
     },
     {
-      "tipo": "cierre_parcial",
-      "color": "amarillo",
-      "icono": "🟡",
-      "label": "CIERRE PARCIAL / ACCIDENTES",
-      "col2": true,
+      "tipo": "clima",
+      "color": "azul",
+      "icono": "🌧️",
+      "label": "ALERTA METEOROLÓGICA",
+      "col2": false,
       "alertas": [
         {
-          "id": "69b6fba8",
-          "tipo": "cierre_parcial",
-          "ruta": "Choca tractocamión contra 2 autos en la Morelia-Pátzcuaro…",
-          "descripcion": "Choca tractocamión contra 2 autos en la Morelia-Pátzcuaro. El saldo del percance fue de únicamente daños materiales",
+          "id": "5a70e00c",
+          "tipo": "clima",
+          "ruta": "Inundaciones y cierres viales por lluvias en la zona conurbada…",
+          "descripcion": "Inundaciones y cierres viales por lluvias en la zona conurbada de Guadalajara\nhttps://www.jornada.com.mx/2026/07/03/estados/023n2est?partner=rss\n\nLos aguaceros de ayer en la tarde en el sur de la zona metropolitana de Guadalajara, Jalisco, provocaron inundaciones, cortes a la circulación, suspensión de rutas de transporte público, caída de árboles y automóviles varados con agua hasta las ventanillas.",
           "recomendacion": "",
-          "fecha": "3 julio 2026 · 11:59 CST",
-          "fecha_iso": "2026-07-03T11:59:00-06:00",
-          "fuente": "Quadratín Michoacán",
-          "url": "https://www.quadratin.com.mx/sucesos/choca-tractocamion-contra-2-autos-en-la-morelia-patzcuaro/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
-        },
-        {
-          "id": "2404c234",
-          "tipo": "cierre_parcial",
-          "ruta": "Accidente de Tráiler Provoca Cierre en la Autopista Puebla-Orizaba; Esto…",
-          "descripcion": "Accidente de Tráiler Provoca Cierre en la Autopista Puebla-Orizaba; Esto Se Sabe - N+. Accidente de Tráiler Provoca Cierre en la Autopista Puebla-Orizaba; Esto Se Sabe N+",
-          "recomendacion": "",
-          "fecha": "3 julio 2026 · 10:08 CST",
-          "fecha_iso": "2026-07-03T10:08:00-06:00",
-          "fuente": "N+",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdld4N201a21kTmF2RzUtVWdBc1ZIRU0zajNRVG5qQ3UxX1Q2YTRJTmdDN3B3dEFKYktEaWdKZ1NodU50RFVYdmZJa0xGTzhZR3E2SktQWlJKbW80bUI1c0VNVXNUX18xbDYtMEh5ZTBrSEtiNzZnOHQ4UVdiLXp6TTZ0X1JQaTVMWmlpR2JMTWxZeDlGVGh5M0xrSTJ6SkJWVXhlMUswbjhTeDZCVGxqWTVsTEF0QU5nY0l2aV92WUZhdkkyNlNVWFZUcGJRTGx3amdSNkNB?oc=5",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.04,
-          "lon": -98.2
-        },
-        {
-          "id": "295e362e",
-          "tipo": "cierre_parcial",
-          "ruta": "Destacan reducción de 46% en homicidios dolosos en Michoacán…",
-          "descripcion": "Destacan reducción de 46% en homicidios dolosos en Michoacán. De acuerdo con el Secretariado Ejecutiva del Sistema Nacional de Seguridad Pública",
-          "recomendacion": "",
-          "fecha": "3 julio 2026 · 09:31 CST",
-          "fecha_iso": "2026-07-03T09:31:00-06:00",
-          "fuente": "Quadratín Guerrero",
-          "url": "https://guerrero.quadratin.com.mx/destacan-reduccion-de-46-en-homicidios-dolosos-en-michoacan/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.7,
-          "lon": -101.19
+          "fecha": "3 julio 2026 · 12:43 CST",
+          "fecha_iso": "2026-07-03T12:43:00-06:00",
+          "fuente": "Telegram @NOTMEX",
+          "url": "https://t.me/NOTMEX/184310",
+          "dot_color": "#3498db",
+          "badge": "badge-clima",
+          "badge_txt": "ALERTA CLIMA",
+          "lat": 20.66,
+          "lon": -103.35
         }
       ]
     }
   ],
   "para_mapa": [
+    {
+      "id": "5a70e00c",
+      "tipo": "clima",
+      "ruta": "Inundaciones y cierres viales por lluvias en la zona conurbada…",
+      "descripcion": "Inundaciones y cierres viales por lluvias en la zona conurbada de Guadalajara\nhttps://www.jornada.com.mx/2026/07/03/estados/023n2est?partner=rss\n\nLos aguaceros de ayer en la tarde en el sur de la zona metropolitana de Guadalajara, Jalisco, provocaron inundaciones, cortes a la circulación, suspensión de rutas de transporte público, caída de árboles y automóviles varados con agua hasta las ventanillas.",
+      "fecha": "3 julio 2026 · 12:43 CST",
+      "fuente": "Telegram @NOTMEX",
+      "url": "https://t.me/NOTMEX/184310",
+      "dot_color": "#3498db",
+      "badge_txt": "ALERTA CLIMA",
+      "lat": 20.66,
+      "lon": -103.35
+    },
     {
       "id": "fd742776",
       "tipo": "robo",
@@ -103,32 +85,6 @@
       "badge_txt": "ROBO",
       "lat": 19.04,
       "lon": -98.2
-    },
-    {
-      "id": "2404c234",
-      "tipo": "cierre_parcial",
-      "ruta": "Accidente de Tráiler Provoca Cierre en la Autopista Puebla-Orizaba; Esto…",
-      "descripcion": "Accidente de Tráiler Provoca Cierre en la Autopista Puebla-Orizaba; Esto Se Sabe - N+. Accidente de Tráiler Provoca Cierre en la Autopista Puebla-Orizaba; Esto Se Sabe N+",
-      "fecha": "3 julio 2026 · 10:08 CST",
-      "fuente": "N+",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdld4N201a21kTmF2RzUtVWdBc1ZIRU0zajNRVG5qQ3UxX1Q2YTRJTmdDN3B3dEFKYktEaWdKZ1NodU50RFVYdmZJa0xGTzhZR3E2SktQWlJKbW80bUI1c0VNVXNUX18xbDYtMEh5ZTBrSEtiNzZnOHQ4UVdiLXp6TTZ0X1JQaTVMWmlpR2JMTWxZeDlGVGh5M0xrSTJ6SkJWVXhlMUswbjhTeDZCVGxqWTVsTEF0QU5nY0l2aV92WUZhdkkyNlNVWFZUcGJRTGx3amdSNkNB?oc=5",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.04,
-      "lon": -98.2
-    },
-    {
-      "id": "295e362e",
-      "tipo": "cierre_parcial",
-      "ruta": "Destacan reducción de 46% en homicidios dolosos en Michoacán…",
-      "descripcion": "Destacan reducción de 46% en homicidios dolosos en Michoacán. De acuerdo con el Secretariado Ejecutiva del Sistema Nacional de Seguridad Pública",
-      "fecha": "3 julio 2026 · 09:31 CST",
-      "fuente": "Quadratín Guerrero",
-      "url": "https://guerrero.quadratin.com.mx/destacan-reduccion-de-46-en-homicidios-dolosos-en-michoacan/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.7,
-      "lon": -101.19
     }
   ]
 }
