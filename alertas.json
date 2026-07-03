@@ -1,35 +1,91 @@
 {
-  "ultima_actualizacion": "2026-07-03T13:50:54.270262-06:00",
-  "ultima_actualizacion_legible": "3 de julio de 2026 · 13:50 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-07-03T15:02:29.890354-06:00",
+  "ultima_actualizacion_legible": "3 de julio de 2026 · 15:02 CST",
+  "total": 5,
   "ventana": "últimos 180 minutos",
   "fuentes": [
+    "Google News",
     "Quadratín + regionales",
     "Telegram"
   ],
   "grupos": [
     {
-      "tipo": "robo",
+      "tipo": "bloqueo",
       "color": "rojo",
-      "icono": "🚨",
-      "label": "ROBOS EN CARRETERA",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "26e50b98",
+          "tipo": "bloqueo",
+          "ruta": "¿Hay Bloqueos en Carreteras Hoy? Así las Autopistas de México…",
+          "descripcion": "¿Hay Bloqueos en Carreteras Hoy? Así las Autopistas de México este 3 de Julio 2026 - N+. ¿Hay Bloqueos en Carreteras Hoy? Así las Autopistas de México este 3 de Julio 2026 N+",
+          "recomendacion": "",
+          "fecha": "3 julio 2026 · 13:11 CST",
+          "fecha_iso": "2026-07-03T13:11:00-06:00",
+          "fuente": "N+",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQXzR6MTVsMG16MGZHNGM1TG9VUm9wd095X1gyeXdWOHA3aTlKUi0za1ZEeVR4aEJleG1QWjlnVWtfbDNfNmd0OXo5SnRhOWZwSTlOMHhKd0xqd25rNWdmMVF0bkJHZkJ4THltLVJhRUdESjJHUWNKMnlDVXNESFQ5ai1fQVZFOGhSV0ZpRmhlQVU4QTdVdEdkRlNrMVJtbkZIUC1qV3BaSXJ1MUlFNlBpRm1YWGstQzJ2R2FGUFVSTHY?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
+        {
+          "id": "c3bd9ad2",
+          "tipo": "bloqueo",
+          "ruta": "Bloqueo en la Carretera Puebla-Tehuacán; Manifestación de Pobladores Paraliza el…",
+          "descripcion": "Bloqueo en la Carretera Puebla-Tehuacán; Manifestación de Pobladores Paraliza el Tráfico - N+. Bloqueo en la Carretera Puebla-Tehuacán; Manifestación de Pobladores Paraliza el Tráfico N+",
+          "recomendacion": "",
+          "fecha": "3 julio 2026 · 13:11 CST",
+          "fecha_iso": "2026-07-03T13:11:00-06:00",
+          "fuente": "N+",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMGRSQnFhY0luMEpPZzZjbmZnNzZkNGx0Z0otczl5NnNLVDIzQzA1LWFFZWRNMnUydXRfdE1qZmR0THZVRUNrZWRTWG9Wc015dEVxSm9kNVEwV3RiNWtBdXRrSHVYbXBfUHZzaTktNS1ldkkyMTVuQnNyZXN4ZTlTTVp1TXBUN0llVVBBd1VrUGRzMDhtQ1pxMmJOS1JDamk0UU8tSEJVNTdZZWhoLS0tWUtaVWQxOHBpb09MUTIwWWEtOVF5bG54cV9NWXdWVERtaWtCY1RR?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 19.04,
+          "lon": -98.2
+        }
+      ]
+    },
+    {
+      "tipo": "cierre_parcial",
+      "color": "amarillo",
+      "icono": "🟡",
+      "label": "CIERRE PARCIAL / ACCIDENTES",
       "col2": true,
       "alertas": [
         {
-          "id": "fd742776",
-          "tipo": "robo",
-          "ruta": "carretera a Tlaxcala",
-          "descripcion": "Asesinan a hombre durante presunto robo a casa habitación en carretera a Tlaxcala. Autoridades investigan homicidio tras asalto en un domicilio junto a la carretera federal Puebla-Tlaxcala.",
+          "id": "e5b910c8",
+          "tipo": "cierre_parcial",
+          "ruta": "Registra Jalisco casi 2.5 millones de madres al cierre de…",
+          "descripcion": "Registra Jalisco casi 2.5 millones de madres al cierre de 2025: IIEG. El reporte indica que el 43.1 por ciento de las mamás en el estado pertenece a la población económicamente activa",
           "recomendacion": "",
-          "fecha": "3 julio 2026 · 11:44 CST",
-          "fecha_iso": "2026-07-03T11:44:00-06:00",
+          "fecha": "3 julio 2026 · 14:42 CST",
+          "fecha_iso": "2026-07-03T14:42:00-06:00",
+          "fuente": "Quadratín Jalisco",
+          "url": "https://jalisco.quadratin.com.mx/sucesos/registra-jalisco-casi-2-5-millones-de-madres-al-cierre-de-2025-iieg/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 20.66,
+          "lon": -103.35
+        },
+        {
+          "id": "7236a6bf",
+          "tipo": "cierre_parcial",
+          "ruta": "Michoacán logra reducción del 46% en homicidios dolosos…",
+          "descripcion": "Michoacán logra reducción del 46% en homicidios dolosos. SESNSP destaca baja histórica en incidencia de homicidios.",
+          "recomendacion": "",
+          "fecha": "3 julio 2026 · 14:13 CST",
+          "fecha_iso": "2026-07-03T14:13:00-06:00",
           "fuente": "Quadratín Puebla",
-          "url": "https://puebla.quadratin.com.mx/sucesos/asesinan-a-hombre-durante-presunto-robo-a-casa-habitacion-en-carretera-a-tlaxcala/",
-          "dot_color": "#c0392b",
-          "badge": "badge-robo",
-          "badge_txt": "ROBO",
-          "lat": 19.04,
-          "lon": -98.2
+          "url": "https://puebla.quadratin.com.mx/nacionales/michoacan-logra-reduccion-del-46-en-homicidios-dolosos/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 19.7,
+          "lon": -101.19
         }
       ]
     },
@@ -61,6 +117,45 @@
   ],
   "para_mapa": [
     {
+      "id": "e5b910c8",
+      "tipo": "cierre_parcial",
+      "ruta": "Registra Jalisco casi 2.5 millones de madres al cierre de…",
+      "descripcion": "Registra Jalisco casi 2.5 millones de madres al cierre de 2025: IIEG. El reporte indica que el 43.1 por ciento de las mamás en el estado pertenece a la población económicamente activa",
+      "fecha": "3 julio 2026 · 14:42 CST",
+      "fuente": "Quadratín Jalisco",
+      "url": "https://jalisco.quadratin.com.mx/sucesos/registra-jalisco-casi-2-5-millones-de-madres-al-cierre-de-2025-iieg/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 20.66,
+      "lon": -103.35
+    },
+    {
+      "id": "7236a6bf",
+      "tipo": "cierre_parcial",
+      "ruta": "Michoacán logra reducción del 46% en homicidios dolosos…",
+      "descripcion": "Michoacán logra reducción del 46% en homicidios dolosos. SESNSP destaca baja histórica en incidencia de homicidios.",
+      "fecha": "3 julio 2026 · 14:13 CST",
+      "fuente": "Quadratín Puebla",
+      "url": "https://puebla.quadratin.com.mx/nacionales/michoacan-logra-reduccion-del-46-en-homicidios-dolosos/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 19.7,
+      "lon": -101.19
+    },
+    {
+      "id": "c3bd9ad2",
+      "tipo": "bloqueo",
+      "ruta": "Bloqueo en la Carretera Puebla-Tehuacán; Manifestación de Pobladores Paraliza el…",
+      "descripcion": "Bloqueo en la Carretera Puebla-Tehuacán; Manifestación de Pobladores Paraliza el Tráfico - N+. Bloqueo en la Carretera Puebla-Tehuacán; Manifestación de Pobladores Paraliza el Tráfico N+",
+      "fecha": "3 julio 2026 · 13:11 CST",
+      "fuente": "N+",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMGRSQnFhY0luMEpPZzZjbmZnNzZkNGx0Z0otczl5NnNLVDIzQzA1LWFFZWRNMnUydXRfdE1qZmR0THZVRUNrZWRTWG9Wc015dEVxSm9kNVEwV3RiNWtBdXRrSHVYbXBfUHZzaTktNS1ldkkyMTVuQnNyZXN4ZTlTTVp1TXBUN0llVVBBd1VrUGRzMDhtQ1pxMmJOS1JDamk0UU8tSEJVNTdZZWhoLS0tWUtaVWQxOHBpb09MUTIwWWEtOVF5bG54cV9NWXdWVERtaWtCY1RR?oc=5",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 19.04,
+      "lon": -98.2
+    },
+    {
       "id": "5a70e00c",
       "tipo": "clima",
       "ruta": "Inundaciones y cierres viales por lluvias en la zona conurbada…",
@@ -72,19 +167,6 @@
       "badge_txt": "ALERTA CLIMA",
       "lat": 20.66,
       "lon": -103.35
-    },
-    {
-      "id": "fd742776",
-      "tipo": "robo",
-      "ruta": "carretera a Tlaxcala",
-      "descripcion": "Asesinan a hombre durante presunto robo a casa habitación en carretera a Tlaxcala. Autoridades investigan homicidio tras asalto en un domicilio junto a la carretera federal Puebla-Tlaxcala.",
-      "fecha": "3 julio 2026 · 11:44 CST",
-      "fuente": "Quadratín Puebla",
-      "url": "https://puebla.quadratin.com.mx/sucesos/asesinan-a-hombre-durante-presunto-robo-a-casa-habitacion-en-carretera-a-tlaxcala/",
-      "dot_color": "#c0392b",
-      "badge_txt": "ROBO",
-      "lat": 19.04,
-      "lon": -98.2
     }
   ]
 }
