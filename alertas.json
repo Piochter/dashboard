@@ -1,53 +1,12 @@
 {
-  "ultima_actualizacion": "2026-07-03T15:02:29.890354-06:00",
-  "ultima_actualizacion_legible": "3 de julio de 2026 · 15:02 CST",
-  "total": 5,
+  "ultima_actualizacion": "2026-07-03T16:17:20.229938-06:00",
+  "ultima_actualizacion_legible": "3 de julio de 2026 · 16:17 CST",
+  "total": 2,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Google News",
-    "Quadratín + regionales",
-    "Telegram"
+    "Quadratín + regionales"
   ],
   "grupos": [
-    {
-      "tipo": "bloqueo",
-      "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "26e50b98",
-          "tipo": "bloqueo",
-          "ruta": "¿Hay Bloqueos en Carreteras Hoy? Así las Autopistas de México…",
-          "descripcion": "¿Hay Bloqueos en Carreteras Hoy? Así las Autopistas de México este 3 de Julio 2026 - N+. ¿Hay Bloqueos en Carreteras Hoy? Así las Autopistas de México este 3 de Julio 2026 N+",
-          "recomendacion": "",
-          "fecha": "3 julio 2026 · 13:11 CST",
-          "fecha_iso": "2026-07-03T13:11:00-06:00",
-          "fuente": "N+",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQXzR6MTVsMG16MGZHNGM1TG9VUm9wd095X1gyeXdWOHA3aTlKUi0za1ZEeVR4aEJleG1QWjlnVWtfbDNfNmd0OXo5SnRhOWZwSTlOMHhKd0xqd25rNWdmMVF0bkJHZkJ4THltLVJhRUdESjJHUWNKMnlDVXNESFQ5ai1fQVZFOGhSV0ZpRmhlQVU4QTdVdEdkRlNrMVJtbkZIUC1qV3BaSXJ1MUlFNlBpRm1YWGstQzJ2R2FGUFVSTHY?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        },
-        {
-          "id": "c3bd9ad2",
-          "tipo": "bloqueo",
-          "ruta": "Bloqueo en la Carretera Puebla-Tehuacán; Manifestación de Pobladores Paraliza el…",
-          "descripcion": "Bloqueo en la Carretera Puebla-Tehuacán; Manifestación de Pobladores Paraliza el Tráfico - N+. Bloqueo en la Carretera Puebla-Tehuacán; Manifestación de Pobladores Paraliza el Tráfico N+",
-          "recomendacion": "",
-          "fecha": "3 julio 2026 · 13:11 CST",
-          "fecha_iso": "2026-07-03T13:11:00-06:00",
-          "fuente": "N+",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMGRSQnFhY0luMEpPZzZjbmZnNzZkNGx0Z0otczl5NnNLVDIzQzA1LWFFZWRNMnUydXRfdE1qZmR0THZVRUNrZWRTWG9Wc015dEVxSm9kNVEwV3RiNWtBdXRrSHVYbXBfUHZzaTktNS1ldkkyMTVuQnNyZXN4ZTlTTVp1TXBUN0llVVBBd1VrUGRzMDhtQ1pxMmJOS1JDamk0UU8tSEJVNTdZZWhoLS0tWUtaVWQxOHBpb09MUTIwWWEtOVF5bG54cV9NWXdWVERtaWtCY1RR?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 19.04,
-          "lon": -98.2
-        }
-      ]
-    },
     {
       "tipo": "cierre_parcial",
       "color": "amarillo",
@@ -88,31 +47,6 @@
           "lon": -101.19
         }
       ]
-    },
-    {
-      "tipo": "clima",
-      "color": "azul",
-      "icono": "🌧️",
-      "label": "ALERTA METEOROLÓGICA",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "5a70e00c",
-          "tipo": "clima",
-          "ruta": "Inundaciones y cierres viales por lluvias en la zona conurbada…",
-          "descripcion": "Inundaciones y cierres viales por lluvias en la zona conurbada de Guadalajara\nhttps://www.jornada.com.mx/2026/07/03/estados/023n2est?partner=rss\n\nLos aguaceros de ayer en la tarde en el sur de la zona metropolitana de Guadalajara, Jalisco, provocaron inundaciones, cortes a la circulación, suspensión de rutas de transporte público, caída de árboles y automóviles varados con agua hasta las ventanillas.",
-          "recomendacion": "",
-          "fecha": "3 julio 2026 · 12:43 CST",
-          "fecha_iso": "2026-07-03T12:43:00-06:00",
-          "fuente": "Telegram @NOTMEX",
-          "url": "https://t.me/NOTMEX/184310",
-          "dot_color": "#3498db",
-          "badge": "badge-clima",
-          "badge_txt": "ALERTA CLIMA",
-          "lat": 20.66,
-          "lon": -103.35
-        }
-      ]
     }
   ],
   "para_mapa": [
@@ -141,32 +75,6 @@
       "badge_txt": "CIERRE PARCIAL",
       "lat": 19.7,
       "lon": -101.19
-    },
-    {
-      "id": "c3bd9ad2",
-      "tipo": "bloqueo",
-      "ruta": "Bloqueo en la Carretera Puebla-Tehuacán; Manifestación de Pobladores Paraliza el…",
-      "descripcion": "Bloqueo en la Carretera Puebla-Tehuacán; Manifestación de Pobladores Paraliza el Tráfico - N+. Bloqueo en la Carretera Puebla-Tehuacán; Manifestación de Pobladores Paraliza el Tráfico N+",
-      "fecha": "3 julio 2026 · 13:11 CST",
-      "fuente": "N+",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMGRSQnFhY0luMEpPZzZjbmZnNzZkNGx0Z0otczl5NnNLVDIzQzA1LWFFZWRNMnUydXRfdE1qZmR0THZVRUNrZWRTWG9Wc015dEVxSm9kNVEwV3RiNWtBdXRrSHVYbXBfUHZzaTktNS1ldkkyMTVuQnNyZXN4ZTlTTVp1TXBUN0llVVBBd1VrUGRzMDhtQ1pxMmJOS1JDamk0UU8tSEJVNTdZZWhoLS0tWUtaVWQxOHBpb09MUTIwWWEtOVF5bG54cV9NWXdWVERtaWtCY1RR?oc=5",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 19.04,
-      "lon": -98.2
-    },
-    {
-      "id": "5a70e00c",
-      "tipo": "clima",
-      "ruta": "Inundaciones y cierres viales por lluvias en la zona conurbada…",
-      "descripcion": "Inundaciones y cierres viales por lluvias en la zona conurbada de Guadalajara\nhttps://www.jornada.com.mx/2026/07/03/estados/023n2est?partner=rss\n\nLos aguaceros de ayer en la tarde en el sur de la zona metropolitana de Guadalajara, Jalisco, provocaron inundaciones, cortes a la circulación, suspensión de rutas de transporte público, caída de árboles y automóviles varados con agua hasta las ventanillas.",
-      "fecha": "3 julio 2026 · 12:43 CST",
-      "fuente": "Telegram @NOTMEX",
-      "url": "https://t.me/NOTMEX/184310",
-      "dot_color": "#3498db",
-      "badge_txt": "ALERTA CLIMA",
-      "lat": 20.66,
-      "lon": -103.35
     }
   ]
 }
