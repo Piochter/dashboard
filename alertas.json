@@ -1,12 +1,149 @@
 {
-  "ultima_actualizacion": "2026-07-03T07:12:13.834482-06:00",
-  "ultima_actualizacion_legible": "3 de julio de 2026 · 07:12 CST",
-  "total": 0,
+  "ultima_actualizacion": "2026-07-03T09:26:53.137226-06:00",
+  "ultima_actualizacion_legible": "3 de julio de 2026 · 09:26 CST",
+  "total": 5,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Google News"
+    "Google News",
+    "Medios nacionales",
+    "Medios regionales",
+    "Quadratín + regionales"
   ],
-  "grupos": [],
-  "para_mapa": [],
-  "nota": "Sin alertas activas en la ventana de tiempo configurada."
+  "grupos": [
+    {
+      "tipo": "bloqueo",
+      "color": "rojo",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "048d6525",
+          "tipo": "bloqueo",
+          "ruta": "¿Habrá bloqueos hoy 3 de julio? Conoce las concentraciones previstas…",
+          "descripcion": "¿Habrá bloqueos hoy 3 de julio? Conoce las concentraciones previstas en la CDMX. La Ciudad de México tendrá este viernes una jornada de movilizaciones relativamente tranquila, marcada solo por concentraciones sociales en diversas alcaldías. De acuerdo con la Agenda de Movilizaciones de la Secretaría de Seguridad Ciudadana (SSC) para este viernes 3 de julio, se prevén ocho concentraciones sociales, además de dos citas agendadas y 16 eventos de […]",
+          "recomendacion": "",
+          "fecha": "3 julio 2026 · 08:18 CST",
+          "fecha_iso": "2026-07-03T08:18:00-06:00",
+          "fuente": "24 Horas",
+          "url": "https://24-horas.mx/cdmx/habra-bloqueos-hoy-3-de-julio-conoce-las-concentraciones-previstas-en-la-cdmx/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 19.43,
+          "lon": -99.13
+        },
+        {
+          "id": "26e50b98",
+          "tipo": "bloqueo",
+          "ruta": "¿Hay Bloqueos en Carreteras Hoy? Así las Autopistas de México…",
+          "descripcion": "¿Hay Bloqueos en Carreteras Hoy? Así las Autopistas de México este 3 de Julio 2026 - N+. ¿Hay Bloqueos en Carreteras Hoy? Así las Autopistas de México este 3 de Julio 2026 N+",
+          "recomendacion": "",
+          "fecha": "3 julio 2026 · 07:56 CST",
+          "fecha_iso": "2026-07-03T07:56:00-06:00",
+          "fuente": "N+",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQXzR6MTVsMG16MGZHNGM1TG9VUm9wd095X1gyeXdWOHA3aTlKUi0za1ZEeVR4aEJleG1QWjlnVWtfbDNfNmd0OXo5SnRhOWZwSTlOMHhKd0xqd25rNWdmMVF0bkJHZkJ4THltLVJhRUdESjJHUWNKMnlDVXNESFQ5ai1fQVZFOGhSV0ZpRmhlQVU4QTdVdEdkRlNrMVJtbkZIUC1qV3BaSXJ1MUlFNlBpRm1YWGstQzJ2R2FGUFVSTHY?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
+        {
+          "id": "fa8415c9",
+          "tipo": "bloqueo",
+          "ruta": "Bloqueos carreteras HOY 3 de julio: Autopistas cerradas en México,…",
+          "descripcion": "Bloqueos carreteras HOY 3 de julio: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 3 de julio: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
+          "recomendacion": "",
+          "fecha": "3 julio 2026 · 07:23 CST",
+          "fecha_iso": "2026-07-03T07:23:00-06:00",
+          "fuente": "Eje Central",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNOFlob1M1QmgtUFdDU01zdUVVRUFLUEdOalA5ZjAxekxnNlJINUJPTjltcGNUeW1zOTNudjh3OHBaR3pwQUJ0M2xqZ21iMmwxSXFFNGFkUHFVNThXSjRHVi1XT2hyRE9ubk1TdV9Vb0JwX0FuS0dCMy1Tb1g3ZFlTU3o1VW1kQktqUlJnazlpaEpaeWItek5TbkE4WHp3bThwM2IxTkh5YlBfajZtbDliYnExVmVqM09tcXktYk5uMDJBZmdDZEVlTFMtajZBSm0xLTdjZ01LOEtKQ1Y3dDNPejl5WUJidw?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        }
+      ]
+    },
+    {
+      "tipo": "cierre_parcial",
+      "color": "amarillo",
+      "icono": "🟡",
+      "label": "CIERRE PARCIAL / ACCIDENTES",
+      "col2": true,
+      "alertas": [
+        {
+          "id": "21c4175c",
+          "tipo": "cierre_parcial",
+          "ruta": "Destacan reducción de 46% en homicidios dolosos en Michoacán…",
+          "descripcion": "Destacan reducción de 46% en homicidios dolosos en Michoacán. De acuerdo con el SESNSP",
+          "recomendacion": "",
+          "fecha": "3 julio 2026 · 08:42 CST",
+          "fecha_iso": "2026-07-03T08:42:00-06:00",
+          "fuente": "Quadratín Michoacán",
+          "url": "https://www.quadratin.com.mx/sucesos/destacan-reduccion-de-46-en-homicidios-dolosos-en-michoacan/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 19.7,
+          "lon": -101.19
+        },
+        {
+          "id": "32378e5d",
+          "tipo": "cierre_parcial",
+          "ruta": "En Puebla, un conductor alcoholizado provoca un accidente cada 18…",
+          "descripcion": "En Puebla, un conductor alcoholizado provoca un accidente cada 18 horas. El INEGI alerta por alza en accidentes viales por alcohol.",
+          "recomendacion": "",
+          "fecha": "3 julio 2026 · 07:20 CST",
+          "fecha_iso": "2026-07-03T07:20:00-06:00",
+          "fuente": "Quadratín Puebla",
+          "url": "https://puebla.quadratin.com.mx/investigacion/en-puebla-un-conductor-alcoholizado-provoca-un-accidente-cada-18-horas/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 19.04,
+          "lon": -98.2
+        }
+      ]
+    }
+  ],
+  "para_mapa": [
+    {
+      "id": "21c4175c",
+      "tipo": "cierre_parcial",
+      "ruta": "Destacan reducción de 46% en homicidios dolosos en Michoacán…",
+      "descripcion": "Destacan reducción de 46% en homicidios dolosos en Michoacán. De acuerdo con el SESNSP",
+      "fecha": "3 julio 2026 · 08:42 CST",
+      "fuente": "Quadratín Michoacán",
+      "url": "https://www.quadratin.com.mx/sucesos/destacan-reduccion-de-46-en-homicidios-dolosos-en-michoacan/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 19.7,
+      "lon": -101.19
+    },
+    {
+      "id": "048d6525",
+      "tipo": "bloqueo",
+      "ruta": "¿Habrá bloqueos hoy 3 de julio? Conoce las concentraciones previstas…",
+      "descripcion": "¿Habrá bloqueos hoy 3 de julio? Conoce las concentraciones previstas en la CDMX. La Ciudad de México tendrá este viernes una jornada de movilizaciones relativamente tranquila, marcada solo por concentraciones sociales en diversas alcaldías. De acuerdo con la Agenda de Movilizaciones de la Secretaría de Seguridad Ciudadana (SSC) para este viernes 3 de julio, se prevén ocho concentraciones sociales, además de dos citas agendadas y 16 eventos de […]",
+      "fecha": "3 julio 2026 · 08:18 CST",
+      "fuente": "24 Horas",
+      "url": "https://24-horas.mx/cdmx/habra-bloqueos-hoy-3-de-julio-conoce-las-concentraciones-previstas-en-la-cdmx/",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 19.43,
+      "lon": -99.13
+    },
+    {
+      "id": "32378e5d",
+      "tipo": "cierre_parcial",
+      "ruta": "En Puebla, un conductor alcoholizado provoca un accidente cada 18…",
+      "descripcion": "En Puebla, un conductor alcoholizado provoca un accidente cada 18 horas. El INEGI alerta por alza en accidentes viales por alcohol.",
+      "fecha": "3 julio 2026 · 07:20 CST",
+      "fuente": "Quadratín Puebla",
+      "url": "https://puebla.quadratin.com.mx/investigacion/en-puebla-un-conductor-alcoholizado-provoca-un-accidente-cada-18-horas/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 19.04,
+      "lon": -98.2
+    }
+  ]
 }
