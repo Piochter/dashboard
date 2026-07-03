@@ -1,10 +1,11 @@
 {
-  "ultima_actualizacion": "2026-07-02T19:18:18.871856-06:00",
-  "ultima_actualizacion_legible": "2 de julio de 2026 · 19:18 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-07-02T23:13:30.108085-06:00",
+  "ultima_actualizacion_legible": "2 de julio de 2026 · 23:13 CST",
+  "total": 2,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Google News"
+    "Google News",
+    "Medios regionales"
   ],
   "grupos": [
     {
@@ -15,37 +16,44 @@
       "col2": false,
       "alertas": [
         {
-          "id": "d7a8f9c4",
+          "id": "4e56cac0",
           "tipo": "cierre_total",
-          "ruta": "autopista Orizaba-Puebla y provoca saqueo - AVC Noticias",
-          "descripcion": "Volcadura de tráiler cierra autopista Orizaba-Puebla y provoca saqueo - AVC Noticias. Volcadura de tráiler cierra autopista Orizaba-Puebla y provoca saqueo AVC Noticias",
+          "ruta": "autopista provoca rapiña de mercancía - xeu",
+          "descripcion": "Volcadura de tráiler en autopista provoca rapiña de mercancía - xeu.mx. Volcadura de tráiler en autopista provoca rapiña de mercancía xeu.mx",
           "recomendacion": "",
-          "fecha": "2 julio 2026 · 18:02 CST",
-          "fecha_iso": "2026-07-02T18:02:00-06:00",
-          "fuente": "AVC Noticias",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMDBPa2laaHFEdEc4Y1BLYjc0Q3B5RjgxczZWNldqV3VDc3c1YzFVZG5CRjlHcEtrdnY1dU5zaktPWnNhcElNSEJia1d2cXl5SDZmSV9IbGxXeUl1QkE0ZVlSX2dfTWM5aGZqNlFMU21obWlDWlAxT2xEZFhhR1ljRVZqUmI4U3QwVHBsYmE4b3JYZDNXRlpuUkZKUU1Pcm1HRjhUYnVxdC10bVhDYUh4clJGY0hYRG1SWGhmbVA5aHkyYTlkRDlseE9uVkNaY2wzcUszSkZfZw?oc=5",
+          "fecha": "2 julio 2026 · 21:29 CST",
+          "fecha_iso": "2026-07-02T21:29:00-06:00",
+          "fuente": "xeu.mx",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUGVVbXdlaVBGY0VDaml6UFNWeDFJTTB4Y1Y1dnozZWZMS2JJTHBYY2Z2MkVqNER4T1BZZ3hOd1FyZFNVai0tbFcyUmZmbFlEbWo2TTY4Szk0cXo3dHZCUlYyQUh2bFQxdURSTFhTYnJ5TlFHTXl5UzNKOWhkN2dnYWxEa09pTVA3bU96RDZBQ2xQdzBZNVRjV3NR?oc=5",
           "dot_color": "#e74c3c",
           "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL",
-          "lat": 19.04,
-          "lon": -98.2
+          "badge_txt": "CIERRE TOTAL"
+        }
+      ]
+    },
+    {
+      "tipo": "clima",
+      "color": "azul",
+      "icono": "🌧️",
+      "label": "ALERTA METEOROLÓGICA",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "5b33e682",
+          "tipo": "clima",
+          "ruta": "Periférico y 8 de Julio",
+          "descripcion": "Tlaquepaque confirma alrededor de 100 vehículos varados por inundación en Periférico y 8 de Julio. Autoridades de Tlaquepaque y Tlajomulco atendieron encharcamientos, caída de árboles y labores de limpieza tras las intensas lluvias",
+          "recomendacion": "",
+          "fecha": "2 julio 2026 · 21:05 CST",
+          "fecha_iso": "2026-07-02T21:05:00-06:00",
+          "fuente": "El Informador Jalisco",
+          "url": "https://www.informador.mx/jalisco/tlaquepaque-confirma-alrededor-de-100-vehiculos-varados-por-inundacion-en-periferico-y-8-de-julio-20260702-0196.html",
+          "dot_color": "#3498db",
+          "badge": "badge-clima",
+          "badge_txt": "ALERTA CLIMA"
         }
       ]
     }
   ],
-  "para_mapa": [
-    {
-      "id": "d7a8f9c4",
-      "tipo": "cierre_total",
-      "ruta": "autopista Orizaba-Puebla y provoca saqueo - AVC Noticias",
-      "descripcion": "Volcadura de tráiler cierra autopista Orizaba-Puebla y provoca saqueo - AVC Noticias. Volcadura de tráiler cierra autopista Orizaba-Puebla y provoca saqueo AVC Noticias",
-      "fecha": "2 julio 2026 · 18:02 CST",
-      "fuente": "AVC Noticias",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMDBPa2laaHFEdEc4Y1BLYjc0Q3B5RjgxczZWNldqV3VDc3c1YzFVZG5CRjlHcEtrdnY1dU5zaktPWnNhcElNSEJia1d2cXl5SDZmSV9IbGxXeUl1QkE0ZVlSX2dfTWM5aGZqNlFMU21obWlDWlAxT2xEZFhhR1ljRVZqUmI4U3QwVHBsYmE4b3JYZDNXRlpuUkZKUU1Pcm1HRjhUYnVxdC10bVhDYUh4clJGY0hYRG1SWGhmbVA5aHkyYTlkRDlseE9uVkNaY2wzcUszSkZfZw?oc=5",
-      "dot_color": "#e74c3c",
-      "badge_txt": "CIERRE TOTAL",
-      "lat": 19.04,
-      "lon": -98.2
-    }
-  ]
+  "para_mapa": []
 }
