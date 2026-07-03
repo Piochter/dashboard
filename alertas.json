@@ -1,12 +1,51 @@
 {
-  "ultima_actualizacion": "2026-07-02T17:37:20.351823-06:00",
-  "ultima_actualizacion_legible": "2 de julio de 2026 · 17:37 CST",
-  "total": 0,
+  "ultima_actualizacion": "2026-07-02T19:18:18.871856-06:00",
+  "ultima_actualizacion_legible": "2 de julio de 2026 · 19:18 CST",
+  "total": 1,
   "ventana": "últimos 180 minutos",
   "fuentes": [
     "Google News"
   ],
-  "grupos": [],
-  "para_mapa": [],
-  "nota": "Sin alertas activas en la ventana de tiempo configurada."
+  "grupos": [
+    {
+      "tipo": "cierre_total",
+      "color": "rojo",
+      "icono": "🔴",
+      "label": "CIERRE TOTAL",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "d7a8f9c4",
+          "tipo": "cierre_total",
+          "ruta": "autopista Orizaba-Puebla y provoca saqueo - AVC Noticias",
+          "descripcion": "Volcadura de tráiler cierra autopista Orizaba-Puebla y provoca saqueo - AVC Noticias. Volcadura de tráiler cierra autopista Orizaba-Puebla y provoca saqueo AVC Noticias",
+          "recomendacion": "",
+          "fecha": "2 julio 2026 · 18:02 CST",
+          "fecha_iso": "2026-07-02T18:02:00-06:00",
+          "fuente": "AVC Noticias",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMDBPa2laaHFEdEc4Y1BLYjc0Q3B5RjgxczZWNldqV3VDc3c1YzFVZG5CRjlHcEtrdnY1dU5zaktPWnNhcElNSEJia1d2cXl5SDZmSV9IbGxXeUl1QkE0ZVlSX2dfTWM5aGZqNlFMU21obWlDWlAxT2xEZFhhR1ljRVZqUmI4U3QwVHBsYmE4b3JYZDNXRlpuUkZKUU1Pcm1HRjhUYnVxdC10bVhDYUh4clJGY0hYRG1SWGhmbVA5aHkyYTlkRDlseE9uVkNaY2wzcUszSkZfZw?oc=5",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL",
+          "lat": 19.04,
+          "lon": -98.2
+        }
+      ]
+    }
+  ],
+  "para_mapa": [
+    {
+      "id": "d7a8f9c4",
+      "tipo": "cierre_total",
+      "ruta": "autopista Orizaba-Puebla y provoca saqueo - AVC Noticias",
+      "descripcion": "Volcadura de tráiler cierra autopista Orizaba-Puebla y provoca saqueo - AVC Noticias. Volcadura de tráiler cierra autopista Orizaba-Puebla y provoca saqueo AVC Noticias",
+      "fecha": "2 julio 2026 · 18:02 CST",
+      "fuente": "AVC Noticias",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMDBPa2laaHFEdEc4Y1BLYjc0Q3B5RjgxczZWNldqV3VDc3c1YzFVZG5CRjlHcEtrdnY1dU5zaktPWnNhcElNSEJia1d2cXl5SDZmSV9IbGxXeUl1QkE0ZVlSX2dfTWM5aGZqNlFMU21obWlDWlAxT2xEZFhhR1ljRVZqUmI4U3QwVHBsYmE4b3JYZDNXRlpuUkZKUU1Pcm1HRjhUYnVxdC10bVhDYUh4clJGY0hYRG1SWGhmbVA5aHkyYTlkRDlseE9uVkNaY2wzcUszSkZfZw?oc=5",
+      "dot_color": "#e74c3c",
+      "badge_txt": "CIERRE TOTAL",
+      "lat": 19.04,
+      "lon": -98.2
+    }
+  ]
 }
