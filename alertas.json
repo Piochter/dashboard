@@ -1,51 +1,12 @@
 {
-  "ultima_actualizacion": "2026-07-04T08:17:18.711068-06:00",
-  "ultima_actualizacion_legible": "4 de julio de 2026 · 08:17 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-07-04T09:43:00.187572-06:00",
+  "ultima_actualizacion_legible": "4 de julio de 2026 · 09:43 CST",
+  "total": 0,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Telegram"
+    "Google News"
   ],
-  "grupos": [
-    {
-      "tipo": "robo",
-      "color": "rojo",
-      "icono": "🚨",
-      "label": "ROBOS EN CARRETERA",
-      "col2": true,
-      "alertas": [
-        {
-          "id": "9c04c490",
-          "tipo": "robo",
-          "ruta": "“Nadie por encima de la ley” en el robo de…",
-          "descripcion": "“Nadie por encima de la ley” en el robo de combustible en Guanajuato\nhttps://www.jornada.com.mx/2026/07/04/estados/021n2est?partner=rss\n\nLeón, Gto., “Nadie está por encima de la ley” y si hay funcionarios de Pemex coludidos con el robo de combustible en Guanajuato, deben ser llevados ante un juez, señaló el secretario de Gobierno, Jorge Jiménez Lona.",
-          "recomendacion": "",
-          "fecha": "4 julio 2026 · 05:35 CST",
-          "fecha_iso": "2026-07-04T05:35:00-06:00",
-          "fuente": "Telegram @NOTMEX",
-          "url": "https://t.me/NOTMEX/184338",
-          "dot_color": "#c0392b",
-          "badge": "badge-robo",
-          "badge_txt": "ROBO",
-          "lat": 21.02,
-          "lon": -101.26
-        }
-      ]
-    }
-  ],
-  "para_mapa": [
-    {
-      "id": "9c04c490",
-      "tipo": "robo",
-      "ruta": "“Nadie por encima de la ley” en el robo de…",
-      "descripcion": "“Nadie por encima de la ley” en el robo de combustible en Guanajuato\nhttps://www.jornada.com.mx/2026/07/04/estados/021n2est?partner=rss\n\nLeón, Gto., “Nadie está por encima de la ley” y si hay funcionarios de Pemex coludidos con el robo de combustible en Guanajuato, deben ser llevados ante un juez, señaló el secretario de Gobierno, Jorge Jiménez Lona.",
-      "fecha": "4 julio 2026 · 05:35 CST",
-      "fuente": "Telegram @NOTMEX",
-      "url": "https://t.me/NOTMEX/184338",
-      "dot_color": "#c0392b",
-      "badge_txt": "ROBO",
-      "lat": 21.02,
-      "lon": -101.26
-    }
-  ]
+  "grupos": [],
+  "para_mapa": [],
+  "nota": "Sin alertas activas en la ventana de tiempo configurada."
 }
