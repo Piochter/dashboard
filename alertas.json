@@ -1,36 +1,13 @@
 {
-  "ultima_actualizacion": "2026-07-04T12:45:12.948449-06:00",
-  "ultima_actualizacion_legible": "4 de julio de 2026 · 12:45 CST",
+  "ultima_actualizacion": "2026-07-04T13:58:33.467443-06:00",
+  "ultima_actualizacion_legible": "4 de julio de 2026 · 13:58 CST",
   "total": 2,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Google News",
+    "Quadratín + regionales",
     "Telegram"
   ],
   "grupos": [
-    {
-      "tipo": "bloqueo",
-      "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "f523a509",
-          "tipo": "bloqueo",
-          "ruta": "Bloqueos carreteras HOY 4 de julio: Autopistas cerradas en México,…",
-          "descripcion": "Bloqueos carreteras HOY 4 de julio: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 4 de julio: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
-          "recomendacion": "",
-          "fecha": "4 julio 2026 · 10:21 CST",
-          "fecha_iso": "2026-07-04T10:21:00-06:00",
-          "fuente": "Eje Central",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxObDNXb0hud1Y1UWh2SU5OeUg5aEZiUFh5RjlNbGZOTUV5QkFIS2o5NU53cUg2d1Ric1pmS2g5MmNzU2RtOWdzeVdLWFowdldOdktzXzBIUVpnX2l6eWFReUZHSE1taVZYQnYwTTd5SWU5ellGQlk0ejdtcWlaRC02aC1CcFB5RGdfaHBHOE0zdGpHMnhiM19kbHVpWFBQRVdNYVljc2pPaWttSUI2SGZlMDl0YXZTX0wzREF0cS1HU3BIR2h4ZFZhU21uSlNIQi02alQ5VmdLeWwzSUUtOXR1Nnd0Yml1Zw?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        }
-      ]
-    },
     {
       "tipo": "cierre_parcial",
       "color": "amarillo",
@@ -38,6 +15,20 @@
       "label": "CIERRE PARCIAL / ACCIDENTES",
       "col2": true,
       "alertas": [
+        {
+          "id": "78f99ebe",
+          "tipo": "cierre_parcial",
+          "ruta": "Choque en Vía Atlixcáyotl colapsa circulación…",
+          "descripcion": "Choque en Vía Atlixcáyotl colapsa circulación. Accidente a la altura del CCU genera tráfico intenso.",
+          "recomendacion": "",
+          "fecha": "4 julio 2026 · 13:04 CST",
+          "fecha_iso": "2026-07-04T13:04:00-06:00",
+          "fuente": "Quadratín Puebla",
+          "url": "https://puebla.quadratin.com.mx/sucesos/choque-en-via-atlixcayotl-colapsa-circulacion/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        },
         {
           "id": "769b4403",
           "tipo": "cierre_parcial",
