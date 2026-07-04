@@ -1,10 +1,10 @@
 {
-  "ultima_actualizacion": "2026-07-04T05:25:44.108657-06:00",
-  "ultima_actualizacion_legible": "4 de julio de 2026 · 05:25 CST",
+  "ultima_actualizacion": "2026-07-04T06:44:28.469086-06:00",
+  "ultima_actualizacion_legible": "4 de julio de 2026 · 06:44 CST",
   "total": 1,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Medios regionales"
+    "Telegram"
   ],
   "grupos": [
     {
@@ -15,15 +15,15 @@
       "col2": true,
       "alertas": [
         {
-          "id": "420a1912",
+          "id": "9c04c490",
           "tipo": "robo",
-          "ruta": "Violencia en robos carreteros ahuyenta a choferes y sube precio…",
-          "descripcion": "Violencia en robos carreteros ahuyenta a choferes y sube precio de fletes en Guanajuato. Conductores cada vez dudan más en dedicarse a esta profesión, ante los riesgos actuales de transitar en las carreteras de todo México.",
+          "ruta": "“Nadie por encima de la ley” en el robo de…",
+          "descripcion": "“Nadie por encima de la ley” en el robo de combustible en Guanajuato\nhttps://www.jornada.com.mx/2026/07/04/estados/021n2est?partner=rss\n\nLeón, Gto., “Nadie está por encima de la ley” y si hay funcionarios de Pemex coludidos con el robo de combustible en Guanajuato, deben ser llevados ante un juez, señaló el secretario de Gobierno, Jorge Jiménez Lona.",
           "recomendacion": "",
-          "fecha": "4 julio 2026 · 04:03 CST",
-          "fecha_iso": "2026-07-04T04:03:00-06:00",
-          "fuente": "AM Guanajuato",
-          "url": "https://www.am.com.mx/guanajuato/2026/07/04/violencia-en-robos-carreteros-ahuyenta-a-choferes-y-sube-precio-de-fletes-en-guanajuato-1815155.html",
+          "fecha": "4 julio 2026 · 05:35 CST",
+          "fecha_iso": "2026-07-04T05:35:00-06:00",
+          "fuente": "Telegram @NOTMEX",
+          "url": "https://t.me/NOTMEX/184338",
           "dot_color": "#c0392b",
           "badge": "badge-robo",
           "badge_txt": "ROBO",
@@ -35,13 +35,13 @@
   ],
   "para_mapa": [
     {
-      "id": "420a1912",
+      "id": "9c04c490",
       "tipo": "robo",
-      "ruta": "Violencia en robos carreteros ahuyenta a choferes y sube precio…",
-      "descripcion": "Violencia en robos carreteros ahuyenta a choferes y sube precio de fletes en Guanajuato. Conductores cada vez dudan más en dedicarse a esta profesión, ante los riesgos actuales de transitar en las carreteras de todo México.",
-      "fecha": "4 julio 2026 · 04:03 CST",
-      "fuente": "AM Guanajuato",
-      "url": "https://www.am.com.mx/guanajuato/2026/07/04/violencia-en-robos-carreteros-ahuyenta-a-choferes-y-sube-precio-de-fletes-en-guanajuato-1815155.html",
+      "ruta": "“Nadie por encima de la ley” en el robo de…",
+      "descripcion": "“Nadie por encima de la ley” en el robo de combustible en Guanajuato\nhttps://www.jornada.com.mx/2026/07/04/estados/021n2est?partner=rss\n\nLeón, Gto., “Nadie está por encima de la ley” y si hay funcionarios de Pemex coludidos con el robo de combustible en Guanajuato, deben ser llevados ante un juez, señaló el secretario de Gobierno, Jorge Jiménez Lona.",
+      "fecha": "4 julio 2026 · 05:35 CST",
+      "fuente": "Telegram @NOTMEX",
+      "url": "https://t.me/NOTMEX/184338",
       "dot_color": "#c0392b",
       "badge_txt": "ROBO",
       "lat": 21.02,
