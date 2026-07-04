@@ -1,11 +1,10 @@
 {
-  "ultima_actualizacion": "2026-07-03T17:31:28.576596-06:00",
-  "ultima_actualizacion_legible": "3 de julio de 2026 · 17:31 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-07-03T19:11:27.201528-06:00",
+  "ultima_actualizacion_legible": "3 de julio de 2026 · 19:11 CST",
+  "total": 1,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Google News",
-    "Quadratín + regionales"
+    "Google News"
   ],
   "grupos": [
     {
@@ -30,22 +29,6 @@
           "badge_txt": "CIERRE PARCIAL",
           "lat": 19.18,
           "lon": -96.14
-        },
-        {
-          "id": "e5b910c8",
-          "tipo": "cierre_parcial",
-          "ruta": "Registra Jalisco casi 2.5 millones de madres al cierre de…",
-          "descripcion": "Registra Jalisco casi 2.5 millones de madres al cierre de 2025: IIEG. El reporte indica que el 43.1 por ciento de las mamás en el estado pertenece a la población económicamente activa",
-          "recomendacion": "",
-          "fecha": "3 julio 2026 · 14:42 CST",
-          "fecha_iso": "2026-07-03T14:42:00-06:00",
-          "fuente": "Quadratín Jalisco",
-          "url": "https://jalisco.quadratin.com.mx/sucesos/registra-jalisco-casi-2-5-millones-de-madres-al-cierre-de-2025-iieg/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 20.66,
-          "lon": -103.35
         }
       ]
     }
@@ -63,19 +46,6 @@
       "badge_txt": "CIERRE PARCIAL",
       "lat": 19.18,
       "lon": -96.14
-    },
-    {
-      "id": "e5b910c8",
-      "tipo": "cierre_parcial",
-      "ruta": "Registra Jalisco casi 2.5 millones de madres al cierre de…",
-      "descripcion": "Registra Jalisco casi 2.5 millones de madres al cierre de 2025: IIEG. El reporte indica que el 43.1 por ciento de las mamás en el estado pertenece a la población económicamente activa",
-      "fecha": "3 julio 2026 · 14:42 CST",
-      "fuente": "Quadratín Jalisco",
-      "url": "https://jalisco.quadratin.com.mx/sucesos/registra-jalisco-casi-2-5-millones-de-madres-al-cierre-de-2025-iieg/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 20.66,
-      "lon": -103.35
     }
   ]
 }
