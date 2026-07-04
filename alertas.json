@@ -1,13 +1,39 @@
 {
-  "ultima_actualizacion": "2026-07-04T13:58:33.467443-06:00",
-  "ultima_actualizacion_legible": "4 de julio de 2026 · 13:58 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-07-04T14:59:31.652187-06:00",
+  "ultima_actualizacion_legible": "4 de julio de 2026 · 14:59 CST",
+  "total": 3,
   "ventana": "últimos 180 minutos",
   "fuentes": [
+    "Medios regionales",
     "Quadratín + regionales",
     "Telegram"
   ],
   "grupos": [
+    {
+      "tipo": "robo",
+      "color": "rojo",
+      "icono": "🚨",
+      "label": "ROBOS EN CARRETERA",
+      "col2": true,
+      "alertas": [
+        {
+          "id": "f541c0fb",
+          "tipo": "robo",
+          "ruta": "Vinculan a proceso a 2 hombres por robo de oro…",
+          "descripcion": "Vinculan a proceso a 2 hombres por robo de oro en Guadalajara. El monto del motín tendría un valor aproximado de 3 millones 500 mil pesos",
+          "recomendacion": "",
+          "fecha": "4 julio 2026 · 14:12 CST",
+          "fecha_iso": "2026-07-04T14:12:00-06:00",
+          "fuente": "El Informador Jalisco",
+          "url": "https://www.informador.mx/jalisco/seguridad-en-jalisco-vinculan-a-proceso-a-2-hombres-por-robo-de-oro-20260704-0072.html",
+          "dot_color": "#c0392b",
+          "badge": "badge-robo",
+          "badge_txt": "ROBO",
+          "lat": 20.66,
+          "lon": -103.35
+        }
+      ]
+    },
     {
       "tipo": "cierre_parcial",
       "color": "amarillo",
@@ -46,5 +72,19 @@
       ]
     }
   ],
-  "para_mapa": []
+  "para_mapa": [
+    {
+      "id": "f541c0fb",
+      "tipo": "robo",
+      "ruta": "Vinculan a proceso a 2 hombres por robo de oro…",
+      "descripcion": "Vinculan a proceso a 2 hombres por robo de oro en Guadalajara. El monto del motín tendría un valor aproximado de 3 millones 500 mil pesos",
+      "fecha": "4 julio 2026 · 14:12 CST",
+      "fuente": "El Informador Jalisco",
+      "url": "https://www.informador.mx/jalisco/seguridad-en-jalisco-vinculan-a-proceso-a-2-hombres-por-robo-de-oro-20260704-0072.html",
+      "dot_color": "#c0392b",
+      "badge_txt": "ROBO",
+      "lat": 20.66,
+      "lon": -103.35
+    }
+  ]
 }
