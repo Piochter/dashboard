@@ -1,51 +1,12 @@
 {
-  "ultima_actualizacion": "2026-07-03T19:11:27.201528-06:00",
-  "ultima_actualizacion_legible": "3 de julio de 2026 · 19:11 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-07-03T22:52:17.501589-06:00",
+  "ultima_actualizacion_legible": "3 de julio de 2026 · 22:52 CST",
+  "total": 0,
   "ventana": "últimos 180 minutos",
   "fuentes": [
     "Google News"
   ],
-  "grupos": [
-    {
-      "tipo": "cierre_parcial",
-      "color": "amarillo",
-      "icono": "🟡",
-      "label": "CIERRE PARCIAL / ACCIDENTES",
-      "col2": true,
-      "alertas": [
-        {
-          "id": "d1d76c74",
-          "tipo": "cierre_parcial",
-          "ruta": "Tramos y carreteras de Veracruz con cierres hoy 03 de…",
-          "descripcion": "Tramos y carreteras de Veracruz con cierres hoy 03 de julio de 2026 - Diario de Xalapa - El Sol de México. Tramos y carreteras de Veracruz con cierres hoy 03 de julio de 2026 - Diario de Xalapa El Sol de México",
-          "recomendacion": "",
-          "fecha": "3 julio 2026 · 16:30 CST",
-          "fecha_iso": "2026-07-03T16:30:00-06:00",
-          "fuente": "El Sol de México",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUUlBTGh2MDRFeVNvV1VrSVkxS0lTQ2p0MWNsOVhUdUVqc2VuLUJCOW5nZXVEeGY3eFY3ZXdETFZwTHhOeUxpYzk3VEtPU3F3WDN0bWphamFqTEMyZ1dHMXNZb1VIb2xrcURDTEtUb2phZmE5R0VUbWNfMlRiRU1fZGktUldLdWpRR1RCaktuOVowRGprSUFEckRpOHUwMndldXI4Y0d1NldneF93M2FHamRBd2ZvSFE?oc=5",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.18,
-          "lon": -96.14
-        }
-      ]
-    }
-  ],
-  "para_mapa": [
-    {
-      "id": "d1d76c74",
-      "tipo": "cierre_parcial",
-      "ruta": "Tramos y carreteras de Veracruz con cierres hoy 03 de…",
-      "descripcion": "Tramos y carreteras de Veracruz con cierres hoy 03 de julio de 2026 - Diario de Xalapa - El Sol de México. Tramos y carreteras de Veracruz con cierres hoy 03 de julio de 2026 - Diario de Xalapa El Sol de México",
-      "fecha": "3 julio 2026 · 16:30 CST",
-      "fuente": "El Sol de México",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUUlBTGh2MDRFeVNvV1VrSVkxS0lTQ2p0MWNsOVhUdUVqc2VuLUJCOW5nZXVEeGY3eFY3ZXdETFZwTHhOeUxpYzk3VEtPU3F3WDN0bWphamFqTEMyZ1dHMXNZb1VIb2xrcURDTEtUb2phZmE5R0VUbWNfMlRiRU1fZGktUldLdWpRR1RCaktuOVowRGprSUFEckRpOHUwMndldXI4Y0d1NldneF93M2FHamRBd2ZvSFE?oc=5",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.18,
-      "lon": -96.14
-    }
-  ]
+  "grupos": [],
+  "para_mapa": [],
+  "nota": "Sin alertas activas en la ventana de tiempo configurada."
 }
