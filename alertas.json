@@ -1,11 +1,11 @@
 {
-  "ultima_actualizacion": "2026-07-05T16:31:35.319966-06:00",
-  "ultima_actualizacion_legible": "5 de julio de 2026 · 16:31 CST",
+  "ultima_actualizacion": "2026-07-05T17:39:47.788693-06:00",
+  "ultima_actualizacion_legible": "5 de julio de 2026 · 17:39 CST",
   "total": 2,
   "ventana": "últimos 180 minutos",
   "fuentes": [
     "Google News",
-    "Telegram"
+    "Quadratín + regionales"
   ],
   "grupos": [
     {
@@ -41,18 +41,20 @@
       "col2": false,
       "alertas": [
         {
-          "id": "44aef481",
+          "id": "5ac399aa",
           "tipo": "clima",
-          "ruta": "SMN alerta por lluvias intensas, granizo e inundaciones en gran…",
-          "descripcion": "SMN alerta por lluvias intensas, granizo e inundaciones en gran parte de México esta [semana](http://telegra.ph/SMN-alerta-por-lluvias-intensas-granizo-e-inundaciones-en-gran-parte-de-México-esta-semana-07-05)\n\n__via__ [www.informador.mx](https://www.informador.mx/mexico/smn-alerta-por-lluvias-intensas-granizo-e-inundaciones-en-gran-parte-de-mexico-esta-semana-20260704-0098.html)",
+          "ruta": "IGAVIM denuncia 66 puntos de inundación sin atención…",
+          "descripcion": "IGAVIM denuncia 66 puntos de inundación sin atención. Autoridades ignoran riesgos de inundación en Puebla: IGAVIM.",
           "recomendacion": "",
-          "fecha": "5 julio 2026 · 13:35 CST",
-          "fecha_iso": "2026-07-05T13:35:00-06:00",
-          "fuente": "Telegram @NOTMEX",
-          "url": "https://t.me/NOTMEX/184371",
+          "fecha": "5 julio 2026 · 15:28 CST",
+          "fecha_iso": "2026-07-05T15:28:00-06:00",
+          "fuente": "Quadratín Puebla",
+          "url": "https://puebla.quadratin.com.mx/politica/igavim-denuncia-66-puntos-de-inundacion-sin-atencion/",
           "dot_color": "#3498db",
           "badge": "badge-clima",
-          "badge_txt": "ALERTA CLIMA"
+          "badge_txt": "ALERTA CLIMA",
+          "lat": 19.04,
+          "lon": -98.2
         }
       ]
     }
@@ -70,6 +72,19 @@
       "badge_txt": "CIERRE PARCIAL",
       "lat": 19.18,
       "lon": -96.14
+    },
+    {
+      "id": "5ac399aa",
+      "tipo": "clima",
+      "ruta": "IGAVIM denuncia 66 puntos de inundación sin atención…",
+      "descripcion": "IGAVIM denuncia 66 puntos de inundación sin atención. Autoridades ignoran riesgos de inundación en Puebla: IGAVIM.",
+      "fecha": "5 julio 2026 · 15:28 CST",
+      "fuente": "Quadratín Puebla",
+      "url": "https://puebla.quadratin.com.mx/politica/igavim-denuncia-66-puntos-de-inundacion-sin-atencion/",
+      "dot_color": "#3498db",
+      "badge_txt": "ALERTA CLIMA",
+      "lat": 19.04,
+      "lon": -98.2
     }
   ]
 }
