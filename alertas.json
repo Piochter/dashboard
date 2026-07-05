@@ -1,11 +1,12 @@
 {
-  "ultima_actualizacion": "2026-07-05T08:58:49.724696-06:00",
-  "ultima_actualizacion_legible": "5 de julio de 2026 · 08:58 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-07-05T10:11:21.531918-06:00",
+  "ultima_actualizacion_legible": "5 de julio de 2026 · 10:11 CST",
+  "total": 4,
   "ventana": "últimos 180 minutos",
   "fuentes": [
     "Google News",
-    "Medios regionales"
+    "Medios regionales",
+    "Quadratín + regionales"
   ],
   "grupos": [
     {
@@ -15,6 +16,22 @@
       "label": "BLOQUEOS / MANIFESTACIONES",
       "col2": false,
       "alertas": [
+        {
+          "id": "1a9d2d77",
+          "tipo": "bloqueo",
+          "ruta": "EN VIVO: Cierre parcial en la México-Puebla y bloqueos hoy…",
+          "descripcion": "EN VIVO: Cierre parcial en la México-Puebla y bloqueos hoy domingo 5 de julio - adn40.mx. EN VIVO: Cierre parcial en la México-Puebla y bloqueos hoy domingo 5 de julio adn40.mx",
+          "recomendacion": "",
+          "fecha": "5 julio 2026 · 08:27 CST",
+          "fecha_iso": "2026-07-05T08:27:00-06:00",
+          "fuente": "adn40.mx",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRklIRXNVS0kzNTFvZFR2WVM0dFd5YUlNMjZJQngzTTZ4X1R6T1BNT1RWekFfWml0T1kyTnFtVlJ2TWJtTWhwX3FpUHpJaTZvSzFtTmNGeEh5OHNKSDJvZnJYM05oVzY2OWlqY3BOUGVXTXN4Y3M1WUE0MVZLOWJXeGdfMjZ4QjdYZV8wQkNWTlFtRGxqbjh6clhuWS1PWDZOWFlYU1gyZW5DSEM5UmU3QjA4cXlTcFU?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 19.35,
+          "lon": -98.4
+        },
         {
           "id": "3ce0e8fa",
           "tipo": "bloqueo",
@@ -28,23 +45,75 @@
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO"
+        }
+      ]
+    },
+    {
+      "tipo": "cierre_parcial",
+      "color": "amarillo",
+      "icono": "🟡",
+      "label": "CIERRE PARCIAL / ACCIDENTES",
+      "col2": true,
+      "alertas": [
+        {
+          "id": "34c38da4",
+          "tipo": "cierre_parcial",
+          "ruta": "Leclerc gana en Silverstone tras cierre con auto de seguridad;…",
+          "descripcion": "Leclerc gana en Silverstone tras cierre con auto de seguridad; \"Checo\" Pérez finaliza 15. El piloto de Ferrari heredó el control definitivo de la competencia y cruzó la meta con la bandera a cuadros escoltado por el safety car",
+          "recomendacion": "",
+          "fecha": "5 julio 2026 · 09:38 CST",
+          "fecha_iso": "2026-07-05T09:38:00-06:00",
+          "fuente": "El Informador Jalisco",
+          "url": "https://www.informador.mx/deportes/f1-leclerc-gana-en-silverstone-tras-cierre-con-auto-de-seguridad-checo-perez-finaliza-15-20260705-0042.html",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 21.0,
+          "lon": -104.0
         },
         {
-          "id": "ec6157c8",
-          "tipo": "bloqueo",
-          "ruta": "Sindicato de Pemex amenaza con huelga…",
-          "descripcion": "Sindicato de Pemex amenaza con huelga. El periodista Claudio Ochoa Huerta expone el pliego petitorio de 29 páginas del Sindicato de Pemex.",
+          "id": "7fbfcf91",
+          "tipo": "cierre_parcial",
+          "ruta": "Registran incendio en el Puente de Brooklyn durante show de…",
+          "descripcion": "Registran incendio en el Puente de Brooklyn durante show de pirotecnia. Descartaron que el fuego afectara los componentes estructurales del icónico viaducto colgante.",
           "recomendacion": "",
-          "fecha": "5 julio 2026 · 06:00 CST",
-          "fecha_iso": "2026-07-05T06:00:00-06:00",
-          "fuente": "AM Guanajuato",
-          "url": "https://www.am.com.mx/opinion/2026/07/05/sindicato-de-pemex-amenaza-con-huelga-claudio-ochoa-huerta-1815494.html",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
+          "fecha": "5 julio 2026 · 09:35 CST",
+          "fecha_iso": "2026-07-05T09:35:00-06:00",
+          "fuente": "Quadratín Oaxaca",
+          "url": "https://oaxaca.quadratin.com.mx/registran-incendio-en-el-puente-de-brooklyn-durante-show-de-pirotecnia/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
         }
       ]
     }
   ],
-  "para_mapa": []
+  "para_mapa": [
+    {
+      "id": "34c38da4",
+      "tipo": "cierre_parcial",
+      "ruta": "Leclerc gana en Silverstone tras cierre con auto de seguridad;…",
+      "descripcion": "Leclerc gana en Silverstone tras cierre con auto de seguridad; \"Checo\" Pérez finaliza 15. El piloto de Ferrari heredó el control definitivo de la competencia y cruzó la meta con la bandera a cuadros escoltado por el safety car",
+      "fecha": "5 julio 2026 · 09:38 CST",
+      "fuente": "El Informador Jalisco",
+      "url": "https://www.informador.mx/deportes/f1-leclerc-gana-en-silverstone-tras-cierre-con-auto-de-seguridad-checo-perez-finaliza-15-20260705-0042.html",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 21.0,
+      "lon": -104.0
+    },
+    {
+      "id": "1a9d2d77",
+      "tipo": "bloqueo",
+      "ruta": "EN VIVO: Cierre parcial en la México-Puebla y bloqueos hoy…",
+      "descripcion": "EN VIVO: Cierre parcial en la México-Puebla y bloqueos hoy domingo 5 de julio - adn40.mx. EN VIVO: Cierre parcial en la México-Puebla y bloqueos hoy domingo 5 de julio adn40.mx",
+      "fecha": "5 julio 2026 · 08:27 CST",
+      "fuente": "adn40.mx",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRklIRXNVS0kzNTFvZFR2WVM0dFd5YUlNMjZJQngzTTZ4X1R6T1BNT1RWekFfWml0T1kyTnFtVlJ2TWJtTWhwX3FpUHpJaTZvSzFtTmNGeEh5OHNKSDJvZnJYM05oVzY2OWlqY3BOUGVXTXN4Y3M1WUE0MVZLOWJXeGdfMjZ4QjdYZV8wQkNWTlFtRGxqbjh6clhuWS1PWDZOWFlYU1gyZW5DSEM5UmU3QjA4cXlTcFU?oc=5",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 19.35,
+      "lon": -98.4
+    }
+  ]
 }
