@@ -1,12 +1,35 @@
 {
-  "ultima_actualizacion": "2026-07-04T17:14:17.837117-06:00",
-  "ultima_actualizacion_legible": "4 de julio de 2026 · 17:14 CST",
-  "total": 0,
+  "ultima_actualizacion": "2026-07-04T18:15:00.087823-06:00",
+  "ultima_actualizacion_legible": "4 de julio de 2026 · 18:15 CST",
+  "total": 1,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Google News"
+    "Quadratín + regionales"
   ],
-  "grupos": [],
-  "para_mapa": [],
-  "nota": "Sin alertas activas en la ventana de tiempo configurada."
+  "grupos": [
+    {
+      "tipo": "cierre_total",
+      "color": "rojo",
+      "icono": "🔴",
+      "label": "CIERRE TOTAL",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "9c703f70",
+          "tipo": "cierre_total",
+          "ruta": "carretera en Zihuateutla",
+          "descripcion": "Deslave por lluvias afecta carretera en Zihuateutla. Autoridades habilitan paso provisional tras reblandecimiento.",
+          "recomendacion": "",
+          "fecha": "4 julio 2026 · 15:24 CST",
+          "fecha_iso": "2026-07-04T15:24:00-06:00",
+          "fuente": "Quadratín Puebla",
+          "url": "https://puebla.quadratin.com.mx/sucesos/deslave-por-lluvias-afecta-carretera-en-zihuateutla/",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL"
+        }
+      ]
+    }
+  ],
+  "para_mapa": []
 }
