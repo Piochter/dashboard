@@ -1,12 +1,35 @@
 {
-  "ultima_actualizacion": "2026-07-05T05:49:24.508300-06:00",
-  "ultima_actualizacion_legible": "5 de julio de 2026 · 05:49 CST",
-  "total": 0,
+  "ultima_actualizacion": "2026-07-05T07:25:11.386885-06:00",
+  "ultima_actualizacion_legible": "5 de julio de 2026 · 07:25 CST",
+  "total": 1,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Google News"
+    "Medios regionales"
   ],
-  "grupos": [],
-  "para_mapa": [],
-  "nota": "Sin alertas activas en la ventana de tiempo configurada."
+  "grupos": [
+    {
+      "tipo": "bloqueo",
+      "color": "rojo",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "ec6157c8",
+          "tipo": "bloqueo",
+          "ruta": "Sindicato de Pemex amenaza con huelga…",
+          "descripcion": "Sindicato de Pemex amenaza con huelga. El periodista Claudio Ochoa Huerta expone el pliego petitorio de 29 páginas del Sindicato de Pemex.",
+          "recomendacion": "",
+          "fecha": "5 julio 2026 · 06:00 CST",
+          "fecha_iso": "2026-07-05T06:00:00-06:00",
+          "fuente": "AM Guanajuato",
+          "url": "https://www.am.com.mx/opinion/2026/07/05/sindicato-de-pemex-amenaza-con-huelga-claudio-ochoa-huerta-1815494.html",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        }
+      ]
+    }
+  ],
+  "para_mapa": []
 }
