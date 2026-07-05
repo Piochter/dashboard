@@ -1,11 +1,10 @@
 {
-  "ultima_actualizacion": "2026-07-05T15:21:04.904553-06:00",
-  "ultima_actualizacion_legible": "5 de julio de 2026 · 15:21 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-07-05T16:31:35.319966-06:00",
+  "ultima_actualizacion_legible": "5 de julio de 2026 · 16:31 CST",
+  "total": 2,
   "ventana": "últimos 180 minutos",
   "fuentes": [
     "Google News",
-    "Medios regionales",
     "Telegram"
   ],
   "grupos": [
@@ -17,27 +16,13 @@
       "col2": true,
       "alertas": [
         {
-          "id": "35b0249c",
-          "tipo": "cierre_parcial",
-          "ruta": "Accidente en la Siglo 21 deja 2 muertos y 7…",
-          "descripcion": "Accidente en la Siglo 21 deja 2 muertos y 7 heridos. En el tramo Cuatro Caminos-Las Cañas",
-          "recomendacion": "",
-          "fecha": "5 julio 2026 · 14:39 CST",
-          "fecha_iso": "2026-07-05T14:39:00-06:00",
-          "fuente": "Quadratín Michoacán",
-          "url": "https://www.quadratin.com.mx/justicia/accidente-en-la-siglo-21-deja-2-muertos-y-7-heridos/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
-        },
-        {
           "id": "7d931f47",
           "tipo": "cierre_parcial",
           "ruta": "Capufe alerta por cierres parciales en Veracruz por accidentes viales;…",
           "descripcion": "Capufe alerta por cierres parciales en Veracruz por accidentes viales; maneje con precaución - Diario de Xalapa - El Sol de México. Capufe alerta por cierres parciales en Veracruz por accidentes viales; maneje con precaución - Diario de Xalapa El Sol de México",
           "recomendacion": "",
-          "fecha": "5 julio 2026 · 12:45 CST",
-          "fecha_iso": "2026-07-05T12:45:00-06:00",
+          "fecha": "5 julio 2026 · 16:07 CST",
+          "fecha_iso": "2026-07-05T16:07:00-06:00",
           "fuente": "El Sol de México",
           "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbWxvWnZnUWdjNE1Yb2FLRkY0Q3prZXlsUm5VTGdxSk1zWWptUkZ4UnVsX1BCYWZtdFNoNEk0d1NBM0xnTldrNjhLM0lZZklWQUV2aERDSmZEVml0Z1RTLXRMWFE4TjZrN3F2MGo0TTViN0E2LU92bGF5OGN2YUpQcG9BU1M2WUdjZGRDVXlkRHR5QkNoU1RpOHcyVHlrSTd0RGtTOU03LUdHcHMzVDEwTUpvTDV1M2lldGxva1VsRjJ6NlZBS09mSGt4QXNlRHR5d01jZE9EOA?oc=5",
           "dot_color": "#e67e22",
@@ -78,7 +63,7 @@
       "tipo": "cierre_parcial",
       "ruta": "Capufe alerta por cierres parciales en Veracruz por accidentes viales;…",
       "descripcion": "Capufe alerta por cierres parciales en Veracruz por accidentes viales; maneje con precaución - Diario de Xalapa - El Sol de México. Capufe alerta por cierres parciales en Veracruz por accidentes viales; maneje con precaución - Diario de Xalapa El Sol de México",
-      "fecha": "5 julio 2026 · 12:45 CST",
+      "fecha": "5 julio 2026 · 16:07 CST",
       "fuente": "El Sol de México",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbWxvWnZnUWdjNE1Yb2FLRkY0Q3prZXlsUm5VTGdxSk1zWWptUkZ4UnVsX1BCYWZtdFNoNEk0d1NBM0xnTldrNjhLM0lZZklWQUV2aERDSmZEVml0Z1RTLXRMWFE4TjZrN3F2MGo0TTViN0E2LU92bGF5OGN2YUpQcG9BU1M2WUdjZGRDVXlkRHR5QkNoU1RpOHcyVHlrSTd0RGtTOU03LUdHcHMzVDEwTUpvTDV1M2lldGxva1VsRjJ6NlZBS09mSGt4QXNlRHR5d01jZE9EOA?oc=5",
       "dot_color": "#e67e22",
