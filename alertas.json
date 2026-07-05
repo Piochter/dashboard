@@ -1,9 +1,10 @@
 {
-  "ultima_actualizacion": "2026-07-05T07:25:11.386885-06:00",
-  "ultima_actualizacion_legible": "5 de julio de 2026 · 07:25 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-07-05T08:58:49.724696-06:00",
+  "ultima_actualizacion_legible": "5 de julio de 2026 · 08:58 CST",
+  "total": 2,
   "ventana": "últimos 180 minutos",
   "fuentes": [
+    "Google News",
     "Medios regionales"
   ],
   "grupos": [
@@ -14,6 +15,20 @@
       "label": "BLOQUEOS / MANIFESTACIONES",
       "col2": false,
       "alertas": [
+        {
+          "id": "3ce0e8fa",
+          "tipo": "bloqueo",
+          "ruta": "Bloqueos carreteras HOY 5 de julio: Autopistas cerradas en México,…",
+          "descripcion": "Bloqueos carreteras HOY 5 de julio: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 5 de julio: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
+          "recomendacion": "",
+          "fecha": "5 julio 2026 · 08:20 CST",
+          "fecha_iso": "2026-07-05T08:20:00-06:00",
+          "fuente": "Eje Central",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQU2RXbHBqUWNmcVRQRUlQWmI4OW5YR0RXaUtrZ1pLUG54WFhOc1JsZDJxT3UzeUgtMHBFbVJ1cVNSQmw2YmxITG8zVDNWcExoT1JEOE9hYlNRQjJneTVpdkw5Y3p2ektEV2dGZ3k4Mm1COWMxZ29BV2dkU0RWcmFCeHNXZTdaNkdZSmluLTRINXNSZUtEOV9mSV9rd0Zsc0VuZS1ySHMxMXhVTlNnUXJJX2wzTmEyOEU2S3ZFbHdNeUdVQ3pwMl83dVowUVpZSlNTUXZhUk5YU3dwSXdsWTE0SjJOOXdxdw?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
         {
           "id": "ec6157c8",
           "tipo": "bloqueo",
