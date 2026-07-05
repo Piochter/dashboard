@@ -1,10 +1,11 @@
 {
-  "ultima_actualizacion": "2026-07-05T14:02:58.043010-06:00",
-  "ultima_actualizacion_legible": "5 de julio de 2026 · 14:02 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-07-05T15:21:04.904553-06:00",
+  "ultima_actualizacion_legible": "5 de julio de 2026 · 15:21 CST",
+  "total": 3,
   "ventana": "últimos 180 minutos",
   "fuentes": [
     "Google News",
+    "Medios regionales",
     "Telegram"
   ],
   "grupos": [
@@ -15,6 +16,20 @@
       "label": "CIERRE PARCIAL / ACCIDENTES",
       "col2": true,
       "alertas": [
+        {
+          "id": "35b0249c",
+          "tipo": "cierre_parcial",
+          "ruta": "Accidente en la Siglo 21 deja 2 muertos y 7…",
+          "descripcion": "Accidente en la Siglo 21 deja 2 muertos y 7 heridos. En el tramo Cuatro Caminos-Las Cañas",
+          "recomendacion": "",
+          "fecha": "5 julio 2026 · 14:39 CST",
+          "fecha_iso": "2026-07-05T14:39:00-06:00",
+          "fuente": "Quadratín Michoacán",
+          "url": "https://www.quadratin.com.mx/justicia/accidente-en-la-siglo-21-deja-2-muertos-y-7-heridos/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        },
         {
           "id": "7d931f47",
           "tipo": "cierre_parcial",
