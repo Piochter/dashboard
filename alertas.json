@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-07-05T10:11:21.531918-06:00",
-  "ultima_actualizacion_legible": "5 de julio de 2026 · 10:11 CST",
-  "total": 4,
+  "ultima_actualizacion": "2026-07-05T11:33:51.774420-06:00",
+  "ultima_actualizacion_legible": "5 de julio de 2026 · 11:33 CST",
+  "total": 3,
   "ventana": "últimos 180 minutos",
   "fuentes": [
     "Google News",
@@ -10,45 +10,6 @@
   ],
   "grupos": [
     {
-      "tipo": "bloqueo",
-      "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "1a9d2d77",
-          "tipo": "bloqueo",
-          "ruta": "EN VIVO: Cierre parcial en la México-Puebla y bloqueos hoy…",
-          "descripcion": "EN VIVO: Cierre parcial en la México-Puebla y bloqueos hoy domingo 5 de julio - adn40.mx. EN VIVO: Cierre parcial en la México-Puebla y bloqueos hoy domingo 5 de julio adn40.mx",
-          "recomendacion": "",
-          "fecha": "5 julio 2026 · 08:27 CST",
-          "fecha_iso": "2026-07-05T08:27:00-06:00",
-          "fuente": "adn40.mx",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRklIRXNVS0kzNTFvZFR2WVM0dFd5YUlNMjZJQngzTTZ4X1R6T1BNT1RWekFfWml0T1kyTnFtVlJ2TWJtTWhwX3FpUHpJaTZvSzFtTmNGeEh5OHNKSDJvZnJYM05oVzY2OWlqY3BOUGVXTXN4Y3M1WUE0MVZLOWJXeGdfMjZ4QjdYZV8wQkNWTlFtRGxqbjh6clhuWS1PWDZOWFlYU1gyZW5DSEM5UmU3QjA4cXlTcFU?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 19.35,
-          "lon": -98.4
-        },
-        {
-          "id": "3ce0e8fa",
-          "tipo": "bloqueo",
-          "ruta": "Bloqueos carreteras HOY 5 de julio: Autopistas cerradas en México,…",
-          "descripcion": "Bloqueos carreteras HOY 5 de julio: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 5 de julio: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
-          "recomendacion": "",
-          "fecha": "5 julio 2026 · 08:20 CST",
-          "fecha_iso": "2026-07-05T08:20:00-06:00",
-          "fuente": "Eje Central",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQU2RXbHBqUWNmcVRQRUlQWmI4OW5YR0RXaUtrZ1pLUG54WFhOc1JsZDJxT3UzeUgtMHBFbVJ1cVNSQmw2YmxITG8zVDNWcExoT1JEOE9hYlNRQjJneTVpdkw5Y3p2ektEV2dGZ3k4Mm1COWMxZ29BV2dkU0RWcmFCeHNXZTdaNkdZSmluLTRINXNSZUtEOV9mSV9rd0Zsc0VuZS1ySHMxMXhVTlNnUXJJX2wzTmEyOEU2S3ZFbHdNeUdVQ3pwMl83dVowUVpZSlNTUXZhUk5YU3dwSXdsWTE0SjJOOXdxdw?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        }
-      ]
-    },
-    {
       "tipo": "cierre_parcial",
       "color": "amarillo",
       "icono": "🟡",
@@ -56,20 +17,36 @@
       "col2": true,
       "alertas": [
         {
-          "id": "34c38da4",
+          "id": "7d931f47",
           "tipo": "cierre_parcial",
-          "ruta": "Leclerc gana en Silverstone tras cierre con auto de seguridad;…",
-          "descripcion": "Leclerc gana en Silverstone tras cierre con auto de seguridad; \"Checo\" Pérez finaliza 15. El piloto de Ferrari heredó el control definitivo de la competencia y cruzó la meta con la bandera a cuadros escoltado por el safety car",
+          "ruta": "Capufe alerta por cierres parciales en Veracruz por accidentes viales;…",
+          "descripcion": "Capufe alerta por cierres parciales en Veracruz por accidentes viales; maneje con precaución - Diario de Xalapa - El Sol de México. Capufe alerta por cierres parciales en Veracruz por accidentes viales; maneje con precaución - Diario de Xalapa El Sol de México",
           "recomendacion": "",
-          "fecha": "5 julio 2026 · 09:38 CST",
-          "fecha_iso": "2026-07-05T09:38:00-06:00",
-          "fuente": "El Informador Jalisco",
-          "url": "https://www.informador.mx/deportes/f1-leclerc-gana-en-silverstone-tras-cierre-con-auto-de-seguridad-checo-perez-finaliza-15-20260705-0042.html",
+          "fecha": "5 julio 2026 · 10:16 CST",
+          "fecha_iso": "2026-07-05T10:16:00-06:00",
+          "fuente": "El Sol de México",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbWxvWnZnUWdjNE1Yb2FLRkY0Q3prZXlsUm5VTGdxSk1zWWptUkZ4UnVsX1BCYWZtdFNoNEk0d1NBM0xnTldrNjhLM0lZZklWQUV2aERDSmZEVml0Z1RTLXRMWFE4TjZrN3F2MGo0TTViN0E2LU92bGF5OGN2YUpQcG9BU1M2WUdjZGRDVXlkRHR5QkNoU1RpOHcyVHlrSTd0RGtTOU03LUdHcHMzVDEwTUpvTDV1M2lldGxva1VsRjJ6NlZBS09mSGt4QXNlRHR5d01jZE9EOA?oc=5",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL",
-          "lat": 21.0,
-          "lon": -104.0
+          "lat": 19.18,
+          "lon": -96.14
+        },
+        {
+          "id": "8bab7718",
+          "tipo": "cierre_parcial",
+          "ruta": "¡No lo olvides! Habrá cierres a la circulación en Guadalajara…",
+          "descripcion": "¡No lo olvides! Habrá cierres a la circulación en Guadalajara por el México vs Inglaterra. En Guadalajara, este no será un fin de semana cualquiera, pues toca apoyar a la afición; te compartimos los operativos viales de hoy en la ciudad con motivo del México vs Inglaterra",
+          "recomendacion": "",
+          "fecha": "5 julio 2026 · 10:12 CST",
+          "fecha_iso": "2026-07-05T10:12:00-06:00",
+          "fuente": "El Informador Jalisco",
+          "url": "https://www.informador.mx/jalisco/no-lo-olvides-este-domingo-habra-cierres-a-la-circulacion-sobre-avenida-juarez-hasta-la-minerva-por-el-partido-de-mexico-vs-inglaterra-20260705-0045.html",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 20.66,
+          "lon": -103.35
         },
         {
           "id": "7fbfcf91",
@@ -90,30 +67,30 @@
   ],
   "para_mapa": [
     {
-      "id": "34c38da4",
+      "id": "7d931f47",
       "tipo": "cierre_parcial",
-      "ruta": "Leclerc gana en Silverstone tras cierre con auto de seguridad;…",
-      "descripcion": "Leclerc gana en Silverstone tras cierre con auto de seguridad; \"Checo\" Pérez finaliza 15. El piloto de Ferrari heredó el control definitivo de la competencia y cruzó la meta con la bandera a cuadros escoltado por el safety car",
-      "fecha": "5 julio 2026 · 09:38 CST",
-      "fuente": "El Informador Jalisco",
-      "url": "https://www.informador.mx/deportes/f1-leclerc-gana-en-silverstone-tras-cierre-con-auto-de-seguridad-checo-perez-finaliza-15-20260705-0042.html",
+      "ruta": "Capufe alerta por cierres parciales en Veracruz por accidentes viales;…",
+      "descripcion": "Capufe alerta por cierres parciales en Veracruz por accidentes viales; maneje con precaución - Diario de Xalapa - El Sol de México. Capufe alerta por cierres parciales en Veracruz por accidentes viales; maneje con precaución - Diario de Xalapa El Sol de México",
+      "fecha": "5 julio 2026 · 10:16 CST",
+      "fuente": "El Sol de México",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbWxvWnZnUWdjNE1Yb2FLRkY0Q3prZXlsUm5VTGdxSk1zWWptUkZ4UnVsX1BCYWZtdFNoNEk0d1NBM0xnTldrNjhLM0lZZklWQUV2aERDSmZEVml0Z1RTLXRMWFE4TjZrN3F2MGo0TTViN0E2LU92bGF5OGN2YUpQcG9BU1M2WUdjZGRDVXlkRHR5QkNoU1RpOHcyVHlrSTd0RGtTOU03LUdHcHMzVDEwTUpvTDV1M2lldGxva1VsRjJ6NlZBS09mSGt4QXNlRHR5d01jZE9EOA?oc=5",
       "dot_color": "#e67e22",
       "badge_txt": "CIERRE PARCIAL",
-      "lat": 21.0,
-      "lon": -104.0
+      "lat": 19.18,
+      "lon": -96.14
     },
     {
-      "id": "1a9d2d77",
-      "tipo": "bloqueo",
-      "ruta": "EN VIVO: Cierre parcial en la México-Puebla y bloqueos hoy…",
-      "descripcion": "EN VIVO: Cierre parcial en la México-Puebla y bloqueos hoy domingo 5 de julio - adn40.mx. EN VIVO: Cierre parcial en la México-Puebla y bloqueos hoy domingo 5 de julio adn40.mx",
-      "fecha": "5 julio 2026 · 08:27 CST",
-      "fuente": "adn40.mx",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRklIRXNVS0kzNTFvZFR2WVM0dFd5YUlNMjZJQngzTTZ4X1R6T1BNT1RWekFfWml0T1kyTnFtVlJ2TWJtTWhwX3FpUHpJaTZvSzFtTmNGeEh5OHNKSDJvZnJYM05oVzY2OWlqY3BOUGVXTXN4Y3M1WUE0MVZLOWJXeGdfMjZ4QjdYZV8wQkNWTlFtRGxqbjh6clhuWS1PWDZOWFlYU1gyZW5DSEM5UmU3QjA4cXlTcFU?oc=5",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 19.35,
-      "lon": -98.4
+      "id": "8bab7718",
+      "tipo": "cierre_parcial",
+      "ruta": "¡No lo olvides! Habrá cierres a la circulación en Guadalajara…",
+      "descripcion": "¡No lo olvides! Habrá cierres a la circulación en Guadalajara por el México vs Inglaterra. En Guadalajara, este no será un fin de semana cualquiera, pues toca apoyar a la afición; te compartimos los operativos viales de hoy en la ciudad con motivo del México vs Inglaterra",
+      "fecha": "5 julio 2026 · 10:12 CST",
+      "fuente": "El Informador Jalisco",
+      "url": "https://www.informador.mx/jalisco/no-lo-olvides-este-domingo-habra-cierres-a-la-circulacion-sobre-avenida-juarez-hasta-la-minerva-por-el-partido-de-mexico-vs-inglaterra-20260705-0045.html",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 20.66,
+      "lon": -103.35
     }
   ]
 }
