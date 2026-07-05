@@ -1,11 +1,11 @@
 {
-  "ultima_actualizacion": "2026-07-05T12:46:25.897536-06:00",
-  "ultima_actualizacion_legible": "5 de julio de 2026 · 12:46 CST",
+  "ultima_actualizacion": "2026-07-05T14:02:58.043010-06:00",
+  "ultima_actualizacion_legible": "5 de julio de 2026 · 14:02 CST",
   "total": 2,
   "ventana": "últimos 180 minutos",
   "fuentes": [
     "Google News",
-    "Medios regionales"
+    "Telegram"
   ],
   "grupos": [
     {
@@ -21,8 +21,8 @@
           "ruta": "Capufe alerta por cierres parciales en Veracruz por accidentes viales;…",
           "descripcion": "Capufe alerta por cierres parciales en Veracruz por accidentes viales; maneje con precaución - Diario de Xalapa - El Sol de México. Capufe alerta por cierres parciales en Veracruz por accidentes viales; maneje con precaución - Diario de Xalapa El Sol de México",
           "recomendacion": "",
-          "fecha": "5 julio 2026 · 10:16 CST",
-          "fecha_iso": "2026-07-05T10:16:00-06:00",
+          "fecha": "5 julio 2026 · 12:45 CST",
+          "fecha_iso": "2026-07-05T12:45:00-06:00",
           "fuente": "El Sol de México",
           "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbWxvWnZnUWdjNE1Yb2FLRkY0Q3prZXlsUm5VTGdxSk1zWWptUkZ4UnVsX1BCYWZtdFNoNEk0d1NBM0xnTldrNjhLM0lZZklWQUV2aERDSmZEVml0Z1RTLXRMWFE4TjZrN3F2MGo0TTViN0E2LU92bGF5OGN2YUpQcG9BU1M2WUdjZGRDVXlkRHR5QkNoU1RpOHcyVHlrSTd0RGtTOU03LUdHcHMzVDEwTUpvTDV1M2lldGxva1VsRjJ6NlZBS09mSGt4QXNlRHR5d01jZE9EOA?oc=5",
           "dot_color": "#e67e22",
@@ -30,22 +30,29 @@
           "badge_txt": "CIERRE PARCIAL",
           "lat": 19.18,
           "lon": -96.14
-        },
+        }
+      ]
+    },
+    {
+      "tipo": "clima",
+      "color": "azul",
+      "icono": "🌧️",
+      "label": "ALERTA METEOROLÓGICA",
+      "col2": false,
+      "alertas": [
         {
-          "id": "8bab7718",
-          "tipo": "cierre_parcial",
-          "ruta": "¡No lo olvides! Habrá cierres a la circulación en Guadalajara…",
-          "descripcion": "¡No lo olvides! Habrá cierres a la circulación en Guadalajara por el México vs Inglaterra. En Guadalajara, este no será un fin de semana cualquiera, pues toca apoyar a la afición; te compartimos los operativos viales de hoy en la ciudad con motivo del México vs Inglaterra",
+          "id": "44aef481",
+          "tipo": "clima",
+          "ruta": "SMN alerta por lluvias intensas, granizo e inundaciones en gran…",
+          "descripcion": "SMN alerta por lluvias intensas, granizo e inundaciones en gran parte de México esta [semana](http://telegra.ph/SMN-alerta-por-lluvias-intensas-granizo-e-inundaciones-en-gran-parte-de-México-esta-semana-07-05)\n\n__via__ [www.informador.mx](https://www.informador.mx/mexico/smn-alerta-por-lluvias-intensas-granizo-e-inundaciones-en-gran-parte-de-mexico-esta-semana-20260704-0098.html)",
           "recomendacion": "",
-          "fecha": "5 julio 2026 · 10:12 CST",
-          "fecha_iso": "2026-07-05T10:12:00-06:00",
-          "fuente": "El Informador Jalisco",
-          "url": "https://www.informador.mx/jalisco/no-lo-olvides-este-domingo-habra-cierres-a-la-circulacion-sobre-avenida-juarez-hasta-la-minerva-por-el-partido-de-mexico-vs-inglaterra-20260705-0045.html",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 20.66,
-          "lon": -103.35
+          "fecha": "5 julio 2026 · 13:35 CST",
+          "fecha_iso": "2026-07-05T13:35:00-06:00",
+          "fuente": "Telegram @NOTMEX",
+          "url": "https://t.me/NOTMEX/184371",
+          "dot_color": "#3498db",
+          "badge": "badge-clima",
+          "badge_txt": "ALERTA CLIMA"
         }
       ]
     }
@@ -56,26 +63,13 @@
       "tipo": "cierre_parcial",
       "ruta": "Capufe alerta por cierres parciales en Veracruz por accidentes viales;…",
       "descripcion": "Capufe alerta por cierres parciales en Veracruz por accidentes viales; maneje con precaución - Diario de Xalapa - El Sol de México. Capufe alerta por cierres parciales en Veracruz por accidentes viales; maneje con precaución - Diario de Xalapa El Sol de México",
-      "fecha": "5 julio 2026 · 10:16 CST",
+      "fecha": "5 julio 2026 · 12:45 CST",
       "fuente": "El Sol de México",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbWxvWnZnUWdjNE1Yb2FLRkY0Q3prZXlsUm5VTGdxSk1zWWptUkZ4UnVsX1BCYWZtdFNoNEk0d1NBM0xnTldrNjhLM0lZZklWQUV2aERDSmZEVml0Z1RTLXRMWFE4TjZrN3F2MGo0TTViN0E2LU92bGF5OGN2YUpQcG9BU1M2WUdjZGRDVXlkRHR5QkNoU1RpOHcyVHlrSTd0RGtTOU03LUdHcHMzVDEwTUpvTDV1M2lldGxva1VsRjJ6NlZBS09mSGt4QXNlRHR5d01jZE9EOA?oc=5",
       "dot_color": "#e67e22",
       "badge_txt": "CIERRE PARCIAL",
       "lat": 19.18,
       "lon": -96.14
-    },
-    {
-      "id": "8bab7718",
-      "tipo": "cierre_parcial",
-      "ruta": "¡No lo olvides! Habrá cierres a la circulación en Guadalajara…",
-      "descripcion": "¡No lo olvides! Habrá cierres a la circulación en Guadalajara por el México vs Inglaterra. En Guadalajara, este no será un fin de semana cualquiera, pues toca apoyar a la afición; te compartimos los operativos viales de hoy en la ciudad con motivo del México vs Inglaterra",
-      "fecha": "5 julio 2026 · 10:12 CST",
-      "fuente": "El Informador Jalisco",
-      "url": "https://www.informador.mx/jalisco/no-lo-olvides-este-domingo-habra-cierres-a-la-circulacion-sobre-avenida-juarez-hasta-la-minerva-por-el-partido-de-mexico-vs-inglaterra-20260705-0045.html",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 20.66,
-      "lon": -103.35
     }
   ]
 }
