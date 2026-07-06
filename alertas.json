@@ -1,12 +1,143 @@
 {
-  "ultima_actualizacion": "2026-07-06T04:13:02.626276-06:00",
-  "ultima_actualizacion_legible": "6 de julio de 2026 · 04:13 CST",
-  "total": 0,
+  "ultima_actualizacion": "2026-07-06T08:04:15.246722-06:00",
+  "ultima_actualizacion_legible": "6 de julio de 2026 · 08:04 CST",
+  "total": 4,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Google News"
+    "Google News",
+    "Medios regionales",
+    "Telegram"
   ],
-  "grupos": [],
-  "para_mapa": [],
-  "nota": "Sin alertas activas en la ventana de tiempo configurada."
+  "grupos": [
+    {
+      "tipo": "bloqueo",
+      "color": "rojo",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "1fe42533",
+          "tipo": "bloqueo",
+          "ruta": "Bloqueos carreteras HOY 6 de julio: Autopistas cerradas en México,…",
+          "descripcion": "Bloqueos carreteras HOY 6 de julio: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 6 de julio: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
+          "recomendacion": "",
+          "fecha": "6 julio 2026 · 07:03 CST",
+          "fecha_iso": "2026-07-06T07:03:00-06:00",
+          "fuente": "Eje Central",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOOXlRXzUwd2RaZ0VUNlRZbzh5aHdRMDZ2NndlM3hZSkpaLTkyMDdQMTVXekhjMGdmeEJidWxDcnB2anhwT0pDMXRlRTA1d19UbndOQ3IxSWt5WVJGR1lsdXowMlNHb25fU1puOTZqTkRSLTJTT0dOa0lpNDVrOHlOd0FkZnNsRV9kejZhdmdWZ2ZUT0lwWmNBSVA3UmdoTkNobkZmTzJXS1NESTFfZGl4RjExekZHeXU0eklIT09zcVQ2MXhIeGstVXRuckgwdkZ0NzgzbFpfdW9FcS0yYzBsZlFEaV9OUQ?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
+        {
+          "id": "3fb7d302",
+          "tipo": "bloqueo",
+          "ruta": "Grupo armado de Teojomulco retiene a 30 civiles en zona…",
+          "descripcion": "Grupo armado de Teojomulco retiene  a 30 civiles en zona de disputa agraria\nhttps://www.jornada.com.mx/2026/07/06/estados/023n1est?partner=rss\n\nOaxaca, Oax., Pobladores de Santo Domingo Teojomulco retuvieron a más de 30 habitantes de Santiago Texti-tlán y Santiago Amoltepec, para exigir a las autoridades agrarias reconocer que 2 mil 100 hectáreas en esas comunidades pertenecen a Teojomulco. Al cierre de esta edición fueron dejadas en libertad 11 personas, pues son adultos mayores, así como dos p",
+          "recomendacion": "",
+          "fecha": "6 julio 2026 · 05:17 CST",
+          "fecha_iso": "2026-07-06T05:17:00-06:00",
+          "fuente": "Telegram @NOTMEX",
+          "url": "https://t.me/NOTMEX/184393",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 17.06,
+          "lon": -96.72
+        }
+      ]
+    },
+    {
+      "tipo": "cierre_parcial",
+      "color": "amarillo",
+      "icono": "🟡",
+      "label": "CIERRE PARCIAL / ACCIDENTES",
+      "col2": true,
+      "alertas": [
+        {
+          "id": "52fb27d9",
+          "tipo": "cierre_parcial",
+          "ruta": "☁️Neblina complica la circulación en la #México-#Toluca https://lajornadaestadodemexico.com/neblina-en-la-mexico-toluca/…",
+          "descripcion": "☁️Neblina complica la circulación en la #México-#Toluca \n\nhttps://lajornadaestadodemexico.com/neblina-en-la-mexico-toluca/",
+          "recomendacion": "",
+          "fecha": "6 julio 2026 · 07:04 CST",
+          "fecha_iso": "2026-07-06T07:04:00-06:00",
+          "fuente": "Telegram @jornadaedomex",
+          "url": "https://t.me/jornadaedomex/11313",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 19.29,
+          "lon": -99.66
+        }
+      ]
+    },
+    {
+      "tipo": "clima",
+      "color": "azul",
+      "icono": "🌧️",
+      "label": "ALERTA METEOROLÓGICA",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "6c6378ce",
+          "tipo": "clima",
+          "ruta": "Alerta por \"Tormenta Negra\" en México; ¿qué estados están en…",
+          "descripcion": "Alerta por \"Tormenta Negra\" en México; ¿qué estados están en peligro?. El Servicio Meteorológico Nacional advierte sobre precipitaciones de hasta 150 milímetros, riesgo de inundaciones y mar de fondo en diversas regiones del país",
+          "recomendacion": "",
+          "fecha": "6 julio 2026 · 07:47 CST",
+          "fecha_iso": "2026-07-06T07:47:00-06:00",
+          "fuente": "El Informador Jalisco",
+          "url": "https://www.informador.mx/mexico/alerta-por-tormenta-negra-en-mexico-que-estados-estan-en-peligro-por-lluvias-extremas-hoy-20260706-0032.html",
+          "dot_color": "#3498db",
+          "badge": "badge-clima",
+          "badge_txt": "ALERTA CLIMA",
+          "lat": 21.0,
+          "lon": -104.0
+        }
+      ]
+    }
+  ],
+  "para_mapa": [
+    {
+      "id": "6c6378ce",
+      "tipo": "clima",
+      "ruta": "Alerta por \"Tormenta Negra\" en México; ¿qué estados están en…",
+      "descripcion": "Alerta por \"Tormenta Negra\" en México; ¿qué estados están en peligro?. El Servicio Meteorológico Nacional advierte sobre precipitaciones de hasta 150 milímetros, riesgo de inundaciones y mar de fondo en diversas regiones del país",
+      "fecha": "6 julio 2026 · 07:47 CST",
+      "fuente": "El Informador Jalisco",
+      "url": "https://www.informador.mx/mexico/alerta-por-tormenta-negra-en-mexico-que-estados-estan-en-peligro-por-lluvias-extremas-hoy-20260706-0032.html",
+      "dot_color": "#3498db",
+      "badge_txt": "ALERTA CLIMA",
+      "lat": 21.0,
+      "lon": -104.0
+    },
+    {
+      "id": "52fb27d9",
+      "tipo": "cierre_parcial",
+      "ruta": "☁️Neblina complica la circulación en la #México-#Toluca https://lajornadaestadodemexico.com/neblina-en-la-mexico-toluca/…",
+      "descripcion": "☁️Neblina complica la circulación en la #México-#Toluca \n\nhttps://lajornadaestadodemexico.com/neblina-en-la-mexico-toluca/",
+      "fecha": "6 julio 2026 · 07:04 CST",
+      "fuente": "Telegram @jornadaedomex",
+      "url": "https://t.me/jornadaedomex/11313",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 19.29,
+      "lon": -99.66
+    },
+    {
+      "id": "3fb7d302",
+      "tipo": "bloqueo",
+      "ruta": "Grupo armado de Teojomulco retiene a 30 civiles en zona…",
+      "descripcion": "Grupo armado de Teojomulco retiene  a 30 civiles en zona de disputa agraria\nhttps://www.jornada.com.mx/2026/07/06/estados/023n1est?partner=rss\n\nOaxaca, Oax., Pobladores de Santo Domingo Teojomulco retuvieron a más de 30 habitantes de Santiago Texti-tlán y Santiago Amoltepec, para exigir a las autoridades agrarias reconocer que 2 mil 100 hectáreas en esas comunidades pertenecen a Teojomulco. Al cierre de esta edición fueron dejadas en libertad 11 personas, pues son adultos mayores, así como dos p",
+      "fecha": "6 julio 2026 · 05:17 CST",
+      "fuente": "Telegram @NOTMEX",
+      "url": "https://t.me/NOTMEX/184393",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 17.06,
+      "lon": -96.72
+    }
+  ]
 }
