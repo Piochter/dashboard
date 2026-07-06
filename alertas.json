@@ -1,11 +1,10 @@
 {
-  "ultima_actualizacion": "2026-07-06T16:38:22.225334-06:00",
-  "ultima_actualizacion_legible": "6 de julio de 2026 · 16:38 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-07-06T17:46:15.835049-06:00",
+  "ultima_actualizacion_legible": "6 de julio de 2026 · 17:46 CST",
+  "total": 2,
   "ventana": "últimos 180 minutos",
   "fuentes": [
     "Google News",
-    "Medios nacionales",
     "Quadratín + regionales"
   ],
   "grupos": [
@@ -26,20 +25,6 @@
           "fecha_iso": "2026-07-06T15:12:00-06:00",
           "fuente": "Quadratín Jalisco",
           "url": "https://jalisco.quadratin.com.mx/sucesos/competira-por-la-embajadora-estatal-de-las-personas-adultas-mayores-2026/",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        },
-        {
-          "id": "b0525146",
-          "tipo": "bloqueo",
-          "ruta": "Por presuntas irregularidades, protestan alumnos de la Universidad Politécnica de…",
-          "descripcion": "Por presuntas irregularidades, protestan alumnos de la Universidad Politécnica de Otzolotepec. La movilización de los alumnos de Otzolotepec se mantiene y afecta la circulación sobre la avenida Juárez y el tramo conocido como Las Peñas.",
-          "recomendacion": "",
-          "fecha": "6 julio 2026 · 13:41 CST",
-          "fecha_iso": "2026-07-06T13:41:00-06:00",
-          "fuente": "24 Horas",
-          "url": "https://24-horas.mx/estados/por-presuntas-irregularidades-protestan-alumnos-de-la-universidad-politecnica-de-otzolotepec/",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO"
