@@ -1,40 +1,14 @@
 {
-  "ultima_actualizacion": "2026-07-06T15:02:45.607906-06:00",
-  "ultima_actualizacion_legible": "6 de julio de 2026 · 15:02 CST",
-  "total": 5,
+  "ultima_actualizacion": "2026-07-06T16:38:22.225334-06:00",
+  "ultima_actualizacion_legible": "6 de julio de 2026 · 16:38 CST",
+  "total": 3,
   "ventana": "últimos 180 minutos",
   "fuentes": [
     "Google News",
     "Medios nacionales",
-    "Quadratín + regionales",
-    "Telegram"
+    "Quadratín + regionales"
   ],
   "grupos": [
-    {
-      "tipo": "cierre_total",
-      "color": "rojo",
-      "icono": "🔴",
-      "label": "CIERRE TOTAL",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "3862d0f8",
-          "tipo": "cierre_total",
-          "ruta": "🚨 Cierre total en la #México–#Pachuca por volcadura de tráiler…",
-          "descripcion": "🚨 Cierre total en la #México–#Pachuca por volcadura de tráiler en #Tecámac [#VIDEO 👇]\n\nhttps://lajornadaestadodemexico.com/cierre-total-en-la-mexico-pachuca-por-volcadura-de-trailer-en-tecamac/",
-          "recomendacion": "",
-          "fecha": "6 julio 2026 · 13:14 CST",
-          "fecha_iso": "2026-07-06T13:14:00-06:00",
-          "fuente": "Telegram @jornadaedomex",
-          "url": "https://t.me/jornadaedomex/11322",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL",
-          "lat": 20.12,
-          "lon": -98.73
-        }
-      ]
-    },
     {
       "tipo": "bloqueo",
       "color": "rojo",
@@ -42,6 +16,20 @@
       "label": "BLOQUEOS / MANIFESTACIONES",
       "col2": false,
       "alertas": [
+        {
+          "id": "1f1e9c83",
+          "tipo": "bloqueo",
+          "ruta": "Competirá por la Embajadora Estatal de las Personas Adultas Mayores…",
+          "descripcion": "Competirá por la Embajadora Estatal de las Personas Adultas Mayores 2026. En el concurso participaron 21 mujeres de 65 años y más, integrantes de 58 grupos comunitarios de la UNI3",
+          "recomendacion": "",
+          "fecha": "6 julio 2026 · 15:12 CST",
+          "fecha_iso": "2026-07-06T15:12:00-06:00",
+          "fuente": "Quadratín Jalisco",
+          "url": "https://jalisco.quadratin.com.mx/sucesos/competira-por-la-embajadora-estatal-de-las-personas-adultas-mayores-2026/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
         {
           "id": "b0525146",
           "tipo": "bloqueo",
@@ -55,31 +43,6 @@
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO"
-        }
-      ]
-    },
-    {
-      "tipo": "robo",
-      "color": "rojo",
-      "icono": "🚨",
-      "label": "ROBOS EN CARRETERA",
-      "col2": true,
-      "alertas": [
-        {
-          "id": "c949df8c",
-          "tipo": "robo",
-          "ruta": "Recuperan cargamento de 64 toneladas de vino tras asalto a…",
-          "descripcion": "Recuperan cargamento de 64 toneladas de vino tras asalto a tractocamión en Hidalgo - Milenio. Recuperan cargamento de 64 toneladas de vino tras asalto a tractocamión en Hidalgo Milenio",
-          "recomendacion": "",
-          "fecha": "6 julio 2026 · 12:07 CST",
-          "fecha_iso": "2026-07-06T12:07:00-06:00",
-          "fuente": "Milenio",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaWRublZXNUU5VWJ2d1REcmpkb05SYUZ0LTAyR3piY1oxdkZwT0h6N2x4Wk1Jd1NsNjJBcjVKMWdvR0FsaEE5dUtJUzJoQW1WQ2RHMWlXVFZRczdsVGdld29pQjhvdU5LSmlPZEFYLUZpRDVtYk1ubEVjNF9vQjZORU9hajRfVmZvdmUzMTlaQmfSAZABQVVfeXFMUGlkbm5WVzVFOVVidndURHJqZG9OUmFGdC0wMkd6YmNaMXZGcE9IejdseFpNSXdTbDYyQXI1SjFnb0dBbGhBOXVLSVMyaEFtVkNkRzFpV1RWUXM3bFRnZXdvaUI4b3VOS0ppT2RBWC1GaUQ1bWJNbmxFYzRfb0I2TkVPYWo0X1Zmb3ZlMzE5WkJn?oc=5",
-          "dot_color": "#c0392b",
-          "badge": "badge-robo",
-          "badge_txt": "ROBO",
-          "lat": 20.11,
-          "lon": -98.73
         }
       ]
     },
@@ -107,31 +70,6 @@
           "lon": -98.73
         }
       ]
-    },
-    {
-      "tipo": "clima",
-      "color": "azul",
-      "icono": "🌧️",
-      "label": "ALERTA METEOROLÓGICA",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "c692fef8",
-          "tipo": "clima",
-          "ruta": "Entregan apoyos a 36 afectados por inundaciones en Puebla…",
-          "descripcion": "Entregan apoyos a 36 afectados por inundaciones en Puebla. Gobierno entrega 2.8 mdp a afectados por lluvias en el Centro.",
-          "recomendacion": "",
-          "fecha": "6 julio 2026 · 12:37 CST",
-          "fecha_iso": "2026-07-06T12:37:00-06:00",
-          "fuente": "Quadratín Puebla",
-          "url": "https://puebla.quadratin.com.mx/politica/entregan-apoyos-a-36-afectados-por-inundaciones-en-puebla/",
-          "dot_color": "#3498db",
-          "badge": "badge-clima",
-          "badge_txt": "ALERTA CLIMA",
-          "lat": 19.04,
-          "lon": -98.2
-        }
-      ]
     }
   ],
   "para_mapa": [
@@ -146,45 +84,6 @@
       "dot_color": "#e67e22",
       "badge_txt": "CIERRE PARCIAL",
       "lat": 20.12,
-      "lon": -98.73
-    },
-    {
-      "id": "3862d0f8",
-      "tipo": "cierre_total",
-      "ruta": "🚨 Cierre total en la #México–#Pachuca por volcadura de tráiler…",
-      "descripcion": "🚨 Cierre total en la #México–#Pachuca por volcadura de tráiler en #Tecámac [#VIDEO 👇]\n\nhttps://lajornadaestadodemexico.com/cierre-total-en-la-mexico-pachuca-por-volcadura-de-trailer-en-tecamac/",
-      "fecha": "6 julio 2026 · 13:14 CST",
-      "fuente": "Telegram @jornadaedomex",
-      "url": "https://t.me/jornadaedomex/11322",
-      "dot_color": "#e74c3c",
-      "badge_txt": "CIERRE TOTAL",
-      "lat": 20.12,
-      "lon": -98.73
-    },
-    {
-      "id": "c692fef8",
-      "tipo": "clima",
-      "ruta": "Entregan apoyos a 36 afectados por inundaciones en Puebla…",
-      "descripcion": "Entregan apoyos a 36 afectados por inundaciones en Puebla. Gobierno entrega 2.8 mdp a afectados por lluvias en el Centro.",
-      "fecha": "6 julio 2026 · 12:37 CST",
-      "fuente": "Quadratín Puebla",
-      "url": "https://puebla.quadratin.com.mx/politica/entregan-apoyos-a-36-afectados-por-inundaciones-en-puebla/",
-      "dot_color": "#3498db",
-      "badge_txt": "ALERTA CLIMA",
-      "lat": 19.04,
-      "lon": -98.2
-    },
-    {
-      "id": "c949df8c",
-      "tipo": "robo",
-      "ruta": "Recuperan cargamento de 64 toneladas de vino tras asalto a…",
-      "descripcion": "Recuperan cargamento de 64 toneladas de vino tras asalto a tractocamión en Hidalgo - Milenio. Recuperan cargamento de 64 toneladas de vino tras asalto a tractocamión en Hidalgo Milenio",
-      "fecha": "6 julio 2026 · 12:07 CST",
-      "fuente": "Milenio",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaWRublZXNUU5VWJ2d1REcmpkb05SYUZ0LTAyR3piY1oxdkZwT0h6N2x4Wk1Jd1NsNjJBcjVKMWdvR0FsaEE5dUtJUzJoQW1WQ2RHMWlXVFZRczdsVGdld29pQjhvdU5LSmlPZEFYLUZpRDVtYk1ubEVjNF9vQjZORU9hajRfVmZvdmUzMTlaQmfSAZABQVVfeXFMUGlkbm5WVzVFOVVidndURHJqZG9OUmFGdC0wMkd6YmNaMXZGcE9IejdseFpNSXdTbDYyQXI1SjFnb0dBbGhBOXVLSVMyaEFtVkNkRzFpV1RWUXM3bFRnZXdvaUI4b3VOS0ppT2RBWC1GaUQ1bWJNbmxFYzRfb0I2TkVPYWo0X1Zmb3ZlMzE5WkJn?oc=5",
-      "dot_color": "#c0392b",
-      "badge_txt": "ROBO",
-      "lat": 20.11,
       "lon": -98.73
     }
   ]
