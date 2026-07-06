@@ -1,14 +1,63 @@
 {
-  "ultima_actualizacion": "2026-07-06T13:10:34.973107-06:00",
-  "ultima_actualizacion_legible": "6 de julio de 2026 · 13:10 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-07-06T15:02:45.607906-06:00",
+  "ultima_actualizacion_legible": "6 de julio de 2026 · 15:02 CST",
+  "total": 5,
   "ventana": "últimos 180 minutos",
   "fuentes": [
     "Google News",
-    "Medios regionales",
-    "Quadratín + regionales"
+    "Medios nacionales",
+    "Quadratín + regionales",
+    "Telegram"
   ],
   "grupos": [
+    {
+      "tipo": "cierre_total",
+      "color": "rojo",
+      "icono": "🔴",
+      "label": "CIERRE TOTAL",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "3862d0f8",
+          "tipo": "cierre_total",
+          "ruta": "🚨 Cierre total en la #México–#Pachuca por volcadura de tráiler…",
+          "descripcion": "🚨 Cierre total en la #México–#Pachuca por volcadura de tráiler en #Tecámac [#VIDEO 👇]\n\nhttps://lajornadaestadodemexico.com/cierre-total-en-la-mexico-pachuca-por-volcadura-de-trailer-en-tecamac/",
+          "recomendacion": "",
+          "fecha": "6 julio 2026 · 13:14 CST",
+          "fecha_iso": "2026-07-06T13:14:00-06:00",
+          "fuente": "Telegram @jornadaedomex",
+          "url": "https://t.me/jornadaedomex/11322",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL",
+          "lat": 20.12,
+          "lon": -98.73
+        }
+      ]
+    },
+    {
+      "tipo": "bloqueo",
+      "color": "rojo",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "b0525146",
+          "tipo": "bloqueo",
+          "ruta": "Por presuntas irregularidades, protestan alumnos de la Universidad Politécnica de…",
+          "descripcion": "Por presuntas irregularidades, protestan alumnos de la Universidad Politécnica de Otzolotepec. La movilización de los alumnos de Otzolotepec se mantiene y afecta la circulación sobre la avenida Juárez y el tramo conocido como Las Peñas.",
+          "recomendacion": "",
+          "fecha": "6 julio 2026 · 13:41 CST",
+          "fecha_iso": "2026-07-06T13:41:00-06:00",
+          "fuente": "24 Horas",
+          "url": "https://24-horas.mx/estados/por-presuntas-irregularidades-protestan-alumnos-de-la-universidad-politecnica-de-otzolotepec/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        }
+      ]
+    },
     {
       "tipo": "robo",
       "color": "rojo",
@@ -25,7 +74,7 @@
           "fecha": "6 julio 2026 · 12:07 CST",
           "fecha_iso": "2026-07-06T12:07:00-06:00",
           "fuente": "Milenio",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNT0xMZ0l3Z0lMTkR0TDhJS3NfQ3NtWElqc2VnOGNQdm5jcGM0bG5xQS1HR1pxeTlEblVZcE5fR2ZpczZsLXA2SC1BTXFlOFkxS3d5cS1EdmlJRm1GN3JNRFJPeU11c1FoRHY2QVJHbVN4ZGNaXzlRS21mY2lLR3d4azk2V3I5bWlTMGExOWNqM1bSAZABQVVfeXFMUGlkbm5WVzVFOVVidndURHJqZG9OUmFGdC0wMkd6YmNaMXZGcE9IejdseFpNSXdTbDYyQXI1SjFnb0dBbGhBOXVLSVMyaEFtVkNkRzFpV1RWUXM3bFRnZXdvaUI4b3VOS0ppT2RBWC1GaUQ1bWJNbmxFYzRfb0I2TkVPYWo0X1Zmb3ZlMzE5WkJn?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaWRublZXNUU5VWJ2d1REcmpkb05SYUZ0LTAyR3piY1oxdkZwT0h6N2x4Wk1Jd1NsNjJBcjVKMWdvR0FsaEE5dUtJUzJoQW1WQ2RHMWlXVFZRczdsVGdld29pQjhvdU5LSmlPZEFYLUZpRDVtYk1ubEVjNF9vQjZORU9hajRfVmZvdmUzMTlaQmfSAZABQVVfeXFMUGlkbm5WVzVFOVVidndURHJqZG9OUmFGdC0wMkd6YmNaMXZGcE9IejdseFpNSXdTbDYyQXI1SjFnb0dBbGhBOXVLSVMyaEFtVkNkRzFpV1RWUXM3bFRnZXdvaUI4b3VOS0ppT2RBWC1GaUQ1bWJNbmxFYzRfb0I2TkVPYWo0X1Zmb3ZlMzE5WkJn?oc=5",
           "dot_color": "#c0392b",
           "badge": "badge-robo",
           "badge_txt": "ROBO",
@@ -42,18 +91,20 @@
       "col2": true,
       "alertas": [
         {
-          "id": "aeb5cd02",
+          "id": "aee65544",
           "tipo": "cierre_parcial",
-          "ruta": "Tragedia en el Juan Alonso de Torres: Muere una motociclista…",
-          "descripcion": "Tragedia en el Juan Alonso de Torres: Muere una motociclista al estrellarse con poste de concreto. El accidente ocurrió a las 2:39 de la madrugada del lunes 6 de junio en dicho bulevar casi esquina con Hermenegildo Bustos, con dirección al López Mateos.",
+          "ruta": "Tráiler vuelca sobre la carretera México-Pachuca en Tecámac; se mantiene…",
+          "descripcion": "Tráiler vuelca sobre la carretera México-Pachuca en Tecámac; se mantiene cierre vial - Telediario México. Tráiler vuelca sobre la carretera México-Pachuca en Tecámac; se mantiene cierre vial Telediario México",
           "recomendacion": "",
-          "fecha": "6 julio 2026 · 11:49 CST",
-          "fecha_iso": "2026-07-06T11:49:00-06:00",
-          "fuente": "AM Guanajuato",
-          "url": "https://www.am.com.mx/leon/2026/07/06/murio-mujer-en-moto-en-bulevar-juan-alonso-de-torres-de-leon-1816035.html",
+          "fecha": "6 julio 2026 · 14:48 CST",
+          "fecha_iso": "2026-07-06T14:48:00-06:00",
+          "fuente": "Telediario México",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPT2dIcmt6UFRSNFRmVUlTQ09tZkdUNVc5b3h6ajVwdVlfcDQwN3FzTkwxUGZrNDkzb2VYZzhGOEpZd0FnTG9DLVp4SU5ycldKVXd5MzFFQnZmMzBEUndwRGJzdi1YVl90dG5vNlo4aXQxeV9zYWFxeE5jc05SUGl4VURUSmFoZHZCalU2MGFURlpWYWV4YXJDX2l0VmZsYlZoSW5MMdIBpAFBVV95cUxNUHZuVDV4ZDRURTJZU3psekV1cTg2Y1ZOWG80c3FpVWdPYk9jSlo5QjhGRW5YMngtUTc1MUVzeVpkNi12c2NSMC14XzlpMV9xYmlrMTZRczBvMTM5YnpZcnR0YmxfU1ZZSjI3SWFldV9SWkFFd05HZV9IZFJQNXc0R28yd29PVjlRLW8xUXRBWnhCcWZDaHFrcVBMT2YwTk1QQWthcQ?oc=5",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 20.12,
+          "lon": -98.73
         }
       ]
     },
@@ -85,6 +136,32 @@
   ],
   "para_mapa": [
     {
+      "id": "aee65544",
+      "tipo": "cierre_parcial",
+      "ruta": "Tráiler vuelca sobre la carretera México-Pachuca en Tecámac; se mantiene…",
+      "descripcion": "Tráiler vuelca sobre la carretera México-Pachuca en Tecámac; se mantiene cierre vial - Telediario México. Tráiler vuelca sobre la carretera México-Pachuca en Tecámac; se mantiene cierre vial Telediario México",
+      "fecha": "6 julio 2026 · 14:48 CST",
+      "fuente": "Telediario México",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPT2dIcmt6UFRSNFRmVUlTQ09tZkdUNVc5b3h6ajVwdVlfcDQwN3FzTkwxUGZrNDkzb2VYZzhGOEpZd0FnTG9DLVp4SU5ycldKVXd5MzFFQnZmMzBEUndwRGJzdi1YVl90dG5vNlo4aXQxeV9zYWFxeE5jc05SUGl4VURUSmFoZHZCalU2MGFURlpWYWV4YXJDX2l0VmZsYlZoSW5MMdIBpAFBVV95cUxNUHZuVDV4ZDRURTJZU3psekV1cTg2Y1ZOWG80c3FpVWdPYk9jSlo5QjhGRW5YMngtUTc1MUVzeVpkNi12c2NSMC14XzlpMV9xYmlrMTZRczBvMTM5YnpZcnR0YmxfU1ZZSjI3SWFldV9SWkFFd05HZV9IZFJQNXc0R28yd29PVjlRLW8xUXRBWnhCcWZDaHFrcVBMT2YwTk1QQWthcQ?oc=5",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 20.12,
+      "lon": -98.73
+    },
+    {
+      "id": "3862d0f8",
+      "tipo": "cierre_total",
+      "ruta": "🚨 Cierre total en la #México–#Pachuca por volcadura de tráiler…",
+      "descripcion": "🚨 Cierre total en la #México–#Pachuca por volcadura de tráiler en #Tecámac [#VIDEO 👇]\n\nhttps://lajornadaestadodemexico.com/cierre-total-en-la-mexico-pachuca-por-volcadura-de-trailer-en-tecamac/",
+      "fecha": "6 julio 2026 · 13:14 CST",
+      "fuente": "Telegram @jornadaedomex",
+      "url": "https://t.me/jornadaedomex/11322",
+      "dot_color": "#e74c3c",
+      "badge_txt": "CIERRE TOTAL",
+      "lat": 20.12,
+      "lon": -98.73
+    },
+    {
       "id": "c692fef8",
       "tipo": "clima",
       "ruta": "Entregan apoyos a 36 afectados por inundaciones en Puebla…",
@@ -104,7 +181,7 @@
       "descripcion": "Recuperan cargamento de 64 toneladas de vino tras asalto a tractocamión en Hidalgo - Milenio. Recuperan cargamento de 64 toneladas de vino tras asalto a tractocamión en Hidalgo Milenio",
       "fecha": "6 julio 2026 · 12:07 CST",
       "fuente": "Milenio",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNT0xMZ0l3Z0lMTkR0TDhJS3NfQ3NtWElqc2VnOGNQdm5jcGM0bG5xQS1HR1pxeTlEblVZcE5fR2ZpczZsLXA2SC1BTXFlOFkxS3d5cS1EdmlJRm1GN3JNRFJPeU11c1FoRHY2QVJHbVN4ZGNaXzlRS21mY2lLR3d4azk2V3I5bWlTMGExOWNqM1bSAZABQVVfeXFMUGlkbm5WVzVFOVVidndURHJqZG9OUmFGdC0wMkd6YmNaMXZGcE9IejdseFpNSXdTbDYyQXI1SjFnb0dBbGhBOXVLSVMyaEFtVkNkRzFpV1RWUXM3bFRnZXdvaUI4b3VOS0ppT2RBWC1GaUQ1bWJNbmxFYzRfb0I2TkVPYWo0X1Zmb3ZlMzE5WkJn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaWRublZXNUU5VWJ2d1REcmpkb05SYUZ0LTAyR3piY1oxdkZwT0h6N2x4Wk1Jd1NsNjJBcjVKMWdvR0FsaEE5dUtJUzJoQW1WQ2RHMWlXVFZRczdsVGdld29pQjhvdU5LSmlPZEFYLUZpRDVtYk1ubEVjNF9vQjZORU9hajRfVmZvdmUzMTlaQmfSAZABQVVfeXFMUGlkbm5WVzVFOVVidndURHJqZG9OUmFGdC0wMkd6YmNaMXZGcE9IejdseFpNSXdTbDYyQXI1SjFnb0dBbGhBOXVLSVMyaEFtVkNkRzFpV1RWUXM3bFRnZXdvaUI4b3VOS0ppT2RBWC1GaUQ1bWJNbmxFYzRfb0I2TkVPYWo0X1Zmb3ZlMzE5WkJn?oc=5",
       "dot_color": "#c0392b",
       "badge_txt": "ROBO",
       "lat": 20.11,
