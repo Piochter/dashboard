@@ -1,11 +1,11 @@
 {
-  "ultima_actualizacion": "2026-07-06T08:04:15.246722-06:00",
-  "ultima_actualizacion_legible": "6 de julio de 2026 · 08:04 CST",
-  "total": 4,
+  "ultima_actualizacion": "2026-07-06T11:17:10.039717-06:00",
+  "ultima_actualizacion_legible": "6 de julio de 2026 · 11:17 CST",
+  "total": 5,
   "ventana": "últimos 180 minutos",
   "fuentes": [
     "Google News",
-    "Medios regionales",
+    "Quadratín + regionales",
     "Telegram"
   ],
   "grupos": [
@@ -17,34 +17,18 @@
       "col2": false,
       "alertas": [
         {
-          "id": "1fe42533",
+          "id": "1b099a93",
           "tipo": "bloqueo",
-          "ruta": "Bloqueos carreteras HOY 6 de julio: Autopistas cerradas en México,…",
-          "descripcion": "Bloqueos carreteras HOY 6 de julio: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 6 de julio: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
+          "ruta": "Bloqueos en carreteras EN VIVO hoy: ¿Qué pasa en las…",
+          "descripcion": "Bloqueos en carreteras EN VIVO hoy: ¿Qué pasa en las autopistas de México este 6 de julio? - TV Azteca. Bloqueos en carreteras EN VIVO hoy: ¿Qué pasa en las autopistas de México este 6 de julio? TV Azteca",
           "recomendacion": "",
-          "fecha": "6 julio 2026 · 07:03 CST",
-          "fecha_iso": "2026-07-06T07:03:00-06:00",
-          "fuente": "Eje Central",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOOXlRXzUwd2RaZ0VUNlRZbzh5aHdRMDZ2NndlM3hZSkpaLTkyMDdQMTVXekhjMGdmeEJidWxDcnB2anhwT0pDMXRlRTA1d19UbndOQ3IxSWt5WVJGR1lsdXowMlNHb25fU1puOTZqTkRSLTJTT0dOa0lpNDVrOHlOd0FkZnNsRV9kejZhdmdWZ2ZUT0lwWmNBSVA3UmdoTkNobkZmTzJXS1NESTFfZGl4RjExekZHeXU0eklIT09zcVQ2MXhIeGstVXRuckgwdkZ0NzgzbFpfdW9FcS0yYzBsZlFEaV9OUQ?oc=5",
+          "fecha": "6 julio 2026 · 08:34 CST",
+          "fecha_iso": "2026-07-06T08:34:00-06:00",
+          "fuente": "TV Azteca",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOHNWZnJoRjBIWWV0a3JjdHBIRUJaZERyc3VRMFpDZzBTWkZPLTdKdW91bGdaT1NheXc5UVZkNndRc1pCTk4tOVRZakJPU3dvTjV5QXFRVXVOWTJSWl9vMmtvNVNuZzFOb2stNGdyYVpicjRnbEotX29MV1dwaEVxN1o1MW9aYTRNRW1faDhlNG1DVFVveFZmSV9uWmk3SUpSYTc2RG5sQkE0WEIwekhVYlVCVGNGM0lhVkRkWEVLSdIBzAFBVV95cUxOV3pUVHdkSWp1ZVlDdFFCYnZRRHhSSDhMNFI5NVBzUVduNFlpYlJJRUpzcDBlX3ZTUU1sc2ZuWlhRYlVNOXVLOEpfSkh3NzdmSlpSYVhnbGlDX1lRc1NXNS0xZmpiSjRxWUhHeVV6MjJteG1DY3lvcURtVHJpTks5dC1GclhYMThqdkgyZmh3WUt4VVNLV3daZXpIUWNWNHppa3gxWDAtZy1fLUphN2JXZkRweGZyLVg0STkzYUpsY2lxYXZYWkpMeVQwWUs?oc=5",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO"
-        },
-        {
-          "id": "3fb7d302",
-          "tipo": "bloqueo",
-          "ruta": "Grupo armado de Teojomulco retiene a 30 civiles en zona…",
-          "descripcion": "Grupo armado de Teojomulco retiene  a 30 civiles en zona de disputa agraria\nhttps://www.jornada.com.mx/2026/07/06/estados/023n1est?partner=rss\n\nOaxaca, Oax., Pobladores de Santo Domingo Teojomulco retuvieron a más de 30 habitantes de Santiago Texti-tlán y Santiago Amoltepec, para exigir a las autoridades agrarias reconocer que 2 mil 100 hectáreas en esas comunidades pertenecen a Teojomulco. Al cierre de esta edición fueron dejadas en libertad 11 personas, pues son adultos mayores, así como dos p",
-          "recomendacion": "",
-          "fecha": "6 julio 2026 · 05:17 CST",
-          "fecha_iso": "2026-07-06T05:17:00-06:00",
-          "fuente": "Telegram @NOTMEX",
-          "url": "https://t.me/NOTMEX/184393",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 17.06,
-          "lon": -96.72
         }
       ]
     },
@@ -56,88 +40,94 @@
       "col2": true,
       "alertas": [
         {
-          "id": "52fb27d9",
+          "id": "d12e0cd2",
           "tipo": "cierre_parcial",
-          "ruta": "☁️Neblina complica la circulación en la #México-#Toluca https://lajornadaestadodemexico.com/neblina-en-la-mexico-toluca/…",
-          "descripcion": "☁️Neblina complica la circulación en la #México-#Toluca \n\nhttps://lajornadaestadodemexico.com/neblina-en-la-mexico-toluca/",
+          "ruta": "autopista a Laredo - Quadratín Nuevo León",
+          "descripcion": "Se incendia tráiler tras choque en la autopista a Laredo - Quadratín Nuevo León. Se incendia tráiler tras choque en la autopista a Laredo Quadratín Nuevo León",
           "recomendacion": "",
-          "fecha": "6 julio 2026 · 07:04 CST",
-          "fecha_iso": "2026-07-06T07:04:00-06:00",
-          "fuente": "Telegram @jornadaedomex",
-          "url": "https://t.me/jornadaedomex/11313",
+          "fecha": "6 julio 2026 · 10:29 CST",
+          "fecha_iso": "2026-07-06T10:29:00-06:00",
+          "fuente": "Quadratín Nuevo León",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONWlaV2p1Q240YUQzWl9wMmxoaUpaN0VTdnVWSklBUng4cUVzZmMzWXBIUlBDWTYzeUVuN1A4UVlFWTJKbWx5TE5jNFF2NjBDeFQ4MVBWR19JRVdxRE5CS1YzOS1LNUNucjNxVEx4OE45dmpqei00Y2Zia3dOakRzX0x0aE8zU3hzdWM2Sk16VWozcXc5UW1DaEhaUmJNYnpQUjRWWA?oc=5",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.29,
-          "lon": -99.66
-        }
-      ]
-    },
-    {
-      "tipo": "clima",
-      "color": "azul",
-      "icono": "🌧️",
-      "label": "ALERTA METEOROLÓGICA",
-      "col2": false,
-      "alertas": [
+          "lat": 25.67,
+          "lon": -100.31
+        },
         {
-          "id": "6c6378ce",
-          "tipo": "clima",
-          "ruta": "Alerta por \"Tormenta Negra\" en México; ¿qué estados están en…",
-          "descripcion": "Alerta por \"Tormenta Negra\" en México; ¿qué estados están en peligro?. El Servicio Meteorológico Nacional advierte sobre precipitaciones de hasta 150 milímetros, riesgo de inundaciones y mar de fondo en diversas regiones del país",
+          "id": "a734ddbc",
+          "tipo": "cierre_parcial",
+          "ruta": "Van mil 71 incendios forestales en 2026 en el país…",
+          "descripcion": "Van mil 71 incendios forestales en 2026 en el país. La mayoría del fuego se originó en Tabasco, Baja California, Coahuila, Chiapas y Jalisco",
           "recomendacion": "",
-          "fecha": "6 julio 2026 · 07:47 CST",
-          "fecha_iso": "2026-07-06T07:47:00-06:00",
-          "fuente": "El Informador Jalisco",
-          "url": "https://www.informador.mx/mexico/alerta-por-tormenta-negra-en-mexico-que-estados-estan-en-peligro-por-lluvias-extremas-hoy-20260706-0032.html",
-          "dot_color": "#3498db",
-          "badge": "badge-clima",
-          "badge_txt": "ALERTA CLIMA",
-          "lat": 21.0,
-          "lon": -104.0
+          "fecha": "6 julio 2026 · 09:37 CST",
+          "fecha_iso": "2026-07-06T09:37:00-06:00",
+          "fuente": "Quadratín Guerrero",
+          "url": "https://guerrero.quadratin.com.mx/van-mil-71-incendios-forestales-en-2026-en-el-pais/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 20.66,
+          "lon": -103.35
+        },
+        {
+          "id": "60d46380",
+          "tipo": "cierre_parcial",
+          "ruta": "Accidentes de pipas no disminuyen a pesar de nuevas [normas](http://telegra.ph/Accidentes-de-pipas-no-disminuyen-a-pesar-de-nuevas-normas-07-05)…",
+          "descripcion": "Accidentes de pipas no disminuyen a pesar de nuevas [normas](http://telegra.ph/Accidentes-de-pipas-no-disminuyen-a-pesar-de-nuevas-normas-07-05)\n\n__via__ [www.informador.mx](https://www.informador.mx/mexico/accidentes-de-pipas-no-disminuyen-a-pesar-de-nuevas-normas-20260705-0021.html)",
+          "recomendacion": "",
+          "fecha": "6 julio 2026 · 09:20 CST",
+          "fecha_iso": "2026-07-06T09:20:00-06:00",
+          "fuente": "Telegram @NOTMEX",
+          "url": "https://t.me/NOTMEX/184395",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        },
+        {
+          "id": "bf29a1ab",
+          "tipo": "cierre_parcial",
+          "ruta": "Autopista a Laredo por choque de tráileres - ABCNoticias",
+          "descripcion": "Cierran Autopista a Laredo por choque de tráileres - ABCNoticias.mx. Cierran Autopista a Laredo por choque de tráileres ABCNoticias.mx",
+          "recomendacion": "",
+          "fecha": "6 julio 2026 · 08:50 CST",
+          "fecha_iso": "2026-07-06T08:50:00-06:00",
+          "fuente": "ABCNoticias.mx",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRVRfWUhRX0hnT0UtbHJlZksyREpOQkpiRkZrVkdoc0lYYnRKOVJQQU0teTdmQTJ5cUctS19GeHRyTjRYQ1JuNGRkY3BVdVcxcWU3bUZ6TW9jbC1DdVhrUFNVc2V2ejFERGhnM1duTUVfbTAxVXk5VFZTVnpXTnFDSXFhUW5uS2VMTHhfemZhbEt1aEFWVjBmbTJHTmRBYjl2YXlCeA?oc=5",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
         }
       ]
     }
   ],
   "para_mapa": [
     {
-      "id": "6c6378ce",
-      "tipo": "clima",
-      "ruta": "Alerta por \"Tormenta Negra\" en México; ¿qué estados están en…",
-      "descripcion": "Alerta por \"Tormenta Negra\" en México; ¿qué estados están en peligro?. El Servicio Meteorológico Nacional advierte sobre precipitaciones de hasta 150 milímetros, riesgo de inundaciones y mar de fondo en diversas regiones del país",
-      "fecha": "6 julio 2026 · 07:47 CST",
-      "fuente": "El Informador Jalisco",
-      "url": "https://www.informador.mx/mexico/alerta-por-tormenta-negra-en-mexico-que-estados-estan-en-peligro-por-lluvias-extremas-hoy-20260706-0032.html",
-      "dot_color": "#3498db",
-      "badge_txt": "ALERTA CLIMA",
-      "lat": 21.0,
-      "lon": -104.0
-    },
-    {
-      "id": "52fb27d9",
+      "id": "d12e0cd2",
       "tipo": "cierre_parcial",
-      "ruta": "☁️Neblina complica la circulación en la #México-#Toluca https://lajornadaestadodemexico.com/neblina-en-la-mexico-toluca/…",
-      "descripcion": "☁️Neblina complica la circulación en la #México-#Toluca \n\nhttps://lajornadaestadodemexico.com/neblina-en-la-mexico-toluca/",
-      "fecha": "6 julio 2026 · 07:04 CST",
-      "fuente": "Telegram @jornadaedomex",
-      "url": "https://t.me/jornadaedomex/11313",
+      "ruta": "autopista a Laredo - Quadratín Nuevo León",
+      "descripcion": "Se incendia tráiler tras choque en la autopista a Laredo - Quadratín Nuevo León. Se incendia tráiler tras choque en la autopista a Laredo Quadratín Nuevo León",
+      "fecha": "6 julio 2026 · 10:29 CST",
+      "fuente": "Quadratín Nuevo León",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONWlaV2p1Q240YUQzWl9wMmxoaUpaN0VTdnVWSklBUng4cUVzZmMzWXBIUlBDWTYzeUVuN1A4UVlFWTJKbWx5TE5jNFF2NjBDeFQ4MVBWR19JRVdxRE5CS1YzOS1LNUNucjNxVEx4OE45dmpqei00Y2Zia3dOakRzX0x0aE8zU3hzdWM2Sk16VWozcXc5UW1DaEhaUmJNYnpQUjRWWA?oc=5",
       "dot_color": "#e67e22",
       "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.29,
-      "lon": -99.66
+      "lat": 25.67,
+      "lon": -100.31
     },
     {
-      "id": "3fb7d302",
-      "tipo": "bloqueo",
-      "ruta": "Grupo armado de Teojomulco retiene a 30 civiles en zona…",
-      "descripcion": "Grupo armado de Teojomulco retiene  a 30 civiles en zona de disputa agraria\nhttps://www.jornada.com.mx/2026/07/06/estados/023n1est?partner=rss\n\nOaxaca, Oax., Pobladores de Santo Domingo Teojomulco retuvieron a más de 30 habitantes de Santiago Texti-tlán y Santiago Amoltepec, para exigir a las autoridades agrarias reconocer que 2 mil 100 hectáreas en esas comunidades pertenecen a Teojomulco. Al cierre de esta edición fueron dejadas en libertad 11 personas, pues son adultos mayores, así como dos p",
-      "fecha": "6 julio 2026 · 05:17 CST",
-      "fuente": "Telegram @NOTMEX",
-      "url": "https://t.me/NOTMEX/184393",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 17.06,
-      "lon": -96.72
+      "id": "a734ddbc",
+      "tipo": "cierre_parcial",
+      "ruta": "Van mil 71 incendios forestales en 2026 en el país…",
+      "descripcion": "Van mil 71 incendios forestales en 2026 en el país. La mayoría del fuego se originó en Tabasco, Baja California, Coahuila, Chiapas y Jalisco",
+      "fecha": "6 julio 2026 · 09:37 CST",
+      "fuente": "Quadratín Guerrero",
+      "url": "https://guerrero.quadratin.com.mx/van-mil-71-incendios-forestales-en-2026-en-el-pais/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 20.66,
+      "lon": -103.35
     }
   ]
 }
