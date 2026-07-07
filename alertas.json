@@ -1,35 +1,104 @@
 {
-  "ultima_actualizacion": "2026-07-07T05:46:36.598350-06:00",
-  "ultima_actualizacion_legible": "7 de julio de 2026 · 05:46 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-07-07T07:56:02.653335-06:00",
+  "ultima_actualizacion_legible": "7 de julio de 2026 · 07:56 CST",
+  "total": 4,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Google News"
+    "Google News",
+    "Quadratín + regionales",
+    "Telegram"
   ],
   "grupos": [
     {
-      "tipo": "robo",
+      "tipo": "bloqueo",
       "color": "rojo",
-      "icono": "🚨",
-      "label": "ROBOS EN CARRETERA",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "912bfd82",
+          "tipo": "bloqueo",
+          "ruta": "autopista en Chiapas",
+          "descripcion": "No fueron consultados para construcción de autopista en Chiapas, reprocha colectivo\nhttps://www.jornada.com.mx/2026/07/07/estados/023n1est?partner=rss\n\nSan Cristóbal de Las Casas, Chis., Integrantes del Movimiento en Defensa de la Vida y el Territorio (Modevite) protestaron en esta ciudad, debido a que los pueblos originarios “no han sido consultados en la construcción de megaproyectos como la carretera Palenque-Ocosingo-San Cristóbal”.",
+          "recomendacion": "",
+          "fecha": "7 julio 2026 · 07:33 CST",
+          "fecha_iso": "2026-07-07T07:33:00-06:00",
+          "fuente": "Telegram @NOTMEX",
+          "url": "https://t.me/NOTMEX/184419",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 16.75,
+          "lon": -93.12
+        },
+        {
+          "id": "b316175e",
+          "tipo": "bloqueo",
+          "ruta": "Bloqueos carreteras HOY 7 de julio: Autopistas cerradas en México,…",
+          "descripcion": "Bloqueos carreteras HOY 7 de julio: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 7 de julio: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
+          "recomendacion": "",
+          "fecha": "7 julio 2026 · 07:29 CST",
+          "fecha_iso": "2026-07-07T07:29:00-06:00",
+          "fuente": "Eje Central",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQUW5xa2xkNDUxdUg4NTVoVXU2NVJkWU1Sd0h1eDlKZl9BSjg3MmE3M29xa2s3MWhoUy1zT0txcGpNTGtsNVItMWlkU3M0RHRXNUhaUm1rZG5hTXpxYXVvWXIxTEZyTzBkU3BsdnlpbWl1bHRoTG9WcjFrM1NKaXFqYUNXeXZZTEoyaVgzWFBQcXlWd2RGcEd5VF92RHJ0ejBPX2RKei0zcHZUMmFSSl9XRi1zb1dCcnY1QmdCUkNhUHlGeDdPNGRjSENIZE1oalVBLVNieDZhcVB5blJGODFSd3YxbmZ1UQ?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
+        {
+          "id": "28915aa3",
+          "tipo": "bloqueo",
+          "ruta": "Hay Cierres en Carreteras de México Hoy 7 de Julio…",
+          "descripcion": "Hay Cierres en Carreteras de México Hoy 7 de Julio 2026: Lista de Autopistas con Bloqueos - N+. Hay Cierres en Carreteras de México Hoy 7 de Julio 2026: Lista de Autopistas con Bloqueos N+",
+          "recomendacion": "",
+          "fecha": "7 julio 2026 · 06:38 CST",
+          "fecha_iso": "2026-07-07T06:38:00-06:00",
+          "fuente": "N+",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbmlFX3c1UW55WGNLa2hmSHRSWWZfak94dlVYSWY5WC1HRkJlMlo1X0NCWnF6TEo0dDh3M2wwd25mc3BRSUwwQWY4T1JZWTE1bTI1bk1UTU45QmM0SFNkbUhEQlBmalhEY0pKYVJCNWZ3VGY4QWpkTzBlclBGaVVReG1KVk9PMFZ5N3JSRE1QWU1uZ0xHSjdtb1h6YnNraUtSbm81ZWF5YzlXRk56R090Z09zNnNwZUNjV3c?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        }
+      ]
+    },
+    {
+      "tipo": "cierre_parcial",
+      "color": "amarillo",
+      "icono": "🟡",
+      "label": "CIERRE PARCIAL / ACCIDENTES",
       "col2": true,
       "alertas": [
         {
-          "id": "262ff36f",
-          "tipo": "robo",
-          "ruta": "Bloquean operativo contra robo a vehículos de transporte de carga…",
-          "descripcion": "Bloquean operativo contra robo a vehículos de transporte de carga - El Heraldo de México. Bloquean operativo contra robo a vehículos de transporte de carga El Heraldo de México",
+          "id": "1412c64f",
+          "tipo": "cierre_parcial",
+          "ruta": "Movilizan refuerzos para contener incendio en el sur de Francia…",
+          "descripcion": "Movilizan refuerzos para contener incendio en el sur de Francia. Ha obligado a evacuar a unas 12 mil personas",
           "recomendacion": "",
-          "fecha": "7 julio 2026 · 03:15 CST",
-          "fecha_iso": "2026-07-07T03:15:00-06:00",
-          "fuente": "El Heraldo de México",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTmRrd0dhc2tPT2paNXlSemZHZk1VMUpIbkhRVjRQbDZnbEphcUE5Z0EybEwtX1N1NG5aSTBVQV9reWdQSEgtem5YZTNwOUNmNnpMRm9VQWZGLWFDV0UwOURCbzBSdVc1Q3JrRkVyX25TX2ZuM1JHaTlJTlNVbXVsdVJtX0xCWWJNV1pFV3BHLXYwb2dxNHdKUHdEcENvRlYyRkZydUhkemdpUFVmeWhxZFRJNkliRkFObVItaVVmZWtJZWVhckxxT2Q2WQ?oc=5",
-          "dot_color": "#c0392b",
-          "badge": "badge-robo",
-          "badge_txt": "ROBO"
+          "fecha": "7 julio 2026 · 07:22 CST",
+          "fecha_iso": "2026-07-07T07:22:00-06:00",
+          "fuente": "Quadratín Guerrero",
+          "url": "https://guerrero.quadratin.com.mx/movilizan-refuerzos-para-contener-incendio-en-el-sur-de-francia/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
         }
       ]
     }
   ],
-  "para_mapa": []
+  "para_mapa": [
+    {
+      "id": "912bfd82",
+      "tipo": "bloqueo",
+      "ruta": "autopista en Chiapas",
+      "descripcion": "No fueron consultados para construcción de autopista en Chiapas, reprocha colectivo\nhttps://www.jornada.com.mx/2026/07/07/estados/023n1est?partner=rss\n\nSan Cristóbal de Las Casas, Chis., Integrantes del Movimiento en Defensa de la Vida y el Territorio (Modevite) protestaron en esta ciudad, debido a que los pueblos originarios “no han sido consultados en la construcción de megaproyectos como la carretera Palenque-Ocosingo-San Cristóbal”.",
+      "fecha": "7 julio 2026 · 07:33 CST",
+      "fuente": "Telegram @NOTMEX",
+      "url": "https://t.me/NOTMEX/184419",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 16.75,
+      "lon": -93.12
+    }
+  ]
 }
