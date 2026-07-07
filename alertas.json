@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-07-06T19:27:12.661050-06:00",
-  "ultima_actualizacion_legible": "6 de julio de 2026 · 19:27 CST",
-  "total": 4,
+  "ultima_actualizacion": "2026-07-06T23:35:25.381241-06:00",
+  "ultima_actualizacion_legible": "6 de julio de 2026 · 23:35 CST",
+  "total": 2,
   "ventana": "últimos 180 minutos",
   "fuentes": [
     "Medios regionales",
@@ -9,41 +9,27 @@
   ],
   "grupos": [
     {
-      "tipo": "cierre_total",
+      "tipo": "bloqueo",
       "color": "rojo",
-      "icono": "🔴",
-      "label": "CIERRE TOTAL",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
       "col2": false,
       "alertas": [
         {
-          "id": "863d06a4",
-          "tipo": "cierre_total",
-          "ruta": "km 250",
-          "descripcion": "Paso alterno en la Siglo 21 tras deslave el km 250. A la altura del tramo Feliciano-Las Cañas,",
+          "id": "6badd499",
+          "tipo": "bloqueo",
+          "ruta": "Reúne Guelaguetza de Personas Mayores a 1,500 asistentes en Oaxaca…",
+          "descripcion": "Reúne Guelaguetza de Personas Mayores a 1,500 asistentes en Oaxaca. Participaron 12 delegaciones de las ocho regiones de Oaxaca",
           "recomendacion": "",
-          "fecha": "6 julio 2026 · 18:33 CST",
-          "fecha_iso": "2026-07-06T18:33:00-06:00",
-          "fuente": "Quadratín Michoacán",
-          "url": "https://www.quadratin.com.mx/sucesos/paso-alterno-en-la-siglo-21-tras-deslave-el-km-250/",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL"
-        },
-        {
-          "id": "66627b57",
-          "tipo": "cierre_total",
-          "ruta": "Volcadura de autobús al sur de Hermosillo deja un muerto…",
-          "descripcion": "Volcadura de autobús al sur de Hermosillo deja un muerto y nueve heridos. El accidente ocurrió en el kilómetro 238 de la carretera Guaymas–Hermosillo",
-          "recomendacion": "",
-          "fecha": "6 julio 2026 · 18:07 CST",
-          "fecha_iso": "2026-07-06T18:07:00-06:00",
-          "fuente": "El Informador Jalisco",
-          "url": "https://www.informador.mx/mexico/sonora-volcadura-de-autobus-al-sur-de-hermosillo-deja-un-muerto-y-nueve-heridos-20260706-0176.html",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL",
-          "lat": 29.07,
-          "lon": -110.96
+          "fecha": "6 julio 2026 · 20:56 CST",
+          "fecha_iso": "2026-07-06T20:56:00-06:00",
+          "fuente": "Quadratín Oaxaca",
+          "url": "https://oaxaca.quadratin.com.mx/reune-guelaguetza-de-personas-mayores-a-1500-asistentes-en-oaxaca/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 17.06,
+          "lon": -96.72
         }
       ]
     },
@@ -55,64 +41,35 @@
       "col2": true,
       "alertas": [
         {
-          "id": "28c8c13f",
+          "id": "ba469928",
           "tipo": "cierre_parcial",
-          "ruta": "IPC de la Bolsa Mexicana gana un 0.61 % tras…",
-          "descripcion": "IPC de la Bolsa Mexicana gana un 0.61 % tras dos cierres a la baja. El indicador nacional llegó a 67 mil 466.46 unidades, en línea con los avances generales registrados en Wall Street",
+          "ruta": "carretera Morelia-Pátzcuaro",
+          "descripcion": "Obstruye accidente de tractocamión la carretera Morelia-Pátzcuaro. A la altura de la tenencia de Santiago Undameo",
           "recomendacion": "",
-          "fecha": "6 julio 2026 · 19:18 CST",
-          "fecha_iso": "2026-07-06T19:18:00-06:00",
-          "fuente": "El Informador Jalisco",
-          "url": "https://www.informador.mx/economia/ipc-de-la-bolsa-mexicana-gana-un-0.61--tras-dos-cierres-a-la-baja-20260706-0191.html",
+          "fecha": "6 julio 2026 · 21:57 CST",
+          "fecha_iso": "2026-07-06T21:57:00-06:00",
+          "fuente": "Quadratín Michoacán",
+          "url": "https://www.quadratin.com.mx/sucesos/obstruye-accidente-de-tractocamion-la-carretera-morelia-patzcuaro/",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL"
-        },
-        {
-          "id": "9fa66708",
-          "tipo": "cierre_parcial",
-          "ruta": "autopista de Guerrero por Capufe",
-          "descripcion": "Impiden habitantes cierre de accesos en autopista de Guerrero por Capufe. Exigen el retiro definitivo de las barras de concreto por obra gubernamental",
-          "recomendacion": "",
-          "fecha": "6 julio 2026 · 19:14 CST",
-          "fecha_iso": "2026-07-06T19:14:00-06:00",
-          "fuente": "Quadratín Guerrero",
-          "url": "https://guerrero.quadratin.com.mx/impiden-habitantes-cierre-de-accesos-en-autopista-de-guerrero-por-capufe/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 17.55,
-          "lon": -99.5
         }
       ]
     }
   ],
   "para_mapa": [
     {
-      "id": "9fa66708",
-      "tipo": "cierre_parcial",
-      "ruta": "autopista de Guerrero por Capufe",
-      "descripcion": "Impiden habitantes cierre de accesos en autopista de Guerrero por Capufe. Exigen el retiro definitivo de las barras de concreto por obra gubernamental",
-      "fecha": "6 julio 2026 · 19:14 CST",
-      "fuente": "Quadratín Guerrero",
-      "url": "https://guerrero.quadratin.com.mx/impiden-habitantes-cierre-de-accesos-en-autopista-de-guerrero-por-capufe/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 17.55,
-      "lon": -99.5
-    },
-    {
-      "id": "66627b57",
-      "tipo": "cierre_total",
-      "ruta": "Volcadura de autobús al sur de Hermosillo deja un muerto…",
-      "descripcion": "Volcadura de autobús al sur de Hermosillo deja un muerto y nueve heridos. El accidente ocurrió en el kilómetro 238 de la carretera Guaymas–Hermosillo",
-      "fecha": "6 julio 2026 · 18:07 CST",
-      "fuente": "El Informador Jalisco",
-      "url": "https://www.informador.mx/mexico/sonora-volcadura-de-autobus-al-sur-de-hermosillo-deja-un-muerto-y-nueve-heridos-20260706-0176.html",
-      "dot_color": "#e74c3c",
-      "badge_txt": "CIERRE TOTAL",
-      "lat": 29.07,
-      "lon": -110.96
+      "id": "6badd499",
+      "tipo": "bloqueo",
+      "ruta": "Reúne Guelaguetza de Personas Mayores a 1,500 asistentes en Oaxaca…",
+      "descripcion": "Reúne Guelaguetza de Personas Mayores a 1,500 asistentes en Oaxaca. Participaron 12 delegaciones de las ocho regiones de Oaxaca",
+      "fecha": "6 julio 2026 · 20:56 CST",
+      "fuente": "Quadratín Oaxaca",
+      "url": "https://oaxaca.quadratin.com.mx/reune-guelaguetza-de-personas-mayores-a-1500-asistentes-en-oaxaca/",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 17.06,
+      "lon": -96.72
     }
   ]
 }
