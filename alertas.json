@@ -1,11 +1,12 @@
 {
-  "ultima_actualizacion": "2026-07-07T15:55:24.609433-06:00",
-  "ultima_actualizacion_legible": "7 de julio de 2026 · 15:55 CST",
-  "total": 5,
+  "ultima_actualizacion": "2026-07-07T16:59:16.838811-06:00",
+  "ultima_actualizacion_legible": "7 de julio de 2026 · 16:59 CST",
+  "total": 7,
   "ventana": "últimos 180 minutos",
   "fuentes": [
     "Google News",
     "Medios nacionales",
+    "Medios regionales",
     "Quadratín + regionales"
   ],
   "grupos": [
@@ -111,8 +112,8 @@
           "ruta": "Se queda sin frenos camión cargado de escombro y vuelca…",
           "descripcion": "Se queda sin frenos camión cargado de escombro y vuelca en Acapulco. El accidente ocurre sobre la carretera, en la colonia Las Cruces",
           "recomendacion": "",
-          "fecha": "7 julio 2026 · 15:35 CST",
-          "fecha_iso": "2026-07-07T15:35:00-06:00",
+          "fecha": "7 julio 2026 · 16:40 CST",
+          "fecha_iso": "2026-07-07T16:40:00-06:00",
           "fuente": "Quadratín Guerrero",
           "url": "https://guerrero.quadratin.com.mx/se-queda-sin-frenos-camion-cargado-de-escombro-y-vuelca-en-acapulco/",
           "dot_color": "#e67e22",
@@ -120,11 +121,67 @@
           "badge_txt": "CIERRE PARCIAL",
           "lat": 16.86,
           "lon": -99.88
+        },
+        {
+          "id": "d64f7d28",
+          "tipo": "cierre_parcial",
+          "ruta": "Tenía 15 días trabajando y muere en accidente en GEN…",
+          "descripcion": "Tenía 15 días trabajando y muere en accidente en GEN Industrial. Ismael, de 33 años, falleció en las instalaciones de la empresa de recolección de basura que presta servicios en León, en un accidente del que se desconocen detalles.",
+          "recomendacion": "",
+          "fecha": "7 julio 2026 · 16:23 CST",
+          "fecha_iso": "2026-07-07T16:23:00-06:00",
+          "fuente": "AM Guanajuato",
+          "url": "https://www.am.com.mx/leon/2026/07/07/tenia-15-dias-trabajando-y-muere-en-accidente-en-gen-industrial-1816515.html",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 21.0,
+          "lon": -104.0
+        },
+        {
+          "id": "b5e91b60",
+          "tipo": "cierre_parcial",
+          "ruta": "Choque en Cuitzeo deja un muerto y 2 heridos…",
+          "descripcion": "Choque en Cuitzeo deja un muerto y 2 heridos. El percance se registró en el kilómetro 32",
+          "recomendacion": "",
+          "fecha": "7 julio 2026 · 16:16 CST",
+          "fecha_iso": "2026-07-07T16:16:00-06:00",
+          "fuente": "Quadratín Michoacán",
+          "url": "https://www.quadratin.com.mx/sucesos/choque-en-cuitzeo-deja-un-muerto-y-2-heridos/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
         }
       ]
     }
   ],
   "para_mapa": [
+    {
+      "id": "ab2121bc",
+      "tipo": "cierre_parcial",
+      "ruta": "Se queda sin frenos camión cargado de escombro y vuelca…",
+      "descripcion": "Se queda sin frenos camión cargado de escombro y vuelca en Acapulco. El accidente ocurre sobre la carretera, en la colonia Las Cruces",
+      "fecha": "7 julio 2026 · 16:40 CST",
+      "fuente": "Quadratín Guerrero",
+      "url": "https://guerrero.quadratin.com.mx/se-queda-sin-frenos-camion-cargado-de-escombro-y-vuelca-en-acapulco/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 16.86,
+      "lon": -99.88
+    },
+    {
+      "id": "d64f7d28",
+      "tipo": "cierre_parcial",
+      "ruta": "Tenía 15 días trabajando y muere en accidente en GEN…",
+      "descripcion": "Tenía 15 días trabajando y muere en accidente en GEN Industrial. Ismael, de 33 años, falleció en las instalaciones de la empresa de recolección de basura que presta servicios en León, en un accidente del que se desconocen detalles.",
+      "fecha": "7 julio 2026 · 16:23 CST",
+      "fuente": "AM Guanajuato",
+      "url": "https://www.am.com.mx/leon/2026/07/07/tenia-15-dias-trabajando-y-muere-en-accidente-en-gen-industrial-1816515.html",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 21.0,
+      "lon": -104.0
+    },
     {
       "id": "cb8418f3",
       "tipo": "robo",
@@ -150,19 +207,6 @@
       "badge_txt": "CIERRE TOTAL",
       "lat": 20.12,
       "lon": -98.73
-    },
-    {
-      "id": "ab2121bc",
-      "tipo": "cierre_parcial",
-      "ruta": "Se queda sin frenos camión cargado de escombro y vuelca…",
-      "descripcion": "Se queda sin frenos camión cargado de escombro y vuelca en Acapulco. El accidente ocurre sobre la carretera, en la colonia Las Cruces",
-      "fecha": "7 julio 2026 · 15:35 CST",
-      "fuente": "Quadratín Guerrero",
-      "url": "https://guerrero.quadratin.com.mx/se-queda-sin-frenos-camion-cargado-de-escombro-y-vuelca-en-acapulco/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 16.86,
-      "lon": -99.88
     },
     {
       "id": "bf95ff20",
