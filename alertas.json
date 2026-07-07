@@ -1,10 +1,11 @@
 {
-  "ultima_actualizacion": "2026-07-07T07:56:02.653335-06:00",
-  "ultima_actualizacion_legible": "7 de julio de 2026 · 07:56 CST",
-  "total": 4,
+  "ultima_actualizacion": "2026-07-07T10:28:43.220714-06:00",
+  "ultima_actualizacion_legible": "7 de julio de 2026 · 10:28 CST",
+  "total": 5,
   "ventana": "últimos 180 minutos",
   "fuentes": [
     "Google News",
+    "Medios regionales",
     "Quadratín + regionales",
     "Telegram"
   ],
@@ -16,6 +17,20 @@
       "label": "BLOQUEOS / MANIFESTACIONES",
       "col2": false,
       "alertas": [
+        {
+          "id": "58f9c252",
+          "tipo": "bloqueo",
+          "ruta": "Periférico Revolución",
+          "descripcion": "Morelia: daños materiales dejó carabambola en Periférico Revolución. Participaron 5 vehículos",
+          "recomendacion": "",
+          "fecha": "7 julio 2026 · 09:45 CST",
+          "fecha_iso": "2026-07-07T09:45:00-06:00",
+          "fuente": "Quadratín Michoacán",
+          "url": "https://www.quadratin.com.mx/justicia/morelia-danos-materiales-dejo-carabambola-en-periferico-revolucion/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
         {
           "id": "912bfd82",
           "tipo": "bloqueo",
@@ -45,20 +60,6 @@
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO"
-        },
-        {
-          "id": "28915aa3",
-          "tipo": "bloqueo",
-          "ruta": "Hay Cierres en Carreteras de México Hoy 7 de Julio…",
-          "descripcion": "Hay Cierres en Carreteras de México Hoy 7 de Julio 2026: Lista de Autopistas con Bloqueos - N+. Hay Cierres en Carreteras de México Hoy 7 de Julio 2026: Lista de Autopistas con Bloqueos N+",
-          "recomendacion": "",
-          "fecha": "7 julio 2026 · 06:38 CST",
-          "fecha_iso": "2026-07-07T06:38:00-06:00",
-          "fuente": "N+",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbmlFX3c1UW55WGNLa2hmSHRSWWZfak94dlVYSWY5WC1HRkJlMlo1X0NCWnF6TEo0dDh3M2wwd25mc3BRSUwwQWY4T1JZWTE1bTI1bk1UTU45QmM0SFNkbUhEQlBmalhEY0pKYVJCNWZ3VGY4QWpkTzBlclBGaVVReG1KVk9PMFZ5N3JSRE1QWU1uZ0xHSjdtb1h6YnNraUtSbm81ZWF5YzlXRk56R090Z09zNnNwZUNjV3c?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
         }
       ]
     },
@@ -70,15 +71,29 @@
       "col2": true,
       "alertas": [
         {
-          "id": "1412c64f",
+          "id": "afc415b7",
           "tipo": "cierre_parcial",
-          "ruta": "Movilizan refuerzos para contener incendio en el sur de Francia…",
-          "descripcion": "Movilizan refuerzos para contener incendio en el sur de Francia. Ha obligado a evacuar a unas 12 mil personas",
+          "ruta": "Choque en Periférico: camión de transporte de personal impacta patrulla…",
+          "descripcion": "Choque en Periférico: camión de transporte de personal impacta patrulla estatal. Derivado del fuerte percance, los dos oficiales que se movilizaban a bordo de la patrulla estatal resultaron heridos",
           "recomendacion": "",
-          "fecha": "7 julio 2026 · 07:22 CST",
-          "fecha_iso": "2026-07-07T07:22:00-06:00",
-          "fuente": "Quadratín Guerrero",
-          "url": "https://guerrero.quadratin.com.mx/movilizan-refuerzos-para-contener-incendio-en-el-sur-de-francia/",
+          "fecha": "7 julio 2026 · 08:53 CST",
+          "fecha_iso": "2026-07-07T08:53:00-06:00",
+          "fuente": "El Informador Jalisco",
+          "url": "https://www.informador.mx/jalisco/choque-en-periferico-camion-de-transporte-de-personal-impacta-patrulla-estatal-20260707-0063.html",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        },
+        {
+          "id": "36abbfdc",
+          "tipo": "cierre_parcial",
+          "ruta": "Abandera Policía Vial choque en Santos Reyes Nopala…",
+          "descripcion": "Abandera Policía Vial choque en Santos Reyes Nopala. El hecho ocurrió sobre la carretera local Cuadrilla de los Jiménez",
+          "recomendacion": "",
+          "fecha": "7 julio 2026 · 08:32 CST",
+          "fecha_iso": "2026-07-07T08:32:00-06:00",
+          "fuente": "Quadratín Oaxaca",
+          "url": "https://oaxaca.quadratin.com.mx/abandera-policia-vial-choque-en-santos-reyes-nopala/",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL"
