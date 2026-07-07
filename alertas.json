@@ -1,12 +1,35 @@
 {
-  "ultima_actualizacion": "2026-07-07T02:55:59.457520-06:00",
-  "ultima_actualizacion_legible": "7 de julio de 2026 · 02:55 CST",
-  "total": 0,
+  "ultima_actualizacion": "2026-07-07T05:46:36.598350-06:00",
+  "ultima_actualizacion_legible": "7 de julio de 2026 · 05:46 CST",
+  "total": 1,
   "ventana": "últimos 180 minutos",
   "fuentes": [
     "Google News"
   ],
-  "grupos": [],
-  "para_mapa": [],
-  "nota": "Sin alertas activas en la ventana de tiempo configurada."
+  "grupos": [
+    {
+      "tipo": "robo",
+      "color": "rojo",
+      "icono": "🚨",
+      "label": "ROBOS EN CARRETERA",
+      "col2": true,
+      "alertas": [
+        {
+          "id": "262ff36f",
+          "tipo": "robo",
+          "ruta": "Bloquean operativo contra robo a vehículos de transporte de carga…",
+          "descripcion": "Bloquean operativo contra robo a vehículos de transporte de carga - El Heraldo de México. Bloquean operativo contra robo a vehículos de transporte de carga El Heraldo de México",
+          "recomendacion": "",
+          "fecha": "7 julio 2026 · 03:15 CST",
+          "fecha_iso": "2026-07-07T03:15:00-06:00",
+          "fuente": "El Heraldo de México",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTmRrd0dhc2tPT2paNXlSemZHZk1VMUpIbkhRVjRQbDZnbEphcUE5Z0EybEwtX1N1NG5aSTBVQV9reWdQSEgtem5YZTNwOUNmNnpMRm9VQWZGLWFDV0UwOURCbzBSdVc1Q3JrRkVyX25TX2ZuM1JHaTlJTlNVbXVsdVJtX0xCWWJNV1pFV3BHLXYwb2dxNHdKUHdEcENvRlYyRkZydUhkemdpUFVmeWhxZFRJNkliRkFObVItaVVmZWtJZWVhckxxT2Q2WQ?oc=5",
+          "dot_color": "#c0392b",
+          "badge": "badge-robo",
+          "badge_txt": "ROBO"
+        }
+      ]
+    }
+  ],
+  "para_mapa": []
 }
