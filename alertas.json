@@ -1,51 +1,75 @@
 {
-  "ultima_actualizacion": "2026-07-07T12:31:07.787338-06:00",
-  "ultima_actualizacion_legible": "7 de julio de 2026 · 12:31 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-07-07T14:28:45.256984-06:00",
+  "ultima_actualizacion_legible": "7 de julio de 2026 · 14:28 CST",
+  "total": 2,
   "ventana": "últimos 180 minutos",
   "fuentes": [
+    "Medios regionales",
     "Quadratín + regionales"
   ],
   "grupos": [
     {
-      "tipo": "bloqueo",
+      "tipo": "cierre_total",
       "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
+      "icono": "🔴",
+      "label": "CIERRE TOTAL",
       "col2": false,
       "alertas": [
         {
-          "id": "d3efac2f",
-          "tipo": "bloqueo",
-          "ruta": "Reanudan bloqueos por reinstalación de trabajadores en hotel de Acapulco…",
-          "descripcion": "Reanudan bloqueos por reinstalación de trabajadores en hotel de Acapulco. Cerca de 50 inconformes impiden el paso en la Costera frente al Holiday Inn",
+          "id": "961c4c67",
+          "tipo": "cierre_total",
+          "ruta": "Muere una persona tras volcadura de unidad de carga en…",
+          "descripcion": "Muere una persona tras volcadura de unidad de carga en la Puebla-Orizaba. El accidente ocurrió sobre el kilómetro 141 con dirección a la capital de Puebla, a la altura del municipio de Amozoc.",
           "recomendacion": "",
-          "fecha": "7 julio 2026 · 11:04 CST",
-          "fecha_iso": "2026-07-07T11:04:00-06:00",
-          "fuente": "Quadratín Guerrero",
-          "url": "https://guerrero.quadratin.com.mx/reanudan-bloqueos-por-reinstalacion-de-trabajadores-en-hotel-de-acapulco/",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 16.86,
-          "lon": -99.88
+          "fecha": "7 julio 2026 · 12:23 CST",
+          "fecha_iso": "2026-07-07T12:23:00-06:00",
+          "fuente": "Quadratín Puebla",
+          "url": "https://puebla.quadratin.com.mx/sucesos/muere-una-persona-tras-volcadura-de-unidad-de-carga-en-la-puebla-orizaba/",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL",
+          "lat": 19.1,
+          "lon": -98.0
+        }
+      ]
+    },
+    {
+      "tipo": "cierre_parcial",
+      "color": "amarillo",
+      "icono": "🟡",
+      "label": "CIERRE PARCIAL / ACCIDENTES",
+      "col2": true,
+      "alertas": [
+        {
+          "id": "4576a366",
+          "tipo": "cierre_parcial",
+          "ruta": "Petroleros son alcanzados por proyectiles en Ormuz; agresiones amenazan con…",
+          "descripcion": "Petroleros son alcanzados por proyectiles en Ormuz; agresiones amenazan con paralizar la circulación. Uno de los petroleros navegaba frente a la costa de Omán y se incendió, según la Agencia Británica de Operaciones de Comercio Marítimo",
+          "recomendacion": "",
+          "fecha": "7 julio 2026 · 12:53 CST",
+          "fecha_iso": "2026-07-07T12:53:00-06:00",
+          "fuente": "El Informador Jalisco",
+          "url": "https://www.informador.mx/internacional/ormuz-tres-petroleros-son-alcanzados-por-proyectiles-en-el-estrecho-20260707-0067.html",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
         }
       ]
     }
   ],
   "para_mapa": [
     {
-      "id": "d3efac2f",
-      "tipo": "bloqueo",
-      "ruta": "Reanudan bloqueos por reinstalación de trabajadores en hotel de Acapulco…",
-      "descripcion": "Reanudan bloqueos por reinstalación de trabajadores en hotel de Acapulco. Cerca de 50 inconformes impiden el paso en la Costera frente al Holiday Inn",
-      "fecha": "7 julio 2026 · 11:04 CST",
-      "fuente": "Quadratín Guerrero",
-      "url": "https://guerrero.quadratin.com.mx/reanudan-bloqueos-por-reinstalacion-de-trabajadores-en-hotel-de-acapulco/",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 16.86,
-      "lon": -99.88
+      "id": "961c4c67",
+      "tipo": "cierre_total",
+      "ruta": "Muere una persona tras volcadura de unidad de carga en…",
+      "descripcion": "Muere una persona tras volcadura de unidad de carga en la Puebla-Orizaba. El accidente ocurrió sobre el kilómetro 141 con dirección a la capital de Puebla, a la altura del municipio de Amozoc.",
+      "fecha": "7 julio 2026 · 12:23 CST",
+      "fuente": "Quadratín Puebla",
+      "url": "https://puebla.quadratin.com.mx/sucesos/muere-una-persona-tras-volcadura-de-unidad-de-carga-en-la-puebla-orizaba/",
+      "dot_color": "#e74c3c",
+      "badge_txt": "CIERRE TOTAL",
+      "lat": 19.1,
+      "lon": -98.0
     }
   ]
 }
