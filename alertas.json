@@ -1,10 +1,11 @@
 {
-  "ultima_actualizacion": "2026-07-07T14:28:45.256984-06:00",
-  "ultima_actualizacion_legible": "7 de julio de 2026 · 14:28 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-07-07T15:55:24.609433-06:00",
+  "ultima_actualizacion_legible": "7 de julio de 2026 · 15:55 CST",
+  "total": 5,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Medios regionales",
+    "Google News",
+    "Medios nacionales",
     "Quadratín + regionales"
   ],
   "grupos": [
@@ -16,20 +17,84 @@
       "col2": false,
       "alertas": [
         {
-          "id": "961c4c67",
+          "id": "87f8c49e",
           "tipo": "cierre_total",
-          "ruta": "Muere una persona tras volcadura de unidad de carga en…",
-          "descripcion": "Muere una persona tras volcadura de unidad de carga en la Puebla-Orizaba. El accidente ocurrió sobre el kilómetro 141 con dirección a la capital de Puebla, a la altura del municipio de Amozoc.",
+          "ruta": "VIDEO: Momento de la Volcadura de un Tractocamión en la…",
+          "descripcion": "VIDEO: Momento de la Volcadura de un Tractocamión en la México-Pachuca - N+. VIDEO: Momento de la Volcadura de un Tractocamión en la México-Pachuca N+",
           "recomendacion": "",
-          "fecha": "7 julio 2026 · 12:23 CST",
-          "fecha_iso": "2026-07-07T12:23:00-06:00",
-          "fuente": "Quadratín Puebla",
-          "url": "https://puebla.quadratin.com.mx/sucesos/muere-una-persona-tras-volcadura-de-unidad-de-carga-en-la-puebla-orizaba/",
+          "fecha": "7 julio 2026 · 15:44 CST",
+          "fecha_iso": "2026-07-07T15:44:00-06:00",
+          "fuente": "N+",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNOHU2RzBKY0dldG0zUFJwOE5GX0JhVDRkRlhIQ2E1bG5ZVUhKSklsd3BGbTFjMXRPTEptTGRXb3lOVG9Ycm9oTmZMTkN5dEV2X3R4X2c1b3l4YmQ4TGJRMEZiTTRwLWpIeWNGX3dWdHAwYnJFNk14RjRjX0hHS0JXWkJZb1dKTTFTbjJZYTBhZ1hPcDhySFJiZ25XV2dnZU9tZUp6TG15UVJIc3d5c25rTFpaS0ozZi1BaU9kZnRxZUtySlV6eWl2XzQtZkk?oc=5",
           "dot_color": "#e74c3c",
           "badge": "badge-cierre-total",
           "badge_txt": "CIERRE TOTAL",
-          "lat": 19.1,
-          "lon": -98.0
+          "lat": 20.12,
+          "lon": -98.73
+        },
+        {
+          "id": "bf95ff20",
+          "tipo": "cierre_total",
+          "ruta": "¿Qué pasó en la carretera Toluca-Zitácuaro? Volcadura de tráiler provoca…",
+          "descripcion": "¿Qué pasó en la carretera Toluca-Zitácuaro? Volcadura de tráiler provoca carambola y cierre de la circulación - Eje Central. ¿Qué pasó en la carretera Toluca-Zitácuaro? Volcadura de tráiler provoca carambola y cierre de la circulación Eje Central",
+          "recomendacion": "",
+          "fecha": "7 julio 2026 · 15:18 CST",
+          "fecha_iso": "2026-07-07T15:18:00-06:00",
+          "fuente": "Eje Central",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZ05WWXVIcXFjSXVBemVhalh0MmtUYk5MQnhsMGhLU3BpR0FkUHpFOW5HSEpPZXJXVHpXSWNIdUJGa1R3ZGJwTjdNeFNxS2Q3d3FldU9vUzhYUGp6LS1keVNBQWdfckNDdFR6aHpBLUI4aWpLNE1GVmZGNFRROXMwMmRsOTFwbmVOcExFUFpvN3dVc19NUDhGS01VS0c1NUQ3Y2NqOFEyRVl6WkM1bUNmaGRtcHladDJvdVNQOVdaSUlpV3VlYklOdU03QjZFbTRIcmJETzNQdDN2NzlCOGNyVmZyUQ?oc=5",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL",
+          "lat": 19.29,
+          "lon": -99.66
+        }
+      ]
+    },
+    {
+      "tipo": "bloqueo",
+      "color": "rojo",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "70be94df",
+          "tipo": "bloqueo",
+          "ruta": "México puede protestar por detención de 'El Mayo', podría anularse…",
+          "descripcion": "México puede protestar por detención de 'El Mayo', podría anularse proceso en EU: Monreal. México puede enviar una nota diplomática de protesta, por detención del “Mayo Zambada”, podría anularse el proceso en EU; Monreal",
+          "recomendacion": "",
+          "fecha": "7 julio 2026 · 15:40 CST",
+          "fecha_iso": "2026-07-07T15:40:00-06:00",
+          "fuente": "24 Horas",
+          "url": "https://24-horas.mx/mexico/mexico-puede-protestar-por-detencion-de-el-mayo-podria-anularse-proceso-en-eu-monreal/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        }
+      ]
+    },
+    {
+      "tipo": "robo",
+      "color": "rojo",
+      "icono": "🚨",
+      "label": "ROBOS EN CARRETERA",
+      "col2": true,
+      "alertas": [
+        {
+          "id": "cb8418f3",
+          "tipo": "robo",
+          "ruta": "Caen 2 hombres y una mujer por robo de cajas…",
+          "descripcion": "Caen 2 hombres y una mujer por robo de cajas de cerveza en Acapulco. Son localizados tras un reporte al 911",
+          "recomendacion": "",
+          "fecha": "7 julio 2026 · 15:51 CST",
+          "fecha_iso": "2026-07-07T15:51:00-06:00",
+          "fuente": "Quadratín Guerrero",
+          "url": "https://guerrero.quadratin.com.mx/caen-2-hombres-y-una-mujer-por-robo-de-cajas-de-cerveza-en-acapulco/",
+          "dot_color": "#c0392b",
+          "badge": "badge-robo",
+          "badge_txt": "ROBO",
+          "lat": 16.86,
+          "lon": -99.88
         }
       ]
     },
@@ -41,35 +106,76 @@
       "col2": true,
       "alertas": [
         {
-          "id": "4576a366",
+          "id": "ab2121bc",
           "tipo": "cierre_parcial",
-          "ruta": "Petroleros son alcanzados por proyectiles en Ormuz; agresiones amenazan con…",
-          "descripcion": "Petroleros son alcanzados por proyectiles en Ormuz; agresiones amenazan con paralizar la circulación. Uno de los petroleros navegaba frente a la costa de Omán y se incendió, según la Agencia Británica de Operaciones de Comercio Marítimo",
+          "ruta": "Se queda sin frenos camión cargado de escombro y vuelca…",
+          "descripcion": "Se queda sin frenos camión cargado de escombro y vuelca en Acapulco. El accidente ocurre sobre la carretera, en la colonia Las Cruces",
           "recomendacion": "",
-          "fecha": "7 julio 2026 · 12:53 CST",
-          "fecha_iso": "2026-07-07T12:53:00-06:00",
-          "fuente": "El Informador Jalisco",
-          "url": "https://www.informador.mx/internacional/ormuz-tres-petroleros-son-alcanzados-por-proyectiles-en-el-estrecho-20260707-0067.html",
+          "fecha": "7 julio 2026 · 15:35 CST",
+          "fecha_iso": "2026-07-07T15:35:00-06:00",
+          "fuente": "Quadratín Guerrero",
+          "url": "https://guerrero.quadratin.com.mx/se-queda-sin-frenos-camion-cargado-de-escombro-y-vuelca-en-acapulco/",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 16.86,
+          "lon": -99.88
         }
       ]
     }
   ],
   "para_mapa": [
     {
-      "id": "961c4c67",
+      "id": "cb8418f3",
+      "tipo": "robo",
+      "ruta": "Caen 2 hombres y una mujer por robo de cajas…",
+      "descripcion": "Caen 2 hombres y una mujer por robo de cajas de cerveza en Acapulco. Son localizados tras un reporte al 911",
+      "fecha": "7 julio 2026 · 15:51 CST",
+      "fuente": "Quadratín Guerrero",
+      "url": "https://guerrero.quadratin.com.mx/caen-2-hombres-y-una-mujer-por-robo-de-cajas-de-cerveza-en-acapulco/",
+      "dot_color": "#c0392b",
+      "badge_txt": "ROBO",
+      "lat": 16.86,
+      "lon": -99.88
+    },
+    {
+      "id": "87f8c49e",
       "tipo": "cierre_total",
-      "ruta": "Muere una persona tras volcadura de unidad de carga en…",
-      "descripcion": "Muere una persona tras volcadura de unidad de carga en la Puebla-Orizaba. El accidente ocurrió sobre el kilómetro 141 con dirección a la capital de Puebla, a la altura del municipio de Amozoc.",
-      "fecha": "7 julio 2026 · 12:23 CST",
-      "fuente": "Quadratín Puebla",
-      "url": "https://puebla.quadratin.com.mx/sucesos/muere-una-persona-tras-volcadura-de-unidad-de-carga-en-la-puebla-orizaba/",
+      "ruta": "VIDEO: Momento de la Volcadura de un Tractocamión en la…",
+      "descripcion": "VIDEO: Momento de la Volcadura de un Tractocamión en la México-Pachuca - N+. VIDEO: Momento de la Volcadura de un Tractocamión en la México-Pachuca N+",
+      "fecha": "7 julio 2026 · 15:44 CST",
+      "fuente": "N+",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNOHU2RzBKY0dldG0zUFJwOE5GX0JhVDRkRlhIQ2E1bG5ZVUhKSklsd3BGbTFjMXRPTEptTGRXb3lOVG9Ycm9oTmZMTkN5dEV2X3R4X2c1b3l4YmQ4TGJRMEZiTTRwLWpIeWNGX3dWdHAwYnJFNk14RjRjX0hHS0JXWkJZb1dKTTFTbjJZYTBhZ1hPcDhySFJiZ25XV2dnZU9tZUp6TG15UVJIc3d5c25rTFpaS0ozZi1BaU9kZnRxZUtySlV6eWl2XzQtZkk?oc=5",
       "dot_color": "#e74c3c",
       "badge_txt": "CIERRE TOTAL",
-      "lat": 19.1,
-      "lon": -98.0
+      "lat": 20.12,
+      "lon": -98.73
+    },
+    {
+      "id": "ab2121bc",
+      "tipo": "cierre_parcial",
+      "ruta": "Se queda sin frenos camión cargado de escombro y vuelca…",
+      "descripcion": "Se queda sin frenos camión cargado de escombro y vuelca en Acapulco. El accidente ocurre sobre la carretera, en la colonia Las Cruces",
+      "fecha": "7 julio 2026 · 15:35 CST",
+      "fuente": "Quadratín Guerrero",
+      "url": "https://guerrero.quadratin.com.mx/se-queda-sin-frenos-camion-cargado-de-escombro-y-vuelca-en-acapulco/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 16.86,
+      "lon": -99.88
+    },
+    {
+      "id": "bf95ff20",
+      "tipo": "cierre_total",
+      "ruta": "¿Qué pasó en la carretera Toluca-Zitácuaro? Volcadura de tráiler provoca…",
+      "descripcion": "¿Qué pasó en la carretera Toluca-Zitácuaro? Volcadura de tráiler provoca carambola y cierre de la circulación - Eje Central. ¿Qué pasó en la carretera Toluca-Zitácuaro? Volcadura de tráiler provoca carambola y cierre de la circulación Eje Central",
+      "fecha": "7 julio 2026 · 15:18 CST",
+      "fuente": "Eje Central",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZ05WWXVIcXFjSXVBemVhalh0MmtUYk5MQnhsMGhLU3BpR0FkUHpFOW5HSEpPZXJXVHpXSWNIdUJGa1R3ZGJwTjdNeFNxS2Q3d3FldU9vUzhYUGp6LS1keVNBQWdfckNDdFR6aHpBLUI4aWpLNE1GVmZGNFRROXMwMmRsOTFwbmVOcExFUFpvN3dVc19NUDhGS01VS0c1NUQ3Y2NqOFEyRVl6WkM1bUNmaGRtcHladDJvdVNQOVdaSUlpV3VlYklOdU03QjZFbTRIcmJETzNQdDN2NzlCOGNyVmZyUQ?oc=5",
+      "dot_color": "#e74c3c",
+      "badge_txt": "CIERRE TOTAL",
+      "lat": 19.29,
+      "lon": -99.66
     }
   ]
 }
