@@ -1,35 +1,47 @@
 {
-  "ultima_actualizacion": "2026-07-08T10:29:48.150245-06:00",
-  "ultima_actualizacion_legible": "8 de julio de 2026 · 10:29 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-07-08T12:02:51.582523-06:00",
+  "ultima_actualizacion_legible": "8 de julio de 2026 · 12:02 CST",
+  "total": 3,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Medios regionales",
+    "Quadratín + regionales",
     "Telegram"
   ],
   "grupos": [
     {
-      "tipo": "robo",
+      "tipo": "cierre_total",
       "color": "rojo",
-      "icono": "🚨",
-      "label": "ROBOS EN CARRETERA",
-      "col2": true,
+      "icono": "🔴",
+      "label": "CIERRE TOTAL",
+      "col2": false,
       "alertas": [
         {
-          "id": "944383dd",
-          "tipo": "robo",
-          "ruta": "Corrupción en el Issstezac genera deuda de 315 mdp con…",
-          "descripcion": "Corrupción en el Issstezac genera deuda de 315 mdp con el gobierno\nhttps://www.jornada.com.mx/2026/07/08/estados/025n1est?partner=rss\n\nZacatecas, Zac., Con 15 votos a favor y 14 en contra, la legislatura de Zacatecas aprobó la desincorporación del hotel Parador, propiedad del Sistema de Pensiones del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Zacatecas (Issstezac) para saldar una deuda por 315 millones de pesos que el instituto tiene con el gobierno estatal, po",
+          "id": "23001d4b",
+          "tipo": "cierre_total",
+          "ruta": "Muere una persona tras volcadura de tráiler en Nejapa de…",
+          "descripcion": "Muere una persona tras volcadura de tráiler en Nejapa de Madero. El siniestro movilizó a corporaciones de seguridad y obligó al cierre parcial de la circulación",
           "recomendacion": "",
-          "fecha": "8 julio 2026 · 08:37 CST",
-          "fecha_iso": "2026-07-08T08:37:00-06:00",
-          "fuente": "Telegram @NOTMEX",
-          "url": "https://t.me/NOTMEX/184436",
-          "dot_color": "#c0392b",
-          "badge": "badge-robo",
-          "badge_txt": "ROBO",
-          "lat": 21.0,
-          "lon": -104.0
+          "fecha": "8 julio 2026 · 11:52 CST",
+          "fecha_iso": "2026-07-08T11:52:00-06:00",
+          "fuente": "Quadratín Oaxaca",
+          "url": "https://oaxaca.quadratin.com.mx/muere-una-persona-tras-volcadura-de-trailer-en-nejapa-de-madero/",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL"
+        },
+        {
+          "id": "d29abe09",
+          "tipo": "cierre_total",
+          "ruta": "autopista Ciudad Mendoza-Orizaba por volcadura",
+          "descripcion": "Cierre parcial en autopista Ciudad Mendoza-Orizaba por volcadura. El saldo fue únicamente de daños materiales y afectaciones temporales",
+          "recomendacion": "",
+          "fecha": "8 julio 2026 · 10:50 CST",
+          "fecha_iso": "2026-07-08T10:50:00-06:00",
+          "fuente": "Quadratín Veracruz",
+          "url": "https://veracruz.quadratin.com.mx/cierre-parcial-en-autopista-ciudad-mendoza-orizaba-por-volcadura/",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL"
         }
       ]
     },
@@ -41,50 +53,37 @@
       "col2": true,
       "alertas": [
         {
-          "id": "5d23a7e1",
+          "id": "48c2b710",
           "tipo": "cierre_parcial",
-          "ruta": "Controlan fuerte incendio en almacén de pipas con hidrocarburo en…",
-          "descripcion": "Controlan fuerte incendio en almacén de pipas con hidrocarburo en El Salto. El director de la Unidad Estatal de Protección Civil y Bomberos de Jalisco indicó que las llamas alcanzaron una altura de casi 10 metros",
+          "ruta": "🚨Choque genera afectaciones viales en la #México-#Toluca, rumbo a #CDMX…",
+          "descripcion": "🚨Choque genera afectaciones viales en la #México-#Toluca, rumbo a #CDMX\n\nhttps://lajornadaestadodemexico.com/choque-genera-afectaciones-viales-en-la-mexico-toluca/",
           "recomendacion": "",
-          "fecha": "8 julio 2026 · 08:41 CST",
-          "fecha_iso": "2026-07-08T08:41:00-06:00",
-          "fuente": "El Informador Jalisco",
-          "url": "https://www.informador.mx/jalisco/controlan-fuerte-incendio-en-almacen-de-pipas-con-hidrocarburo-en-el-salto-jalisco-20260708-0058.html",
+          "fecha": "8 julio 2026 · 11:43 CST",
+          "fecha_iso": "2026-07-08T11:43:00-06:00",
+          "fuente": "Telegram @jornadaedomex",
+          "url": "https://t.me/jornadaedomex/11351",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL",
-          "lat": 20.66,
-          "lon": -103.35
+          "lat": 19.43,
+          "lon": -99.13
         }
       ]
     }
   ],
   "para_mapa": [
     {
-      "id": "5d23a7e1",
+      "id": "48c2b710",
       "tipo": "cierre_parcial",
-      "ruta": "Controlan fuerte incendio en almacén de pipas con hidrocarburo en…",
-      "descripcion": "Controlan fuerte incendio en almacén de pipas con hidrocarburo en El Salto. El director de la Unidad Estatal de Protección Civil y Bomberos de Jalisco indicó que las llamas alcanzaron una altura de casi 10 metros",
-      "fecha": "8 julio 2026 · 08:41 CST",
-      "fuente": "El Informador Jalisco",
-      "url": "https://www.informador.mx/jalisco/controlan-fuerte-incendio-en-almacen-de-pipas-con-hidrocarburo-en-el-salto-jalisco-20260708-0058.html",
+      "ruta": "🚨Choque genera afectaciones viales en la #México-#Toluca, rumbo a #CDMX…",
+      "descripcion": "🚨Choque genera afectaciones viales en la #México-#Toluca, rumbo a #CDMX\n\nhttps://lajornadaestadodemexico.com/choque-genera-afectaciones-viales-en-la-mexico-toluca/",
+      "fecha": "8 julio 2026 · 11:43 CST",
+      "fuente": "Telegram @jornadaedomex",
+      "url": "https://t.me/jornadaedomex/11351",
       "dot_color": "#e67e22",
       "badge_txt": "CIERRE PARCIAL",
-      "lat": 20.66,
-      "lon": -103.35
-    },
-    {
-      "id": "944383dd",
-      "tipo": "robo",
-      "ruta": "Corrupción en el Issstezac genera deuda de 315 mdp con…",
-      "descripcion": "Corrupción en el Issstezac genera deuda de 315 mdp con el gobierno\nhttps://www.jornada.com.mx/2026/07/08/estados/025n1est?partner=rss\n\nZacatecas, Zac., Con 15 votos a favor y 14 en contra, la legislatura de Zacatecas aprobó la desincorporación del hotel Parador, propiedad del Sistema de Pensiones del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Zacatecas (Issstezac) para saldar una deuda por 315 millones de pesos que el instituto tiene con el gobierno estatal, po",
-      "fecha": "8 julio 2026 · 08:37 CST",
-      "fuente": "Telegram @NOTMEX",
-      "url": "https://t.me/NOTMEX/184436",
-      "dot_color": "#c0392b",
-      "badge_txt": "ROBO",
-      "lat": 21.0,
-      "lon": -104.0
+      "lat": 19.43,
+      "lon": -99.13
     }
   ]
 }
