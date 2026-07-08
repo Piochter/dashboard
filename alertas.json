@@ -1,12 +1,195 @@
 {
-  "ultima_actualizacion": "2026-07-08T06:19:51.145763-06:00",
-  "ultima_actualizacion_legible": "8 de julio de 2026 · 06:19 CST",
-  "total": 0,
+  "ultima_actualizacion": "2026-07-08T08:57:09.894439-06:00",
+  "ultima_actualizacion_legible": "8 de julio de 2026 · 08:57 CST",
+  "total": 6,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Google News"
+    "Google News",
+    "Medios regionales",
+    "Telegram"
   ],
-  "grupos": [],
-  "para_mapa": [],
-  "nota": "Sin alertas activas en la ventana de tiempo configurada."
+  "grupos": [
+    {
+      "tipo": "cierre_total",
+      "color": "rojo",
+      "icono": "🔴",
+      "label": "CIERRE TOTAL",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "f26a0155",
+          "tipo": "cierre_total",
+          "ruta": "Los 5 estados que enfrentarán \"diluvios\" este 8 de julio…",
+          "descripcion": "Los 5 estados que enfrentarán \"diluvios\" este 8 de julio. El Servicio Meteorológico Nacional pronostica precipitaciones extremas de hasta 150 mm en cinco estados del país, alertando por posibles inundaciones, caída de granizo y deslaves",
+          "recomendacion": "",
+          "fecha": "8 julio 2026 · 08:03 CST",
+          "fecha_iso": "2026-07-08T08:03:00-06:00",
+          "fuente": "El Informador Jalisco",
+          "url": "https://www.informador.mx/mexico/alerta-del-smn-los-5-estados-que-enfrentaran-diluvios-este-8-de-julio-20260708-0050.html",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL",
+          "lat": 21.0,
+          "lon": -104.0
+        }
+      ]
+    },
+    {
+      "tipo": "bloqueo",
+      "color": "rojo",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "4239c0fb",
+          "tipo": "bloqueo",
+          "ruta": "Bloqueos y tráfico en la México-Toluca hoy EN VIVO: ¿Qué…",
+          "descripcion": "Bloqueos y tráfico en la México-Toluca hoy EN VIVO: ¿Qué pasa en la autopista este 8 de julio? - TV Azteca. Bloqueos y tráfico en la México-Toluca hoy EN VIVO: ¿Qué pasa en la autopista este 8 de julio? TV Azteca",
+          "recomendacion": "",
+          "fecha": "8 julio 2026 · 07:23 CST",
+          "fecha_iso": "2026-07-08T07:23:00-06:00",
+          "fuente": "TV Azteca",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMTlwb01jWkhCaWhrMFFad040UjNwMGtjdFU2TjA0b2NDUDNCMlJKQXhuaEtiQmFqMWRQX2Zta0EzeGc3MWJ4djZYWDQ1LXlsb0VyUUU2cUtNVW5ZR2E2bVVuT1NiQWw2LXI4TE5Ec05pUFJwMnNkbTBRSEx1bVhucndzVHNkX0tKMmFIaU00SndwX2g2RmVjdm5tWEZfY0EwYnpoX2dncWJaX0dtWmlpTVNVQVdfQjY3S1NZMDkyajg1UdIBzwFBVV95cUxONXdYb1RqVmFZNGFXMTFUMV94d0c0eFhhLXotdF9QYVNCQUdsNnBkUFNtZU5PY0JTWFVScml2QXpnYnNCVS1xWHlrWFU0dlZ1ZXlOUm1OdnE3M2tYSzBYU2ladHFINFF6bnQ1bDBhTUVlbUdSUU9GYTNia2xXMU9Pd19FYmpkUWUyelBaM1dzcjRidjhoOWc4NEtDaWMwcXN1QUI2VDBqOS1KNGVibmhTaGtSd0Z1V1REMG0zdkctMW9NM2pPUGZzNi0yWUl0LXc?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 19.29,
+          "lon": -99.66
+        },
+        {
+          "id": "2aa90c68",
+          "tipo": "bloqueo",
+          "ruta": "Bloqueos carreteras HOY 8 de julio: Autopistas cerradas en México,…",
+          "descripcion": "Bloqueos carreteras HOY 8 de julio: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 8 de julio: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
+          "recomendacion": "",
+          "fecha": "8 julio 2026 · 07:05 CST",
+          "fecha_iso": "2026-07-08T07:05:00-06:00",
+          "fuente": "Eje Central",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOVXZrMVBxVXpJODhsZm55dUZuTjNkRUNDOTdyWThBdzBZY0FBaml1Um5sZEpzczNKUzNIbVRiOEVVeE1TVnhNS3R3Z3c1dmsyWlhicWkxVXBRaUpncmNza3htUFVRaWU4cUpRZmlwM0pEZnhRVWZPZzJjbXMzUnlIUTN1Q1FGR3hrYktaVWNfVGVQektwb2Z1MjF3RnRBbDdOQlQ5NVVBRVJWbXBRNnhIZUVrZTlITlJVa2lKbEF5c0F6U1NKU2J5UXVxU2MtZmJWQWlVVjk1MjlkM3o3YVhRQXlUMHdUUQ?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
+        {
+          "id": "7ce57156",
+          "tipo": "bloqueo",
+          "ruta": "¿Hay Bloqueos en Carreteras Hoy? Lista de Autopistas con Cierres…",
+          "descripcion": "¿Hay Bloqueos en Carreteras Hoy? Lista de Autopistas con Cierres este 8 de Julio 2026 - N+. ¿Hay Bloqueos en Carreteras Hoy? Lista de Autopistas con Cierres este 8 de Julio 2026 N+",
+          "recomendacion": "",
+          "fecha": "8 julio 2026 · 07:03 CST",
+          "fecha_iso": "2026-07-08T07:03:00-06:00",
+          "fuente": "N+",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVVpzVllDOU5PUzlhUTVuNFdTbEFod2d6UzJ2eXMzUTlrQ0FqMF9tclBVVE93S0oycVZtRzY1b2k3T0NEQVhVbFZ3bXFEU1NnYzN4eGZfSFZ4U0ExSzNuWXU4X2tJUEJRVVlGWThYNmM5TlZIRXNGVUlScUFXVXg1TDhFN0lReWx1STJzQ3RNZnlfR28yaDJ3MUU1VFo0Z1dwSUVYaE1VeXBvbWNfdXQ5dA?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        }
+      ]
+    },
+    {
+      "tipo": "robo",
+      "color": "rojo",
+      "icono": "🚨",
+      "label": "ROBOS EN CARRETERA",
+      "col2": true,
+      "alertas": [
+        {
+          "id": "944383dd",
+          "tipo": "robo",
+          "ruta": "Corrupción en el Issstezac genera deuda de 315 mdp con…",
+          "descripcion": "Corrupción en el Issstezac genera deuda de 315 mdp con el gobierno\nhttps://www.jornada.com.mx/2026/07/08/estados/025n1est?partner=rss\n\nZacatecas, Zac., Con 15 votos a favor y 14 en contra, la legislatura de Zacatecas aprobó la desincorporación del hotel Parador, propiedad del Sistema de Pensiones del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Zacatecas (Issstezac) para saldar una deuda por 315 millones de pesos que el instituto tiene con el gobierno estatal, po",
+          "recomendacion": "",
+          "fecha": "8 julio 2026 · 08:37 CST",
+          "fecha_iso": "2026-07-08T08:37:00-06:00",
+          "fuente": "Telegram @NOTMEX",
+          "url": "https://t.me/NOTMEX/184436",
+          "dot_color": "#c0392b",
+          "badge": "badge-robo",
+          "badge_txt": "ROBO",
+          "lat": 21.0,
+          "lon": -104.0
+        }
+      ]
+    },
+    {
+      "tipo": "cierre_parcial",
+      "color": "amarillo",
+      "icono": "🟡",
+      "label": "CIERRE PARCIAL / ACCIDENTES",
+      "col2": true,
+      "alertas": [
+        {
+          "id": "5d23a7e1",
+          "tipo": "cierre_parcial",
+          "ruta": "Controlan fuerte incendio en almacén de pipas con hidrocarburo en…",
+          "descripcion": "Controlan fuerte incendio en almacén de pipas con hidrocarburo en El Salto. El director de la Unidad Estatal de Protección Civil y Bomberos de Jalisco indicó que las llamas alcanzaron una altura de casi 10 metros",
+          "recomendacion": "",
+          "fecha": "8 julio 2026 · 08:41 CST",
+          "fecha_iso": "2026-07-08T08:41:00-06:00",
+          "fuente": "El Informador Jalisco",
+          "url": "https://www.informador.mx/jalisco/controlan-fuerte-incendio-en-almacen-de-pipas-con-hidrocarburo-en-el-salto-jalisco-20260708-0058.html",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 20.66,
+          "lon": -103.35
+        }
+      ]
+    }
+  ],
+  "para_mapa": [
+    {
+      "id": "5d23a7e1",
+      "tipo": "cierre_parcial",
+      "ruta": "Controlan fuerte incendio en almacén de pipas con hidrocarburo en…",
+      "descripcion": "Controlan fuerte incendio en almacén de pipas con hidrocarburo en El Salto. El director de la Unidad Estatal de Protección Civil y Bomberos de Jalisco indicó que las llamas alcanzaron una altura de casi 10 metros",
+      "fecha": "8 julio 2026 · 08:41 CST",
+      "fuente": "El Informador Jalisco",
+      "url": "https://www.informador.mx/jalisco/controlan-fuerte-incendio-en-almacen-de-pipas-con-hidrocarburo-en-el-salto-jalisco-20260708-0058.html",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 20.66,
+      "lon": -103.35
+    },
+    {
+      "id": "944383dd",
+      "tipo": "robo",
+      "ruta": "Corrupción en el Issstezac genera deuda de 315 mdp con…",
+      "descripcion": "Corrupción en el Issstezac genera deuda de 315 mdp con el gobierno\nhttps://www.jornada.com.mx/2026/07/08/estados/025n1est?partner=rss\n\nZacatecas, Zac., Con 15 votos a favor y 14 en contra, la legislatura de Zacatecas aprobó la desincorporación del hotel Parador, propiedad del Sistema de Pensiones del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Zacatecas (Issstezac) para saldar una deuda por 315 millones de pesos que el instituto tiene con el gobierno estatal, po",
+      "fecha": "8 julio 2026 · 08:37 CST",
+      "fuente": "Telegram @NOTMEX",
+      "url": "https://t.me/NOTMEX/184436",
+      "dot_color": "#c0392b",
+      "badge_txt": "ROBO",
+      "lat": 21.0,
+      "lon": -104.0
+    },
+    {
+      "id": "f26a0155",
+      "tipo": "cierre_total",
+      "ruta": "Los 5 estados que enfrentarán \"diluvios\" este 8 de julio…",
+      "descripcion": "Los 5 estados que enfrentarán \"diluvios\" este 8 de julio. El Servicio Meteorológico Nacional pronostica precipitaciones extremas de hasta 150 mm en cinco estados del país, alertando por posibles inundaciones, caída de granizo y deslaves",
+      "fecha": "8 julio 2026 · 08:03 CST",
+      "fuente": "El Informador Jalisco",
+      "url": "https://www.informador.mx/mexico/alerta-del-smn-los-5-estados-que-enfrentaran-diluvios-este-8-de-julio-20260708-0050.html",
+      "dot_color": "#e74c3c",
+      "badge_txt": "CIERRE TOTAL",
+      "lat": 21.0,
+      "lon": -104.0
+    },
+    {
+      "id": "4239c0fb",
+      "tipo": "bloqueo",
+      "ruta": "Bloqueos y tráfico en la México-Toluca hoy EN VIVO: ¿Qué…",
+      "descripcion": "Bloqueos y tráfico en la México-Toluca hoy EN VIVO: ¿Qué pasa en la autopista este 8 de julio? - TV Azteca. Bloqueos y tráfico en la México-Toluca hoy EN VIVO: ¿Qué pasa en la autopista este 8 de julio? TV Azteca",
+      "fecha": "8 julio 2026 · 07:23 CST",
+      "fuente": "TV Azteca",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMTlwb01jWkhCaWhrMFFad040UjNwMGtjdFU2TjA0b2NDUDNCMlJKQXhuaEtiQmFqMWRQX2Zta0EzeGc3MWJ4djZYWDQ1LXlsb0VyUUU2cUtNVW5ZR2E2bVVuT1NiQWw2LXI4TE5Ec05pUFJwMnNkbTBRSEx1bVhucndzVHNkX0tKMmFIaU00SndwX2g2RmVjdm5tWEZfY0EwYnpoX2dncWJaX0dtWmlpTVNVQVdfQjY3S1NZMDkyajg1UdIBzwFBVV95cUxONXdYb1RqVmFZNGFXMTFUMV94d0c0eFhhLXotdF9QYVNCQUdsNnBkUFNtZU5PY0JTWFVScml2QXpnYnNCVS1xWHlrWFU0dlZ1ZXlOUm1OdnE3M2tYSzBYU2ladHFINFF6bnQ1bDBhTUVlbUdSUU9GYTNia2xXMU9Pd19FYmpkUWUyelBaM1dzcjRidjhoOWc4NEtDaWMwcXN1QUI2VDBqOS1KNGVibmhTaGtSd0Z1V1REMG0zdkctMW9NM2pPUGZzNi0yWUl0LXc?oc=5",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 19.29,
+      "lon": -99.66
+    }
+  ]
 }
