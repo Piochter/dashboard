@@ -1,51 +1,12 @@
 {
-  "ultima_actualizacion": "2026-07-08T00:14:23.050291-06:00",
-  "ultima_actualizacion_legible": "8 de julio de 2026 · 00:14 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-07-08T02:45:56.021629-06:00",
+  "ultima_actualizacion_legible": "8 de julio de 2026 · 02:45 CST",
+  "total": 0,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Medios nacionales"
+    "Google News"
   ],
-  "grupos": [
-    {
-      "tipo": "bloqueo",
-      "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "8af30a80",
-          "tipo": "bloqueo",
-          "ruta": "Suman 5 horas de bloqueo en la México-Puebla, reportan riña…",
-          "descripcion": "Suman 5 horas de bloqueo en la México-Puebla, reportan riña entre padres y docentes. Se cumplen más de cinco horas de bloqueo sobre la autopista México-Puebla, a la altura de Tlapacoya; reportan enfrentamientos.",
-          "recomendacion": "",
-          "fecha": "7 julio 2026 · 22:39 CST",
-          "fecha_iso": "2026-07-07T22:39:00-06:00",
-          "fuente": "24 Horas",
-          "url": "https://24-horas.mx/estados/suman-5-horas-de-bloqueo-en-la-mexico-puebla-reportan-rina-entre-padres-y-docentes/",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 19.35,
-          "lon": -98.4
-        }
-      ]
-    }
-  ],
-  "para_mapa": [
-    {
-      "id": "8af30a80",
-      "tipo": "bloqueo",
-      "ruta": "Suman 5 horas de bloqueo en la México-Puebla, reportan riña…",
-      "descripcion": "Suman 5 horas de bloqueo en la México-Puebla, reportan riña entre padres y docentes. Se cumplen más de cinco horas de bloqueo sobre la autopista México-Puebla, a la altura de Tlapacoya; reportan enfrentamientos.",
-      "fecha": "7 julio 2026 · 22:39 CST",
-      "fuente": "24 Horas",
-      "url": "https://24-horas.mx/estados/suman-5-horas-de-bloqueo-en-la-mexico-puebla-reportan-rina-entre-padres-y-docentes/",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 19.35,
-      "lon": -98.4
-    }
-  ]
+  "grupos": [],
+  "para_mapa": [],
+  "nota": "Sin alertas activas en la ventana de tiempo configurada."
 }
