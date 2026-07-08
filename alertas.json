@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-07-08T16:18:17.084141-06:00",
-  "ultima_actualizacion_legible": "8 de julio de 2026 · 16:18 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-07-08T17:36:37.084653-06:00",
+  "ultima_actualizacion_legible": "8 de julio de 2026 · 17:36 CST",
+  "total": 4,
   "ventana": "últimos 180 minutos",
   "fuentes": [
     "Google News",
@@ -9,6 +9,29 @@
     "Telegram"
   ],
   "grupos": [
+    {
+      "tipo": "cierre_total",
+      "color": "rojo",
+      "icono": "🔴",
+      "label": "CIERRE TOTAL",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "dab6b4fd",
+          "tipo": "cierre_total",
+          "ruta": "Volcadura de camión en autopista México-Pirámides: tráfico intenso - agencianvm.com.mx…",
+          "descripcion": "Volcadura de camión en autopista México-Pirámides: tráfico intenso - agencianvm.com.mx. Volcadura de camión en autopista México-Pirámides: tráfico intenso agencianvm.com.mx",
+          "recomendacion": "",
+          "fecha": "8 julio 2026 · 17:28 CST",
+          "fecha_iso": "2026-07-08T17:28:00-06:00",
+          "fuente": "agencianvm.com.mx",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaGhlcjlMRzQ1WUFWYkotZXhvbjFPRlM4cVZvWmtBNExVLVRzN29xNzJsQVFMRG5QaGZJVGd2TnB1MzZrcXZXeDZDMm40RE51TDI5eTF6NFVqb0xXem9rd1c4czFSNjFJN24za1hQdEItSHpNM21NZ0RrRkl1eUI3UHRYdzhsMmNXOVBSVDBaX2dMZURJajQ0QmFZTzVTUkZGUU1sQUdjSEgzM0hf?oc=5",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL"
+        }
+      ]
+    },
     {
       "tipo": "bloqueo",
       "color": "rojo",
