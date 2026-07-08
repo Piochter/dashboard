@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-07-07T16:59:16.838811-06:00",
-  "ultima_actualizacion_legible": "7 de julio de 2026 · 16:59 CST",
-  "total": 7,
+  "ultima_actualizacion": "2026-07-07T18:00:48.370913-06:00",
+  "ultima_actualizacion_legible": "7 de julio de 2026 · 18:00 CST",
+  "total": 5,
   "ventana": "últimos 180 minutos",
   "fuentes": [
     "Google News",
@@ -67,35 +67,10 @@
           "fecha": "7 julio 2026 · 15:40 CST",
           "fecha_iso": "2026-07-07T15:40:00-06:00",
           "fuente": "24 Horas",
-          "url": "https://24-horas.mx/mexico/mexico-puede-protestar-por-detencion-de-el-mayo-podria-anularse-proceso-en-eu-monreal/",
+          "url": "https://24-horas.mx/principales/mexico-puede-protestar-por-detencion-de-el-mayo-podria-anularse-proceso-en-eu-monreal/",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO"
-        }
-      ]
-    },
-    {
-      "tipo": "robo",
-      "color": "rojo",
-      "icono": "🚨",
-      "label": "ROBOS EN CARRETERA",
-      "col2": true,
-      "alertas": [
-        {
-          "id": "cb8418f3",
-          "tipo": "robo",
-          "ruta": "Caen 2 hombres y una mujer por robo de cajas…",
-          "descripcion": "Caen 2 hombres y una mujer por robo de cajas de cerveza en Acapulco. Son localizados tras un reporte al 911",
-          "recomendacion": "",
-          "fecha": "7 julio 2026 · 15:51 CST",
-          "fecha_iso": "2026-07-07T15:51:00-06:00",
-          "fuente": "Quadratín Guerrero",
-          "url": "https://guerrero.quadratin.com.mx/caen-2-hombres-y-una-mujer-por-robo-de-cajas-de-cerveza-en-acapulco/",
-          "dot_color": "#c0392b",
-          "badge": "badge-robo",
-          "badge_txt": "ROBO",
-          "lat": 16.86,
-          "lon": -99.88
         }
       ]
     },
@@ -137,20 +112,6 @@
           "badge_txt": "CIERRE PARCIAL",
           "lat": 21.0,
           "lon": -104.0
-        },
-        {
-          "id": "b5e91b60",
-          "tipo": "cierre_parcial",
-          "ruta": "Choque en Cuitzeo deja un muerto y 2 heridos…",
-          "descripcion": "Choque en Cuitzeo deja un muerto y 2 heridos. El percance se registró en el kilómetro 32",
-          "recomendacion": "",
-          "fecha": "7 julio 2026 · 16:16 CST",
-          "fecha_iso": "2026-07-07T16:16:00-06:00",
-          "fuente": "Quadratín Michoacán",
-          "url": "https://www.quadratin.com.mx/sucesos/choque-en-cuitzeo-deja-un-muerto-y-2-heridos/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
         }
       ]
     }
@@ -181,19 +142,6 @@
       "badge_txt": "CIERRE PARCIAL",
       "lat": 21.0,
       "lon": -104.0
-    },
-    {
-      "id": "cb8418f3",
-      "tipo": "robo",
-      "ruta": "Caen 2 hombres y una mujer por robo de cajas…",
-      "descripcion": "Caen 2 hombres y una mujer por robo de cajas de cerveza en Acapulco. Son localizados tras un reporte al 911",
-      "fecha": "7 julio 2026 · 15:51 CST",
-      "fuente": "Quadratín Guerrero",
-      "url": "https://guerrero.quadratin.com.mx/caen-2-hombres-y-una-mujer-por-robo-de-cajas-de-cerveza-en-acapulco/",
-      "dot_color": "#c0392b",
-      "badge_txt": "ROBO",
-      "lat": 16.86,
-      "lon": -99.88
     },
     {
       "id": "87f8c49e",
