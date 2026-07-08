@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-07-08T12:02:51.582523-06:00",
-  "ultima_actualizacion_legible": "8 de julio de 2026 · 12:02 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-07-08T13:56:53.513942-06:00",
+  "ultima_actualizacion_legible": "8 de julio de 2026 · 13:56 CST",
+  "total": 2,
   "ventana": "últimos 180 minutos",
   "fuentes": [
     "Quadratín + regionales",
@@ -25,20 +25,6 @@
           "fecha_iso": "2026-07-08T11:52:00-06:00",
           "fuente": "Quadratín Oaxaca",
           "url": "https://oaxaca.quadratin.com.mx/muere-una-persona-tras-volcadura-de-trailer-en-nejapa-de-madero/",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL"
-        },
-        {
-          "id": "d29abe09",
-          "tipo": "cierre_total",
-          "ruta": "autopista Ciudad Mendoza-Orizaba por volcadura",
-          "descripcion": "Cierre parcial en autopista Ciudad Mendoza-Orizaba por volcadura. El saldo fue únicamente de daños materiales y afectaciones temporales",
-          "recomendacion": "",
-          "fecha": "8 julio 2026 · 10:50 CST",
-          "fecha_iso": "2026-07-08T10:50:00-06:00",
-          "fuente": "Quadratín Veracruz",
-          "url": "https://veracruz.quadratin.com.mx/cierre-parcial-en-autopista-ciudad-mendoza-orizaba-por-volcadura/",
           "dot_color": "#e74c3c",
           "badge": "badge-cierre-total",
           "badge_txt": "CIERRE TOTAL"
