@@ -1,35 +1,51 @@
 {
-  "ultima_actualizacion": "2026-07-07T21:27:33.626539-06:00",
-  "ultima_actualizacion_legible": "7 de julio de 2026 · 21:27 CST",
+  "ultima_actualizacion": "2026-07-08T00:14:23.050291-06:00",
+  "ultima_actualizacion_legible": "8 de julio de 2026 · 00:14 CST",
   "total": 1,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Quadratín + regionales"
+    "Medios nacionales"
   ],
   "grupos": [
     {
-      "tipo": "clima",
-      "color": "azul",
-      "icono": "🌧️",
-      "label": "ALERTA METEOROLÓGICA",
+      "tipo": "bloqueo",
+      "color": "rojo",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
       "col2": false,
       "alertas": [
         {
-          "id": "4db3797a",
-          "tipo": "clima",
-          "ruta": "El Salto recolecta más de 26 mil toneladas de residuos…",
-          "descripcion": "El Salto recolecta más de 26 mil toneladas de residuos y previene inundaciones. La actual administración municipal casi duplicó el número de camiones recolectores y ahora cuenta con 27 vehículos operativos",
+          "id": "8af30a80",
+          "tipo": "bloqueo",
+          "ruta": "Suman 5 horas de bloqueo en la México-Puebla, reportan riña…",
+          "descripcion": "Suman 5 horas de bloqueo en la México-Puebla, reportan riña entre padres y docentes. Se cumplen más de cinco horas de bloqueo sobre la autopista México-Puebla, a la altura de Tlapacoya; reportan enfrentamientos.",
           "recomendacion": "",
-          "fecha": "7 julio 2026 · 18:29 CST",
-          "fecha_iso": "2026-07-07T18:29:00-06:00",
-          "fuente": "Quadratín Jalisco",
-          "url": "https://jalisco.quadratin.com.mx/principal/el-salto-recolecta-mas-de-26-mil-toneladas-de-residuos-y-previene-inundaciones/",
-          "dot_color": "#3498db",
-          "badge": "badge-clima",
-          "badge_txt": "ALERTA CLIMA"
+          "fecha": "7 julio 2026 · 22:39 CST",
+          "fecha_iso": "2026-07-07T22:39:00-06:00",
+          "fuente": "24 Horas",
+          "url": "https://24-horas.mx/estados/suman-5-horas-de-bloqueo-en-la-mexico-puebla-reportan-rina-entre-padres-y-docentes/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 19.35,
+          "lon": -98.4
         }
       ]
     }
   ],
-  "para_mapa": []
+  "para_mapa": [
+    {
+      "id": "8af30a80",
+      "tipo": "bloqueo",
+      "ruta": "Suman 5 horas de bloqueo en la México-Puebla, reportan riña…",
+      "descripcion": "Suman 5 horas de bloqueo en la México-Puebla, reportan riña entre padres y docentes. Se cumplen más de cinco horas de bloqueo sobre la autopista México-Puebla, a la altura de Tlapacoya; reportan enfrentamientos.",
+      "fecha": "7 julio 2026 · 22:39 CST",
+      "fuente": "24 Horas",
+      "url": "https://24-horas.mx/estados/suman-5-horas-de-bloqueo-en-la-mexico-puebla-reportan-rina-entre-padres-y-docentes/",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 19.35,
+      "lon": -98.4
+    }
+  ]
 }
