@@ -1,173 +1,35 @@
 {
-  "ultima_actualizacion": "2026-07-07T18:00:48.370913-06:00",
-  "ultima_actualizacion_legible": "7 de julio de 2026 · 18:00 CST",
-  "total": 5,
+  "ultima_actualizacion": "2026-07-07T21:27:33.626539-06:00",
+  "ultima_actualizacion_legible": "7 de julio de 2026 · 21:27 CST",
+  "total": 1,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Google News",
-    "Medios nacionales",
-    "Medios regionales",
     "Quadratín + regionales"
   ],
   "grupos": [
     {
-      "tipo": "cierre_total",
-      "color": "rojo",
-      "icono": "🔴",
-      "label": "CIERRE TOTAL",
+      "tipo": "clima",
+      "color": "azul",
+      "icono": "🌧️",
+      "label": "ALERTA METEOROLÓGICA",
       "col2": false,
       "alertas": [
         {
-          "id": "87f8c49e",
-          "tipo": "cierre_total",
-          "ruta": "VIDEO: Momento de la Volcadura de un Tractocamión en la…",
-          "descripcion": "VIDEO: Momento de la Volcadura de un Tractocamión en la México-Pachuca - N+. VIDEO: Momento de la Volcadura de un Tractocamión en la México-Pachuca N+",
+          "id": "4db3797a",
+          "tipo": "clima",
+          "ruta": "El Salto recolecta más de 26 mil toneladas de residuos…",
+          "descripcion": "El Salto recolecta más de 26 mil toneladas de residuos y previene inundaciones. La actual administración municipal casi duplicó el número de camiones recolectores y ahora cuenta con 27 vehículos operativos",
           "recomendacion": "",
-          "fecha": "7 julio 2026 · 15:44 CST",
-          "fecha_iso": "2026-07-07T15:44:00-06:00",
-          "fuente": "N+",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNOHU2RzBKY0dldG0zUFJwOE5GX0JhVDRkRlhIQ2E1bG5ZVUhKSklsd3BGbTFjMXRPTEptTGRXb3lOVG9Ycm9oTmZMTkN5dEV2X3R4X2c1b3l4YmQ4TGJRMEZiTTRwLWpIeWNGX3dWdHAwYnJFNk14RjRjX0hHS0JXWkJZb1dKTTFTbjJZYTBhZ1hPcDhySFJiZ25XV2dnZU9tZUp6TG15UVJIc3d5c25rTFpaS0ozZi1BaU9kZnRxZUtySlV6eWl2XzQtZkk?oc=5",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL",
-          "lat": 20.12,
-          "lon": -98.73
-        },
-        {
-          "id": "bf95ff20",
-          "tipo": "cierre_total",
-          "ruta": "¿Qué pasó en la carretera Toluca-Zitácuaro? Volcadura de tráiler provoca…",
-          "descripcion": "¿Qué pasó en la carretera Toluca-Zitácuaro? Volcadura de tráiler provoca carambola y cierre de la circulación - Eje Central. ¿Qué pasó en la carretera Toluca-Zitácuaro? Volcadura de tráiler provoca carambola y cierre de la circulación Eje Central",
-          "recomendacion": "",
-          "fecha": "7 julio 2026 · 15:18 CST",
-          "fecha_iso": "2026-07-07T15:18:00-06:00",
-          "fuente": "Eje Central",
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZ05WWXVIcXFjSXVBemVhalh0MmtUYk5MQnhsMGhLU3BpR0FkUHpFOW5HSEpPZXJXVHpXSWNIdUJGa1R3ZGJwTjdNeFNxS2Q3d3FldU9vUzhYUGp6LS1keVNBQWdfckNDdFR6aHpBLUI4aWpLNE1GVmZGNFRROXMwMmRsOTFwbmVOcExFUFpvN3dVc19NUDhGS01VS0c1NUQ3Y2NqOFEyRVl6WkM1bUNmaGRtcHladDJvdVNQOVdaSUlpV3VlYklOdU03QjZFbTRIcmJETzNQdDN2NzlCOGNyVmZyUQ?oc=5",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL",
-          "lat": 19.29,
-          "lon": -99.66
-        }
-      ]
-    },
-    {
-      "tipo": "bloqueo",
-      "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "70be94df",
-          "tipo": "bloqueo",
-          "ruta": "México puede protestar por detención de 'El Mayo', podría anularse…",
-          "descripcion": "México puede protestar por detención de 'El Mayo', podría anularse proceso en EU: Monreal. México puede enviar una nota diplomática de protesta, por detención del “Mayo Zambada”, podría anularse el proceso en EU; Monreal",
-          "recomendacion": "",
-          "fecha": "7 julio 2026 · 15:40 CST",
-          "fecha_iso": "2026-07-07T15:40:00-06:00",
-          "fuente": "24 Horas",
-          "url": "https://24-horas.mx/principales/mexico-puede-protestar-por-detencion-de-el-mayo-podria-anularse-proceso-en-eu-monreal/",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        }
-      ]
-    },
-    {
-      "tipo": "cierre_parcial",
-      "color": "amarillo",
-      "icono": "🟡",
-      "label": "CIERRE PARCIAL / ACCIDENTES",
-      "col2": true,
-      "alertas": [
-        {
-          "id": "ab2121bc",
-          "tipo": "cierre_parcial",
-          "ruta": "Se queda sin frenos camión cargado de escombro y vuelca…",
-          "descripcion": "Se queda sin frenos camión cargado de escombro y vuelca en Acapulco. El accidente ocurre sobre la carretera, en la colonia Las Cruces",
-          "recomendacion": "",
-          "fecha": "7 julio 2026 · 16:40 CST",
-          "fecha_iso": "2026-07-07T16:40:00-06:00",
-          "fuente": "Quadratín Guerrero",
-          "url": "https://guerrero.quadratin.com.mx/se-queda-sin-frenos-camion-cargado-de-escombro-y-vuelca-en-acapulco/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 16.86,
-          "lon": -99.88
-        },
-        {
-          "id": "d64f7d28",
-          "tipo": "cierre_parcial",
-          "ruta": "Tenía 15 días trabajando y muere en accidente en GEN…",
-          "descripcion": "Tenía 15 días trabajando y muere en accidente en GEN Industrial. Ismael, de 33 años, falleció en las instalaciones de la empresa de recolección de basura que presta servicios en León, en un accidente del que se desconocen detalles.",
-          "recomendacion": "",
-          "fecha": "7 julio 2026 · 16:23 CST",
-          "fecha_iso": "2026-07-07T16:23:00-06:00",
-          "fuente": "AM Guanajuato",
-          "url": "https://www.am.com.mx/leon/2026/07/07/tenia-15-dias-trabajando-y-muere-en-accidente-en-gen-industrial-1816515.html",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 21.0,
-          "lon": -104.0
+          "fecha": "7 julio 2026 · 18:29 CST",
+          "fecha_iso": "2026-07-07T18:29:00-06:00",
+          "fuente": "Quadratín Jalisco",
+          "url": "https://jalisco.quadratin.com.mx/principal/el-salto-recolecta-mas-de-26-mil-toneladas-de-residuos-y-previene-inundaciones/",
+          "dot_color": "#3498db",
+          "badge": "badge-clima",
+          "badge_txt": "ALERTA CLIMA"
         }
       ]
     }
   ],
-  "para_mapa": [
-    {
-      "id": "ab2121bc",
-      "tipo": "cierre_parcial",
-      "ruta": "Se queda sin frenos camión cargado de escombro y vuelca…",
-      "descripcion": "Se queda sin frenos camión cargado de escombro y vuelca en Acapulco. El accidente ocurre sobre la carretera, en la colonia Las Cruces",
-      "fecha": "7 julio 2026 · 16:40 CST",
-      "fuente": "Quadratín Guerrero",
-      "url": "https://guerrero.quadratin.com.mx/se-queda-sin-frenos-camion-cargado-de-escombro-y-vuelca-en-acapulco/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 16.86,
-      "lon": -99.88
-    },
-    {
-      "id": "d64f7d28",
-      "tipo": "cierre_parcial",
-      "ruta": "Tenía 15 días trabajando y muere en accidente en GEN…",
-      "descripcion": "Tenía 15 días trabajando y muere en accidente en GEN Industrial. Ismael, de 33 años, falleció en las instalaciones de la empresa de recolección de basura que presta servicios en León, en un accidente del que se desconocen detalles.",
-      "fecha": "7 julio 2026 · 16:23 CST",
-      "fuente": "AM Guanajuato",
-      "url": "https://www.am.com.mx/leon/2026/07/07/tenia-15-dias-trabajando-y-muere-en-accidente-en-gen-industrial-1816515.html",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 21.0,
-      "lon": -104.0
-    },
-    {
-      "id": "87f8c49e",
-      "tipo": "cierre_total",
-      "ruta": "VIDEO: Momento de la Volcadura de un Tractocamión en la…",
-      "descripcion": "VIDEO: Momento de la Volcadura de un Tractocamión en la México-Pachuca - N+. VIDEO: Momento de la Volcadura de un Tractocamión en la México-Pachuca N+",
-      "fecha": "7 julio 2026 · 15:44 CST",
-      "fuente": "N+",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNOHU2RzBKY0dldG0zUFJwOE5GX0JhVDRkRlhIQ2E1bG5ZVUhKSklsd3BGbTFjMXRPTEptTGRXb3lOVG9Ycm9oTmZMTkN5dEV2X3R4X2c1b3l4YmQ4TGJRMEZiTTRwLWpIeWNGX3dWdHAwYnJFNk14RjRjX0hHS0JXWkJZb1dKTTFTbjJZYTBhZ1hPcDhySFJiZ25XV2dnZU9tZUp6TG15UVJIc3d5c25rTFpaS0ozZi1BaU9kZnRxZUtySlV6eWl2XzQtZkk?oc=5",
-      "dot_color": "#e74c3c",
-      "badge_txt": "CIERRE TOTAL",
-      "lat": 20.12,
-      "lon": -98.73
-    },
-    {
-      "id": "bf95ff20",
-      "tipo": "cierre_total",
-      "ruta": "¿Qué pasó en la carretera Toluca-Zitácuaro? Volcadura de tráiler provoca…",
-      "descripcion": "¿Qué pasó en la carretera Toluca-Zitácuaro? Volcadura de tráiler provoca carambola y cierre de la circulación - Eje Central. ¿Qué pasó en la carretera Toluca-Zitácuaro? Volcadura de tráiler provoca carambola y cierre de la circulación Eje Central",
-      "fecha": "7 julio 2026 · 15:18 CST",
-      "fuente": "Eje Central",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZ05WWXVIcXFjSXVBemVhalh0MmtUYk5MQnhsMGhLU3BpR0FkUHpFOW5HSEpPZXJXVHpXSWNIdUJGa1R3ZGJwTjdNeFNxS2Q3d3FldU9vUzhYUGp6LS1keVNBQWdfckNDdFR6aHpBLUI4aWpLNE1GVmZGNFRROXMwMmRsOTFwbmVOcExFUFpvN3dVc19NUDhGS01VS0c1NUQ3Y2NqOFEyRVl6WkM1bUNmaGRtcHladDJvdVNQOVdaSUlpV3VlYklOdU03QjZFbTRIcmJETzNQdDN2NzlCOGNyVmZyUQ?oc=5",
-      "dot_color": "#e74c3c",
-      "badge_txt": "CIERRE TOTAL",
-      "lat": 19.29,
-      "lon": -99.66
-    }
-  ]
+  "para_mapa": []
 }
