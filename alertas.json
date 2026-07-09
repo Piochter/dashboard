@@ -1,35 +1,12 @@
 {
-  "ultima_actualizacion": "2026-07-09T14:46:48.684228-06:00",
-  "ultima_actualizacion_legible": "9 de julio de 2026 · 14:46 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-07-09T16:10:44.726495-06:00",
+  "ultima_actualizacion_legible": "9 de julio de 2026 · 16:10 CST",
+  "total": 0,
   "ventana": "últimos 180 minutos",
   "fuentes": [
     "Google News"
   ],
-  "grupos": [
-    {
-      "tipo": "bloqueo",
-      "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "96635904",
-          "tipo": "bloqueo",
-          "ruta": "Bloqueos en carreteras EN VIVO hoy: ¿Qué pasa en las…",
-          "descripcion": "Bloqueos en carreteras EN VIVO hoy: ¿Qué pasa en las autopistas de México este 9 de julio? - TV Azteca. Bloqueos en carreteras EN VIVO hoy: ¿Qué pasa en las autopistas de México este 9 de julio? TV Azteca",
-          "recomendacion": "",
-          "fecha": "9 julio 2026 · 11:49 CST",
-          "fecha_iso": "2026-07-09T11:49:00-06:00",
-          "fuente": "TV Azteca",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeGhrX055dU1jclVIVTVkNVhJTjF2WTNHZkhWNTRGTF9TbVAtalMtdzJseWkxNDFfQktOVHpqUzNkRnpTWWNwdE5id1YzLXM3V3VOLWZfZDZYNG1MUnpHdzlCNFdQWDdXbHozN0NKRzRTbUxhR2d4UF9ZZ2cwWi16ZmFEdVRBZjdTTGIxZmNKOXkwa05tQXh5X2hTMTdVN08yZU9EVW9xQkJvOEd5UGxBT2hCZXbSAcIBQVVfeXFMT3RmQ1hCUnBwSEtsUTBkZGQ1b0pTVGJBcGYxeVV3N19idUJscWl3VWN5SjdFUjZfbUZEMDhjbXM1clotUU5fVkNuVlJwNlZlS1hfREo3S0JsU2NBWVBlaUxGMzZvUUpxdHYtZ2xGeWFlQUlLakRaamF1UkNnUUZOenJBQm92eW8zOXVwRnRZOXNxYVYtQkpuUTdZY29JMW95SUxvZkF5ODVXTDBSRnlvMUo2bVlIM0EzMGVEWmtkZVJUMkE?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        }
-      ]
-    }
-  ],
-  "para_mapa": []
+  "grupos": [],
+  "para_mapa": [],
+  "nota": "Sin alertas activas en la ventana de tiempo configurada."
 }
