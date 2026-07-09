@@ -1,12 +1,36 @@
 {
-  "ultima_actualizacion": "2026-07-09T11:02:11.593570-06:00",
-  "ultima_actualizacion_legible": "9 de julio de 2026 · 11:02 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-07-09T12:56:36.172858-06:00",
+  "ultima_actualizacion_legible": "9 de julio de 2026 · 12:56 CST",
+  "total": 2,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Google News"
+    "Google News",
+    "Medios regionales"
   ],
   "grupos": [
+    {
+      "tipo": "cierre_total",
+      "color": "rojo",
+      "icono": "🔴",
+      "label": "CIERRE TOTAL",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "39e9e194",
+          "tipo": "cierre_total",
+          "ruta": "Tras volcadura de un tractocamión, se cerró la circulación en…",
+          "descripcion": "Tras volcadura de un tractocamión, se cerró la circulación en carretera Mante-Tula; autoridades se encuentran brindando seguridad en el sitio podemos resumirlo a autoridades mile.io/3R1Dtqe - facebook.com. Tras volcadura de un tractocamión, se cerró la circulación en carretera Mante-Tula; autoridades se encuentran brindando seguridad en el sitio podemos resumirlo a autoridades mile.io/3R1Dtqe facebook.com",
+          "recomendacion": "",
+          "fecha": "9 julio 2026 · 11:25 CST",
+          "fecha_iso": "2026-07-09T11:25:00-06:00",
+          "fuente": "facebook.com",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNQmJ5QlZZdldEaWcyZy1XYmJ3OEx0LXpSekY2RTZJSDgyYUdBRldKekt2TTQ0TExyc1EtSFBSNTdnWjhqZTV4UFc0cjJrYjlBWmd6TGxIQS1FR0ZlWHlSem8wM3QyUG5SRFNoWlh5Y3I0NzFpMXlZSC1aeU8yeThRLW1DekZCZWR6U2JRWlNiZkl3ZC1SaHhZVFF5dUZ6elFtV1l1UFRqVDBZQmdYTkxLdEY1alF6MmxwcF9KaWdxVzZhYzBGZlZwaUFNQWE3akpXZWc2cHZvbGJJR3NHMVIxcUhBSWRrTUNHdllVMkF6RQ?oc=5",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL"
+        }
+      ]
+    },
     {
       "tipo": "cierre_parcial",
       "color": "amarillo",
@@ -15,15 +39,15 @@
       "col2": true,
       "alertas": [
         {
-          "id": "32108c62",
+          "id": "9fe4ad76",
           "tipo": "cierre_parcial",
-          "ruta": "Carreteras Bloqueadas en México Hoy: Lista de Autopistas con Cierres…",
-          "descripcion": "Carreteras Bloqueadas en México Hoy: Lista de Autopistas con Cierres Viales este 9 de Julio 2026 - N+. Carreteras Bloqueadas en México Hoy: Lista de Autopistas con Cierres Viales este 9 de Julio 2026 N+",
+          "ruta": "Incendio en fábrica de calzado en China deja 28 muertos…",
+          "descripcion": "Incendio en fábrica de calzado en China deja 28 muertos. El presidente de China, Xi Jinping, ordenó que se desplegaran todos los recursos disponibles para las labores de búsqueda y rescate",
           "recomendacion": "",
-          "fecha": "9 julio 2026 · 08:00 CST",
-          "fecha_iso": "2026-07-09T08:00:00-06:00",
-          "fuente": "N+",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQmJjU25fR2RxUTNjMXdzT25UV0FBdnZyMTJoR3J0NW1JNVZ0TXgxcjF4c3E1Ui1YUm04TXRnQ0lLYzJkODlFUV9NUmdzNlQtSmIwN1RWR0VOLUdDdjZERjk1T3dvSmExR3FkemNjcXhnV1RUekNPYkV3U3o3TllmT1g0NXVSRTZwTF9nU3Z2OWU4OGJtUldVNVIyQVFoZEtuNDlIQWlja0RFeTB6RkZCV0dZdlJjcTZvc29xem1HSmMzTU02cTkzRldR?oc=5",
+          "fecha": "9 julio 2026 · 12:05 CST",
+          "fecha_iso": "2026-07-09T12:05:00-06:00",
+          "fuente": "El Informador Jalisco",
+          "url": "https://www.informador.mx/internacional/incendio-en-fabrica-de-calzado-en-china-deja-28-muertos-20260709-0097.html",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL"
