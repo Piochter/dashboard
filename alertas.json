@@ -1,12 +1,11 @@
 {
-  "ultima_actualizacion": "2026-07-08T17:36:37.084653-06:00",
-  "ultima_actualizacion_legible": "8 de julio de 2026 · 17:36 CST",
-  "total": 4,
+  "ultima_actualizacion": "2026-07-08T19:17:07.789754-06:00",
+  "ultima_actualizacion_legible": "8 de julio de 2026 · 19:17 CST",
+  "total": 2,
   "ventana": "últimos 180 minutos",
   "fuentes": [
     "Google News",
-    "Medios regionales",
-    "Telegram"
+    "Medios nacionales"
   ],
   "grupos": [
     {
@@ -33,45 +32,6 @@
       ]
     },
     {
-      "tipo": "bloqueo",
-      "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "e304dee7",
-          "tipo": "bloqueo",
-          "ruta": "¿Quién fue Samir Flores, el activista por el que protestaron…",
-          "descripcion": "¿Quién fue Samir Flores, el activista por el que protestaron contra Cuauhtémoc [Blanco?](http://telegra.ph/Quién-fue-Samir-Flores-el-activista-por-el-que-protestaron-contra-Cuauhtémoc-Blanco-07-07)\n\n__via__ [www.elfinanciero.com.mx](https://www.elfinanciero.com.mx/estados/2026/07/06/quien-fue-samir-flores-el-activista-por-el-que-protestaron-contra-cuauhtemoc-blanco/)",
-          "recomendacion": "",
-          "fecha": "8 julio 2026 · 15:38 CST",
-          "fecha_iso": "2026-07-08T15:38:00-06:00",
-          "fuente": "Telegram @NOTMEX",
-          "url": "https://t.me/NOTMEX/184446",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        },
-        {
-          "id": "5619a8f0",
-          "tipo": "bloqueo",
-          "ruta": "Manifestantes toman casetas de la México-Puebla ante los hechos ocurridos…",
-          "descripcion": "Manifestantes toman casetas de la México-Puebla ante los hechos ocurridos en la preparatoria 122 - Portal Liberación. Manifestantes toman casetas de la México-Puebla ante los hechos ocurridos en la preparatoria 122 Portal Liberación",
-          "recomendacion": "",
-          "fecha": "8 julio 2026 · 14:51 CST",
-          "fecha_iso": "2026-07-08T14:51:00-06:00",
-          "fuente": "Portal Liberación",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNU2tuQnlzcUJGM3U1TTEtUEpDbU8zQXF1ZWdtblBTd3hHY3B4UzVzUkdIUWMtLXN6UXhqVFNHTk9JZXJEWVVaME1KQllZemZRdVFQcS1pb3JSMjh6Qm9zd1R3eEQ0d1U2b3BIbTNsOEt6NXptb2ZZbXpkbjVuVDZsTzJDSHdvZmdpZWlubVVCN284YTVEbUl3U3NFNnkyVUxCekdiaXdmSDEtQWM3b0NZNVRneUhKb0x0VDgyclV1Nzcxa1NsTjlfVUNvT1c?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 19.35,
-          "lon": -98.4
-        }
-      ]
-    },
-    {
       "tipo": "cierre_parcial",
       "color": "amarillo",
       "icono": "🟡",
@@ -79,35 +39,37 @@
       "col2": true,
       "alertas": [
         {
-          "id": "744e219e",
+          "id": "edd42bc6",
           "tipo": "cierre_parcial",
-          "ruta": "'El Señor de los Cielos': ¿cuándo y dónde se podrá…",
-          "descripcion": "'El Señor de los Cielos': ¿cuándo y dónde se podrá ver en streaming la temporada 10?. La décima temporada inicia el cierre de una de las producciones más vistas de Latinoamérica, con una trama cargada de acción y nuevos desafíos",
+          "ruta": "Gobierno de Michoacán reduce en más del 60% la superficie…",
+          "descripcion": "Gobierno de Michoacán reduce en más del 60% la superficie afectada por incendios forestales. Alfredo Ramírez Bedolla, gobernador de Michoacán, destacó que se redujo más del 60% la superficie afectada por incendios forestales.",
           "recomendacion": "",
-          "fecha": "8 julio 2026 · 16:00 CST",
-          "fecha_iso": "2026-07-08T16:00:00-06:00",
-          "fuente": "El Informador Jalisco",
-          "url": "https://www.informador.mx/entretenimiento/el-senor-de-los-cielos-cuando-y-donde-se-podra-ver-en-streaming-la-temporada-10-20260708-0151.html",
+          "fecha": "8 julio 2026 · 17:43 CST",
+          "fecha_iso": "2026-07-08T17:43:00-06:00",
+          "fuente": "24 Horas",
+          "url": "https://24-horas.mx/estados/gobierno-de-michoacan-reduce-en-mas-del-60-la-superficie-afectada-por-incendios-forestales/",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 19.7,
+          "lon": -101.19
         }
       ]
     }
   ],
   "para_mapa": [
     {
-      "id": "5619a8f0",
-      "tipo": "bloqueo",
-      "ruta": "Manifestantes toman casetas de la México-Puebla ante los hechos ocurridos…",
-      "descripcion": "Manifestantes toman casetas de la México-Puebla ante los hechos ocurridos en la preparatoria 122 - Portal Liberación. Manifestantes toman casetas de la México-Puebla ante los hechos ocurridos en la preparatoria 122 Portal Liberación",
-      "fecha": "8 julio 2026 · 14:51 CST",
-      "fuente": "Portal Liberación",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNU2tuQnlzcUJGM3U1TTEtUEpDbU8zQXF1ZWdtblBTd3hHY3B4UzVzUkdIUWMtLXN6UXhqVFNHTk9JZXJEWVVaME1KQllZemZRdVFQcS1pb3JSMjh6Qm9zd1R3eEQ0d1U2b3BIbTNsOEt6NXptb2ZZbXpkbjVuVDZsTzJDSHdvZmdpZWlubVVCN284YTVEbUl3U3NFNnkyVUxCekdiaXdmSDEtQWM3b0NZNVRneUhKb0x0VDgyclV1Nzcxa1NsTjlfVUNvT1c?oc=5",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 19.35,
-      "lon": -98.4
+      "id": "edd42bc6",
+      "tipo": "cierre_parcial",
+      "ruta": "Gobierno de Michoacán reduce en más del 60% la superficie…",
+      "descripcion": "Gobierno de Michoacán reduce en más del 60% la superficie afectada por incendios forestales. Alfredo Ramírez Bedolla, gobernador de Michoacán, destacó que se redujo más del 60% la superficie afectada por incendios forestales.",
+      "fecha": "8 julio 2026 · 17:43 CST",
+      "fuente": "24 Horas",
+      "url": "https://24-horas.mx/estados/gobierno-de-michoacan-reduce-en-mas-del-60-la-superficie-afectada-por-incendios-forestales/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 19.7,
+      "lon": -101.19
     }
   ]
 }
