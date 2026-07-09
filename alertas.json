@@ -1,50 +1,12 @@
 {
-  "ultima_actualizacion": "2026-07-09T08:17:23.457368-06:00",
-  "ultima_actualizacion_legible": "9 de julio de 2026 · 08:17 CST",
-  "total": 4,
+  "ultima_actualizacion": "2026-07-09T11:02:11.593570-06:00",
+  "ultima_actualizacion_legible": "9 de julio de 2026 · 11:02 CST",
+  "total": 1,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Google News",
-    "Quadratín + regionales"
+    "Google News"
   ],
   "grupos": [
-    {
-      "tipo": "bloqueo",
-      "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "96635904",
-          "tipo": "bloqueo",
-          "ruta": "Bloqueos en carreteras EN VIVO hoy: ¿Qué pasa en las…",
-          "descripcion": "Bloqueos en carreteras EN VIVO hoy: ¿Qué pasa en las autopistas de México este 9 de julio? - TV Azteca. Bloqueos en carreteras EN VIVO hoy: ¿Qué pasa en las autopistas de México este 9 de julio? TV Azteca",
-          "recomendacion": "",
-          "fecha": "9 julio 2026 · 07:16 CST",
-          "fecha_iso": "2026-07-09T07:16:00-06:00",
-          "fuente": "TV Azteca",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeGhrX055dU1jclVIVTVkNVhJTjF2WTNHZkhWNTRGTF9TbVAtalMtdzJseWkxNDFfQktOVHpqUzNkRnpTWWNwdE5id1YzLXM3V3VOLWZfZDZYNG1MUnpHdzlCNFdQWDdXbHozN0NKRzRTbUxhR2d4UF9ZZ2cwWi16ZmFEdVRBZjdTTGIxZmNKOXkwa05tQXh5X2hTMTdVN08yZU9EVW9xQkJvOEd5UGxBT2hCZXbSAcIBQVVfeXFMT3RmQ1hCUnBwSEtsUTBkZGQ1b0pTVGJBcGYxeVV3N19idUJscWl3VWN5SjdFUjZfbUZEMDhjbXM1clotUU5fVkNuVlJwNlZlS1hfREo3S0JsU2NBWVBlaUxGMzZvUUpxdHYtZ2xGeWFlQUlLakRaamF1UkNnUUZOenJBQm92eW8zOXVwRnRZOXNxYVYtQkpuUTdZY29JMW95SUxvZkF5ODVXTDBSRnlvMUo2bVlIM0EzMGVEWmtkZVJUMkE?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        },
-        {
-          "id": "0824cdfa",
-          "tipo": "bloqueo",
-          "ruta": "Bloqueos carreteras HOY 9 de julio: Autopistas cerradas en México,…",
-          "descripcion": "Bloqueos carreteras HOY 9 de julio: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 9 de julio: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
-          "recomendacion": "",
-          "fecha": "9 julio 2026 · 07:05 CST",
-          "fecha_iso": "2026-07-09T07:05:00-06:00",
-          "fuente": "Eje Central",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQZzNnbmtLQWNGZVM5RUE1MUVaMUVzc1doYmxEUHBRSW5OOS1rZHRqOFdDRUR0NDQ3OVNrUlRpbHJteENvY3RMczlkMXE2MkV1b2pBVmVDTnhhb1I3d2htcWJleEI2YlprbEtZYW5SZFFhbkduOTlOMnJhcnVRU2VlWHp3cFNMXzEwZU5XS0RBSkRrQkJRZmNyVS1qTnhsV3VSanZwbFQ5Q2owbms3WllZaE16MXZtNzEtb253MmlQc2pPMy1MOEhhZE1vSkpJTGFydU93WmN4Sm1MZEhNdTROa0o1M3o2Zw?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        }
-      ]
-    },
     {
       "tipo": "cierre_parcial",
       "color": "amarillo",
@@ -67,46 +29,7 @@
           "badge_txt": "CIERRE PARCIAL"
         }
       ]
-    },
-    {
-      "tipo": "carga_vehicular",
-      "color": "azul",
-      "icono": "🚗",
-      "label": "CARGA VEHICULAR",
-      "col2": true,
-      "alertas": [
-        {
-          "id": "1792ae1f",
-          "tipo": "carga_vehicular",
-          "ruta": "Inundaciones y caos vial en Puebla tras intensas lluvias…",
-          "descripcion": "Inundaciones y caos vial en Puebla tras intensas lluvias. Lluvias extraordinarias desbordan el río Atoyac y colapsan vialidades.",
-          "recomendacion": "",
-          "fecha": "9 julio 2026 · 07:20 CST",
-          "fecha_iso": "2026-07-09T07:20:00-06:00",
-          "fuente": "Quadratín Puebla",
-          "url": "https://puebla.quadratin.com.mx/sucesos/inundaciones-y-caos-vial-en-puebla-tras-intensas-lluvias/",
-          "dot_color": "#2980b9",
-          "badge": "badge-carga",
-          "badge_txt": "CARGA VEHICULAR",
-          "lat": 19.04,
-          "lon": -98.2
-        }
-      ]
     }
   ],
-  "para_mapa": [
-    {
-      "id": "1792ae1f",
-      "tipo": "carga_vehicular",
-      "ruta": "Inundaciones y caos vial en Puebla tras intensas lluvias…",
-      "descripcion": "Inundaciones y caos vial en Puebla tras intensas lluvias. Lluvias extraordinarias desbordan el río Atoyac y colapsan vialidades.",
-      "fecha": "9 julio 2026 · 07:20 CST",
-      "fuente": "Quadratín Puebla",
-      "url": "https://puebla.quadratin.com.mx/sucesos/inundaciones-y-caos-vial-en-puebla-tras-intensas-lluvias/",
-      "dot_color": "#2980b9",
-      "badge_txt": "CARGA VEHICULAR",
-      "lat": 19.04,
-      "lon": -98.2
-    }
-  ]
+  "para_mapa": []
 }
