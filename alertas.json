@@ -1,12 +1,59 @@
 {
-  "ultima_actualizacion": "2026-07-09T17:37:49.253282-06:00",
-  "ultima_actualizacion_legible": "9 de julio de 2026 · 17:37 CST",
-  "total": 0,
+  "ultima_actualizacion": "2026-07-09T19:17:33.682283-06:00",
+  "ultima_actualizacion_legible": "9 de julio de 2026 · 19:17 CST",
+  "total": 2,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Google News"
+    "Medios regionales",
+    "Quadratín + regionales"
   ],
-  "grupos": [],
-  "para_mapa": [],
-  "nota": "Sin alertas activas en la ventana de tiempo configurada."
+  "grupos": [
+    {
+      "tipo": "bloqueo",
+      "color": "rojo",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "12b62b8c",
+          "tipo": "bloqueo",
+          "ruta": "Fallece Cristina Sanz, estrella del reality show Born This Way…",
+          "descripcion": "Fallece Cristina Sanz, estrella del reality show Born This Way. Murió este lunes a los 36 años de edad a causa de un paro cardíaco repentino.",
+          "recomendacion": "",
+          "fecha": "9 julio 2026 · 17:49 CST",
+          "fecha_iso": "2026-07-09T17:49:00-06:00",
+          "fuente": "Quadratín Jalisco",
+          "url": "https://jalisco.quadratin.com.mx/principal/fallece-cristina-sanz-estrella-del-reality-show-born-this-way/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        }
+      ]
+    },
+    {
+      "tipo": "cierre_parcial",
+      "color": "amarillo",
+      "icono": "🟡",
+      "label": "CIERRE PARCIAL / ACCIDENTES",
+      "col2": true,
+      "alertas": [
+        {
+          "id": "712d27c8",
+          "tipo": "cierre_parcial",
+          "ruta": "La BMV retrocede 0.75 %, contrario a índices de EU,…",
+          "descripcion": "La BMV retrocede 0.75 %, contrario a índices de EU, y cae a 66 mil 107.28 puntos. Con el cierre negativo de este jueves, el IPC se apunta una baja del -1.28 % en el inicio de julio",
+          "recomendacion": "",
+          "fecha": "9 julio 2026 · 19:09 CST",
+          "fecha_iso": "2026-07-09T19:09:00-06:00",
+          "fuente": "El Informador Jalisco",
+          "url": "https://www.informador.mx/economia/la-bmv-retrocede-0.75--contrario-a-indices-de-eu-y-cae-a-66-mil-107.28-puntos-20260709-0187.html",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        }
+      ]
+    }
+  ],
+  "para_mapa": []
 }
