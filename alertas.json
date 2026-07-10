@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-07-10T16:16:39.059447-06:00",
-  "ultima_actualizacion_legible": "10 de julio de 2026 · 16:16 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-07-10T17:16:52.140741-06:00",
+  "ultima_actualizacion_legible": "10 de julio de 2026 · 17:16 CST",
+  "total": 1,
   "ventana": "últimos 180 minutos",
   "fuentes": [
     "Quadratín + regionales"
@@ -29,22 +29,6 @@
           "badge_txt": "CIERRE PARCIAL",
           "lat": 20.66,
           "lon": -103.35
-        },
-        {
-          "id": "036ad855",
-          "tipo": "cierre_parcial",
-          "ruta": "Economía mexicana se fortalece con empleos de calidad…",
-          "descripcion": "Economía mexicana se fortalece con empleos de calidad. Esta semana el Director General del IMSS, Zoé Robledo, anunció las cifras de generación de empleo al cierre de junio de 2026. Las cuales alcanzaron los 22 millones 779 empleos registrados. Tan solo durante el mes de junio se crearon 61 mil nuevos empleos, siendo las entidades de Baja California, Jalisco y Ciudad de México […]",
-          "recomendacion": "",
-          "fecha": "10 julio 2026 · 13:19 CST",
-          "fecha_iso": "2026-07-10T13:19:00-06:00",
-          "fuente": "Quadratín Veracruz",
-          "url": "https://veracruz.quadratin.com.mx/economia-mexicana-se-fortalece-con-empleos-de-calidad/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 20.66,
-          "lon": -103.35
         }
       ]
     }
@@ -58,19 +42,6 @@
       "fecha": "10 julio 2026 · 15:33 CST",
       "fuente": "Quadratín Jalisco",
       "url": "https://jalisco.quadratin.com.mx/salud/jalisco-registra-tendencia-sostenida-a-la-baja-en-casos-de-sarampion/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 20.66,
-      "lon": -103.35
-    },
-    {
-      "id": "036ad855",
-      "tipo": "cierre_parcial",
-      "ruta": "Economía mexicana se fortalece con empleos de calidad…",
-      "descripcion": "Economía mexicana se fortalece con empleos de calidad. Esta semana el Director General del IMSS, Zoé Robledo, anunció las cifras de generación de empleo al cierre de junio de 2026. Las cuales alcanzaron los 22 millones 779 empleos registrados. Tan solo durante el mes de junio se crearon 61 mil nuevos empleos, siendo las entidades de Baja California, Jalisco y Ciudad de México […]",
-      "fecha": "10 julio 2026 · 13:19 CST",
-      "fuente": "Quadratín Veracruz",
-      "url": "https://veracruz.quadratin.com.mx/economia-mexicana-se-fortalece-con-empleos-de-calidad/",
       "dot_color": "#e67e22",
       "badge_txt": "CIERRE PARCIAL",
       "lat": 20.66,
