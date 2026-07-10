@@ -1,12 +1,35 @@
 {
-  "ultima_actualizacion": "2026-07-10T02:52:19.592926-06:00",
-  "ultima_actualizacion_legible": "10 de julio de 2026 · 02:52 CST",
-  "total": 0,
+  "ultima_actualizacion": "2026-07-10T05:50:01.742986-06:00",
+  "ultima_actualizacion_legible": "10 de julio de 2026 · 05:50 CST",
+  "total": 1,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Google News"
+    "Medios nacionales"
   ],
-  "grupos": [],
-  "para_mapa": [],
-  "nota": "Sin alertas activas en la ventana de tiempo configurada."
+  "grupos": [
+    {
+      "tipo": "bloqueo",
+      "color": "rojo",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "9138f6bb",
+          "tipo": "bloqueo",
+          "ruta": "Lorenzo salió de Tlatlaya hace 35 años, ICE lo mató…",
+          "descripcion": "Lorenzo salió de Tlatlaya hace 35 años, ICE lo mató camino al trabajo. Lorenzo Salgado nació en 1974 en Tlatlaya, levantó un pequeño negocio de construcción y una casa en Houston. Un agente de ICE le disparó.",
+          "recomendacion": "",
+          "fecha": "10 julio 2026 · 03:00 CST",
+          "fecha_iso": "2026-07-10T03:00:00-06:00",
+          "fuente": "24 Horas",
+          "url": "https://24-horas.mx/mundo/lorenzo-salio-de-tlatlaya-hace-35-anos-ice-lo-mato-camino-al-trabajo/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        }
+      ]
+    }
+  ],
+  "para_mapa": []
 }
