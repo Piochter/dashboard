@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-07-10T13:52:56.294488-06:00",
-  "ultima_actualizacion_legible": "10 de julio de 2026 · 13:52 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-07-10T15:05:09.872512-06:00",
+  "ultima_actualizacion_legible": "10 de julio de 2026 · 15:05 CST",
+  "total": 1,
   "ventana": "últimos 180 minutos",
   "fuentes": [
     "Quadratín + regionales"
@@ -29,22 +29,6 @@
           "badge_txt": "CIERRE PARCIAL",
           "lat": 20.66,
           "lon": -103.35
-        },
-        {
-          "id": "7ca9711a",
-          "tipo": "cierre_parcial",
-          "ruta": "Aguacate lidera alza de precios en México…",
-          "descripcion": "Aguacate lidera alza de precios en México. El jitomate presentó la mayor caída, con una reducción de 42.57 por ciento",
-          "recomendacion": "",
-          "fecha": "10 julio 2026 · 11:59 CST",
-          "fecha_iso": "2026-07-10T11:59:00-06:00",
-          "fuente": "Quadratín Oaxaca",
-          "url": "https://oaxaca.quadratin.com.mx/aguacate-lidera-alza-de-precios-en-mexico/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 21.5,
-          "lon": -100.0
         }
       ]
     }
@@ -62,19 +46,6 @@
       "badge_txt": "CIERRE PARCIAL",
       "lat": 20.66,
       "lon": -103.35
-    },
-    {
-      "id": "7ca9711a",
-      "tipo": "cierre_parcial",
-      "ruta": "Aguacate lidera alza de precios en México…",
-      "descripcion": "Aguacate lidera alza de precios en México. El jitomate presentó la mayor caída, con una reducción de 42.57 por ciento",
-      "fecha": "10 julio 2026 · 11:59 CST",
-      "fuente": "Quadratín Oaxaca",
-      "url": "https://oaxaca.quadratin.com.mx/aguacate-lidera-alza-de-precios-en-mexico/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 21.5,
-      "lon": -100.0
     }
   ]
 }
