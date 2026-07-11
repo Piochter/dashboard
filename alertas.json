@@ -1,10 +1,11 @@
 {
-  "ultima_actualizacion": "2026-07-11T07:54:32.428286-06:00",
-  "ultima_actualizacion_legible": "11 de julio de 2026 · 07:54 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-07-11T08:51:10.668054-06:00",
+  "ultima_actualizacion_legible": "11 de julio de 2026 · 08:51 CST",
+  "total": 3,
   "ventana": "últimos 180 minutos",
   "fuentes": [
     "Google News",
+    "Medios regionales",
     "Telegram"
   ],
   "grupos": [
@@ -15,6 +16,20 @@
       "label": "BLOQUEOS / MANIFESTACIONES",
       "col2": false,
       "alertas": [
+        {
+          "id": "e864fdc8",
+          "tipo": "bloqueo",
+          "ruta": "Albañil recibe varios disparos en la cabeza cuando comía en…",
+          "descripcion": "Albañil recibe varios disparos en la cabeza cuando comía en construcción de Irapuato. El crimen se registró aproximadamente a las 5:00 de la tarde del viernes 10 de julio, cuando el trabajador se encontraba haciendo trabajos de albañilería en la calle Álvaro Obregón, entre la calle Caudillo del Sur y el andador con el mismo nombre.",
+          "recomendacion": "",
+          "fecha": "11 julio 2026 · 08:23 CST",
+          "fecha_iso": "2026-07-11T08:23:00-06:00",
+          "fuente": "AM Guanajuato",
+          "url": "https://www.am.com.mx/irapuato/2026/07/11/albanil-recibe-disparos-en-la-cabeza-en-irapuato-queda-grave-1818241.html",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
         {
           "id": "30fd2e7d",
           "tipo": "bloqueo",
