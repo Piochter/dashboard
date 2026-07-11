@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-07-11T11:54:30.628658-06:00",
-  "ultima_actualizacion_legible": "11 de julio de 2026 · 11:54 CST",
-  "total": 5,
+  "ultima_actualizacion": "2026-07-11T12:58:18.782981-06:00",
+  "ultima_actualizacion_legible": "11 de julio de 2026 · 12:58 CST",
+  "total": 4,
   "ventana": "últimos 180 minutos",
   "fuentes": [
     "Google News",
@@ -31,20 +31,6 @@
           "badge_txt": "CIERRE TOTAL",
           "lat": 19.7,
           "lon": -101.19
-        },
-        {
-          "id": "001f6312",
-          "tipo": "cierre_total",
-          "ruta": "Cierre total en la Siglo 21 por volcadura de pipa…",
-          "descripcion": "Cierre total en la Siglo 21 por volcadura de pipa en Arteaga. El cierre afectó ambos sentidos de la vialidad",
-          "recomendacion": "",
-          "fecha": "11 julio 2026 · 10:04 CST",
-          "fecha_iso": "2026-07-11T10:04:00-06:00",
-          "fuente": "Quadratín Michoacán",
-          "url": "https://www.quadratin.com.mx/sucesos/cierre-total-en-la-siglo-21-por-volcadura-de-pipa-en-arteaga/",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL"
         }
       ]
     },
@@ -79,6 +65,20 @@
       "col2": true,
       "alertas": [
         {
+          "id": "15fc1d3d",
+          "tipo": "cierre_parcial",
+          "ruta": "Conductor vuelca su Audi en la autopista a Atlixco; permanece…",
+          "descripcion": "Conductor vuelca su Audi en la autopista a Atlixco; permanece lesionado. Tras el accidente, no pudo salir del vehículo debido a las lesiones.",
+          "recomendacion": "",
+          "fecha": "11 julio 2026 · 12:56 CST",
+          "fecha_iso": "2026-07-11T12:56:00-06:00",
+          "fuente": "Quadratín Puebla",
+          "url": "https://puebla.quadratin.com.mx/uncategorized/conductor-vuelca-su-audi-en-la-autopista-a-atlixco-permanece-lesionado/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        },
+        {
           "id": "124c0299",
           "tipo": "cierre_parcial",
           "ruta": "Reporta GobMich disminución del 56% en incendios en Lago de…",
@@ -91,31 +91,6 @@
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL"
-        }
-      ]
-    },
-    {
-      "tipo": "clima",
-      "color": "azul",
-      "icono": "🌧️",
-      "label": "ALERTA METEOROLÓGICA",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "42fe1aa9",
-          "tipo": "clima",
-          "ruta": "Lluvia y granizo causan inundaciones en Puebla…",
-          "descripcion": "Lluvia y granizo causan inundaciones en Puebla. Lluvias intensas y granizo afectan vialidades en Puebla capital.",
-          "recomendacion": "",
-          "fecha": "11 julio 2026 · 09:50 CST",
-          "fecha_iso": "2026-07-11T09:50:00-06:00",
-          "fuente": "Quadratín Puebla",
-          "url": "https://puebla.quadratin.com.mx/sucesos/lluvia-y-granizo-causan-inundaciones-en-puebla/",
-          "dot_color": "#3498db",
-          "badge": "badge-clima",
-          "badge_txt": "ALERTA CLIMA",
-          "lat": 19.04,
-          "lon": -98.2
         }
       ]
     }
@@ -133,19 +108,6 @@
       "badge_txt": "CIERRE TOTAL",
       "lat": 19.7,
       "lon": -101.19
-    },
-    {
-      "id": "42fe1aa9",
-      "tipo": "clima",
-      "ruta": "Lluvia y granizo causan inundaciones en Puebla…",
-      "descripcion": "Lluvia y granizo causan inundaciones en Puebla. Lluvias intensas y granizo afectan vialidades en Puebla capital.",
-      "fecha": "11 julio 2026 · 09:50 CST",
-      "fuente": "Quadratín Puebla",
-      "url": "https://puebla.quadratin.com.mx/sucesos/lluvia-y-granizo-causan-inundaciones-en-puebla/",
-      "dot_color": "#3498db",
-      "badge_txt": "ALERTA CLIMA",
-      "lat": 19.04,
-      "lon": -98.2
     }
   ]
 }
