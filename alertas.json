@@ -1,90 +1,51 @@
 {
-  "ultima_actualizacion": "2026-07-11T08:51:10.668054-06:00",
-  "ultima_actualizacion_legible": "11 de julio de 2026 · 08:51 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-07-11T09:54:02.904071-06:00",
+  "ultima_actualizacion_legible": "11 de julio de 2026 · 09:54 CST",
+  "total": 1,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Google News",
-    "Medios regionales",
-    "Telegram"
+    "Quadratín + regionales"
   ],
   "grupos": [
     {
-      "tipo": "bloqueo",
-      "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
+      "tipo": "clima",
+      "color": "azul",
+      "icono": "🌧️",
+      "label": "ALERTA METEOROLÓGICA",
       "col2": false,
       "alertas": [
         {
-          "id": "e864fdc8",
-          "tipo": "bloqueo",
-          "ruta": "Albañil recibe varios disparos en la cabeza cuando comía en…",
-          "descripcion": "Albañil recibe varios disparos en la cabeza cuando comía en construcción de Irapuato. El crimen se registró aproximadamente a las 5:00 de la tarde del viernes 10 de julio, cuando el trabajador se encontraba haciendo trabajos de albañilería en la calle Álvaro Obregón, entre la calle Caudillo del Sur y el andador con el mismo nombre.",
+          "id": "42fe1aa9",
+          "tipo": "clima",
+          "ruta": "Lluvia y granizo causan inundaciones en Puebla…",
+          "descripcion": "Lluvia y granizo causan inundaciones en Puebla. Lluvias intensas y granizo afectan vialidades en Puebla capital.",
           "recomendacion": "",
-          "fecha": "11 julio 2026 · 08:23 CST",
-          "fecha_iso": "2026-07-11T08:23:00-06:00",
-          "fuente": "AM Guanajuato",
-          "url": "https://www.am.com.mx/irapuato/2026/07/11/albanil-recibe-disparos-en-la-cabeza-en-irapuato-queda-grave-1818241.html",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        },
-        {
-          "id": "30fd2e7d",
-          "tipo": "bloqueo",
-          "ruta": "Protestan vecinos de 5 alcaldías de Jalisco por la mala…",
-          "descripcion": "Protestan vecinos de 5 alcaldías de Jalisco por la mala calidad del agua\nhttps://www.jornada.com.mx/2026/07/11/estados/022n1est?partner=rss\n\nGuadalajara, Jal., Habitantes de al menos cinco municipios inconformes por el agua contaminada que reciben del Sistema Intermunicipal de Agua Potable y Alcantarillado (Siapa) se manifestaron ayer afuera del organismo para entregar el monitoreo comunitario de la calidad del líquido en la zona metropolitana de Guadalajara, bajo el lema “Agua para la vida y no",
-          "recomendacion": "",
-          "fecha": "11 julio 2026 · 06:13 CST",
-          "fecha_iso": "2026-07-11T06:13:00-06:00",
-          "fuente": "Telegram @NOTMEX",
-          "url": "https://t.me/NOTMEX/184516",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 20.66,
-          "lon": -103.35
-        }
-      ]
-    },
-    {
-      "tipo": "cierre_parcial",
-      "color": "amarillo",
-      "icono": "🟡",
-      "label": "CIERRE PARCIAL / ACCIDENTES",
-      "col2": true,
-      "alertas": [
-        {
-          "id": "442f0e2a",
-          "tipo": "cierre_parcial",
-          "ruta": "Carreteras Bloqueadas en México Hoy, Sábado 11 de Julio 2026…",
-          "descripcion": "Carreteras Bloqueadas en México Hoy, Sábado 11 de Julio 2026 - N+. Carreteras Bloqueadas en México Hoy, Sábado 11 de Julio 2026 N+",
-          "recomendacion": "",
-          "fecha": "11 julio 2026 · 06:45 CST",
-          "fecha_iso": "2026-07-11T06:45:00-06:00",
-          "fuente": "N+",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQUltN0UzNTdxaFJ2bEo0RlkyT1ZQSFRoWG9ZWTRlQ25uSzNmQ2E5S2duWHFrdlozMkk0eTk3VExlU3o1cnB6T0hKSG9XRDdjV0QzZTFMOXBheG9DYXFFMjUwMW5Qa0I4eVVpcUFhdWxFc2pUZVRPa3VEY0lFekY4dl9QbnNXYkZyTFlKVGhKTHZZcFJiMzFBclhn?oc=5",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
+          "fecha": "11 julio 2026 · 09:50 CST",
+          "fecha_iso": "2026-07-11T09:50:00-06:00",
+          "fuente": "Quadratín Puebla",
+          "url": "https://puebla.quadratin.com.mx/sucesos/lluvia-y-granizo-causan-inundaciones-en-puebla/",
+          "dot_color": "#3498db",
+          "badge": "badge-clima",
+          "badge_txt": "ALERTA CLIMA",
+          "lat": 19.04,
+          "lon": -98.2
         }
       ]
     }
   ],
   "para_mapa": [
     {
-      "id": "30fd2e7d",
-      "tipo": "bloqueo",
-      "ruta": "Protestan vecinos de 5 alcaldías de Jalisco por la mala…",
-      "descripcion": "Protestan vecinos de 5 alcaldías de Jalisco por la mala calidad del agua\nhttps://www.jornada.com.mx/2026/07/11/estados/022n1est?partner=rss\n\nGuadalajara, Jal., Habitantes de al menos cinco municipios inconformes por el agua contaminada que reciben del Sistema Intermunicipal de Agua Potable y Alcantarillado (Siapa) se manifestaron ayer afuera del organismo para entregar el monitoreo comunitario de la calidad del líquido en la zona metropolitana de Guadalajara, bajo el lema “Agua para la vida y no",
-      "fecha": "11 julio 2026 · 06:13 CST",
-      "fuente": "Telegram @NOTMEX",
-      "url": "https://t.me/NOTMEX/184516",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 20.66,
-      "lon": -103.35
+      "id": "42fe1aa9",
+      "tipo": "clima",
+      "ruta": "Lluvia y granizo causan inundaciones en Puebla…",
+      "descripcion": "Lluvia y granizo causan inundaciones en Puebla. Lluvias intensas y granizo afectan vialidades en Puebla capital.",
+      "fecha": "11 julio 2026 · 09:50 CST",
+      "fuente": "Quadratín Puebla",
+      "url": "https://puebla.quadratin.com.mx/sucesos/lluvia-y-granizo-causan-inundaciones-en-puebla/",
+      "dot_color": "#3498db",
+      "badge_txt": "ALERTA CLIMA",
+      "lat": 19.04,
+      "lon": -98.2
     }
   ]
 }
