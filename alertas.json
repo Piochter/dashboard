@@ -1,35 +1,12 @@
 {
-  "ultima_actualizacion": "2026-07-10T21:44:34.937840-06:00",
-  "ultima_actualizacion_legible": "10 de julio de 2026 · 21:44 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-07-11T02:15:52.693701-06:00",
+  "ultima_actualizacion_legible": "11 de julio de 2026 · 02:15 CST",
+  "total": 0,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Medios regionales"
+    "Google News"
   ],
-  "grupos": [
-    {
-      "tipo": "carga_vehicular",
-      "color": "azul",
-      "icono": "🚗",
-      "label": "CARGA VEHICULAR",
-      "col2": true,
-      "alertas": [
-        {
-          "id": "02314aca",
-          "tipo": "carga_vehicular",
-          "ruta": "Colapsa campamento en Missouri por inundaciones; rescatan a 20 personas…",
-          "descripcion": "Colapsa campamento en Missouri por inundaciones; rescatan a 20 personas. Las víctimas se encontraban en la parte superior de un edificio en el campamento Bearcat Getaway cuando la estructura se vino abajo",
-          "recomendacion": "",
-          "fecha": "10 julio 2026 · 18:48 CST",
-          "fecha_iso": "2026-07-10T18:48:00-06:00",
-          "fuente": "El Informador Jalisco",
-          "url": "https://www.informador.mx/internacional/colapsa-campamento-en-missouri-por-inundaciones-rescatan-a-20-personas-20260710-0164.html",
-          "dot_color": "#2980b9",
-          "badge": "badge-carga",
-          "badge_txt": "CARGA VEHICULAR"
-        }
-      ]
-    }
-  ],
-  "para_mapa": []
+  "grupos": [],
+  "para_mapa": [],
+  "nota": "Sin alertas activas en la ventana de tiempo configurada."
 }
