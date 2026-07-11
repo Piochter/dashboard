@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-07-11T10:55:04.473140-06:00",
-  "ultima_actualizacion_legible": "11 de julio de 2026 · 10:55 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-07-11T11:54:30.628658-06:00",
+  "ultima_actualizacion_legible": "11 de julio de 2026 · 11:54 CST",
+  "total": 5,
   "ventana": "últimos 180 minutos",
   "fuentes": [
     "Google News",
@@ -16,6 +16,22 @@
       "label": "CIERRE TOTAL",
       "col2": false,
       "alertas": [
+        {
+          "id": "c86e6f0a",
+          "tipo": "cierre_total",
+          "ruta": "Cierre total en la Siglo 21 por volcadura de pipa…",
+          "descripcion": "Cierre total en la Siglo 21 por volcadura de pipa en Arteaga, Michoacán. El hecho, antes de la caseta de Las Cañas",
+          "recomendacion": "",
+          "fecha": "11 julio 2026 · 10:25 CST",
+          "fecha_iso": "2026-07-11T10:25:00-06:00",
+          "fuente": "Quadratín Guerrero",
+          "url": "https://guerrero.quadratin.com.mx/cierre-total-en-la-siglo-21-por-volcadura-de-pipa-en-arteaga-michoacan/",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL",
+          "lat": 19.7,
+          "lon": -101.19
+        },
         {
           "id": "001f6312",
           "tipo": "cierre_total",
@@ -56,6 +72,29 @@
       ]
     },
     {
+      "tipo": "cierre_parcial",
+      "color": "amarillo",
+      "icono": "🟡",
+      "label": "CIERRE PARCIAL / ACCIDENTES",
+      "col2": true,
+      "alertas": [
+        {
+          "id": "124c0299",
+          "tipo": "cierre_parcial",
+          "ruta": "Reporta GobMich disminución del 56% en incendios en Lago de…",
+          "descripcion": "Reporta GobMich disminución del 56% en incendios en Lago de Pátzcuaro. Se atendieron 19 incendios forestales en la ribera del cuerpo de agua",
+          "recomendacion": "",
+          "fecha": "11 julio 2026 · 11:39 CST",
+          "fecha_iso": "2026-07-11T11:39:00-06:00",
+          "fuente": "Quadratín Michoacán",
+          "url": "https://www.quadratin.com.mx/medio-ambiente/reporta-gobmich-disminucion-del-56-en-incendios-en-lago-de-patzcuaro/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        }
+      ]
+    },
+    {
       "tipo": "clima",
       "color": "azul",
       "icono": "🌧️",
@@ -82,6 +121,19 @@
     }
   ],
   "para_mapa": [
+    {
+      "id": "c86e6f0a",
+      "tipo": "cierre_total",
+      "ruta": "Cierre total en la Siglo 21 por volcadura de pipa…",
+      "descripcion": "Cierre total en la Siglo 21 por volcadura de pipa en Arteaga, Michoacán. El hecho, antes de la caseta de Las Cañas",
+      "fecha": "11 julio 2026 · 10:25 CST",
+      "fuente": "Quadratín Guerrero",
+      "url": "https://guerrero.quadratin.com.mx/cierre-total-en-la-siglo-21-por-volcadura-de-pipa-en-arteaga-michoacan/",
+      "dot_color": "#e74c3c",
+      "badge_txt": "CIERRE TOTAL",
+      "lat": 19.7,
+      "lon": -101.19
+    },
     {
       "id": "42fe1aa9",
       "tipo": "clima",
