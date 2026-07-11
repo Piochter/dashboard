@@ -1,62 +1,12 @@
 {
-  "ultima_actualizacion": "2026-07-11T12:58:18.782981-06:00",
-  "ultima_actualizacion_legible": "11 de julio de 2026 · 12:58 CST",
-  "total": 4,
+  "ultima_actualizacion": "2026-07-11T14:06:50.901388-06:00",
+  "ultima_actualizacion_legible": "11 de julio de 2026 · 14:06 CST",
+  "total": 1,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Google News",
-    "Medios regionales",
     "Quadratín + regionales"
   ],
   "grupos": [
-    {
-      "tipo": "cierre_total",
-      "color": "rojo",
-      "icono": "🔴",
-      "label": "CIERRE TOTAL",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "c86e6f0a",
-          "tipo": "cierre_total",
-          "ruta": "Cierre total en la Siglo 21 por volcadura de pipa…",
-          "descripcion": "Cierre total en la Siglo 21 por volcadura de pipa en Arteaga, Michoacán. El hecho, antes de la caseta de Las Cañas",
-          "recomendacion": "",
-          "fecha": "11 julio 2026 · 10:25 CST",
-          "fecha_iso": "2026-07-11T10:25:00-06:00",
-          "fuente": "Quadratín Guerrero",
-          "url": "https://guerrero.quadratin.com.mx/cierre-total-en-la-siglo-21-por-volcadura-de-pipa-en-arteaga-michoacan/",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL",
-          "lat": 19.7,
-          "lon": -101.19
-        }
-      ]
-    },
-    {
-      "tipo": "bloqueo",
-      "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "ee1bdfd0",
-          "tipo": "bloqueo",
-          "ruta": "Bloqueos carreteras HOY 11 de julio: Autopistas cerradas en México,…",
-          "descripcion": "Bloqueos carreteras HOY 11 de julio: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 11 de julio: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
-          "recomendacion": "",
-          "fecha": "11 julio 2026 · 09:57 CST",
-          "fecha_iso": "2026-07-11T09:57:00-06:00",
-          "fuente": "Eje Central",
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPbElmNVZLSTRONDZjTTUzREc3NlRoMFNzc0pzTEFBUzRpX0J1QnNacVNXUXpCOTk2b09VQ0U1a3FwM2dXaXE1MzFqZGp0WHVxTXJSbFVLeG1wZUdmMXV2X0JQZDlxb1gtXzN5ZFRTQ2sxU3RYV2JybUdTOTdfVkFDaU5fM2p5SVpfMjlTVER5dVdhQmwtLVdfQlpQTUd5dmxCS25fSkhpaGc5RTFyaXlvOFBoZl9pS0MzUU9nUTlRTkMtYnNiMWJ1bXg5TDVtamYwaHJpdFhPajBRUVpac3AyWjhLZ19laXc?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        }
-      ]
-    },
     {
       "tipo": "cierre_parcial",
       "color": "amarillo",
@@ -73,21 +23,7 @@
           "fecha": "11 julio 2026 · 12:56 CST",
           "fecha_iso": "2026-07-11T12:56:00-06:00",
           "fuente": "Quadratín Puebla",
-          "url": "https://puebla.quadratin.com.mx/uncategorized/conductor-vuelca-su-audi-en-la-autopista-a-atlixco-permanece-lesionado/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
-        },
-        {
-          "id": "124c0299",
-          "tipo": "cierre_parcial",
-          "ruta": "Reporta GobMich disminución del 56% en incendios en Lago de…",
-          "descripcion": "Reporta GobMich disminución del 56% en incendios en Lago de Pátzcuaro. Se atendieron 19 incendios forestales en la ribera del cuerpo de agua",
-          "recomendacion": "",
-          "fecha": "11 julio 2026 · 11:39 CST",
-          "fecha_iso": "2026-07-11T11:39:00-06:00",
-          "fuente": "Quadratín Michoacán",
-          "url": "https://www.quadratin.com.mx/medio-ambiente/reporta-gobmich-disminucion-del-56-en-incendios-en-lago-de-patzcuaro/",
+          "url": "https://puebla.quadratin.com.mx/principal/conductor-vuelca-su-audi-en-la-autopista-a-atlixco-permanece-lesionado/",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL"
@@ -95,19 +31,5 @@
       ]
     }
   ],
-  "para_mapa": [
-    {
-      "id": "c86e6f0a",
-      "tipo": "cierre_total",
-      "ruta": "Cierre total en la Siglo 21 por volcadura de pipa…",
-      "descripcion": "Cierre total en la Siglo 21 por volcadura de pipa en Arteaga, Michoacán. El hecho, antes de la caseta de Las Cañas",
-      "fecha": "11 julio 2026 · 10:25 CST",
-      "fuente": "Quadratín Guerrero",
-      "url": "https://guerrero.quadratin.com.mx/cierre-total-en-la-siglo-21-por-volcadura-de-pipa-en-arteaga-michoacan/",
-      "dot_color": "#e74c3c",
-      "badge_txt": "CIERRE TOTAL",
-      "lat": 19.7,
-      "lon": -101.19
-    }
-  ]
+  "para_mapa": []
 }
