@@ -1,12 +1,60 @@
 {
-  "ultima_actualizacion": "2026-07-11T09:54:02.904071-06:00",
-  "ultima_actualizacion_legible": "11 de julio de 2026 · 09:54 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-07-11T10:55:04.473140-06:00",
+  "ultima_actualizacion_legible": "11 de julio de 2026 · 10:55 CST",
+  "total": 3,
   "ventana": "últimos 180 minutos",
   "fuentes": [
+    "Google News",
+    "Medios regionales",
     "Quadratín + regionales"
   ],
   "grupos": [
+    {
+      "tipo": "cierre_total",
+      "color": "rojo",
+      "icono": "🔴",
+      "label": "CIERRE TOTAL",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "001f6312",
+          "tipo": "cierre_total",
+          "ruta": "Cierre total en la Siglo 21 por volcadura de pipa…",
+          "descripcion": "Cierre total en la Siglo 21 por volcadura de pipa en Arteaga. El cierre afectó ambos sentidos de la vialidad",
+          "recomendacion": "",
+          "fecha": "11 julio 2026 · 10:04 CST",
+          "fecha_iso": "2026-07-11T10:04:00-06:00",
+          "fuente": "Quadratín Michoacán",
+          "url": "https://www.quadratin.com.mx/sucesos/cierre-total-en-la-siglo-21-por-volcadura-de-pipa-en-arteaga/",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL"
+        }
+      ]
+    },
+    {
+      "tipo": "bloqueo",
+      "color": "rojo",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "ee1bdfd0",
+          "tipo": "bloqueo",
+          "ruta": "Bloqueos carreteras HOY 11 de julio: Autopistas cerradas en México,…",
+          "descripcion": "Bloqueos carreteras HOY 11 de julio: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 11 de julio: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
+          "recomendacion": "",
+          "fecha": "11 julio 2026 · 09:57 CST",
+          "fecha_iso": "2026-07-11T09:57:00-06:00",
+          "fuente": "Eje Central",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPbElmNVZLSTRONDZjTTUzREc3NlRoMFNzc0pzTEFBUzRpX0J1QnNacVNXUXpCOTk2b09VQ0U1a3FwM2dXaXE1MzFqZGp0WHVxTXJSbFVLeG1wZUdmMXV2X0JQZDlxb1gtXzN5ZFRTQ2sxU3RYV2JybUdTOTdfVkFDaU5fM2p5SVpfMjlTVER5dVdhQmwtLVdfQlpQTUd5dmxCS25fSkhpaGc5RTFyaXlvOFBoZl9pS0MzUU9nUTlRTkMtYnNiMWJ1bXg5TDVtamYwaHJpdFhPajBRUVpac3AyWjhLZ19laXc?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        }
+      ]
+    },
     {
       "tipo": "clima",
       "color": "azul",
