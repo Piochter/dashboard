@@ -1,12 +1,36 @@
 {
-  "ultima_actualizacion": "2026-07-12T08:15:17.085340-06:00",
-  "ultima_actualizacion_legible": "12 de julio de 2026 · 08:15 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-07-12T09:18:55.034885-06:00",
+  "ultima_actualizacion_legible": "12 de julio de 2026 · 09:18 CST",
+  "total": 2,
   "ventana": "últimos 180 minutos",
   "fuentes": [
+    "Google News",
     "Telegram"
   ],
   "grupos": [
+    {
+      "tipo": "bloqueo",
+      "color": "rojo",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "f84a0c30",
+          "tipo": "bloqueo",
+          "ruta": "Bloqueos carreteras HOY 12 de julio: Autopistas cerradas en México,…",
+          "descripcion": "Bloqueos carreteras HOY 12 de julio: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 12 de julio: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
+          "recomendacion": "",
+          "fecha": "12 julio 2026 · 08:47 CST",
+          "fecha_iso": "2026-07-12T08:47:00-06:00",
+          "fuente": "Eje Central",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQUmpZN2dfeUFhTElaS2c3ODlpTlptR19rMXNrOGZmVGxfOWtYT1RIVnVxUy1teWZOWkVQemxZSml6SHh4R1NaTnpDTU5oRU5ZaXRGYUhTeEJLUEJsZ3lFRkhPNGYwYk93TFRtTXdrMWdRUjQ0Q19uZGxfY0tTNm9wTW1fWDBmeTRGaXRIS0N1WVpKOUphX3hwWHlyNWxWS2hpNFl6VHRiQlRsQlVqMFRkemRnY216T1AxS0RaOU8zSXAwbmNWU0liczd6MXVOdmpmNG9Ea0VBbnZQdGZIeU1WRmVwNm1FdEU?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        }
+      ]
+    },
     {
       "tipo": "cierre_parcial",
       "color": "amarillo",
