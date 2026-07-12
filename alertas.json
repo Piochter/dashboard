@@ -1,6 +1,6 @@
 {
-  "ultima_actualizacion": "2026-07-11T21:58:12.553929-06:00",
-  "ultima_actualizacion_legible": "11 de julio de 2026 · 21:58 CST",
+  "ultima_actualizacion": "2026-07-12T00:32:07.050365-06:00",
+  "ultima_actualizacion_legible": "12 de julio de 2026 · 00:32 CST",
   "total": 1,
   "ventana": "últimos 180 minutos",
   "fuentes": [
@@ -8,44 +8,44 @@
   ],
   "grupos": [
     {
-      "tipo": "clima",
-      "color": "azul",
-      "icono": "🌧️",
-      "label": "ALERTA METEOROLÓGICA",
+      "tipo": "bloqueo",
+      "color": "rojo",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
       "col2": false,
       "alertas": [
         {
-          "id": "35a10d4f",
-          "tipo": "clima",
-          "ruta": "Lluvias provocan inundaciones y caída de árbol en Atlixco…",
-          "descripcion": "Lluvias provocan inundaciones y caída de árbol en Atlixco. Además, un árbol cayó sobre la carretera federal Atlixco-Puebla",
+          "id": "e9029891",
+          "tipo": "bloqueo",
+          "ruta": "autopista México-Puebla por inundaciones en la colonia México 83",
+          "descripcion": "Bloquean autopista México-Puebla por inundaciones en la colonia México 83. La protesta provocó el cierre de la vialidad en ambos sentidos",
           "recomendacion": "",
-          "fecha": "11 julio 2026 · 20:35 CST",
-          "fecha_iso": "2026-07-11T20:35:00-06:00",
+          "fecha": "11 julio 2026 · 22:22 CST",
+          "fecha_iso": "2026-07-11T22:22:00-06:00",
           "fuente": "Quadratín Puebla",
-          "url": "https://puebla.quadratin.com.mx/principal/lluvias-provocan-inundaciones-y-caida-de-arbol-en-atlixco/",
-          "dot_color": "#3498db",
-          "badge": "badge-clima",
-          "badge_txt": "ALERTA CLIMA",
-          "lat": 19.04,
-          "lon": -98.2
+          "url": "https://puebla.quadratin.com.mx/principal/bloquean-autopista-mexico-puebla-por-inundaciones-en-la-colonia-mexico-83/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 19.35,
+          "lon": -98.4
         }
       ]
     }
   ],
   "para_mapa": [
     {
-      "id": "35a10d4f",
-      "tipo": "clima",
-      "ruta": "Lluvias provocan inundaciones y caída de árbol en Atlixco…",
-      "descripcion": "Lluvias provocan inundaciones y caída de árbol en Atlixco. Además, un árbol cayó sobre la carretera federal Atlixco-Puebla",
-      "fecha": "11 julio 2026 · 20:35 CST",
+      "id": "e9029891",
+      "tipo": "bloqueo",
+      "ruta": "autopista México-Puebla por inundaciones en la colonia México 83",
+      "descripcion": "Bloquean autopista México-Puebla por inundaciones en la colonia México 83. La protesta provocó el cierre de la vialidad en ambos sentidos",
+      "fecha": "11 julio 2026 · 22:22 CST",
       "fuente": "Quadratín Puebla",
-      "url": "https://puebla.quadratin.com.mx/principal/lluvias-provocan-inundaciones-y-caida-de-arbol-en-atlixco/",
-      "dot_color": "#3498db",
-      "badge_txt": "ALERTA CLIMA",
-      "lat": 19.04,
-      "lon": -98.2
+      "url": "https://puebla.quadratin.com.mx/principal/bloquean-autopista-mexico-puebla-por-inundaciones-en-la-colonia-mexico-83/",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 19.35,
+      "lon": -98.4
     }
   ]
 }
