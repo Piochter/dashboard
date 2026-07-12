@@ -1,51 +1,12 @@
 {
-  "ultima_actualizacion": "2026-07-12T00:32:07.050365-06:00",
-  "ultima_actualizacion_legible": "12 de julio de 2026 · 00:32 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-07-12T02:42:23.211641-06:00",
+  "ultima_actualizacion_legible": "12 de julio de 2026 · 02:42 CST",
+  "total": 0,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Quadratín + regionales"
+    "Google News"
   ],
-  "grupos": [
-    {
-      "tipo": "bloqueo",
-      "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "e9029891",
-          "tipo": "bloqueo",
-          "ruta": "autopista México-Puebla por inundaciones en la colonia México 83",
-          "descripcion": "Bloquean autopista México-Puebla por inundaciones en la colonia México 83. La protesta provocó el cierre de la vialidad en ambos sentidos",
-          "recomendacion": "",
-          "fecha": "11 julio 2026 · 22:22 CST",
-          "fecha_iso": "2026-07-11T22:22:00-06:00",
-          "fuente": "Quadratín Puebla",
-          "url": "https://puebla.quadratin.com.mx/principal/bloquean-autopista-mexico-puebla-por-inundaciones-en-la-colonia-mexico-83/",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 19.35,
-          "lon": -98.4
-        }
-      ]
-    }
-  ],
-  "para_mapa": [
-    {
-      "id": "e9029891",
-      "tipo": "bloqueo",
-      "ruta": "autopista México-Puebla por inundaciones en la colonia México 83",
-      "descripcion": "Bloquean autopista México-Puebla por inundaciones en la colonia México 83. La protesta provocó el cierre de la vialidad en ambos sentidos",
-      "fecha": "11 julio 2026 · 22:22 CST",
-      "fuente": "Quadratín Puebla",
-      "url": "https://puebla.quadratin.com.mx/principal/bloquean-autopista-mexico-puebla-por-inundaciones-en-la-colonia-mexico-83/",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 19.35,
-      "lon": -98.4
-    }
-  ]
+  "grupos": [],
+  "para_mapa": [],
+  "nota": "Sin alertas activas en la ventana de tiempo configurada."
 }
