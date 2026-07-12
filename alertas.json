@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-07-12T10:28:24.092136-06:00",
-  "ultima_actualizacion_legible": "12 de julio de 2026 · 10:28 CST",
-  "total": 4,
+  "ultima_actualizacion": "2026-07-12T11:34:10.357754-06:00",
+  "ultima_actualizacion_legible": "12 de julio de 2026 · 11:34 CST",
+  "total": 3,
   "ventana": "últimos 180 minutos",
   "fuentes": [
     "Google News",
@@ -68,46 +68,7 @@
           "badge_txt": "ROBO"
         }
       ]
-    },
-    {
-      "tipo": "cierre_parcial",
-      "color": "amarillo",
-      "icono": "🟡",
-      "label": "CIERRE PARCIAL / ACCIDENTES",
-      "col2": true,
-      "alertas": [
-        {
-          "id": "ed6b1342",
-          "tipo": "cierre_parcial",
-          "ruta": "🚧#AlertaVial | Reportan accidente en el centro de Toluca; hay…",
-          "descripcion": "🚧#AlertaVial | Reportan accidente en el centro de Toluca; hay tráfico pesado \nhttps://lajornadaestadodemexico.com/accidente-complicada-la-circulacion-en-el-centro-de-toluca/",
-          "recomendacion": "",
-          "fecha": "12 julio 2026 · 07:47 CST",
-          "fecha_iso": "2026-07-12T07:47:00-06:00",
-          "fuente": "Telegram @jornadaedomex",
-          "url": "https://t.me/jornadaedomex/11403",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.29,
-          "lon": -99.66
-        }
-      ]
     }
   ],
-  "para_mapa": [
-    {
-      "id": "ed6b1342",
-      "tipo": "cierre_parcial",
-      "ruta": "🚧#AlertaVial | Reportan accidente en el centro de Toluca; hay…",
-      "descripcion": "🚧#AlertaVial | Reportan accidente en el centro de Toluca; hay tráfico pesado \nhttps://lajornadaestadodemexico.com/accidente-complicada-la-circulacion-en-el-centro-de-toluca/",
-      "fecha": "12 julio 2026 · 07:47 CST",
-      "fuente": "Telegram @jornadaedomex",
-      "url": "https://t.me/jornadaedomex/11403",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.29,
-      "lon": -99.66
-    }
-  ]
+  "para_mapa": []
 }
