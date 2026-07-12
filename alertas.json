@@ -1,10 +1,11 @@
 {
-  "ultima_actualizacion": "2026-07-12T09:18:55.034885-06:00",
-  "ultima_actualizacion_legible": "12 de julio de 2026 · 09:18 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-07-12T10:28:24.092136-06:00",
+  "ultima_actualizacion_legible": "12 de julio de 2026 · 10:28 CST",
+  "total": 4,
   "ventana": "últimos 180 minutos",
   "fuentes": [
     "Google News",
+    "Medios regionales",
     "Telegram"
   ],
   "grupos": [
@@ -15,6 +16,20 @@
       "label": "BLOQUEOS / MANIFESTACIONES",
       "col2": false,
       "alertas": [
+        {
+          "id": "4faaa642",
+          "tipo": "bloqueo",
+          "ruta": "¿Cuál es el grado de estudios de Lenia Batres? Estas…",
+          "descripcion": "¿Cuál es el grado de estudios de Lenia Batres? Estas son las universidades donde se [preparó](http://telegra.ph/Cuál-es-el-grado-de-estudios-de-Lenia-Batres-Estas-son-las-universidades-donde-se-preparó-07-12)\n\n__via__ [www.elfinanciero.com.mx](https://www.elfinanciero.com.mx/nacional/2026/07/11/cual-es-el-grado-de-estudios-de-lenia-batres-estas-son-las-universidades-donde-se-preparo/)",
+          "recomendacion": "",
+          "fecha": "12 julio 2026 · 09:33 CST",
+          "fecha_iso": "2026-07-12T09:33:00-06:00",
+          "fuente": "Telegram @NOTMEX",
+          "url": "https://t.me/NOTMEX/184551",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
         {
           "id": "f84a0c30",
           "tipo": "bloqueo",
@@ -28,6 +43,29 @@
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO"
+        }
+      ]
+    },
+    {
+      "tipo": "robo",
+      "color": "rojo",
+      "icono": "🚨",
+      "label": "ROBOS EN CARRETERA",
+      "col2": true,
+      "alertas": [
+        {
+          "id": "d8a6a3c7",
+          "tipo": "robo",
+          "ruta": "Un robot que vuela y se mueve como un ave…",
+          "descripcion": "Un robot que vuela y se mueve como un ave podría revolucionar los drones. Con un peso aproximado de 250 gramos, el robot cuenta con un fuselaje aerodinámico, dos alas de membrana flexibles y una cola móvil",
+          "recomendacion": "",
+          "fecha": "12 julio 2026 · 10:01 CST",
+          "fecha_iso": "2026-07-12T10:01:00-06:00",
+          "fuente": "El Informador Jalisco",
+          "url": "https://www.informador.mx/tecnologia/un-robot-que-vuela-y-se-mueve-como-un-ave-podria-revolucionar-los-drones-20260709-0109.html",
+          "dot_color": "#c0392b",
+          "badge": "badge-robo",
+          "badge_txt": "ROBO"
         }
       ]
     },
