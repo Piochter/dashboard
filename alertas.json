@@ -1,133 +1,51 @@
 {
-  "ultima_actualizacion": "2026-07-12T05:34:35.454201-06:00",
-  "ultima_actualizacion_legible": "12 de julio de 2026 · 05:34 CST",
-  "total": 4,
+  "ultima_actualizacion": "2026-07-12T08:15:17.085340-06:00",
+  "ultima_actualizacion_legible": "12 de julio de 2026 · 08:15 CST",
+  "total": 1,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Medios regionales",
     "Telegram"
   ],
   "grupos": [
     {
-      "tipo": "bloqueo",
-      "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
-      "col2": false,
+      "tipo": "cierre_parcial",
+      "color": "amarillo",
+      "icono": "🟡",
+      "label": "CIERRE PARCIAL / ACCIDENTES",
+      "col2": true,
       "alertas": [
         {
-          "id": "101719fc",
-          "tipo": "bloqueo",
-          "ruta": "She++ en León: Científicas y alumnas exigen piso parejo y…",
-          "descripcion": "She++ en León: Científicas y alumnas exigen piso parejo y redes de apoyo en ciencia. Participaron alrededor de 100 mujeres estudiantes de los estados de Michoacán e Hidalgo, y de municipios como Romita y Guanajuato capital.",
+          "id": "ed6b1342",
+          "tipo": "cierre_parcial",
+          "ruta": "🚧#AlertaVial | Reportan accidente en el centro de Toluca; hay…",
+          "descripcion": "🚧#AlertaVial | Reportan accidente en el centro de Toluca; hay tráfico pesado \nhttps://lajornadaestadodemexico.com/accidente-complicada-la-circulacion-en-el-centro-de-toluca/",
           "recomendacion": "",
-          "fecha": "12 julio 2026 · 04:04 CST",
-          "fecha_iso": "2026-07-12T04:04:00-06:00",
-          "fuente": "AM Guanajuato",
-          "url": "https://www.am.com.mx/ciencia/2026/07/12/she-en-leon-cientificas-y-alumnas-exigen-piso-parejo-y-redes-de-apoyo-en-ciencia-1818505.html",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 20.11,
-          "lon": -98.73
-        },
-        {
-          "id": "e4154d26",
-          "tipo": "bloqueo",
-          "ruta": "Detienen a tres por ataque contra familias que veían el…",
-          "descripcion": "Detienen a tres por ataque contra familias que veían el juego de México en Yautepec\nhttps://www.jornada.com.mx/2026/07/12/estados/022n3est?partner=rss\n\nLos arrestados fueron identificados como América Alejandra N, Eugenio N y Ulises N, quienes, de acuerdo con información de la Fiscalía General del Estado (FGE) de Morelos, fueron aprehendidos durante un operativo en el que participaron elementos de la Secretaría de Seguridad y Protección Ciudadana estatal, la Agencia de Investigación Criminal, la",
-          "recomendacion": "",
-          "fecha": "12 julio 2026 · 03:31 CST",
-          "fecha_iso": "2026-07-12T03:31:00-06:00",
-          "fuente": "Telegram @NOTMEX",
-          "url": "https://t.me/NOTMEX/184547",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 18.67,
-          "lon": -99.1
-        },
-        {
-          "id": "b3a31bca",
-          "tipo": "bloqueo",
-          "ruta": "Activista exige justicia por atropellamiento de su hija en Circuito…",
-          "descripcion": "Activista exige justicia por atropellamiento de su hija en Circuito Exterior Mexiquense\nhttps://www.jornada.com.mx/2026/07/12/estados/022n1est?partner=rss\n\nEcatepec, Méx., La activista Lidia Florencio Guerrero, madre de la también defensora de mujeres víctimas de violencia de género, Laura Velázquez Florencio, quien recién murió tras ser atropellada en el Circuito Exterior Mexiquense cuando circulaba en su bicicleta a la altura del municipio de Ecatepec, cumplió dos días de protesta para demanda",
-          "recomendacion": "",
-          "fecha": "12 julio 2026 · 03:29 CST",
-          "fecha_iso": "2026-07-12T03:29:00-06:00",
-          "fuente": "Telegram @NOTMEX",
-          "url": "https://t.me/NOTMEX/184545",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 17.55,
-          "lon": -99.5
-        }
-      ]
-    },
-    {
-      "tipo": "clima",
-      "color": "azul",
-      "icono": "🌧️",
-      "label": "ALERTA METEOROLÓGICA",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "f752798b",
-          "tipo": "clima",
-          "ruta": "1976: El año en que el agua cambió para siempre…",
-          "descripcion": "1976: El año en que el agua cambió para siempre a San Francisco del Rincón. A 50 años de la peor inundación en la historia del municipio, documentos históricos revelan que la ciudad ha luchado contra las crecientes desde 1612.",
-          "recomendacion": "",
-          "fecha": "12 julio 2026 · 04:03 CST",
-          "fecha_iso": "2026-07-12T04:03:00-06:00",
-          "fuente": "AM Guanajuato",
-          "url": "https://www.am.com.mx/guanajuato/2026/07/12/1976-el-ano-en-que-el-agua-cambio-para-siempre-a-san-francisco-1818528.html",
-          "dot_color": "#3498db",
-          "badge": "badge-clima",
-          "badge_txt": "ALERTA CLIMA"
+          "fecha": "12 julio 2026 · 07:47 CST",
+          "fecha_iso": "2026-07-12T07:47:00-06:00",
+          "fuente": "Telegram @jornadaedomex",
+          "url": "https://t.me/jornadaedomex/11403",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 19.29,
+          "lon": -99.66
         }
       ]
     }
   ],
   "para_mapa": [
     {
-      "id": "101719fc",
-      "tipo": "bloqueo",
-      "ruta": "She++ en León: Científicas y alumnas exigen piso parejo y…",
-      "descripcion": "She++ en León: Científicas y alumnas exigen piso parejo y redes de apoyo en ciencia. Participaron alrededor de 100 mujeres estudiantes de los estados de Michoacán e Hidalgo, y de municipios como Romita y Guanajuato capital.",
-      "fecha": "12 julio 2026 · 04:04 CST",
-      "fuente": "AM Guanajuato",
-      "url": "https://www.am.com.mx/ciencia/2026/07/12/she-en-leon-cientificas-y-alumnas-exigen-piso-parejo-y-redes-de-apoyo-en-ciencia-1818505.html",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 20.11,
-      "lon": -98.73
-    },
-    {
-      "id": "e4154d26",
-      "tipo": "bloqueo",
-      "ruta": "Detienen a tres por ataque contra familias que veían el…",
-      "descripcion": "Detienen a tres por ataque contra familias que veían el juego de México en Yautepec\nhttps://www.jornada.com.mx/2026/07/12/estados/022n3est?partner=rss\n\nLos arrestados fueron identificados como América Alejandra N, Eugenio N y Ulises N, quienes, de acuerdo con información de la Fiscalía General del Estado (FGE) de Morelos, fueron aprehendidos durante un operativo en el que participaron elementos de la Secretaría de Seguridad y Protección Ciudadana estatal, la Agencia de Investigación Criminal, la",
-      "fecha": "12 julio 2026 · 03:31 CST",
-      "fuente": "Telegram @NOTMEX",
-      "url": "https://t.me/NOTMEX/184547",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 18.67,
-      "lon": -99.1
-    },
-    {
-      "id": "b3a31bca",
-      "tipo": "bloqueo",
-      "ruta": "Activista exige justicia por atropellamiento de su hija en Circuito…",
-      "descripcion": "Activista exige justicia por atropellamiento de su hija en Circuito Exterior Mexiquense\nhttps://www.jornada.com.mx/2026/07/12/estados/022n1est?partner=rss\n\nEcatepec, Méx., La activista Lidia Florencio Guerrero, madre de la también defensora de mujeres víctimas de violencia de género, Laura Velázquez Florencio, quien recién murió tras ser atropellada en el Circuito Exterior Mexiquense cuando circulaba en su bicicleta a la altura del municipio de Ecatepec, cumplió dos días de protesta para demanda",
-      "fecha": "12 julio 2026 · 03:29 CST",
-      "fuente": "Telegram @NOTMEX",
-      "url": "https://t.me/NOTMEX/184545",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 17.55,
-      "lon": -99.5
+      "id": "ed6b1342",
+      "tipo": "cierre_parcial",
+      "ruta": "🚧#AlertaVial | Reportan accidente en el centro de Toluca; hay…",
+      "descripcion": "🚧#AlertaVial | Reportan accidente en el centro de Toluca; hay tráfico pesado \nhttps://lajornadaestadodemexico.com/accidente-complicada-la-circulacion-en-el-centro-de-toluca/",
+      "fecha": "12 julio 2026 · 07:47 CST",
+      "fuente": "Telegram @jornadaedomex",
+      "url": "https://t.me/jornadaedomex/11403",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 19.29,
+      "lon": -99.66
     }
   ]
 }
