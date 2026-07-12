@@ -1,36 +1,12 @@
 {
-  "ultima_actualizacion": "2026-07-12T12:39:13.265061-06:00",
-  "ultima_actualizacion_legible": "12 de julio de 2026 · 12:39 CST",
-  "total": 4,
+  "ultima_actualizacion": "2026-07-12T13:51:45.850341-06:00",
+  "ultima_actualizacion_legible": "12 de julio de 2026 · 13:51 CST",
+  "total": 3,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Medios regionales",
     "Quadratín + regionales"
   ],
   "grupos": [
-    {
-      "tipo": "robo",
-      "color": "rojo",
-      "icono": "🚨",
-      "label": "ROBOS EN CARRETERA",
-      "col2": true,
-      "alertas": [
-        {
-          "id": "d8a6a3c7",
-          "tipo": "robo",
-          "ruta": "Un robot que vuela y se mueve como un ave…",
-          "descripcion": "Un robot que vuela y se mueve como un ave podría revolucionar los drones. Con un peso aproximado de 250 gramos, el robot cuenta con un fuselaje aerodinámico, dos alas de membrana flexibles y una cola móvil",
-          "recomendacion": "",
-          "fecha": "12 julio 2026 · 10:01 CST",
-          "fecha_iso": "2026-07-12T10:01:00-06:00",
-          "fuente": "El Informador Jalisco",
-          "url": "https://www.informador.mx/tecnologia/un-robot-que-vuela-y-se-mueve-como-un-ave-podria-revolucionar-los-drones-20260709-0109.html",
-          "dot_color": "#c0392b",
-          "badge": "badge-robo",
-          "badge_txt": "ROBO"
-        }
-      ]
-    },
     {
       "tipo": "cierre_parcial",
       "color": "amarillo",
