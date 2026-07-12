@@ -1,35 +1,12 @@
 {
-  "ultima_actualizacion": "2026-07-11T17:11:31.236485-06:00",
-  "ultima_actualizacion_legible": "11 de julio de 2026 · 17:11 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-07-11T18:11:53.967185-06:00",
+  "ultima_actualizacion_legible": "11 de julio de 2026 · 18:11 CST",
+  "total": 0,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Medios regionales"
+    "Google News"
   ],
-  "grupos": [
-    {
-      "tipo": "clima",
-      "color": "azul",
-      "icono": "🌧️",
-      "label": "ALERTA METEOROLÓGICA",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "6ebe8859",
-          "tipo": "clima",
-          "ruta": "Caos por lluvias en León: Se levanta el pavimento y…",
-          "descripcion": "Caos por lluvias en León: Se levanta el pavimento y abren grietas en el Vasco de Quiroga. Tormenta con vientos de 45 km/h provoca el cierre del Malecón del Río, derriba 22 árboles y destroza el asfalto del bulevar Vasco de Quiroga.",
-          "recomendacion": "",
-          "fecha": "11 julio 2026 · 14:15 CST",
-          "fecha_iso": "2026-07-11T14:15:00-06:00",
-          "fuente": "AM Guanajuato",
-          "url": "https://www.am.com.mx/leon/2026/07/11/caos-por-lluvias-en-leon-se-levanta-el-pavimento-y-abren-grietas-en-el-vasco-de-quiroga-1818337.html",
-          "dot_color": "#3498db",
-          "badge": "badge-clima",
-          "badge_txt": "ALERTA CLIMA"
-        }
-      ]
-    }
-  ],
-  "para_mapa": []
+  "grupos": [],
+  "para_mapa": [],
+  "nota": "Sin alertas activas en la ventana de tiempo configurada."
 }
