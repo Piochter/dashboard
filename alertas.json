@@ -1,9 +1,10 @@
 {
-  "ultima_actualizacion": "2026-07-12T14:42:33.525051-06:00",
-  "ultima_actualizacion_legible": "12 de julio de 2026 · 14:42 CST",
+  "ultima_actualizacion": "2026-07-12T15:34:17.920150-06:00",
+  "ultima_actualizacion_legible": "12 de julio de 2026 · 15:34 CST",
   "total": 4,
   "ventana": "últimos 180 minutos",
   "fuentes": [
+    "Google News",
     "Medios regionales",
     "Quadratín + regionales"
   ],
@@ -15,6 +16,54 @@
       "label": "CIERRE PARCIAL / ACCIDENTES",
       "col2": true,
       "alertas": [
+        {
+          "id": "a98ca34b",
+          "tipo": "cierre_parcial",
+          "ruta": "autopista Guadalajara-Tepic deja al menos 9 muertos",
+          "descripcion": "Accidente en la autopista Guadalajara-Tepic deja al menos 9 muertos. Se trata de dos menores de edad y 7 adultos, la mayoría calcinados",
+          "recomendacion": "",
+          "fecha": "12 julio 2026 · 15:22 CST",
+          "fecha_iso": "2026-07-12T15:22:00-06:00",
+          "fuente": "Quadratín Michoacán",
+          "url": "https://www.quadratin.com.mx/sucesos/accidente-en-la-autopista-guadalajara-tepic-deja-al-menos-9-muertos/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 20.66,
+          "lon": -103.35
+        },
+        {
+          "id": "4e703138",
+          "tipo": "cierre_parcial",
+          "ruta": "autopista Guadalajara-Tepic deja al menos 9 muertos",
+          "descripcion": "Accidente en la autopista Guadalajara-Tepic deja al menos 9 muertos. Además de varios desaparecidos y dos elementos de la Guardia Nacional gravemente lesionados.",
+          "recomendacion": "",
+          "fecha": "12 julio 2026 · 14:55 CST",
+          "fecha_iso": "2026-07-12T14:55:00-06:00",
+          "fuente": "Quadratín Jalisco",
+          "url": "https://jalisco.quadratin.com.mx/principal/accidente-en-la-autopista-guadalajara-tepic-deja-al-menos-9-muertos/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 20.66,
+          "lon": -103.35
+        },
+        {
+          "id": "fa624dab",
+          "tipo": "cierre_parcial",
+          "ruta": "autopista Guadalajara-Tepic",
+          "descripcion": "Accidente en la autopista Guadalajara-Tepic, reportan al menos 16 fallecidos - Infobae. Accidente en la autopista Guadalajara-Tepic, reportan al menos 16 fallecidos Infobae",
+          "recomendacion": "",
+          "fecha": "12 julio 2026 · 14:51 CST",
+          "fecha_iso": "2026-07-12T14:51:00-06:00",
+          "fuente": "Infobae",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZlBqb3paZEIzRUVycGw5WDhwdF9VOXVRTzVBTUlXMWRnRGhyRF9yYkxjWk1EcEg3Q2V0STdCQUVYeHRwWTBFVHc1WUxJZmkxS2IxZFM1UjVzVHdhUTMzRWloZ1lERlVMMFZVNC01MjRHNmFvaUtBR3JpbmpWdjYyWVVOb2VZbnBGMmR5dWtSSEhJY2JtVkc3b1JOS0oyZlhaN0FVcE5XMnRsZmY3Y3lwNWQ0bDVuNGF5N3fSAdQBQVVfeXFMUFU0LTRiX01MVFB3LWphQmJ4VTRBbUx0aExwLW9RU1l5WS1hZzhKazFGYW1mR2g4VXVKTXJjVlBtQ3ZfM093S1JsbDAxRzluZDhReGstaFFldkR2ZzRyUUFEakFPMzNyV1c1LTJhNXd4YnFmVW9Bbk1BdmxnbnVPM25ZeExETUIzTXdWNXVPNDJnNTlWRnI1R1NDeTVTaHdHdGRKQWMwcVNWNzNlTlJiLUFlT0h2STN4OS01SFd6aEpMbjczRkFwZkhmd2U2SHhqZ2xzY28?oc=5",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 20.66,
+          "lon": -103.35
+        },
         {
           "id": "4f6aeefc",
           "tipo": "cierre_parcial",
@@ -30,62 +79,50 @@
           "badge_txt": "CIERRE PARCIAL",
           "lat": 20.66,
           "lon": -103.35
-        },
-        {
-          "id": "ee3ef37a",
-          "tipo": "cierre_parcial",
-          "ruta": "Accidente vial en Ejutla de Crespo deja solo daños materiales…",
-          "descripcion": "Accidente vial en Ejutla de Crespo deja solo daños materiales. El percance sobre la carretera federal 175 dejó únicamente daños materiales.",
-          "recomendacion": "",
-          "fecha": "12 julio 2026 · 12:25 CST",
-          "fecha_iso": "2026-07-12T12:25:00-06:00",
-          "fuente": "Quadratín Oaxaca",
-          "url": "https://oaxaca.quadratin.com.mx/accidente-vial-en-ejutla-de-crespo-deja-solo-danos-materiales/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
-        },
-        {
-          "id": "1c250afb",
-          "tipo": "cierre_parcial",
-          "ruta": "Choque entre 3 vehículos en Salina Cruz…",
-          "descripcion": "Choque entre 3 vehículos en Salina Cruz. Registrado sobre la carretera Costera, a la altura de la colonia Lomas de Galindo",
-          "recomendacion": "",
-          "fecha": "12 julio 2026 · 12:09 CST",
-          "fecha_iso": "2026-07-12T12:09:00-06:00",
-          "fuente": "Quadratín Oaxaca",
-          "url": "https://oaxaca.quadratin.com.mx/choque-entre-3-vehiculos-en-salina-cruz/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
-        }
-      ]
-    },
-    {
-      "tipo": "clima",
-      "color": "azul",
-      "icono": "🌧️",
-      "label": "ALERTA METEOROLÓGICA",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "19292a11",
-          "tipo": "clima",
-          "ruta": "Inician trabajos de limpieza en la colonia México 83 tras…",
-          "descripcion": "Inician trabajos de limpieza en la colonia México 83 tras inundaciones. Realizaron el retiro de lodo, basura, maleza, agua acumulada y material arrastrado por la corriente",
-          "recomendacion": "",
-          "fecha": "12 julio 2026 · 12:33 CST",
-          "fecha_iso": "2026-07-12T12:33:00-06:00",
-          "fuente": "Quadratín Puebla",
-          "url": "https://puebla.quadratin.com.mx/puebla-capital/inician-trabajos-de-limpieza-en-la-colonia-mexico-83-tras-inundaciones/",
-          "dot_color": "#3498db",
-          "badge": "badge-clima",
-          "badge_txt": "ALERTA CLIMA"
         }
       ]
     }
   ],
   "para_mapa": [
+    {
+      "id": "a98ca34b",
+      "tipo": "cierre_parcial",
+      "ruta": "autopista Guadalajara-Tepic deja al menos 9 muertos",
+      "descripcion": "Accidente en la autopista Guadalajara-Tepic deja al menos 9 muertos. Se trata de dos menores de edad y 7 adultos, la mayoría calcinados",
+      "fecha": "12 julio 2026 · 15:22 CST",
+      "fuente": "Quadratín Michoacán",
+      "url": "https://www.quadratin.com.mx/sucesos/accidente-en-la-autopista-guadalajara-tepic-deja-al-menos-9-muertos/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 20.66,
+      "lon": -103.35
+    },
+    {
+      "id": "4e703138",
+      "tipo": "cierre_parcial",
+      "ruta": "autopista Guadalajara-Tepic deja al menos 9 muertos",
+      "descripcion": "Accidente en la autopista Guadalajara-Tepic deja al menos 9 muertos. Además de varios desaparecidos y dos elementos de la Guardia Nacional gravemente lesionados.",
+      "fecha": "12 julio 2026 · 14:55 CST",
+      "fuente": "Quadratín Jalisco",
+      "url": "https://jalisco.quadratin.com.mx/principal/accidente-en-la-autopista-guadalajara-tepic-deja-al-menos-9-muertos/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 20.66,
+      "lon": -103.35
+    },
+    {
+      "id": "fa624dab",
+      "tipo": "cierre_parcial",
+      "ruta": "autopista Guadalajara-Tepic",
+      "descripcion": "Accidente en la autopista Guadalajara-Tepic, reportan al menos 16 fallecidos - Infobae. Accidente en la autopista Guadalajara-Tepic, reportan al menos 16 fallecidos Infobae",
+      "fecha": "12 julio 2026 · 14:51 CST",
+      "fuente": "Infobae",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZlBqb3paZEIzRUVycGw5WDhwdF9VOXVRTzVBTUlXMWRnRGhyRF9yYkxjWk1EcEg3Q2V0STdCQUVYeHRwWTBFVHc1WUxJZmkxS2IxZFM1UjVzVHdhUTMzRWloZ1lERlVMMFZVNC01MjRHNmFvaUtBR3JpbmpWdjYyWVVOb2VZbnBGMmR5dWtSSEhJY2JtVkc3b1JOS0oyZlhaN0FVcE5XMnRsZmY3Y3lwNWQ0bDVuNGF5N3fSAdQBQVVfeXFMUFU0LTRiX01MVFB3LWphQmJ4VTRBbUx0aExwLW9RU1l5WS1hZzhKazFGYW1mR2g4VXVKTXJjVlBtQ3ZfM093S1JsbDAxRzluZDhReGstaFFldkR2ZzRyUUFEakFPMzNyV1c1LTJhNXd4YnFmVW9Bbk1BdmxnbnVPM25ZeExETUIzTXdWNXVPNDJnNTlWRnI1R1NDeTVTaHdHdGRKQWMwcVNWNzNlTlJiLUFlT0h2STN4OS01SFd6aEpMbjczRkFwZkhmd2U2SHhqZ2xzY28?oc=5",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 20.66,
+      "lon": -103.35
+    },
     {
       "id": "4f6aeefc",
       "tipo": "cierre_parcial",
