@@ -1,12 +1,51 @@
 {
-  "ultima_actualizacion": "2026-07-11T18:11:53.967185-06:00",
-  "ultima_actualizacion_legible": "11 de julio de 2026 · 18:11 CST",
-  "total": 0,
+  "ultima_actualizacion": "2026-07-11T21:58:12.553929-06:00",
+  "ultima_actualizacion_legible": "11 de julio de 2026 · 21:58 CST",
+  "total": 1,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Google News"
+    "Quadratín + regionales"
   ],
-  "grupos": [],
-  "para_mapa": [],
-  "nota": "Sin alertas activas en la ventana de tiempo configurada."
+  "grupos": [
+    {
+      "tipo": "clima",
+      "color": "azul",
+      "icono": "🌧️",
+      "label": "ALERTA METEOROLÓGICA",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "35a10d4f",
+          "tipo": "clima",
+          "ruta": "Lluvias provocan inundaciones y caída de árbol en Atlixco…",
+          "descripcion": "Lluvias provocan inundaciones y caída de árbol en Atlixco. Además, un árbol cayó sobre la carretera federal Atlixco-Puebla",
+          "recomendacion": "",
+          "fecha": "11 julio 2026 · 20:35 CST",
+          "fecha_iso": "2026-07-11T20:35:00-06:00",
+          "fuente": "Quadratín Puebla",
+          "url": "https://puebla.quadratin.com.mx/principal/lluvias-provocan-inundaciones-y-caida-de-arbol-en-atlixco/",
+          "dot_color": "#3498db",
+          "badge": "badge-clima",
+          "badge_txt": "ALERTA CLIMA",
+          "lat": 19.04,
+          "lon": -98.2
+        }
+      ]
+    }
+  ],
+  "para_mapa": [
+    {
+      "id": "35a10d4f",
+      "tipo": "clima",
+      "ruta": "Lluvias provocan inundaciones y caída de árbol en Atlixco…",
+      "descripcion": "Lluvias provocan inundaciones y caída de árbol en Atlixco. Además, un árbol cayó sobre la carretera federal Atlixco-Puebla",
+      "fecha": "11 julio 2026 · 20:35 CST",
+      "fuente": "Quadratín Puebla",
+      "url": "https://puebla.quadratin.com.mx/principal/lluvias-provocan-inundaciones-y-caida-de-arbol-en-atlixco/",
+      "dot_color": "#3498db",
+      "badge_txt": "ALERTA CLIMA",
+      "lat": 19.04,
+      "lon": -98.2
+    }
+  ]
 }
