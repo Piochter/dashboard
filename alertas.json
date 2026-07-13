@@ -1,12 +1,36 @@
 {
-  "ultima_actualizacion": "2026-07-13T11:00:05.747886-06:00",
-  "ultima_actualizacion_legible": "13 de julio de 2026 · 11:00 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-07-13T12:45:18.862940-06:00",
+  "ultima_actualizacion_legible": "13 de julio de 2026 · 12:45 CST",
+  "total": 3,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Medios nacionales"
+    "Medios nacionales",
+    "Quadratin + regionales"
   ],
   "grupos": [
+    {
+      "tipo": "cierre_total",
+      "color": "rojo",
+      "icono": "🔴",
+      "label": "CIERRE TOTAL",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "7c6f4c66",
+          "tipo": "cierre_total",
+          "ruta": "Deja volcadura 3 lesionados en San Bartolo Coyotepec…",
+          "descripcion": "Deja volcadura 3 lesionados en San Bartolo Coyotepec. El accidente ocurrió sobre la carretera federal 175, luego de que un vehículo presuntamente realizó un corte de circulación",
+          "recomendacion": "",
+          "fecha": "13 julio 2026 · 11:14 CST",
+          "fecha_iso": "2026-07-13T11:14:00-06:00",
+          "fuente": "Quadratin Oaxaca",
+          "url": "https://oaxaca.quadratin.com.mx/deja-volcadura-3-lesionados-en-san-bartolo-coyotepec/",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL"
+        }
+      ]
+    },
     {
       "tipo": "cierre_parcial",
       "color": "amarillo",
@@ -29,6 +53,29 @@
           "badge_txt": "CIERRE PARCIAL",
           "lat": 21.0,
           "lon": -104.0
+        }
+      ]
+    },
+    {
+      "tipo": "clima",
+      "color": "azul",
+      "icono": "🌧",
+      "label": "ALERTA METEOROLOGICA",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "32b11c9f",
+          "tipo": "clima",
+          "ruta": "Inversión histórica de 20 mdp transforma vialidades en Tlaquepaque…",
+          "descripcion": "Inversión histórica de 20 mdp transforma vialidades en Tlaquepaque. El proyecto busca fortalecer la infraestructura urbana, optimizar la conectividad vial y resolver problemas históricos de inundaciones",
+          "recomendacion": "",
+          "fecha": "13 julio 2026 · 11:14 CST",
+          "fecha_iso": "2026-07-13T11:14:00-06:00",
+          "fuente": "Quadratin Jalisco",
+          "url": "https://jalisco.quadratin.com.mx/sucesos/inversion-historica-de-20-mdp-transforma-vialidades-en-tlaquepaque/",
+          "dot_color": "#3498db",
+          "badge": "badge-clima",
+          "badge_txt": "ALERTA CLIMA"
         }
       ]
     }
