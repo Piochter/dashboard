@@ -1,37 +1,13 @@
 {
-  "ultima_actualizacion": "2026-07-12T19:15:04.061109-06:00",
-  "ultima_actualizacion_legible": "12 de julio de 2026 · 19:15 CST",
-  "total": 5,
+  "ultima_actualizacion": "2026-07-12T22:49:49.487952-06:00",
+  "ultima_actualizacion_legible": "12 de julio de 2026 · 22:49 CST",
+  "total": 2,
   "ventana": "últimos 180 minutos",
   "fuentes": [
     "Medios nacionales",
-    "Medios regionales",
     "Quadratín + regionales"
   ],
   "grupos": [
-    {
-      "tipo": "bloqueo",
-      "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "1b3c0a1c",
-          "tipo": "bloqueo",
-          "ruta": "Coronan a México ‘campeón en desaparición’ con 135 mil casos…",
-          "descripcion": "Coronan a México ‘campeón en desaparición’ con 135 mil casos a un año sin Ana Amelí. La manifestación pacífica visibiliza la crisis de seguridad actual y el reclamo de justicia frente a las omisiones institucionales en el resguardo de la ciudadanía.",
-          "recomendacion": "",
-          "fecha": "12 julio 2026 · 19:03 CST",
-          "fecha_iso": "2026-07-12T19:03:00-06:00",
-          "fuente": "AM Guanajuato",
-          "url": "https://www.am.com.mx/nacional/2026/07/12/coronan-a-mexico-campeon-en-desaparicion-con-135-mil-casos-a-un-ano-sin-ana-ameli-1818787.html",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        }
-      ]
-    },
     {
       "tipo": "cierre_parcial",
       "color": "amarillo",
@@ -40,47 +16,15 @@
       "col2": true,
       "alertas": [
         {
-          "id": "b14550e7",
-          "tipo": "cierre_parcial",
-          "ruta": "autopista Guadalajara-Tepic",
-          "descripcion": "Lemus garantiza apoyo de Jalisco y atención a víctimas de accidente en autopista Guadalajara-Tepic. Tras el trágico accidente que dejó nueve fallecidos y 10 lesionados en la autopista Guadalajara-Tepic, el Gobernador Pablo Lemus garantizó el despliegue total de las dependencias estatales para asistir a las víctimas y sus familias",
-          "recomendacion": "",
-          "fecha": "12 julio 2026 · 18:21 CST",
-          "fecha_iso": "2026-07-12T18:21:00-06:00",
-          "fuente": "El Informador Jalisco",
-          "url": "https://www.informador.mx/jalisco/lemus-garantiza-apoyo-de-jalisco-y-atencion-a-victimas-de-accidente-carretero-en-autopista-guadalajara--tepic-20260712-0095.html",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 20.66,
-          "lon": -103.35
-        },
-        {
           "id": "ff0272d0",
           "tipo": "cierre_parcial",
           "ruta": "Reportan múltiples muertos y heridos por accidente vial en la…",
           "descripcion": "Reportan múltiples muertos y heridos por accidente vial en la Guadalajara-Tepic. Al menos 9 muertos y 10 heridos dejó un accidente carretero sobre la autopista Guadalajara-Tepic, a la altura de Hostotipaquillo.",
           "recomendacion": "",
-          "fecha": "12 julio 2026 · 16:43 CST",
-          "fecha_iso": "2026-07-12T16:43:00-06:00",
+          "fecha": "12 julio 2026 · 20:50 CST",
+          "fecha_iso": "2026-07-12T20:50:00-06:00",
           "fuente": "24 Horas",
           "url": "https://24-horas.mx/estados/reportan-multiples-muertos-y-heridos-por-accidente-vial-en-la-guadalajara-tepic/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 20.66,
-          "lon": -103.35
-        },
-        {
-          "id": "63edb189",
-          "tipo": "cierre_parcial",
-          "ruta": "Sube a nueve la cifra de muertos por accidente en…",
-          "descripcion": "Sube a nueve la cifra de muertos por accidente en la autopista a Tepic; dos eran menores de edad. La tragedia en la autopista Guadalajara-Tepic se agrava: nueve personas han perdido la vida, incluidos dos menores, tras una carambola que involucró siete vehículos incendiados y dejó a una decena de heridos",
-          "recomendacion": "",
-          "fecha": "12 julio 2026 · 16:20 CST",
-          "fecha_iso": "2026-07-12T16:20:00-06:00",
-          "fuente": "El Informador Jalisco",
-          "url": "https://www.informador.mx/jalisco/sube-a-nueve-el-numero-de-fallecidos-tras-percance-vial-en-autopista-a-tepic-dos-menores-de-edad-perdieron-la-vida-20260712-0085.html",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL",
@@ -97,57 +41,31 @@
       "col2": false,
       "alertas": [
         {
-          "id": "16e0117c",
+          "id": "01c503df",
           "tipo": "clima",
-          "ruta": "Lluvia provoca inundaciones en Puebla; autoridades piden extremar precauciones…",
-          "descripcion": "Lluvia provoca inundaciones en Puebla; autoridades piden extremar precauciones. La población puede solicitar apoyo a través del número 911.",
+          "ruta": "Inundación en la Costera alcanzó un metro de alto: PC…",
+          "descripcion": "Inundación en la Costera alcanzó un metro de alto: PC Acapulco. Provocó el cierre de un tramo de la vía de la glorieta de La Diana y la plaza Costera 125",
           "recomendacion": "",
-          "fecha": "12 julio 2026 · 17:43 CST",
-          "fecha_iso": "2026-07-12T17:43:00-06:00",
-          "fuente": "Quadratín Puebla",
-          "url": "https://puebla.quadratin.com.mx/principal/lluvia-provoca-inundaciones-en-puebla-autoridades-piden-extremar-precauciones/",
+          "fecha": "12 julio 2026 · 19:59 CST",
+          "fecha_iso": "2026-07-12T19:59:00-06:00",
+          "fuente": "Quadratín Guerrero",
+          "url": "https://guerrero.quadratin.com.mx/inundacion-en-la-costera-alcanzo-un-metro-de-alto-pc-acapulco/",
           "dot_color": "#3498db",
           "badge": "badge-clima",
           "badge_txt": "ALERTA CLIMA",
-          "lat": 19.04,
-          "lon": -98.2
+          "lat": 16.86,
+          "lon": -99.88
         }
       ]
     }
   ],
   "para_mapa": [
     {
-      "id": "b14550e7",
-      "tipo": "cierre_parcial",
-      "ruta": "autopista Guadalajara-Tepic",
-      "descripcion": "Lemus garantiza apoyo de Jalisco y atención a víctimas de accidente en autopista Guadalajara-Tepic. Tras el trágico accidente que dejó nueve fallecidos y 10 lesionados en la autopista Guadalajara-Tepic, el Gobernador Pablo Lemus garantizó el despliegue total de las dependencias estatales para asistir a las víctimas y sus familias",
-      "fecha": "12 julio 2026 · 18:21 CST",
-      "fuente": "El Informador Jalisco",
-      "url": "https://www.informador.mx/jalisco/lemus-garantiza-apoyo-de-jalisco-y-atencion-a-victimas-de-accidente-carretero-en-autopista-guadalajara--tepic-20260712-0095.html",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 20.66,
-      "lon": -103.35
-    },
-    {
-      "id": "16e0117c",
-      "tipo": "clima",
-      "ruta": "Lluvia provoca inundaciones en Puebla; autoridades piden extremar precauciones…",
-      "descripcion": "Lluvia provoca inundaciones en Puebla; autoridades piden extremar precauciones. La población puede solicitar apoyo a través del número 911.",
-      "fecha": "12 julio 2026 · 17:43 CST",
-      "fuente": "Quadratín Puebla",
-      "url": "https://puebla.quadratin.com.mx/principal/lluvia-provoca-inundaciones-en-puebla-autoridades-piden-extremar-precauciones/",
-      "dot_color": "#3498db",
-      "badge_txt": "ALERTA CLIMA",
-      "lat": 19.04,
-      "lon": -98.2
-    },
-    {
       "id": "ff0272d0",
       "tipo": "cierre_parcial",
       "ruta": "Reportan múltiples muertos y heridos por accidente vial en la…",
       "descripcion": "Reportan múltiples muertos y heridos por accidente vial en la Guadalajara-Tepic. Al menos 9 muertos y 10 heridos dejó un accidente carretero sobre la autopista Guadalajara-Tepic, a la altura de Hostotipaquillo.",
-      "fecha": "12 julio 2026 · 16:43 CST",
+      "fecha": "12 julio 2026 · 20:50 CST",
       "fuente": "24 Horas",
       "url": "https://24-horas.mx/estados/reportan-multiples-muertos-y-heridos-por-accidente-vial-en-la-guadalajara-tepic/",
       "dot_color": "#e67e22",
@@ -156,17 +74,17 @@
       "lon": -103.35
     },
     {
-      "id": "63edb189",
-      "tipo": "cierre_parcial",
-      "ruta": "Sube a nueve la cifra de muertos por accidente en…",
-      "descripcion": "Sube a nueve la cifra de muertos por accidente en la autopista a Tepic; dos eran menores de edad. La tragedia en la autopista Guadalajara-Tepic se agrava: nueve personas han perdido la vida, incluidos dos menores, tras una carambola que involucró siete vehículos incendiados y dejó a una decena de heridos",
-      "fecha": "12 julio 2026 · 16:20 CST",
-      "fuente": "El Informador Jalisco",
-      "url": "https://www.informador.mx/jalisco/sube-a-nueve-el-numero-de-fallecidos-tras-percance-vial-en-autopista-a-tepic-dos-menores-de-edad-perdieron-la-vida-20260712-0085.html",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 20.66,
-      "lon": -103.35
+      "id": "01c503df",
+      "tipo": "clima",
+      "ruta": "Inundación en la Costera alcanzó un metro de alto: PC…",
+      "descripcion": "Inundación en la Costera alcanzó un metro de alto: PC Acapulco. Provocó el cierre de un tramo de la vía de la glorieta de La Diana y la plaza Costera 125",
+      "fecha": "12 julio 2026 · 19:59 CST",
+      "fuente": "Quadratín Guerrero",
+      "url": "https://guerrero.quadratin.com.mx/inundacion-en-la-costera-alcanzo-un-metro-de-alto-pc-acapulco/",
+      "dot_color": "#3498db",
+      "badge_txt": "ALERTA CLIMA",
+      "lat": 16.86,
+      "lon": -99.88
     }
   ]
 }
