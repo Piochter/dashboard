@@ -1,90 +1,12 @@
 {
-  "ultima_actualizacion": "2026-07-12T22:49:49.487952-06:00",
-  "ultima_actualizacion_legible": "12 de julio de 2026 · 22:49 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-07-13T02:15:41.971814-06:00",
+  "ultima_actualizacion_legible": "13 de julio de 2026 · 02:15 CST",
+  "total": 0,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Medios nacionales",
-    "Quadratín + regionales"
+    "Google News"
   ],
-  "grupos": [
-    {
-      "tipo": "cierre_parcial",
-      "color": "amarillo",
-      "icono": "🟡",
-      "label": "CIERRE PARCIAL / ACCIDENTES",
-      "col2": true,
-      "alertas": [
-        {
-          "id": "ff0272d0",
-          "tipo": "cierre_parcial",
-          "ruta": "Reportan múltiples muertos y heridos por accidente vial en la…",
-          "descripcion": "Reportan múltiples muertos y heridos por accidente vial en la Guadalajara-Tepic. Al menos 9 muertos y 10 heridos dejó un accidente carretero sobre la autopista Guadalajara-Tepic, a la altura de Hostotipaquillo.",
-          "recomendacion": "",
-          "fecha": "12 julio 2026 · 20:50 CST",
-          "fecha_iso": "2026-07-12T20:50:00-06:00",
-          "fuente": "24 Horas",
-          "url": "https://24-horas.mx/estados/reportan-multiples-muertos-y-heridos-por-accidente-vial-en-la-guadalajara-tepic/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 20.66,
-          "lon": -103.35
-        }
-      ]
-    },
-    {
-      "tipo": "clima",
-      "color": "azul",
-      "icono": "🌧️",
-      "label": "ALERTA METEOROLÓGICA",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "01c503df",
-          "tipo": "clima",
-          "ruta": "Inundación en la Costera alcanzó un metro de alto: PC…",
-          "descripcion": "Inundación en la Costera alcanzó un metro de alto: PC Acapulco. Provocó el cierre de un tramo de la vía de la glorieta de La Diana y la plaza Costera 125",
-          "recomendacion": "",
-          "fecha": "12 julio 2026 · 19:59 CST",
-          "fecha_iso": "2026-07-12T19:59:00-06:00",
-          "fuente": "Quadratín Guerrero",
-          "url": "https://guerrero.quadratin.com.mx/inundacion-en-la-costera-alcanzo-un-metro-de-alto-pc-acapulco/",
-          "dot_color": "#3498db",
-          "badge": "badge-clima",
-          "badge_txt": "ALERTA CLIMA",
-          "lat": 16.86,
-          "lon": -99.88
-        }
-      ]
-    }
-  ],
-  "para_mapa": [
-    {
-      "id": "ff0272d0",
-      "tipo": "cierre_parcial",
-      "ruta": "Reportan múltiples muertos y heridos por accidente vial en la…",
-      "descripcion": "Reportan múltiples muertos y heridos por accidente vial en la Guadalajara-Tepic. Al menos 9 muertos y 10 heridos dejó un accidente carretero sobre la autopista Guadalajara-Tepic, a la altura de Hostotipaquillo.",
-      "fecha": "12 julio 2026 · 20:50 CST",
-      "fuente": "24 Horas",
-      "url": "https://24-horas.mx/estados/reportan-multiples-muertos-y-heridos-por-accidente-vial-en-la-guadalajara-tepic/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 20.66,
-      "lon": -103.35
-    },
-    {
-      "id": "01c503df",
-      "tipo": "clima",
-      "ruta": "Inundación en la Costera alcanzó un metro de alto: PC…",
-      "descripcion": "Inundación en la Costera alcanzó un metro de alto: PC Acapulco. Provocó el cierre de un tramo de la vía de la glorieta de La Diana y la plaza Costera 125",
-      "fecha": "12 julio 2026 · 19:59 CST",
-      "fuente": "Quadratín Guerrero",
-      "url": "https://guerrero.quadratin.com.mx/inundacion-en-la-costera-alcanzo-un-metro-de-alto-pc-acapulco/",
-      "dot_color": "#3498db",
-      "badge_txt": "ALERTA CLIMA",
-      "lat": 16.86,
-      "lon": -99.88
-    }
-  ]
+  "grupos": [],
+  "para_mapa": [],
+  "nota": "Sin alertas activas en la ventana de tiempo configurada."
 }
