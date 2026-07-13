@@ -1,10 +1,9 @@
 {
-  "ultima_actualizacion": "2026-07-13T12:45:18.862940-06:00",
-  "ultima_actualizacion_legible": "13 de julio de 2026 · 12:45 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-07-13T14:04:26.211314-06:00",
+  "ultima_actualizacion_legible": "13 de julio de 2026 · 14:04 CST",
+  "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Medios nacionales",
     "Quadratin + regionales"
   ],
   "grupos": [
@@ -32,31 +31,6 @@
       ]
     },
     {
-      "tipo": "cierre_parcial",
-      "color": "amarillo",
-      "icono": "🟡",
-      "label": "CIERRE PARCIAL / ACCIDENTES",
-      "col2": true,
-      "alertas": [
-        {
-          "id": "b2bade98",
-          "tipo": "cierre_parcial",
-          "ruta": "autopista Guadalajara-Tepic deja 9 muertos y 10 heridos",
-          "descripcion": "Choque múltiple en la autopista Guadalajara-Tepic deja 9 muertos y 10 heridos. Un accidente en el tramo Plan de Barrancas de la autopista federal 15 D Guadalajara-Tepic, a la altura del municipio jalisciense de Magdalena, provocó las muertes de al menos 9 personas y lesiones a otras 10, ayer, poco antes del mediodía, informó de manera preliminar la Unidad Estatal de Protección Civil y Bomberos (UEPCB).",
-          "recomendacion": "",
-          "fecha": "13 julio 2026 · 02:02 CST",
-          "fecha_iso": "2026-07-13T02:02:00-06:00",
-          "fuente": "La Jornada Estados",
-          "url": "https://www.jornada.com.mx/2026/07/13/estados/026n2est?partner=rss",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 21.0,
-          "lon": -104.0
-        }
-      ]
-    },
-    {
       "tipo": "clima",
       "color": "azul",
       "icono": "🌧",
@@ -80,19 +54,5 @@
       ]
     }
   ],
-  "para_mapa": [
-    {
-      "id": "b2bade98",
-      "tipo": "cierre_parcial",
-      "ruta": "autopista Guadalajara-Tepic deja 9 muertos y 10 heridos",
-      "descripcion": "Choque múltiple en la autopista Guadalajara-Tepic deja 9 muertos y 10 heridos. Un accidente en el tramo Plan de Barrancas de la autopista federal 15 D Guadalajara-Tepic, a la altura del municipio jalisciense de Magdalena, provocó las muertes de al menos 9 personas y lesiones a otras 10, ayer, poco antes del mediodía, informó de manera preliminar la Unidad Estatal de Protección Civil y Bomberos (UEPCB).",
-      "fecha": "13 julio 2026 · 02:02 CST",
-      "fuente": "La Jornada Estados",
-      "url": "https://www.jornada.com.mx/2026/07/13/estados/026n2est?partner=rss",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 21.0,
-      "lon": -104.0
-    }
-  ]
+  "para_mapa": []
 }
