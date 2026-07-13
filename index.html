@@ -3806,15 +3806,9 @@ function renderPanel(d) {
   const s = document.getElementById("alertas-section");
   if (!s) return;
 
-  const header = `<div class="alertas-header">
-    <div style="display:flex;align-items:center;gap:16px">
-      <div class="alerta-label">&#x2014;&nbsp;Alerta Vial</div>
-      <h2>Cierres y Bloqueos Activos</h2>
-    </div>
-    <div class="fuentes">
-      Fuentes: <b style="color:#fff">${(d.fuentes||[]).join(" &nbsp;·&nbsp; ")}</b><br>
-      <span style="color:rgba(255,255,255,.5)">${esc(d.ultima_actualizacion_legible)}</span>
-    </div></div>`;
+const header = `<div class="alertas-header">
+    <h2>Cierres y Bloqueos Activos</h2>
+  </div>`;
 
   if (!d.grupos || !d.grupos.length) {
     s.innerHTML = header +
