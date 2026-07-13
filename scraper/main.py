@@ -43,37 +43,20 @@ TELEGRAM_CANALES = [
 # GOOGLE NEWS RSS
 # ─────────────────────────────────────────────────────────────────────
 GNEWS_BASE = "https://news.google.com/rss/search?q={query}&hl=es-419&gl=MX&ceid=MX%3Aes-419"
+# Google News suele bloquear IPs de datacenter (GitHub Actions). Si falla,
+# se puede desactivar con SKIP_GOOGLE_NEWS=true y el scraper usa el resto de fuentes.
+SKIP_GOOGLE_NEWS = os.getenv("SKIP_GOOGLE_NEWS", "false").lower() == "true"
 GNEWS_QUERIES = [
-    "cierre carretero México autopista hoy",
-    "cierre vial autopista federal México",
-    "carretera cerrada México accidente hoy",
-    "CAPUFE cierre vial alerta",
-    "GN_Carreteras cierre bloqueo México",
-    "Guardia Nacional carreteras cierre México",
-    "SCT SICT cierre carretera federal",
-    "volcadura tractocamión autopista México",
-    "accidente carretera México tráiler camión",
-    "derrumbe deslave carretera México",
-    "inundación carretera autopista México",
-    "neblina cierre autopista México",
-    "incendio vehículo autopista México",
+    "cierre carretero autopista México accidente",
     "bloqueo manifestación carretera federal México",
-    "manifestantes toma caseta autopista México",
-    "comuneros bloqueo carretera México",
-    "huelga paro carretera México bloqueo",
-    "robo transporte de carga carretera México asalto",
-    "robo tractocamión autopista México",
-    "asalto autotransporte carretera México",
-    "robo combustible pipa autopista México",
-    "robo de unidad transporte carga carretera México",
-    "autopista México Querétaro 57D cierre accidente",
-    "autopista México Puebla 150D cierre volcadura",
-    "autopista México Acapulco 95D cierre bloqueo",
-    "autopista Siglo XXI Manzanillo cierre accidente",
-    "autopista México Veracruz 140D cierre",
-    "autopista México Laredo 85D cierre accidente",
-    "cierre carretera Oaxaca Guerrero Chiapas",
-    "bloqueo carretera Tamaulipas Nuevo León",
+    "volcadura tractocamión tráiler autopista México",
+    "derrumbe deslave inundación carretera México",
+    "robo asalto transporte de carga carretera México",
+    "comuneros huelga paro bloqueo carretera México",
+    "CAPUFE Guardia Nacional cierre vialidad carretera",
+    "autopista México Querétaro Puebla cierre accidente",
+    "autopista México Acapulco Veracruz Laredo cierre",
+    "cierre carretera Oaxaca Guerrero Chiapas Tamaulipas",
 ]
 # ─────────────────────────────────────────────────────────────────────
 # RSS MEDIOS
@@ -334,16 +317,18 @@ _STATS = {
 # ─────────────────────────────────────────────────────────────────────
 # UTILIDADES
 # ─────────────────────────────────────────────────────────────────────
-def get(url: str, timeout: int = 15) -> Optional[requests.Response]:
-    for intento in range(1, 4):
+def get(url: str, timeout: int = 10) -> Optional[requests.Response]:
+    # 2 intentos, timeout corto: si una fuente no responde, falla rapido
+    # y no consume el tiempo total del workflow.
+    for intento in range(1, 3):
         try:
             r = requests.get(url, headers=HEADERS, timeout=timeout)
             r.raise_for_status()
             return r
         except Exception as e:
             log.debug(f"GET {url} intento {intento} → {e}")
-            if intento < 3:
-                time.sleep(1.5 * intento)
+            if intento < 2:
+                time.sleep(1.0)
     return None
 def limpiar(html: str) -> str:
     return re.sub(r"\s+", " ", BeautifulSoup(html or "", "html.parser").get_text()).strip()
@@ -797,12 +782,15 @@ def main():
     )
     todas: list[dict] = []
     fuentes_usadas    = []
-    log.info("► Google News RSS …")
-    try:
-        r = fetch_google_news(); todas.extend(r)
-        if r: fuentes_usadas.append("Google News")
-    except Exception as e:
-        log.error(f"  Google News: {e}")
+    if SKIP_GOOGLE_NEWS:
+        log.info("► Google News RSS … OMITIDO (SKIP_GOOGLE_NEWS=true)")
+    else:
+        log.info("► Google News RSS …")
+        try:
+            r = fetch_google_news(); todas.extend(r)
+            if r: fuentes_usadas.append("Google News")
+        except Exception as e:
+            log.error(f"  Google News: {e}")
     if RUN_MODE in ("all", "media_only"):
         log.info("► RSS Periódicos nacionales …")
         try:
