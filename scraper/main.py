@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-"""
 ╔══════════════════════════════════════════════════════════════════════╗
 ║       SCRAPER ALERTAS VIALES MÉXICO v3.4 — AssistCargo              ║
 ║  Fuentes:                                                           ║
