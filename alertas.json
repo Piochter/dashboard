@@ -1,15 +1,37 @@
 {
-  "ultima_actualizacion": "2026-07-12T17:37:25.430854-06:00",
-  "ultima_actualizacion_legible": "12 de julio de 2026 · 17:37 CST",
+  "ultima_actualizacion": "2026-07-12T19:15:04.061109-06:00",
+  "ultima_actualizacion_legible": "12 de julio de 2026 · 19:15 CST",
   "total": 5,
   "ventana": "últimos 180 minutos",
   "fuentes": [
-    "Google News",
     "Medios nacionales",
     "Medios regionales",
     "Quadratín + regionales"
   ],
   "grupos": [
+    {
+      "tipo": "bloqueo",
+      "color": "rojo",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "1b3c0a1c",
+          "tipo": "bloqueo",
+          "ruta": "Coronan a México ‘campeón en desaparición’ con 135 mil casos…",
+          "descripcion": "Coronan a México ‘campeón en desaparición’ con 135 mil casos a un año sin Ana Amelí. La manifestación pacífica visibiliza la crisis de seguridad actual y el reclamo de justicia frente a las omisiones institucionales en el resguardo de la ciudadanía.",
+          "recomendacion": "",
+          "fecha": "12 julio 2026 · 19:03 CST",
+          "fecha_iso": "2026-07-12T19:03:00-06:00",
+          "fuente": "AM Guanajuato",
+          "url": "https://www.am.com.mx/nacional/2026/07/12/coronan-a-mexico-campeon-en-desaparicion-con-135-mil-casos-a-un-ano-sin-ana-ameli-1818787.html",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        }
+      ]
+    },
     {
       "tipo": "cierre_parcial",
       "color": "amarillo",
@@ -17,6 +39,22 @@
       "label": "CIERRE PARCIAL / ACCIDENTES",
       "col2": true,
       "alertas": [
+        {
+          "id": "b14550e7",
+          "tipo": "cierre_parcial",
+          "ruta": "autopista Guadalajara-Tepic",
+          "descripcion": "Lemus garantiza apoyo de Jalisco y atención a víctimas de accidente en autopista Guadalajara-Tepic. Tras el trágico accidente que dejó nueve fallecidos y 10 lesionados en la autopista Guadalajara-Tepic, el Gobernador Pablo Lemus garantizó el despliegue total de las dependencias estatales para asistir a las víctimas y sus familias",
+          "recomendacion": "",
+          "fecha": "12 julio 2026 · 18:21 CST",
+          "fecha_iso": "2026-07-12T18:21:00-06:00",
+          "fuente": "El Informador Jalisco",
+          "url": "https://www.informador.mx/jalisco/lemus-garantiza-apoyo-de-jalisco-y-atencion-a-victimas-de-accidente-carretero-en-autopista-guadalajara--tepic-20260712-0095.html",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 20.66,
+          "lon": -103.35
+        },
         {
           "id": "ff0272d0",
           "tipo": "cierre_parcial",
@@ -48,57 +86,62 @@
           "badge_txt": "CIERRE PARCIAL",
           "lat": 20.66,
           "lon": -103.35
-        },
+        }
+      ]
+    },
+    {
+      "tipo": "clima",
+      "color": "azul",
+      "icono": "🌧️",
+      "label": "ALERTA METEOROLÓGICA",
+      "col2": false,
+      "alertas": [
         {
-          "id": "6428c1d8",
-          "tipo": "cierre_parcial",
-          "ruta": "carretera a San Juan Nuevo en Tancítaro",
-          "descripcion": "Se incendia camioneta en la carretera a San Juan Nuevo en Tancítaro. Una falla mecánica ocasionó el incendio",
+          "id": "16e0117c",
+          "tipo": "clima",
+          "ruta": "Lluvia provoca inundaciones en Puebla; autoridades piden extremar precauciones…",
+          "descripcion": "Lluvia provoca inundaciones en Puebla; autoridades piden extremar precauciones. La población puede solicitar apoyo a través del número 911.",
           "recomendacion": "",
-          "fecha": "12 julio 2026 · 15:47 CST",
-          "fecha_iso": "2026-07-12T15:47:00-06:00",
-          "fuente": "Quadratín Michoacán",
-          "url": "https://www.quadratin.com.mx/justicia/se-incendia-camioneta-en-la-carretera-a-san-juan-nuevo-en-tancitaro/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
-        },
-        {
-          "id": "fa624dab",
-          "tipo": "cierre_parcial",
-          "ruta": "autopista Guadalajara-Tepic",
-          "descripcion": "Accidente en la autopista Guadalajara-Tepic, reportan al menos 16 fallecidos - Infobae. Accidente en la autopista Guadalajara-Tepic, reportan al menos 16 fallecidos Infobae",
-          "recomendacion": "",
-          "fecha": "12 julio 2026 · 15:03 CST",
-          "fecha_iso": "2026-07-12T15:03:00-06:00",
-          "fuente": "Infobae",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZlBqb3paZEIzRUVycGw5WDhwdF9VOXVRTzVBTUlXMWRnRGhyRF9yYkxjWk1EcEg3Q2V0STdCQUVYeHRwWTBFVHc1WUxJZmkxS2IxZFM1UjVzVHdhUTMzRWloZ1lERlVMMFZVNC01MjRHNmFvaUtBR3JpbmpWdjYyWVVOb2VZbnBGMmR5dWtSSEhJY2JtVkc3b1JOS0oyZlhaN0FVcE5XMnRsZmY3Y3lwNWQ0bDVuNGF5N3fSAdQBQVVfeXFMUFU0LTRiX01MVFB3LWphQmJ4VTRBbUx0aExwLW9RU1l5WS1hZzhKazFGYW1mR2g4VXVKTXJjVlBtQ3ZfM093S1JsbDAxRzluZDhReGstaFFldkR2ZzRyUUFEakFPMzNyV1c1LTJhNXd4YnFmVW9Bbk1BdmxnbnVPM25ZeExETUIzTXdWNXVPNDJnNTlWRnI1R1NDeTVTaHdHdGRKQWMwcVNWNzNlTlJiLUFlT0h2STN4OS01SFd6aEpMbjczRkFwZkhmd2U2SHhqZ2xzY28?oc=5",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 20.66,
-          "lon": -103.35
-        },
-        {
-          "id": "4e703138",
-          "tipo": "cierre_parcial",
-          "ruta": "autopista Guadalajara-Tepic deja al menos 9 muertos",
-          "descripcion": "Accidente en la autopista Guadalajara-Tepic deja al menos 9 muertos. Además de varios desaparecidos y dos elementos de la Guardia Nacional gravemente lesionados.",
-          "recomendacion": "",
-          "fecha": "12 julio 2026 · 14:55 CST",
-          "fecha_iso": "2026-07-12T14:55:00-06:00",
-          "fuente": "Quadratín Jalisco",
-          "url": "https://jalisco.quadratin.com.mx/principal/accidente-en-la-autopista-guadalajara-tepic-deja-al-menos-9-muertos/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 20.66,
-          "lon": -103.35
+          "fecha": "12 julio 2026 · 17:43 CST",
+          "fecha_iso": "2026-07-12T17:43:00-06:00",
+          "fuente": "Quadratín Puebla",
+          "url": "https://puebla.quadratin.com.mx/principal/lluvia-provoca-inundaciones-en-puebla-autoridades-piden-extremar-precauciones/",
+          "dot_color": "#3498db",
+          "badge": "badge-clima",
+          "badge_txt": "ALERTA CLIMA",
+          "lat": 19.04,
+          "lon": -98.2
         }
       ]
     }
   ],
   "para_mapa": [
+    {
+      "id": "b14550e7",
+      "tipo": "cierre_parcial",
+      "ruta": "autopista Guadalajara-Tepic",
+      "descripcion": "Lemus garantiza apoyo de Jalisco y atención a víctimas de accidente en autopista Guadalajara-Tepic. Tras el trágico accidente que dejó nueve fallecidos y 10 lesionados en la autopista Guadalajara-Tepic, el Gobernador Pablo Lemus garantizó el despliegue total de las dependencias estatales para asistir a las víctimas y sus familias",
+      "fecha": "12 julio 2026 · 18:21 CST",
+      "fuente": "El Informador Jalisco",
+      "url": "https://www.informador.mx/jalisco/lemus-garantiza-apoyo-de-jalisco-y-atencion-a-victimas-de-accidente-carretero-en-autopista-guadalajara--tepic-20260712-0095.html",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 20.66,
+      "lon": -103.35
+    },
+    {
+      "id": "16e0117c",
+      "tipo": "clima",
+      "ruta": "Lluvia provoca inundaciones en Puebla; autoridades piden extremar precauciones…",
+      "descripcion": "Lluvia provoca inundaciones en Puebla; autoridades piden extremar precauciones. La población puede solicitar apoyo a través del número 911.",
+      "fecha": "12 julio 2026 · 17:43 CST",
+      "fuente": "Quadratín Puebla",
+      "url": "https://puebla.quadratin.com.mx/principal/lluvia-provoca-inundaciones-en-puebla-autoridades-piden-extremar-precauciones/",
+      "dot_color": "#3498db",
+      "badge_txt": "ALERTA CLIMA",
+      "lat": 19.04,
+      "lon": -98.2
+    },
     {
       "id": "ff0272d0",
       "tipo": "cierre_parcial",
@@ -120,32 +163,6 @@
       "fecha": "12 julio 2026 · 16:20 CST",
       "fuente": "El Informador Jalisco",
       "url": "https://www.informador.mx/jalisco/sube-a-nueve-el-numero-de-fallecidos-tras-percance-vial-en-autopista-a-tepic-dos-menores-de-edad-perdieron-la-vida-20260712-0085.html",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 20.66,
-      "lon": -103.35
-    },
-    {
-      "id": "fa624dab",
-      "tipo": "cierre_parcial",
-      "ruta": "autopista Guadalajara-Tepic",
-      "descripcion": "Accidente en la autopista Guadalajara-Tepic, reportan al menos 16 fallecidos - Infobae. Accidente en la autopista Guadalajara-Tepic, reportan al menos 16 fallecidos Infobae",
-      "fecha": "12 julio 2026 · 15:03 CST",
-      "fuente": "Infobae",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZlBqb3paZEIzRUVycGw5WDhwdF9VOXVRTzVBTUlXMWRnRGhyRF9yYkxjWk1EcEg3Q2V0STdCQUVYeHRwWTBFVHc1WUxJZmkxS2IxZFM1UjVzVHdhUTMzRWloZ1lERlVMMFZVNC01MjRHNmFvaUtBR3JpbmpWdjYyWVVOb2VZbnBGMmR5dWtSSEhJY2JtVkc3b1JOS0oyZlhaN0FVcE5XMnRsZmY3Y3lwNWQ0bDVuNGF5N3fSAdQBQVVfeXFMUFU0LTRiX01MVFB3LWphQmJ4VTRBbUx0aExwLW9RU1l5WS1hZzhKazFGYW1mR2g4VXVKTXJjVlBtQ3ZfM093S1JsbDAxRzluZDhReGstaFFldkR2ZzRyUUFEakFPMzNyV1c1LTJhNXd4YnFmVW9Bbk1BdmxnbnVPM25ZeExETUIzTXdWNXVPNDJnNTlWRnI1R1NDeTVTaHdHdGRKQWMwcVNWNzNlTlJiLUFlT0h2STN4OS01SFd6aEpMbjczRkFwZkhmd2U2SHhqZ2xzY28?oc=5",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 20.66,
-      "lon": -103.35
-    },
-    {
-      "id": "4e703138",
-      "tipo": "cierre_parcial",
-      "ruta": "autopista Guadalajara-Tepic deja al menos 9 muertos",
-      "descripcion": "Accidente en la autopista Guadalajara-Tepic deja al menos 9 muertos. Además de varios desaparecidos y dos elementos de la Guardia Nacional gravemente lesionados.",
-      "fecha": "12 julio 2026 · 14:55 CST",
-      "fuente": "Quadratín Jalisco",
-      "url": "https://jalisco.quadratin.com.mx/principal/accidente-en-la-autopista-guadalajara-tepic-deja-al-menos-9-muertos/",
       "dot_color": "#e67e22",
       "badge_txt": "CIERRE PARCIAL",
       "lat": 20.66,
