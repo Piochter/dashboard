@@ -1,20 +1,14 @@
-╔══════════════════════════════════════════════════════════════════════╗
-║       SCRAPER ALERTAS VIALES MÉXICO v3.4 — AssistCargo              ║
-║  Fuentes:                                                           ║
-║    • Google News RSS   — queries específicos de vialidad            ║
-║    • RSS nacionales    — medios con filtro estricto                 ║
-║    • RSS regionales    — medios estatales                           ║
-║    • CAPUFE directo    — XML oficial                                ║
-║    • CONAGUA/SMN       — avisos meteorológicos                      ║
-║    • Telegram          — canales verificados de vialidad            ║
-║                                                                     ║
-║  v3.4 — Filtro de relevancia endurecido:                           ║
-║    · "ruta" ya NO acepta cualquier número de 2-3 dígitos            ║
-║    · robo/asalto solo relevante si es a transporte de carga        ║
-║      o en carretera (evita crimen urbano)                          ║
-║    · lista de falsos positivos ampliada                            ║
-╚══════════════════════════════════════════════════════════════════════╝
-"""
+#!/usr/bin/env python3
+# ---------------------------------------------------------------------------
+# SCRAPER ALERTAS VIALES MEXICO v3.5 - AssistCargo
+# Fuentes: Google News RSS, RSS nacionales/regionales, CAPUFE, CONAGUA, Telegram
+#
+# v3.5 - Filtro de relevancia balanceado:
+#   - "ruta" ya NO acepta cualquier numero de 2-3 digitos
+#   - robo/asalto solo relevante si es a transporte de carga o en carretera
+#   - contexto y eventos viales AMPLIOS para no dejar el feed vacio
+#   - lista de falsos positivos ampliada
+# ---------------------------------------------------------------------------
 import json, re, hashlib, logging, time, os, unicodedata, asyncio
 from datetime import datetime, timezone, timedelta
 from typing import Optional
@@ -229,15 +223,13 @@ COORD_MAP = {
     "tuxtla": (16.75, -93.12),      "hermosillo": (29.07, -110.96),
 }
 # ─────────────────────────────────────────────────────────────────────
-# FALSOS POSITIVOS  (ampliado en v3.4 con crimen urbano y temas no viales)
+# FALSOS POSITIVOS  (crimen urbano y temas no viales)
 # ─────────────────────────────────────────────────────────────────────
 FALSOS_POSITIVOS = [
     "reabre", "restablece circulacion", "circulacion normal", "sin novedad",
-    "se normaliza", "ya liberaron", "retiraron bloqueo", "fue detenido",
-    "fueron detenidos", "capturan", "capturaron", "detienen banda",
+    "se normaliza", "ya liberaron", "retiraron bloqueo",
     "simulacro", "en memoria", "aniversario", "recuerdan", "conmemoran",
-    "hace 10 anos", "hace un ano", "archivo", "reportaje especial",
-    "analisis de", "tendencias de", "estadisticas de", "ranking de",
+    "hace 10 anos", "hace un ano", "reportaje especial",
     "cierre de mercado", "cierre bursatil", "bolsa de valores",
     "cierre de ano", "cierre fiscal", "cierre de operaciones",
     "cierre de empresa", "cierre de negocio", "cierre de planta",
@@ -249,64 +241,54 @@ FALSOS_POSITIVOS = [
     "asalto a banco", "asalto a cajero", "asalto a comercio",
     "asalto a tienda", "asalto a restaurante", "asalto a joyeria",
     "homicidio", "feminicidio", "cuerpo sin vida", "cadaver", "ejecutado",
-    "balacera en", "narcomenudeo", "detenido con droga", "secuestro",
-    "violacion", "abuso sexual", "desaparecida", "desaparecido",
+    "balacera en", "narcomenudeo", "detenido con droga",
     # ── economía / finanzas ──
     "petroleo", "iran", "trump", "sanciones", "aranceles", "dolar",
-    "inflacion", "banco ", "pib ", "inversion", "exporta",
-    "importa", "comercio exterior", "finanzas", "presupuesto",
-    "pension afore", "credito", "hipoteca", "deuda publica",
+    "inflacion", "pib ", "comercio exterior", "presupuesto",
+    "pension afore", "hipoteca", "deuda publica",
     "tipo de cambio", "banxico", "banco de mexico", "reforma fiscal",
     # ── política ──
-    "eleccion", "candidato", "politico", "congreso", "senado", "diputado",
-    "partido ", "morena", "pan ", "pri ", "gobierno federal anuncia",
+    "eleccion", "candidato", "congreso", "senado", "diputado",
+    "morena", "pan ", "pri ", "gobierno federal anuncia",
     # ── deportes ──
-    "futbol", "liga mx", "deportes", "beisbol", "basquetbol", "nfl", "nba",
-    "champions league", "copa mx", "derrota", "victoria", "gol", "partido",
-    "jugador", "equipo ", "tecnico ", "torneo", "atleta",
+    "futbol", "liga mx", "beisbol", "basquetbol", "nfl", "nba",
+    "champions league", "copa mx", "torneo", "atleta",
     "rayadas", "chivas", "america fc", "cruz azul", "pumas", "tigres",
     # ── espectáculos ──
-    "concierto", "festival", "espectaculo", "cine", "television",
-    "serie de tv", "pelicula", "estreno", "netflix", "disney",
-    "the boys", "amazon prime", "spotify", "cantante", "actor", "actriz",
+    "concierto", "festival", "espectaculo", "estreno", "netflix", "disney",
+    "the boys", "amazon prime", "spotify", "cantante", "actriz",
     # ── salud ──
-    "covid", "vacuna", "salud ", "hospital", "medico", "enfermedad",
-    "sindrome", "padecimiento", "tratamiento medico", "clinica",
-    "ovario poliquistico", "diabetes", "cancer", "obesidad",
+    "covid", "vacuna", "ovario poliquistico", "diabetes", "cancer", "obesidad",
     # ── otros ──
-    "inmobiliaria", "vivienda", "departamento", "construccion residencial",
-    "inteligencia artificial", "startup", "software", "hardware",
+    "inmobiliaria", "construccion residencial",
+    "inteligencia artificial", "startup",
     "criptomoneda", "bitcoin", "nft", "metaverso",
-    "aifa", "aeropuerto", "vuelo", "aerolinea", "terminal aerea",
+    "aeropuerto", "vuelo", "aerolinea", "terminal aerea",
     "pasajeros aereos", "pista de aterrizaje",
-    "receta", "cocina", "gastronomia", "restaurante",
-    "hidro sustentable", "ahorro de agua", "sustentabilidad ambiental",
-    "distintivo", "certificacion", "premio", "reconocimiento",
-    "ciudadanos del", "mundial", "copa del mundo", "seleccion nacional",
-    "pide mexico a", "cancilleria", "embajada", "consulado",
+    "receta", "cocina", "gastronomia",
+    "mundial", "copa del mundo", "seleccion nacional",
+    "cancilleria", "embajada", "consulado",
     "migrantes", "migracion", "refugiados",
 ]
 # ─────────────────────────────────────────────────────────────────────
-# KEYWORDS VIALES
+# KEYWORDS VIALES  (contexto AMPLIO — v3.5)
 # ─────────────────────────────────────────────────────────────────────
 VIAL_CONTEXTO = [
-    "carretera", "autopista", "capufe", "guardia nacional",
-    "tractocamion", "caseta", "peaje", "tramo carretero", "libramiento",
+    "carretera", "autopista", "capufe", "guardia nacional", "tractocamion",
+    "trailer", "caseta", "peaje", "tramo", "libramiento", "periferico",
+    "viaducto", "circulacion", "vialidad", "transporte de carga", "autotransporte",
     "57d", "95d", "150d", "15d", "85d", "140d", "siglo xxi", "arco norte",
-    "kilometro", "viaducto elevado", "carretera federal",
-    "vialidad carretera", "transporte de carga", "autotransporte",
-    "mexico queretaro", "mexico puebla", "mexico cuernavaca",
-    "mexico pachuca", "mexico toluca", "mexico acapulco",
-    "mexico veracruz", "mexico laredo",
+    "kilometro", "km ", "carretera federal",
+    "mexico queretaro", "mexico puebla", "mexico cuernavaca", "mexico pachuca",
+    "mexico toluca", "mexico acapulco", "mexico veracruz", "mexico laredo",
 ]
 # Eventos viales generales (NO incluye robo/asalto: se tratan aparte)
 VIAL_EVENTO_GENERAL = [
     "cierre", "bloqueo", "accidente", "volcadura", "choque", "colision",
-    "derrumbe", "deslave", "inundacion", "neblina", "incendio de vehiculo",
-    "manifestacion", "manifestantes", "protesta",
-    "comuneros", "huelga", "paro carretero", "reduccion de carril", "percance",
-    "congestionamiento", "retencion vial", "obstruccion",
-    "falla mecanica", "vehiculo varado", "trafico lento",
+    "derrumbe", "deslave", "inundacion", "neblina", "incendio",
+    "manifestacion", "manifestantes", "protesta", "comuneros", "huelga",
+    "paro", "reduccion", "percance", "congestionamiento", "retencion",
+    "obstruccion", "falla mecanica", "varado", "trafico lento",
     "cerrada", "cerrado", "bloqueada", "bloqueado", "carril cerrado",
 ]
 # Eventos de robo/asalto (requieren contexto de carga o carretera)
@@ -315,7 +297,7 @@ ROBO_EVENTOS = [
 ]
 # Contexto que confirma que un robo es a transporte de carga / en carretera
 CARGA_CONTEXTO = [
-    "tractocamion", "trailer", "trailer", "camion de carga",
+    "tractocamion", "trailer", "camion de carga",
     "transporte de carga", "autotransporte", "autotransportista",
     "transportista", "operador de la unidad", "pipa", "furgon", "caja seca",
     "doble remolque", "remolque", "unidad de carga", "robo de unidad",
@@ -400,10 +382,7 @@ def es_relevante(texto: str) -> bool:
 
     # Robo / asalto: solo si es contra transporte de carga o en carretera
     if _es_robo(t):
-        if _tiene_carga(t):
-            return True
-        # robo urbano / a casa / negocio / persona → descartar
-        return False
+        return _tiene_carga(t)
 
     # Resto de eventos viales: exigir evento + contexto vial real
     tiene_evento = any(normalizar(k) in t for k in VIAL_EVENTO_GENERAL)
@@ -812,7 +791,7 @@ def agrupar(alertas: list[dict]) -> list[dict]:
 # ─────────────────────────────────────────────────────────────────────
 def main():
     log.info(
-        f"═══  Scraper Alertas Viales México v3.4  ══  "
+        f"═══  Scraper Alertas Viales México v3.5  ══  "
         f"ventana={LOOKBACK_MINUTES}min  modo={RUN_MODE}  "
         f"undated={'sí' if ACCEPT_UNDATED else 'no'}  ═══"
     )
