@@ -17,7 +17,7 @@ on:
       lookback_minutes:
         description: "Ventana de busqueda en minutos"
         required: false
-        default: "180"
+        default: "720"
         type: string
       accept_undated:
         description: "Aceptar fuentes sin fecha publicada"
@@ -34,7 +34,7 @@ permissions:
 
 env:
   SCRAPER_RUN_MODE:         ${{ github.event.inputs.run_mode || 'all' }}
-  SCRAPER_LOOKBACK_MINUTES: ${{ github.event.inputs.lookback_minutes || '180' }}
+  SCRAPER_LOOKBACK_MINUTES: ${{ github.event.inputs.lookback_minutes || '720' }}
   SCRAPER_OUTPUT_FILE:      alertas.json
   SCRAPER_ACCEPT_UNDATED:   ${{ github.event.inputs.accept_undated || 'true' }}
 
