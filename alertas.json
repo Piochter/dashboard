@@ -1,6 +1,6 @@
 {
-  "ultima_actualizacion": "2026-07-13T21:31:07.938680-06:00",
-  "ultima_actualizacion_legible": "13 de julio de 2026 · 21:31 CST",
+  "ultima_actualizacion": "2026-07-13T23:54:11.798368-06:00",
+  "ultima_actualizacion_legible": "13 de julio de 2026 · 23:54 CST",
   "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
@@ -9,37 +9,28 @@
   ],
   "grupos": [
     {
-      "tipo": "cierre_total",
-      "color": "rojo",
-      "icono": "🔴",
-      "label": "CIERRE TOTAL",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "4741074b",
-          "tipo": "cierre_total",
-          "ruta": "Vuelca tráiler con leche en polvo sobre el bulevar Xalapa-Coatepec…",
-          "descripcion": "Vuelca tráiler con leche en polvo sobre el bulevar Xalapa-Coatepec. Provocó el cierre total de la circulación en ambos sentidos",
-          "recomendacion": "",
-          "fecha": "13 julio 2026 · 15:50 CST",
-          "fecha_iso": "2026-07-13T15:50:00-06:00",
-          "fuente": "Quadratin Veracruz",
-          "url": "https://veracruz.quadratin.com.mx/vuelca-trailer-con-leche-en-polvo-sobre-el-bulevar-xalapa-coatepec/",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL",
-          "lat": 19.53,
-          "lon": -96.91
-        }
-      ]
-    },
-    {
       "tipo": "cierre_parcial",
       "color": "amarillo",
       "icono": "🟡",
       "label": "CIERRE PARCIAL / ACCIDENTES",
       "col2": true,
       "alertas": [
+        {
+          "id": "8da26879",
+          "tipo": "cierre_parcial",
+          "ruta": "Cierre parcial en avenida Xalapa; iniciaron labores de rehabilitación…",
+          "descripcion": "Cierre parcial en avenida Xalapa; iniciaron labores de rehabilitación. Mejorarán las condiciones de la vialidad",
+          "recomendacion": "",
+          "fecha": "13 julio 2026 · 22:15 CST",
+          "fecha_iso": "2026-07-13T22:15:00-06:00",
+          "fuente": "Quadratin Veracruz",
+          "url": "https://veracruz.quadratin.com.mx/cierre-parcial-en-avenida-xalapa-iniciaron-labores-de-rehabilitacion/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 19.53,
+          "lon": -96.91
+        },
         {
           "id": "0131b90e",
           "tipo": "cierre_parcial",
@@ -61,6 +52,19 @@
   ],
   "para_mapa": [
     {
+      "id": "8da26879",
+      "tipo": "cierre_parcial",
+      "ruta": "Cierre parcial en avenida Xalapa; iniciaron labores de rehabilitación…",
+      "descripcion": "Cierre parcial en avenida Xalapa; iniciaron labores de rehabilitación. Mejorarán las condiciones de la vialidad",
+      "fecha": "13 julio 2026 · 22:15 CST",
+      "fuente": "Quadratin Veracruz",
+      "url": "https://veracruz.quadratin.com.mx/cierre-parcial-en-avenida-xalapa-iniciaron-labores-de-rehabilitacion/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 19.53,
+      "lon": -96.91
+    },
+    {
       "id": "0131b90e",
       "tipo": "cierre_parcial",
       "ruta": "(FOTOS) Choque en autopista Guadalajara-Tepic deja al menos 9 muertos;…",
@@ -72,19 +76,6 @@
       "badge_txt": "CIERRE PARCIAL",
       "lat": 20.66,
       "lon": -103.35
-    },
-    {
-      "id": "4741074b",
-      "tipo": "cierre_total",
-      "ruta": "Vuelca tráiler con leche en polvo sobre el bulevar Xalapa-Coatepec…",
-      "descripcion": "Vuelca tráiler con leche en polvo sobre el bulevar Xalapa-Coatepec. Provocó el cierre total de la circulación en ambos sentidos",
-      "fecha": "13 julio 2026 · 15:50 CST",
-      "fuente": "Quadratin Veracruz",
-      "url": "https://veracruz.quadratin.com.mx/vuelca-trailer-con-leche-en-polvo-sobre-el-bulevar-xalapa-coatepec/",
-      "dot_color": "#e74c3c",
-      "badge_txt": "CIERRE TOTAL",
-      "lat": 19.53,
-      "lon": -96.91
     }
   ]
 }
