@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-07-14T16:48:33.989514-06:00",
-  "ultima_actualizacion_legible": "14 de julio de 2026 · 16:48 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-07-14T17:43:19.687653-06:00",
+  "ultima_actualizacion_legible": "14 de julio de 2026 · 17:43 CST",
+  "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Quadratin + regionales"
@@ -14,6 +14,22 @@
       "label": "CIERRE TOTAL",
       "col2": false,
       "alertas": [
+        {
+          "id": "bea19801",
+          "tipo": "cierre_total",
+          "ruta": "carretera estatal 100",
+          "descripcion": "CEI trabaja en la remoción de derrumbe en la carretera estatal 100. La Comisión Estatal de Infraestructura (CEI), informó que ya se realizan las labores para retirar el derrumbe registrado la noche del lunes The post CEI trabaja en la remoción de derrumbe en la carretera estatal 100 appeared first on Quadratin Querétaro.",
+          "recomendacion": "",
+          "fecha": "14 julio 2026 · 17:00 CST",
+          "fecha_iso": "2026-07-14T17:00:00-06:00",
+          "fuente": "Quadratin Queretaro",
+          "url": "https://queretaro.quadratin.com.mx/cei-trabaja-en-la-remocion-de-derrumbe-en-la-carretera-estatal-100/",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL",
+          "lat": 20.59,
+          "lon": -100.39
+        },
         {
           "id": "fe30c644",
           "tipo": "cierre_total",
@@ -34,6 +50,19 @@
     }
   ],
   "para_mapa": [
+    {
+      "id": "bea19801",
+      "tipo": "cierre_total",
+      "ruta": "carretera estatal 100",
+      "descripcion": "CEI trabaja en la remoción de derrumbe en la carretera estatal 100. La Comisión Estatal de Infraestructura (CEI), informó que ya se realizan las labores para retirar el derrumbe registrado la noche del lunes The post CEI trabaja en la remoción de derrumbe en la carretera estatal 100 appeared first on Quadratin Querétaro.",
+      "fecha": "14 julio 2026 · 17:00 CST",
+      "fuente": "Quadratin Queretaro",
+      "url": "https://queretaro.quadratin.com.mx/cei-trabaja-en-la-remocion-de-derrumbe-en-la-carretera-estatal-100/",
+      "dot_color": "#e74c3c",
+      "badge_txt": "CIERRE TOTAL",
+      "lat": 20.59,
+      "lon": -100.39
+    },
     {
       "id": "fe30c644",
       "tipo": "cierre_total",
