@@ -1,36 +1,12 @@
 {
-  "ultima_actualizacion": "2026-07-14T12:17:22.265126-06:00",
-  "ultima_actualizacion_legible": "14 de julio de 2026 · 12:17 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-07-14T13:51:47.749553-06:00",
+  "ultima_actualizacion_legible": "14 de julio de 2026 · 13:51 CST",
+  "total": 1,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Medios regionales",
     "Quadratin + regionales"
   ],
   "grupos": [
-    {
-      "tipo": "cierre_total",
-      "color": "rojo",
-      "icono": "🔴",
-      "label": "CIERRE TOTAL",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "5c3b705c",
-          "tipo": "cierre_total",
-          "ruta": "autopista Salamanca-Celaya",
-          "descripcion": "Intento de asalto a transportista termina en volcadura en autopista Salamanca-Celaya. Se sabe que los tripulantes de la unidad de transporte fueron valorados en el sitio sin que fuera necesario su traslado al hospital.",
-          "recomendacion": "",
-          "fecha": "14 julio 2026 · 12:05 CST",
-          "fecha_iso": "2026-07-14T12:05:00-06:00",
-          "fuente": "AM Guanajuato",
-          "url": "https://www.am.com.mx/celaya/2026/07/14/por-asalto-vuelca-chofer-en-autopista-salamanca-celaya-1819389.html",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL"
-        }
-      ]
-    },
     {
       "tipo": "cierre_parcial",
       "color": "amarillo",
