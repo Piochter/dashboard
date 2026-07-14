@@ -1,12 +1,37 @@
 {
-  "ultima_actualizacion": "2026-07-14T14:51:04.401085-06:00",
-  "ultima_actualizacion_legible": "14 de julio de 2026 · 14:51 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-07-14T15:48:49.462891-06:00",
+  "ultima_actualizacion_legible": "14 de julio de 2026 · 15:48 CST",
+  "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Quadratin + regionales"
   ],
   "grupos": [
+    {
+      "tipo": "cierre_total",
+      "color": "rojo",
+      "icono": "🔴",
+      "label": "CIERRE TOTAL",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "fe30c644",
+          "tipo": "cierre_total",
+          "ruta": "carretera 100 jala cableado de la CFE en Bernal",
+          "descripcion": "Derrumbe en la carretera 100 jala cableado de la CFE en Bernal. En el tramo de Bernal a San Antonio de la Cal en el municipio de Ezequiel Montes The post Derrumbe en la carretera 100 jala cableado de la CFE en Bernal appeared first on Quadratin Querétaro.",
+          "recomendacion": "",
+          "fecha": "14 julio 2026 · 15:30 CST",
+          "fecha_iso": "2026-07-14T15:30:00-06:00",
+          "fuente": "Quadratin Queretaro",
+          "url": "https://queretaro.quadratin.com.mx/derrumbe-en-la-carretera-100-jala-cableado-de-la-cfe-en-bernal/",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL",
+          "lat": 20.59,
+          "lon": -100.39
+        }
+      ]
+    },
     {
       "tipo": "cierre_parcial",
       "color": "amarillo",
@@ -31,5 +56,19 @@
       ]
     }
   ],
-  "para_mapa": []
+  "para_mapa": [
+    {
+      "id": "fe30c644",
+      "tipo": "cierre_total",
+      "ruta": "carretera 100 jala cableado de la CFE en Bernal",
+      "descripcion": "Derrumbe en la carretera 100 jala cableado de la CFE en Bernal. En el tramo de Bernal a San Antonio de la Cal en el municipio de Ezequiel Montes The post Derrumbe en la carretera 100 jala cableado de la CFE en Bernal appeared first on Quadratin Querétaro.",
+      "fecha": "14 julio 2026 · 15:30 CST",
+      "fuente": "Quadratin Queretaro",
+      "url": "https://queretaro.quadratin.com.mx/derrumbe-en-la-carretera-100-jala-cableado-de-la-cfe-en-bernal/",
+      "dot_color": "#e74c3c",
+      "badge_txt": "CIERRE TOTAL",
+      "lat": 20.59,
+      "lon": -100.39
+    }
+  ]
 }
