@@ -1,10 +1,11 @@
 {
-  "ultima_actualizacion": "2026-07-13T17:12:02.409305-06:00",
-  "ultima_actualizacion_legible": "13 de julio de 2026 · 17:12 CST",
-  "total": 4,
+  "ultima_actualizacion": "2026-07-13T18:06:25.213295-06:00",
+  "ultima_actualizacion_legible": "13 de julio de 2026 · 18:06 CST",
+  "total": 3,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Quadratin + regionales"
+    "Quadratin + regionales",
+    "Telegram"
   ],
   "grupos": [
     {
@@ -29,20 +30,6 @@
           "badge_txt": "CIERRE TOTAL",
           "lat": 19.53,
           "lon": -96.91
-        },
-        {
-          "id": "7c6f4c66",
-          "tipo": "cierre_total",
-          "ruta": "Deja volcadura 3 lesionados en San Bartolo Coyotepec…",
-          "descripcion": "Deja volcadura 3 lesionados en San Bartolo Coyotepec. El accidente ocurrió sobre la carretera federal 175, luego de que un vehículo presuntamente realizó un corte de circulación",
-          "recomendacion": "",
-          "fecha": "13 julio 2026 · 11:14 CST",
-          "fecha_iso": "2026-07-13T11:14:00-06:00",
-          "fuente": "Quadratin Oaxaca",
-          "url": "https://oaxaca.quadratin.com.mx/deja-volcadura-3-lesionados-en-san-bartolo-coyotepec/",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL"
         }
       ]
     },
@@ -53,6 +40,22 @@
       "label": "CIERRE PARCIAL / ACCIDENTES",
       "col2": true,
       "alertas": [
+        {
+          "id": "0131b90e",
+          "tipo": "cierre_parcial",
+          "ruta": "(FOTOS) Choque en autopista Guadalajara-Tepic deja al menos 9 muertos;…",
+          "descripcion": "(FOTOS) Choque en autopista Guadalajara-Tepic deja al menos 9 muertos; tractocamión embistió a [autos](http://telegra.ph/FOTOS-Choque-en-autopista-Guadalajara-Tepic-deja-al-menos-9-muertos-tractocamión-embistió-a-autos-07-13)\n\n__via__ [www.elfinanciero.com.mx](https://www.elfinanciero.com.mx/estados/2026/07/12/accidente-en-autopista-guadalajara-tepic-deja-al-menos-10-muertos-tractocamion-embistio-a-autos/)",
+          "recomendacion": "",
+          "fecha": "13 julio 2026 · 18:01 CST",
+          "fecha_iso": "2026-07-13T18:01:00-06:00",
+          "fuente": "Telegram @NOTMEX",
+          "url": "https://t.me/NOTMEX/184580",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 20.66,
+          "lon": -103.35
+        },
         {
           "id": "5775201c",
           "tipo": "cierre_parcial",
@@ -68,27 +71,24 @@
           "badge_txt": "CIERRE PARCIAL",
           "lat": 19.35,
           "lon": -98.4
-        },
-        {
-          "id": "e4fd2535",
-          "tipo": "cierre_parcial",
-          "ruta": "Fatal accidente en la Querétaro – San Luis deja un…",
-          "descripcion": "Fatal accidente en la Querétaro – San Luis deja un muerto. Un tráfico accidente fue que se registró sobre la autopista 57 en el tramo Querétaro - San Luis, a la altura de la comunidad de Jofre en la Delegación The post Fatal accidente en la Querétaro – San Luis deja un muerto appeared first on Quadratin Querétaro.",
-          "recomendacion": "",
-          "fecha": "13 julio 2026 · 15:00 CST",
-          "fecha_iso": "2026-07-13T15:00:00-06:00",
-          "fuente": "Quadratin Queretaro",
-          "url": "https://queretaro.quadratin.com.mx/fatal-accidente-en-la-queretaro-san-luis-deja-un-muerto/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 21.5,
-          "lon": -100.0
         }
       ]
     }
   ],
   "para_mapa": [
+    {
+      "id": "0131b90e",
+      "tipo": "cierre_parcial",
+      "ruta": "(FOTOS) Choque en autopista Guadalajara-Tepic deja al menos 9 muertos;…",
+      "descripcion": "(FOTOS) Choque en autopista Guadalajara-Tepic deja al menos 9 muertos; tractocamión embistió a [autos](http://telegra.ph/FOTOS-Choque-en-autopista-Guadalajara-Tepic-deja-al-menos-9-muertos-tractocamión-embistió-a-autos-07-13)\n\n__via__ [www.elfinanciero.com.mx](https://www.elfinanciero.com.mx/estados/2026/07/12/accidente-en-autopista-guadalajara-tepic-deja-al-menos-10-muertos-tractocamion-embistio-a-autos/)",
+      "fecha": "13 julio 2026 · 18:01 CST",
+      "fuente": "Telegram @NOTMEX",
+      "url": "https://t.me/NOTMEX/184580",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 20.66,
+      "lon": -103.35
+    },
     {
       "id": "4741074b",
       "tipo": "cierre_total",
@@ -114,19 +114,6 @@
       "badge_txt": "CIERRE PARCIAL",
       "lat": 19.35,
       "lon": -98.4
-    },
-    {
-      "id": "e4fd2535",
-      "tipo": "cierre_parcial",
-      "ruta": "Fatal accidente en la Querétaro – San Luis deja un…",
-      "descripcion": "Fatal accidente en la Querétaro – San Luis deja un muerto. Un tráfico accidente fue que se registró sobre la autopista 57 en el tramo Querétaro - San Luis, a la altura de la comunidad de Jofre en la Delegación The post Fatal accidente en la Querétaro – San Luis deja un muerto appeared first on Quadratin Querétaro.",
-      "fecha": "13 julio 2026 · 15:00 CST",
-      "fuente": "Quadratin Queretaro",
-      "url": "https://queretaro.quadratin.com.mx/fatal-accidente-en-la-queretaro-san-luis-deja-un-muerto/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 21.5,
-      "lon": -100.0
     }
   ]
 }
