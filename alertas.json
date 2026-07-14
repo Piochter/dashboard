@@ -1,13 +1,37 @@
 {
-  "ultima_actualizacion": "2026-07-13T23:54:11.798368-06:00",
-  "ultima_actualizacion_legible": "13 de julio de 2026 · 23:54 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-07-14T01:48:42.778618-06:00",
+  "ultima_actualizacion_legible": "14 de julio de 2026 · 01:48 CST",
+  "total": 3,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
+    "Medios regionales",
     "Quadratin + regionales",
     "Telegram"
   ],
   "grupos": [
+    {
+      "tipo": "bloqueo",
+      "color": "rojo",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "7ace588b",
+          "tipo": "bloqueo",
+          "ruta": "Usan láser y armas: Chofer de tráiler no se detiene…",
+          "descripcion": "Usan láser y armas: Chofer de tráiler no se detiene y libra asalto a balazos en Apaseo el Grande. Un trailero y su copiloto escaparon ilesos tras ser emboscados a balazos y con rayos láser por hombres armados en el tramo Apaseo el Grande-Celaya.",
+          "recomendacion": "",
+          "fecha": "13 julio 2026 · 23:45 CST",
+          "fecha_iso": "2026-07-13T23:45:00-06:00",
+          "fuente": "AM Guanajuato",
+          "url": "https://www.am.com.mx/guanajuato-sur/2026/07/13/usan-laser-y-armas-chofer-de-trailer-no-se-detiene-y-libra-asalto-a-balazos-en-apaseo-el-grande-1819344.html",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        }
+      ]
+    },
     {
       "tipo": "cierre_parcial",
       "color": "amarillo",
