@@ -1,80 +1,12 @@
 {
-  "ultima_actualizacion": "2026-07-14T17:43:19.687653-06:00",
-  "ultima_actualizacion_legible": "14 de julio de 2026 · 17:43 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-07-14T19:01:17.061194-06:00",
+  "ultima_actualizacion_legible": "14 de julio de 2026 · 19:01 CST",
+  "total": 0,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Quadratin + regionales"
+    "Google News"
   ],
-  "grupos": [
-    {
-      "tipo": "cierre_total",
-      "color": "rojo",
-      "icono": "🔴",
-      "label": "CIERRE TOTAL",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "bea19801",
-          "tipo": "cierre_total",
-          "ruta": "carretera estatal 100",
-          "descripcion": "CEI trabaja en la remoción de derrumbe en la carretera estatal 100. La Comisión Estatal de Infraestructura (CEI), informó que ya se realizan las labores para retirar el derrumbe registrado la noche del lunes The post CEI trabaja en la remoción de derrumbe en la carretera estatal 100 appeared first on Quadratin Querétaro.",
-          "recomendacion": "",
-          "fecha": "14 julio 2026 · 17:00 CST",
-          "fecha_iso": "2026-07-14T17:00:00-06:00",
-          "fuente": "Quadratin Queretaro",
-          "url": "https://queretaro.quadratin.com.mx/cei-trabaja-en-la-remocion-de-derrumbe-en-la-carretera-estatal-100/",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL",
-          "lat": 20.59,
-          "lon": -100.39
-        },
-        {
-          "id": "fe30c644",
-          "tipo": "cierre_total",
-          "ruta": "carretera 100 jala cableado de la CFE en Bernal",
-          "descripcion": "Derrumbe en la carretera 100 jala cableado de la CFE en Bernal. En el tramo de Bernal a San Antonio de la Cal en el municipio de Ezequiel Montes The post Derrumbe en la carretera 100 jala cableado de la CFE en Bernal appeared first on Quadratin Querétaro.",
-          "recomendacion": "",
-          "fecha": "14 julio 2026 · 15:30 CST",
-          "fecha_iso": "2026-07-14T15:30:00-06:00",
-          "fuente": "Quadratin Queretaro",
-          "url": "https://queretaro.quadratin.com.mx/derrumbe-en-la-carretera-100-jala-cableado-de-la-cfe-en-bernal/",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL",
-          "lat": 20.59,
-          "lon": -100.39
-        }
-      ]
-    }
-  ],
-  "para_mapa": [
-    {
-      "id": "bea19801",
-      "tipo": "cierre_total",
-      "ruta": "carretera estatal 100",
-      "descripcion": "CEI trabaja en la remoción de derrumbe en la carretera estatal 100. La Comisión Estatal de Infraestructura (CEI), informó que ya se realizan las labores para retirar el derrumbe registrado la noche del lunes The post CEI trabaja en la remoción de derrumbe en la carretera estatal 100 appeared first on Quadratin Querétaro.",
-      "fecha": "14 julio 2026 · 17:00 CST",
-      "fuente": "Quadratin Queretaro",
-      "url": "https://queretaro.quadratin.com.mx/cei-trabaja-en-la-remocion-de-derrumbe-en-la-carretera-estatal-100/",
-      "dot_color": "#e74c3c",
-      "badge_txt": "CIERRE TOTAL",
-      "lat": 20.59,
-      "lon": -100.39
-    },
-    {
-      "id": "fe30c644",
-      "tipo": "cierre_total",
-      "ruta": "carretera 100 jala cableado de la CFE en Bernal",
-      "descripcion": "Derrumbe en la carretera 100 jala cableado de la CFE en Bernal. En el tramo de Bernal a San Antonio de la Cal en el municipio de Ezequiel Montes The post Derrumbe en la carretera 100 jala cableado de la CFE en Bernal appeared first on Quadratin Querétaro.",
-      "fecha": "14 julio 2026 · 15:30 CST",
-      "fuente": "Quadratin Queretaro",
-      "url": "https://queretaro.quadratin.com.mx/derrumbe-en-la-carretera-100-jala-cableado-de-la-cfe-en-bernal/",
-      "dot_color": "#e74c3c",
-      "badge_txt": "CIERRE TOTAL",
-      "lat": 20.59,
-      "lon": -100.39
-    }
-  ]
+  "grupos": [],
+  "para_mapa": [],
+  "nota": "Sin alertas activas en la ventana de tiempo configurada."
 }
