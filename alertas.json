@@ -1,6 +1,6 @@
 {
-  "ultima_actualizacion": "2026-07-15T16:13:28.340251-06:00",
-  "ultima_actualizacion_legible": "15 de julio de 2026 · 16:13 CST",
+  "ultima_actualizacion": "2026-07-15T17:12:40.741118-06:00",
+  "ultima_actualizacion_legible": "15 de julio de 2026 · 17:12 CST",
   "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
@@ -16,10 +16,10 @@
       "col2": true,
       "alertas": [
         {
-          "id": "4fdcd83e",
+          "id": "e8c0cbde",
           "tipo": "cierre_parcial",
-          "ruta": "Se DESCARRILA Tren Interoceánico en la misma zona de Oaxaca…",
-          "descripcion": "Se DESCARRILA Tren Interoceánico en la misma zona de Oaxaca donde se accidentó antes: FOTOS y detalles. Un tren de carga del Corredor Interoceánico se salió de las vías en Asunción Ixtaltepec, Oaxaca, reviviendo el temor al ocurrir exactamente en el mismo kilómetro del fatal accidente de diciembre pasado",
+          "ruta": "Se DESCARRILA Tren Interoceánico en la misma zona donde se…",
+          "descripcion": "Se DESCARRILA Tren Interoceánico en la misma zona donde se accidentó antes: FOTOS. Un tren de carga del Corredor Interoceánico se salió de las vías en Asunción Ixtaltepec, Oaxaca, reviviendo el temor al ocurrir exactamente en el mismo kilómetro del fatal accidente de diciembre pasado",
           "recomendacion": "",
           "fecha": "15 julio 2026 · 16:05 CST",
           "fecha_iso": "2026-07-15T16:05:00-06:00",
@@ -50,10 +50,10 @@
   ],
   "para_mapa": [
     {
-      "id": "4fdcd83e",
+      "id": "e8c0cbde",
       "tipo": "cierre_parcial",
-      "ruta": "Se DESCARRILA Tren Interoceánico en la misma zona de Oaxaca…",
-      "descripcion": "Se DESCARRILA Tren Interoceánico en la misma zona de Oaxaca donde se accidentó antes: FOTOS y detalles. Un tren de carga del Corredor Interoceánico se salió de las vías en Asunción Ixtaltepec, Oaxaca, reviviendo el temor al ocurrir exactamente en el mismo kilómetro del fatal accidente de diciembre pasado",
+      "ruta": "Se DESCARRILA Tren Interoceánico en la misma zona donde se…",
+      "descripcion": "Se DESCARRILA Tren Interoceánico en la misma zona donde se accidentó antes: FOTOS. Un tren de carga del Corredor Interoceánico se salió de las vías en Asunción Ixtaltepec, Oaxaca, reviviendo el temor al ocurrir exactamente en el mismo kilómetro del fatal accidente de diciembre pasado",
       "fecha": "15 julio 2026 · 16:05 CST",
       "fuente": "El Informador Jalisco",
       "url": "https://www.informador.mx/mexico/se-descarrila-tren-interoceanico-en-la-misma-zona-de-oaxaca-donde-se-accidento-antes-fotos-y-detalles-20260715-0152.html",
