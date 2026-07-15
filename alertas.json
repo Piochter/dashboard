@@ -1,11 +1,10 @@
 {
-  "ultima_actualizacion": "2026-07-15T12:56:38.777780-06:00",
-  "ultima_actualizacion_legible": "15 de julio de 2026 · 12:56 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-07-15T14:04:18.888396-06:00",
+  "ultima_actualizacion_legible": "15 de julio de 2026 · 14:04 CST",
+  "total": 1,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Medios regionales",
-    "Quadratin + regionales"
+    "Medios nacionales"
   ],
   "grupos": [
     {
@@ -16,66 +15,21 @@
       "col2": true,
       "alertas": [
         {
-          "id": "2edbd0c7",
+          "id": "5a094b81",
           "tipo": "cierre_parcial",
-          "ruta": "Se registran dos accidentes en la autopista a Colima; hubo…",
-          "descripcion": "Se registran dos accidentes en la autopista a Colima; hubo cierres viales. Por fortuna, tras los siniestros, no se registraron pérdidas humanas ni lesionados en estado grave",
+          "ruta": "Autopista del Sol para demandar la reapertura de un acceso a Dos Arroyos",
+          "descripcion": "Bloquean la Autopista del Sol para demandar la reapertura de un acceso a Dos Arroyos. El cierre de la Autopista del Sol comenzó a las 6:00 horas, metros más adelante de la caseta de peaje del poblado La Venta.",
           "recomendacion": "",
-          "fecha": "15 julio 2026 · 10:26 CST",
-          "fecha_iso": "2026-07-15T10:26:00-06:00",
-          "fuente": "El Informador Jalisco",
-          "url": "https://www.informador.mx/jalisco/accidentes-en-jalisco-se-registran-dos-siniestros-en-la-autopista-a-colima-hubo-cierres-viales-20260715-0081.html",
+          "fecha": "15 julio 2026 · 13:56 CST",
+          "fecha_iso": "2026-07-15T13:56:00-06:00",
+          "fuente": "24 Horas",
+          "url": "https://24-horas.mx/estados/bloquean-la-autopista-del-sol-para-demandar-la-reapertura-de-un-acceso-a-dos-arroyos/",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.24,
-          "lon": -103.72
-        },
-        {
-          "id": "024567dd",
-          "tipo": "cierre_parcial",
-          "ruta": "Autopista del Sol por cierre de acceso a pueblo de Acapulco",
-          "descripcion": "Bloquean la Autopista del Sol por cierre de acceso a pueblo de Acapulco. Era una salida de emergencia de Dos Arroyos, señalan habitantes",
-          "recomendacion": "",
-          "fecha": "15 julio 2026 · 10:18 CST",
-          "fecha_iso": "2026-07-15T10:18:00-06:00",
-          "fuente": "Quadratin Guerrero",
-          "url": "https://guerrero.quadratin.com.mx/bloquean-la-autopista-del-sol-por-cierre-de-acceso-a-pueblo-de-acapulco/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 16.86,
-          "lon": -99.88
+          "badge_txt": "CIERRE PARCIAL"
         }
       ]
     }
   ],
-  "para_mapa": [
-    {
-      "id": "2edbd0c7",
-      "tipo": "cierre_parcial",
-      "ruta": "Se registran dos accidentes en la autopista a Colima; hubo…",
-      "descripcion": "Se registran dos accidentes en la autopista a Colima; hubo cierres viales. Por fortuna, tras los siniestros, no se registraron pérdidas humanas ni lesionados en estado grave",
-      "fecha": "15 julio 2026 · 10:26 CST",
-      "fuente": "El Informador Jalisco",
-      "url": "https://www.informador.mx/jalisco/accidentes-en-jalisco-se-registran-dos-siniestros-en-la-autopista-a-colima-hubo-cierres-viales-20260715-0081.html",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.24,
-      "lon": -103.72
-    },
-    {
-      "id": "024567dd",
-      "tipo": "cierre_parcial",
-      "ruta": "Autopista del Sol por cierre de acceso a pueblo de Acapulco",
-      "descripcion": "Bloquean la Autopista del Sol por cierre de acceso a pueblo de Acapulco. Era una salida de emergencia de Dos Arroyos, señalan habitantes",
-      "fecha": "15 julio 2026 · 10:18 CST",
-      "fuente": "Quadratin Guerrero",
-      "url": "https://guerrero.quadratin.com.mx/bloquean-la-autopista-del-sol-por-cierre-de-acceso-a-pueblo-de-acapulco/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 16.86,
-      "lon": -99.88
-    }
-  ]
+  "para_mapa": []
 }
