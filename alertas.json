@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-07-15T17:12:40.741118-06:00",
-  "ultima_actualizacion_legible": "15 de julio de 2026 · 17:12 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-07-15T18:09:47.435624-06:00",
+  "ultima_actualizacion_legible": "15 de julio de 2026 · 18:09 CST",
+  "total": 3,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Medios nacionales",
@@ -15,6 +15,20 @@
       "label": "CIERRE PARCIAL / ACCIDENTES",
       "col2": true,
       "alertas": [
+        {
+          "id": "26621248",
+          "tipo": "cierre_parcial",
+          "ruta": "Suben robos a autobuses de pasajeros en México; AMIS alerta…",
+          "descripcion": "Suben robos a autobuses de pasajeros en México; AMIS alerta por este delito. Advierten que este delito aumentó de 68 a 162 unidades en el último año, por lo que recomendaron tomar precauciones sobre todo en carreteras",
+          "recomendacion": "",
+          "fecha": "15 julio 2026 · 17:27 CST",
+          "fecha_iso": "2026-07-15T17:27:00-06:00",
+          "fuente": "El Informador Jalisco",
+          "url": "https://www.informador.mx/mexico/suben-robos-a-autobuses-de-pasajeros-en-mexico-esta-es-la-region-mas-peligrosa-segun-amis-20260715-0169.html",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        },
         {
           "id": "e8c0cbde",
           "tipo": "cierre_parcial",
