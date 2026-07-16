@@ -1,11 +1,11 @@
 {
-  "ultima_actualizacion": "2026-07-15T18:09:47.435624-06:00",
-  "ultima_actualizacion_legible": "15 de julio de 2026 · 18:09 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-07-15T21:34:57.115063-06:00",
+  "ultima_actualizacion_legible": "15 de julio de 2026 · 21:34 CST",
+  "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Medios nacionales",
-    "Medios regionales"
+    "Medios regionales",
+    "Quadratin + regionales"
   ],
   "grupos": [
     {
@@ -16,65 +16,51 @@
       "col2": true,
       "alertas": [
         {
-          "id": "26621248",
+          "id": "b1fc64bf",
           "tipo": "cierre_parcial",
-          "ruta": "Suben robos a autobuses de pasajeros en México; AMIS alerta…",
-          "descripcion": "Suben robos a autobuses de pasajeros en México; AMIS alerta por este delito. Advierten que este delito aumentó de 68 a 162 unidades en el último año, por lo que recomendaron tomar precauciones sobre todo en carreteras",
+          "ruta": "autopista a Tepic",
+          "descripcion": "Identifican a 5 de los 9 fallecidos en choque de autopista a Tepic. Fueron identificadas mediante el proceso de dictaminación multidisciplinaria.",
           "recomendacion": "",
-          "fecha": "15 julio 2026 · 17:27 CST",
-          "fecha_iso": "2026-07-15T17:27:00-06:00",
-          "fuente": "El Informador Jalisco",
-          "url": "https://www.informador.mx/mexico/suben-robos-a-autobuses-de-pasajeros-en-mexico-esta-es-la-region-mas-peligrosa-segun-amis-20260715-0169.html",
+          "fecha": "15 julio 2026 · 20:02 CST",
+          "fecha_iso": "2026-07-15T20:02:00-06:00",
+          "fuente": "Quadratin Jalisco",
+          "url": "https://jalisco.quadratin.com.mx/sucesos/identifican-a-5-de-los-9-fallecidos-en-choque-de-autopista-a-tepic/",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL"
         },
         {
-          "id": "e8c0cbde",
+          "id": "3770ae06",
           "tipo": "cierre_parcial",
-          "ruta": "Se DESCARRILA Tren Interoceánico en la misma zona donde se…",
-          "descripcion": "Se DESCARRILA Tren Interoceánico en la misma zona donde se accidentó antes: FOTOS. Un tren de carga del Corredor Interoceánico se salió de las vías en Asunción Ixtaltepec, Oaxaca, reviviendo el temor al ocurrir exactamente en el mismo kilómetro del fatal accidente de diciembre pasado",
+          "ruta": "Se incendia tractocamión cargado con cerveza en la carretera Mérida–Valladolid…",
+          "descripcion": "Se incendia tractocamión cargado con cerveza en la carretera Mérida–Valladolid. El tractocamión cargado con aproximadamente 20 mil planchas de cerveza se incendió a la altura del kilómetro 30; no hubo lesionados",
           "recomendacion": "",
-          "fecha": "15 julio 2026 · 16:05 CST",
-          "fecha_iso": "2026-07-15T16:05:00-06:00",
-          "fuente": "El Informador Jalisco",
-          "url": "https://www.informador.mx/mexico/se-descarrila-tren-interoceanico-en-la-misma-zona-de-oaxaca-donde-se-accidento-antes-fotos-y-detalles-20260715-0152.html",
+          "fecha": "15 julio 2026 · 14:44 CST",
+          "fecha_iso": "2026-07-15T14:44:00-06:00",
+          "fuente": "El Sol de Mexico",
+          "url": "https://oem.com.mx/elsoldemexico/mexico/se-incendia-tractocamion-cargado-con-cerveza-en-la-carretera-merida-valladolid-31145369",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL",
-          "lat": 17.06,
-          "lon": -96.72
-        },
-        {
-          "id": "5a094b81",
-          "tipo": "cierre_parcial",
-          "ruta": "Autopista del Sol para demandar la reapertura de un acceso a Dos Arroyos",
-          "descripcion": "Bloquean la Autopista del Sol para demandar la reapertura de un acceso a Dos Arroyos. El cierre de la Autopista del Sol comenzó a las 6:00 horas, metros más adelante de la caseta de peaje del poblado La Venta.",
-          "recomendacion": "",
-          "fecha": "15 julio 2026 · 13:56 CST",
-          "fecha_iso": "2026-07-15T13:56:00-06:00",
-          "fuente": "24 Horas",
-          "url": "https://24-horas.mx/estados/bloquean-la-autopista-del-sol-para-demandar-la-reapertura-de-un-acceso-a-dos-arroyos/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
+          "lat": 20.97,
+          "lon": -89.62
         }
       ]
     }
   ],
   "para_mapa": [
     {
-      "id": "e8c0cbde",
+      "id": "3770ae06",
       "tipo": "cierre_parcial",
-      "ruta": "Se DESCARRILA Tren Interoceánico en la misma zona donde se…",
-      "descripcion": "Se DESCARRILA Tren Interoceánico en la misma zona donde se accidentó antes: FOTOS. Un tren de carga del Corredor Interoceánico se salió de las vías en Asunción Ixtaltepec, Oaxaca, reviviendo el temor al ocurrir exactamente en el mismo kilómetro del fatal accidente de diciembre pasado",
-      "fecha": "15 julio 2026 · 16:05 CST",
-      "fuente": "El Informador Jalisco",
-      "url": "https://www.informador.mx/mexico/se-descarrila-tren-interoceanico-en-la-misma-zona-de-oaxaca-donde-se-accidento-antes-fotos-y-detalles-20260715-0152.html",
+      "ruta": "Se incendia tractocamión cargado con cerveza en la carretera Mérida–Valladolid…",
+      "descripcion": "Se incendia tractocamión cargado con cerveza en la carretera Mérida–Valladolid. El tractocamión cargado con aproximadamente 20 mil planchas de cerveza se incendió a la altura del kilómetro 30; no hubo lesionados",
+      "fecha": "15 julio 2026 · 14:44 CST",
+      "fuente": "El Sol de Mexico",
+      "url": "https://oem.com.mx/elsoldemexico/mexico/se-incendia-tractocamion-cargado-con-cerveza-en-la-carretera-merida-valladolid-31145369",
       "dot_color": "#e67e22",
       "badge_txt": "CIERRE PARCIAL",
-      "lat": 17.06,
-      "lon": -96.72
+      "lat": 20.97,
+      "lon": -89.62
     }
   ]
 }
