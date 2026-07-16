@@ -1,11 +1,10 @@
 {
-  "ultima_actualizacion": "2026-07-16T09:53:41.234377-06:00",
-  "ultima_actualizacion_legible": "16 de julio de 2026 · 09:53 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-07-16T11:04:45.332452-06:00",
+  "ultima_actualizacion_legible": "16 de julio de 2026 · 11:04 CST",
+  "total": 1,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News",
-    "Quadratin + regionales"
+    "Google News"
   ],
   "grupos": [
     {
@@ -30,20 +29,6 @@
           "badge_txt": "CIERRE PARCIAL",
           "lat": 26.5,
           "lon": -99.5
-        },
-        {
-          "id": "819d102e",
-          "tipo": "cierre_parcial",
-          "ruta": "Autopista del Sol",
-          "descripcion": "Muere mujer al caer con su auto a barranco de 10 metros en Autopista del Sol. El accidente ocurre en Eduardo Neri",
-          "recomendacion": "",
-          "fecha": "15 julio 2026 · 22:05 CST",
-          "fecha_iso": "2026-07-15T22:05:00-06:00",
-          "fuente": "Quadratin Guerrero",
-          "url": "https://guerrero.quadratin.com.mx/muere-mujer-al-caer-con-su-auto-a-barranco-de-10-metros-en-autopista-del-sol/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
         }
       ]
     }
