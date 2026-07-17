@@ -1,12 +1,36 @@
 {
-  "ultima_actualizacion": "2026-07-17T04:30:59.393473-06:00",
-  "ultima_actualizacion_legible": "17 de julio de 2026 · 04:30 CST",
+  "ultima_actualizacion": "2026-07-17T05:54:03.406287-06:00",
+  "ultima_actualizacion_legible": "17 de julio de 2026 · 05:54 CST",
   "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
+    "Medios regionales",
     "Quadratin + regionales"
   ],
   "grupos": [
+    {
+      "tipo": "bloqueo",
+      "color": "rojo",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "41ecf918",
+          "tipo": "bloqueo",
+          "ruta": "Cuando las trabajadoras convirtieron el glamour en una forma de…",
+          "descripcion": "Cuando las trabajadoras convirtieron el glamour en una forma de protesta. En el desfile de moda titulado “Baile sin multimillonarios”, empleadas de Amazon, Whole Foods y The Washington Post protestaban contra la Met Gala, que se celebraría pocos kilómetros de distancia",
+          "recomendacion": "",
+          "fecha": "17 julio 2026 · 00:00 CST",
+          "fecha_iso": "2026-07-17T00:00:00-06:00",
+          "fuente": "El Sol de Mexico",
+          "url": "https://oem.com.mx/elsoldemexico/tendencias/cuando-las-trabajadoras-convirtieron-el-glamour-en-una-forma-de-protesta-31155145",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        }
+      ]
+    },
     {
       "tipo": "cierre_parcial",
       "color": "amarillo",
@@ -29,22 +53,6 @@
           "badge_txt": "CIERRE PARCIAL",
           "lat": 20.1,
           "lon": -99.5
-        },
-        {
-          "id": "e6960a12",
-          "tipo": "cierre_parcial",
-          "ruta": "Autopista Siglo XXI",
-          "descripcion": "Fatal accidente en la Autopista Siglo XXI. Conductor muere tras ser aplastado por un camión de carga en la Autopista Siglo XXI, a la altura de Atlixco.",
-          "recomendacion": "",
-          "fecha": "16 julio 2026 · 18:09 CST",
-          "fecha_iso": "2026-07-16T18:09:00-06:00",
-          "fuente": "Quadratin Puebla",
-          "url": "https://puebla.quadratin.com.mx/sucesos/fatal-accidente-en-la-autopista-siglo-xxi/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.3,
-          "lon": -104.0
         }
       ]
     }
@@ -62,19 +70,6 @@
       "badge_txt": "CIERRE PARCIAL",
       "lat": 20.1,
       "lon": -99.5
-    },
-    {
-      "id": "e6960a12",
-      "tipo": "cierre_parcial",
-      "ruta": "Autopista Siglo XXI",
-      "descripcion": "Fatal accidente en la Autopista Siglo XXI. Conductor muere tras ser aplastado por un camión de carga en la Autopista Siglo XXI, a la altura de Atlixco.",
-      "fecha": "16 julio 2026 · 18:09 CST",
-      "fuente": "Quadratin Puebla",
-      "url": "https://puebla.quadratin.com.mx/sucesos/fatal-accidente-en-la-autopista-siglo-xxi/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.3,
-      "lon": -104.0
     }
   ]
 }
