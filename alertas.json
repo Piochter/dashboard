@@ -1,6 +1,6 @@
 {
-  "ultima_actualizacion": "2026-07-17T11:23:02.463172-06:00",
-  "ultima_actualizacion_legible": "17 de julio de 2026 · 11:23 CST",
+  "ultima_actualizacion": "2026-07-17T12:32:28.614209-06:00",
+  "ultima_actualizacion_legible": "17 de julio de 2026 · 12:32 CST",
   "total": 8,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
@@ -18,6 +18,20 @@
       "label": "CIERRE TOTAL",
       "col2": false,
       "alertas": [
+        {
+          "id": "b370c08f",
+          "tipo": "cierre_total",
+          "ruta": "carretera en Tequila",
+          "descripcion": "Deslaves por lluvias en sierra bloquea carretera en Tequila. Bloqueada, la carretera que comunica a Moxala con Ahuatepec",
+          "recomendacion": "",
+          "fecha": "17 julio 2026 · 12:29 CST",
+          "fecha_iso": "2026-07-17T12:29:00-06:00",
+          "fuente": "Quadratin Veracruz",
+          "url": "https://veracruz.quadratin.com.mx/deslaves-por-lluvias-en-sierra-bloquea-carretera-en-tequila/",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL"
+        },
         {
           "id": "ba561547",
           "tipo": "cierre_total",
@@ -86,20 +100,6 @@
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO"
-        },
-        {
-          "id": "41ecf918",
-          "tipo": "bloqueo",
-          "ruta": "Cuando las trabajadoras convirtieron el glamour en una forma de…",
-          "descripcion": "Cuando las trabajadoras convirtieron el glamour en una forma de protesta. En el desfile de moda titulado “Baile sin multimillonarios”, empleadas de Amazon, Whole Foods y The Washington Post protestaban contra la Met Gala, que se celebraría pocos kilómetros de distancia",
-          "recomendacion": "",
-          "fecha": "17 julio 2026 · 00:00 CST",
-          "fecha_iso": "2026-07-17T00:00:00-06:00",
-          "fuente": "El Sol de Mexico",
-          "url": "https://oem.com.mx/elsoldemexico/tendencias/cuando-las-trabajadoras-convirtieron-el-glamour-en-una-forma-de-protesta-31155145",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
         }
       ]
     },
@@ -110,6 +110,22 @@
       "label": "CIERRE PARCIAL / ACCIDENTES",
       "col2": true,
       "alertas": [
+        {
+          "id": "7f6667bf",
+          "tipo": "cierre_parcial",
+          "ruta": "Fallecen 2 personas tras doble percance vial en la Toluca-Tenango…",
+          "descripcion": "Fallecen 2 personas tras doble percance vial en la Toluca-Tenango. SAN ANTONIO LA ISLA, Edomex., 17 de julio de 2026.- Dos hombres perdieron la vida y una más resultó herida en un percance vial registrado durante la mañana de este viernes en la carretera Toluca-Tenango, a la altura del municipio de San Antonio la Isla. El siniestro involucró dos eventos simultáneos en sentidos opuestos de […]",
+          "recomendacion": "",
+          "fecha": "17 julio 2026 · 12:00 CST",
+          "fecha_iso": "2026-07-17T12:00:00-06:00",
+          "fuente": "Quadratin EdoMex",
+          "url": "https://edomex.quadratin.com.mx/fallecen-2-personas-tras-doble-percance-vial-en-la-toluca-tenango/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 19.35,
+          "lon": -99.7
+        },
         {
           "id": "6c5caca5",
           "tipo": "cierre_parcial",
@@ -125,22 +141,6 @@
           "badge_txt": "CIERRE PARCIAL",
           "lat": 19.35,
           "lon": -99.7
-        },
-        {
-          "id": "b7d1cba9",
-          "tipo": "cierre_parcial",
-          "ruta": "Asesinan a joven durante asalto en autobús sobre la México-Puebla…",
-          "descripcion": "Asesinan a joven durante asalto en autobús sobre la México-Puebla. VALLE CHALCO, Edomex., 17 de julio de 2026.- Un joven de aproximadamente 25 años de edad fue asesinado la noche del jueves al interior de un autobús de la empresa Troncal S.A. de C.V., luego de que presuntamente se resistiera a un asalto cuando la unidad circulaba sobre la autopista México-Puebla. De acuerdo con los […]",
-          "recomendacion": "",
-          "fecha": "17 julio 2026 · 07:15 CST",
-          "fecha_iso": "2026-07-17T07:15:00-06:00",
-          "fuente": "Quadratin EdoMex",
-          "url": "https://edomex.quadratin.com.mx/asesinan-a-joven-durante-asalto-en-autobus-sobre-la-mexico-puebla/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.35,
-          "lon": -98.4
         },
         {
           "id": "a27cf977",
@@ -160,6 +160,19 @@
     }
   ],
   "para_mapa": [
+    {
+      "id": "7f6667bf",
+      "tipo": "cierre_parcial",
+      "ruta": "Fallecen 2 personas tras doble percance vial en la Toluca-Tenango…",
+      "descripcion": "Fallecen 2 personas tras doble percance vial en la Toluca-Tenango. SAN ANTONIO LA ISLA, Edomex., 17 de julio de 2026.- Dos hombres perdieron la vida y una más resultó herida en un percance vial registrado durante la mañana de este viernes en la carretera Toluca-Tenango, a la altura del municipio de San Antonio la Isla. El siniestro involucró dos eventos simultáneos en sentidos opuestos de […]",
+      "fecha": "17 julio 2026 · 12:00 CST",
+      "fuente": "Quadratin EdoMex",
+      "url": "https://edomex.quadratin.com.mx/fallecen-2-personas-tras-doble-percance-vial-en-la-toluca-tenango/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 19.35,
+      "lon": -99.7
+    },
     {
       "id": "6c5caca5",
       "tipo": "cierre_parcial",
@@ -185,19 +198,6 @@
       "badge_txt": "CIERRE TOTAL",
       "lat": 20.12,
       "lon": -98.73
-    },
-    {
-      "id": "b7d1cba9",
-      "tipo": "cierre_parcial",
-      "ruta": "Asesinan a joven durante asalto en autobús sobre la México-Puebla…",
-      "descripcion": "Asesinan a joven durante asalto en autobús sobre la México-Puebla. VALLE CHALCO, Edomex., 17 de julio de 2026.- Un joven de aproximadamente 25 años de edad fue asesinado la noche del jueves al interior de un autobús de la empresa Troncal S.A. de C.V., luego de que presuntamente se resistiera a un asalto cuando la unidad circulaba sobre la autopista México-Puebla. De acuerdo con los […]",
-      "fecha": "17 julio 2026 · 07:15 CST",
-      "fuente": "Quadratin EdoMex",
-      "url": "https://edomex.quadratin.com.mx/asesinan-a-joven-durante-asalto-en-autobus-sobre-la-mexico-puebla/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.35,
-      "lon": -98.4
     },
     {
       "id": "ab51abf2",
