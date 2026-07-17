@@ -1,10 +1,11 @@
 {
-  "ultima_actualizacion": "2026-07-17T08:53:14.327942-06:00",
-  "ultima_actualizacion_legible": "17 de julio de 2026 · 08:53 CST",
+  "ultima_actualizacion": "2026-07-17T10:09:18.961908-06:00",
+  "ultima_actualizacion_legible": "17 de julio de 2026 · 10:09 CST",
   "total": 6,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
+    "Medios nacionales",
     "Medios regionales",
     "Quadratin + regionales",
     "Telegram"
@@ -112,20 +113,18 @@
           "lon": -98.4
         },
         {
-          "id": "4edd6e56",
+          "id": "a27cf977",
           "tipo": "cierre_parcial",
-          "ruta": "Tren México-Querétaro provoca nuevos cierres en Bernardo Quintana…",
-          "descripcion": "Tren México-Querétaro provoca nuevos cierres en Bernardo Quintana. Cerrarán 2 carriles centrales de Bernardo Quintana de Plaza del Parque hacia Los Arcos a partir de este sábado por obras del tren México-Querétaro The post Tren México-Querétaro provoca nuevos cierres en Bernardo Quintana appeared first on Quadratin Querétaro.",
-          "recomendacion": "",
-          "fecha": "16 julio 2026 · 22:00 CST",
-          "fecha_iso": "2026-07-16T22:00:00-06:00",
-          "fuente": "Quadratin Queretaro",
-          "url": "https://queretaro.quadratin.com.mx/tren-mexico-queretaro-provoca-nuevos-cierres-en-bernardo-quintana/",
+          "ruta": "Transporte intermodal, alternativa para reducir congestionamiento y accidentes en carreteras:…",
+          "descripcion": "Transporte intermodal, alternativa para reducir congestionamiento y accidentes en carreteras: IMT. Ante la congestión y los índices de accidentabilidad en las carreteras de México, es necesario aumentar el movimiento de carga a través del ferrocarril, siendo el transporte intermodal la mejor alternativa, consideró Carlos Martner, coordinador de Transporte Integrado y Logística del Instituto Mexicano del Transporte (IMT). Durante su participación en la XXV Reunión Nacional de Vías Terrestres, […]",
+          "recomendacion": "alternativa para reducir congestionamiento y accidentes en carreteras: IMT",
+          "fecha": "17 julio 2026 · 07:05 CST",
+          "fecha_iso": "2026-07-17T07:05:00-06:00",
+          "fuente": "T21 Transporte",
+          "url": "https://t21.com.mx/transporte-intermodal-alternativa-para-reducir-congestionamiento-y-accidentes-en-carreteras-imt/",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 20.1,
-          "lon": -99.5
+          "badge_txt": "CIERRE PARCIAL"
         }
       ]
     }
@@ -169,19 +168,6 @@
       "badge_txt": "CIERRE TOTAL",
       "lat": 19.29,
       "lon": -99.66
-    },
-    {
-      "id": "4edd6e56",
-      "tipo": "cierre_parcial",
-      "ruta": "Tren México-Querétaro provoca nuevos cierres en Bernardo Quintana…",
-      "descripcion": "Tren México-Querétaro provoca nuevos cierres en Bernardo Quintana. Cerrarán 2 carriles centrales de Bernardo Quintana de Plaza del Parque hacia Los Arcos a partir de este sábado por obras del tren México-Querétaro The post Tren México-Querétaro provoca nuevos cierres en Bernardo Quintana appeared first on Quadratin Querétaro.",
-      "fecha": "16 julio 2026 · 22:00 CST",
-      "fuente": "Quadratin Queretaro",
-      "url": "https://queretaro.quadratin.com.mx/tren-mexico-queretaro-provoca-nuevos-cierres-en-bernardo-quintana/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 20.1,
-      "lon": -99.5
     }
   ]
 }
