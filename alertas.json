@@ -1,13 +1,39 @@
 {
-  "ultima_actualizacion": "2026-07-17T05:54:03.406287-06:00",
-  "ultima_actualizacion_legible": "17 de julio de 2026 · 05:54 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-07-17T07:06:09.847118-06:00",
+  "ultima_actualizacion_legible": "17 de julio de 2026 · 07:06 CST",
+  "total": 3,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Medios regionales",
-    "Quadratin + regionales"
+    "Quadratin + regionales",
+    "Telegram"
   ],
   "grupos": [
+    {
+      "tipo": "cierre_total",
+      "color": "rojo",
+      "icono": "🔴",
+      "label": "CIERRE TOTAL",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "ab51abf2",
+          "tipo": "cierre_total",
+          "ruta": "🚨¡URGENTE! Volcadura de tráiler y automóvil provoca caos vial en…",
+          "descripcion": "🚨¡URGENTE! Volcadura de tráiler y automóvil provoca caos vial en la #Toluca-#Tenango 😨👇\n\nhttps://lajornadaestadodemexico.com/dos-accidentes-paralizan-la-carretera-toluca-tenango-en-ambos-sentidos/",
+          "recomendacion": "",
+          "fecha": "17 julio 2026 · 06:33 CST",
+          "fecha_iso": "2026-07-17T06:33:00-06:00",
+          "fuente": "Telegram @jornadaedomex",
+          "url": "https://t.me/jornadaedomex/11471",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL",
+          "lat": 19.29,
+          "lon": -99.66
+        }
+      ]
+    },
     {
       "tipo": "bloqueo",
       "color": "rojo",
@@ -58,6 +84,19 @@
     }
   ],
   "para_mapa": [
+    {
+      "id": "ab51abf2",
+      "tipo": "cierre_total",
+      "ruta": "🚨¡URGENTE! Volcadura de tráiler y automóvil provoca caos vial en…",
+      "descripcion": "🚨¡URGENTE! Volcadura de tráiler y automóvil provoca caos vial en la #Toluca-#Tenango 😨👇\n\nhttps://lajornadaestadodemexico.com/dos-accidentes-paralizan-la-carretera-toluca-tenango-en-ambos-sentidos/",
+      "fecha": "17 julio 2026 · 06:33 CST",
+      "fuente": "Telegram @jornadaedomex",
+      "url": "https://t.me/jornadaedomex/11471",
+      "dot_color": "#e74c3c",
+      "badge_txt": "CIERRE TOTAL",
+      "lat": 19.29,
+      "lon": -99.66
+    },
     {
       "id": "4edd6e56",
       "tipo": "cierre_parcial",
