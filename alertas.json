@@ -1,12 +1,11 @@
 {
-  "ultima_actualizacion": "2026-07-17T12:32:28.614209-06:00",
-  "ultima_actualizacion_legible": "17 de julio de 2026 · 12:32 CST",
-  "total": 8,
+  "ultima_actualizacion": "2026-07-17T13:46:14.335818-06:00",
+  "ultima_actualizacion_legible": "17 de julio de 2026 · 13:46 CST",
+  "total": 7,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
     "Medios nacionales",
-    "Medios regionales",
     "Quadratin + regionales",
     "Telegram"
   ],
@@ -73,20 +72,6 @@
       "label": "BLOQUEOS / MANIFESTACIONES",
       "col2": false,
       "alertas": [
-        {
-          "id": "26743120",
-          "tipo": "bloqueo",
-          "ruta": "Sicario ubica a su víctima en cachimba de la Irapuato-Abasolo;…",
-          "descripcion": "Sicario ubica a su víctima en cachimba de la Irapuato-Abasolo; en asesinato hiere a hombre. Un ataque armado en una \"cachimba\" de la carretera Irapuato-Abasolo, a la altura de la comunidad de Santa Anita, dejó un hombre muerto y otro herido. Los sicarios escaparon a bordo de una motocicleta.",
-          "recomendacion": "",
-          "fecha": "17 julio 2026 · 08:37 CST",
-          "fecha_iso": "2026-07-17T08:37:00-06:00",
-          "fuente": "AM Guanajuato",
-          "url": "https://www.am.com.mx/irapuato/2026/07/17/sicario-ubica-a-su-victima-en-cachimba-de-la-irapuato-abasolo-en-asesinato-hiere-a-hombre-1820595.html",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        },
         {
           "id": "282d564f",
           "tipo": "bloqueo",
