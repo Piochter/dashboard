@@ -1,12 +1,11 @@
 {
-  "ultima_actualizacion": "2026-07-17T14:35:34.556926-06:00",
-  "ultima_actualizacion_legible": "17 de julio de 2026 · 14:35 CST",
+  "ultima_actualizacion": "2026-07-17T15:31:13.273779-06:00",
+  "ultima_actualizacion_legible": "17 de julio de 2026 · 15:31 CST",
   "total": 4,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
     "Medios nacionales",
-    "Quadratin + regionales",
     "Telegram"
   ],
   "grupos": [
@@ -17,6 +16,22 @@
       "label": "CIERRE TOTAL",
       "col2": false,
       "alertas": [
+        {
+          "id": "e520f2a7",
+          "tipo": "cierre_total",
+          "ruta": "Volcadura de tráiler en la Toluca-Tenango deja dos muertos -…",
+          "descripcion": "Volcadura de tráiler en la Toluca-Tenango deja dos muertos - El Sol de México. Volcadura de tráiler en la Toluca-Tenango deja dos muertos El Sol de México",
+          "recomendacion": "",
+          "fecha": "17 julio 2026 · 14:35 CST",
+          "fecha_iso": "2026-07-17T14:35:00-06:00",
+          "fuente": "El Sol de México",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdFdCc1VrLVp1YTZicEh4Y21BM2RkN1AyYW11RjZGcklKUW8zcG4wRExsMlpIVEJMbHJaSWdrR2JxcklYTXdsNElNbm5KVF95U3Z1WG5sbXB4QXlYdDV0Rk5KUWZ5QWR2bnZJdHRsRG52WENWTUxCRFloZGdTOWF2V1pmTGpVSElhOTVPZG55TGdzR0VfeWp5U3JPa1F1SVpEWl9HNlptVDlOSjhKRG5OMnMzZjBkUQ?oc=5",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL",
+          "lat": 19.29,
+          "lon": -99.66
+        },
         {
           "id": "ab51abf2",
           "tipo": "cierre_total",
@@ -66,22 +81,6 @@
       "col2": true,
       "alertas": [
         {
-          "id": "7f6667bf",
-          "tipo": "cierre_parcial",
-          "ruta": "Fallecen 2 personas tras doble percance vial en la Toluca-Tenango…",
-          "descripcion": "Fallecen 2 personas tras doble percance vial en la Toluca-Tenango. SAN ANTONIO LA ISLA, Edomex., 17 de julio de 2026.- Dos hombres perdieron la vida y una más resultó herida en un percance vial registrado durante la mañana de este viernes en la carretera Toluca-Tenango, a la altura del municipio de San Antonio la Isla. El siniestro involucró dos eventos simultáneos en sentidos opuestos de […]",
-          "recomendacion": "",
-          "fecha": "17 julio 2026 · 12:00 CST",
-          "fecha_iso": "2026-07-17T12:00:00-06:00",
-          "fuente": "Quadratin EdoMex",
-          "url": "https://edomex.quadratin.com.mx/fallecen-2-personas-tras-doble-percance-vial-en-la-toluca-tenango/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.35,
-          "lon": -99.7
-        },
-        {
           "id": "a27cf977",
           "tipo": "cierre_parcial",
           "ruta": "Transporte intermodal, alternativa para reducir congestionamiento y accidentes en carreteras:…",
@@ -100,17 +99,17 @@
   ],
   "para_mapa": [
     {
-      "id": "7f6667bf",
-      "tipo": "cierre_parcial",
-      "ruta": "Fallecen 2 personas tras doble percance vial en la Toluca-Tenango…",
-      "descripcion": "Fallecen 2 personas tras doble percance vial en la Toluca-Tenango. SAN ANTONIO LA ISLA, Edomex., 17 de julio de 2026.- Dos hombres perdieron la vida y una más resultó herida en un percance vial registrado durante la mañana de este viernes en la carretera Toluca-Tenango, a la altura del municipio de San Antonio la Isla. El siniestro involucró dos eventos simultáneos en sentidos opuestos de […]",
-      "fecha": "17 julio 2026 · 12:00 CST",
-      "fuente": "Quadratin EdoMex",
-      "url": "https://edomex.quadratin.com.mx/fallecen-2-personas-tras-doble-percance-vial-en-la-toluca-tenango/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.35,
-      "lon": -99.7
+      "id": "e520f2a7",
+      "tipo": "cierre_total",
+      "ruta": "Volcadura de tráiler en la Toluca-Tenango deja dos muertos -…",
+      "descripcion": "Volcadura de tráiler en la Toluca-Tenango deja dos muertos - El Sol de México. Volcadura de tráiler en la Toluca-Tenango deja dos muertos El Sol de México",
+      "fecha": "17 julio 2026 · 14:35 CST",
+      "fuente": "El Sol de México",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdFdCc1VrLVp1YTZicEh4Y21BM2RkN1AyYW11RjZGcklKUW8zcG4wRExsMlpIVEJMbHJaSWdrR2JxcklYTXdsNElNbm5KVF95U3Z1WG5sbXB4QXlYdDV0Rk5KUWZ5QWR2bnZJdHRsRG52WENWTUxCRFloZGdTOWF2V1pmTGpVSElhOTVPZG55TGdzR0VfeWp5U3JPa1F1SVpEWl9HNlptVDlOSjhKRG5OMnMzZjBkUQ?oc=5",
+      "dot_color": "#e74c3c",
+      "badge_txt": "CIERRE TOTAL",
+      "lat": 19.29,
+      "lon": -99.66
     },
     {
       "id": "ab51abf2",
