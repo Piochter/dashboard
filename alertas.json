@@ -1,11 +1,10 @@
 {
-  "ultima_actualizacion": "2026-07-16T17:37:39.539964-06:00",
-  "ultima_actualizacion_legible": "16 de julio de 2026 · 17:37 CST",
-  "total": 4,
+  "ultima_actualizacion": "2026-07-16T19:11:13.999703-06:00",
+  "ultima_actualizacion_legible": "16 de julio de 2026 · 19:11 CST",
+  "total": 5,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
-    "Medios nacionales",
     "Quadratin + regionales"
   ],
   "grupos": [
@@ -16,6 +15,20 @@
       "label": "BLOQUEOS / MANIFESTACIONES",
       "col2": false,
       "alertas": [
+        {
+          "id": "1fe39a87",
+          "tipo": "bloqueo",
+          "ruta": "Estalla protesta por falta de agua; vecinos bloquean la Peñón-Texcoco…",
+          "descripcion": "Estalla protesta por falta de agua; vecinos bloquean la Peñón-Texcoco. Habitantes de Ciudad Lago cerraron la carretera Peñón-Texcoco para exigir el restablecimiento del suministro, tras más de un mes sin agua potable",
+          "recomendacion": "",
+          "fecha": "16 julio 2026 · 18:45 CST",
+          "fecha_iso": "2026-07-16T18:45:00-06:00",
+          "fuente": "Quadratin EdoMex",
+          "url": "https://edomex.quadratin.com.mx/estalla-protesta-por-falta-de-agua-vecinos-bloquean-la-penon-texcoco/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
         {
           "id": "88e6e28f",
           "tipo": "bloqueo",
@@ -40,36 +53,36 @@
       "col2": true,
       "alertas": [
         {
-          "id": "ba7f34e2",
+          "id": "e6960a12",
           "tipo": "cierre_parcial",
-          "ruta": "Una mujer sin vida y 6 heridos tras choque en…",
-          "descripcion": "Una mujer sin vida y 6 heridos tras choque en Colón. Un fuerte accidente entre una camioneta particular y una camioneta de transporte de personal fue el que se registró en la carretera estatal 200 The post Una mujer sin vida y 6 heridos tras choque en Colón appeared first on Quadratin Querétaro.",
+          "ruta": "Autopista Siglo XXI",
+          "descripcion": "Fatal accidente en la Autopista Siglo XXI. Conductor muere tras ser aplastado por un camión de carga en la Autopista Siglo XXI, a la altura de Atlixco.",
           "recomendacion": "",
-          "fecha": "16 julio 2026 · 15:00 CST",
-          "fecha_iso": "2026-07-16T15:00:00-06:00",
-          "fuente": "Quadratin Queretaro",
-          "url": "https://queretaro.quadratin.com.mx/una-mujer-sin-vida-y-6-heridos-tras-choque-en-colon/",
+          "fecha": "16 julio 2026 · 18:09 CST",
+          "fecha_iso": "2026-07-16T18:09:00-06:00",
+          "fuente": "Quadratin Puebla",
+          "url": "https://puebla.quadratin.com.mx/sucesos/fatal-accidente-en-la-autopista-siglo-xxi/",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.1,
-          "lon": -104.3
+          "lat": 19.3,
+          "lon": -104.0
         },
         {
-          "id": "6fbf9d74",
+          "id": "4d69d598",
           "tipo": "cierre_parcial",
-          "ruta": "Anuncian reducción de tiempos en el Tren México-Querétaro…",
-          "descripcion": "Anuncian reducción de tiempos en el Tren México-Querétaro. El tren México-Querétaro, reducirá tiempos, tanto en su construcción como en el traslado de los pasajeros.",
+          "ruta": "Jueves movido en la autopista México-Pachuca: persecución por robo y…",
+          "descripcion": "Jueves movido en la autopista México-Pachuca: persecución por robo y accidente paralizan tráfico - La Silla Rota. Jueves movido en la autopista México-Pachuca: persecución por robo y accidente paralizan tráfico La Silla Rota",
           "recomendacion": "",
-          "fecha": "16 julio 2026 · 14:16 CST",
-          "fecha_iso": "2026-07-16T14:16:00-06:00",
-          "fuente": "24 Horas",
-          "url": "https://24-horas.mx/estados/anuncian-reduccion-de-tiempos-en-el-tren-mexico-queretaro/",
+          "fecha": "16 julio 2026 · 16:04 CST",
+          "fecha_iso": "2026-07-16T16:04:00-06:00",
+          "fuente": "La Silla Rota",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQbUlWY1BlTXZUVmZUS19xSEJLeXdSS0RzT3dWRjhpUnJwM09FTVVkdlEyT2pFeHBlaHEwYldBS2ZoUEljSnZLUkRFTTE4TmRuQmtGWVVzY2sydG01WXFuM0Y1Z21YZXFwWFFpWkVJcFR0SkxaRHh6Ui1nNElnN1Joc1BCSjBkTUVFLXlfT0VKWjZDaDVqeWdMY2VBdzFLNmFJTi15SE9FZ3U2V08yYnR5WEFLbzc2akFibUcwekc4WjNnZmU4Vzk2d0lva0FRbWtERXBKNkFYbGllSkNiX2pSQmNRdGxTbFRk?oc=5",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL",
-          "lat": 20.1,
-          "lon": -99.5
+          "lat": 20.12,
+          "lon": -98.73
         },
         {
           "id": "4a6ecea7",
@@ -92,30 +105,30 @@
   ],
   "para_mapa": [
     {
-      "id": "ba7f34e2",
+      "id": "e6960a12",
       "tipo": "cierre_parcial",
-      "ruta": "Una mujer sin vida y 6 heridos tras choque en…",
-      "descripcion": "Una mujer sin vida y 6 heridos tras choque en Colón. Un fuerte accidente entre una camioneta particular y una camioneta de transporte de personal fue el que se registró en la carretera estatal 200 The post Una mujer sin vida y 6 heridos tras choque en Colón appeared first on Quadratin Querétaro.",
-      "fecha": "16 julio 2026 · 15:00 CST",
-      "fuente": "Quadratin Queretaro",
-      "url": "https://queretaro.quadratin.com.mx/una-mujer-sin-vida-y-6-heridos-tras-choque-en-colon/",
+      "ruta": "Autopista Siglo XXI",
+      "descripcion": "Fatal accidente en la Autopista Siglo XXI. Conductor muere tras ser aplastado por un camión de carga en la Autopista Siglo XXI, a la altura de Atlixco.",
+      "fecha": "16 julio 2026 · 18:09 CST",
+      "fuente": "Quadratin Puebla",
+      "url": "https://puebla.quadratin.com.mx/sucesos/fatal-accidente-en-la-autopista-siglo-xxi/",
       "dot_color": "#e67e22",
       "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.1,
-      "lon": -104.3
+      "lat": 19.3,
+      "lon": -104.0
     },
     {
-      "id": "6fbf9d74",
+      "id": "4d69d598",
       "tipo": "cierre_parcial",
-      "ruta": "Anuncian reducción de tiempos en el Tren México-Querétaro…",
-      "descripcion": "Anuncian reducción de tiempos en el Tren México-Querétaro. El tren México-Querétaro, reducirá tiempos, tanto en su construcción como en el traslado de los pasajeros.",
-      "fecha": "16 julio 2026 · 14:16 CST",
-      "fuente": "24 Horas",
-      "url": "https://24-horas.mx/estados/anuncian-reduccion-de-tiempos-en-el-tren-mexico-queretaro/",
+      "ruta": "Jueves movido en la autopista México-Pachuca: persecución por robo y…",
+      "descripcion": "Jueves movido en la autopista México-Pachuca: persecución por robo y accidente paralizan tráfico - La Silla Rota. Jueves movido en la autopista México-Pachuca: persecución por robo y accidente paralizan tráfico La Silla Rota",
+      "fecha": "16 julio 2026 · 16:04 CST",
+      "fuente": "La Silla Rota",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQbUlWY1BlTXZUVmZUS19xSEJLeXdSS0RzT3dWRjhpUnJwM09FTVVkdlEyT2pFeHBlaHEwYldBS2ZoUEljSnZLUkRFTTE4TmRuQmtGWVVzY2sydG01WXFuM0Y1Z21YZXFwWFFpWkVJcFR0SkxaRHh6Ui1nNElnN1Joc1BCSjBkTUVFLXlfT0VKWjZDaDVqeWdMY2VBdzFLNmFJTi15SE9FZ3U2V08yYnR5WEFLbzc2akFibUcwekc4WjNnZmU4Vzk2d0lva0FRbWtERXBKNkFYbGllSkNiX2pSQmNRdGxTbFRk?oc=5",
       "dot_color": "#e67e22",
       "badge_txt": "CIERRE PARCIAL",
-      "lat": 20.1,
-      "lon": -99.5
+      "lat": 20.12,
+      "lon": -98.73
     },
     {
       "id": "4a6ecea7",
