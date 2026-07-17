@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-07-16T19:11:13.999703-06:00",
-  "ultima_actualizacion_legible": "16 de julio de 2026 · 19:11 CST",
-  "total": 5,
+  "ultima_actualizacion": "2026-07-16T22:23:16.147274-06:00",
+  "ultima_actualizacion_legible": "16 de julio de 2026 · 22:23 CST",
+  "total": 4,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
@@ -9,49 +9,28 @@
   ],
   "grupos": [
     {
-      "tipo": "bloqueo",
-      "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "1fe39a87",
-          "tipo": "bloqueo",
-          "ruta": "Estalla protesta por falta de agua; vecinos bloquean la Peñón-Texcoco…",
-          "descripcion": "Estalla protesta por falta de agua; vecinos bloquean la Peñón-Texcoco. Habitantes de Ciudad Lago cerraron la carretera Peñón-Texcoco para exigir el restablecimiento del suministro, tras más de un mes sin agua potable",
-          "recomendacion": "",
-          "fecha": "16 julio 2026 · 18:45 CST",
-          "fecha_iso": "2026-07-16T18:45:00-06:00",
-          "fuente": "Quadratin EdoMex",
-          "url": "https://edomex.quadratin.com.mx/estalla-protesta-por-falta-de-agua-vecinos-bloquean-la-penon-texcoco/",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        },
-        {
-          "id": "88e6e28f",
-          "tipo": "bloqueo",
-          "ruta": "Hay Cierres en Carreteras de México Hoy 16 de Julio…",
-          "descripcion": "Hay Cierres en Carreteras de México Hoy 16 de Julio 2026: Autopistas con Bloqueos - N+. Hay Cierres en Carreteras de México Hoy 16 de Julio 2026: Autopistas con Bloqueos N+",
-          "recomendacion": "",
-          "fecha": "16 julio 2026 · 08:44 CST",
-          "fecha_iso": "2026-07-16T08:44:00-06:00",
-          "fuente": "N+",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMlJmNVB1OTEzYkNOVGVYOUs1b3NUZ1dNYzhLc3Q2QW9BXzBpeWxCbVZYcDd1blJHOVM2aHpIb1NSVjdheWtVQkNlMXBQdURCNWI1RkFnek9salNXWjlTT2JoLVY2YzlBa2E3SkRBb1NMeXYyeEg0aFBCcnljTnhsX2luTEdHR3NLOV8tNExpaWxTY0J0NmgwSzl0OHJ4UTBVd0ptSmZNak1PYk9PM3dpOHh5TzVOQQ?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        }
-      ]
-    },
-    {
       "tipo": "cierre_parcial",
       "color": "amarillo",
       "icono": "🟡",
       "label": "CIERRE PARCIAL / ACCIDENTES",
       "col2": true,
       "alertas": [
+        {
+          "id": "4edd6e56",
+          "tipo": "cierre_parcial",
+          "ruta": "Tren México-Querétaro provoca nuevos cierres en Bernardo Quintana…",
+          "descripcion": "Tren México-Querétaro provoca nuevos cierres en Bernardo Quintana. Cerrarán 2 carriles centrales de Bernardo Quintana de Plaza del Parque hacia Los Arcos a partir de este sábado por obras del tren México-Querétaro The post Tren México-Querétaro provoca nuevos cierres en Bernardo Quintana appeared first on Quadratin Querétaro.",
+          "recomendacion": "",
+          "fecha": "16 julio 2026 · 22:00 CST",
+          "fecha_iso": "2026-07-16T22:00:00-06:00",
+          "fuente": "Quadratin Queretaro",
+          "url": "https://queretaro.quadratin.com.mx/tren-mexico-queretaro-provoca-nuevos-cierres-en-bernardo-quintana/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 20.1,
+          "lon": -99.5
+        },
         {
           "id": "e6960a12",
           "tipo": "cierre_parcial",
@@ -74,8 +53,8 @@
           "ruta": "Jueves movido en la autopista México-Pachuca: persecución por robo y…",
           "descripcion": "Jueves movido en la autopista México-Pachuca: persecución por robo y accidente paralizan tráfico - La Silla Rota. Jueves movido en la autopista México-Pachuca: persecución por robo y accidente paralizan tráfico La Silla Rota",
           "recomendacion": "",
-          "fecha": "16 julio 2026 · 16:04 CST",
-          "fecha_iso": "2026-07-16T16:04:00-06:00",
+          "fecha": "16 julio 2026 · 16:24 CST",
+          "fecha_iso": "2026-07-16T16:24:00-06:00",
           "fuente": "La Silla Rota",
           "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQbUlWY1BlTXZUVmZUS19xSEJLeXdSS0RzT3dWRjhpUnJwM09FTVVkdlEyT2pFeHBlaHEwYldBS2ZoUEljSnZLUkRFTTE4TmRuQmtGWVVzY2sydG01WXFuM0Y1Z21YZXFwWFFpWkVJcFR0SkxaRHh6Ui1nNElnN1Joc1BCSjBkTUVFLXlfT0VKWjZDaDVqeWdMY2VBdzFLNmFJTi15SE9FZ3U2V08yYnR5WEFLbzc2akFibUcwekc4WjNnZmU4Vzk2d0lva0FRbWtERXBKNkFYbGllSkNiX2pSQmNRdGxTbFRk?oc=5",
           "dot_color": "#e67e22",
@@ -105,6 +84,19 @@
   ],
   "para_mapa": [
     {
+      "id": "4edd6e56",
+      "tipo": "cierre_parcial",
+      "ruta": "Tren México-Querétaro provoca nuevos cierres en Bernardo Quintana…",
+      "descripcion": "Tren México-Querétaro provoca nuevos cierres en Bernardo Quintana. Cerrarán 2 carriles centrales de Bernardo Quintana de Plaza del Parque hacia Los Arcos a partir de este sábado por obras del tren México-Querétaro The post Tren México-Querétaro provoca nuevos cierres en Bernardo Quintana appeared first on Quadratin Querétaro.",
+      "fecha": "16 julio 2026 · 22:00 CST",
+      "fuente": "Quadratin Queretaro",
+      "url": "https://queretaro.quadratin.com.mx/tren-mexico-queretaro-provoca-nuevos-cierres-en-bernardo-quintana/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 20.1,
+      "lon": -99.5
+    },
+    {
       "id": "e6960a12",
       "tipo": "cierre_parcial",
       "ruta": "Autopista Siglo XXI",
@@ -122,7 +114,7 @@
       "tipo": "cierre_parcial",
       "ruta": "Jueves movido en la autopista México-Pachuca: persecución por robo y…",
       "descripcion": "Jueves movido en la autopista México-Pachuca: persecución por robo y accidente paralizan tráfico - La Silla Rota. Jueves movido en la autopista México-Pachuca: persecución por robo y accidente paralizan tráfico La Silla Rota",
-      "fecha": "16 julio 2026 · 16:04 CST",
+      "fecha": "16 julio 2026 · 16:24 CST",
       "fuente": "La Silla Rota",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQbUlWY1BlTXZUVmZUS19xSEJLeXdSS0RzT3dWRjhpUnJwM09FTVVkdlEyT2pFeHBlaHEwYldBS2ZoUEljSnZLUkRFTTE4TmRuQmtGWVVzY2sydG01WXFuM0Y1Z21YZXFwWFFpWkVJcFR0SkxaRHh6Ui1nNElnN1Joc1BCSjBkTUVFLXlfT0VKWjZDaDVqeWdMY2VBdzFLNmFJTi15SE9FZ3U2V08yYnR5WEFLbzc2akFibUcwekc4WjNnZmU4Vzk2d0lva0FRbWtERXBKNkFYbGllSkNiX2pSQmNRdGxTbFRk?oc=5",
       "dot_color": "#e67e22",
