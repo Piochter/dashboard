@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-07-16T22:23:16.147274-06:00",
-  "ultima_actualizacion_legible": "16 de julio de 2026 · 22:23 CST",
-  "total": 4,
+  "ultima_actualizacion": "2026-07-17T00:35:08.607074-06:00",
+  "ultima_actualizacion_legible": "17 de julio de 2026 · 00:35 CST",
+  "total": 3,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
@@ -62,22 +62,6 @@
           "badge_txt": "CIERRE PARCIAL",
           "lat": 20.12,
           "lon": -98.73
-        },
-        {
-          "id": "4a6ecea7",
-          "tipo": "cierre_parcial",
-          "ruta": "Jammers: la tecnología que facilita hasta 85% de los robos…",
-          "descripcion": "Jammers: la tecnología que facilita hasta 85% de los robos a transporte de carga en México - Infobae. Jammers: la tecnología que facilita hasta 85% de los robos a transporte de carga en México Infobae",
-          "recomendacion": "",
-          "fecha": "16 julio 2026 · 10:42 CST",
-          "fecha_iso": "2026-07-16T10:42:00-06:00",
-          "fuente": "Infobae",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTWYzYzJwc005RkxUZmFXSGZndG1fdmVOY01oeUpkczM4eGI3RzV5QktIXzZ4R1NxV1NQN2F5bkhIdS1iVURPUDBBWDE1MDRYNXMyckhyZXhKMzVPWlEtZ21peXo5RUUxRXlrRWo4N3hHeVZSZDJxOFZjQnA3R2d4WmdoMXIwLXVvbTd1LXI2cUFRWHlDNFVhaGdUdkJlakZNWHdXUjVxZ0hEcnpCT241T2RMc25ZUkgzeWoyWUNNWDdOd0kzeUFqVmU0SdIB5gFBVV95cUxNc1ZsT0h1YldTZXNHNVUzQUViM25qUm9LMzFIZTY0QnI1elFXY05SM3BjczBlc24tX01pX19Tc2VGcGx5X19CV1ZwdE50ZFRleXdiUlY2Q0gzWUNqRmdQclIzV1owemdHWWNnSGQ1U2U4cFBqeXYwYkc4bFlWNnR4aE9ZNGNUaW15RDFTbEp4amdiME1fSDZZb05ZZ3d3Y1NzVXFaM09tUFJUd2dwX0l0OURaVWloSS1PbWpoSnNqcEwtRGEzNWc3eXlzeW5lTXdJWDhVdk1jaWZLQnctaHRNX0ZHY0Q0UQ?oc=5",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 26.5,
-          "lon": -99.5
         }
       ]
     }
@@ -121,19 +105,6 @@
       "badge_txt": "CIERRE PARCIAL",
       "lat": 20.12,
       "lon": -98.73
-    },
-    {
-      "id": "4a6ecea7",
-      "tipo": "cierre_parcial",
-      "ruta": "Jammers: la tecnología que facilita hasta 85% de los robos…",
-      "descripcion": "Jammers: la tecnología que facilita hasta 85% de los robos a transporte de carga en México - Infobae. Jammers: la tecnología que facilita hasta 85% de los robos a transporte de carga en México Infobae",
-      "fecha": "16 julio 2026 · 10:42 CST",
-      "fuente": "Infobae",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTWYzYzJwc005RkxUZmFXSGZndG1fdmVOY01oeUpkczM4eGI3RzV5QktIXzZ4R1NxV1NQN2F5bkhIdS1iVURPUDBBWDE1MDRYNXMyckhyZXhKMzVPWlEtZ21peXo5RUUxRXlrRWo4N3hHeVZSZDJxOFZjQnA3R2d4WmdoMXIwLXVvbTd1LXI2cUFRWHlDNFVhaGdUdkJlakZNWHdXUjVxZ0hEcnpCT241T2RMc25ZUkgzeWoyWUNNWDdOd0kzeUFqVmU0SdIB5gFBVV95cUxNc1ZsT0h1YldTZXNHNVUzQUViM25qUm9LMzFIZTY0QnI1elFXY05SM3BjczBlc24tX01pX19Tc2VGcGx5X19CV1ZwdE50ZFRleXdiUlY2Q0gzWUNqRmdQclIzV1owemdHWWNnSGQ1U2U4cFBqeXYwYkc4bFlWNnR4aE9ZNGNUaW15RDFTbEp4amdiME1fSDZZb05ZZ3d3Y1NzVXFaM09tUFJUd2dwX0l0OURaVWloSS1PbWpoSnNqcEwtRGEzNWc3eXlzeW5lTXdJWDhVdk1jaWZLQnctaHRNX0ZHY0Q0UQ?oc=5",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 26.5,
-      "lon": -99.5
     }
   ]
 }
