@@ -1,9 +1,10 @@
 {
-  "ultima_actualizacion": "2026-07-17T07:06:09.847118-06:00",
-  "ultima_actualizacion_legible": "17 de julio de 2026 · 07:06 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-07-17T08:53:14.327942-06:00",
+  "ultima_actualizacion_legible": "17 de julio de 2026 · 08:53 CST",
+  "total": 6,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
+    "Google News",
     "Medios regionales",
     "Quadratin + regionales",
     "Telegram"
@@ -16,6 +17,22 @@
       "label": "CIERRE TOTAL",
       "col2": false,
       "alertas": [
+        {
+          "id": "ba561547",
+          "tipo": "cierre_total",
+          "ruta": "carretera Pachuca-Huejutla en Tlanchinol",
+          "descripcion": "Bloquea derrumbe la carretera Pachuca-Huejutla en Tlanchinol. La caída de grandes rocas provocó el cierre total de la carretera Pachuca-Huejutla, a la altura del paraje conocido como La Virgencita",
+          "recomendacion": "",
+          "fecha": "17 julio 2026 · 08:50 CST",
+          "fecha_iso": "2026-07-17T08:50:00-06:00",
+          "fuente": "Quadratin Hidalgo",
+          "url": "https://hidalgo.quadratin.com.mx/sucesos/bloquea-derrumbe-la-carretera-pachuca-huejutla-en-tlanchinol/",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL",
+          "lat": 20.12,
+          "lon": -98.73
+        },
         {
           "id": "ab51abf2",
           "tipo": "cierre_total",
@@ -42,6 +59,20 @@
       "col2": false,
       "alertas": [
         {
+          "id": "282d564f",
+          "tipo": "bloqueo",
+          "ruta": "Bloqueos carreteras HOY 17 de julio: Autopistas cerradas en México,…",
+          "descripcion": "Bloqueos carreteras HOY 17 de julio: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 17 de julio: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
+          "recomendacion": "",
+          "fecha": "17 julio 2026 · 07:46 CST",
+          "fecha_iso": "2026-07-17T07:46:00-06:00",
+          "fuente": "Eje Central",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVF8yTzE5TEpMckwtNC1pRW93VTNoNDFoSmEwSmFENzJ2dU5qZV92eFNXWmdoWjhyajA2MFRMM3dVZXkxcXdNeGFaNWd4NFdQSjBVR1V4Skx4a2hldmMwQ2pLNDFUbnd1X1VwZWFOUTZXSzg3dGhOMGUtcXpURWFhT3p0YjN1VU9DdHhWdHBOZmJuZGRWY2F6UnF6R21mTmE0Z0gwMmszU3E1SHdZa0hidWgyT19XWVpkU2tuaXZBMEhWOHZjMmFuSnQ2VS03TXZyUmNLc2k4bHFYcVBmcTNSOFQ1dWJuRVU?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
+        {
           "id": "41ecf918",
           "tipo": "bloqueo",
           "ruta": "Cuando las trabajadoras convirtieron el glamour en una forma de…",
@@ -65,6 +96,22 @@
       "col2": true,
       "alertas": [
         {
+          "id": "b7d1cba9",
+          "tipo": "cierre_parcial",
+          "ruta": "Asesinan a joven durante asalto en autobús sobre la México-Puebla…",
+          "descripcion": "Asesinan a joven durante asalto en autobús sobre la México-Puebla. VALLE CHALCO, Edomex., 17 de julio de 2026.- Un joven de aproximadamente 25 años de edad fue asesinado la noche del jueves al interior de un autobús de la empresa Troncal S.A. de C.V., luego de que presuntamente se resistiera a un asalto cuando la unidad circulaba sobre la autopista México-Puebla. De acuerdo con los […]",
+          "recomendacion": "",
+          "fecha": "17 julio 2026 · 07:15 CST",
+          "fecha_iso": "2026-07-17T07:15:00-06:00",
+          "fuente": "Quadratin EdoMex",
+          "url": "https://edomex.quadratin.com.mx/asesinan-a-joven-durante-asalto-en-autobus-sobre-la-mexico-puebla/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 19.35,
+          "lon": -98.4
+        },
+        {
           "id": "4edd6e56",
           "tipo": "cierre_parcial",
           "ruta": "Tren México-Querétaro provoca nuevos cierres en Bernardo Quintana…",
@@ -84,6 +131,32 @@
     }
   ],
   "para_mapa": [
+    {
+      "id": "ba561547",
+      "tipo": "cierre_total",
+      "ruta": "carretera Pachuca-Huejutla en Tlanchinol",
+      "descripcion": "Bloquea derrumbe la carretera Pachuca-Huejutla en Tlanchinol. La caída de grandes rocas provocó el cierre total de la carretera Pachuca-Huejutla, a la altura del paraje conocido como La Virgencita",
+      "fecha": "17 julio 2026 · 08:50 CST",
+      "fuente": "Quadratin Hidalgo",
+      "url": "https://hidalgo.quadratin.com.mx/sucesos/bloquea-derrumbe-la-carretera-pachuca-huejutla-en-tlanchinol/",
+      "dot_color": "#e74c3c",
+      "badge_txt": "CIERRE TOTAL",
+      "lat": 20.12,
+      "lon": -98.73
+    },
+    {
+      "id": "b7d1cba9",
+      "tipo": "cierre_parcial",
+      "ruta": "Asesinan a joven durante asalto en autobús sobre la México-Puebla…",
+      "descripcion": "Asesinan a joven durante asalto en autobús sobre la México-Puebla. VALLE CHALCO, Edomex., 17 de julio de 2026.- Un joven de aproximadamente 25 años de edad fue asesinado la noche del jueves al interior de un autobús de la empresa Troncal S.A. de C.V., luego de que presuntamente se resistiera a un asalto cuando la unidad circulaba sobre la autopista México-Puebla. De acuerdo con los […]",
+      "fecha": "17 julio 2026 · 07:15 CST",
+      "fuente": "Quadratin EdoMex",
+      "url": "https://edomex.quadratin.com.mx/asesinan-a-joven-durante-asalto-en-autobus-sobre-la-mexico-puebla/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 19.35,
+      "lon": -98.4
+    },
     {
       "id": "ab51abf2",
       "tipo": "cierre_total",
