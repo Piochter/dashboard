@@ -1,10 +1,11 @@
 {
-  "ultima_actualizacion": "2026-07-18T12:07:37.317190-06:00",
-  "ultima_actualizacion_legible": "18 de julio de 2026 · 12:07 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-07-18T13:23:07.304668-06:00",
+  "ultima_actualizacion_legible": "18 de julio de 2026 · 13:23 CST",
+  "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News"
+    "Google News",
+    "Quadratin + regionales"
   ],
   "grupos": [
     {
@@ -14,6 +15,22 @@
       "label": "CIERRE PARCIAL / ACCIDENTES",
       "col2": true,
       "alertas": [
+        {
+          "id": "024da442",
+          "tipo": "cierre_parcial",
+          "ruta": "Accidente entre autobús, tráiler y camioneta en el Arco Norte…",
+          "descripcion": "Accidente entre autobús, tráiler y camioneta en el Arco Norte deja 8 lesionados. Un aparatoso múltiple se registró la mañana de este sábado sobre la autopista Arco Norte, a la altura del kilómetro 62, con dirección a Pachuca",
+          "recomendacion": "",
+          "fecha": "18 julio 2026 · 12:44 CST",
+          "fecha_iso": "2026-07-18T12:44:00-06:00",
+          "fuente": "Quadratin Hidalgo",
+          "url": "https://hidalgo.quadratin.com.mx/sucesos/accidente-entre-autobus-trailer-y-camioneta-en-el-arco-norte-deja-8-lesionados/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 19.8,
+          "lon": -99.1
+        },
         {
           "id": "9079b315",
           "tipo": "cierre_parcial",
@@ -31,5 +48,19 @@
       ]
     }
   ],
-  "para_mapa": []
+  "para_mapa": [
+    {
+      "id": "024da442",
+      "tipo": "cierre_parcial",
+      "ruta": "Accidente entre autobús, tráiler y camioneta en el Arco Norte…",
+      "descripcion": "Accidente entre autobús, tráiler y camioneta en el Arco Norte deja 8 lesionados. Un aparatoso múltiple se registró la mañana de este sábado sobre la autopista Arco Norte, a la altura del kilómetro 62, con dirección a Pachuca",
+      "fecha": "18 julio 2026 · 12:44 CST",
+      "fuente": "Quadratin Hidalgo",
+      "url": "https://hidalgo.quadratin.com.mx/sucesos/accidente-entre-autobus-trailer-y-camioneta-en-el-arco-norte-deja-8-lesionados/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 19.8,
+      "lon": -99.1
+    }
+  ]
 }
