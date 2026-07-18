@@ -1,14 +1,11 @@
 {
-  "ultima_actualizacion": "2026-07-17T18:15:05.354240-06:00",
-  "ultima_actualizacion_legible": "17 de julio de 2026 · 18:15 CST",
-  "total": 6,
+  "ultima_actualizacion": "2026-07-17T21:33:29.470763-06:00",
+  "ultima_actualizacion_legible": "17 de julio de 2026 · 21:33 CST",
+  "total": 3,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
-    "Medios nacionales",
-    "Medios regionales",
-    "Quadratin + regionales",
-    "Telegram"
+    "Quadratin + regionales"
   ],
   "grupos": [
     {
@@ -24,8 +21,8 @@
           "ruta": "Volcadura de tráiler en la Toluca-Tenango deja dos muertos -…",
           "descripcion": "Volcadura de tráiler en la Toluca-Tenango deja dos muertos - El Sol de México. Volcadura de tráiler en la Toluca-Tenango deja dos muertos El Sol de México",
           "recomendacion": "",
-          "fecha": "17 julio 2026 · 15:21 CST",
-          "fecha_iso": "2026-07-17T15:21:00-06:00",
+          "fecha": "17 julio 2026 · 17:51 CST",
+          "fecha_iso": "2026-07-17T17:51:00-06:00",
           "fuente": "El Sol de México",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdFdCc1VrLVp1YTZicEh4Y21BM2RkN1AyYW11RjZGcklKUW8zcG4wRExsMlpIVEJMbHJaSWdrR2JxcklYTXdsNElNbm5KVF95U3Z1WG5sbXB4QXlYdDV0Rk5KUWZ5QWR2bnZJdHRsRG52WENWTUxCRFloZGdTOWF2V1pmTGpVSElhOTVPZG55TGdzR0VfeWp5U3JPa1F1SVpEWl9HNlptVDlOSjhKRG5OMnMzZjBkUQ?oc=5",
           "dot_color": "#e74c3c",
@@ -33,45 +30,6 @@
           "badge_txt": "CIERRE TOTAL",
           "lat": 19.29,
           "lon": -99.66
-        },
-        {
-          "id": "ab51abf2",
-          "tipo": "cierre_total",
-          "ruta": "🚨¡URGENTE! Volcadura de tráiler y automóvil provoca caos vial en…",
-          "descripcion": "🚨¡URGENTE! Volcadura de tráiler y automóvil provoca caos vial en la #Toluca-#Tenango 😨👇\n\nhttps://lajornadaestadodemexico.com/dos-accidentes-paralizan-la-carretera-toluca-tenango-en-ambos-sentidos/",
-          "recomendacion": "",
-          "fecha": "17 julio 2026 · 06:33 CST",
-          "fecha_iso": "2026-07-17T06:33:00-06:00",
-          "fuente": "Telegram @jornadaedomex",
-          "url": "https://t.me/jornadaedomex/11471",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL",
-          "lat": 19.29,
-          "lon": -99.66
-        }
-      ]
-    },
-    {
-      "tipo": "bloqueo",
-      "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "282d564f",
-          "tipo": "bloqueo",
-          "ruta": "Bloqueos carreteras HOY 17 de julio: Autopistas cerradas en México,…",
-          "descripcion": "Bloqueos carreteras HOY 17 de julio: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 17 de julio: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
-          "recomendacion": "",
-          "fecha": "17 julio 2026 · 07:46 CST",
-          "fecha_iso": "2026-07-17T07:46:00-06:00",
-          "fuente": "Eje Central",
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVF8yTzE5TEpMckwtNC1pRW93VTNoNDFoSmEwSmFENzJ2dU5qZV92eFNXWmdoWjhyajA2MFRMM3dVZXkxcXdNeGFaNWd4NFdQSjBVR1V4Skx4a2hldmMwQ2pLNDFUbnd1X1VwZWFOUTZXSzg3dGhOMGUtcXpURWFhT3p0YjN1VU9DdHhWdHBOZmJuZGRWY2F6UnF6R21mTmE0Z0gwMmszU3E1SHdZa0hidWgyT19XWVpkU2tuaXZBMEhWOHZjMmFuSnQ2VS03TXZyUmNLc2k4bHFYcVBmcTNSOFQ1dWJuRVU?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
         }
       ]
     },
@@ -83,78 +41,60 @@
       "col2": true,
       "alertas": [
         {
-          "id": "90958edf",
+          "id": "06d01db2",
           "tipo": "cierre_parcial",
-          "ruta": "Se descarrila vagón de tren de carga en Coyotepec, Edomex,…",
-          "descripcion": "Se descarrila vagón de tren de carga en Coyotepec, Edomex, por falla mecánica. El accidente ocurrió a un costado de donde se efectúan las obras del Tren México-Querétaro",
+          "ruta": "¿Hay Cierres en la Autopista México-Querétaro Hoy VIERNES 17 de…",
+          "descripcion": "¿Hay Cierres en la Autopista México-Querétaro Hoy VIERNES 17 de Julio de 2026? - N+. ¿Hay Cierres en la Autopista México-Querétaro Hoy VIERNES 17 de Julio de 2026? N+",
           "recomendacion": "",
-          "fecha": "17 julio 2026 · 17:20 CST",
-          "fecha_iso": "2026-07-17T17:20:00-06:00",
-          "fuente": "El Informador Jalisco",
-          "url": "https://www.informador.mx/mexico/se-descarrila-vagon-de-tren-de-carga-en-coyotepec-edomex-por-falla-mecanica-20260717-0174.html",
+          "fecha": "17 julio 2026 · 14:47 CST",
+          "fecha_iso": "2026-07-17T14:47:00-06:00",
+          "fuente": "N+",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWXNtNUZfanNzZU9TZENuUnRqRWtRWUFPQ1JLeHBKSXFBR1lOTTNZTUdrUlJORzd1Vm9TbldhYzZMVTU3RGgyNHNVcEFEeXJMYzNPd1dqNXRnSlJ0LVlBbS13YjJJa2xpeEFkYWJXZzhJTkVPUlExMkRDY090SEdOSlowa1g2bFppTkJvWG4wTDdqZi1IcHZBX1Fpb0NXRFU5cG4xb3E3NVZabXFaVl9pcmdEdF9UaVdQLXlsMmRKZkNlRllSMzdGbC15bFBHWjhWLWNnajdB?oc=5",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL",
           "lat": 20.1,
           "lon": -99.5
-        },
+        }
+      ]
+    },
+    {
+      "tipo": "carga_vehicular",
+      "color": "azul",
+      "icono": "🚗",
+      "label": "CARGA VEHICULAR",
+      "col2": true,
+      "alertas": [
         {
-          "id": "15c81d8e",
-          "tipo": "cierre_parcial",
-          "ruta": "Dos accidentes dejaron caos en la Cuesta China…",
-          "descripcion": "Dos accidentes dejaron caos en la Cuesta China. Dos accidentes en hechos distintos fueron los que se registraron en la autopista 57 con tan solo 100 metros de distancia a la altura The post Dos accidentes dejaron caos en la Cuesta China appeared first on Quadratin Querétaro.",
+          "id": "a9c4243d",
+          "tipo": "carga_vehicular",
+          "ruta": "Prevén congestionamiento vial por peregrinación y obras en Bernardo Quintana…",
+          "descripcion": "Prevén congestionamiento vial por peregrinación y obras en Bernardo Quintana. La Secretaría de Gobierno Estatal, advirtió que este fin de semana se prevé un importante congestionamiento vial en la zona de la carretera federal 57 The post Prevén congestionamiento vial por peregrinación y obras en Bernardo Quintana appeared first on Quadratin Querétaro.",
           "recomendacion": "",
-          "fecha": "17 julio 2026 · 17:05 CST",
-          "fecha_iso": "2026-07-17T17:05:00-06:00",
+          "fecha": "17 julio 2026 · 19:05 CST",
+          "fecha_iso": "2026-07-17T19:05:00-06:00",
           "fuente": "Quadratin Queretaro",
-          "url": "https://queretaro.quadratin.com.mx/dos-accidentes-dejaron-caos-en-la-cuesta-china/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
+          "url": "https://queretaro.quadratin.com.mx/preven-congestionamiento-vial-por-peregrinacion-y-obras-en-bernardo-quintana/",
+          "dot_color": "#2980b9",
+          "badge": "badge-carga",
+          "badge_txt": "CARGA VEHICULAR",
           "lat": 21.5,
           "lon": -100.0
-        },
-        {
-          "id": "a27cf977",
-          "tipo": "cierre_parcial",
-          "ruta": "Transporte intermodal, alternativa para reducir congestionamiento y accidentes en carreteras:…",
-          "descripcion": "Transporte intermodal, alternativa para reducir congestionamiento y accidentes en carreteras: IMT. Ante la congestión y los índices de accidentabilidad en las carreteras de México, es necesario aumentar el movimiento de carga a través del ferrocarril, siendo el transporte intermodal la mejor alternativa, consideró Carlos Martner, coordinador de Transporte Integrado y Logística del Instituto Mexicano del Transporte (IMT). Durante su participación en la XXV Reunión Nacional de Vías Terrestres, […]",
-          "recomendacion": "alternativa para reducir congestionamiento y accidentes en carreteras: IMT",
-          "fecha": "17 julio 2026 · 07:05 CST",
-          "fecha_iso": "2026-07-17T07:05:00-06:00",
-          "fuente": "T21 Transporte",
-          "url": "https://t21.com.mx/transporte-intermodal-alternativa-para-reducir-congestionamiento-y-accidentes-en-carreteras-imt/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
         }
       ]
     }
   ],
   "para_mapa": [
     {
-      "id": "90958edf",
-      "tipo": "cierre_parcial",
-      "ruta": "Se descarrila vagón de tren de carga en Coyotepec, Edomex,…",
-      "descripcion": "Se descarrila vagón de tren de carga en Coyotepec, Edomex, por falla mecánica. El accidente ocurrió a un costado de donde se efectúan las obras del Tren México-Querétaro",
-      "fecha": "17 julio 2026 · 17:20 CST",
-      "fuente": "El Informador Jalisco",
-      "url": "https://www.informador.mx/mexico/se-descarrila-vagon-de-tren-de-carga-en-coyotepec-edomex-por-falla-mecanica-20260717-0174.html",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 20.1,
-      "lon": -99.5
-    },
-    {
-      "id": "15c81d8e",
-      "tipo": "cierre_parcial",
-      "ruta": "Dos accidentes dejaron caos en la Cuesta China…",
-      "descripcion": "Dos accidentes dejaron caos en la Cuesta China. Dos accidentes en hechos distintos fueron los que se registraron en la autopista 57 con tan solo 100 metros de distancia a la altura The post Dos accidentes dejaron caos en la Cuesta China appeared first on Quadratin Querétaro.",
-      "fecha": "17 julio 2026 · 17:05 CST",
+      "id": "a9c4243d",
+      "tipo": "carga_vehicular",
+      "ruta": "Prevén congestionamiento vial por peregrinación y obras en Bernardo Quintana…",
+      "descripcion": "Prevén congestionamiento vial por peregrinación y obras en Bernardo Quintana. La Secretaría de Gobierno Estatal, advirtió que este fin de semana se prevé un importante congestionamiento vial en la zona de la carretera federal 57 The post Prevén congestionamiento vial por peregrinación y obras en Bernardo Quintana appeared first on Quadratin Querétaro.",
+      "fecha": "17 julio 2026 · 19:05 CST",
       "fuente": "Quadratin Queretaro",
-      "url": "https://queretaro.quadratin.com.mx/dos-accidentes-dejaron-caos-en-la-cuesta-china/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
+      "url": "https://queretaro.quadratin.com.mx/preven-congestionamiento-vial-por-peregrinacion-y-obras-en-bernardo-quintana/",
+      "dot_color": "#2980b9",
+      "badge_txt": "CARGA VEHICULAR",
       "lat": 21.5,
       "lon": -100.0
     },
@@ -163,7 +103,7 @@
       "tipo": "cierre_total",
       "ruta": "Volcadura de tráiler en la Toluca-Tenango deja dos muertos -…",
       "descripcion": "Volcadura de tráiler en la Toluca-Tenango deja dos muertos - El Sol de México. Volcadura de tráiler en la Toluca-Tenango deja dos muertos El Sol de México",
-      "fecha": "17 julio 2026 · 15:21 CST",
+      "fecha": "17 julio 2026 · 17:51 CST",
       "fuente": "El Sol de México",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdFdCc1VrLVp1YTZicEh4Y21BM2RkN1AyYW11RjZGcklKUW8zcG4wRExsMlpIVEJMbHJaSWdrR2JxcklYTXdsNElNbm5KVF95U3Z1WG5sbXB4QXlYdDV0Rk5KUWZ5QWR2bnZJdHRsRG52WENWTUxCRFloZGdTOWF2V1pmTGpVSElhOTVPZG55TGdzR0VfeWp5U3JPa1F1SVpEWl9HNlptVDlOSjhKRG5OMnMzZjBkUQ?oc=5",
       "dot_color": "#e74c3c",
@@ -172,17 +112,17 @@
       "lon": -99.66
     },
     {
-      "id": "ab51abf2",
-      "tipo": "cierre_total",
-      "ruta": "🚨¡URGENTE! Volcadura de tráiler y automóvil provoca caos vial en…",
-      "descripcion": "🚨¡URGENTE! Volcadura de tráiler y automóvil provoca caos vial en la #Toluca-#Tenango 😨👇\n\nhttps://lajornadaestadodemexico.com/dos-accidentes-paralizan-la-carretera-toluca-tenango-en-ambos-sentidos/",
-      "fecha": "17 julio 2026 · 06:33 CST",
-      "fuente": "Telegram @jornadaedomex",
-      "url": "https://t.me/jornadaedomex/11471",
-      "dot_color": "#e74c3c",
-      "badge_txt": "CIERRE TOTAL",
-      "lat": 19.29,
-      "lon": -99.66
+      "id": "06d01db2",
+      "tipo": "cierre_parcial",
+      "ruta": "¿Hay Cierres en la Autopista México-Querétaro Hoy VIERNES 17 de…",
+      "descripcion": "¿Hay Cierres en la Autopista México-Querétaro Hoy VIERNES 17 de Julio de 2026? - N+. ¿Hay Cierres en la Autopista México-Querétaro Hoy VIERNES 17 de Julio de 2026? N+",
+      "fecha": "17 julio 2026 · 14:47 CST",
+      "fuente": "N+",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWXNtNUZfanNzZU9TZENuUnRqRWtRWUFPQ1JLeHBKSXFBR1lOTTNZTUdrUlJORzd1Vm9TbldhYzZMVTU3RGgyNHNVcEFEeXJMYzNPd1dqNXRnSlJ0LVlBbS13YjJJa2xpeEFkYWJXZzhJTkVPUlExMkRDY090SEdOSlowa1g2bFppTkJvWG4wTDdqZi1IcHZBX1Fpb0NXRFU5cG4xb3E3NVZabXFaVl9pcmdEdF9UaVdQLXlsMmRKZkNlRllSMzdGbC15bFBHWjhWLWNnajdB?oc=5",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 20.1,
+      "lon": -99.5
     }
   ]
 }
