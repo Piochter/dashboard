@@ -1,10 +1,9 @@
 {
-  "ultima_actualizacion": "2026-07-18T08:07:54.332085-06:00",
-  "ultima_actualizacion_legible": "18 de julio de 2026 · 08:07 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-07-18T09:12:52.475502-06:00",
+  "ultima_actualizacion_legible": "18 de julio de 2026 · 09:12 CST",
+  "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News",
     "Quadratin + regionales"
   ],
   "grupos": [
@@ -28,22 +27,6 @@
           "dot_color": "#e74c3c",
           "badge": "badge-cierre-total",
           "badge_txt": "CIERRE TOTAL"
-        },
-        {
-          "id": "e520f2a7",
-          "tipo": "cierre_total",
-          "ruta": "Volcadura de tráiler en la Toluca-Tenango deja dos muertos -…",
-          "descripcion": "Volcadura de tráiler en la Toluca-Tenango deja dos muertos - El Sol de México. Volcadura de tráiler en la Toluca-Tenango deja dos muertos El Sol de México",
-          "recomendacion": "",
-          "fecha": "17 julio 2026 · 20:11 CST",
-          "fecha_iso": "2026-07-17T20:11:00-06:00",
-          "fuente": "El Sol de México",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdFdCc1VrLVp1YTZicEh4Y21BM2RkN1AyYW11RjZGcklKUW8zcG4wRExsMlpIVEJMbHJaSWdrR2JxcklYTXdsNElNbm5KVF95U3Z1WG5sbXB4QXlYdDV0Rk5KUWZ5QWR2bnZJdHRsRG52WENWTUxCRFloZGdTOWF2V1pmTGpVSElhOTVPZG55TGdzR0VfeWp5U3JPa1F1SVpEWl9HNlptVDlOSjhKRG5OMnMzZjBkUQ?oc=5",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL",
-          "lat": 19.29,
-          "lon": -99.66
         }
       ]
     },
@@ -71,19 +54,5 @@
       ]
     }
   ],
-  "para_mapa": [
-    {
-      "id": "e520f2a7",
-      "tipo": "cierre_total",
-      "ruta": "Volcadura de tráiler en la Toluca-Tenango deja dos muertos -…",
-      "descripcion": "Volcadura de tráiler en la Toluca-Tenango deja dos muertos - El Sol de México. Volcadura de tráiler en la Toluca-Tenango deja dos muertos El Sol de México",
-      "fecha": "17 julio 2026 · 20:11 CST",
-      "fuente": "El Sol de México",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdFdCc1VrLVp1YTZicEh4Y21BM2RkN1AyYW11RjZGcklKUW8zcG4wRExsMlpIVEJMbHJaSWdrR2JxcklYTXdsNElNbm5KVF95U3Z1WG5sbXB4QXlYdDV0Rk5KUWZ5QWR2bnZJdHRsRG52WENWTUxCRFloZGdTOWF2V1pmTGpVSElhOTVPZG55TGdzR0VfeWp5U3JPa1F1SVpEWl9HNlptVDlOSjhKRG5OMnMzZjBkUQ?oc=5",
-      "dot_color": "#e74c3c",
-      "badge_txt": "CIERRE TOTAL",
-      "lat": 19.29,
-      "lon": -99.66
-    }
-  ]
+  "para_mapa": []
 }
