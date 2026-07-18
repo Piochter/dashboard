@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-07-17T21:33:29.470763-06:00",
-  "ultima_actualizacion_legible": "17 de julio de 2026 · 21:33 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-07-17T23:52:33.611800-06:00",
+  "ultima_actualizacion_legible": "17 de julio de 2026 · 23:52 CST",
+  "total": 4,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
@@ -16,13 +16,27 @@
       "col2": false,
       "alertas": [
         {
+          "id": "22a75165",
+          "tipo": "cierre_total",
+          "ruta": "Lluvias provocan derrumbes y cierre de carreteras en las altas…",
+          "descripcion": "Lluvias provocan derrumbes y cierre de carreteras en las altas montañas. Muere joven tras deslave en Los Reyes",
+          "recomendacion": "",
+          "fecha": "17 julio 2026 · 21:28 CST",
+          "fecha_iso": "2026-07-17T21:28:00-06:00",
+          "fuente": "Quadratin Veracruz",
+          "url": "https://veracruz.quadratin.com.mx/lluvias-provocan-derrumbes-y-cierre-de-carreteras-en-las-altas-montanas/",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL"
+        },
+        {
           "id": "e520f2a7",
           "tipo": "cierre_total",
           "ruta": "Volcadura de tráiler en la Toluca-Tenango deja dos muertos -…",
           "descripcion": "Volcadura de tráiler en la Toluca-Tenango deja dos muertos - El Sol de México. Volcadura de tráiler en la Toluca-Tenango deja dos muertos El Sol de México",
           "recomendacion": "",
-          "fecha": "17 julio 2026 · 17:51 CST",
-          "fecha_iso": "2026-07-17T17:51:00-06:00",
+          "fecha": "17 julio 2026 · 20:11 CST",
+          "fecha_iso": "2026-07-17T20:11:00-06:00",
           "fuente": "El Sol de México",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdFdCc1VrLVp1YTZicEh4Y21BM2RkN1AyYW11RjZGcklKUW8zcG4wRExsMlpIVEJMbHJaSWdrR2JxcklYTXdsNElNbm5KVF95U3Z1WG5sbXB4QXlYdDV0Rk5KUWZ5QWR2bnZJdHRsRG52WENWTUxCRFloZGdTOWF2V1pmTGpVSElhOTVPZG55TGdzR0VfeWp5U3JPa1F1SVpEWl9HNlptVDlOSjhKRG5OMnMzZjBkUQ?oc=5",
           "dot_color": "#e74c3c",
@@ -66,44 +80,29 @@
       "col2": true,
       "alertas": [
         {
-          "id": "a9c4243d",
+          "id": "ab339186",
           "tipo": "carga_vehicular",
-          "ruta": "Prevén congestionamiento vial por peregrinación y obras en Bernardo Quintana…",
-          "descripcion": "Prevén congestionamiento vial por peregrinación y obras en Bernardo Quintana. La Secretaría de Gobierno Estatal, advirtió que este fin de semana se prevé un importante congestionamiento vial en la zona de la carretera federal 57 The post Prevén congestionamiento vial por peregrinación y obras en Bernardo Quintana appeared first on Quadratin Querétaro.",
+          "ruta": "carretera México-Texcoco en La Paz",
+          "descripcion": "Colapsa lluvia la carretera México-Texcoco en La Paz. La circulación quedó prácticamente detenida. Vehículos quedaron varados por las inundaciones.",
           "recomendacion": "",
-          "fecha": "17 julio 2026 · 19:05 CST",
-          "fecha_iso": "2026-07-17T19:05:00-06:00",
-          "fuente": "Quadratin Queretaro",
-          "url": "https://queretaro.quadratin.com.mx/preven-congestionamiento-vial-por-peregrinacion-y-obras-en-bernardo-quintana/",
+          "fecha": "17 julio 2026 · 21:45 CST",
+          "fecha_iso": "2026-07-17T21:45:00-06:00",
+          "fuente": "Quadratin EdoMex",
+          "url": "https://edomex.quadratin.com.mx/colapsa-lluvia-la-carretera-mexico-texcoco-en-la-paz/",
           "dot_color": "#2980b9",
           "badge": "badge-carga",
-          "badge_txt": "CARGA VEHICULAR",
-          "lat": 21.5,
-          "lon": -100.0
+          "badge_txt": "CARGA VEHICULAR"
         }
       ]
     }
   ],
   "para_mapa": [
     {
-      "id": "a9c4243d",
-      "tipo": "carga_vehicular",
-      "ruta": "Prevén congestionamiento vial por peregrinación y obras en Bernardo Quintana…",
-      "descripcion": "Prevén congestionamiento vial por peregrinación y obras en Bernardo Quintana. La Secretaría de Gobierno Estatal, advirtió que este fin de semana se prevé un importante congestionamiento vial en la zona de la carretera federal 57 The post Prevén congestionamiento vial por peregrinación y obras en Bernardo Quintana appeared first on Quadratin Querétaro.",
-      "fecha": "17 julio 2026 · 19:05 CST",
-      "fuente": "Quadratin Queretaro",
-      "url": "https://queretaro.quadratin.com.mx/preven-congestionamiento-vial-por-peregrinacion-y-obras-en-bernardo-quintana/",
-      "dot_color": "#2980b9",
-      "badge_txt": "CARGA VEHICULAR",
-      "lat": 21.5,
-      "lon": -100.0
-    },
-    {
       "id": "e520f2a7",
       "tipo": "cierre_total",
       "ruta": "Volcadura de tráiler en la Toluca-Tenango deja dos muertos -…",
       "descripcion": "Volcadura de tráiler en la Toluca-Tenango deja dos muertos - El Sol de México. Volcadura de tráiler en la Toluca-Tenango deja dos muertos El Sol de México",
-      "fecha": "17 julio 2026 · 17:51 CST",
+      "fecha": "17 julio 2026 · 20:11 CST",
       "fuente": "El Sol de México",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdFdCc1VrLVp1YTZicEh4Y21BM2RkN1AyYW11RjZGcklKUW8zcG4wRExsMlpIVEJMbHJaSWdrR2JxcklYTXdsNElNbm5KVF95U3Z1WG5sbXB4QXlYdDV0Rk5KUWZ5QWR2bnZJdHRsRG52WENWTUxCRFloZGdTOWF2V1pmTGpVSElhOTVPZG55TGdzR0VfeWp5U3JPa1F1SVpEWl9HNlptVDlOSjhKRG5OMnMzZjBkUQ?oc=5",
       "dot_color": "#e74c3c",
