@@ -1,11 +1,12 @@
 {
-  "ultima_actualizacion": "2026-07-17T17:25:22.049937-06:00",
-  "ultima_actualizacion_legible": "17 de julio de 2026 · 17:25 CST",
-  "total": 5,
+  "ultima_actualizacion": "2026-07-17T18:15:05.354240-06:00",
+  "ultima_actualizacion_legible": "17 de julio de 2026 · 18:15 CST",
+  "total": 6,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
     "Medios nacionales",
+    "Medios regionales",
     "Quadratin + regionales",
     "Telegram"
   ],
@@ -82,6 +83,22 @@
       "col2": true,
       "alertas": [
         {
+          "id": "90958edf",
+          "tipo": "cierre_parcial",
+          "ruta": "Se descarrila vagón de tren de carga en Coyotepec, Edomex,…",
+          "descripcion": "Se descarrila vagón de tren de carga en Coyotepec, Edomex, por falla mecánica. El accidente ocurrió a un costado de donde se efectúan las obras del Tren México-Querétaro",
+          "recomendacion": "",
+          "fecha": "17 julio 2026 · 17:20 CST",
+          "fecha_iso": "2026-07-17T17:20:00-06:00",
+          "fuente": "El Informador Jalisco",
+          "url": "https://www.informador.mx/mexico/se-descarrila-vagon-de-tren-de-carga-en-coyotepec-edomex-por-falla-mecanica-20260717-0174.html",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 20.1,
+          "lon": -99.5
+        },
+        {
           "id": "15c81d8e",
           "tipo": "cierre_parcial",
           "ruta": "Dos accidentes dejaron caos en la Cuesta China…",
@@ -115,6 +132,19 @@
     }
   ],
   "para_mapa": [
+    {
+      "id": "90958edf",
+      "tipo": "cierre_parcial",
+      "ruta": "Se descarrila vagón de tren de carga en Coyotepec, Edomex,…",
+      "descripcion": "Se descarrila vagón de tren de carga en Coyotepec, Edomex, por falla mecánica. El accidente ocurrió a un costado de donde se efectúan las obras del Tren México-Querétaro",
+      "fecha": "17 julio 2026 · 17:20 CST",
+      "fuente": "El Informador Jalisco",
+      "url": "https://www.informador.mx/mexico/se-descarrila-vagon-de-tren-de-carga-en-coyotepec-edomex-por-falla-mecanica-20260717-0174.html",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 20.1,
+      "lon": -99.5
+    },
     {
       "id": "15c81d8e",
       "tipo": "cierre_parcial",
