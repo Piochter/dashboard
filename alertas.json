@@ -1,13 +1,38 @@
 {
-  "ultima_actualizacion": "2026-07-18T14:12:10.537208-06:00",
-  "ultima_actualizacion_legible": "18 de julio de 2026 · 14:12 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-07-18T15:05:34.761970-06:00",
+  "ultima_actualizacion_legible": "18 de julio de 2026 · 15:05 CST",
+  "total": 3,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
     "Quadratin + regionales"
   ],
   "grupos": [
+    {
+      "tipo": "cierre_total",
+      "color": "rojo",
+      "icono": "🔴",
+      "label": "CIERRE TOTAL",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "b5364c28",
+          "tipo": "cierre_total",
+          "ruta": "Se descontroló la rapiña tras volcadura de tráiler en Santa…",
+          "descripcion": "Se descontroló la rapiña tras volcadura de tráiler en Santa Rosa Jáuregui. El incidente ocurrió cuando el operador de la pesada unidad circulaba sobre la autopista 57 en el tramo de San Luis hacia Querétaro The post Se descontroló la rapiña tras volcadura de tráiler en Santa Rosa Jáuregui appeared first on Quadratin Querétaro.",
+          "recomendacion": "",
+          "fecha": "18 julio 2026 · 14:45 CST",
+          "fecha_iso": "2026-07-18T14:45:00-06:00",
+          "fuente": "Quadratin Queretaro",
+          "url": "https://queretaro.quadratin.com.mx/se-descontrolo-la-rapina-tras-volcadura-de-trailer-en-santa-rosa-jauregui/",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL",
+          "lat": 21.5,
+          "lon": -100.0
+        }
+      ]
+    },
     {
       "tipo": "cierre_parcial",
       "color": "amarillo",
@@ -49,6 +74,19 @@
     }
   ],
   "para_mapa": [
+    {
+      "id": "b5364c28",
+      "tipo": "cierre_total",
+      "ruta": "Se descontroló la rapiña tras volcadura de tráiler en Santa…",
+      "descripcion": "Se descontroló la rapiña tras volcadura de tráiler en Santa Rosa Jáuregui. El incidente ocurrió cuando el operador de la pesada unidad circulaba sobre la autopista 57 en el tramo de San Luis hacia Querétaro The post Se descontroló la rapiña tras volcadura de tráiler en Santa Rosa Jáuregui appeared first on Quadratin Querétaro.",
+      "fecha": "18 julio 2026 · 14:45 CST",
+      "fuente": "Quadratin Queretaro",
+      "url": "https://queretaro.quadratin.com.mx/se-descontrolo-la-rapina-tras-volcadura-de-trailer-en-santa-rosa-jauregui/",
+      "dot_color": "#e74c3c",
+      "badge_txt": "CIERRE TOTAL",
+      "lat": 21.5,
+      "lon": -100.0
+    },
     {
       "id": "024da442",
       "tipo": "cierre_parcial",
