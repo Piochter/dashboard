@@ -1,12 +1,35 @@
 {
-  "ultima_actualizacion": "2026-07-18T10:10:29.486946-06:00",
-  "ultima_actualizacion_legible": "18 de julio de 2026 · 10:10 CST",
-  "total": 0,
+  "ultima_actualizacion": "2026-07-18T11:12:59.108448-06:00",
+  "ultima_actualizacion_legible": "18 de julio de 2026 · 11:12 CST",
+  "total": 1,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News"
   ],
-  "grupos": [],
-  "para_mapa": [],
-  "nota": "Sin alertas activas en la ventana de tiempo configurada."
+  "grupos": [
+    {
+      "tipo": "cierre_parcial",
+      "color": "amarillo",
+      "icono": "🟡",
+      "label": "CIERRE PARCIAL / ACCIDENTES",
+      "col2": true,
+      "alertas": [
+        {
+          "id": "9079b315",
+          "tipo": "cierre_parcial",
+          "ruta": "Carreteras Bloqueadas en México Hoy, Sábado 18 de Julio 2026…",
+          "descripcion": "Carreteras Bloqueadas en México Hoy, Sábado 18 de Julio 2026 - N+. Carreteras Bloqueadas en México Hoy, Sábado 18 de Julio 2026 N+",
+          "recomendacion": "",
+          "fecha": "18 julio 2026 · 07:24 CST",
+          "fecha_iso": "2026-07-18T07:24:00-06:00",
+          "fuente": "N+",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZ2Q3eUhjMlRNazEwVFFFSTBZMm4zcHlBb0Y2M3I2bWFvNlQtRUJsSHNVZWFVQ0wtX1VtWURoQTlsMHIyZVNWZ1JRLUVKb2VSX2Ffa1FmdzZGQndNaThOeEItLXI1V1dmTmZWQ18zRk9XOUJydEJjWHFPRFVEcnRYX1JUTGVrSmNfc2xIT1diM3dCZDRkMU1FQUZn?oc=5",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        }
+      ]
+    }
+  ],
+  "para_mapa": []
 }
