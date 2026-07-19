@@ -1,12 +1,35 @@
 {
-  "ultima_actualizacion": "2026-07-19T09:01:00.901946-06:00",
-  "ultima_actualizacion_legible": "19 de julio de 2026 · 09:01 CST",
-  "total": 0,
+  "ultima_actualizacion": "2026-07-19T10:01:01.874032-06:00",
+  "ultima_actualizacion_legible": "19 de julio de 2026 · 10:01 CST",
+  "total": 1,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News"
   ],
-  "grupos": [],
-  "para_mapa": [],
-  "nota": "Sin alertas activas en la ventana de tiempo configurada."
+  "grupos": [
+    {
+      "tipo": "bloqueo",
+      "color": "rojo",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "36d70dc7",
+          "tipo": "bloqueo",
+          "ruta": "Bloqueos carreteras HOY 19 de julio: Autopistas cerradas en México,…",
+          "descripcion": "Bloqueos carreteras HOY 19 de julio: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 19 de julio: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
+          "recomendacion": "",
+          "fecha": "19 julio 2026 · 08:47 CST",
+          "fecha_iso": "2026-07-19T08:47:00-06:00",
+          "fuente": "Eje Central",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNcFRFakkzNVFTQ3pUNVRRM2pOSjlpbDFzWldTMmVhZ09LdHJkQTI4TW5CVFJ0TFNxYmpHdV9fOTdtblhFWDl2Ym1qQ05CdTgxblFxa3RIdnNKZnh6VUtNOEtBZk5XdFRxZzh3Zi1CdWJjRmVyc05CNGI0TmVZeEpBM0dDR0l5OWU2S2UwX0V6RDk0dEZnWHN6UnMtejBPRHN2eDNFMEQ4cWxtWGRqSGZobGt1c2ZER3dPLWx2MEo4WTRzVUQxVWc2UVdPdU9uWTFpeXF6elFEWlFnMzRleU1vY3FqNEFzSGM?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        }
+      ]
+    }
+  ],
+  "para_mapa": []
 }
