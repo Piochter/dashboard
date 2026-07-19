@@ -1,10 +1,9 @@
 {
-  "ultima_actualizacion": "2026-07-19T00:23:46.869023-06:00",
-  "ultima_actualizacion_legible": "19 de julio de 2026 · 00:23 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-07-19T02:41:50.932940-06:00",
+  "ultima_actualizacion_legible": "19 de julio de 2026 · 02:41 CST",
+  "total": 1,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Medios regionales",
     "Quadratin + regionales"
   ],
   "grupos": [
@@ -15,22 +14,6 @@
       "label": "CIERRE PARCIAL / ACCIDENTES",
       "col2": true,
       "alertas": [
-        {
-          "id": "76fba862",
-          "tipo": "cierre_parcial",
-          "ruta": "Reportan accidente en carretera Lagos de Moreno-San Juan de los…",
-          "descripcion": "Reportan accidente en carretera Lagos de Moreno-San Juan de los Lagos; hay dos muertos y siete lesionados. Elementos de Protección Civil acudieron a un nuevo percance vial en Jalisco, en el que se registraron víctimas mortales",
-          "recomendacion": "",
-          "fecha": "18 julio 2026 · 18:19 CST",
-          "fecha_iso": "2026-07-18T18:19:00-06:00",
-          "fuente": "El Informador Jalisco",
-          "url": "https://www.informador.mx/jalisco/reportan-accidente-en-carretera-lagos-de-moreno-san-juan-de-los-lagos-hay-dos-muertos-y-siete-lesionados-20260718-0093.html",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 20.66,
-          "lon": -103.35
-        },
         {
           "id": "97ee096c",
           "tipo": "cierre_parcial",
@@ -51,19 +34,6 @@
     }
   ],
   "para_mapa": [
-    {
-      "id": "76fba862",
-      "tipo": "cierre_parcial",
-      "ruta": "Reportan accidente en carretera Lagos de Moreno-San Juan de los…",
-      "descripcion": "Reportan accidente en carretera Lagos de Moreno-San Juan de los Lagos; hay dos muertos y siete lesionados. Elementos de Protección Civil acudieron a un nuevo percance vial en Jalisco, en el que se registraron víctimas mortales",
-      "fecha": "18 julio 2026 · 18:19 CST",
-      "fuente": "El Informador Jalisco",
-      "url": "https://www.informador.mx/jalisco/reportan-accidente-en-carretera-lagos-de-moreno-san-juan-de-los-lagos-hay-dos-muertos-y-siete-lesionados-20260718-0093.html",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 20.66,
-      "lon": -103.35
-    },
     {
       "id": "97ee096c",
       "tipo": "cierre_parcial",
