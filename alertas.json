@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-07-19T13:30:04.706883-06:00",
-  "ultima_actualizacion_legible": "19 de julio de 2026 · 13:30 CST",
-  "total": 5,
+  "ultima_actualizacion": "2026-07-19T14:24:03.313991-06:00",
+  "ultima_actualizacion_legible": "19 de julio de 2026 · 14:24 CST",
+  "total": 6,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
@@ -95,6 +95,22 @@
       "col2": true,
       "alertas": [
         {
+          "id": "a5315099",
+          "tipo": "cierre_parcial",
+          "ruta": "Llama arzobispo de Acapulco a conducir con responsabilidad en vacaciones…",
+          "descripcion": "Llama arzobispo de Acapulco a conducir con responsabilidad en vacaciones. Pide Leopoldo González a automovilistas evitar consumir estupefacientes para evitar accidentes en carreteras",
+          "recomendacion": "evitar consumir estupefacientes para evitar accidentes en carreteras",
+          "fecha": "19 julio 2026 · 13:41 CST",
+          "fecha_iso": "2026-07-19T13:41:00-06:00",
+          "fuente": "Quadratin Guerrero",
+          "url": "https://guerrero.quadratin.com.mx/llama-arzobispo-de-acapulco-a-conducir-con-responsabilidad-en-vacaciones/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 16.86,
+          "lon": -99.88
+        },
+        {
           "id": "4cb9c875",
           "tipo": "cierre_parcial",
           "ruta": "carretera en Zihuatanejo",
@@ -112,6 +128,19 @@
     }
   ],
   "para_mapa": [
+    {
+      "id": "a5315099",
+      "tipo": "cierre_parcial",
+      "ruta": "Llama arzobispo de Acapulco a conducir con responsabilidad en vacaciones…",
+      "descripcion": "Llama arzobispo de Acapulco a conducir con responsabilidad en vacaciones. Pide Leopoldo González a automovilistas evitar consumir estupefacientes para evitar accidentes en carreteras",
+      "fecha": "19 julio 2026 · 13:41 CST",
+      "fuente": "Quadratin Guerrero",
+      "url": "https://guerrero.quadratin.com.mx/llama-arzobispo-de-acapulco-a-conducir-con-responsabilidad-en-vacaciones/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 16.86,
+      "lon": -99.88
+    },
     {
       "id": "37b185d1",
       "tipo": "cierre_total",
