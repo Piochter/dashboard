@@ -1,10 +1,11 @@
 {
-  "ultima_actualizacion": "2026-07-19T12:07:15.983849-06:00",
-  "ultima_actualizacion_legible": "19 de julio de 2026 · 12:07 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-07-19T13:30:04.706883-06:00",
+  "ultima_actualizacion_legible": "19 de julio de 2026 · 13:30 CST",
+  "total": 5,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
+    "Medios regionales",
     "Quadratin + regionales"
   ],
   "grupos": [
@@ -15,6 +16,36 @@
       "label": "CIERRE TOTAL",
       "col2": false,
       "alertas": [
+        {
+          "id": "37b185d1",
+          "tipo": "cierre_total",
+          "ruta": "carretera Guadalajara Morelia deja dos muertos y tres lesionados",
+          "descripcion": "Volcadura en carretera Guadalajara Morelia deja dos muertos y tres lesionados. De acuerdo con testigos en el lugar, uno de los vehículos impactó a otro y lo hizo perder el control; éste invadió el carril del sentido contrario de la autopista y chocó de frente contra otro automóvil",
+          "recomendacion": "",
+          "fecha": "19 julio 2026 · 13:04 CST",
+          "fecha_iso": "2026-07-19T13:04:00-06:00",
+          "fuente": "El Informador Jalisco",
+          "url": "https://www.informador.mx/jalisco/volcadura-en-carretera-guadalajara--morelia-deja-dos-muertos-y-tres-lesionados-20260719-0067.html",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL",
+          "lat": 20.66,
+          "lon": -103.35
+        },
+        {
+          "id": "f537ed17",
+          "tipo": "cierre_total",
+          "ruta": "Carretera a Morelia deja dos muertos y tres lesionados",
+          "descripcion": "Choque en Carretera a Morelia deja dos muertos y tres lesionados. El fuerte percance provocó el colapso total de la circulación.",
+          "recomendacion": "",
+          "fecha": "19 julio 2026 · 12:25 CST",
+          "fecha_iso": "2026-07-19T12:25:00-06:00",
+          "fuente": "Quadratin Jalisco",
+          "url": "https://jalisco.quadratin.com.mx/sucesos/choque-en-carretera-a-morelia-deja-dos-muertos-y-tres-lesionados/",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL"
+        },
         {
           "id": "4b460538",
           "tipo": "cierre_total",
@@ -81,6 +112,19 @@
     }
   ],
   "para_mapa": [
+    {
+      "id": "37b185d1",
+      "tipo": "cierre_total",
+      "ruta": "carretera Guadalajara Morelia deja dos muertos y tres lesionados",
+      "descripcion": "Volcadura en carretera Guadalajara Morelia deja dos muertos y tres lesionados. De acuerdo con testigos en el lugar, uno de los vehículos impactó a otro y lo hizo perder el control; éste invadió el carril del sentido contrario de la autopista y chocó de frente contra otro automóvil",
+      "fecha": "19 julio 2026 · 13:04 CST",
+      "fuente": "El Informador Jalisco",
+      "url": "https://www.informador.mx/jalisco/volcadura-en-carretera-guadalajara--morelia-deja-dos-muertos-y-tres-lesionados-20260719-0067.html",
+      "dot_color": "#e74c3c",
+      "badge_txt": "CIERRE TOTAL",
+      "lat": 20.66,
+      "lon": -103.35
+    },
     {
       "id": "4b460538",
       "tipo": "cierre_total",
