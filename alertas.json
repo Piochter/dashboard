@@ -1,35 +1,51 @@
 {
-  "ultima_actualizacion": "2026-07-19T20:13:29.577380-06:00",
-  "ultima_actualizacion_legible": "19 de julio de 2026 · 20:13 CST",
+  "ultima_actualizacion": "2026-07-19T22:01:08.517016-06:00",
+  "ultima_actualizacion_legible": "19 de julio de 2026 · 22:01 CST",
   "total": 1,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News"
+    "Quadratin + regionales"
   ],
   "grupos": [
     {
-      "tipo": "bloqueo",
-      "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
-      "col2": false,
+      "tipo": "cierre_parcial",
+      "color": "amarillo",
+      "icono": "🟡",
+      "label": "CIERRE PARCIAL / ACCIDENTES",
+      "col2": true,
       "alertas": [
         {
-          "id": "36d70dc7",
-          "tipo": "bloqueo",
-          "ruta": "Bloqueos carreteras HOY 19 de julio: Autopistas cerradas en México,…",
-          "descripcion": "Bloqueos carreteras HOY 19 de julio: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 19 de julio: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
+          "id": "e506e7da",
+          "tipo": "cierre_parcial",
+          "ruta": "Autopista Siglo 21 deja 8 heridos",
+          "descripcion": "Accidente en la Autopista Siglo 21 deja 8 heridos. El hecho, en la localidad de Santa Casilda, municipio de Gabriel Zamora, Michoacán",
           "recomendacion": "",
-          "fecha": "19 julio 2026 · 08:47 CST",
-          "fecha_iso": "2026-07-19T08:47:00-06:00",
-          "fuente": "Eje Central",
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNcFRFakkzNVFTQ3pUNVRRM2pOSjlpbDFzWldTMmVhZ09LdHJkQTI4TW5CVFJ0TFNxYmpHdV9fOTdtblhFWDl2Ym1qQ05CdTgxblFxa3RIdnNKZnh6VUtNOEtBZk5XdFRxZzh3Zi1CdWJjRmVyc05CNGI0TmVZeEpBM0dDR0l5OWU2S2UwX0V6RDk0dEZnWHN6UnMtejBPRHN2eDNFMEQ4cWxtWGRqSGZobGt1c2ZER3dPLWx2MEo4WTRzVUQxVWc2UVdPdU9uWTFpeXF6elFEWlFnMzRleU1vY3FqNEFzSGM?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
+          "fecha": "19 julio 2026 · 20:53 CST",
+          "fecha_iso": "2026-07-19T20:53:00-06:00",
+          "fuente": "Quadratin Guerrero",
+          "url": "https://guerrero.quadratin.com.mx/accidente-en-la-autopista-siglo-21-deja-8-heridos/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 19.7,
+          "lon": -101.19
         }
       ]
     }
   ],
-  "para_mapa": []
+  "para_mapa": [
+    {
+      "id": "e506e7da",
+      "tipo": "cierre_parcial",
+      "ruta": "Autopista Siglo 21 deja 8 heridos",
+      "descripcion": "Accidente en la Autopista Siglo 21 deja 8 heridos. El hecho, en la localidad de Santa Casilda, municipio de Gabriel Zamora, Michoacán",
+      "fecha": "19 julio 2026 · 20:53 CST",
+      "fuente": "Quadratin Guerrero",
+      "url": "https://guerrero.quadratin.com.mx/accidente-en-la-autopista-siglo-21-deja-8-heridos/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 19.7,
+      "lon": -101.19
+    }
+  ]
 }
