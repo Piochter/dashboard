@@ -1,9 +1,10 @@
 {
-  "ultima_actualizacion": "2026-07-20T10:14:00.269733-06:00",
-  "ultima_actualizacion_legible": "20 de julio de 2026 · 10:14 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-07-20T12:19:51.087910-06:00",
+  "ultima_actualizacion_legible": "20 de julio de 2026 · 12:19 CST",
+  "total": 3,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
+    "Quadratin + regionales",
     "Telegram"
   ],
   "grupos": [
@@ -14,6 +15,38 @@
       "label": "CIERRE PARCIAL / ACCIDENTES",
       "col2": true,
       "alertas": [
+        {
+          "id": "960930d2",
+          "tipo": "cierre_parcial",
+          "ruta": "Accidente múltiple colapsa la circulación en la Toluca-Atlacomulco…",
+          "descripcion": "Accidente múltiple colapsa la circulación en la Toluca-Atlacomulco. IXTLAHUACA, Edomex., 20 de julio del 2026.- La circulación sobre la autopista Toluca-Atlacomulco registró afectaciones la mañana de este lunes, luego de un accidente en el que estuvieron involucrados un tráiler que transportaba vigas de acero y dos camionetas de carga, una de ellas con animales, a la altura del puente cercano a la planta […]",
+          "recomendacion": "",
+          "fecha": "20 julio 2026 · 10:45 CST",
+          "fecha_iso": "2026-07-20T10:45:00-06:00",
+          "fuente": "Quadratin EdoMex",
+          "url": "https://edomex.quadratin.com.mx/accidente-multiple-colapsa-la-circulacion-en-la-toluca-atlacomulco/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 19.35,
+          "lon": -99.7
+        },
+        {
+          "id": "af58814f",
+          "tipo": "cierre_parcial",
+          "ruta": "🚨Accidente entre tráiler y camionetas provoca cierre parcial en la…",
+          "descripcion": "🚨Accidente entre tráiler y camionetas provoca cierre parcial en la #Atlacomulco-#Toluca\n\nhttps://lajornadaestadodemexico.com/accidente-entre-trailer-y-camionetas-provoca-cierre-parcial-en-la-autopista-atlacomulco-toluca/",
+          "recomendacion": "",
+          "fecha": "20 julio 2026 · 10:16 CST",
+          "fecha_iso": "2026-07-20T10:16:00-06:00",
+          "fuente": "Telegram @jornadaedomex",
+          "url": "https://t.me/jornadaedomex/11499",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 19.29,
+          "lon": -99.66
+        },
         {
           "id": "7dd57c60",
           "tipo": "cierre_parcial",
@@ -34,6 +67,32 @@
     }
   ],
   "para_mapa": [
+    {
+      "id": "960930d2",
+      "tipo": "cierre_parcial",
+      "ruta": "Accidente múltiple colapsa la circulación en la Toluca-Atlacomulco…",
+      "descripcion": "Accidente múltiple colapsa la circulación en la Toluca-Atlacomulco. IXTLAHUACA, Edomex., 20 de julio del 2026.- La circulación sobre la autopista Toluca-Atlacomulco registró afectaciones la mañana de este lunes, luego de un accidente en el que estuvieron involucrados un tráiler que transportaba vigas de acero y dos camionetas de carga, una de ellas con animales, a la altura del puente cercano a la planta […]",
+      "fecha": "20 julio 2026 · 10:45 CST",
+      "fuente": "Quadratin EdoMex",
+      "url": "https://edomex.quadratin.com.mx/accidente-multiple-colapsa-la-circulacion-en-la-toluca-atlacomulco/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 19.35,
+      "lon": -99.7
+    },
+    {
+      "id": "af58814f",
+      "tipo": "cierre_parcial",
+      "ruta": "🚨Accidente entre tráiler y camionetas provoca cierre parcial en la…",
+      "descripcion": "🚨Accidente entre tráiler y camionetas provoca cierre parcial en la #Atlacomulco-#Toluca\n\nhttps://lajornadaestadodemexico.com/accidente-entre-trailer-y-camionetas-provoca-cierre-parcial-en-la-autopista-atlacomulco-toluca/",
+      "fecha": "20 julio 2026 · 10:16 CST",
+      "fuente": "Telegram @jornadaedomex",
+      "url": "https://t.me/jornadaedomex/11499",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 19.29,
+      "lon": -99.66
+    },
     {
       "id": "7dd57c60",
       "tipo": "cierre_parcial",
