@@ -1,9 +1,10 @@
 {
-  "ultima_actualizacion": "2026-07-20T17:31:56.231412-06:00",
-  "ultima_actualizacion_legible": "20 de julio de 2026 · 17:31 CST",
+  "ultima_actualizacion": "2026-07-20T19:06:45.449078-06:00",
+  "ultima_actualizacion_legible": "20 de julio de 2026 · 19:06 CST",
   "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
+    "Quadratin + regionales",
     "Telegram"
   ],
   "grupos": [
@@ -29,27 +30,49 @@
           "badge_txt": "CIERRE PARCIAL",
           "lat": 19.29,
           "lon": -99.66
-        },
+        }
+      ]
+    },
+    {
+      "tipo": "carga_vehicular",
+      "color": "azul",
+      "icono": "🚗",
+      "label": "CARGA VEHICULAR",
+      "col2": true,
+      "alertas": [
         {
-          "id": "7dd57c60",
-          "tipo": "cierre_parcial",
-          "ruta": "🚧Grúas trabajan en la #México-#Toluca para retirar vehículos tras accidente…",
-          "descripcion": "🚧Grúas trabajan en la #México-#Toluca para retirar vehículos tras accidente 😱👇\n\nhttps://lajornadaestadodemexico.com/gruas-trabajan-para-retirar-vehiculos-tras-accidente-en-la-mexico-toluca/",
+          "id": "1fc5cc70",
+          "tipo": "carga_vehicular",
+          "ruta": "Colapsan lluvias la México-Puebla; suspenden servicio del Metro…",
+          "descripcion": "Colapsan lluvias la México-Puebla; suspenden servicio del Metro. Las intensas precipitaciones provocaron también el cierre del paso hacia el Puente de la Concordia.",
           "recomendacion": "",
-          "fecha": "20 julio 2026 · 06:32 CST",
-          "fecha_iso": "2026-07-20T06:32:00-06:00",
-          "fuente": "Telegram @jornadaedomex",
-          "url": "https://t.me/jornadaedomex/11495",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.29,
-          "lon": -99.66
+          "fecha": "20 julio 2026 · 18:15 CST",
+          "fecha_iso": "2026-07-20T18:15:00-06:00",
+          "fuente": "Quadratin EdoMex",
+          "url": "https://edomex.quadratin.com.mx/colapsan-lluvias-la-mexico-puebla-suspenden-servicio-del-metro/",
+          "dot_color": "#2980b9",
+          "badge": "badge-carga",
+          "badge_txt": "CARGA VEHICULAR",
+          "lat": 19.35,
+          "lon": -98.4
         }
       ]
     }
   ],
   "para_mapa": [
+    {
+      "id": "1fc5cc70",
+      "tipo": "carga_vehicular",
+      "ruta": "Colapsan lluvias la México-Puebla; suspenden servicio del Metro…",
+      "descripcion": "Colapsan lluvias la México-Puebla; suspenden servicio del Metro. Las intensas precipitaciones provocaron también el cierre del paso hacia el Puente de la Concordia.",
+      "fecha": "20 julio 2026 · 18:15 CST",
+      "fuente": "Quadratin EdoMex",
+      "url": "https://edomex.quadratin.com.mx/colapsan-lluvias-la-mexico-puebla-suspenden-servicio-del-metro/",
+      "dot_color": "#2980b9",
+      "badge_txt": "CARGA VEHICULAR",
+      "lat": 19.35,
+      "lon": -98.4
+    },
     {
       "id": "af58814f",
       "tipo": "cierre_parcial",
@@ -58,19 +81,6 @@
       "fecha": "20 julio 2026 · 10:16 CST",
       "fuente": "Telegram @jornadaedomex",
       "url": "https://t.me/jornadaedomex/11499",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.29,
-      "lon": -99.66
-    },
-    {
-      "id": "7dd57c60",
-      "tipo": "cierre_parcial",
-      "ruta": "🚧Grúas trabajan en la #México-#Toluca para retirar vehículos tras accidente…",
-      "descripcion": "🚧Grúas trabajan en la #México-#Toluca para retirar vehículos tras accidente 😱👇\n\nhttps://lajornadaestadodemexico.com/gruas-trabajan-para-retirar-vehiculos-tras-accidente-en-la-mexico-toluca/",
-      "fecha": "20 julio 2026 · 06:32 CST",
-      "fuente": "Telegram @jornadaedomex",
-      "url": "https://t.me/jornadaedomex/11495",
       "dot_color": "#e67e22",
       "badge_txt": "CIERRE PARCIAL",
       "lat": 19.29,
