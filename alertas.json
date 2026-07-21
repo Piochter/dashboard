@@ -1,90 +1,12 @@
 {
-  "ultima_actualizacion": "2026-07-20T19:06:45.449078-06:00",
-  "ultima_actualizacion_legible": "20 de julio de 2026 · 19:06 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-07-20T22:29:52.385950-06:00",
+  "ultima_actualizacion_legible": "20 de julio de 2026 · 22:29 CST",
+  "total": 0,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Quadratin + regionales",
-    "Telegram"
+    "Google News"
   ],
-  "grupos": [
-    {
-      "tipo": "cierre_parcial",
-      "color": "amarillo",
-      "icono": "🟡",
-      "label": "CIERRE PARCIAL / ACCIDENTES",
-      "col2": true,
-      "alertas": [
-        {
-          "id": "af58814f",
-          "tipo": "cierre_parcial",
-          "ruta": "🚨Accidente entre tráiler y camionetas provoca cierre parcial en la…",
-          "descripcion": "🚨Accidente entre tráiler y camionetas provoca cierre parcial en la #Atlacomulco-#Toluca\n\nhttps://lajornadaestadodemexico.com/accidente-entre-trailer-y-camionetas-provoca-cierre-parcial-en-la-autopista-atlacomulco-toluca/",
-          "recomendacion": "",
-          "fecha": "20 julio 2026 · 10:16 CST",
-          "fecha_iso": "2026-07-20T10:16:00-06:00",
-          "fuente": "Telegram @jornadaedomex",
-          "url": "https://t.me/jornadaedomex/11499",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.29,
-          "lon": -99.66
-        }
-      ]
-    },
-    {
-      "tipo": "carga_vehicular",
-      "color": "azul",
-      "icono": "🚗",
-      "label": "CARGA VEHICULAR",
-      "col2": true,
-      "alertas": [
-        {
-          "id": "1fc5cc70",
-          "tipo": "carga_vehicular",
-          "ruta": "Colapsan lluvias la México-Puebla; suspenden servicio del Metro…",
-          "descripcion": "Colapsan lluvias la México-Puebla; suspenden servicio del Metro. Las intensas precipitaciones provocaron también el cierre del paso hacia el Puente de la Concordia.",
-          "recomendacion": "",
-          "fecha": "20 julio 2026 · 18:15 CST",
-          "fecha_iso": "2026-07-20T18:15:00-06:00",
-          "fuente": "Quadratin EdoMex",
-          "url": "https://edomex.quadratin.com.mx/colapsan-lluvias-la-mexico-puebla-suspenden-servicio-del-metro/",
-          "dot_color": "#2980b9",
-          "badge": "badge-carga",
-          "badge_txt": "CARGA VEHICULAR",
-          "lat": 19.35,
-          "lon": -98.4
-        }
-      ]
-    }
-  ],
-  "para_mapa": [
-    {
-      "id": "1fc5cc70",
-      "tipo": "carga_vehicular",
-      "ruta": "Colapsan lluvias la México-Puebla; suspenden servicio del Metro…",
-      "descripcion": "Colapsan lluvias la México-Puebla; suspenden servicio del Metro. Las intensas precipitaciones provocaron también el cierre del paso hacia el Puente de la Concordia.",
-      "fecha": "20 julio 2026 · 18:15 CST",
-      "fuente": "Quadratin EdoMex",
-      "url": "https://edomex.quadratin.com.mx/colapsan-lluvias-la-mexico-puebla-suspenden-servicio-del-metro/",
-      "dot_color": "#2980b9",
-      "badge_txt": "CARGA VEHICULAR",
-      "lat": 19.35,
-      "lon": -98.4
-    },
-    {
-      "id": "af58814f",
-      "tipo": "cierre_parcial",
-      "ruta": "🚨Accidente entre tráiler y camionetas provoca cierre parcial en la…",
-      "descripcion": "🚨Accidente entre tráiler y camionetas provoca cierre parcial en la #Atlacomulco-#Toluca\n\nhttps://lajornadaestadodemexico.com/accidente-entre-trailer-y-camionetas-provoca-cierre-parcial-en-la-autopista-atlacomulco-toluca/",
-      "fecha": "20 julio 2026 · 10:16 CST",
-      "fuente": "Telegram @jornadaedomex",
-      "url": "https://t.me/jornadaedomex/11499",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.29,
-      "lon": -99.66
-    }
-  ]
+  "grupos": [],
+  "para_mapa": [],
+  "nota": "Sin alertas activas en la ventana de tiempo configurada."
 }
