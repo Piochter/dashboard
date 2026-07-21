@@ -1,10 +1,12 @@
 {
-  "ultima_actualizacion": "2026-07-21T08:56:46.036605-06:00",
-  "ultima_actualizacion_legible": "21 de julio de 2026 · 08:56 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-07-21T10:18:44.869586-06:00",
+  "ultima_actualizacion_legible": "21 de julio de 2026 · 10:18 CST",
+  "total": 3,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News"
+    "Google News",
+    "Quadratin + regionales",
+    "Telegram"
   ],
   "grupos": [
     {
@@ -14,6 +16,22 @@
       "label": "BLOQUEOS / MANIFESTACIONES",
       "col2": false,
       "alertas": [
+        {
+          "id": "df4fb40b",
+          "tipo": "bloqueo",
+          "ruta": "📢 Manifestantes bloquean parcialmente la #México-#Puebla a la altura de…",
+          "descripcion": "📢 Manifestantes bloquean parcialmente la #México-#Puebla a la altura de #LosReyesLaPaz\n\nhttps://lajornadaestadodemexico.com/mexico-puebla-a-la-altura-de-los-reyes-la-paz/",
+          "recomendacion": "",
+          "fecha": "21 julio 2026 · 09:48 CST",
+          "fecha_iso": "2026-07-21T09:48:00-06:00",
+          "fuente": "Telegram @jornadaedomex",
+          "url": "https://t.me/jornadaedomex/11512",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 19.35,
+          "lon": -98.4
+        },
         {
           "id": "90563be6",
           "tipo": "bloqueo",
@@ -31,9 +49,60 @@
           "lon": -99.5
         }
       ]
+    },
+    {
+      "tipo": "cierre_parcial",
+      "color": "amarillo",
+      "icono": "🟡",
+      "label": "CIERRE PARCIAL / ACCIDENTES",
+      "col2": true,
+      "alertas": [
+        {
+          "id": "3cddb4c3",
+          "tipo": "cierre_parcial",
+          "ruta": "Afecta choque la circulación entre Puerto Escondido y Pochutla…",
+          "descripcion": "Afecta choque la circulación entre Puerto Escondido y Pochutla. Sobre la carretera federal 200, en el tramo de Agua Blanca",
+          "recomendacion": "",
+          "fecha": "21 julio 2026 · 09:03 CST",
+          "fecha_iso": "2026-07-21T09:03:00-06:00",
+          "fuente": "Quadratin Oaxaca",
+          "url": "https://oaxaca.quadratin.com.mx/afecta-choque-la-circulacion-entre-puerto-escondido-y-pochutla/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 19.1,
+          "lon": -104.3
+        }
+      ]
     }
   ],
   "para_mapa": [
+    {
+      "id": "df4fb40b",
+      "tipo": "bloqueo",
+      "ruta": "📢 Manifestantes bloquean parcialmente la #México-#Puebla a la altura de…",
+      "descripcion": "📢 Manifestantes bloquean parcialmente la #México-#Puebla a la altura de #LosReyesLaPaz\n\nhttps://lajornadaestadodemexico.com/mexico-puebla-a-la-altura-de-los-reyes-la-paz/",
+      "fecha": "21 julio 2026 · 09:48 CST",
+      "fuente": "Telegram @jornadaedomex",
+      "url": "https://t.me/jornadaedomex/11512",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 19.35,
+      "lon": -98.4
+    },
+    {
+      "id": "3cddb4c3",
+      "tipo": "cierre_parcial",
+      "ruta": "Afecta choque la circulación entre Puerto Escondido y Pochutla…",
+      "descripcion": "Afecta choque la circulación entre Puerto Escondido y Pochutla. Sobre la carretera federal 200, en el tramo de Agua Blanca",
+      "fecha": "21 julio 2026 · 09:03 CST",
+      "fuente": "Quadratin Oaxaca",
+      "url": "https://oaxaca.quadratin.com.mx/afecta-choque-la-circulacion-entre-puerto-escondido-y-pochutla/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 19.1,
+      "lon": -104.3
+    },
     {
       "id": "90563be6",
       "tipo": "bloqueo",
