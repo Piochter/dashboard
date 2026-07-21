@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-07-21T15:45:15.658474-06:00",
-  "ultima_actualizacion_legible": "21 de julio de 2026 · 15:45 CST",
-  "total": 6,
+  "ultima_actualizacion": "2026-07-21T16:37:56.696202-06:00",
+  "ultima_actualizacion_legible": "21 de julio de 2026 · 16:37 CST",
+  "total": 5,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
@@ -31,20 +31,6 @@
           "badge_txt": "BLOQUEO",
           "lat": 19.35,
           "lon": -98.4
-        },
-        {
-          "id": "19ba5b83",
-          "tipo": "bloqueo",
-          "ruta": "Bloquea Sindicato crucero de Fonapas…",
-          "descripcion": "Bloquea Sindicato crucero de Fonapas. La protesta afecta la circulación en Héroes de Chapultepec",
-          "recomendacion": "",
-          "fecha": "21 julio 2026 · 10:36 CST",
-          "fecha_iso": "2026-07-21T10:36:00-06:00",
-          "fuente": "Quadratin Oaxaca",
-          "url": "https://oaxaca.quadratin.com.mx/bloquea-sindicato-crucero-de-fonapas/",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
         },
         {
           "id": "df4fb40b",
