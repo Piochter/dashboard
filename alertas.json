@@ -1,12 +1,51 @@
 {
-  "ultima_actualizacion": "2026-07-21T06:53:03.433348-06:00",
-  "ultima_actualizacion_legible": "21 de julio de 2026 · 06:53 CST",
-  "total": 0,
+  "ultima_actualizacion": "2026-07-21T08:56:46.036605-06:00",
+  "ultima_actualizacion_legible": "21 de julio de 2026 · 08:56 CST",
+  "total": 1,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News"
   ],
-  "grupos": [],
-  "para_mapa": [],
-  "nota": "Sin alertas activas en la ventana de tiempo configurada."
+  "grupos": [
+    {
+      "tipo": "bloqueo",
+      "color": "rojo",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "90563be6",
+          "tipo": "bloqueo",
+          "ruta": "Bloqueos y tráfico en la autopista México-Querétaro EN VIVO hoy:…",
+          "descripcion": "Bloqueos y tráfico en la autopista México-Querétaro EN VIVO hoy: ¿Qué pasa en la carretera este 21 de julio? - TV Azteca. Bloqueos y tráfico en la autopista México-Querétaro EN VIVO hoy: ¿Qué pasa en la carretera este 21 de julio? TV Azteca",
+          "recomendacion": "",
+          "fecha": "21 julio 2026 · 07:59 CST",
+          "fecha_iso": "2026-07-21T07:59:00-06:00",
+          "fuente": "TV Azteca",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQemZFUi0xNG9iS1JQOUtfT0pDT2FEbmM1WUhSVjVuZXdZMUVGMk9uc2hVMURDNFJYa2xEVG84NmlTdENTSW5velRTZmp1YkphaEE3LWJ6MDdac2lqeWt5bHBENENGSmg5ZmhMYkdQelQybHFReFVoUjVjMW9scUxtR2tkVUQzUWlwY1c5SlRpV3F3cUFJeG0waVA4VThVc1FEZnE2UW96WUFvWU5ETGdKYk16VS1xUUxrVHJJWGpsZ9IBzAFBVV95cUxPWUc1VmZoUjlrVHh5UGV5M2xkY2hVZkFqVE42cGVXQ2IwSHhkOE5UNGMzWGI4cXNNZ3hyVnNvWGRJenM0ZnVXWHFQSW42UHVzdkFHNHlNOFhjWnZnQ0dYdWNkRHBPZ0pnbnpBTHkzdEhBbUVNUWN1YjFoUkdYaXc3M1ZaWXd6SlJ2RzlTSXdWaVpwSGl5aEJJZTJBQklHRUprbU5FUDFPaHpTeXZfQkF0bmhjLTV2NXZHdmdSbWIyVmhkQWMxdzVyek5kcjA?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 20.1,
+          "lon": -99.5
+        }
+      ]
+    }
+  ],
+  "para_mapa": [
+    {
+      "id": "90563be6",
+      "tipo": "bloqueo",
+      "ruta": "Bloqueos y tráfico en la autopista México-Querétaro EN VIVO hoy:…",
+      "descripcion": "Bloqueos y tráfico en la autopista México-Querétaro EN VIVO hoy: ¿Qué pasa en la carretera este 21 de julio? - TV Azteca. Bloqueos y tráfico en la autopista México-Querétaro EN VIVO hoy: ¿Qué pasa en la carretera este 21 de julio? TV Azteca",
+      "fecha": "21 julio 2026 · 07:59 CST",
+      "fuente": "TV Azteca",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQemZFUi0xNG9iS1JQOUtfT0pDT2FEbmM1WUhSVjVuZXdZMUVGMk9uc2hVMURDNFJYa2xEVG84NmlTdENTSW5velRTZmp1YkphaEE3LWJ6MDdac2lqeWt5bHBENENGSmg5ZmhMYkdQelQybHFReFVoUjVjMW9scUxtR2tkVUQzUWlwY1c5SlRpV3F3cUFJeG0waVA4VThVc1FEZnE2UW96WUFvWU5ETGdKYk16VS1xUUxrVHJJWGpsZ9IBzAFBVV95cUxPWUc1VmZoUjlrVHh5UGV5M2xkY2hVZkFqVE42cGVXQ2IwSHhkOE5UNGMzWGI4cXNNZ3hyVnNvWGRJenM0ZnVXWHFQSW42UHVzdkFHNHlNOFhjWnZnQ0dYdWNkRHBPZ0pnbnpBTHkzdEhBbUVNUWN1YjFoUkdYaXc3M1ZaWXd6SlJ2RzlTSXdWaVpwSGl5aEJJZTJBQklHRUprbU5FUDFPaHpTeXZfQkF0bmhjLTV2NXZHdmdSbWIyVmhkQWMxdzVyek5kcjA?oc=5",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 20.1,
+      "lon": -99.5
+    }
+  ]
 }
