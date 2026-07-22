@@ -1,10 +1,10 @@
 {
-  "ultima_actualizacion": "2026-07-21T22:34:58.434768-06:00",
-  "ultima_actualizacion_legible": "21 de julio de 2026 · 22:34 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-07-22T01:20:23.924210-06:00",
+  "ultima_actualizacion_legible": "22 de julio de 2026 · 01:20 CST",
+  "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Telegram"
+    "Google News"
   ],
   "grupos": [
     {
@@ -15,33 +15,47 @@
       "col2": false,
       "alertas": [
         {
-          "id": "887fcfd0",
+          "id": "4b36e299",
           "tipo": "bloqueo",
-          "ruta": "📢Liberan la autopista #México-#Puebla tras más de tres horas de…",
-          "descripcion": "📢Liberan la autopista #México-#Puebla tras más de tres horas de bloqueo por caso Betito\nhttps://lajornadaestadodemexico.com/liberan-la-autopista-mexico-puebla-tras-mas-de-tres-horas-de-bloqueo-por-caso-betito/",
+          "ruta": "autopista México-Puebla",
+          "descripcion": "Bloqueo autopista México-Puebla, comuneros logran acuerdo y liberan un carril por sentido - La Prensa - El Sol de México. Bloqueo autopista México-Puebla, comuneros logran acuerdo y liberan un carril por sentido - La Prensa El Sol de México",
           "recomendacion": "",
-          "fecha": "21 julio 2026 · 13:03 CST",
-          "fecha_iso": "2026-07-21T13:03:00-06:00",
-          "fuente": "Telegram @jornadaedomex",
-          "url": "https://t.me/jornadaedomex/11519",
+          "fecha": "21 julio 2026 · 19:28 CST",
+          "fecha_iso": "2026-07-21T19:28:00-06:00",
+          "fuente": "El Sol de México",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOSnF5T1M1by00Rm5DZ3V3OF9BS1QyZVZoU2pUWmh2X21EY0VyMjdxejdLMWdiWTZrdXJ2WngyUVkzRHJVd3MybGkwQjd5M3JQZnI2SzlpeXoxVk1HZDFoc1hONC1xUk9Jd2FjRk1wS1cyYi1XUEJMZERoNlQ4MmE4cHhKblJiVHVyNXdNME5wNEZack04UUZfcGxiVG9uNk16M250eDljUEZ6d2Z4MHBTcXpTM3RFWjNMNzlFeGtaajFhTzctZlpoZEFyWlhPT2FWMGNHbGQ4S0R0c1gtUm9CZQ?oc=5",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO",
           "lat": 19.35,
           "lon": -98.4
+        },
+        {
+          "id": "c3b338f1",
+          "tipo": "bloqueo",
+          "ruta": "Bloqueos y accidentes en carreteras de México: Caos y alerta…",
+          "descripcion": "Bloqueos y accidentes en carreteras de México: Caos y alerta por tráfico; pipa vuelca y provoca cierre en la M - TV Azteca. Bloqueos y accidentes en carreteras de México: Caos y alerta por tráfico; pipa vuelca y provoca cierre en la M TV Azteca",
+          "recomendacion": "",
+          "fecha": "21 julio 2026 · 15:50 CST",
+          "fecha_iso": "2026-07-21T15:50:00-06:00",
+          "fuente": "TV Azteca",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQemZFUi0xNG9iS1JQOUtfT0pDT2FEbmM1WUhSVjVuZXdZMUVGMk9uc2hVMURDNFJYa2xEVG84NmlTdENTSW5velRTZmp1YkphaEE3LWJ6MDdac2lqeWt5bHBENENGSmg5ZmhMYkdQelQybHFReFVoUjVjMW9scUxtR2tkVUQzUWlwY1c5SlRpV3F3cUFJeG0waVA4VThVc1FEZnE2UW96WUFvWU5ETGdKYk16VS1xUUxrVHJJWGpsZ9IBzAFBVV95cUxPWUc1VmZoUjlrVHh5UGV5M2xkY2hVZkFqVE42cGVXQ2IwSHhkOE5UNGMzWGI4cXNNZ3hyVnNvWGRJenM0ZnVXWHFQSW42UHVzdkFHNHlNOFhjWnZnQ0dYdWNkRHBPZ0pnbnpBTHkzdEhBbUVNUWN1YjFoUkdYaXc3M1ZaWXd6SlJ2RzlTSXdWaVpwSGl5aEJJZTJBQklHRUprbU5FUDFPaHpTeXZfQkF0bmhjLTV2NXZHdmdSbWIyVmhkQWMxdzVyek5kcjA?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
         }
       ]
     }
   ],
   "para_mapa": [
     {
-      "id": "887fcfd0",
+      "id": "4b36e299",
       "tipo": "bloqueo",
-      "ruta": "📢Liberan la autopista #México-#Puebla tras más de tres horas de…",
-      "descripcion": "📢Liberan la autopista #México-#Puebla tras más de tres horas de bloqueo por caso Betito\nhttps://lajornadaestadodemexico.com/liberan-la-autopista-mexico-puebla-tras-mas-de-tres-horas-de-bloqueo-por-caso-betito/",
-      "fecha": "21 julio 2026 · 13:03 CST",
-      "fuente": "Telegram @jornadaedomex",
-      "url": "https://t.me/jornadaedomex/11519",
+      "ruta": "autopista México-Puebla",
+      "descripcion": "Bloqueo autopista México-Puebla, comuneros logran acuerdo y liberan un carril por sentido - La Prensa - El Sol de México. Bloqueo autopista México-Puebla, comuneros logran acuerdo y liberan un carril por sentido - La Prensa El Sol de México",
+      "fecha": "21 julio 2026 · 19:28 CST",
+      "fuente": "El Sol de México",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOSnF5T1M1by00Rm5DZ3V3OF9BS1QyZVZoU2pUWmh2X21EY0VyMjdxejdLMWdiWTZrdXJ2WngyUVkzRHJVd3MybGkwQjd5M3JQZnI2SzlpeXoxVk1HZDFoc1hONC1xUk9Jd2FjRk1wS1cyYi1XUEJMZERoNlQ4MmE4cHhKblJiVHVyNXdNME5wNEZack04UUZfcGxiVG9uNk16M250eDljUEZ6d2Z4MHBTcXpTM3RFWjNMNzlFeGtaajFhTzctZlpoZEFyWlhPT2FWMGNHbGQ4S0R0c1gtUm9CZQ?oc=5",
       "dot_color": "#8e44ad",
       "badge_txt": "BLOQUEO",
       "lat": 19.35,
