@@ -1,11 +1,10 @@
 {
-  "ultima_actualizacion": "2026-07-22T16:42:40.838479-06:00",
-  "ultima_actualizacion_legible": "22 de julio de 2026 · 16:42 CST",
-  "total": 7,
+  "ultima_actualizacion": "2026-07-22T17:40:59.894045-06:00",
+  "ultima_actualizacion_legible": "22 de julio de 2026 · 17:40 CST",
+  "total": 6,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
-    "Medios regionales",
     "Quadratin + regionales",
     "Telegram"
   ],
@@ -115,20 +114,6 @@
           "badge_txt": "CIERRE PARCIAL",
           "lat": 20.12,
           "lon": -98.73
-        },
-        {
-          "id": "183efe2c",
-          "tipo": "cierre_parcial",
-          "ruta": "autopista Siglo 21 deja un muerto",
-          "descripcion": "Choque entre moto y camioneta en la autopista Siglo 21 deja un muerto. A la altura del kilómetro 100",
-          "recomendacion": "",
-          "fecha": "22 julio 2026 · 15:06 CST",
-          "fecha_iso": "2026-07-22T15:06:00-06:00",
-          "fuente": "Quadratin Michoacan",
-          "url": "https://www.quadratin.com.mx/sucesos/choque-entre-moto-y-camioneta-en-la-autopista-siglo-21-deja-un-muerto/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
         }
       ]
     }
