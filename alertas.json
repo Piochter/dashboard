@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-07-22T05:42:48.902266-06:00",
-  "ultima_actualizacion_legible": "22 de julio de 2026 · 05:42 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-07-22T07:10:33.559744-06:00",
+  "ultima_actualizacion_legible": "22 de julio de 2026 · 07:10 CST",
+  "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News"
@@ -14,6 +14,20 @@
       "label": "BLOQUEOS / MANIFESTACIONES",
       "col2": false,
       "alertas": [
+        {
+          "id": "f94bba08",
+          "tipo": "bloqueo",
+          "ruta": "Bloqueos carreteras HOY 22 de julio: Autopistas cerradas en México,…",
+          "descripcion": "Bloqueos carreteras HOY 22 de julio: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 22 de julio: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
+          "recomendacion": "",
+          "fecha": "22 julio 2026 · 07:05 CST",
+          "fecha_iso": "2026-07-22T07:05:00-06:00",
+          "fuente": "Eje Central",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQNUhJYjZvdlJXQktBaGpnaTcwRGROalhhT2dnLWNudnZQMkdXUWItYlBtLXcta0R0WDU4VW03UXlqbWpwVjFnRGVqMXZ0ekkwVnFrTTZhb0hMUHdvNmZCSEFRdExDanZJSVU5N2dWcFRZVVhlUGVFWmFNVmQwM2tjbHpVdGRZdW1EMmNaY1J0T3g3R0JOMGVjSG1aYTVGSFVaXzRHMW9DZkdDWWFUNkdwLTFwdGJlMVJMMlVyQjZjX0JZVXFzbzZJSFRGNi0wSnlnRExQWlFqaGlPSUxEdk4tVDNSaU12YTA?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
         {
           "id": "4b36e299",
           "tipo": "bloqueo",
