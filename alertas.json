@@ -1,10 +1,9 @@
 {
-  "ultima_actualizacion": "2026-07-21T19:06:10.210411-06:00",
-  "ultima_actualizacion_legible": "21 de julio de 2026 · 19:06 CST",
-  "total": 4,
+  "ultima_actualizacion": "2026-07-21T22:34:58.434768-06:00",
+  "ultima_actualizacion_legible": "21 de julio de 2026 · 22:34 CST",
+  "total": 1,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News",
     "Telegram"
   ],
   "grupos": [
@@ -30,52 +29,6 @@
           "badge_txt": "BLOQUEO",
           "lat": 19.35,
           "lon": -98.4
-        },
-        {
-          "id": "df4fb40b",
-          "tipo": "bloqueo",
-          "ruta": "📢 Manifestantes bloquean parcialmente la #México-#Puebla a la altura de…",
-          "descripcion": "📢 Manifestantes bloquean parcialmente la #México-#Puebla a la altura de #LosReyesLaPaz\n\nhttps://lajornadaestadodemexico.com/mexico-puebla-a-la-altura-de-los-reyes-la-paz/",
-          "recomendacion": "",
-          "fecha": "21 julio 2026 · 09:48 CST",
-          "fecha_iso": "2026-07-21T09:48:00-06:00",
-          "fuente": "Telegram @jornadaedomex",
-          "url": "https://t.me/jornadaedomex/11512",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 19.35,
-          "lon": -98.4
-        },
-        {
-          "id": "90563be6",
-          "tipo": "bloqueo",
-          "ruta": "Bloqueos y tráfico en la autopista México-Querétaro EN VIVO hoy:…",
-          "descripcion": "Bloqueos y tráfico en la autopista México-Querétaro EN VIVO hoy: ¿Qué pasa en la carretera este 21 de julio? - TV Azteca. Bloqueos y tráfico en la autopista México-Querétaro EN VIVO hoy: ¿Qué pasa en la carretera este 21 de julio? TV Azteca",
-          "recomendacion": "",
-          "fecha": "21 julio 2026 · 09:19 CST",
-          "fecha_iso": "2026-07-21T09:19:00-06:00",
-          "fuente": "TV Azteca",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQemZFUi0xNG9iS1JQOUtfT0pDT2FEbmM1WUhSVjVuZXdZMUVGMk9uc2hVMURDNFJYa2xEVG84NmlTdENTSW5velRTZmp1YkphaEE3LWJ6MDdac2lqeWt5bHBENENGSmg5ZmhMYkdQelQybHFReFVoUjVjMW9scUxtR2tkVUQzUWlwY1c5SlRpV3F3cUFJeG0waVA4VThVc1FEZnE2UW96WUFvWU5ETGdKYk16VS1xUUxrVHJJWGpsZ9IBzAFBVV95cUxPWUc1VmZoUjlrVHh5UGV5M2xkY2hVZkFqVE42cGVXQ2IwSHhkOE5UNGMzWGI4cXNNZ3hyVnNvWGRJenM0ZnVXWHFQSW42UHVzdkFHNHlNOFhjWnZnQ0dYdWNkRHBPZ0pnbnpBTHkzdEhBbUVNUWN1YjFoUkdYaXc3M1ZaWXd6SlJ2RzlTSXdWaVpwSGl5aEJJZTJBQklHRUprbU5FUDFPaHpTeXZfQkF0bmhjLTV2NXZHdmdSbWIyVmhkQWMxdzVyek5kcjA?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 20.1,
-          "lon": -99.5
-        },
-        {
-          "id": "aa2918a2",
-          "tipo": "bloqueo",
-          "ruta": "Bloqueos carreteras HOY 21 de julio: Autopistas cerradas en México,…",
-          "descripcion": "Bloqueos carreteras HOY 21 de julio: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 21 de julio: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
-          "recomendacion": "",
-          "fecha": "21 julio 2026 · 07:13 CST",
-          "fecha_iso": "2026-07-21T07:13:00-06:00",
-          "fuente": "Eje Central",
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQYUg1ZDZHaVY1SzFKRW52ZE1VOS1QMGpDWF9DaHlsaFlnbE13REpXUjg4SFppWVhqbERqRVA4M25TVVpTVzhWSUh4ZUNkOGliU2d3bHdTcllhdW95My1BRF9DVEEwbjBpdFdKSjBuWHQyanNhQmNxMmlBNk5PandmaWF0UVZxb2hCR1EwOXp4VC1jMUdULWNMaTMwX0lnNXlpYkw5M29kNHF3REJxSVhaZ1dHc2g2cVZWSUhMLWYtTnhReVVnUkFESXdFZERnX0l5NVdNN2NtUVpGMFdwVE9mREhZQlhINEE?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
         }
       ]
     }
@@ -93,32 +46,6 @@
       "badge_txt": "BLOQUEO",
       "lat": 19.35,
       "lon": -98.4
-    },
-    {
-      "id": "df4fb40b",
-      "tipo": "bloqueo",
-      "ruta": "📢 Manifestantes bloquean parcialmente la #México-#Puebla a la altura de…",
-      "descripcion": "📢 Manifestantes bloquean parcialmente la #México-#Puebla a la altura de #LosReyesLaPaz\n\nhttps://lajornadaestadodemexico.com/mexico-puebla-a-la-altura-de-los-reyes-la-paz/",
-      "fecha": "21 julio 2026 · 09:48 CST",
-      "fuente": "Telegram @jornadaedomex",
-      "url": "https://t.me/jornadaedomex/11512",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 19.35,
-      "lon": -98.4
-    },
-    {
-      "id": "90563be6",
-      "tipo": "bloqueo",
-      "ruta": "Bloqueos y tráfico en la autopista México-Querétaro EN VIVO hoy:…",
-      "descripcion": "Bloqueos y tráfico en la autopista México-Querétaro EN VIVO hoy: ¿Qué pasa en la carretera este 21 de julio? - TV Azteca. Bloqueos y tráfico en la autopista México-Querétaro EN VIVO hoy: ¿Qué pasa en la carretera este 21 de julio? TV Azteca",
-      "fecha": "21 julio 2026 · 09:19 CST",
-      "fuente": "TV Azteca",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQemZFUi0xNG9iS1JQOUtfT0pDT2FEbmM1WUhSVjVuZXdZMUVGMk9uc2hVMURDNFJYa2xEVG84NmlTdENTSW5velRTZmp1YkphaEE3LWJ6MDdac2lqeWt5bHBENENGSmg5ZmhMYkdQelQybHFReFVoUjVjMW9scUxtR2tkVUQzUWlwY1c5SlRpV3F3cUFJeG0waVA4VThVc1FEZnE2UW96WUFvWU5ETGdKYk16VS1xUUxrVHJJWGpsZ9IBzAFBVV95cUxPWUc1VmZoUjlrVHh5UGV5M2xkY2hVZkFqVE42cGVXQ2IwSHhkOE5UNGMzWGI4cXNNZ3hyVnNvWGRJenM0ZnVXWHFQSW42UHVzdkFHNHlNOFhjWnZnQ0dYdWNkRHBPZ0pnbnpBTHkzdEhBbUVNUWN1YjFoUkdYaXc3M1ZaWXd6SlJ2RzlTSXdWaVpwSGl5aEJJZTJBQklHRUprbU5FUDFPaHpTeXZfQkF0bmhjLTV2NXZHdmdSbWIyVmhkQWMxdzVyek5kcjA?oc=5",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 20.1,
-      "lon": -99.5
     }
   ]
 }
