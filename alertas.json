@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-07-22T15:45:26.440257-06:00",
-  "ultima_actualizacion_legible": "22 de julio de 2026 · 15:45 CST",
-  "total": 6,
+  "ultima_actualizacion": "2026-07-22T16:42:40.838479-06:00",
+  "ultima_actualizacion_legible": "22 de julio de 2026 · 16:42 CST",
+  "total": 7,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
@@ -17,6 +17,20 @@
       "label": "BLOQUEOS / MANIFESTACIONES",
       "col2": false,
       "alertas": [
+        {
+          "id": "62df13c1",
+          "tipo": "bloqueo",
+          "ruta": "carretera Córdoba-Paso del Macho",
+          "descripcion": "Sin respuesta, por bloqueo de carretera Córdoba-Paso del Macho. Piden el cierre de la Central Energética de Atoyac por contaminar arroyos",
+          "recomendacion": "",
+          "fecha": "22 julio 2026 · 16:01 CST",
+          "fecha_iso": "2026-07-22T16:01:00-06:00",
+          "fuente": "Quadratin Veracruz",
+          "url": "https://veracruz.quadratin.com.mx/sin-respuesta-por-bloqueo-de-carretera-cordoba-paso-del-macho/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
         {
           "id": "f2101860",
           "tipo": "bloqueo",
