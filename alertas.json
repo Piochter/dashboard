@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-07-22T03:46:21.204007-06:00",
-  "ultima_actualizacion_legible": "22 de julio de 2026 · 03:46 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-07-22T05:42:48.902266-06:00",
+  "ultima_actualizacion_legible": "22 de julio de 2026 · 05:42 CST",
+  "total": 1,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News"
@@ -29,20 +29,6 @@
           "badge_txt": "BLOQUEO",
           "lat": 19.35,
           "lon": -98.4
-        },
-        {
-          "id": "c3b338f1",
-          "tipo": "bloqueo",
-          "ruta": "Bloqueos y accidentes en carreteras de México: Caos y alerta…",
-          "descripcion": "Bloqueos y accidentes en carreteras de México: Caos y alerta por tráfico; pipa vuelca y provoca cierre en la M - TV Azteca. Bloqueos y accidentes en carreteras de México: Caos y alerta por tráfico; pipa vuelca y provoca cierre en la M TV Azteca",
-          "recomendacion": "",
-          "fecha": "21 julio 2026 · 15:50 CST",
-          "fecha_iso": "2026-07-21T15:50:00-06:00",
-          "fuente": "TV Azteca",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQemZFUi0xNG9iS1JQOUtfT0pDT2FEbmM1WUhSVjVuZXdZMUVGMk9uc2hVMURDNFJYa2xEVG84NmlTdENTSW5velRTZmp1YkphaEE3LWJ6MDdac2lqeWt5bHBENENGSmg5ZmhMYkdQelQybHFReFVoUjVjMW9scUxtR2tkVUQzUWlwY1c5SlRpV3F3cUFJeG0waVA4VThVc1FEZnE2UW96WUFvWU5ETGdKYk16VS1xUUxrVHJJWGpsZ9IBzAFBVV95cUxPWUc1VmZoUjlrVHh5UGV5M2xkY2hVZkFqVE42cGVXQ2IwSHhkOE5UNGMzWGI4cXNNZ3hyVnNvWGRJenM0ZnVXWHFQSW42UHVzdkFHNHlNOFhjWnZnQ0dYdWNkRHBPZ0pnbnpBTHkzdEhBbUVNUWN1YjFoUkdYaXc3M1ZaWXd6SlJ2RzlTSXdWaVpwSGl5aEJJZTJBQklHRUprbU5FUDFPaHpTeXZfQkF0bmhjLTV2NXZHdmdSbWIyVmhkQWMxdzVyek5kcjA?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
         }
       ]
     }
