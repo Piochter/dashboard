@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-07-22T10:55:14.701016-06:00",
-  "ultima_actualizacion_legible": "22 de julio de 2026 · 10:55 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-07-22T12:03:46.242269-06:00",
+  "ultima_actualizacion_legible": "22 de julio de 2026 · 12:03 CST",
+  "total": 3,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
@@ -25,6 +25,20 @@
           "fecha_iso": "2026-07-22T08:43:00-06:00",
           "fuente": "Quadratin Oaxaca",
           "url": "https://oaxaca.quadratin.com.mx/toman-caseta-de-san-pablo-huitzo-piden-cooperacion-voluntaria/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
+        {
+          "id": "17dceec9",
+          "tipo": "bloqueo",
+          "ruta": "Bloqueos de Carreteras Hoy: ¿Por Qué Hay Autopistas Cerradas? Reporte…",
+          "descripcion": "Bloqueos de Carreteras Hoy: ¿Por Qué Hay Autopistas Cerradas? Reporte de Capufe y Guardia Nacional - N+. Bloqueos de Carreteras Hoy: ¿Por Qué Hay Autopistas Cerradas? Reporte de Capufe y Guardia Nacional N+",
+          "recomendacion": "",
+          "fecha": "22 julio 2026 · 07:28 CST",
+          "fecha_iso": "2026-07-22T07:28:00-06:00",
+          "fuente": "N+",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNm01YWJWNnBJc1FQQ1g4QVVpNEo2ZEJmR2NFdTJYNmF2cUNRNzkwaDgyR1gwZUNqZHhYSDFiWGFzcFNXU25TZ0hEQ256aWRKcUdTOWNKcTJaQ1Vyc2VZeWcxMDFoT2l4OUhMdnU3aEE1TjNUYUNuQjQ4WlV1S0RURzFjSDA2UjBtZDNDdUEySF9hQ1pqNEhGTU1udFJjZlRsUEFaS3Z5YmxSZzNUMWo5SzZFV1FLWGlRM3NTZEV5eHVOQQ?oc=5",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO"
