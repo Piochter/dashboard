@@ -1,11 +1,10 @@
 {
-  "ultima_actualizacion": "2026-07-22T12:03:46.242269-06:00",
-  "ultima_actualizacion_legible": "22 de julio de 2026 · 12:03 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-07-22T13:41:56.577837-06:00",
+  "ultima_actualizacion_legible": "22 de julio de 2026 · 13:41 CST",
+  "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News",
-    "Quadratin + regionales"
+    "Google News"
   ],
   "grupos": [
     {
@@ -15,20 +14,6 @@
       "label": "BLOQUEOS / MANIFESTACIONES",
       "col2": false,
       "alertas": [
-        {
-          "id": "262c3395",
-          "tipo": "bloqueo",
-          "ruta": "Toman caseta de San Pablo Huitzo; piden cooperación voluntaria…",
-          "descripcion": "Toman caseta de San Pablo Huitzo; piden cooperación voluntaria. Los manifestantes piden que se les de atención a temas sociales.",
-          "recomendacion": "",
-          "fecha": "22 julio 2026 · 08:43 CST",
-          "fecha_iso": "2026-07-22T08:43:00-06:00",
-          "fuente": "Quadratin Oaxaca",
-          "url": "https://oaxaca.quadratin.com.mx/toman-caseta-de-san-pablo-huitzo-piden-cooperacion-voluntaria/",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        },
         {
           "id": "17dceec9",
           "tipo": "bloqueo",
