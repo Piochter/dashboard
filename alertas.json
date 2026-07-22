@@ -1,10 +1,12 @@
 {
-  "ultima_actualizacion": "2026-07-22T07:10:33.559744-06:00",
-  "ultima_actualizacion_legible": "22 de julio de 2026 · 07:10 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-07-22T09:16:42.828349-06:00",
+  "ultima_actualizacion_legible": "22 de julio de 2026 · 09:16 CST",
+  "total": 3,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News"
+    "Google News",
+    "Medios regionales",
+    "Quadratin + regionales"
   ],
   "grupos": [
     {
@@ -14,6 +16,20 @@
       "label": "BLOQUEOS / MANIFESTACIONES",
       "col2": false,
       "alertas": [
+        {
+          "id": "262c3395",
+          "tipo": "bloqueo",
+          "ruta": "Toman caseta de San Pablo Huitzo; piden cooperación voluntaria…",
+          "descripcion": "Toman caseta de San Pablo Huitzo; piden cooperación voluntaria. Los manifestantes piden que se les de atención a temas sociales.",
+          "recomendacion": "",
+          "fecha": "22 julio 2026 · 08:43 CST",
+          "fecha_iso": "2026-07-22T08:43:00-06:00",
+          "fuente": "Quadratin Oaxaca",
+          "url": "https://oaxaca.quadratin.com.mx/toman-caseta-de-san-pablo-huitzo-piden-cooperacion-voluntaria/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
         {
           "id": "f94bba08",
           "tipo": "bloqueo",
@@ -27,39 +43,48 @@
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO"
-        },
+        }
+      ]
+    },
+    {
+      "tipo": "cierre_parcial",
+      "color": "amarillo",
+      "icono": "🟡",
+      "label": "CIERRE PARCIAL / ACCIDENTES",
+      "col2": true,
+      "alertas": [
         {
-          "id": "4b36e299",
-          "tipo": "bloqueo",
-          "ruta": "autopista México-Puebla",
-          "descripcion": "Bloqueo autopista México-Puebla, comuneros logran acuerdo y liberan un carril por sentido - La Prensa - El Sol de México. Bloqueo autopista México-Puebla, comuneros logran acuerdo y liberan un carril por sentido - La Prensa El Sol de México",
+          "id": "6ccbb2e2",
+          "tipo": "cierre_parcial",
+          "ruta": "Accidente en libramiento norte Irapuato: Muere chofer y hay 10…",
+          "descripcion": "Accidente en libramiento norte Irapuato: Muere chofer y hay 10 pasajeros heridos. El trágico accidente en el que murió el chofer del autobús y 10 trabajadores de una empresa quedaron lesionados, sucedió este miércoles a las 12:15 de la madrugada, a la altura de la colonia Rancho Grande.",
           "recomendacion": "",
-          "fecha": "21 julio 2026 · 19:28 CST",
-          "fecha_iso": "2026-07-21T19:28:00-06:00",
-          "fuente": "El Sol de México",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOSnF5T1M1by00Rm5DZ3V3OF9BS1QyZVZoU2pUWmh2X21EY0VyMjdxejdLMWdiWTZrdXJ2WngyUVkzRHJVd3MybGkwQjd5M3JQZnI2SzlpeXoxVk1HZDFoc1hONC1xUk9Jd2FjRk1wS1cyYi1XUEJMZERoNlQ4MmE4cHhKblJiVHVyNXdNME5wNEZack04UUZfcGxiVG9uNk16M250eDljUEZ6d2Z4MHBTcXpTM3RFWjNMNzlFeGtaajFhTzctZlpoZEFyWlhPT2FWMGNHbGQ4S0R0c1gtUm9CZQ?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 19.35,
-          "lon": -98.4
+          "fecha": "22 julio 2026 · 08:13 CST",
+          "fecha_iso": "2026-07-22T08:13:00-06:00",
+          "fuente": "AM Guanajuato",
+          "url": "https://www.am.com.mx/irapuato/2026/07/22/accidente-en-libramiento-norte-de-irapuato-muere-chofer-1822584.html",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 21.0,
+          "lon": -104.0
         }
       ]
     }
   ],
   "para_mapa": [
     {
-      "id": "4b36e299",
-      "tipo": "bloqueo",
-      "ruta": "autopista México-Puebla",
-      "descripcion": "Bloqueo autopista México-Puebla, comuneros logran acuerdo y liberan un carril por sentido - La Prensa - El Sol de México. Bloqueo autopista México-Puebla, comuneros logran acuerdo y liberan un carril por sentido - La Prensa El Sol de México",
-      "fecha": "21 julio 2026 · 19:28 CST",
-      "fuente": "El Sol de México",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOSnF5T1M1by00Rm5DZ3V3OF9BS1QyZVZoU2pUWmh2X21EY0VyMjdxejdLMWdiWTZrdXJ2WngyUVkzRHJVd3MybGkwQjd5M3JQZnI2SzlpeXoxVk1HZDFoc1hONC1xUk9Jd2FjRk1wS1cyYi1XUEJMZERoNlQ4MmE4cHhKblJiVHVyNXdNME5wNEZack04UUZfcGxiVG9uNk16M250eDljUEZ6d2Z4MHBTcXpTM3RFWjNMNzlFeGtaajFhTzctZlpoZEFyWlhPT2FWMGNHbGQ4S0R0c1gtUm9CZQ?oc=5",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 19.35,
-      "lon": -98.4
+      "id": "6ccbb2e2",
+      "tipo": "cierre_parcial",
+      "ruta": "Accidente en libramiento norte Irapuato: Muere chofer y hay 10…",
+      "descripcion": "Accidente en libramiento norte Irapuato: Muere chofer y hay 10 pasajeros heridos. El trágico accidente en el que murió el chofer del autobús y 10 trabajadores de una empresa quedaron lesionados, sucedió este miércoles a las 12:15 de la madrugada, a la altura de la colonia Rancho Grande.",
+      "fecha": "22 julio 2026 · 08:13 CST",
+      "fuente": "AM Guanajuato",
+      "url": "https://www.am.com.mx/irapuato/2026/07/22/accidente-en-libramiento-norte-de-irapuato-muere-chofer-1822584.html",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 21.0,
+      "lon": -104.0
     }
   ]
 }
