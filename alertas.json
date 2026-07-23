@@ -1,13 +1,36 @@
 {
-  "ultima_actualizacion": "2026-07-23T10:54:33.535703-06:00",
-  "ultima_actualizacion_legible": "23 de julio de 2026 · 10:54 CST",
-  "total": 4,
+  "ultima_actualizacion": "2026-07-23T12:08:27.917023-06:00",
+  "ultima_actualizacion_legible": "23 de julio de 2026 · 12:08 CST",
+  "total": 5,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
     "Quadratin + regionales"
   ],
   "grupos": [
+    {
+      "tipo": "cierre_total",
+      "color": "rojo",
+      "icono": "🔴",
+      "label": "CIERRE TOTAL",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "7a091ee6",
+          "tipo": "cierre_total",
+          "ruta": "Deja volcadura un muerto y 3 lesionados en la Sierra…",
+          "descripcion": "Deja volcadura un muerto y 3 lesionados en la Sierra Mazateca. Sobre la carretera federal 182 Teotitlán-Huautla",
+          "recomendacion": "",
+          "fecha": "23 julio 2026 · 11:37 CST",
+          "fecha_iso": "2026-07-23T11:37:00-06:00",
+          "fuente": "Quadratin Oaxaca",
+          "url": "https://oaxaca.quadratin.com.mx/deja-volcadura-un-muerto-y-tres-lesionados-en-la-sierra-mazateca/",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL"
+        }
+      ]
+    },
     {
       "tipo": "bloqueo",
       "color": "rojo",
