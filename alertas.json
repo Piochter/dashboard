@@ -1,35 +1,118 @@
 {
-  "ultima_actualizacion": "2026-07-23T07:13:23.095791-06:00",
-  "ultima_actualizacion_legible": "23 de julio de 2026 · 07:13 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-07-23T09:25:45.763695-06:00",
+  "ultima_actualizacion_legible": "23 de julio de 2026 · 09:25 CST",
+  "total": 4,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Medios nacionales"
+    "Google News",
+    "Quadratin + regionales"
   ],
   "grupos": [
     {
-      "tipo": "carga_vehicular",
-      "color": "azul",
-      "icono": "🚗",
-      "label": "CARGA VEHICULAR",
+      "tipo": "bloqueo",
+      "color": "rojo",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "397b1182",
+          "tipo": "bloqueo",
+          "ruta": "¿Hay Bloqueos en Carreteras Hoy? Así las Autopistas de México…",
+          "descripcion": "¿Hay Bloqueos en Carreteras Hoy? Así las Autopistas de México este 23 de Julio 2026 - N+. ¿Hay Bloqueos en Carreteras Hoy? Así las Autopistas de México este 23 de Julio 2026 N+",
+          "recomendacion": "",
+          "fecha": "23 julio 2026 · 08:02 CST",
+          "fecha_iso": "2026-07-23T08:02:00-06:00",
+          "fuente": "N+",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVTVPQkhHZno4LUxIZ210NlBCYXpycVBMSUYtNTRhVWJiYjhFdmZYYWluX196cTktNjIzWG52akRsMmNKUzY5V2N2cXZoTHpiQ2E1anctcHBpNUNxOEpqemdfY1RlSkxFRjZKczFOM2N2VGJ1ZXF0SWpZUkNEdmIzX1FkYjBMTEtHSmU1a3Y2eExPRXFVMjFWYlpxNjk4M0VCTmVUbUZHTUtfOHowRXFqbWpuS0E5a0NVYThGZlVKNGdzUQ?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
+        {
+          "id": "0463ac01",
+          "tipo": "bloqueo",
+          "ruta": "Colapsan la México-Puebla: exigen hallar a mujer desaparecida…",
+          "descripcion": "Colapsan la México-Puebla: exigen hallar a mujer desaparecida. Caos por bloqueo: familia clama por mujer desaparecida",
+          "recomendacion": "",
+          "fecha": "23 julio 2026 · 07:20 CST",
+          "fecha_iso": "2026-07-23T07:20:00-06:00",
+          "fuente": "Quadratin Puebla",
+          "url": "https://puebla.quadratin.com.mx/sucesos/colapsan-la-mexico-puebla-exigen-hallar-a-mujer-desaparecida/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 19.35,
+          "lon": -98.4
+        },
+        {
+          "id": "2c7b7591",
+          "tipo": "bloqueo",
+          "ruta": "Bloqueos carreteras HOY 23 de julio: Autopistas cerradas en México,…",
+          "descripcion": "Bloqueos carreteras HOY 23 de julio: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 23 de julio: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
+          "recomendacion": "",
+          "fecha": "23 julio 2026 · 07:10 CST",
+          "fecha_iso": "2026-07-23T07:10:00-06:00",
+          "fuente": "Eje Central",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPaXZJbEtUbnlXOVpjQnp1aXRKeVNYUFhhQWllTHBEOG4tZTdFSWdlczRaSWhPSkhCWEpyaU9hVExMLUhWNVBIWkxTa0NrSnRoU1dSVDFhcWhVblQ0OV8tWFB4X1J6NFRwTGxGYU4zOVNWYXpPX2dwUzZaZG0zbUdKRlBlNXVYbGFvNEVvWXl2aWpTaE5kUHg1RU00QjlBQlZYZV9sOWlkZG1ka3JUeUJuWWxPVnRDWDRHaGlYeEFsVjY3dko0NkEwT2dSUE5razdGWmg2OVlYTVZDUm1XUUZzb2hKMzlrLXc?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        }
+      ]
+    },
+    {
+      "tipo": "cierre_parcial",
+      "color": "amarillo",
+      "icono": "🟡",
+      "label": "CIERRE PARCIAL / ACCIDENTES",
       "col2": true,
       "alertas": [
         {
-          "id": "7c1d7107",
-          "tipo": "carga_vehicular",
-          "ruta": "Lluvia colapsa circulación en Insurgentes Norte…",
-          "descripcion": "Lluvia colapsa circulación en Insurgentes Norte. La intensa lluvia registrada en la zona norte de la capital provocó severas inundaciones, entre ellas, en la avenida Insurgentes Norte.",
+          "id": "481ad5f8",
+          "tipo": "cierre_parcial",
+          "ruta": "Colapsa la México-Toluca por choque de tráiler en El Zarco…",
+          "descripcion": "Colapsa la México-Toluca por choque de tráiler en El Zarco. TOLUCA, Edomex., 23 de julio de 2026.- Un camión de carga de los denominados ‘rabones’ se impactó contra el muro de contención sobre la Carretera México-Toluca, con dirección a la Ciudad de México, a la altura de la zona conocida como El Zarco, generando severas afectaciones a la circulación durante la mañana de este jueves. […]",
           "recomendacion": "",
-          "fecha": "22 julio 2026 · 20:40 CST",
-          "fecha_iso": "2026-07-22T20:40:00-06:00",
-          "fuente": "24 Horas",
-          "url": "https://24-horas.mx/cdmx/lluvia-colapsa-circulacion-en-insurgentes-norte/",
-          "dot_color": "#2980b9",
-          "badge": "badge-carga",
-          "badge_txt": "CARGA VEHICULAR"
+          "fecha": "23 julio 2026 · 08:59 CST",
+          "fecha_iso": "2026-07-23T08:59:00-06:00",
+          "fuente": "Quadratin EdoMex",
+          "url": "https://edomex.quadratin.com.mx/colapsa-la-mexico-toluca-por-choque-de-trailer-en-el-zarco/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 19.35,
+          "lon": -99.7
         }
       ]
     }
   ],
-  "para_mapa": []
+  "para_mapa": [
+    {
+      "id": "481ad5f8",
+      "tipo": "cierre_parcial",
+      "ruta": "Colapsa la México-Toluca por choque de tráiler en El Zarco…",
+      "descripcion": "Colapsa la México-Toluca por choque de tráiler en El Zarco. TOLUCA, Edomex., 23 de julio de 2026.- Un camión de carga de los denominados ‘rabones’ se impactó contra el muro de contención sobre la Carretera México-Toluca, con dirección a la Ciudad de México, a la altura de la zona conocida como El Zarco, generando severas afectaciones a la circulación durante la mañana de este jueves. […]",
+      "fecha": "23 julio 2026 · 08:59 CST",
+      "fuente": "Quadratin EdoMex",
+      "url": "https://edomex.quadratin.com.mx/colapsa-la-mexico-toluca-por-choque-de-trailer-en-el-zarco/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 19.35,
+      "lon": -99.7
+    },
+    {
+      "id": "0463ac01",
+      "tipo": "bloqueo",
+      "ruta": "Colapsan la México-Puebla: exigen hallar a mujer desaparecida…",
+      "descripcion": "Colapsan la México-Puebla: exigen hallar a mujer desaparecida. Caos por bloqueo: familia clama por mujer desaparecida",
+      "fecha": "23 julio 2026 · 07:20 CST",
+      "fuente": "Quadratin Puebla",
+      "url": "https://puebla.quadratin.com.mx/sucesos/colapsan-la-mexico-puebla-exigen-hallar-a-mujer-desaparecida/",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 19.35,
+      "lon": -98.4
+    }
+  ]
 }
