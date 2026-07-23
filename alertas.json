@@ -1,10 +1,12 @@
 {
-  "ultima_actualizacion": "2026-07-22T17:40:59.894045-06:00",
-  "ultima_actualizacion_legible": "22 de julio de 2026 · 17:40 CST",
-  "total": 6,
+  "ultima_actualizacion": "2026-07-22T19:11:30.337822-06:00",
+  "ultima_actualizacion_legible": "22 de julio de 2026 · 19:11 CST",
+  "total": 7,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
+    "Medios nacionales",
+    "Medios regionales",
     "Quadratin + regionales",
     "Telegram"
   ],
@@ -16,6 +18,22 @@
       "label": "BLOQUEOS / MANIFESTACIONES",
       "col2": false,
       "alertas": [
+        {
+          "id": "1dfeacf6",
+          "tipo": "bloqueo",
+          "ruta": "Caen 5 presuntos implicados en masacre de 10 hombres en…",
+          "descripcion": "Caen 5 presuntos implicados en masacre de 10 hombres en Zacatecas. En la intervención participaron elementos de las Fuerzas de Reacción Inmediata Zacatecas, Ejército Mexicano, Guardia Nacional y la FGJ",
+          "recomendacion": "",
+          "fecha": "22 julio 2026 · 18:28 CST",
+          "fecha_iso": "2026-07-22T18:28:00-06:00",
+          "fuente": "24 Horas",
+          "url": "https://24-horas.mx/estados/caen-5-presuntos-implicados-en-masacre-de-10-hombres-en-zacatecas/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 22.77,
+          "lon": -102.58
+        },
         {
           "id": "62df13c1",
           "tipo": "bloqueo",
@@ -75,20 +93,6 @@
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO"
-        },
-        {
-          "id": "f94bba08",
-          "tipo": "bloqueo",
-          "ruta": "Bloqueos carreteras HOY 22 de julio: Autopistas cerradas en México,…",
-          "descripcion": "Bloqueos carreteras HOY 22 de julio: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 22 de julio: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
-          "recomendacion": "",
-          "fecha": "22 julio 2026 · 07:05 CST",
-          "fecha_iso": "2026-07-22T07:05:00-06:00",
-          "fuente": "Eje Central",
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQNUhJYjZvdlJXQktBaGpnaTcwRGROalhhT2dnLWNudnZQMkdXUWItYlBtLXcta0R0WDU4VW03UXlqbWpwVjFnRGVqMXZ0ekkwVnFrTTZhb0hMUHdvNmZCSEFRdExDanZJSVU5N2dWcFRZVVhlUGVFWmFNVmQwM2tjbHpVdGRZdW1EMmNaY1J0T3g3R0JOMGVjSG1aYTVGSFVaXzRHMW9DZkdDWWFUNkdwLTFwdGJlMVJMMlVyQjZjX0JZVXFzbzZJSFRGNi0wSnlnRExQWlFqaGlPSUxEdk4tVDNSaU12YTA?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
         }
       ]
     },
@@ -99,6 +103,20 @@
       "label": "CIERRE PARCIAL / ACCIDENTES",
       "col2": true,
       "alertas": [
+        {
+          "id": "e1032934",
+          "tipo": "cierre_parcial",
+          "ruta": "Hasta 22 horas al volante, asaltos y fallas de frenos…",
+          "descripcion": "Hasta 22 horas al volante, asaltos y fallas de frenos afrontan traileros. Sí resulta muy estresante manejar un tráiler, señala Alexis González",
+          "recomendacion": "",
+          "fecha": "22 julio 2026 · 19:00 CST",
+          "fecha_iso": "2026-07-22T19:00:00-06:00",
+          "fuente": "Quadratin Michoacan",
+          "url": "https://www.quadratin.com.mx/sucesos/viajes-de-hasta-22-horas-sin-descanso-recorre-el-trailero-alexis-gonzalez/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        },
         {
           "id": "5621c30c",
           "tipo": "cierre_parcial",
@@ -119,6 +137,19 @@
     }
   ],
   "para_mapa": [
+    {
+      "id": "1dfeacf6",
+      "tipo": "bloqueo",
+      "ruta": "Caen 5 presuntos implicados en masacre de 10 hombres en…",
+      "descripcion": "Caen 5 presuntos implicados en masacre de 10 hombres en Zacatecas. En la intervención participaron elementos de las Fuerzas de Reacción Inmediata Zacatecas, Ejército Mexicano, Guardia Nacional y la FGJ",
+      "fecha": "22 julio 2026 · 18:28 CST",
+      "fuente": "24 Horas",
+      "url": "https://24-horas.mx/estados/caen-5-presuntos-implicados-en-masacre-de-10-hombres-en-zacatecas/",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 22.77,
+      "lon": -102.58
+    },
     {
       "id": "5621c30c",
       "tipo": "cierre_parcial",
