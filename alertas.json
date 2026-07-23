@@ -1,80 +1,12 @@
 {
-  "ultima_actualizacion": "2026-07-23T01:17:22.307661-06:00",
-  "ultima_actualizacion_legible": "23 de julio de 2026 · 01:17 CST",
-  "total": 4,
+  "ultima_actualizacion": "2026-07-23T03:45:13.716113-06:00",
+  "ultima_actualizacion_legible": "23 de julio de 2026 · 03:45 CST",
+  "total": 1,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Medios nacionales",
-    "Quadratin + regionales",
-    "Telegram"
+    "Medios nacionales"
   ],
   "grupos": [
-    {
-      "tipo": "bloqueo",
-      "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "f2101860",
-          "tipo": "bloqueo",
-          "ruta": "Bloqueo en la México-Puebla; si vas para Puebla desde Edomex,…",
-          "descripcion": "Bloqueo en la México-Puebla; si vas para Puebla desde Edomex, esto es lo que debes saber\n https://lajornadaestadodemexico.com/bloqueo-en-la-mexico-puebla-si-vas-para-puebla-desde-edomex-esto-es-lo-que-debes-saber/",
-          "recomendacion": "",
-          "fecha": "22 julio 2026 · 14:53 CST",
-          "fecha_iso": "2026-07-22T14:53:00-06:00",
-          "fuente": "Telegram @jornadaedomex",
-          "url": "https://t.me/jornadaedomex/11530",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 19.35,
-          "lon": -98.4
-        },
-        {
-          "id": "d09b8c8a",
-          "tipo": "bloqueo",
-          "ruta": "Colapsa la México-Puebla por protesta de mujer desaparecida…",
-          "descripcion": "Colapsa la México-Puebla por protesta de mujer desaparecida. ¡Caos vial! Cierran la México-Puebla por mujer desaparecida",
-          "recomendacion": "",
-          "fecha": "22 julio 2026 · 14:49 CST",
-          "fecha_iso": "2026-07-22T14:49:00-06:00",
-          "fuente": "Quadratin Puebla",
-          "url": "https://puebla.quadratin.com.mx/sucesos/colapsa-la-mexico-puebla-por-protesta-de-mujer-desaparecida/",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 19.35,
-          "lon": -98.4
-        }
-      ]
-    },
-    {
-      "tipo": "cierre_parcial",
-      "color": "amarillo",
-      "icono": "🟡",
-      "label": "CIERRE PARCIAL / ACCIDENTES",
-      "col2": true,
-      "alertas": [
-        {
-          "id": "5621c30c",
-          "tipo": "cierre_parcial",
-          "ruta": "Motociclista resulta lesionado tras accidente con un taxista en Pachuca…",
-          "descripcion": "Motociclista resulta lesionado tras accidente con un taxista en Pachuca. La circulación sobre la carretera Pachuca–Tulancingo se vio afectada este miércoles luego de que un motociclista y un taxi protagonizaran",
-          "recomendacion": "",
-          "fecha": "22 julio 2026 · 15:34 CST",
-          "fecha_iso": "2026-07-22T15:34:00-06:00",
-          "fuente": "Quadratin Hidalgo",
-          "url": "https://hidalgo.quadratin.com.mx/sucesos/motociclista-resulta-lesionado-tras-accidente-con-un-taxista-en-pachuca/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 20.12,
-          "lon": -98.73
-        }
-      ]
-    },
     {
       "tipo": "carga_vehicular",
       "color": "azul",
@@ -99,45 +31,5 @@
       ]
     }
   ],
-  "para_mapa": [
-    {
-      "id": "5621c30c",
-      "tipo": "cierre_parcial",
-      "ruta": "Motociclista resulta lesionado tras accidente con un taxista en Pachuca…",
-      "descripcion": "Motociclista resulta lesionado tras accidente con un taxista en Pachuca. La circulación sobre la carretera Pachuca–Tulancingo se vio afectada este miércoles luego de que un motociclista y un taxi protagonizaran",
-      "fecha": "22 julio 2026 · 15:34 CST",
-      "fuente": "Quadratin Hidalgo",
-      "url": "https://hidalgo.quadratin.com.mx/sucesos/motociclista-resulta-lesionado-tras-accidente-con-un-taxista-en-pachuca/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 20.12,
-      "lon": -98.73
-    },
-    {
-      "id": "f2101860",
-      "tipo": "bloqueo",
-      "ruta": "Bloqueo en la México-Puebla; si vas para Puebla desde Edomex,…",
-      "descripcion": "Bloqueo en la México-Puebla; si vas para Puebla desde Edomex, esto es lo que debes saber\n https://lajornadaestadodemexico.com/bloqueo-en-la-mexico-puebla-si-vas-para-puebla-desde-edomex-esto-es-lo-que-debes-saber/",
-      "fecha": "22 julio 2026 · 14:53 CST",
-      "fuente": "Telegram @jornadaedomex",
-      "url": "https://t.me/jornadaedomex/11530",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 19.35,
-      "lon": -98.4
-    },
-    {
-      "id": "d09b8c8a",
-      "tipo": "bloqueo",
-      "ruta": "Colapsa la México-Puebla por protesta de mujer desaparecida…",
-      "descripcion": "Colapsa la México-Puebla por protesta de mujer desaparecida. ¡Caos vial! Cierran la México-Puebla por mujer desaparecida",
-      "fecha": "22 julio 2026 · 14:49 CST",
-      "fuente": "Quadratin Puebla",
-      "url": "https://puebla.quadratin.com.mx/sucesos/colapsa-la-mexico-puebla-por-protesta-de-mujer-desaparecida/",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 19.35,
-      "lon": -98.4
-    }
-  ]
+  "para_mapa": []
 }
