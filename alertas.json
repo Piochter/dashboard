@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-07-23T12:08:27.917023-06:00",
-  "ultima_actualizacion_legible": "23 de julio de 2026 · 12:08 CST",
-  "total": 5,
+  "ultima_actualizacion": "2026-07-23T13:44:17.976826-06:00",
+  "ultima_actualizacion_legible": "23 de julio de 2026 · 13:44 CST",
+  "total": 3,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
@@ -53,22 +53,6 @@
           "badge_txt": "BLOQUEO"
         },
         {
-          "id": "0463ac01",
-          "tipo": "bloqueo",
-          "ruta": "Colapsan la México-Puebla: exigen hallar a mujer desaparecida…",
-          "descripcion": "Colapsan la México-Puebla: exigen hallar a mujer desaparecida. Caos por bloqueo: familia clama por mujer desaparecida",
-          "recomendacion": "",
-          "fecha": "23 julio 2026 · 07:20 CST",
-          "fecha_iso": "2026-07-23T07:20:00-06:00",
-          "fuente": "Quadratin Puebla",
-          "url": "https://puebla.quadratin.com.mx/sucesos/colapsan-la-mexico-puebla-exigen-hallar-a-mujer-desaparecida/",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 19.35,
-          "lon": -98.4
-        },
-        {
           "id": "2c7b7591",
           "tipo": "bloqueo",
           "ruta": "Bloqueos carreteras HOY 23 de julio: Autopistas cerradas en México,…",
@@ -83,59 +67,7 @@
           "badge_txt": "BLOQUEO"
         }
       ]
-    },
-    {
-      "tipo": "cierre_parcial",
-      "color": "amarillo",
-      "icono": "🟡",
-      "label": "CIERRE PARCIAL / ACCIDENTES",
-      "col2": true,
-      "alertas": [
-        {
-          "id": "481ad5f8",
-          "tipo": "cierre_parcial",
-          "ruta": "Colapsa la México-Toluca por choque de tráiler en El Zarco…",
-          "descripcion": "Colapsa la México-Toluca por choque de tráiler en El Zarco. TOLUCA, Edomex., 23 de julio de 2026.- Un camión de carga de los denominados ‘rabones’ se impactó contra el muro de contención sobre la Carretera México-Toluca, con dirección a la Ciudad de México, a la altura de la zona conocida como El Zarco, generando severas afectaciones a la circulación durante la mañana de este jueves. […]",
-          "recomendacion": "",
-          "fecha": "23 julio 2026 · 08:59 CST",
-          "fecha_iso": "2026-07-23T08:59:00-06:00",
-          "fuente": "Quadratin EdoMex",
-          "url": "https://edomex.quadratin.com.mx/colapsa-la-mexico-toluca-por-choque-de-trailer-en-el-zarco/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.35,
-          "lon": -99.7
-        }
-      ]
     }
   ],
-  "para_mapa": [
-    {
-      "id": "481ad5f8",
-      "tipo": "cierre_parcial",
-      "ruta": "Colapsa la México-Toluca por choque de tráiler en El Zarco…",
-      "descripcion": "Colapsa la México-Toluca por choque de tráiler en El Zarco. TOLUCA, Edomex., 23 de julio de 2026.- Un camión de carga de los denominados ‘rabones’ se impactó contra el muro de contención sobre la Carretera México-Toluca, con dirección a la Ciudad de México, a la altura de la zona conocida como El Zarco, generando severas afectaciones a la circulación durante la mañana de este jueves. […]",
-      "fecha": "23 julio 2026 · 08:59 CST",
-      "fuente": "Quadratin EdoMex",
-      "url": "https://edomex.quadratin.com.mx/colapsa-la-mexico-toluca-por-choque-de-trailer-en-el-zarco/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.35,
-      "lon": -99.7
-    },
-    {
-      "id": "0463ac01",
-      "tipo": "bloqueo",
-      "ruta": "Colapsan la México-Puebla: exigen hallar a mujer desaparecida…",
-      "descripcion": "Colapsan la México-Puebla: exigen hallar a mujer desaparecida. Caos por bloqueo: familia clama por mujer desaparecida",
-      "fecha": "23 julio 2026 · 07:20 CST",
-      "fuente": "Quadratin Puebla",
-      "url": "https://puebla.quadratin.com.mx/sucesos/colapsan-la-mexico-puebla-exigen-hallar-a-mujer-desaparecida/",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 19.35,
-      "lon": -98.4
-    }
-  ]
+  "para_mapa": []
 }
