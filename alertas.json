@@ -1,35 +1,51 @@
 {
-  "ultima_actualizacion": "2026-07-24T05:23:10.999816-06:00",
-  "ultima_actualizacion_legible": "24 de julio de 2026 · 05:23 CST",
+  "ultima_actualizacion": "2026-07-24T06:53:39.888506-06:00",
+  "ultima_actualizacion_legible": "24 de julio de 2026 · 06:53 CST",
   "total": 1,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Quadratin + regionales"
+    "Google News"
   ],
   "grupos": [
     {
-      "tipo": "cierre_parcial",
-      "color": "amarillo",
-      "icono": "🟡",
-      "label": "CIERRE PARCIAL / ACCIDENTES",
-      "col2": true,
+      "tipo": "cierre_total",
+      "color": "rojo",
+      "icono": "🔴",
+      "label": "CIERRE TOTAL",
+      "col2": false,
       "alertas": [
         {
-          "id": "93447c64",
-          "tipo": "cierre_parcial",
-          "ruta": "Un muerto por choque múltiple e incendio en la Jalostotitlán–Tepatitlán…",
-          "descripcion": "Un muerto por choque múltiple e incendio en la Jalostotitlán–Tepatitlán. El percance ocurrió este jueves cuando tres tráileres de carga y una camioneta tipo SUV colisionaron en un choque por alcance.",
+          "id": "7375bf9d",
+          "tipo": "cierre_total",
+          "ruta": "¿Qué Pasó en la México-Puebla Hoy? Caos Vial por Volcadura…",
+          "descripcion": "¿Qué Pasó en la México-Puebla Hoy? Caos Vial por Volcadura de Tráiler - N+. ¿Qué Pasó en la México-Puebla Hoy? Caos Vial por Volcadura de Tráiler N+",
           "recomendacion": "",
-          "fecha": "23 julio 2026 · 18:20 CST",
-          "fecha_iso": "2026-07-23T18:20:00-06:00",
-          "fuente": "Quadratin Jalisco",
-          "url": "https://jalisco.quadratin.com.mx/sucesos/un-muerto-por-choque-multiple-e-incendio-en-la-jalostotitlan-tepatitlan/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
+          "fecha": "24 julio 2026 · 06:34 CST",
+          "fecha_iso": "2026-07-24T06:34:00-06:00",
+          "fuente": "N+",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWWxncVBxNFhlakdoOVVBYkYzVHVuMGFST3diRTlOSE02b1p1SmR6Qi1TV3VVMy0weVFpb2trUXZzTml4YzdBd3ZhbnF5QXBRdVZYTkx2RVVBSXNuVUhoVUFkZWFma1UyZjlvc2hTaEVLdktCSUJja1Z5cTF5SHViZnAyTm01Z1JKejhnWmlFSFNFdTZzUW9UNFZ4Q1ZMc3dWOXF0MUtpaVZPbnphV3RVZ18wSnZhZWpHX1pHZC1iRXFKaG9tbjVLQ0RR?oc=5",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL",
+          "lat": 19.35,
+          "lon": -98.4
         }
       ]
     }
   ],
-  "para_mapa": []
+  "para_mapa": [
+    {
+      "id": "7375bf9d",
+      "tipo": "cierre_total",
+      "ruta": "¿Qué Pasó en la México-Puebla Hoy? Caos Vial por Volcadura…",
+      "descripcion": "¿Qué Pasó en la México-Puebla Hoy? Caos Vial por Volcadura de Tráiler - N+. ¿Qué Pasó en la México-Puebla Hoy? Caos Vial por Volcadura de Tráiler N+",
+      "fecha": "24 julio 2026 · 06:34 CST",
+      "fuente": "N+",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWWxncVBxNFhlakdoOVVBYkYzVHVuMGFST3diRTlOSE02b1p1SmR6Qi1TV3VVMy0weVFpb2trUXZzTml4YzdBd3ZhbnF5QXBRdVZYTkx2RVVBSXNuVUhoVUFkZWFma1UyZjlvc2hTaEVLdktCSUJja1Z5cTF5SHViZnAyTm01Z1JKejhnWmlFSFNFdTZzUW9UNFZ4Q1ZMc3dWOXF0MUtpaVZPbnphV3RVZ18wSnZhZWpHX1pHZC1iRXFKaG9tbjVLQ0RR?oc=5",
+      "dot_color": "#e74c3c",
+      "badge_txt": "CIERRE TOTAL",
+      "lat": 19.35,
+      "lon": -98.4
+    }
+  ]
 }
