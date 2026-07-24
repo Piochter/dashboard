@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-07-24T13:13:28.212917-06:00",
-  "ultima_actualizacion_legible": "24 de julio de 2026 · 13:13 CST",
-  "total": 6,
+  "ultima_actualizacion": "2026-07-24T14:41:35.284175-06:00",
+  "ultima_actualizacion_legible": "24 de julio de 2026 · 14:41 CST",
+  "total": 5,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
@@ -31,22 +31,6 @@
           "badge_txt": "CIERRE TOTAL",
           "lat": 19.35,
           "lon": -99.7
-        },
-        {
-          "id": "a94fe898",
-          "tipo": "cierre_total",
-          "ruta": "autopista México-Puebla",
-          "descripcion": "Colapsa tránsito por volcadura de camión en la autopista México-Puebla. LOS REYES LA PAZ, Edomex., 24 de julio de 2026.- La volcadura de un camión repartidor de agua sobre la autopista México-Puebla provocó severas afectaciones a la circulación en ambos sentidos la mañana de este viernes, a la altura de San Miguel Teotongo, entre La Virgen y La Concordia. El percance ocasionó el cierre total […]",
-          "recomendacion": "",
-          "fecha": "24 julio 2026 · 11:15 CST",
-          "fecha_iso": "2026-07-24T11:15:00-06:00",
-          "fuente": "Quadratin EdoMex",
-          "url": "https://edomex.quadratin.com.mx/colapsa-transito-por-volcadura-de-camion-en-la-autopista-mexico-puebla/",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL",
-          "lat": 19.35,
-          "lon": -98.4
         },
         {
           "id": "1aecb740",
@@ -133,19 +117,6 @@
       "badge_txt": "CIERRE TOTAL",
       "lat": 19.35,
       "lon": -99.7
-    },
-    {
-      "id": "a94fe898",
-      "tipo": "cierre_total",
-      "ruta": "autopista México-Puebla",
-      "descripcion": "Colapsa tránsito por volcadura de camión en la autopista México-Puebla. LOS REYES LA PAZ, Edomex., 24 de julio de 2026.- La volcadura de un camión repartidor de agua sobre la autopista México-Puebla provocó severas afectaciones a la circulación en ambos sentidos la mañana de este viernes, a la altura de San Miguel Teotongo, entre La Virgen y La Concordia. El percance ocasionó el cierre total […]",
-      "fecha": "24 julio 2026 · 11:15 CST",
-      "fuente": "Quadratin EdoMex",
-      "url": "https://edomex.quadratin.com.mx/colapsa-transito-por-volcadura-de-camion-en-la-autopista-mexico-puebla/",
-      "dot_color": "#e74c3c",
-      "badge_txt": "CIERRE TOTAL",
-      "lat": 19.35,
-      "lon": -98.4
     },
     {
       "id": "1aecb740",
