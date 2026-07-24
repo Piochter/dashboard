@@ -1,36 +1,14 @@
 {
-  "ultima_actualizacion": "2026-07-23T17:36:51.141848-06:00",
-  "ultima_actualizacion_legible": "23 de julio de 2026 · 17:36 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-07-23T19:07:21.086185-06:00",
+  "ultima_actualizacion_legible": "23 de julio de 2026 · 19:07 CST",
+  "total": 4,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
+    "Medios regionales",
     "Quadratin + regionales"
   ],
   "grupos": [
-    {
-      "tipo": "cierre_total",
-      "color": "rojo",
-      "icono": "🔴",
-      "label": "CIERRE TOTAL",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "7a091ee6",
-          "tipo": "cierre_total",
-          "ruta": "Deja volcadura un muerto y 3 lesionados en la Sierra…",
-          "descripcion": "Deja volcadura un muerto y 3 lesionados en la Sierra Mazateca. Sobre la carretera federal 182 Teotitlán-Huautla",
-          "recomendacion": "",
-          "fecha": "23 julio 2026 · 11:37 CST",
-          "fecha_iso": "2026-07-23T11:37:00-06:00",
-          "fuente": "Quadratin Oaxaca",
-          "url": "https://oaxaca.quadratin.com.mx/deja-volcadura-un-muerto-y-tres-lesionados-en-la-sierra-mazateca/",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL"
-        }
-      ]
-    },
     {
       "tipo": "bloqueo",
       "color": "rojo",
@@ -65,6 +43,43 @@
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO"
+        }
+      ]
+    },
+    {
+      "tipo": "cierre_parcial",
+      "color": "amarillo",
+      "icono": "🟡",
+      "label": "CIERRE PARCIAL / ACCIDENTES",
+      "col2": true,
+      "alertas": [
+        {
+          "id": "16d7f1ff",
+          "tipo": "cierre_parcial",
+          "ruta": "Accidente carretero con tráileres en Jalostotitlán deja un fallecido…",
+          "descripcion": "Accidente carretero con tráileres en Jalostotitlán deja un fallecido. Un choque por alcance entre tres tráileres y una camioneta en la autopista provocó el incendio de una unidad pesada y dejó como saldo una víctima mortal",
+          "recomendacion": "",
+          "fecha": "23 julio 2026 · 18:46 CST",
+          "fecha_iso": "2026-07-23T18:46:00-06:00",
+          "fuente": "El Informador Jalisco",
+          "url": "https://www.informador.mx/jalisco/accidente-carretero-con-traileres-en-jalostotitlan-deja-un-fallecido-20260723-0190.html",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        },
+        {
+          "id": "93447c64",
+          "tipo": "cierre_parcial",
+          "ruta": "Un muerto por choque múltiple e incendio en la Jalostotitlán–Tepatitlán…",
+          "descripcion": "Un muerto por choque múltiple e incendio en la Jalostotitlán–Tepatitlán. El percance ocurrió este jueves cuando tres tráileres de carga y una camioneta tipo SUV colisionaron en un choque por alcance.",
+          "recomendacion": "",
+          "fecha": "23 julio 2026 · 18:20 CST",
+          "fecha_iso": "2026-07-23T18:20:00-06:00",
+          "fuente": "Quadratin Jalisco",
+          "url": "https://jalisco.quadratin.com.mx/sucesos/un-muerto-por-choque-multiple-e-incendio-en-la-jalostotitlan-tepatitlan/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
         }
       ]
     }
