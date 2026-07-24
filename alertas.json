@@ -1,51 +1,13 @@
 {
-  "ultima_actualizacion": "2026-07-23T19:07:21.086185-06:00",
-  "ultima_actualizacion_legible": "23 de julio de 2026 · 19:07 CST",
-  "total": 4,
+  "ultima_actualizacion": "2026-07-23T22:30:59.016679-06:00",
+  "ultima_actualizacion_legible": "23 de julio de 2026 · 22:30 CST",
+  "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News",
     "Medios regionales",
     "Quadratin + regionales"
   ],
   "grupos": [
-    {
-      "tipo": "bloqueo",
-      "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "397b1182",
-          "tipo": "bloqueo",
-          "ruta": "¿Hay Bloqueos en Carreteras Hoy? Así las Autopistas de México…",
-          "descripcion": "¿Hay Bloqueos en Carreteras Hoy? Así las Autopistas de México este 23 de Julio 2026 - N+. ¿Hay Bloqueos en Carreteras Hoy? Así las Autopistas de México este 23 de Julio 2026 N+",
-          "recomendacion": "",
-          "fecha": "23 julio 2026 · 08:02 CST",
-          "fecha_iso": "2026-07-23T08:02:00-06:00",
-          "fuente": "N+",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVTVPQkhHZno4LUxIZ210NlBCYXpycVBMSUYtNTRhVWJiYjhFdmZYYWluX196cTktNjIzWG52akRsMmNKUzY5V2N2cXZoTHpiQ2E1anctcHBpNUNxOEpqemdfY1RlSkxFRjZKczFOM2N2VGJ1ZXF0SWpZUkNEdmIzX1FkYjBMTEtHSmU1a3Y2eExPRXFVMjFWYlpxNjk4M0VCTmVUbUZHTUtfOHowRXFqbWpuS0E5a0NVYThGZlVKNGdzUQ?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        },
-        {
-          "id": "2c7b7591",
-          "tipo": "bloqueo",
-          "ruta": "Bloqueos carreteras HOY 23 de julio: Autopistas cerradas en México,…",
-          "descripcion": "Bloqueos carreteras HOY 23 de julio: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 23 de julio: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
-          "recomendacion": "",
-          "fecha": "23 julio 2026 · 07:10 CST",
-          "fecha_iso": "2026-07-23T07:10:00-06:00",
-          "fuente": "Eje Central",
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPaXZJbEtUbnlXOVpjQnp1aXRKeVNYUFhhQWllTHBEOG4tZTdFSWdlczRaSWhPSkhCWEpyaU9hVExMLUhWNVBIWkxTa0NrSnRoU1dSVDFhcWhVblQ0OV8tWFB4X1J6NFRwTGxGYU4zOVNWYXpPX2dwUzZaZG0zbUdKRlBlNXVYbGFvNEVvWXl2aWpTaE5kUHg1RU00QjlBQlZYZV9sOWlkZG1ka3JUeUJuWWxPVnRDWDRHaGlYeEFsVjY3dko0NkEwT2dSUE5razdGWmg2OVlYTVZDUm1XUUZzb2hKMzlrLXc?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        }
-      ]
-    },
     {
       "tipo": "cierre_parcial",
       "color": "amarillo",
