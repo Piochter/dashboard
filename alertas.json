@@ -1,10 +1,11 @@
 {
-  "ultima_actualizacion": "2026-07-24T15:44:54.791028-06:00",
-  "ultima_actualizacion_legible": "24 de julio de 2026 · 15:44 CST",
-  "total": 4,
+  "ultima_actualizacion": "2026-07-24T16:43:55.458368-06:00",
+  "ultima_actualizacion_legible": "24 de julio de 2026 · 16:43 CST",
+  "total": 5,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
+    "Medios regionales",
     "Telegram"
   ],
   "grupos": [
@@ -60,6 +61,29 @@
           "dot_color": "#e74c3c",
           "badge": "badge-cierre-total",
           "badge_txt": "CIERRE TOTAL"
+        }
+      ]
+    },
+    {
+      "tipo": "bloqueo",
+      "color": "rojo",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "2b42861d",
+          "tipo": "bloqueo",
+          "ruta": "Repartidores amplían protesta y bloquean el periférico de Morelia…",
+          "descripcion": "Repartidores amplían protesta y bloquean el periférico de Morelia. Mantienen su exigencia de justicia por la muerte de Daniel",
+          "recomendacion": "",
+          "fecha": "24 julio 2026 · 16:07 CST",
+          "fecha_iso": "2026-07-24T16:07:00-06:00",
+          "fuente": "Quadratin Michoacan",
+          "url": "https://www.quadratin.com.mx/morelia/repartidores-amplian-protesta-y-bloquean-el-periferico-de-morelia/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
         }
       ]
     },
