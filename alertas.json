@@ -1,10 +1,12 @@
 {
-  "ultima_actualizacion": "2026-07-24T06:53:39.888506-06:00",
-  "ultima_actualizacion_legible": "24 de julio de 2026 · 06:53 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-07-24T08:46:00.496933-06:00",
+  "ultima_actualizacion_legible": "24 de julio de 2026 · 08:46 CST",
+  "total": 3,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News"
+    "Google News",
+    "Quadratin + regionales",
+    "Telegram"
   ],
   "grupos": [
     {
@@ -14,6 +16,36 @@
       "label": "CIERRE TOTAL",
       "col2": false,
       "alertas": [
+        {
+          "id": "851877b5",
+          "tipo": "cierre_total",
+          "ruta": "Choca camión y provoca cierre total del Circuito Exterior Mexiquense…",
+          "descripcion": "Choca camión y provoca cierre total del Circuito Exterior Mexiquense. TONANITLA, Edomex., 24 de julio de 2026.- Un camión que transportaba cebollas chocó contra un tráiler de plataforma con doble semirremolque que llevaba vigas de acero sobre el Circuito Exterior Mexiquense, a la altura del kilómetro 31, en los límites de Tonanitla y Tecámac, provocando el cierre total de la vialidad con dirección hacia Tultepec […]",
+          "recomendacion": "",
+          "fecha": "24 julio 2026 · 08:45 CST",
+          "fecha_iso": "2026-07-24T08:45:00-06:00",
+          "fuente": "Quadratin EdoMex",
+          "url": "https://edomex.quadratin.com.mx/choca-camion-y-provoca-cierre-total-del-circuito-exterior-mexiquense/",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL",
+          "lat": 19.35,
+          "lon": -99.7
+        },
+        {
+          "id": "ab5bb1d5",
+          "tipo": "cierre_total",
+          "ruta": "⚠️Cierran ambos sentidos del #CircuitoExteriorMexiquense tras accidente entre dos tráileres…",
+          "descripcion": "⚠️Cierran ambos sentidos del #CircuitoExteriorMexiquense tras accidente entre dos tráileres\n\nhttps://lajornadaestadodemexico.com/cierre-total-en-el-circuito-exterior-mexiquense-por-accidente-de-traileres/",
+          "recomendacion": "",
+          "fecha": "24 julio 2026 · 07:12 CST",
+          "fecha_iso": "2026-07-24T07:12:00-06:00",
+          "fuente": "Telegram @jornadaedomex",
+          "url": "https://t.me/jornadaedomex/11545",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL"
+        },
         {
           "id": "7375bf9d",
           "tipo": "cierre_total",
@@ -34,6 +66,19 @@
     }
   ],
   "para_mapa": [
+    {
+      "id": "851877b5",
+      "tipo": "cierre_total",
+      "ruta": "Choca camión y provoca cierre total del Circuito Exterior Mexiquense…",
+      "descripcion": "Choca camión y provoca cierre total del Circuito Exterior Mexiquense. TONANITLA, Edomex., 24 de julio de 2026.- Un camión que transportaba cebollas chocó contra un tráiler de plataforma con doble semirremolque que llevaba vigas de acero sobre el Circuito Exterior Mexiquense, a la altura del kilómetro 31, en los límites de Tonanitla y Tecámac, provocando el cierre total de la vialidad con dirección hacia Tultepec […]",
+      "fecha": "24 julio 2026 · 08:45 CST",
+      "fuente": "Quadratin EdoMex",
+      "url": "https://edomex.quadratin.com.mx/choca-camion-y-provoca-cierre-total-del-circuito-exterior-mexiquense/",
+      "dot_color": "#e74c3c",
+      "badge_txt": "CIERRE TOTAL",
+      "lat": 19.35,
+      "lon": -99.7
+    },
     {
       "id": "7375bf9d",
       "tipo": "cierre_total",
