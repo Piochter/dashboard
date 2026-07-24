@@ -1,6 +1,6 @@
 {
-  "ultima_actualizacion": "2026-07-24T11:50:18.575844-06:00",
-  "ultima_actualizacion_legible": "24 de julio de 2026 · 11:50 CST",
+  "ultima_actualizacion": "2026-07-24T13:13:28.212917-06:00",
+  "ultima_actualizacion_legible": "24 de julio de 2026 · 13:13 CST",
   "total": 6,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
@@ -65,6 +65,22 @@
           "lon": -98.4
         },
         {
+          "id": "c3980a01",
+          "tipo": "cierre_total",
+          "ruta": "Volcadura de tráiler sobre la México-Puebla provoca afectación en ambos…",
+          "descripcion": "Volcadura de tráiler sobre la México-Puebla provoca afectación en ambos sentidos; cargaba mil garrafones de ag - Telediario México. Volcadura de tráiler sobre la México-Puebla provoca afectación en ambos sentidos; cargaba mil garrafones de ag Telediario México",
+          "recomendacion": "",
+          "fecha": "24 julio 2026 · 08:03 CST",
+          "fecha_iso": "2026-07-24T08:03:00-06:00",
+          "fuente": "Telediario México",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUnpUdWpvS3d2MzZkdENibzdoTUI5bmZEUmgxcWRDQ3ppMFNocnR1bnJJLUp2dEQzaDJSN0hQX3dOT3d1U3ZObkVhNXVtZzZNa1V5aXlGQmQxUUVmZndIdTliNHN3TjBKRjBsbEYwZFg4MHlScGtrRHAwekxHUUNWakE1V1dybUVIeVJuZTJCNHJmMmU5dFHSAZYBQVVfeXFMTmFLVU1GWVUyRnhCd2VSbkhUSVlaa1FSclR5VDZxZ3U1RXhhUkV0Qi1Fb1J4aW1sTUdKZG5qR0hpd3RicGJ4bWVTcWNIQmU4eXdMU3JsMGR1TVZxODRYODhiU1FSMTlZTGtteE85VGU5UFhCdzlwNEh3Qks2cEgwRkZKczNKdDd3R01oMmJMTDdzSHVFYTVR?oc=5",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL",
+          "lat": 19.35,
+          "lon": -98.4
+        },
+        {
           "id": "ab5bb1d5",
           "tipo": "cierre_total",
           "ruta": "⚠️Cierran ambos sentidos del #CircuitoExteriorMexiquense tras accidente entre dos tráileres…",
@@ -77,22 +93,6 @@
           "dot_color": "#e74c3c",
           "badge": "badge-cierre-total",
           "badge_txt": "CIERRE TOTAL"
-        },
-        {
-          "id": "7375bf9d",
-          "tipo": "cierre_total",
-          "ruta": "¿Qué Pasó en la México-Puebla Hoy? Caos Vial por Volcadura…",
-          "descripcion": "¿Qué Pasó en la México-Puebla Hoy? Caos Vial por Volcadura de Tráiler - N+. ¿Qué Pasó en la México-Puebla Hoy? Caos Vial por Volcadura de Tráiler N+",
-          "recomendacion": "",
-          "fecha": "24 julio 2026 · 06:34 CST",
-          "fecha_iso": "2026-07-24T06:34:00-06:00",
-          "fuente": "N+",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWWxncVBxNFhlakdoOVVBYkYzVHVuMGFST3diRTlOSE02b1p1SmR6Qi1TV3VVMy0weVFpb2trUXZzTml4YzdBd3ZhbnF5QXBRdVZYTkx2RVVBSXNuVUhoVUFkZWFma1UyZjlvc2hTaEVLdktCSUJja1Z5cTF5SHViZnAyTm01Z1JKejhnWmlFSFNFdTZzUW9UNFZ4Q1ZMc3dWOXF0MUtpaVZPbnphV3RVZ18wSnZhZWpHX1pHZC1iRXFKaG9tbjVLQ0RR?oc=5",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL",
-          "lat": 19.35,
-          "lon": -98.4
         }
       ]
     },
@@ -161,13 +161,13 @@
       "lon": -98.4
     },
     {
-      "id": "7375bf9d",
+      "id": "c3980a01",
       "tipo": "cierre_total",
-      "ruta": "¿Qué Pasó en la México-Puebla Hoy? Caos Vial por Volcadura…",
-      "descripcion": "¿Qué Pasó en la México-Puebla Hoy? Caos Vial por Volcadura de Tráiler - N+. ¿Qué Pasó en la México-Puebla Hoy? Caos Vial por Volcadura de Tráiler N+",
-      "fecha": "24 julio 2026 · 06:34 CST",
-      "fuente": "N+",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWWxncVBxNFhlakdoOVVBYkYzVHVuMGFST3diRTlOSE02b1p1SmR6Qi1TV3VVMy0weVFpb2trUXZzTml4YzdBd3ZhbnF5QXBRdVZYTkx2RVVBSXNuVUhoVUFkZWFma1UyZjlvc2hTaEVLdktCSUJja1Z5cTF5SHViZnAyTm01Z1JKejhnWmlFSFNFdTZzUW9UNFZ4Q1ZMc3dWOXF0MUtpaVZPbnphV3RVZ18wSnZhZWpHX1pHZC1iRXFKaG9tbjVLQ0RR?oc=5",
+      "ruta": "Volcadura de tráiler sobre la México-Puebla provoca afectación en ambos…",
+      "descripcion": "Volcadura de tráiler sobre la México-Puebla provoca afectación en ambos sentidos; cargaba mil garrafones de ag - Telediario México. Volcadura de tráiler sobre la México-Puebla provoca afectación en ambos sentidos; cargaba mil garrafones de ag Telediario México",
+      "fecha": "24 julio 2026 · 08:03 CST",
+      "fuente": "Telediario México",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUnpUdWpvS3d2MzZkdENibzdoTUI5bmZEUmgxcWRDQ3ppMFNocnR1bnJJLUp2dEQzaDJSN0hQX3dOT3d1U3ZObkVhNXVtZzZNa1V5aXlGQmQxUUVmZndIdTliNHN3TjBKRjBsbEYwZFg4MHlScGtrRHAwekxHUUNWakE1V1dybUVIeVJuZTJCNHJmMmU5dFHSAZYBQVVfeXFMTmFLVU1GWVUyRnhCd2VSbkhUSVlaa1FSclR5VDZxZ3U1RXhhUkV0Qi1Fb1J4aW1sTUdKZG5qR0hpd3RicGJ4bWVTcWNIQmU4eXdMU3JsMGR1TVZxODRYODhiU1FSMTlZTGtteE85VGU5UFhCdzlwNEh3Qks2cEgwRkZKczNKdDd3R01oMmJMTDdzSHVFYTVR?oc=5",
       "dot_color": "#e74c3c",
       "badge_txt": "CIERRE TOTAL",
       "lat": 19.35,
