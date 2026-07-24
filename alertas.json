@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-07-24T08:46:00.496933-06:00",
-  "ultima_actualizacion_legible": "24 de julio de 2026 · 08:46 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-07-24T11:50:18.575844-06:00",
+  "ultima_actualizacion_legible": "24 de julio de 2026 · 11:50 CST",
+  "total": 6,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
@@ -17,20 +17,52 @@
       "col2": false,
       "alertas": [
         {
-          "id": "851877b5",
+          "id": "5e47a482",
           "tipo": "cierre_total",
-          "ruta": "Choca camión y provoca cierre total del Circuito Exterior Mexiquense…",
-          "descripcion": "Choca camión y provoca cierre total del Circuito Exterior Mexiquense. TONANITLA, Edomex., 24 de julio de 2026.- Un camión que transportaba cebollas chocó contra un tráiler de plataforma con doble semirremolque que llevaba vigas de acero sobre el Circuito Exterior Mexiquense, a la altura del kilómetro 31, en los límites de Tonanitla y Tecámac, provocando el cierre total de la vialidad con dirección hacia Tultepec […]",
+          "ruta": "Deja choque mortal en Almoloya de Juárez un muerto y…",
+          "descripcion": "Deja choque mortal en Almoloya de Juárez un muerto y una mujer herida. ALMOLOYA DE JUÁREZ, Edomex., 24 de julio de 2026.- La mañana de este viernes un fuerte accidente vehicular sobre la carretera libre a Ixtapaluca colapsó la vialidad a la altura del cruce con la calle La Penitenciaría y el Fraccionamiento San Juan en el municipio de Almoloya de Juárez. De acuerdo con el reporte preliminar […]",
           "recomendacion": "",
-          "fecha": "24 julio 2026 · 08:45 CST",
-          "fecha_iso": "2026-07-24T08:45:00-06:00",
+          "fecha": "24 julio 2026 · 11:30 CST",
+          "fecha_iso": "2026-07-24T11:30:00-06:00",
           "fuente": "Quadratin EdoMex",
-          "url": "https://edomex.quadratin.com.mx/choca-camion-y-provoca-cierre-total-del-circuito-exterior-mexiquense/",
+          "url": "https://edomex.quadratin.com.mx/deja-choque-mortal-en-almoloya-de-juarez-un-muerto-y-una-mujer-herida/",
           "dot_color": "#e74c3c",
           "badge": "badge-cierre-total",
           "badge_txt": "CIERRE TOTAL",
           "lat": 19.35,
           "lon": -99.7
+        },
+        {
+          "id": "a94fe898",
+          "tipo": "cierre_total",
+          "ruta": "autopista México-Puebla",
+          "descripcion": "Colapsa tránsito por volcadura de camión en la autopista México-Puebla. LOS REYES LA PAZ, Edomex., 24 de julio de 2026.- La volcadura de un camión repartidor de agua sobre la autopista México-Puebla provocó severas afectaciones a la circulación en ambos sentidos la mañana de este viernes, a la altura de San Miguel Teotongo, entre La Virgen y La Concordia. El percance ocasionó el cierre total […]",
+          "recomendacion": "",
+          "fecha": "24 julio 2026 · 11:15 CST",
+          "fecha_iso": "2026-07-24T11:15:00-06:00",
+          "fuente": "Quadratin EdoMex",
+          "url": "https://edomex.quadratin.com.mx/colapsa-transito-por-volcadura-de-camion-en-la-autopista-mexico-puebla/",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL",
+          "lat": 19.35,
+          "lon": -98.4
+        },
+        {
+          "id": "1aecb740",
+          "tipo": "cierre_total",
+          "ruta": "Accidente en la Autopista México-Puebla hoy: volcadura de tráiler provoca…",
+          "descripcion": "Accidente en la Autopista México-Puebla hoy: volcadura de tráiler provoca cierre parcial y caos vial este 24 de julio - Eje Central. Accidente en la Autopista México-Puebla hoy: volcadura de tráiler provoca cierre parcial y caos vial este 24 de julio Eje Central",
+          "recomendacion": "",
+          "fecha": "24 julio 2026 · 08:45 CST",
+          "fecha_iso": "2026-07-24T08:45:00-06:00",
+          "fuente": "Eje Central",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQTlNHVmlKLW1uWENfMjBwYW5vem53VkNwSjZ5MW8xRlpKampkQWtPWWkxX1hfYVgySTM4LUxzV3Q5ZFdVWkQ0b0Q4YjNWVlUyZkRIY2VTZWNoSGNTQ2hHZFdzY3JGeFRQYkI5eUJjZ3d2WkFOUm1LSFVkTl9oa1UwMDRaMWtGaW40TnY4aTZ3clZRNFdKUHl4WG05X203VjZIeWRSd1dFNzVIdmowOWVwQWxtTXdub0YwaWdIZGRCNW52VHRNaHBoWXdGdTdLZDZmamxhOUJSZGc0elczRk1ORmM5X21DUFE2SGQ5Q2dISQ?oc=5",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL",
+          "lat": 19.35,
+          "lon": -98.4
         },
         {
           "id": "ab5bb1d5",
@@ -63,21 +95,70 @@
           "lon": -98.4
         }
       ]
+    },
+    {
+      "tipo": "cierre_parcial",
+      "color": "amarillo",
+      "icono": "🟡",
+      "label": "CIERRE PARCIAL / ACCIDENTES",
+      "col2": true,
+      "alertas": [
+        {
+          "id": "2442a7b3",
+          "tipo": "cierre_parcial",
+          "ruta": "🚨Hombre pierde la v1d4 tras accidente en la carretera a…",
+          "descripcion": "🚨Hombre pierde la v1d4 tras accidente en la carretera a #Ixtlahuaca\n\nhttps://lajornadaestadodemexico.com/hombre-pierde-la-vida-tras-accidente-en-la-carretera-a-ixtlahuaca/",
+          "recomendacion": "",
+          "fecha": "24 julio 2026 · 08:51 CST",
+          "fecha_iso": "2026-07-24T08:51:00-06:00",
+          "fuente": "Telegram @jornadaedomex",
+          "url": "https://t.me/jornadaedomex/11546",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        }
+      ]
     }
   ],
   "para_mapa": [
     {
-      "id": "851877b5",
+      "id": "5e47a482",
       "tipo": "cierre_total",
-      "ruta": "Choca camión y provoca cierre total del Circuito Exterior Mexiquense…",
-      "descripcion": "Choca camión y provoca cierre total del Circuito Exterior Mexiquense. TONANITLA, Edomex., 24 de julio de 2026.- Un camión que transportaba cebollas chocó contra un tráiler de plataforma con doble semirremolque que llevaba vigas de acero sobre el Circuito Exterior Mexiquense, a la altura del kilómetro 31, en los límites de Tonanitla y Tecámac, provocando el cierre total de la vialidad con dirección hacia Tultepec […]",
-      "fecha": "24 julio 2026 · 08:45 CST",
+      "ruta": "Deja choque mortal en Almoloya de Juárez un muerto y…",
+      "descripcion": "Deja choque mortal en Almoloya de Juárez un muerto y una mujer herida. ALMOLOYA DE JUÁREZ, Edomex., 24 de julio de 2026.- La mañana de este viernes un fuerte accidente vehicular sobre la carretera libre a Ixtapaluca colapsó la vialidad a la altura del cruce con la calle La Penitenciaría y el Fraccionamiento San Juan en el municipio de Almoloya de Juárez. De acuerdo con el reporte preliminar […]",
+      "fecha": "24 julio 2026 · 11:30 CST",
       "fuente": "Quadratin EdoMex",
-      "url": "https://edomex.quadratin.com.mx/choca-camion-y-provoca-cierre-total-del-circuito-exterior-mexiquense/",
+      "url": "https://edomex.quadratin.com.mx/deja-choque-mortal-en-almoloya-de-juarez-un-muerto-y-una-mujer-herida/",
       "dot_color": "#e74c3c",
       "badge_txt": "CIERRE TOTAL",
       "lat": 19.35,
       "lon": -99.7
+    },
+    {
+      "id": "a94fe898",
+      "tipo": "cierre_total",
+      "ruta": "autopista México-Puebla",
+      "descripcion": "Colapsa tránsito por volcadura de camión en la autopista México-Puebla. LOS REYES LA PAZ, Edomex., 24 de julio de 2026.- La volcadura de un camión repartidor de agua sobre la autopista México-Puebla provocó severas afectaciones a la circulación en ambos sentidos la mañana de este viernes, a la altura de San Miguel Teotongo, entre La Virgen y La Concordia. El percance ocasionó el cierre total […]",
+      "fecha": "24 julio 2026 · 11:15 CST",
+      "fuente": "Quadratin EdoMex",
+      "url": "https://edomex.quadratin.com.mx/colapsa-transito-por-volcadura-de-camion-en-la-autopista-mexico-puebla/",
+      "dot_color": "#e74c3c",
+      "badge_txt": "CIERRE TOTAL",
+      "lat": 19.35,
+      "lon": -98.4
+    },
+    {
+      "id": "1aecb740",
+      "tipo": "cierre_total",
+      "ruta": "Accidente en la Autopista México-Puebla hoy: volcadura de tráiler provoca…",
+      "descripcion": "Accidente en la Autopista México-Puebla hoy: volcadura de tráiler provoca cierre parcial y caos vial este 24 de julio - Eje Central. Accidente en la Autopista México-Puebla hoy: volcadura de tráiler provoca cierre parcial y caos vial este 24 de julio Eje Central",
+      "fecha": "24 julio 2026 · 08:45 CST",
+      "fuente": "Eje Central",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQTlNHVmlKLW1uWENfMjBwYW5vem53VkNwSjZ5MW8xRlpKampkQWtPWWkxX1hfYVgySTM4LUxzV3Q5ZFdVWkQ0b0Q4YjNWVlUyZkRIY2VTZWNoSGNTQ2hHZFdzY3JGeFRQYkI5eUJjZ3d2WkFOUm1LSFVkTl9oa1UwMDRaMWtGaW40TnY4aTZ3clZRNFdKUHl4WG05X203VjZIeWRSd1dFNzVIdmowOWVwQWxtTXdub0YwaWdIZGRCNW52VHRNaHBoWXdGdTdLZDZmamxhOUJSZGc0elczRk1ORmM5X21DUFE2SGQ5Q2dISQ?oc=5",
+      "dot_color": "#e74c3c",
+      "badge_txt": "CIERRE TOTAL",
+      "lat": 19.35,
+      "lon": -98.4
     },
     {
       "id": "7375bf9d",
