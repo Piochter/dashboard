@@ -1,13 +1,38 @@
 {
-  "ultima_actualizacion": "2026-07-25T12:38:25.658622-06:00",
-  "ultima_actualizacion_legible": "25 de julio de 2026 · 12:38 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-07-25T13:54:44.726222-06:00",
+  "ultima_actualizacion_legible": "25 de julio de 2026 · 13:54 CST",
+  "total": 4,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
     "Quadratin + regionales"
   ],
   "grupos": [
+    {
+      "tipo": "cierre_total",
+      "color": "rojo",
+      "icono": "🔴",
+      "label": "CIERRE TOTAL",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "351ede55",
+          "tipo": "cierre_total",
+          "ruta": "autopista México-Pachuca - La Jornada Estado de México",
+          "descripcion": "Volcadura de tráiler provoca caos de 12 horas en la autopista México-Pachuca - La Jornada Estado de México. Volcadura de tráiler provoca caos de 12 horas en la autopista México-Pachuca La Jornada Estado de México",
+          "recomendacion": "",
+          "fecha": "25 julio 2026 · 12:40 CST",
+          "fecha_iso": "2026-07-25T12:40:00-06:00",
+          "fuente": "La Jornada Estado de México",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUVRsV1h5T3d0a1ZnS2RNUXlCcldacXpsUGxfdmxvN19rdGJnYnZuX09IZ3lhTXB2d2xVUFI4MHdWZWhQWkdfS2VwMzcyUVBRX2dTVTVveTUzYTFBNUZZOEVTRk96SF9OOWdVaklKYU10VGxxWjFNSDJwQ294bVNQRVA2d1FKRHh5ZnM0YjZfRGNfNUxUTGVxUnVnWHpiOFZoUlNFdnZNd0s5T1RmZnA5MUNDTQ?oc=5",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL",
+          "lat": 20.12,
+          "lon": -98.73
+        }
+      ]
+    },
     {
       "tipo": "bloqueo",
       "color": "rojo",
@@ -74,6 +99,19 @@
     }
   ],
   "para_mapa": [
+    {
+      "id": "351ede55",
+      "tipo": "cierre_total",
+      "ruta": "autopista México-Pachuca - La Jornada Estado de México",
+      "descripcion": "Volcadura de tráiler provoca caos de 12 horas en la autopista México-Pachuca - La Jornada Estado de México. Volcadura de tráiler provoca caos de 12 horas en la autopista México-Pachuca La Jornada Estado de México",
+      "fecha": "25 julio 2026 · 12:40 CST",
+      "fuente": "La Jornada Estado de México",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUVRsV1h5T3d0a1ZnS2RNUXlCcldacXpsUGxfdmxvN19rdGJnYnZuX09IZ3lhTXB2d2xVUFI4MHdWZWhQWkdfS2VwMzcyUVBRX2dTVTVveTUzYTFBNUZZOEVTRk96SF9OOWdVaklKYU10VGxxWjFNSDJwQ294bVNQRVA2d1FKRHh5ZnM0YjZfRGNfNUxUTGVxUnVnWHpiOFZoUlNFdnZNd0s5T1RmZnA5MUNDTQ?oc=5",
+      "dot_color": "#e74c3c",
+      "badge_txt": "CIERRE TOTAL",
+      "lat": 20.12,
+      "lon": -98.73
+    },
     {
       "id": "b6fb33e9",
       "tipo": "cierre_parcial",
