@@ -1,12 +1,35 @@
 {
-  "ultima_actualizacion": "2026-07-25T08:18:15.628838-06:00",
-  "ultima_actualizacion_legible": "25 de julio de 2026 · 08:18 CST",
-  "total": 0,
+  "ultima_actualizacion": "2026-07-25T09:36:33.512193-06:00",
+  "ultima_actualizacion_legible": "25 de julio de 2026 · 09:36 CST",
+  "total": 1,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News"
   ],
-  "grupos": [],
-  "para_mapa": [],
-  "nota": "Sin alertas activas en la ventana de tiempo configurada."
+  "grupos": [
+    {
+      "tipo": "bloqueo",
+      "color": "rojo",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "d97d90d4",
+          "tipo": "bloqueo",
+          "ruta": "Bloqueos carreteras HOY sábado 25 de julio: Autopistas cerradas en…",
+          "descripcion": "Bloqueos carreteras HOY sábado 25 de julio: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY sábado 25 de julio: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
+          "recomendacion": "",
+          "fecha": "25 julio 2026 · 09:27 CST",
+          "fecha_iso": "2026-07-25T09:27:00-06:00",
+          "fuente": "Eje Central",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOZVdYWmphT0xhMFJBUkpQRWRaSlVUamVTU1lPSUthYmVBM1RoSFY0eWdLeklwOVBoREtMZ29OS21NN2hINTBpQmVzbXc1WmFqanBITnNBbUsxeWpkWmxVUHE1bjhpc0hxWjVzSmViQkVlTElEdUFSMTVmcjN4NjdfeGR3X0VlYlRta1Zia0FwdkEydHBoa3l4OXd5YjRjQXo2b3RmdGx3OFI5b0ItV3QyUFJhVjItaFg5UHdmSFVLOG8xMHMwRUN3VGMybEdnZ0VZT1Z5X1hyTlhTN0phWUFVQUQzZjRrSkJNSjFrcHBQYzM?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        }
+      ]
+    }
+  ],
+  "para_mapa": []
 }
