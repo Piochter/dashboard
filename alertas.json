@@ -1,118 +1,12 @@
 {
-  "ultima_actualizacion": "2026-07-24T19:11:07.276583-06:00",
-  "ultima_actualizacion_legible": "24 de julio de 2026 · 19:11 CST",
-  "total": 4,
+  "ultima_actualizacion": "2026-07-24T22:26:26.869637-06:00",
+  "ultima_actualizacion_legible": "24 de julio de 2026 · 22:26 CST",
+  "total": 0,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News",
-    "Telegram"
+    "Google News"
   ],
-  "grupos": [
-    {
-      "tipo": "cierre_total",
-      "color": "rojo",
-      "icono": "🔴",
-      "label": "CIERRE TOTAL",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "1aecb740",
-          "tipo": "cierre_total",
-          "ruta": "Accidente en la Autopista México-Puebla hoy: volcadura de tráiler provoca…",
-          "descripcion": "Accidente en la Autopista México-Puebla hoy: volcadura de tráiler provoca cierre parcial y caos vial este 24 de julio - Eje Central. Accidente en la Autopista México-Puebla hoy: volcadura de tráiler provoca cierre parcial y caos vial este 24 de julio Eje Central",
-          "recomendacion": "",
-          "fecha": "24 julio 2026 · 08:45 CST",
-          "fecha_iso": "2026-07-24T08:45:00-06:00",
-          "fuente": "Eje Central",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQTlNHVmlKLW1uWENfMjBwYW5vem53VkNwSjZ5MW8xRlpKampkQWtPWWkxX1hfYVgySTM4LUxzV3Q5ZFdVWkQ0b0Q4YjNWVlUyZkRIY2VTZWNoSGNTQ2hHZFdzY3JGeFRQYkI5eUJjZ3d2WkFOUm1LSFVkTl9oa1UwMDRaMWtGaW40TnY4aTZ3clZRNFdKUHl4WG05X203VjZIeWRSd1dFNzVIdmowOWVwQWxtTXdub0YwaWdIZGRCNW52VHRNaHBoWXdGdTdLZDZmamxhOUJSZGc0elczRk1ORmM5X21DUFE2SGQ5Q2dISQ?oc=5",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL",
-          "lat": 19.35,
-          "lon": -98.4
-        },
-        {
-          "id": "c3980a01",
-          "tipo": "cierre_total",
-          "ruta": "Volcadura de tráiler sobre la México-Puebla provoca afectación en ambos…",
-          "descripcion": "Volcadura de tráiler sobre la México-Puebla provoca afectación en ambos sentidos; cargaba mil garrafones de ag - Telediario México. Volcadura de tráiler sobre la México-Puebla provoca afectación en ambos sentidos; cargaba mil garrafones de ag Telediario México",
-          "recomendacion": "",
-          "fecha": "24 julio 2026 · 08:03 CST",
-          "fecha_iso": "2026-07-24T08:03:00-06:00",
-          "fuente": "Telediario México",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUnpUdWpvS3d2MzZkdENibzdoTUI5bmZEUmgxcWRDQ3ppMFNocnR1bnJJLUp2dEQzaDJSN0hQX3dOT3d1U3ZObkVhNXVtZzZNa1V5aXlGQmQxUUVmZndIdTliNHN3TjBKRjBsbEYwZFg4MHlScGtrRHAwekxHUUNWakE1V1dybUVIeVJuZTJCNHJmMmU5dFHSAZYBQVVfeXFMTmFLVU1GWVUyRnhCd2VSbkhUSVlaa1FSclR5VDZxZ3U1RXhhUkV0Qi1Fb1J4aW1sTUdKZG5qR0hpd3RicGJ4bWVTcWNIQmU4eXdMU3JsMGR1TVZxODRYODhiU1FSMTlZTGtteE85VGU5UFhCdzlwNEh3Qks2cEgwRkZKczNKdDd3R01oMmJMTDdzSHVFYTVR?oc=5",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL",
-          "lat": 19.35,
-          "lon": -98.4
-        },
-        {
-          "id": "ab5bb1d5",
-          "tipo": "cierre_total",
-          "ruta": "⚠️Cierran ambos sentidos del #CircuitoExteriorMexiquense tras accidente entre dos tráileres…",
-          "descripcion": "⚠️Cierran ambos sentidos del #CircuitoExteriorMexiquense tras accidente entre dos tráileres\n\nhttps://lajornadaestadodemexico.com/cierre-total-en-el-circuito-exterior-mexiquense-por-accidente-de-traileres/",
-          "recomendacion": "",
-          "fecha": "24 julio 2026 · 07:12 CST",
-          "fecha_iso": "2026-07-24T07:12:00-06:00",
-          "fuente": "Telegram @jornadaedomex",
-          "url": "https://t.me/jornadaedomex/11545",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL"
-        }
-      ]
-    },
-    {
-      "tipo": "cierre_parcial",
-      "color": "amarillo",
-      "icono": "🟡",
-      "label": "CIERRE PARCIAL / ACCIDENTES",
-      "col2": true,
-      "alertas": [
-        {
-          "id": "2442a7b3",
-          "tipo": "cierre_parcial",
-          "ruta": "🚨Hombre pierde la v1d4 tras accidente en la carretera a…",
-          "descripcion": "🚨Hombre pierde la v1d4 tras accidente en la carretera a #Ixtlahuaca\n\nhttps://lajornadaestadodemexico.com/hombre-pierde-la-vida-tras-accidente-en-la-carretera-a-ixtlahuaca/",
-          "recomendacion": "",
-          "fecha": "24 julio 2026 · 08:51 CST",
-          "fecha_iso": "2026-07-24T08:51:00-06:00",
-          "fuente": "Telegram @jornadaedomex",
-          "url": "https://t.me/jornadaedomex/11546",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
-        }
-      ]
-    }
-  ],
-  "para_mapa": [
-    {
-      "id": "1aecb740",
-      "tipo": "cierre_total",
-      "ruta": "Accidente en la Autopista México-Puebla hoy: volcadura de tráiler provoca…",
-      "descripcion": "Accidente en la Autopista México-Puebla hoy: volcadura de tráiler provoca cierre parcial y caos vial este 24 de julio - Eje Central. Accidente en la Autopista México-Puebla hoy: volcadura de tráiler provoca cierre parcial y caos vial este 24 de julio Eje Central",
-      "fecha": "24 julio 2026 · 08:45 CST",
-      "fuente": "Eje Central",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQTlNHVmlKLW1uWENfMjBwYW5vem53VkNwSjZ5MW8xRlpKampkQWtPWWkxX1hfYVgySTM4LUxzV3Q5ZFdVWkQ0b0Q4YjNWVlUyZkRIY2VTZWNoSGNTQ2hHZFdzY3JGeFRQYkI5eUJjZ3d2WkFOUm1LSFVkTl9oa1UwMDRaMWtGaW40TnY4aTZ3clZRNFdKUHl4WG05X203VjZIeWRSd1dFNzVIdmowOWVwQWxtTXdub0YwaWdIZGRCNW52VHRNaHBoWXdGdTdLZDZmamxhOUJSZGc0elczRk1ORmM5X21DUFE2SGQ5Q2dISQ?oc=5",
-      "dot_color": "#e74c3c",
-      "badge_txt": "CIERRE TOTAL",
-      "lat": 19.35,
-      "lon": -98.4
-    },
-    {
-      "id": "c3980a01",
-      "tipo": "cierre_total",
-      "ruta": "Volcadura de tráiler sobre la México-Puebla provoca afectación en ambos…",
-      "descripcion": "Volcadura de tráiler sobre la México-Puebla provoca afectación en ambos sentidos; cargaba mil garrafones de ag - Telediario México. Volcadura de tráiler sobre la México-Puebla provoca afectación en ambos sentidos; cargaba mil garrafones de ag Telediario México",
-      "fecha": "24 julio 2026 · 08:03 CST",
-      "fuente": "Telediario México",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUnpUdWpvS3d2MzZkdENibzdoTUI5bmZEUmgxcWRDQ3ppMFNocnR1bnJJLUp2dEQzaDJSN0hQX3dOT3d1U3ZObkVhNXVtZzZNa1V5aXlGQmQxUUVmZndIdTliNHN3TjBKRjBsbEYwZFg4MHlScGtrRHAwekxHUUNWakE1V1dybUVIeVJuZTJCNHJmMmU5dFHSAZYBQVVfeXFMTmFLVU1GWVUyRnhCd2VSbkhUSVlaa1FSclR5VDZxZ3U1RXhhUkV0Qi1Fb1J4aW1sTUdKZG5qR0hpd3RicGJ4bWVTcWNIQmU4eXdMU3JsMGR1TVZxODRYODhiU1FSMTlZTGtteE85VGU5UFhCdzlwNEh3Qks2cEgwRkZKczNKdDd3R01oMmJMTDdzSHVFYTVR?oc=5",
-      "dot_color": "#e74c3c",
-      "badge_txt": "CIERRE TOTAL",
-      "lat": 19.35,
-      "lon": -98.4
-    }
-  ]
+  "grupos": [],
+  "para_mapa": [],
+  "nota": "Sin alertas activas en la ventana de tiempo configurada."
 }
