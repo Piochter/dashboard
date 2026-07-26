@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-07-25T19:15:11.255202-06:00",
-  "ultima_actualizacion_legible": "25 de julio de 2026 · 19:15 CST",
-  "total": 7,
+  "ultima_actualizacion": "2026-07-25T22:43:12.824887-06:00",
+  "ultima_actualizacion_legible": "25 de julio de 2026 · 22:43 CST",
+  "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
@@ -34,81 +34,12 @@
       ]
     },
     {
-      "tipo": "bloqueo",
-      "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "d97d90d4",
-          "tipo": "bloqueo",
-          "ruta": "Bloqueos carreteras HOY sábado 25 de julio: Autopistas cerradas en…",
-          "descripcion": "Bloqueos carreteras HOY sábado 25 de julio: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY sábado 25 de julio: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
-          "recomendacion": "",
-          "fecha": "25 julio 2026 · 09:27 CST",
-          "fecha_iso": "2026-07-25T09:27:00-06:00",
-          "fuente": "Eje Central",
-          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOZVdYWmphT0xhMFJBUkpQRWRaSlVUamVTU1lPSUthYmVBM1RoSFY0eWdLeklwOVBoREtMZ29OS21NN2hINTBpQmVzbXc1WmFqanBITnNBbUsxeWpkWmxVUHE1bjhpc0hxWjVzSmViQkVlTElEdUFSMTVmcjN4NjdfeGR3X0VlYlRta1Zia0FwdkEydHBoa3l4OXd5YjRjQXo2b3RmdGx3OFI5b0ItV3QyUFJhVjItaFg5UHdmSFVLOG8xMHMwRUN3VGMybEdnZ0VZT1Z5X1hyTlhTN0phWUFVQUQzZjRrSkJNSjFrcHBQYzM?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        }
-      ]
-    },
-    {
       "tipo": "cierre_parcial",
       "color": "amarillo",
       "icono": "🟡",
       "label": "CIERRE PARCIAL / ACCIDENTES",
       "col2": true,
       "alertas": [
-        {
-          "id": "832365af",
-          "tipo": "cierre_parcial",
-          "ruta": "Vuelca automóvil tras ser impactado por conductor borracho en Acolman…",
-          "descripcion": "Vuelca automóvil tras ser impactado por conductor borracho en Acolman. El accidente ocurrió sobre la carretera Lechería-Texcoco, donde tres personas resultaron lesionadas.",
-          "recomendacion": "",
-          "fecha": "25 julio 2026 · 17:30 CST",
-          "fecha_iso": "2026-07-25T17:30:00-06:00",
-          "fuente": "Quadratin EdoMex",
-          "url": "https://edomex.quadratin.com.mx/vuelca-automovil-tras-ser-impactado-por-conductor-borracho-en-acolman/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
-        },
-        {
-          "id": "ab9169b1",
-          "tipo": "cierre_parcial",
-          "ruta": "Deja carambola 16 heridos en Oaxaca…",
-          "descripcion": "Deja carambola 16 heridos en Oaxaca. El choque por alcance múltiple ocurrió a la altura del kilómetro 37, cerca de la plaza de cobro ubicada en tramo de Tehuacán Puebla",
-          "recomendacion": "",
-          "fecha": "25 julio 2026 · 17:28 CST",
-          "fecha_iso": "2026-07-25T17:28:00-06:00",
-          "fuente": "Quadratin Jalisco",
-          "url": "https://jalisco.quadratin.com.mx/principal/deja-carambola-16-heridos-en-oaxaca/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 17.06,
-          "lon": -96.72
-        },
-        {
-          "id": "3352d13a",
-          "tipo": "cierre_parcial",
-          "ruta": "autopista en Oaxaca deja 16 lesionados",
-          "descripcion": "Carambola en autopista en Oaxaca deja 16 lesionados. El accidente ocurre cerca de la caseta de Tehuacán",
-          "recomendacion": "",
-          "fecha": "25 julio 2026 · 16:50 CST",
-          "fecha_iso": "2026-07-25T16:50:00-06:00",
-          "fuente": "Quadratin Guerrero",
-          "url": "https://guerrero.quadratin.com.mx/carambola-en-autopista-en-oaxaca-deja-16-lesionados/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 17.06,
-          "lon": -96.72
-        },
         {
           "id": "b6fb33e9",
           "tipo": "cierre_parcial",
@@ -124,53 +55,11 @@
           "badge_txt": "CIERRE PARCIAL",
           "lat": 19.35,
           "lon": -98.4
-        },
-        {
-          "id": "98b129f8",
-          "tipo": "cierre_parcial",
-          "ruta": "Choque entre tráiler y camión de pasajeros desata riña en…",
-          "descripcion": "Choque entre tráiler y camión de pasajeros desata riña en la México-Puebla - El Popular, periodismo con causa. Choque entre tráiler y camión de pasajeros desata riña en la México-Puebla El Popular, periodismo con causa",
-          "recomendacion": "",
-          "fecha": "25 julio 2026 · 10:06 CST",
-          "fecha_iso": "2026-07-25T10:06:00-06:00",
-          "fuente": "El Popular, periodismo con causa",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQejRPdFEyTnhLUkJjT21ZZ3JNUHgtcm5SLUh1ZnltZUgtMm1VcDNpOWMzMzN2M2duWXJmN2dIdWdocmRNbnJGejZtNzdlakhqd2JCaDQ1WUhKdF9rLUZjSjF4OE03ZGFCd1pEZjluM2xOVlhrRngxUVRsVFNiNkhacVZObXRJY0pmcXRxNF9OelgyTmg0WjJYaVdFMGJISHM5ZmlFU0dtNVVJamN4N3lCV3p1UnhEdGNtZVV1Vy1MQjhzYmc3?oc=5",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.35,
-          "lon": -98.4
         }
       ]
     }
   ],
   "para_mapa": [
-    {
-      "id": "ab9169b1",
-      "tipo": "cierre_parcial",
-      "ruta": "Deja carambola 16 heridos en Oaxaca…",
-      "descripcion": "Deja carambola 16 heridos en Oaxaca. El choque por alcance múltiple ocurrió a la altura del kilómetro 37, cerca de la plaza de cobro ubicada en tramo de Tehuacán Puebla",
-      "fecha": "25 julio 2026 · 17:28 CST",
-      "fuente": "Quadratin Jalisco",
-      "url": "https://jalisco.quadratin.com.mx/principal/deja-carambola-16-heridos-en-oaxaca/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 17.06,
-      "lon": -96.72
-    },
-    {
-      "id": "3352d13a",
-      "tipo": "cierre_parcial",
-      "ruta": "autopista en Oaxaca deja 16 lesionados",
-      "descripcion": "Carambola en autopista en Oaxaca deja 16 lesionados. El accidente ocurre cerca de la caseta de Tehuacán",
-      "fecha": "25 julio 2026 · 16:50 CST",
-      "fuente": "Quadratin Guerrero",
-      "url": "https://guerrero.quadratin.com.mx/carambola-en-autopista-en-oaxaca-deja-16-lesionados/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 17.06,
-      "lon": -96.72
-    },
     {
       "id": "351ede55",
       "tipo": "cierre_total",
@@ -192,19 +81,6 @@
       "fecha": "25 julio 2026 · 11:34 CST",
       "fuente": "Quadratin Puebla",
       "url": "https://puebla.quadratin.com.mx/principal/choque-en-la-mexico-puebla-termina-en-agresion-a-trailero/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.35,
-      "lon": -98.4
-    },
-    {
-      "id": "98b129f8",
-      "tipo": "cierre_parcial",
-      "ruta": "Choque entre tráiler y camión de pasajeros desata riña en…",
-      "descripcion": "Choque entre tráiler y camión de pasajeros desata riña en la México-Puebla - El Popular, periodismo con causa. Choque entre tráiler y camión de pasajeros desata riña en la México-Puebla El Popular, periodismo con causa",
-      "fecha": "25 julio 2026 · 10:06 CST",
-      "fuente": "El Popular, periodismo con causa",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQejRPdFEyTnhLUkJjT21ZZ3JNUHgtcm5SLUh1ZnltZUgtMm1VcDNpOWMzMzN2M2duWXJmN2dIdWdocmRNbnJGejZtNzdlakhqd2JCaDQ1WUhKdF9rLUZjSjF4OE03ZGFCd1pEZjluM2xOVlhrRngxUVRsVFNiNkhacVZObXRJY0pmcXRxNF9OelgyTmg0WjJYaVdFMGJISHM5ZmlFU0dtNVVJamN4N3lCV3p1UnhEdGNtZVV1Vy1MQjhzYmc3?oc=5",
       "dot_color": "#e67e22",
       "badge_txt": "CIERRE PARCIAL",
       "lat": 19.35,
