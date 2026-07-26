@@ -1,12 +1,38 @@
 {
-  "ultima_actualizacion": "2026-07-26T10:13:54.424850-06:00",
-  "ultima_actualizacion_legible": "26 de julio de 2026 · 10:13 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-07-26T11:15:57.755733-06:00",
+  "ultima_actualizacion_legible": "26 de julio de 2026 · 11:15 CST",
+  "total": 3,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News"
+    "Google News",
+    "Quadratin + regionales"
   ],
   "grupos": [
+    {
+      "tipo": "cierre_total",
+      "color": "rojo",
+      "icono": "🔴",
+      "label": "CIERRE TOTAL",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "240df72d",
+          "tipo": "cierre_total",
+          "ruta": "Volcadura en la México-Pachuca afecta la circulación hacia la CDMX…",
+          "descripcion": "Volcadura en la México-Pachuca afecta la circulación hacia la CDMX. El accidente ocurrió alrededor de las 6:00 horas",
+          "recomendacion": "",
+          "fecha": "26 julio 2026 · 10:55 CST",
+          "fecha_iso": "2026-07-26T10:55:00-06:00",
+          "fuente": "Quadratin Hidalgo",
+          "url": "https://hidalgo.quadratin.com.mx/entretenimiento/seguridad/volcadura-en-la-mexico-pachuca-afecta-la-circulacion-hacia-la-cdmx/",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL",
+          "lat": 19.43,
+          "lon": -99.13
+        }
+      ]
+    },
     {
       "tipo": "bloqueo",
       "color": "rojo",
@@ -29,7 +55,59 @@
           "badge_txt": "BLOQUEO"
         }
       ]
+    },
+    {
+      "tipo": "cierre_parcial",
+      "color": "amarillo",
+      "icono": "🟡",
+      "label": "CIERRE PARCIAL / ACCIDENTES",
+      "col2": true,
+      "alertas": [
+        {
+          "id": "c4eedaa8",
+          "tipo": "cierre_parcial",
+          "ruta": "Se incendió camioneta de transporte en la cuota a Celaya…",
+          "descripcion": "Se incendió camioneta de transporte en la cuota a Celaya. Una camioneta de transporte de personal se incendió por una aparente falla mecánica cuando circulaba sobre la carretera de cuota a Celaya The post Se incendió camioneta de transporte en la cuota a Celaya appeared first on Quadratin Querétaro.",
+          "recomendacion": "",
+          "fecha": "26 julio 2026 · 10:30 CST",
+          "fecha_iso": "2026-07-26T10:30:00-06:00",
+          "fuente": "Quadratin Queretaro",
+          "url": "https://queretaro.quadratin.com.mx/se-incendio-camioneta-de-transporte-en-la-cuota-a-celaya/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 20.59,
+          "lon": -100.39
+        }
+      ]
     }
   ],
-  "para_mapa": []
+  "para_mapa": [
+    {
+      "id": "240df72d",
+      "tipo": "cierre_total",
+      "ruta": "Volcadura en la México-Pachuca afecta la circulación hacia la CDMX…",
+      "descripcion": "Volcadura en la México-Pachuca afecta la circulación hacia la CDMX. El accidente ocurrió alrededor de las 6:00 horas",
+      "fecha": "26 julio 2026 · 10:55 CST",
+      "fuente": "Quadratin Hidalgo",
+      "url": "https://hidalgo.quadratin.com.mx/entretenimiento/seguridad/volcadura-en-la-mexico-pachuca-afecta-la-circulacion-hacia-la-cdmx/",
+      "dot_color": "#e74c3c",
+      "badge_txt": "CIERRE TOTAL",
+      "lat": 19.43,
+      "lon": -99.13
+    },
+    {
+      "id": "c4eedaa8",
+      "tipo": "cierre_parcial",
+      "ruta": "Se incendió camioneta de transporte en la cuota a Celaya…",
+      "descripcion": "Se incendió camioneta de transporte en la cuota a Celaya. Una camioneta de transporte de personal se incendió por una aparente falla mecánica cuando circulaba sobre la carretera de cuota a Celaya The post Se incendió camioneta de transporte en la cuota a Celaya appeared first on Quadratin Querétaro.",
+      "fecha": "26 julio 2026 · 10:30 CST",
+      "fuente": "Quadratin Queretaro",
+      "url": "https://queretaro.quadratin.com.mx/se-incendio-camioneta-de-transporte-en-la-cuota-a-celaya/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 20.59,
+      "lon": -100.39
+    }
+  ]
 }
