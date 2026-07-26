@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-07-26T13:34:14.832616-06:00",
-  "ultima_actualizacion_legible": "26 de julio de 2026 · 13:34 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-07-26T14:36:21.133191-06:00",
+  "ultima_actualizacion_legible": "26 de julio de 2026 · 14:36 CST",
+  "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
@@ -55,31 +55,6 @@
           "badge_txt": "BLOQUEO"
         }
       ]
-    },
-    {
-      "tipo": "cierre_parcial",
-      "color": "amarillo",
-      "icono": "🟡",
-      "label": "CIERRE PARCIAL / ACCIDENTES",
-      "col2": true,
-      "alertas": [
-        {
-          "id": "c4eedaa8",
-          "tipo": "cierre_parcial",
-          "ruta": "Se incendió camioneta de transporte en la cuota a Celaya…",
-          "descripcion": "Se incendió camioneta de transporte en la cuota a Celaya. Una camioneta de transporte de personal se incendió por una aparente falla mecánica cuando circulaba sobre la carretera de cuota a Celaya The post Se incendió camioneta de transporte en la cuota a Celaya appeared first on Quadratin Querétaro.",
-          "recomendacion": "",
-          "fecha": "26 julio 2026 · 10:30 CST",
-          "fecha_iso": "2026-07-26T10:30:00-06:00",
-          "fuente": "Quadratin Queretaro",
-          "url": "https://queretaro.quadratin.com.mx/se-incendio-camioneta-de-transporte-en-la-cuota-a-celaya/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 20.59,
-          "lon": -100.39
-        }
-      ]
     }
   ],
   "para_mapa": [
@@ -95,19 +70,6 @@
       "badge_txt": "CIERRE TOTAL",
       "lat": 19.43,
       "lon": -99.13
-    },
-    {
-      "id": "c4eedaa8",
-      "tipo": "cierre_parcial",
-      "ruta": "Se incendió camioneta de transporte en la cuota a Celaya…",
-      "descripcion": "Se incendió camioneta de transporte en la cuota a Celaya. Una camioneta de transporte de personal se incendió por una aparente falla mecánica cuando circulaba sobre la carretera de cuota a Celaya The post Se incendió camioneta de transporte en la cuota a Celaya appeared first on Quadratin Querétaro.",
-      "fecha": "26 julio 2026 · 10:30 CST",
-      "fuente": "Quadratin Queretaro",
-      "url": "https://queretaro.quadratin.com.mx/se-incendio-camioneta-de-transporte-en-la-cuota-a-celaya/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 20.59,
-      "lon": -100.39
     }
   ]
 }
