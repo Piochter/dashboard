@@ -1,6 +1,6 @@
 {
-  "ultima_actualizacion": "2026-07-25T17:41:46.937239-06:00",
-  "ultima_actualizacion_legible": "25 de julio de 2026 · 17:41 CST",
+  "ultima_actualizacion": "2026-07-25T19:15:11.255202-06:00",
+  "ultima_actualizacion_legible": "25 de julio de 2026 · 19:15 CST",
   "total": 7,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
@@ -99,8 +99,8 @@
           "ruta": "autopista en Oaxaca deja 16 lesionados",
           "descripcion": "Carambola en autopista en Oaxaca deja 16 lesionados. El accidente ocurre cerca de la caseta de Tehuacán",
           "recomendacion": "",
-          "fecha": "25 julio 2026 · 17:24 CST",
-          "fecha_iso": "2026-07-25T17:24:00-06:00",
+          "fecha": "25 julio 2026 · 16:50 CST",
+          "fecha_iso": "2026-07-25T16:50:00-06:00",
           "fuente": "Quadratin Guerrero",
           "url": "https://guerrero.quadratin.com.mx/carambola-en-autopista-en-oaxaca-deja-16-lesionados/",
           "dot_color": "#e67e22",
@@ -163,7 +163,7 @@
       "tipo": "cierre_parcial",
       "ruta": "autopista en Oaxaca deja 16 lesionados",
       "descripcion": "Carambola en autopista en Oaxaca deja 16 lesionados. El accidente ocurre cerca de la caseta de Tehuacán",
-      "fecha": "25 julio 2026 · 17:24 CST",
+      "fecha": "25 julio 2026 · 16:50 CST",
       "fuente": "Quadratin Guerrero",
       "url": "https://guerrero.quadratin.com.mx/carambola-en-autopista-en-oaxaca-deja-16-lesionados/",
       "dot_color": "#e67e22",
