@@ -1,10 +1,11 @@
 {
-  "ultima_actualizacion": "2026-07-26T19:17:43.602874-06:00",
-  "ultima_actualizacion_legible": "26 de julio de 2026 · 19:17 CST",
-  "total": 5,
+  "ultima_actualizacion": "2026-07-26T23:04:01.190251-06:00",
+  "ultima_actualizacion_legible": "26 de julio de 2026 · 23:04 CST",
+  "total": 3,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
+    "Medios nacionales",
     "Quadratin + regionales"
   ],
   "grupos": [
@@ -30,45 +31,6 @@
           "badge_txt": "CIERRE TOTAL",
           "lat": 19.2,
           "lon": -96.8
-        },
-        {
-          "id": "240df72d",
-          "tipo": "cierre_total",
-          "ruta": "Volcadura en la México-Pachuca afecta la circulación hacia la CDMX…",
-          "descripcion": "Volcadura en la México-Pachuca afecta la circulación hacia la CDMX. El accidente ocurrió alrededor de las 6:00 horas",
-          "recomendacion": "",
-          "fecha": "26 julio 2026 · 10:55 CST",
-          "fecha_iso": "2026-07-26T10:55:00-06:00",
-          "fuente": "Quadratin Hidalgo",
-          "url": "https://hidalgo.quadratin.com.mx/entretenimiento/seguridad/volcadura-en-la-mexico-pachuca-afecta-la-circulacion-hacia-la-cdmx/",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL",
-          "lat": 19.43,
-          "lon": -99.13
-        }
-      ]
-    },
-    {
-      "tipo": "bloqueo",
-      "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "bf1e20d9",
-          "tipo": "bloqueo",
-          "ruta": "Bloqueos carreteras HOY 26 de julio: Autopistas cerradas en México,…",
-          "descripcion": "Bloqueos carreteras HOY 26 de julio: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 26 de julio: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
-          "recomendacion": "",
-          "fecha": "26 julio 2026 · 08:44 CST",
-          "fecha_iso": "2026-07-26T08:44:00-06:00",
-          "fuente": "Eje Central",
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPQVY0SXFfUktTd0kyaVlMNFhBNmZJbkVKdjlUR1V2SS1RY3FRRDVrUGg5YzduTmJScE1JV0pYUlFFdUh0SXViV3NyamQwaDRCMGFmS0NnUzVrSWl0SzJQWF9vLWVGYm82Yk5QVnl3aWkzMk1CeTAyeFFURU1yTG1WdUJiaVc0Q20wWWFsejFYLUY4ZTBhZzgwUm5pMVV2djlDdkVUc1M0ZlBieGxoT3BXNWxIbUpKb2Jwb1dSUFZHY0YyT1liNnB3T3NQbVpCaE5vQTYwTXo5M0RleE1TNWtGZlFuY1BIMGc?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
         }
       ]
     },
@@ -79,6 +41,22 @@
       "label": "CIERRE PARCIAL / ACCIDENTES",
       "col2": true,
       "alertas": [
+        {
+          "id": "ee1bce53",
+          "tipo": "cierre_parcial",
+          "ruta": "carretera Veracruz-Xalapa",
+          "descripcion": "Muere motociclista por accidente vial sobre la carretera Veracruz-Xalapa. Un motociclista derrapó y se estrelló sobre la carretera Veracruz-Xalapa, el hombre murió y cerraron la vialidad para remover escombros.",
+          "recomendacion": "",
+          "fecha": "26 julio 2026 · 20:47 CST",
+          "fecha_iso": "2026-07-26T20:47:00-06:00",
+          "fuente": "24 Horas",
+          "url": "https://24-horas.mx/estados/muere-motociclista-por-accidente-vial-sobre-la-carretera-veracruz-xalapa/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 19.18,
+          "lon": -96.14
+        },
         {
           "id": "4d58a122",
           "tipo": "cierre_parcial",
@@ -94,27 +72,24 @@
           "badge_txt": "CIERRE PARCIAL",
           "lat": 19.35,
           "lon": -99.7
-        },
-        {
-          "id": "2ed80616",
-          "tipo": "cierre_parcial",
-          "ruta": "Reportan 3 muertos tras el inicio del dispositivo de verano…",
-          "descripcion": "Reportan 3 muertos tras el inicio del dispositivo de verano en Guerrero. Detalla Protección Civil además 25 accidentes en carreteras",
-          "recomendacion": "",
-          "fecha": "26 julio 2026 · 15:47 CST",
-          "fecha_iso": "2026-07-26T15:47:00-06:00",
-          "fuente": "Quadratin Guerrero",
-          "url": "https://guerrero.quadratin.com.mx/reportan-3-muertos-tras-el-inicio-del-dispositivo-de-verano-en-guerrero/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 17.55,
-          "lon": -99.5
         }
       ]
     }
   ],
   "para_mapa": [
+    {
+      "id": "ee1bce53",
+      "tipo": "cierre_parcial",
+      "ruta": "carretera Veracruz-Xalapa",
+      "descripcion": "Muere motociclista por accidente vial sobre la carretera Veracruz-Xalapa. Un motociclista derrapó y se estrelló sobre la carretera Veracruz-Xalapa, el hombre murió y cerraron la vialidad para remover escombros.",
+      "fecha": "26 julio 2026 · 20:47 CST",
+      "fuente": "24 Horas",
+      "url": "https://24-horas.mx/estados/muere-motociclista-por-accidente-vial-sobre-la-carretera-veracruz-xalapa/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 19.18,
+      "lon": -96.14
+    },
     {
       "id": "4d58a122",
       "tipo": "cierre_parcial",
@@ -129,19 +104,6 @@
       "lon": -99.7
     },
     {
-      "id": "2ed80616",
-      "tipo": "cierre_parcial",
-      "ruta": "Reportan 3 muertos tras el inicio del dispositivo de verano…",
-      "descripcion": "Reportan 3 muertos tras el inicio del dispositivo de verano en Guerrero. Detalla Protección Civil además 25 accidentes en carreteras",
-      "fecha": "26 julio 2026 · 15:47 CST",
-      "fuente": "Quadratin Guerrero",
-      "url": "https://guerrero.quadratin.com.mx/reportan-3-muertos-tras-el-inicio-del-dispositivo-de-verano-en-guerrero/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 17.55,
-      "lon": -99.5
-    },
-    {
       "id": "b4f691a6",
       "tipo": "cierre_total",
       "ruta": "Conductor resulta lesionado tras volcadura de tráiler en la México-Veracruz…",
@@ -153,19 +115,6 @@
       "badge_txt": "CIERRE TOTAL",
       "lat": 19.2,
       "lon": -96.8
-    },
-    {
-      "id": "240df72d",
-      "tipo": "cierre_total",
-      "ruta": "Volcadura en la México-Pachuca afecta la circulación hacia la CDMX…",
-      "descripcion": "Volcadura en la México-Pachuca afecta la circulación hacia la CDMX. El accidente ocurrió alrededor de las 6:00 horas",
-      "fecha": "26 julio 2026 · 10:55 CST",
-      "fuente": "Quadratin Hidalgo",
-      "url": "https://hidalgo.quadratin.com.mx/entretenimiento/seguridad/volcadura-en-la-mexico-pachuca-afecta-la-circulacion-hacia-la-cdmx/",
-      "dot_color": "#e74c3c",
-      "badge_txt": "CIERRE TOTAL",
-      "lat": 19.43,
-      "lon": -99.13
     }
   ]
 }
