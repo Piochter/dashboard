@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-07-27T14:10:11.998942-06:00",
-  "ultima_actualizacion_legible": "27 de julio de 2026 · 14:10 CST",
-  "total": 4,
+  "ultima_actualizacion": "2026-07-27T15:22:36.449608-06:00",
+  "ultima_actualizacion_legible": "27 de julio de 2026 · 15:22 CST",
+  "total": 6,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
@@ -39,6 +39,20 @@
       "label": "BLOQUEOS / MANIFESTACIONES",
       "col2": false,
       "alertas": [
+        {
+          "id": "ab016b9d",
+          "tipo": "bloqueo",
+          "ruta": "carretera por fallas de luz en San Felipe Orizatlán",
+          "descripcion": "Pobladores bloquean carretera por fallas de luz en San Felipe Orizatlán. Pobladores de la comunidad Totonicapa realizaron un bloqueo sobre la carretera San Felipe-Huejutla, a la altura del acceso a Coacuilco",
+          "recomendacion": "",
+          "fecha": "27 julio 2026 · 14:56 CST",
+          "fecha_iso": "2026-07-27T14:56:00-06:00",
+          "fuente": "Quadratin Hidalgo",
+          "url": "https://hidalgo.quadratin.com.mx/municipios/pobladores-bloquean-carretera-por-fallas-de-luz-en-san-felipe-orizatlan/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
         {
           "id": "e4edc40b",
           "tipo": "bloqueo",
@@ -79,6 +93,22 @@
       "col2": true,
       "alertas": [
         {
+          "id": "39e9eba6",
+          "tipo": "cierre_parcial",
+          "ruta": "Accidente en el túnel Huasca-Pachuca deja 6 heridos…",
+          "descripcion": "Accidente en el túnel Huasca-Pachuca deja 6 heridos. Un accidente automovilístico registrado al interior del túnel de la carretera Huasca-Pachuca movilizó a los cuerpos de emergencia tras el impacto",
+          "recomendacion": "",
+          "fecha": "27 julio 2026 · 14:20 CST",
+          "fecha_iso": "2026-07-27T14:20:00-06:00",
+          "fuente": "Quadratin Hidalgo",
+          "url": "https://hidalgo.quadratin.com.mx/sucesos/accidente-en-el-tunel-huasca-pachuca-deja-6-heridos/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 20.12,
+          "lon": -98.73
+        },
+        {
           "id": "9bdef788",
           "tipo": "cierre_parcial",
           "ruta": "carretera Transístmica para exigir indemnizaciones",
@@ -96,6 +126,19 @@
     }
   ],
   "para_mapa": [
+    {
+      "id": "39e9eba6",
+      "tipo": "cierre_parcial",
+      "ruta": "Accidente en el túnel Huasca-Pachuca deja 6 heridos…",
+      "descripcion": "Accidente en el túnel Huasca-Pachuca deja 6 heridos. Un accidente automovilístico registrado al interior del túnel de la carretera Huasca-Pachuca movilizó a los cuerpos de emergencia tras el impacto",
+      "fecha": "27 julio 2026 · 14:20 CST",
+      "fuente": "Quadratin Hidalgo",
+      "url": "https://hidalgo.quadratin.com.mx/sucesos/accidente-en-el-tunel-huasca-pachuca-deja-6-heridos/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 20.12,
+      "lon": -98.73
+    },
     {
       "id": "e4edc40b",
       "tipo": "bloqueo",
