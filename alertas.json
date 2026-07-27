@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-07-26T17:40:22.693101-06:00",
-  "ultima_actualizacion_legible": "26 de julio de 2026 · 17:40 CST",
-  "total": 4,
+  "ultima_actualizacion": "2026-07-26T19:17:43.602874-06:00",
+  "ultima_actualizacion_legible": "26 de julio de 2026 · 19:17 CST",
+  "total": 5,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
@@ -80,6 +80,22 @@
       "col2": true,
       "alertas": [
         {
+          "id": "4d58a122",
+          "tipo": "cierre_parcial",
+          "ruta": "Respalda industriales estrategia contra robo al transporte de carga…",
+          "descripcion": "Respalda industriales estrategia contra robo al transporte de carga. TOLUCA, Edomex., 26 de julio de 2026.- La Unión Industrial del Estado de México (Unidem) respaldó los acuerdos alcanzados entre las gobernadoras y autoridades de la región centro del país para fortalecer la coordinación en materia de seguridad, con el objetivo de combatir delitos como el robo al transporte de carga, la extorsión y el […]",
+          "recomendacion": "",
+          "fecha": "26 julio 2026 · 18:30 CST",
+          "fecha_iso": "2026-07-26T18:30:00-06:00",
+          "fuente": "Quadratin EdoMex",
+          "url": "https://edomex.quadratin.com.mx/respalda-industriales-estrategia-contra-robo-al-transporte-de-carga/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 19.35,
+          "lon": -99.7
+        },
+        {
           "id": "2ed80616",
           "tipo": "cierre_parcial",
           "ruta": "Reportan 3 muertos tras el inicio del dispositivo de verano…",
@@ -99,6 +115,19 @@
     }
   ],
   "para_mapa": [
+    {
+      "id": "4d58a122",
+      "tipo": "cierre_parcial",
+      "ruta": "Respalda industriales estrategia contra robo al transporte de carga…",
+      "descripcion": "Respalda industriales estrategia contra robo al transporte de carga. TOLUCA, Edomex., 26 de julio de 2026.- La Unión Industrial del Estado de México (Unidem) respaldó los acuerdos alcanzados entre las gobernadoras y autoridades de la región centro del país para fortalecer la coordinación en materia de seguridad, con el objetivo de combatir delitos como el robo al transporte de carga, la extorsión y el […]",
+      "fecha": "26 julio 2026 · 18:30 CST",
+      "fuente": "Quadratin EdoMex",
+      "url": "https://edomex.quadratin.com.mx/respalda-industriales-estrategia-contra-robo-al-transporte-de-carga/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 19.35,
+      "lon": -99.7
+    },
     {
       "id": "2ed80616",
       "tipo": "cierre_parcial",
