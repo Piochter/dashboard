@@ -1,39 +1,13 @@
 {
-  "ultima_actualizacion": "2026-07-26T23:04:01.190251-06:00",
-  "ultima_actualizacion_legible": "26 de julio de 2026 · 23:04 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-07-27T02:46:22.321014-06:00",
+  "ultima_actualizacion_legible": "27 de julio de 2026 · 02:46 CST",
+  "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News",
     "Medios nacionales",
     "Quadratin + regionales"
   ],
   "grupos": [
-    {
-      "tipo": "cierre_total",
-      "color": "rojo",
-      "icono": "🔴",
-      "label": "CIERRE TOTAL",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "b4f691a6",
-          "tipo": "cierre_total",
-          "ruta": "Conductor resulta lesionado tras volcadura de tráiler en la México-Veracruz…",
-          "descripcion": "Conductor resulta lesionado tras volcadura de tráiler en la México-Veracruz - El Popular, periodismo con causa. Conductor resulta lesionado tras volcadura de tráiler en la México-Veracruz El Popular, periodismo con causa",
-          "recomendacion": "",
-          "fecha": "26 julio 2026 · 13:40 CST",
-          "fecha_iso": "2026-07-26T13:40:00-06:00",
-          "fuente": "El Popular, periodismo con causa",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOc0s0Sm5wWGN3YzBjTDJhbUNVaEJta2FrQmhWanpxSklyRHpBNFg5VGVKVnNoRE0zVUVFdHpOdG52MGZYd2wwb0dFQ2lPVU1xTnNKNDhyOGk2VTJJVlJoN3o3N2ZlUU9sZ2hUWUkySjdOc1BnMGhKSV9jdktTa2Q5VWRySlJEdlZaZnBsci1hNkJJRG9ScUNMSzVOOXdVV3gtS29aMzJDT0tzNXRNMzlrMV9VcnRMYllRTG5XX1dBS3c5eXNNOWc?oc=5",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL",
-          "lat": 19.2,
-          "lon": -96.8
-        }
-      ]
-    },
     {
       "tipo": "cierre_parcial",
       "color": "amarillo",
@@ -102,19 +76,6 @@
       "badge_txt": "CIERRE PARCIAL",
       "lat": 19.35,
       "lon": -99.7
-    },
-    {
-      "id": "b4f691a6",
-      "tipo": "cierre_total",
-      "ruta": "Conductor resulta lesionado tras volcadura de tráiler en la México-Veracruz…",
-      "descripcion": "Conductor resulta lesionado tras volcadura de tráiler en la México-Veracruz - El Popular, periodismo con causa. Conductor resulta lesionado tras volcadura de tráiler en la México-Veracruz El Popular, periodismo con causa",
-      "fecha": "26 julio 2026 · 13:40 CST",
-      "fuente": "El Popular, periodismo con causa",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOc0s0Sm5wWGN3YzBjTDJhbUNVaEJta2FrQmhWanpxSklyRHpBNFg5VGVKVnNoRE0zVUVFdHpOdG52MGZYd2wwb0dFQ2lPVU1xTnNKNDhyOGk2VTJJVlJoN3o3N2ZlUU9sZ2hUWUkySjdOc1BnMGhKSV9jdktTa2Q5VWRySlJEdlZaZnBsci1hNkJJRG9ScUNMSzVOOXdVV3gtS29aMzJDT0tzNXRNMzlrMV9VcnRMYllRTG5XX1dBS3c5eXNNOWc?oc=5",
-      "dot_color": "#e74c3c",
-      "badge_txt": "CIERRE TOTAL",
-      "lat": 19.2,
-      "lon": -96.8
     }
   ]
 }
