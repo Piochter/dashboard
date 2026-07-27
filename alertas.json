@@ -1,10 +1,11 @@
 {
-  "ultima_actualizacion": "2026-07-27T15:22:36.449608-06:00",
-  "ultima_actualizacion_legible": "27 de julio de 2026 · 15:22 CST",
-  "total": 6,
+  "ultima_actualizacion": "2026-07-27T16:33:11.979536-06:00",
+  "ultima_actualizacion_legible": "27 de julio de 2026 · 16:33 CST",
+  "total": 8,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
+    "Medios regionales",
     "Quadratin + regionales",
     "Telegram"
   ],
@@ -93,6 +94,38 @@
       "col2": true,
       "alertas": [
         {
+          "id": "0675dec5",
+          "tipo": "cierre_parcial",
+          "ruta": "Autobús con turistas de San Miguel de Allende vuelca en…",
+          "descripcion": "Autobús con turistas de San Miguel de Allende vuelca en Oaxaca; muere una mujer. El percance se registró la mañana de este lunes en la carretera Puerto Escondido-Pochutla. Además de la mujer fallecida, hay seis lesionados.",
+          "recomendacion": "",
+          "fecha": "27 julio 2026 · 16:32 CST",
+          "fecha_iso": "2026-07-27T16:32:00-06:00",
+          "fuente": "AM Guanajuato",
+          "url": "https://www.am.com.mx/san-miguel-de-allende/2026/07/27/autobus-con-turistas-de-san-miguel-de-allende-vuelca-en-oaxaca-muere-una-mujer-1824513.html",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 17.06,
+          "lon": -96.72
+        },
+        {
+          "id": "fca1f87b",
+          "tipo": "cierre_parcial",
+          "ruta": "Fatal accidente en la Querétaro – San Luis deja un…",
+          "descripcion": "Fatal accidente en la Querétaro – San Luis deja un muerto. Un fatal accidente fue el que se registró la mañana de este lunes en la autopista 57 en el tramo Querétaro - San Luis The post Fatal accidente en la Querétaro – San Luis deja un muerto appeared first on Quadratin Querétaro.",
+          "recomendacion": "",
+          "fecha": "27 julio 2026 · 16:00 CST",
+          "fecha_iso": "2026-07-27T16:00:00-06:00",
+          "fuente": "Quadratin Queretaro",
+          "url": "https://queretaro.quadratin.com.mx/fatal-accidente-en-la-queretaro-san-luis-deja-un-muerto-2/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 21.5,
+          "lon": -100.0
+        },
+        {
           "id": "39e9eba6",
           "tipo": "cierre_parcial",
           "ruta": "Accidente en el túnel Huasca-Pachuca deja 6 heridos…",
@@ -126,6 +159,32 @@
     }
   ],
   "para_mapa": [
+    {
+      "id": "0675dec5",
+      "tipo": "cierre_parcial",
+      "ruta": "Autobús con turistas de San Miguel de Allende vuelca en…",
+      "descripcion": "Autobús con turistas de San Miguel de Allende vuelca en Oaxaca; muere una mujer. El percance se registró la mañana de este lunes en la carretera Puerto Escondido-Pochutla. Además de la mujer fallecida, hay seis lesionados.",
+      "fecha": "27 julio 2026 · 16:32 CST",
+      "fuente": "AM Guanajuato",
+      "url": "https://www.am.com.mx/san-miguel-de-allende/2026/07/27/autobus-con-turistas-de-san-miguel-de-allende-vuelca-en-oaxaca-muere-una-mujer-1824513.html",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 17.06,
+      "lon": -96.72
+    },
+    {
+      "id": "fca1f87b",
+      "tipo": "cierre_parcial",
+      "ruta": "Fatal accidente en la Querétaro – San Luis deja un…",
+      "descripcion": "Fatal accidente en la Querétaro – San Luis deja un muerto. Un fatal accidente fue el que se registró la mañana de este lunes en la autopista 57 en el tramo Querétaro - San Luis The post Fatal accidente en la Querétaro – San Luis deja un muerto appeared first on Quadratin Querétaro.",
+      "fecha": "27 julio 2026 · 16:00 CST",
+      "fuente": "Quadratin Queretaro",
+      "url": "https://queretaro.quadratin.com.mx/fatal-accidente-en-la-queretaro-san-luis-deja-un-muerto-2/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 21.5,
+      "lon": -100.0
+    },
     {
       "id": "39e9eba6",
       "tipo": "cierre_parcial",
