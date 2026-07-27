@@ -1,11 +1,10 @@
 {
-  "ultima_actualizacion": "2026-07-27T16:33:11.979536-06:00",
-  "ultima_actualizacion_legible": "27 de julio de 2026 · 16:33 CST",
-  "total": 8,
+  "ultima_actualizacion": "2026-07-27T17:43:37.553081-06:00",
+  "ultima_actualizacion_legible": "27 de julio de 2026 · 17:43 CST",
+  "total": 7,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
-    "Medios regionales",
     "Quadratin + regionales",
     "Telegram"
   ],
@@ -55,22 +54,6 @@
           "badge_txt": "BLOQUEO"
         },
         {
-          "id": "e4edc40b",
-          "tipo": "bloqueo",
-          "ruta": "Transportistas posponen cierre de la Tehuacán-Veracruz por obras…",
-          "descripcion": "Transportistas posponen cierre de la Tehuacán-Veracruz por obras. ¡Dan tregua! Transportistas aplazan bloqueo en la carretera Tehuacán-Veracruz",
-          "recomendacion": "",
-          "fecha": "27 julio 2026 · 11:09 CST",
-          "fecha_iso": "2026-07-27T11:09:00-06:00",
-          "fuente": "Quadratin Puebla",
-          "url": "https://puebla.quadratin.com.mx/politica/transportistas-posponen-cierre-de-la-tehuacan-veracruz-por-obras/",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 19.18,
-          "lon": -96.14
-        },
-        {
           "id": "83166073",
           "tipo": "bloqueo",
           "ruta": "Bloqueos carreteras HOY 27 de julio: Autopistas cerradas en México,…",
@@ -94,20 +77,36 @@
       "col2": true,
       "alertas": [
         {
-          "id": "0675dec5",
+          "id": "bb7b9ce2",
           "tipo": "cierre_parcial",
-          "ruta": "Autobús con turistas de San Miguel de Allende vuelca en…",
-          "descripcion": "Autobús con turistas de San Miguel de Allende vuelca en Oaxaca; muere una mujer. El percance se registró la mañana de este lunes en la carretera Puerto Escondido-Pochutla. Además de la mujer fallecida, hay seis lesionados.",
+          "ruta": "Disminuyen accidentes en la México-Acapulco tras patrullajes de la Guardia…",
+          "descripcion": "Disminuyen accidentes en la México-Acapulco tras patrullajes de la Guardia Nacional. Llama Sindicato de Capufe a extremar precauciones ante el aumento de atropellamientos de personas desorientadas en la pista.",
           "recomendacion": "",
-          "fecha": "27 julio 2026 · 16:32 CST",
-          "fecha_iso": "2026-07-27T16:32:00-06:00",
-          "fuente": "AM Guanajuato",
-          "url": "https://www.am.com.mx/san-miguel-de-allende/2026/07/27/autobus-con-turistas-de-san-miguel-de-allende-vuelca-en-oaxaca-muere-una-mujer-1824513.html",
+          "fecha": "27 julio 2026 · 17:37 CST",
+          "fecha_iso": "2026-07-27T17:37:00-06:00",
+          "fuente": "Quadratin Morelos",
+          "url": "https://morelos.quadratin.com.mx/disminuyen-accidentes-en-la-mexico-acapulco-tras-patrullajes-de-la-guardia-nacional/",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL",
-          "lat": 17.06,
-          "lon": -96.72
+          "lat": 17.55,
+          "lon": -99.5
+        },
+        {
+          "id": "6f1c4d47",
+          "tipo": "cierre_parcial",
+          "ruta": "Cierres parciales en la México-Puebla por obras hasta el 7…",
+          "descripcion": "Cierres parciales en la México-Puebla por obras hasta el 7 de agosto. ¡Toma tus precauciones! Anuncian cierres en la autopista México-Puebla por obras",
+          "recomendacion": "",
+          "fecha": "27 julio 2026 · 16:18 CST",
+          "fecha_iso": "2026-07-27T16:18:00-06:00",
+          "fuente": "Quadratin Puebla",
+          "url": "https://puebla.quadratin.com.mx/sucesos/cierres-parciales-en-la-mexico-puebla-por-obras-hasta-el-7-de-agosto/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 19.35,
+          "lon": -98.4
         },
         {
           "id": "fca1f87b",
@@ -124,22 +123,6 @@
           "badge_txt": "CIERRE PARCIAL",
           "lat": 21.5,
           "lon": -100.0
-        },
-        {
-          "id": "39e9eba6",
-          "tipo": "cierre_parcial",
-          "ruta": "Accidente en el túnel Huasca-Pachuca deja 6 heridos…",
-          "descripcion": "Accidente en el túnel Huasca-Pachuca deja 6 heridos. Un accidente automovilístico registrado al interior del túnel de la carretera Huasca-Pachuca movilizó a los cuerpos de emergencia tras el impacto",
-          "recomendacion": "",
-          "fecha": "27 julio 2026 · 14:20 CST",
-          "fecha_iso": "2026-07-27T14:20:00-06:00",
-          "fuente": "Quadratin Hidalgo",
-          "url": "https://hidalgo.quadratin.com.mx/sucesos/accidente-en-el-tunel-huasca-pachuca-deja-6-heridos/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 20.12,
-          "lon": -98.73
         },
         {
           "id": "9bdef788",
@@ -160,17 +143,30 @@
   ],
   "para_mapa": [
     {
-      "id": "0675dec5",
+      "id": "bb7b9ce2",
       "tipo": "cierre_parcial",
-      "ruta": "Autobús con turistas de San Miguel de Allende vuelca en…",
-      "descripcion": "Autobús con turistas de San Miguel de Allende vuelca en Oaxaca; muere una mujer. El percance se registró la mañana de este lunes en la carretera Puerto Escondido-Pochutla. Además de la mujer fallecida, hay seis lesionados.",
-      "fecha": "27 julio 2026 · 16:32 CST",
-      "fuente": "AM Guanajuato",
-      "url": "https://www.am.com.mx/san-miguel-de-allende/2026/07/27/autobus-con-turistas-de-san-miguel-de-allende-vuelca-en-oaxaca-muere-una-mujer-1824513.html",
+      "ruta": "Disminuyen accidentes en la México-Acapulco tras patrullajes de la Guardia…",
+      "descripcion": "Disminuyen accidentes en la México-Acapulco tras patrullajes de la Guardia Nacional. Llama Sindicato de Capufe a extremar precauciones ante el aumento de atropellamientos de personas desorientadas en la pista.",
+      "fecha": "27 julio 2026 · 17:37 CST",
+      "fuente": "Quadratin Morelos",
+      "url": "https://morelos.quadratin.com.mx/disminuyen-accidentes-en-la-mexico-acapulco-tras-patrullajes-de-la-guardia-nacional/",
       "dot_color": "#e67e22",
       "badge_txt": "CIERRE PARCIAL",
-      "lat": 17.06,
-      "lon": -96.72
+      "lat": 17.55,
+      "lon": -99.5
+    },
+    {
+      "id": "6f1c4d47",
+      "tipo": "cierre_parcial",
+      "ruta": "Cierres parciales en la México-Puebla por obras hasta el 7…",
+      "descripcion": "Cierres parciales en la México-Puebla por obras hasta el 7 de agosto. ¡Toma tus precauciones! Anuncian cierres en la autopista México-Puebla por obras",
+      "fecha": "27 julio 2026 · 16:18 CST",
+      "fuente": "Quadratin Puebla",
+      "url": "https://puebla.quadratin.com.mx/sucesos/cierres-parciales-en-la-mexico-puebla-por-obras-hasta-el-7-de-agosto/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 19.35,
+      "lon": -98.4
     },
     {
       "id": "fca1f87b",
@@ -184,32 +180,6 @@
       "badge_txt": "CIERRE PARCIAL",
       "lat": 21.5,
       "lon": -100.0
-    },
-    {
-      "id": "39e9eba6",
-      "tipo": "cierre_parcial",
-      "ruta": "Accidente en el túnel Huasca-Pachuca deja 6 heridos…",
-      "descripcion": "Accidente en el túnel Huasca-Pachuca deja 6 heridos. Un accidente automovilístico registrado al interior del túnel de la carretera Huasca-Pachuca movilizó a los cuerpos de emergencia tras el impacto",
-      "fecha": "27 julio 2026 · 14:20 CST",
-      "fuente": "Quadratin Hidalgo",
-      "url": "https://hidalgo.quadratin.com.mx/sucesos/accidente-en-el-tunel-huasca-pachuca-deja-6-heridos/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 20.12,
-      "lon": -98.73
-    },
-    {
-      "id": "e4edc40b",
-      "tipo": "bloqueo",
-      "ruta": "Transportistas posponen cierre de la Tehuacán-Veracruz por obras…",
-      "descripcion": "Transportistas posponen cierre de la Tehuacán-Veracruz por obras. ¡Dan tregua! Transportistas aplazan bloqueo en la carretera Tehuacán-Veracruz",
-      "fecha": "27 julio 2026 · 11:09 CST",
-      "fuente": "Quadratin Puebla",
-      "url": "https://puebla.quadratin.com.mx/politica/transportistas-posponen-cierre-de-la-tehuacan-veracruz-por-obras/",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 19.18,
-      "lon": -96.14
     }
   ]
 }
