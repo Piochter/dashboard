@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-07-27T12:46:05.784384-06:00",
-  "ultima_actualizacion_legible": "27 de julio de 2026 · 12:46 CST",
-  "total": 5,
+  "ultima_actualizacion": "2026-07-27T14:10:11.998942-06:00",
+  "ultima_actualizacion_legible": "27 de julio de 2026 · 14:10 CST",
+  "total": 4,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
@@ -39,20 +39,6 @@
       "label": "BLOQUEOS / MANIFESTACIONES",
       "col2": false,
       "alertas": [
-        {
-          "id": "1d58ab8c",
-          "tipo": "bloqueo",
-          "ruta": "“Usted ya va de salida, señor»: alcaldesa de Huimanguillo a…",
-          "descripcion": "“Usted ya va de salida, señor»: alcaldesa de Huimanguillo a adulto mayor. Protestaba con otras personas por las malas condiciones de las carreteras",
-          "recomendacion": "",
-          "fecha": "27 julio 2026 · 12:25 CST",
-          "fecha_iso": "2026-07-27T12:25:00-06:00",
-          "fuente": "Quadratin Veracruz",
-          "url": "https://veracruz.quadratin.com.mx/usted-ya-va-de-salida-senor-alcaldesa-de-huimanguillo-a-adulto-mayor/",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        },
         {
           "id": "e4edc40b",
           "tipo": "bloqueo",
