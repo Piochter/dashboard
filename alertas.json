@@ -1,12 +1,51 @@
 {
-  "ultima_actualizacion": "2026-07-28T05:47:12.440853-06:00",
-  "ultima_actualizacion_legible": "28 de julio de 2026 · 05:47 CST",
-  "total": 0,
+  "ultima_actualizacion": "2026-07-28T07:32:01.720664-06:00",
+  "ultima_actualizacion_legible": "28 de julio de 2026 · 07:32 CST",
+  "total": 1,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News"
+    "Quadratin + regionales"
   ],
-  "grupos": [],
-  "para_mapa": [],
-  "nota": "Sin alertas activas en la ventana de tiempo configurada."
+  "grupos": [
+    {
+      "tipo": "cierre_total",
+      "color": "rojo",
+      "icono": "🔴",
+      "label": "CIERRE TOTAL",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "0fcd0ea5",
+          "tipo": "cierre_total",
+          "ruta": "Muere una persona tras volcadura en la México-Puebla rumbo a…",
+          "descripcion": "Muere una persona tras volcadura en la México-Puebla rumbo a CDMX. VALLE DE CHALCO, Edomex., 28 de julio de 2026.- Una persona murió esta madrugada luego de la volcadura de una camioneta sobre la autopista México-Puebla, antes del puente de La Concordia, en los límites del Estado de México (EMX) con la Ciudad de México (CDMX), con dirección hacia la capital del país. El percance generó […]",
+          "recomendacion": "",
+          "fecha": "28 julio 2026 · 07:15 CST",
+          "fecha_iso": "2026-07-28T07:15:00-06:00",
+          "fuente": "Quadratin EdoMex",
+          "url": "https://edomex.quadratin.com.mx/muere-una-persona-tras-volcadura-en-la-mexico-puebla-rumbo-a-cdmx/",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL",
+          "lat": 19.35,
+          "lon": -98.4
+        }
+      ]
+    }
+  ],
+  "para_mapa": [
+    {
+      "id": "0fcd0ea5",
+      "tipo": "cierre_total",
+      "ruta": "Muere una persona tras volcadura en la México-Puebla rumbo a…",
+      "descripcion": "Muere una persona tras volcadura en la México-Puebla rumbo a CDMX. VALLE DE CHALCO, Edomex., 28 de julio de 2026.- Una persona murió esta madrugada luego de la volcadura de una camioneta sobre la autopista México-Puebla, antes del puente de La Concordia, en los límites del Estado de México (EMX) con la Ciudad de México (CDMX), con dirección hacia la capital del país. El percance generó […]",
+      "fecha": "28 julio 2026 · 07:15 CST",
+      "fuente": "Quadratin EdoMex",
+      "url": "https://edomex.quadratin.com.mx/muere-una-persona-tras-volcadura-en-la-mexico-puebla-rumbo-a-cdmx/",
+      "dot_color": "#e74c3c",
+      "badge_txt": "CIERRE TOTAL",
+      "lat": 19.35,
+      "lon": -98.4
+    }
+  ]
 }
