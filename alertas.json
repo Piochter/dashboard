@@ -1,10 +1,11 @@
 {
-  "ultima_actualizacion": "2026-07-28T07:32:01.720664-06:00",
-  "ultima_actualizacion_legible": "28 de julio de 2026 · 07:32 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-07-28T09:54:13.017169-06:00",
+  "ultima_actualizacion_legible": "28 de julio de 2026 · 09:54 CST",
+  "total": 3,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Quadratin + regionales"
+    "Quadratin + regionales",
+    "Telegram"
   ],
   "grupos": [
     {
@@ -14,6 +15,22 @@
       "label": "CIERRE TOTAL",
       "col2": false,
       "alertas": [
+        {
+          "id": "1f53d40a",
+          "tipo": "cierre_total",
+          "ruta": "🚨Volcadura en la #México-#Puebla deja una persona sin v1d4 [#VIDEO]…",
+          "descripcion": "🚨Volcadura en la #México-#Puebla deja una persona sin v1d4 [#VIDEO]\n\nhttps://lajornadaestadodemexico.com/volcadura-en-la-mexico-puebla-deja-una-persona-sin-vida-video/",
+          "recomendacion": "",
+          "fecha": "28 julio 2026 · 08:14 CST",
+          "fecha_iso": "2026-07-28T08:14:00-06:00",
+          "fuente": "Telegram @jornadaedomex",
+          "url": "https://t.me/jornadaedomex/11571",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL",
+          "lat": 19.35,
+          "lon": -98.4
+        },
         {
           "id": "0fcd0ea5",
           "tipo": "cierre_total",
@@ -31,9 +48,60 @@
           "lon": -98.4
         }
       ]
+    },
+    {
+      "tipo": "cierre_parcial",
+      "color": "amarillo",
+      "icono": "🟡",
+      "label": "CIERRE PARCIAL / ACCIDENTES",
+      "col2": true,
+      "alertas": [
+        {
+          "id": "c0d7d2a8",
+          "tipo": "cierre_parcial",
+          "ruta": "🚘💥Choque en #PlazaSantín y niebla complican tránsito en #Toluca esta…",
+          "descripcion": "🚘💥Choque en #PlazaSantín y niebla complican tránsito en #Toluca esta mañana 👇\n\nhttps://lajornadaestadodemexico.com/banco-de-niebla-choque-y-trafico-complican-la-circulacion-en-toluca/",
+          "recomendacion": "",
+          "fecha": "28 julio 2026 · 07:44 CST",
+          "fecha_iso": "2026-07-28T07:44:00-06:00",
+          "fuente": "Telegram @jornadaedomex",
+          "url": "https://t.me/jornadaedomex/11570",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 19.29,
+          "lon": -99.66
+        }
+      ]
     }
   ],
   "para_mapa": [
+    {
+      "id": "1f53d40a",
+      "tipo": "cierre_total",
+      "ruta": "🚨Volcadura en la #México-#Puebla deja una persona sin v1d4 [#VIDEO]…",
+      "descripcion": "🚨Volcadura en la #México-#Puebla deja una persona sin v1d4 [#VIDEO]\n\nhttps://lajornadaestadodemexico.com/volcadura-en-la-mexico-puebla-deja-una-persona-sin-vida-video/",
+      "fecha": "28 julio 2026 · 08:14 CST",
+      "fuente": "Telegram @jornadaedomex",
+      "url": "https://t.me/jornadaedomex/11571",
+      "dot_color": "#e74c3c",
+      "badge_txt": "CIERRE TOTAL",
+      "lat": 19.35,
+      "lon": -98.4
+    },
+    {
+      "id": "c0d7d2a8",
+      "tipo": "cierre_parcial",
+      "ruta": "🚘💥Choque en #PlazaSantín y niebla complican tránsito en #Toluca esta…",
+      "descripcion": "🚘💥Choque en #PlazaSantín y niebla complican tránsito en #Toluca esta mañana 👇\n\nhttps://lajornadaestadodemexico.com/banco-de-niebla-choque-y-trafico-complican-la-circulacion-en-toluca/",
+      "fecha": "28 julio 2026 · 07:44 CST",
+      "fuente": "Telegram @jornadaedomex",
+      "url": "https://t.me/jornadaedomex/11570",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 19.29,
+      "lon": -99.66
+    },
     {
       "id": "0fcd0ea5",
       "tipo": "cierre_total",
