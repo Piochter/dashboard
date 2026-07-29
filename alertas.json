@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-07-29T11:36:11.238215-06:00",
-  "ultima_actualizacion_legible": "29 de julio de 2026 · 11:36 CST",
-  "total": 10,
+  "ultima_actualizacion": "2026-07-29T12:39:44.111490-06:00",
+  "ultima_actualizacion_legible": "29 de julio de 2026 · 12:39 CST",
+  "total": 11,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
@@ -16,6 +16,22 @@
       "label": "CIERRE TOTAL",
       "col2": false,
       "alertas": [
+        {
+          "id": "8aa37f32",
+          "tipo": "cierre_total",
+          "ruta": "Cierran la México-Cuernavaca tras volcadura de tráiler con cargamento de…",
+          "descripcion": "Cierran la México-Cuernavaca tras volcadura de tráiler con cargamento de ácido altamente corrosivo - Milenio. Cierran la México-Cuernavaca tras volcadura de tráiler con cargamento de ácido altamente corrosivo Milenio",
+          "recomendacion": "",
+          "fecha": "29 julio 2026 · 11:33 CST",
+          "fecha_iso": "2026-07-29T11:33:00-06:00",
+          "fuente": "Milenio",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQd3lGblZFVUxfZlI3N0Z1d3BXWjdmZmVNNlpTTzF0WGRaLVZYd0pnZEh2NjItSG8wWVYteXFnQW04aHpmRzFaVm15cXRXMHV5OXFYenoxTmFwM2R2aXlGTjBXcTIyQndxdHlGbm5lS0tXMktiNVBDT180ckgzcEwzTmFvZUU5Z0IzWW43ME5lMkswbTJvS1I2RGNVRdIBmwFBVV95cUxPdWd6UmI3YWRMZzYwNlFIX19idHZHMGFEVF9OYzlNN3FwUy1EZTFnZldaV0FEX1lFQkVxdC1nTFYwSmVMdW9MblVpOWFVdlZIVDRNSS1WSGtxbWQ5Ni1vLS1Id0NGN2ltTUt3V1VPQVlXNlJXcWlZTnJyb0VTNFlGbFZFNTVDLVp0OFVjQjRKTWVkTFNTTzJkd0UtUQ?oc=5",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL",
+          "lat": 18.92,
+          "lon": -99.23
+        },
         {
           "id": "de2afcec",
           "tipo": "cierre_total",
@@ -194,6 +210,19 @@
     }
   ],
   "para_mapa": [
+    {
+      "id": "8aa37f32",
+      "tipo": "cierre_total",
+      "ruta": "Cierran la México-Cuernavaca tras volcadura de tráiler con cargamento de…",
+      "descripcion": "Cierran la México-Cuernavaca tras volcadura de tráiler con cargamento de ácido altamente corrosivo - Milenio. Cierran la México-Cuernavaca tras volcadura de tráiler con cargamento de ácido altamente corrosivo Milenio",
+      "fecha": "29 julio 2026 · 11:33 CST",
+      "fuente": "Milenio",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQd3lGblZFVUxfZlI3N0Z1d3BXWjdmZmVNNlpTTzF0WGRaLVZYd0pnZEh2NjItSG8wWVYteXFnQW04aHpmRzFaVm15cXRXMHV5OXFYenoxTmFwM2R2aXlGTjBXcTIyQndxdHlGbm5lS0tXMktiNVBDT180ckgzcEwzTmFvZUU5Z0IzWW43ME5lMkswbTJvS1I2RGNVRdIBmwFBVV95cUxPdWd6UmI3YWRMZzYwNlFIX19idHZHMGFEVF9OYzlNN3FwUy1EZTFnZldaV0FEX1lFQkVxdC1nTFYwSmVMdW9MblVpOWFVdlZIVDRNSS1WSGtxbWQ5Ni1vLS1Id0NGN2ltTUt3V1VPQVlXNlJXcWlZTnJyb0VTNFlGbFZFNTVDLVp0OFVjQjRKTWVkTFNTTzJkd0UtUQ?oc=5",
+      "dot_color": "#e74c3c",
+      "badge_txt": "CIERRE TOTAL",
+      "lat": 18.92,
+      "lon": -99.23
+    },
     {
       "id": "3c4f21f7",
       "tipo": "cierre_parcial",
