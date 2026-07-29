@@ -1,12 +1,143 @@
 {
-  "ultima_actualizacion": "2026-07-29T06:18:31.791427-06:00",
-  "ultima_actualizacion_legible": "29 de julio de 2026 · 06:18 CST",
-  "total": 0,
+  "ultima_actualizacion": "2026-07-29T08:39:23.554736-06:00",
+  "ultima_actualizacion_legible": "29 de julio de 2026 · 08:39 CST",
+  "total": 4,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News"
+    "Google News",
+    "Quadratin + regionales",
+    "Telegram"
   ],
-  "grupos": [],
-  "para_mapa": [],
-  "nota": "Sin alertas activas en la ventana de tiempo configurada."
+  "grupos": [
+    {
+      "tipo": "cierre_total",
+      "color": "rojo",
+      "icono": "🔴",
+      "label": "CIERRE TOTAL",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "899e648e",
+          "tipo": "cierre_total",
+          "ruta": "Vuelca tráiler en la México-Cuernavaca durante la madrugada; sigue cerrado…",
+          "descripcion": "Vuelca tráiler en la México-Cuernavaca durante la madrugada; sigue cerrado el paso. Volcadura de tráiler con químico derramado paralizó la vía desde la madrugada; continúa cerrada a las 8:00 horas.",
+          "recomendacion": "",
+          "fecha": "29 julio 2026 · 08:28 CST",
+          "fecha_iso": "2026-07-29T08:28:00-06:00",
+          "fuente": "Quadratin Morelos",
+          "url": "https://morelos.quadratin.com.mx/vuelca-trailer-en-la-mexico-cuernavaca-durante-la-madrugada-sigue-cerrado-el-paso/",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL",
+          "lat": 18.92,
+          "lon": -99.23
+        },
+        {
+          "id": "a1a30ce4",
+          "tipo": "cierre_total",
+          "ruta": "¿Qué Pasó en la México-Cuernavaca? Cierre en Ambos Sentidos por…",
+          "descripcion": "¿Qué Pasó en la México-Cuernavaca? Cierre en Ambos Sentidos por Volcadura de Tráiler - N+. ¿Qué Pasó en la México-Cuernavaca? Cierre en Ambos Sentidos por Volcadura de Tráiler N+",
+          "recomendacion": "",
+          "fecha": "29 julio 2026 · 07:08 CST",
+          "fecha_iso": "2026-07-29T07:08:00-06:00",
+          "fuente": "N+",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUVNMLVJYYWZ1YVdGaGk5OE5jVFVGLU1vcU1RWWNLREFHVUY2aVZIMjl5UU0wcUY3TjJ0TnhLQXlsaGo0STZsMVliMi1wRG83SzVaUXFiVXZFek55QXhqU1RaSjl6c21hUmxTazZYdmJiQnoyRDYySVUzU3ZobUdqQnpGeklnbllzRXFsR2tWY0lQRGRGaE9ablJ5V1lHdGRrUTdSY1RTckZaZXBGQXludXdfVDhUUEpWNXVxSnRYTE5yM294b1pF?oc=5",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL",
+          "lat": 18.92,
+          "lon": -99.23
+        }
+      ]
+    },
+    {
+      "tipo": "bloqueo",
+      "color": "rojo",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "22b9f44c",
+          "tipo": "bloqueo",
+          "ruta": "¿Hay Bloqueos en Carreteras Hoy? Así las Autopistas de México…",
+          "descripcion": "¿Hay Bloqueos en Carreteras Hoy? Así las Autopistas de México el 29 de Julio 2026 - N+. ¿Hay Bloqueos en Carreteras Hoy? Así las Autopistas de México el 29 de Julio 2026 N+",
+          "recomendacion": "",
+          "fecha": "29 julio 2026 · 07:54 CST",
+          "fecha_iso": "2026-07-29T07:54:00-06:00",
+          "fuente": "N+",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTFpVREl6aHM4Q2xaR1Y0akw4LTZ1aEl1NlRQWDZCMWotdEVTWGdmbDgydTlRWXI0WmNsUFRlMWFBcnFwV2FKcUpBNHc4XzNTcS1lcGp5Z09ZMS1nQW44SkM2YVFJbkJ6Q1ZBQnB3c3pOenpfXzVyLTE1RGNkVzVoN0R2NlFtZ0JrZkRRNUVGM0owOExvS3hrTTJReW5LSjdIYkx6UlNveWVLOFVrQThKWFdhM2pYU0s3WEZQX21BYw?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        }
+      ]
+    },
+    {
+      "tipo": "cierre_parcial",
+      "color": "amarillo",
+      "icono": "🟡",
+      "label": "CIERRE PARCIAL / ACCIDENTES",
+      "col2": true,
+      "alertas": [
+        {
+          "id": "0c0f8faf",
+          "tipo": "cierre_parcial",
+          "ruta": "🚨Choque deja una persona sin v1d4 sobre la carretera #Toluca-#Palmillas…",
+          "descripcion": "🚨Choque deja una persona sin v1d4 sobre la carretera #Toluca-#Palmillas\n\nhttps://lajornadaestadodemexico.com/choque-deja-una-persona-sin-vida-sobre-la-carretera-toluca-palmillas/",
+          "recomendacion": "",
+          "fecha": "29 julio 2026 · 08:30 CST",
+          "fecha_iso": "2026-07-29T08:30:00-06:00",
+          "fuente": "Telegram @jornadaedomex",
+          "url": "https://t.me/jornadaedomex/11579",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 19.29,
+          "lon": -99.66
+        }
+      ]
+    }
+  ],
+  "para_mapa": [
+    {
+      "id": "0c0f8faf",
+      "tipo": "cierre_parcial",
+      "ruta": "🚨Choque deja una persona sin v1d4 sobre la carretera #Toluca-#Palmillas…",
+      "descripcion": "🚨Choque deja una persona sin v1d4 sobre la carretera #Toluca-#Palmillas\n\nhttps://lajornadaestadodemexico.com/choque-deja-una-persona-sin-vida-sobre-la-carretera-toluca-palmillas/",
+      "fecha": "29 julio 2026 · 08:30 CST",
+      "fuente": "Telegram @jornadaedomex",
+      "url": "https://t.me/jornadaedomex/11579",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 19.29,
+      "lon": -99.66
+    },
+    {
+      "id": "899e648e",
+      "tipo": "cierre_total",
+      "ruta": "Vuelca tráiler en la México-Cuernavaca durante la madrugada; sigue cerrado…",
+      "descripcion": "Vuelca tráiler en la México-Cuernavaca durante la madrugada; sigue cerrado el paso. Volcadura de tráiler con químico derramado paralizó la vía desde la madrugada; continúa cerrada a las 8:00 horas.",
+      "fecha": "29 julio 2026 · 08:28 CST",
+      "fuente": "Quadratin Morelos",
+      "url": "https://morelos.quadratin.com.mx/vuelca-trailer-en-la-mexico-cuernavaca-durante-la-madrugada-sigue-cerrado-el-paso/",
+      "dot_color": "#e74c3c",
+      "badge_txt": "CIERRE TOTAL",
+      "lat": 18.92,
+      "lon": -99.23
+    },
+    {
+      "id": "a1a30ce4",
+      "tipo": "cierre_total",
+      "ruta": "¿Qué Pasó en la México-Cuernavaca? Cierre en Ambos Sentidos por…",
+      "descripcion": "¿Qué Pasó en la México-Cuernavaca? Cierre en Ambos Sentidos por Volcadura de Tráiler - N+. ¿Qué Pasó en la México-Cuernavaca? Cierre en Ambos Sentidos por Volcadura de Tráiler N+",
+      "fecha": "29 julio 2026 · 07:08 CST",
+      "fuente": "N+",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUVNMLVJYYWZ1YVdGaGk5OE5jVFVGLU1vcU1RWWNLREFHVUY2aVZIMjl5UU0wcUY3TjJ0TnhLQXlsaGo0STZsMVliMi1wRG83SzVaUXFiVXZFek55QXhqU1RaSjl6c21hUmxTazZYdmJiQnoyRDYySVUzU3ZobUdqQnpGeklnbllzRXFsR2tWY0lQRGRGaE9ablJ5V1lHdGRrUTdSY1RTckZaZXBGQXludXdfVDhUUEpWNXVxSnRYTE5yM294b1pF?oc=5",
+      "dot_color": "#e74c3c",
+      "badge_txt": "CIERRE TOTAL",
+      "lat": 18.92,
+      "lon": -99.23
+    }
+  ]
 }
