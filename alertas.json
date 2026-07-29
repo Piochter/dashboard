@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-07-29T12:39:44.111490-06:00",
-  "ultima_actualizacion_legible": "29 de julio de 2026 · 12:39 CST",
-  "total": 11,
+  "ultima_actualizacion": "2026-07-29T13:59:16.779145-06:00",
+  "ultima_actualizacion_legible": "29 de julio de 2026 · 13:59 CST",
+  "total": 10,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
@@ -49,22 +49,6 @@
           "lon": -99.23
         },
         {
-          "id": "83c807f7",
-          "tipo": "cierre_total",
-          "ruta": "Supervisan zonas de riesgo por deslaves en carreteras…",
-          "descripcion": "Supervisan zonas de riesgo por deslaves en carreteras. En las estatales de Querétaro The post Supervisan zonas de riesgo por deslaves en carreteras appeared first on Quadratin Querétaro.",
-          "recomendacion": "",
-          "fecha": "29 julio 2026 · 09:00 CST",
-          "fecha_iso": "2026-07-29T09:00:00-06:00",
-          "fuente": "Quadratin Queretaro",
-          "url": "https://queretaro.quadratin.com.mx/supervisan-zonas-de-riesgo-por-deslaves-en-carreteras/",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL",
-          "lat": 20.59,
-          "lon": -100.39
-        },
-        {
           "id": "f4fd1a24",
           "tipo": "cierre_total",
           "ruta": "autopista México-Cuernavaca por volcadura de tráiler y derrame de químicos - Diario de Mor",
@@ -79,22 +63,6 @@
           "badge_txt": "CIERRE TOTAL",
           "lat": 18.67,
           "lon": -99.1
-        },
-        {
-          "id": "899e648e",
-          "tipo": "cierre_total",
-          "ruta": "Vuelca tráiler en la México-Cuernavaca durante la madrugada; sigue cerrado…",
-          "descripcion": "Vuelca tráiler en la México-Cuernavaca durante la madrugada; sigue cerrado el paso. Volcadura de tráiler con químico derramado paralizó la vía desde la madrugada; continúa cerrada a las 8:00 horas.",
-          "recomendacion": "",
-          "fecha": "29 julio 2026 · 08:28 CST",
-          "fecha_iso": "2026-07-29T08:28:00-06:00",
-          "fuente": "Quadratin Morelos",
-          "url": "https://morelos.quadratin.com.mx/vuelca-trailer-en-la-mexico-cuernavaca-durante-la-madrugada-sigue-cerrado-el-paso/",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL",
-          "lat": 18.92,
-          "lon": -99.23
         }
       ]
     },
@@ -128,6 +96,38 @@
       "label": "CIERRE PARCIAL / ACCIDENTES",
       "col2": true,
       "alertas": [
+        {
+          "id": "dc25871f",
+          "tipo": "cierre_parcial",
+          "ruta": "Camioneta cae a barranco en Oxchuc; conductor ileso por falla…",
+          "descripcion": "Camioneta cae a barranco en Oxchuc; conductor ileso por falla de frenos. TUXTLA GUTIÉRREZ, Chis., 29 de julio 2026.-Una camioneta del transporte público de pasajeros se precipitó al fondo de un barranco este miércoles sobre la carretera Oxchuc–Ocosingo, a la altura de la comunidad Ik’al Ajaw, luego de que el conductor perdiera el control del vehículo, presuntamente por una falla mecánica en los frenos. Pese a la […]",
+          "recomendacion": "",
+          "fecha": "29 julio 2026 · 13:46 CST",
+          "fecha_iso": "2026-07-29T13:46:00-06:00",
+          "fuente": "Quadratin Chiapas",
+          "url": "https://chiapas.quadratin.com.mx/sucesos/camioneta-cae-a-barranco-en-oxchuc-conductor-ileso-por-falla-de-frenos/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 16.75,
+          "lon": -93.12
+        },
+        {
+          "id": "6878d95c",
+          "tipo": "cierre_parcial",
+          "ruta": "Caos en la México-Cuernavaca: Limpieza de químicos tardará varias horas…",
+          "descripcion": "Caos en la México-Cuernavaca: Limpieza de químicos tardará varias horas y mantendrá el cierre vial - El Sol de México. Caos en la México-Cuernavaca: Limpieza de químicos tardará varias horas y mantendrá el cierre vial El Sol de México",
+          "recomendacion": "",
+          "fecha": "29 julio 2026 · 12:45 CST",
+          "fecha_iso": "2026-07-29T12:45:00-06:00",
+          "fuente": "El Sol de México",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYTdfb0JKX01aY2VDWmRXNHU3bGItalc3Z1VLNkZDUVNhN0p1MDhoc3p0YnFZSFJjcUZHUlJTQnY2N09NTjNzeUNkSEhqaU4ydUxFTWpJNjNnSzlLNW5nN2FVbDVXdEY3cldaM3RXUXJTUTZZN2F0bGFIWEZVOXljVXFsZ3VROHNqb1lhV2tPYmI0OGhabHpNTjZIREpCRlBLRk42ZWQxcnczQm50cjZTbkIwaC1BQlZuOXc?oc=5",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 18.92,
+          "lon": -99.23
+        },
         {
           "id": "3c4f21f7",
           "tipo": "cierre_parcial",
@@ -175,22 +175,6 @@
           "lon": -98.0
         },
         {
-          "id": "6878d95c",
-          "tipo": "cierre_parcial",
-          "ruta": "Caos en la México-Cuernavaca: Limpieza de químicos tardará varias horas…",
-          "descripcion": "Caos en la México-Cuernavaca: Limpieza de químicos tardará varias horas y mantendrá el cierre vial - El Sol de México. Caos en la México-Cuernavaca: Limpieza de químicos tardará varias horas y mantendrá el cierre vial El Sol de México",
-          "recomendacion": "",
-          "fecha": "29 julio 2026 · 09:33 CST",
-          "fecha_iso": "2026-07-29T09:33:00-06:00",
-          "fuente": "El Sol de México",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYTdfb0JKX01aY2VDWmRXNHU3bGItalc3Z1VLNkZDUVNhN0p1MDhoc3p0YnFZSFJjcUZHUlJTQnY2N09NTjNzeUNkSEhqaU4ydUxFTWpJNjNnSzlLNW5nN2FVbDVXdEY3cldaM3RXUXJTUTZZN2F0bGFIWEZVOXljVXFsZ3VROHNqb1lhV2tPYmI0OGhabHpNTjZIREpCRlBLRk42ZWQxcnczQm50cjZTbkIwaC1BQlZuOXc?oc=5",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 18.92,
-          "lon": -99.23
-        },
-        {
           "id": "0c0f8faf",
           "tipo": "cierre_parcial",
           "ruta": "🚨Choque deja una persona sin v1d4 sobre la carretera #Toluca-#Palmillas…",
@@ -210,6 +194,32 @@
     }
   ],
   "para_mapa": [
+    {
+      "id": "dc25871f",
+      "tipo": "cierre_parcial",
+      "ruta": "Camioneta cae a barranco en Oxchuc; conductor ileso por falla…",
+      "descripcion": "Camioneta cae a barranco en Oxchuc; conductor ileso por falla de frenos. TUXTLA GUTIÉRREZ, Chis., 29 de julio 2026.-Una camioneta del transporte público de pasajeros se precipitó al fondo de un barranco este miércoles sobre la carretera Oxchuc–Ocosingo, a la altura de la comunidad Ik’al Ajaw, luego de que el conductor perdiera el control del vehículo, presuntamente por una falla mecánica en los frenos. Pese a la […]",
+      "fecha": "29 julio 2026 · 13:46 CST",
+      "fuente": "Quadratin Chiapas",
+      "url": "https://chiapas.quadratin.com.mx/sucesos/camioneta-cae-a-barranco-en-oxchuc-conductor-ileso-por-falla-de-frenos/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 16.75,
+      "lon": -93.12
+    },
+    {
+      "id": "6878d95c",
+      "tipo": "cierre_parcial",
+      "ruta": "Caos en la México-Cuernavaca: Limpieza de químicos tardará varias horas…",
+      "descripcion": "Caos en la México-Cuernavaca: Limpieza de químicos tardará varias horas y mantendrá el cierre vial - El Sol de México. Caos en la México-Cuernavaca: Limpieza de químicos tardará varias horas y mantendrá el cierre vial El Sol de México",
+      "fecha": "29 julio 2026 · 12:45 CST",
+      "fuente": "El Sol de México",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYTdfb0JKX01aY2VDWmRXNHU3bGItalc3Z1VLNkZDUVNhN0p1MDhoc3p0YnFZSFJjcUZHUlJTQnY2N09NTjNzeUNkSEhqaU4ydUxFTWpJNjNnSzlLNW5nN2FVbDVXdEY3cldaM3RXUXJTUTZZN2F0bGFIWEZVOXljVXFsZ3VROHNqb1lhV2tPYmI0OGhabHpNTjZIREpCRlBLRk42ZWQxcnczQm50cjZTbkIwaC1BQlZuOXc?oc=5",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 18.92,
+      "lon": -99.23
+    },
     {
       "id": "8aa37f32",
       "tipo": "cierre_total",
@@ -263,32 +273,6 @@
       "lon": -98.0
     },
     {
-      "id": "6878d95c",
-      "tipo": "cierre_parcial",
-      "ruta": "Caos en la México-Cuernavaca: Limpieza de químicos tardará varias horas…",
-      "descripcion": "Caos en la México-Cuernavaca: Limpieza de químicos tardará varias horas y mantendrá el cierre vial - El Sol de México. Caos en la México-Cuernavaca: Limpieza de químicos tardará varias horas y mantendrá el cierre vial El Sol de México",
-      "fecha": "29 julio 2026 · 09:33 CST",
-      "fuente": "El Sol de México",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYTdfb0JKX01aY2VDWmRXNHU3bGItalc3Z1VLNkZDUVNhN0p1MDhoc3p0YnFZSFJjcUZHUlJTQnY2N09NTjNzeUNkSEhqaU4ydUxFTWpJNjNnSzlLNW5nN2FVbDVXdEY3cldaM3RXUXJTUTZZN2F0bGFIWEZVOXljVXFsZ3VROHNqb1lhV2tPYmI0OGhabHpNTjZIREpCRlBLRk42ZWQxcnczQm50cjZTbkIwaC1BQlZuOXc?oc=5",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 18.92,
-      "lon": -99.23
-    },
-    {
-      "id": "83c807f7",
-      "tipo": "cierre_total",
-      "ruta": "Supervisan zonas de riesgo por deslaves en carreteras…",
-      "descripcion": "Supervisan zonas de riesgo por deslaves en carreteras. En las estatales de Querétaro The post Supervisan zonas de riesgo por deslaves en carreteras appeared first on Quadratin Querétaro.",
-      "fecha": "29 julio 2026 · 09:00 CST",
-      "fuente": "Quadratin Queretaro",
-      "url": "https://queretaro.quadratin.com.mx/supervisan-zonas-de-riesgo-por-deslaves-en-carreteras/",
-      "dot_color": "#e74c3c",
-      "badge_txt": "CIERRE TOTAL",
-      "lat": 20.59,
-      "lon": -100.39
-    },
-    {
       "id": "f4fd1a24",
       "tipo": "cierre_total",
       "ruta": "autopista México-Cuernavaca por volcadura de tráiler y derrame de químicos - Diario de Mor",
@@ -313,19 +297,6 @@
       "badge_txt": "CIERRE PARCIAL",
       "lat": 19.29,
       "lon": -99.66
-    },
-    {
-      "id": "899e648e",
-      "tipo": "cierre_total",
-      "ruta": "Vuelca tráiler en la México-Cuernavaca durante la madrugada; sigue cerrado…",
-      "descripcion": "Vuelca tráiler en la México-Cuernavaca durante la madrugada; sigue cerrado el paso. Volcadura de tráiler con químico derramado paralizó la vía desde la madrugada; continúa cerrada a las 8:00 horas.",
-      "fecha": "29 julio 2026 · 08:28 CST",
-      "fuente": "Quadratin Morelos",
-      "url": "https://morelos.quadratin.com.mx/vuelca-trailer-en-la-mexico-cuernavaca-durante-la-madrugada-sigue-cerrado-el-paso/",
-      "dot_color": "#e74c3c",
-      "badge_txt": "CIERRE TOTAL",
-      "lat": 18.92,
-      "lon": -99.23
     }
   ]
 }
