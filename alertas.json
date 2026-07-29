@@ -1,6 +1,6 @@
 {
-  "ultima_actualizacion": "2026-07-29T14:55:13.872718-06:00",
-  "ultima_actualizacion_legible": "29 de julio de 2026 · 14:55 CST",
+  "ultima_actualizacion": "2026-07-29T15:50:46.819014-06:00",
+  "ultima_actualizacion_legible": "29 de julio de 2026 · 15:50 CST",
   "total": 6,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
@@ -15,6 +15,22 @@
       "label": "CIERRE TOTAL",
       "col2": false,
       "alertas": [
+        {
+          "id": "ce2a8cfc",
+          "tipo": "cierre_total",
+          "ruta": "Volcadura de tráiler con químicos provoca el cierre total de…",
+          "descripcion": "Volcadura de tráiler con químicos provoca el cierre total de la México-Cuernavaca - Noticias - Almomento. Volcadura de tráiler con químicos provoca el cierre total de la México-Cuernavaca Noticias - Almomento",
+          "recomendacion": "",
+          "fecha": "29 julio 2026 · 14:55 CST",
+          "fecha_iso": "2026-07-29T14:55:00-06:00",
+          "fuente": "Noticias - Almomento",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZGVId2dMNG1LUldKb0FyaldYYWtoQ3JrTFlaQUk3a2t0bzFlNXJlTEZUNWlhYlIzUlE3SU8yTHphVDlwOFlOc0Z1LUR3cFAyaEdvWkhPQU9ZMzdpNkRSdjlMbGxBWU5LWWlBZmVIOVJjSFNneXh5VjVwaVNnQ0V1SHJIQUxqQ2t5b280d1BKcHV0Nkl0VUgxdGJPQk1ZemZyS05XeERn?oc=5",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL",
+          "lat": 18.92,
+          "lon": -99.23
+        },
         {
           "id": "04464976",
           "tipo": "cierre_total",
@@ -80,22 +96,6 @@
       "col2": true,
       "alertas": [
         {
-          "id": "6878d95c",
-          "tipo": "cierre_parcial",
-          "ruta": "Caos en la México-Cuernavaca: Limpieza de químicos tardará varias horas…",
-          "descripcion": "Caos en la México-Cuernavaca: Limpieza de químicos tardará varias horas y mantendrá el cierre vial - El Sol de México. Caos en la México-Cuernavaca: Limpieza de químicos tardará varias horas y mantendrá el cierre vial El Sol de México",
-          "recomendacion": "",
-          "fecha": "29 julio 2026 · 12:45 CST",
-          "fecha_iso": "2026-07-29T12:45:00-06:00",
-          "fuente": "El Sol de México",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYTdfb0JKX01aY2VDWmRXNHU3bGItalc3Z1VLNkZDUVNhN0p1MDhoc3p0YnFZSFJjcUZHUlJTQnY2N09NTjNzeUNkSEhqaU4ydUxFTWpJNjNnSzlLNW5nN2FVbDVXdEY3cldaM3RXUXJTUTZZN2F0bGFIWEZVOXljVXFsZ3VROHNqb1lhV2tPYmI0OGhabHpNTjZIREpCRlBLRk42ZWQxcnczQm50cjZTbkIwaC1BQlZuOXc?oc=5",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 18.92,
-          "lon": -99.23
-        },
-        {
           "id": "f69e840d",
           "tipo": "cierre_parcial",
           "ruta": "🚨Accidente en la carretera Otumba-Ciudad Sahagún deja varios lesionados 👇…",
@@ -130,15 +130,15 @@
   ],
   "para_mapa": [
     {
-      "id": "6878d95c",
-      "tipo": "cierre_parcial",
-      "ruta": "Caos en la México-Cuernavaca: Limpieza de químicos tardará varias horas…",
-      "descripcion": "Caos en la México-Cuernavaca: Limpieza de químicos tardará varias horas y mantendrá el cierre vial - El Sol de México. Caos en la México-Cuernavaca: Limpieza de químicos tardará varias horas y mantendrá el cierre vial El Sol de México",
-      "fecha": "29 julio 2026 · 12:45 CST",
-      "fuente": "El Sol de México",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYTdfb0JKX01aY2VDWmRXNHU3bGItalc3Z1VLNkZDUVNhN0p1MDhoc3p0YnFZSFJjcUZHUlJTQnY2N09NTjNzeUNkSEhqaU4ydUxFTWpJNjNnSzlLNW5nN2FVbDVXdEY3cldaM3RXUXJTUTZZN2F0bGFIWEZVOXljVXFsZ3VROHNqb1lhV2tPYmI0OGhabHpNTjZIREpCRlBLRk42ZWQxcnczQm50cjZTbkIwaC1BQlZuOXc?oc=5",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
+      "id": "ce2a8cfc",
+      "tipo": "cierre_total",
+      "ruta": "Volcadura de tráiler con químicos provoca el cierre total de…",
+      "descripcion": "Volcadura de tráiler con químicos provoca el cierre total de la México-Cuernavaca - Noticias - Almomento. Volcadura de tráiler con químicos provoca el cierre total de la México-Cuernavaca Noticias - Almomento",
+      "fecha": "29 julio 2026 · 14:55 CST",
+      "fuente": "Noticias - Almomento",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZGVId2dMNG1LUldKb0FyaldYYWtoQ3JrTFlaQUk3a2t0bzFlNXJlTEZUNWlhYlIzUlE3SU8yTHphVDlwOFlOc0Z1LUR3cFAyaEdvWkhPQU9ZMzdpNkRSdjlMbGxBWU5LWWlBZmVIOVJjSFNneXh5VjVwaVNnQ0V1SHJIQUxqQ2t5b280d1BKcHV0Nkl0VUgxdGJPQk1ZemZyS05XeERn?oc=5",
+      "dot_color": "#e74c3c",
+      "badge_txt": "CIERRE TOTAL",
       "lat": 18.92,
       "lon": -99.23
     },
