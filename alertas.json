@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-07-29T10:08:54.687912-06:00",
-  "ultima_actualizacion_legible": "29 de julio de 2026 · 10:08 CST",
-  "total": 7,
+  "ultima_actualizacion": "2026-07-29T11:36:11.238215-06:00",
+  "ultima_actualizacion_legible": "29 de julio de 2026 · 11:36 CST",
+  "total": 10,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
@@ -16,6 +16,22 @@
       "label": "CIERRE TOTAL",
       "col2": false,
       "alertas": [
+        {
+          "id": "de2afcec",
+          "tipo": "cierre_total",
+          "ruta": "autopista México-Cuernavaca - Diario Evolución",
+          "descripcion": "Volcadura de tráiler con ácido muriático provoca cierre de la autopista México-Cuernavaca - Diario Evolución. Volcadura de tráiler con ácido muriático provoca cierre de la autopista México-Cuernavaca Diario Evolución",
+          "recomendacion": "",
+          "fecha": "29 julio 2026 · 10:16 CST",
+          "fecha_iso": "2026-07-29T10:16:00-06:00",
+          "fuente": "Diario Evolución",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcUh5SUk0aGk2LUNXV19LS2gxTU0tOXlLa0t4SnlDOGtPMjd0RmxkMUFMZlo1aFpkaEMtaWhCTGw2WTE4VVRBWDdoV1Q5OUkxUUp0TVB0WTd1alNlNHdLeXR1QnpTbGdFb0wwS0RPdjlNUFJjUXo5MUFNMTQxZ1pyWm5jaXo0TXM4bk0xWHJRNEtDeHc1RUJrM0JNTml3NlF0OGtWODZwV3RDZnd5Ny0zRFFObWhFNkp0NmNEU1NTYUlPWG8?oc=5",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL",
+          "lat": 18.92,
+          "lon": -99.23
+        },
         {
           "id": "83c807f7",
           "tipo": "cierre_total",
@@ -33,14 +49,14 @@
           "lon": -100.39
         },
         {
-          "id": "be813c55",
+          "id": "f4fd1a24",
           "tipo": "cierre_total",
-          "ruta": "autopista México-Cuernavaca por volcadura de tráiler y derrame de químicos - diariodemorel",
-          "descripcion": "Cierran totalmente la autopista México-Cuernavaca por volcadura de tráiler y derrame de químicos - diariodemorelos.com. Cierran totalmente la autopista México-Cuernavaca por volcadura de tráiler y derrame de químicos diariodemorelos.com",
+          "ruta": "autopista México-Cuernavaca por volcadura de tráiler y derrame de químicos - Diario de Mor",
+          "descripcion": "Cierran totalmente la autopista México-Cuernavaca por volcadura de tráiler y derrame de químicos - Diario de Morelos. Cierran totalmente la autopista México-Cuernavaca por volcadura de tráiler y derrame de químicos Diario de Morelos",
           "recomendacion": "",
           "fecha": "29 julio 2026 · 08:50 CST",
           "fecha_iso": "2026-07-29T08:50:00-06:00",
-          "fuente": "diariodemorelos.com",
+          "fuente": "Diario de Morelos",
           "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeHNWeV9LM1J4Y3o3NVlNX0hldVlmVldMNGhKWVlnM19ZamtTSy1yNkRfY0thXzNFSWVfNHpJVnNsbWo3WjA0RkVpV2JMa2ZGZm5odVR0ZkVfNTIzY1l6WjhUSWFKWEFNbGVubzJEMEZLeVNoWWdhbHVoU093N3lLLTZnYTJfNlI2ZGRuWEM2elVOblBYR3NCZDJsdWNzNUtzQlR0VXMtSlpfY3FONE1hYTNxeFFXTjlwdkV3LTk2NU1oUGZC0gHKAUFVX3lxTE5PZElNUk9scTRJWkdFX09zU0dra1djc2gyd200VlBkcmhwTDBvRFlLY0dybGduOGZpZ3ZTUXZvb0lmWXdMVjl6WHJrbTJFS2d0ak9OOEpYSnB1V3ZCSlhTcEE4YzkxTjVrTE13UEkwSVUyVlhjSjdjblNUY0VKNFREdGd3cXBBMGdjeGVTRC1TZXRDRVM5aHhjQWFnYVJaR241djJEMHliakZ5MXpMVVJ0bTdqUlhxaVB2UVNQZWtjV2gyeS0xQWJOYmc?oc=5",
           "dot_color": "#e74c3c",
           "badge": "badge-cierre-total",
@@ -97,6 +113,36 @@
       "col2": true,
       "alertas": [
         {
+          "id": "3c4f21f7",
+          "tipo": "cierre_parcial",
+          "ruta": "Muere un hombre en choque entre urvan y tractor en…",
+          "descripcion": "Muere un hombre en choque entre urvan y tractor en la Costa de Oaxaca. El accidente ocurrió sobre la carretera federal 200, a la altura de Bajos de Chila",
+          "recomendacion": "",
+          "fecha": "29 julio 2026 · 11:08 CST",
+          "fecha_iso": "2026-07-29T11:08:00-06:00",
+          "fuente": "Quadratin Oaxaca",
+          "url": "https://oaxaca.quadratin.com.mx/muere-un-hombre-en-choque-entre-urvan-y-tractor-en-la-costa-de-oaxaca/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 19.1,
+          "lon": -104.3
+        },
+        {
+          "id": "f69e840d",
+          "tipo": "cierre_parcial",
+          "ruta": "🚨Accidente en la carretera Otumba-Ciudad Sahagún deja varios lesionados 👇…",
+          "descripcion": "🚨Accidente en la carretera Otumba-Ciudad Sahagún deja varios lesionados 👇\n https://lajornadaestadodemexico.com/accidente-en-la-carretera-otumba-ciudad-sahagun-deja-varios-lesionados/",
+          "recomendacion": "",
+          "fecha": "29 julio 2026 · 11:08 CST",
+          "fecha_iso": "2026-07-29T11:08:00-06:00",
+          "fuente": "Telegram @jornadaedomex",
+          "url": "https://t.me/jornadaedomex/11582",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        },
+        {
           "id": "217caf7f",
           "tipo": "cierre_parcial",
           "ruta": "Muere un hombre y 5 heridos en choque en la…",
@@ -149,6 +195,32 @@
   ],
   "para_mapa": [
     {
+      "id": "3c4f21f7",
+      "tipo": "cierre_parcial",
+      "ruta": "Muere un hombre en choque entre urvan y tractor en…",
+      "descripcion": "Muere un hombre en choque entre urvan y tractor en la Costa de Oaxaca. El accidente ocurrió sobre la carretera federal 200, a la altura de Bajos de Chila",
+      "fecha": "29 julio 2026 · 11:08 CST",
+      "fuente": "Quadratin Oaxaca",
+      "url": "https://oaxaca.quadratin.com.mx/muere-un-hombre-en-choque-entre-urvan-y-tractor-en-la-costa-de-oaxaca/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 19.1,
+      "lon": -104.3
+    },
+    {
+      "id": "de2afcec",
+      "tipo": "cierre_total",
+      "ruta": "autopista México-Cuernavaca - Diario Evolución",
+      "descripcion": "Volcadura de tráiler con ácido muriático provoca cierre de la autopista México-Cuernavaca - Diario Evolución. Volcadura de tráiler con ácido muriático provoca cierre de la autopista México-Cuernavaca Diario Evolución",
+      "fecha": "29 julio 2026 · 10:16 CST",
+      "fuente": "Diario Evolución",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcUh5SUk0aGk2LUNXV19LS2gxTU0tOXlLa0t4SnlDOGtPMjd0RmxkMUFMZlo1aFpkaEMtaWhCTGw2WTE4VVRBWDdoV1Q5OUkxUUp0TVB0WTd1alNlNHdLeXR1QnpTbGdFb0wwS0RPdjlNUFJjUXo5MUFNMTQxZ1pyWm5jaXo0TXM4bk0xWHJRNEtDeHc1RUJrM0JNTml3NlF0OGtWODZwV3RDZnd5Ny0zRFFObWhFNkp0NmNEU1NTYUlPWG8?oc=5",
+      "dot_color": "#e74c3c",
+      "badge_txt": "CIERRE TOTAL",
+      "lat": 18.92,
+      "lon": -99.23
+    },
+    {
       "id": "217caf7f",
       "tipo": "cierre_parcial",
       "ruta": "Muere un hombre y 5 heridos en choque en la…",
@@ -188,12 +260,12 @@
       "lon": -100.39
     },
     {
-      "id": "be813c55",
+      "id": "f4fd1a24",
       "tipo": "cierre_total",
-      "ruta": "autopista México-Cuernavaca por volcadura de tráiler y derrame de químicos - diariodemorel",
-      "descripcion": "Cierran totalmente la autopista México-Cuernavaca por volcadura de tráiler y derrame de químicos - diariodemorelos.com. Cierran totalmente la autopista México-Cuernavaca por volcadura de tráiler y derrame de químicos diariodemorelos.com",
+      "ruta": "autopista México-Cuernavaca por volcadura de tráiler y derrame de químicos - Diario de Mor",
+      "descripcion": "Cierran totalmente la autopista México-Cuernavaca por volcadura de tráiler y derrame de químicos - Diario de Morelos. Cierran totalmente la autopista México-Cuernavaca por volcadura de tráiler y derrame de químicos Diario de Morelos",
       "fecha": "29 julio 2026 · 08:50 CST",
-      "fuente": "diariodemorelos.com",
+      "fuente": "Diario de Morelos",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeHNWeV9LM1J4Y3o3NVlNX0hldVlmVldMNGhKWVlnM19ZamtTSy1yNkRfY0thXzNFSWVfNHpJVnNsbWo3WjA0RkVpV2JMa2ZGZm5odVR0ZkVfNTIzY1l6WjhUSWFKWEFNbGVubzJEMEZLeVNoWWdhbHVoU093N3lLLTZnYTJfNlI2ZGRuWEM2elVOblBYR3NCZDJsdWNzNUtzQlR0VXMtSlpfY3FONE1hYTNxeFFXTjlwdkV3LTk2NU1oUGZC0gHKAUFVX3lxTE5PZElNUk9scTRJWkdFX09zU0dra1djc2gyd200VlBkcmhwTDBvRFlLY0dybGduOGZpZ3ZTUXZvb0lmWXdMVjl6WHJrbTJFS2d0ak9OOEpYSnB1V3ZCSlhTcEE4YzkxTjVrTE13UEkwSVUyVlhjSjdjblNUY0VKNFREdGd3cXBBMGdjeGVTRC1TZXRDRVM5aHhjQWFnYVJaR241djJEMHliakZ5MXpMVVJ0bTdqUlhxaVB2UVNQZWtjV2gyeS0xQWJOYmc?oc=5",
       "dot_color": "#e74c3c",
       "badge_txt": "CIERRE TOTAL",
