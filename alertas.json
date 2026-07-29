@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-07-29T16:51:54.384475-06:00",
-  "ultima_actualizacion_legible": "29 de julio de 2026 · 16:51 CST",
-  "total": 6,
+  "ultima_actualizacion": "2026-07-29T17:54:30.455275-06:00",
+  "ultima_actualizacion_legible": "29 de julio de 2026 · 17:54 CST",
+  "total": 7,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
@@ -62,6 +62,22 @@
           "badge_txt": "CIERRE TOTAL",
           "lat": 18.67,
           "lon": -99.1
+        },
+        {
+          "id": "22fc57d8",
+          "tipo": "cierre_total",
+          "ruta": "autopista México-Cuernavaca por volcadura de tráiler con ácido - UnoTV",
+          "descripcion": "Caos en la autopista México-Cuernavaca por volcadura de tráiler con ácido - UnoTV. Caos en la autopista México-Cuernavaca por volcadura de tráiler con ácido UnoTV",
+          "recomendacion": "",
+          "fecha": "29 julio 2026 · 07:06 CST",
+          "fecha_iso": "2026-07-29T07:06:00-06:00",
+          "fuente": "UnoTV",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNYkRZVGhCZzB1U054M1RyS3pSMDRqNTVDYkNTWnA1RC1hU3VRU0hYVFJZU3FSclhiM1NUc2dvX3BsclVES2dtdUxuLThUUERpTFhKMDA4REE4LVFnQ0tiLWd6djBPcDZkeEtfcWxNSHpULTBCNFo1c1VNODRJeWlVN2U5SDNHY2IxTXN0YXA1SFV0M3NHdHlmY0piZ0QyR0NTS3pJejV1OFg1RU80dURzY0N5aG5PVFNhb25mWE5Cc0k0dDZZam13?oc=5",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL",
+          "lat": 18.92,
+          "lon": -99.23
         }
       ]
     },
@@ -180,6 +196,19 @@
       "badge_txt": "CIERRE PARCIAL",
       "lat": 19.29,
       "lon": -99.66
+    },
+    {
+      "id": "22fc57d8",
+      "tipo": "cierre_total",
+      "ruta": "autopista México-Cuernavaca por volcadura de tráiler con ácido - UnoTV",
+      "descripcion": "Caos en la autopista México-Cuernavaca por volcadura de tráiler con ácido - UnoTV. Caos en la autopista México-Cuernavaca por volcadura de tráiler con ácido UnoTV",
+      "fecha": "29 julio 2026 · 07:06 CST",
+      "fuente": "UnoTV",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNYkRZVGhCZzB1U054M1RyS3pSMDRqNTVDYkNTWnA1RC1hU3VRU0hYVFJZU3FSclhiM1NUc2dvX3BsclVES2dtdUxuLThUUERpTFhKMDA4REE4LVFnQ0tiLWd6djBPcDZkeEtfcWxNSHpULTBCNFo1c1VNODRJeWlVN2U5SDNHY2IxTXN0YXA1SFV0M3NHdHlmY0piZ0QyR0NTS3pJejV1OFg1RU80dURzY0N5aG5PVFNhb25mWE5Cc0k0dDZZam13?oc=5",
+      "dot_color": "#e74c3c",
+      "badge_txt": "CIERRE TOTAL",
+      "lat": 18.92,
+      "lon": -99.23
     }
   ]
 }
