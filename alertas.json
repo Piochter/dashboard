@@ -1,11 +1,10 @@
 {
-  "ultima_actualizacion": "2026-07-29T13:59:16.779145-06:00",
-  "ultima_actualizacion_legible": "29 de julio de 2026 · 13:59 CST",
-  "total": 10,
+  "ultima_actualizacion": "2026-07-29T14:55:13.872718-06:00",
+  "ultima_actualizacion_legible": "29 de julio de 2026 · 14:55 CST",
+  "total": 6,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
-    "Quadratin + regionales",
     "Telegram"
   ],
   "grupos": [
@@ -17,31 +16,15 @@
       "col2": false,
       "alertas": [
         {
-          "id": "8aa37f32",
+          "id": "04464976",
           "tipo": "cierre_total",
-          "ruta": "Cierran la México-Cuernavaca tras volcadura de tráiler con cargamento de…",
-          "descripcion": "Cierran la México-Cuernavaca tras volcadura de tráiler con cargamento de ácido altamente corrosivo - Milenio. Cierran la México-Cuernavaca tras volcadura de tráiler con cargamento de ácido altamente corrosivo Milenio",
+          "ruta": "autopista México-Cuernavaca - Milenio",
+          "descripcion": "Volcadura de tráiler con ácido muriático provoca cierre total en la autopista México-Cuernavaca - Milenio. Volcadura de tráiler con ácido muriático provoca cierre total en la autopista México-Cuernavaca Milenio",
           "recomendacion": "",
           "fecha": "29 julio 2026 · 11:33 CST",
           "fecha_iso": "2026-07-29T11:33:00-06:00",
           "fuente": "Milenio",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQd3lGblZFVUxfZlI3N0Z1d3BXWjdmZmVNNlpTTzF0WGRaLVZYd0pnZEh2NjItSG8wWVYteXFnQW04aHpmRzFaVm15cXRXMHV5OXFYenoxTmFwM2R2aXlGTjBXcTIyQndxdHlGbm5lS0tXMktiNVBDT180ckgzcEwzTmFvZUU5Z0IzWW43ME5lMkswbTJvS1I2RGNVRdIBmwFBVV95cUxPdWd6UmI3YWRMZzYwNlFIX19idHZHMGFEVF9OYzlNN3FwUy1EZTFnZldaV0FEX1lFQkVxdC1nTFYwSmVMdW9MblVpOWFVdlZIVDRNSS1WSGtxbWQ5Ni1vLS1Id0NGN2ltTUt3V1VPQVlXNlJXcWlZTnJyb0VTNFlGbFZFNTVDLVp0OFVjQjRKTWVkTFNTTzJkd0UtUQ?oc=5",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL",
-          "lat": 18.92,
-          "lon": -99.23
-        },
-        {
-          "id": "de2afcec",
-          "tipo": "cierre_total",
-          "ruta": "autopista México-Cuernavaca - Diario Evolución",
-          "descripcion": "Volcadura de tráiler con ácido muriático provoca cierre de la autopista México-Cuernavaca - Diario Evolución. Volcadura de tráiler con ácido muriático provoca cierre de la autopista México-Cuernavaca Diario Evolución",
-          "recomendacion": "",
-          "fecha": "29 julio 2026 · 10:16 CST",
-          "fecha_iso": "2026-07-29T10:16:00-06:00",
-          "fuente": "Diario Evolución",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcUh5SUk0aGk2LUNXV19LS2gxTU0tOXlLa0t4SnlDOGtPMjd0RmxkMUFMZlo1aFpkaEMtaWhCTGw2WTE4VVRBWDdoV1Q5OUkxUUp0TVB0WTd1alNlNHdLeXR1QnpTbGdFb0wwS0RPdjlNUFJjUXo5MUFNMTQxZ1pyWm5jaXo0TXM4bk0xWHJRNEtDeHc1RUJrM0JNTml3NlF0OGtWODZwV3RDZnd5Ny0zRFFObWhFNkp0NmNEU1NTYUlPWG8?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdWd6UmI3YWRMZzYwNlFIX19idHZHMGFEVF9OYzlNN3FwUy1EZTFnZldaV0FEX1lFQkVxdC1nTFYwSmVMdW9MblVpOWFVdlZIVDRNSS1WSGtxbWQ5Ni1vLS1Id0NGN2ltTUt3V1VPQVlXNlJXcWlZTnJyb0VTNFlGbFZFNTVDLVp0OFVjQjRKTWVkTFNTTzJkd0UtUdIBmwFBVV95cUxPdWd6UmI3YWRMZzYwNlFIX19idHZHMGFEVF9OYzlNN3FwUy1EZTFnZldaV0FEX1lFQkVxdC1nTFYwSmVMdW9MblVpOWFVdlZIVDRNSS1WSGtxbWQ5Ni1vLS1Id0NGN2ltTUt3V1VPQVlXNlJXcWlZTnJyb0VTNFlGbFZFNTVDLVp0OFVjQjRKTWVkTFNTTzJkd0UtUQ?oc=5",
           "dot_color": "#e74c3c",
           "badge": "badge-cierre-total",
           "badge_txt": "CIERRE TOTAL",
@@ -97,22 +80,6 @@
       "col2": true,
       "alertas": [
         {
-          "id": "dc25871f",
-          "tipo": "cierre_parcial",
-          "ruta": "Camioneta cae a barranco en Oxchuc; conductor ileso por falla…",
-          "descripcion": "Camioneta cae a barranco en Oxchuc; conductor ileso por falla de frenos. TUXTLA GUTIÉRREZ, Chis., 29 de julio 2026.-Una camioneta del transporte público de pasajeros se precipitó al fondo de un barranco este miércoles sobre la carretera Oxchuc–Ocosingo, a la altura de la comunidad Ik’al Ajaw, luego de que el conductor perdiera el control del vehículo, presuntamente por una falla mecánica en los frenos. Pese a la […]",
-          "recomendacion": "",
-          "fecha": "29 julio 2026 · 13:46 CST",
-          "fecha_iso": "2026-07-29T13:46:00-06:00",
-          "fuente": "Quadratin Chiapas",
-          "url": "https://chiapas.quadratin.com.mx/sucesos/camioneta-cae-a-barranco-en-oxchuc-conductor-ileso-por-falla-de-frenos/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 16.75,
-          "lon": -93.12
-        },
-        {
           "id": "6878d95c",
           "tipo": "cierre_parcial",
           "ruta": "Caos en la México-Cuernavaca: Limpieza de químicos tardará varias horas…",
@@ -129,22 +96,6 @@
           "lon": -99.23
         },
         {
-          "id": "3c4f21f7",
-          "tipo": "cierre_parcial",
-          "ruta": "Muere un hombre en choque entre urvan y tractor en…",
-          "descripcion": "Muere un hombre en choque entre urvan y tractor en la Costa de Oaxaca. El accidente ocurrió sobre la carretera federal 200, a la altura de Bajos de Chila",
-          "recomendacion": "",
-          "fecha": "29 julio 2026 · 11:08 CST",
-          "fecha_iso": "2026-07-29T11:08:00-06:00",
-          "fuente": "Quadratin Oaxaca",
-          "url": "https://oaxaca.quadratin.com.mx/muere-un-hombre-en-choque-entre-urvan-y-tractor-en-la-costa-de-oaxaca/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.1,
-          "lon": -104.3
-        },
-        {
           "id": "f69e840d",
           "tipo": "cierre_parcial",
           "ruta": "🚨Accidente en la carretera Otumba-Ciudad Sahagún deja varios lesionados 👇…",
@@ -157,22 +108,6 @@
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL"
-        },
-        {
-          "id": "217caf7f",
-          "tipo": "cierre_parcial",
-          "ruta": "Muere un hombre y 5 heridos en choque en la…",
-          "descripcion": "Muere un hombre y 5 heridos en choque en la Puebla-Tehuacán. Choque entre autobús y tractocamión deja un muerto en Amozoc.",
-          "recomendacion": "",
-          "fecha": "29 julio 2026 · 09:47 CST",
-          "fecha_iso": "2026-07-29T09:47:00-06:00",
-          "fuente": "Quadratin Puebla",
-          "url": "https://puebla.quadratin.com.mx/sucesos/muere-un-hombre-y-5-heridos-en-choque-en-la-puebla-tehuacan/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.1,
-          "lon": -98.0
         },
         {
           "id": "0c0f8faf",
@@ -195,19 +130,6 @@
   ],
   "para_mapa": [
     {
-      "id": "dc25871f",
-      "tipo": "cierre_parcial",
-      "ruta": "Camioneta cae a barranco en Oxchuc; conductor ileso por falla…",
-      "descripcion": "Camioneta cae a barranco en Oxchuc; conductor ileso por falla de frenos. TUXTLA GUTIÉRREZ, Chis., 29 de julio 2026.-Una camioneta del transporte público de pasajeros se precipitó al fondo de un barranco este miércoles sobre la carretera Oxchuc–Ocosingo, a la altura de la comunidad Ik’al Ajaw, luego de que el conductor perdiera el control del vehículo, presuntamente por una falla mecánica en los frenos. Pese a la […]",
-      "fecha": "29 julio 2026 · 13:46 CST",
-      "fuente": "Quadratin Chiapas",
-      "url": "https://chiapas.quadratin.com.mx/sucesos/camioneta-cae-a-barranco-en-oxchuc-conductor-ileso-por-falla-de-frenos/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 16.75,
-      "lon": -93.12
-    },
-    {
       "id": "6878d95c",
       "tipo": "cierre_parcial",
       "ruta": "Caos en la México-Cuernavaca: Limpieza de químicos tardará varias horas…",
@@ -221,56 +143,17 @@
       "lon": -99.23
     },
     {
-      "id": "8aa37f32",
+      "id": "04464976",
       "tipo": "cierre_total",
-      "ruta": "Cierran la México-Cuernavaca tras volcadura de tráiler con cargamento de…",
-      "descripcion": "Cierran la México-Cuernavaca tras volcadura de tráiler con cargamento de ácido altamente corrosivo - Milenio. Cierran la México-Cuernavaca tras volcadura de tráiler con cargamento de ácido altamente corrosivo Milenio",
+      "ruta": "autopista México-Cuernavaca - Milenio",
+      "descripcion": "Volcadura de tráiler con ácido muriático provoca cierre total en la autopista México-Cuernavaca - Milenio. Volcadura de tráiler con ácido muriático provoca cierre total en la autopista México-Cuernavaca Milenio",
       "fecha": "29 julio 2026 · 11:33 CST",
       "fuente": "Milenio",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQd3lGblZFVUxfZlI3N0Z1d3BXWjdmZmVNNlpTTzF0WGRaLVZYd0pnZEh2NjItSG8wWVYteXFnQW04aHpmRzFaVm15cXRXMHV5OXFYenoxTmFwM2R2aXlGTjBXcTIyQndxdHlGbm5lS0tXMktiNVBDT180ckgzcEwzTmFvZUU5Z0IzWW43ME5lMkswbTJvS1I2RGNVRdIBmwFBVV95cUxPdWd6UmI3YWRMZzYwNlFIX19idHZHMGFEVF9OYzlNN3FwUy1EZTFnZldaV0FEX1lFQkVxdC1nTFYwSmVMdW9MblVpOWFVdlZIVDRNSS1WSGtxbWQ5Ni1vLS1Id0NGN2ltTUt3V1VPQVlXNlJXcWlZTnJyb0VTNFlGbFZFNTVDLVp0OFVjQjRKTWVkTFNTTzJkd0UtUQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdWd6UmI3YWRMZzYwNlFIX19idHZHMGFEVF9OYzlNN3FwUy1EZTFnZldaV0FEX1lFQkVxdC1nTFYwSmVMdW9MblVpOWFVdlZIVDRNSS1WSGtxbWQ5Ni1vLS1Id0NGN2ltTUt3V1VPQVlXNlJXcWlZTnJyb0VTNFlGbFZFNTVDLVp0OFVjQjRKTWVkTFNTTzJkd0UtUdIBmwFBVV95cUxPdWd6UmI3YWRMZzYwNlFIX19idHZHMGFEVF9OYzlNN3FwUy1EZTFnZldaV0FEX1lFQkVxdC1nTFYwSmVMdW9MblVpOWFVdlZIVDRNSS1WSGtxbWQ5Ni1vLS1Id0NGN2ltTUt3V1VPQVlXNlJXcWlZTnJyb0VTNFlGbFZFNTVDLVp0OFVjQjRKTWVkTFNTTzJkd0UtUQ?oc=5",
       "dot_color": "#e74c3c",
       "badge_txt": "CIERRE TOTAL",
       "lat": 18.92,
       "lon": -99.23
-    },
-    {
-      "id": "3c4f21f7",
-      "tipo": "cierre_parcial",
-      "ruta": "Muere un hombre en choque entre urvan y tractor en…",
-      "descripcion": "Muere un hombre en choque entre urvan y tractor en la Costa de Oaxaca. El accidente ocurrió sobre la carretera federal 200, a la altura de Bajos de Chila",
-      "fecha": "29 julio 2026 · 11:08 CST",
-      "fuente": "Quadratin Oaxaca",
-      "url": "https://oaxaca.quadratin.com.mx/muere-un-hombre-en-choque-entre-urvan-y-tractor-en-la-costa-de-oaxaca/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.1,
-      "lon": -104.3
-    },
-    {
-      "id": "de2afcec",
-      "tipo": "cierre_total",
-      "ruta": "autopista México-Cuernavaca - Diario Evolución",
-      "descripcion": "Volcadura de tráiler con ácido muriático provoca cierre de la autopista México-Cuernavaca - Diario Evolución. Volcadura de tráiler con ácido muriático provoca cierre de la autopista México-Cuernavaca Diario Evolución",
-      "fecha": "29 julio 2026 · 10:16 CST",
-      "fuente": "Diario Evolución",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcUh5SUk0aGk2LUNXV19LS2gxTU0tOXlLa0t4SnlDOGtPMjd0RmxkMUFMZlo1aFpkaEMtaWhCTGw2WTE4VVRBWDdoV1Q5OUkxUUp0TVB0WTd1alNlNHdLeXR1QnpTbGdFb0wwS0RPdjlNUFJjUXo5MUFNMTQxZ1pyWm5jaXo0TXM4bk0xWHJRNEtDeHc1RUJrM0JNTml3NlF0OGtWODZwV3RDZnd5Ny0zRFFObWhFNkp0NmNEU1NTYUlPWG8?oc=5",
-      "dot_color": "#e74c3c",
-      "badge_txt": "CIERRE TOTAL",
-      "lat": 18.92,
-      "lon": -99.23
-    },
-    {
-      "id": "217caf7f",
-      "tipo": "cierre_parcial",
-      "ruta": "Muere un hombre y 5 heridos en choque en la…",
-      "descripcion": "Muere un hombre y 5 heridos en choque en la Puebla-Tehuacán. Choque entre autobús y tractocamión deja un muerto en Amozoc.",
-      "fecha": "29 julio 2026 · 09:47 CST",
-      "fuente": "Quadratin Puebla",
-      "url": "https://puebla.quadratin.com.mx/sucesos/muere-un-hombre-y-5-heridos-en-choque-en-la-puebla-tehuacan/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.1,
-      "lon": -98.0
     },
     {
       "id": "f4fd1a24",
