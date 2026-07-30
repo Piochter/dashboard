@@ -1,11 +1,13 @@
 {
-  "ultima_actualizacion": "2026-07-30T12:14:48.967430-06:00",
-  "ultima_actualizacion_legible": "30 de julio de 2026 · 12:14 CST",
-  "total": 5,
+  "ultima_actualizacion": "2026-07-30T13:53:12.272003-06:00",
+  "ultima_actualizacion_legible": "30 de julio de 2026 · 13:53 CST",
+  "total": 7,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
-    "Medios nacionales"
+    "Medios nacionales",
+    "Medios regionales",
+    "Telegram"
   ],
   "grupos": [
     {
@@ -15,6 +17,36 @@
       "label": "CIERRE TOTAL",
       "col2": false,
       "alertas": [
+        {
+          "id": "76de85af",
+          "tipo": "cierre_total",
+          "ruta": "Intensas lluvias inundan las casas de más de 150 familias…",
+          "descripcion": "Intensas lluvias inundan las casas de más de 150 familias en Mazatlán\nhttps://www.jornada.com.mx/2026/07/30/estados/027n1est?partner=rss\n\nMazatlán, Sin., Unas 150 familias perdieron su patrimonio a consecuencia de las torrenciales lluvias en el puerto, ayer en la madrugada, las cuales dejaron 161 litros de agua por metro cuadrado, con inundaciones que alcanzaron más de un metro de altura en el ejido Urías. La emergencia provocó severos daños materiales, colapsó vialidades, por lo que el Ejército",
+          "recomendacion": "",
+          "fecha": "30 julio 2026 · 13:09 CST",
+          "fecha_iso": "2026-07-30T13:09:00-06:00",
+          "fuente": "Telegram @NOTMEX",
+          "url": "https://t.me/NOTMEX/184967",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL",
+          "lat": 21.0,
+          "lon": -104.0
+        },
+        {
+          "id": "c63b502d",
+          "tipo": "cierre_total",
+          "ruta": "carretera Irapuato-Abasolo genera tres horas de tráfico pesado",
+          "descripcion": "Volcadura en la carretera Irapuato-Abasolo genera tres horas de tráfico pesado. El chofer fue hospitalizado tras volcar en el carril de alta velocidad; la mercancía terminó regada sobre el asfalto.",
+          "recomendacion": "",
+          "fecha": "30 julio 2026 · 12:19 CST",
+          "fecha_iso": "2026-07-30T12:19:00-06:00",
+          "fuente": "AM Guanajuato",
+          "url": "https://www.am.com.mx/irapuato/2026/07/30/volcadura-en-la-carretera-irapuato-abasolo-genera-tres-horas-de-trafico-pesado-1825710.html",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL"
+        },
         {
           "id": "57cfee21",
           "tipo": "cierre_total",
@@ -98,14 +130,14 @@
       "col2": true,
       "alertas": [
         {
-          "id": "c1e18a99",
+          "id": "45489250",
           "tipo": "cierre_parcial",
           "ruta": "Accidentes en Carreteras de Puebla Hoy: Cierres Viales y Tráfico…",
-          "descripcion": "Accidentes en Carreteras de Puebla Hoy: Cierres Viales y Tráfico Lento - N+. Accidentes en Carreteras de Puebla Hoy: Cierres Viales y Tráfico Lento N+",
+          "descripcion": "Accidentes en Carreteras de Puebla Hoy: Cierres Viales y Tráfico Lento - nmas.com.mx. Accidentes en Carreteras de Puebla Hoy: Cierres Viales y Tráfico Lento nmas.com.mx",
           "recomendacion": "",
           "fecha": "30 julio 2026 · 11:43 CST",
           "fecha_iso": "2026-07-30T11:43:00-06:00",
-          "fuente": "N+",
+          "fuente": "nmas.com.mx",
           "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQcnItUU12QTVDRzZvckVLTHVTbmowVjViV2JwVlRQUVc2WEk3OUFYNmUzMTVwanlzNFpGSC1yVmpNMzFFU1FxRUQ0TzZzRkNFM3Zvb3MxNTBKVkw5YVJYdE5ucnNFaXFVamNTcDBmQU5xTndCcjNtSW9KdUl0emZLYXNqOEJCdkE5Nm1ReTNEWS1ncmpkajhaeWNrLVJTc0NQNlg3cnk1aXE1QnZaaThWZDRkaHJQallXVVhDem1QRVJMbGV6bzdwcXk5aFROVVBLV2UwMUdzdHpBZmhFQmhtTGtB?oc=5",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
@@ -118,12 +150,25 @@
   ],
   "para_mapa": [
     {
-      "id": "c1e18a99",
+      "id": "76de85af",
+      "tipo": "cierre_total",
+      "ruta": "Intensas lluvias inundan las casas de más de 150 familias…",
+      "descripcion": "Intensas lluvias inundan las casas de más de 150 familias en Mazatlán\nhttps://www.jornada.com.mx/2026/07/30/estados/027n1est?partner=rss\n\nMazatlán, Sin., Unas 150 familias perdieron su patrimonio a consecuencia de las torrenciales lluvias en el puerto, ayer en la madrugada, las cuales dejaron 161 litros de agua por metro cuadrado, con inundaciones que alcanzaron más de un metro de altura en el ejido Urías. La emergencia provocó severos daños materiales, colapsó vialidades, por lo que el Ejército",
+      "fecha": "30 julio 2026 · 13:09 CST",
+      "fuente": "Telegram @NOTMEX",
+      "url": "https://t.me/NOTMEX/184967",
+      "dot_color": "#e74c3c",
+      "badge_txt": "CIERRE TOTAL",
+      "lat": 21.0,
+      "lon": -104.0
+    },
+    {
+      "id": "45489250",
       "tipo": "cierre_parcial",
       "ruta": "Accidentes en Carreteras de Puebla Hoy: Cierres Viales y Tráfico…",
-      "descripcion": "Accidentes en Carreteras de Puebla Hoy: Cierres Viales y Tráfico Lento - N+. Accidentes en Carreteras de Puebla Hoy: Cierres Viales y Tráfico Lento N+",
+      "descripcion": "Accidentes en Carreteras de Puebla Hoy: Cierres Viales y Tráfico Lento - nmas.com.mx. Accidentes en Carreteras de Puebla Hoy: Cierres Viales y Tráfico Lento nmas.com.mx",
       "fecha": "30 julio 2026 · 11:43 CST",
-      "fuente": "N+",
+      "fuente": "nmas.com.mx",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQcnItUU12QTVDRzZvckVLTHVTbmowVjViV2JwVlRQUVc2WEk3OUFYNmUzMTVwanlzNFpGSC1yVmpNMzFFU1FxRUQ0TzZzRkNFM3Zvb3MxNTBKVkw5YVJYdE5ucnNFaXFVamNTcDBmQU5xTndCcjNtSW9KdUl0emZLYXNqOEJCdkE5Nm1ReTNEWS1ncmpkajhaeWNrLVJTc0NQNlg3cnk1aXE1QnZaaThWZDRkaHJQallXVVhDem1QRVJMbGV6bzdwcXk5aFROVVBLV2UwMUdzdHpBZmhFQmhtTGtB?oc=5",
       "dot_color": "#e67e22",
       "badge_txt": "CIERRE PARCIAL",
