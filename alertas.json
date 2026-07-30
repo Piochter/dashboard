@@ -1,6 +1,6 @@
 {
-  "ultima_actualizacion": "2026-07-30T03:42:14.147136-06:00",
-  "ultima_actualizacion_legible": "30 de julio de 2026 · 03:42 CST",
+  "ultima_actualizacion": "2026-07-30T05:33:17.876493-06:00",
+  "ultima_actualizacion_legible": "30 de julio de 2026 · 05:33 CST",
   "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
@@ -16,14 +16,14 @@
       "col2": false,
       "alertas": [
         {
-          "id": "e4f223e4",
+          "id": "3d11ca84",
           "tipo": "cierre_total",
-          "ruta": "autopista México-Cuernavaca - tvazteca",
-          "descripcion": "Volcadura de tráiler con peligrosos químicos provoca el cierre en la autopista México-Cuernavaca - tvazteca.com. Volcadura de tráiler con peligrosos químicos provoca el cierre en la autopista México-Cuernavaca tvazteca.com",
+          "ruta": "autopista México-Cuernavaca - TV Azteca",
+          "descripcion": "Volcadura de tráiler con peligrosos químicos provoca el cierre en la autopista México-Cuernavaca - TV Azteca. Volcadura de tráiler con peligrosos químicos provoca el cierre en la autopista México-Cuernavaca TV Azteca",
           "recomendacion": "",
           "fecha": "29 julio 2026 · 20:57 CST",
           "fecha_iso": "2026-07-29T20:57:00-06:00",
-          "fuente": "tvazteca.com",
+          "fuente": "TV Azteca",
           "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQam1kc2VTZjZseHpUSEl5N3BKMmYzQ2NJZlE1M1JtOUEweTBzVDkyV1lPeUZSYlVyNUhVLTZiOHF2SUJ6OVpmR0wxV1ZqUl8xQWUxYzZ6N2V6WWoyeWdtbEprMVV4OUo4RHBMaUlnMHNrbnJudFRNdk1lekVkaFBtbHZJdHpYcTlLZXFIWTA4bHlSSGdxcjBSNE1DOGVHNUdSU3lhVGxxaUgzUzBuaC1qSmdEaHdGRlpyOUVScVpkaTZVaWJmalBMMFBtc19ZVzZuS0hMUzREONIB1wFBVV95cUxQam1kc2VTZjZseHpUSEl5N3BKMmYzQ2NJZlE1M1JtOUEweTBzVDkyV1lPeUZSYlVyNUhVLTZiOHF2SUJ6OVpmR0wxV1ZqUl8xQWUxYzZ6N2V6WWoyeWdtbEprMVV4OUo4RHBMaUlnMHNrbnJudFRNdk1lekVkaFBtbHZJdHpYcTlLZXFIWTA4bHlSSGdxcjBSNE1DOGVHNUdSU3lhVGxxaUgzUzBuaC1qSmdEaHdGRlpyOUVScVpkaTZVaWJmalBMMFBtc19ZVzZuS0hMUzREOA?oc=5",
           "dot_color": "#e74c3c",
           "badge": "badge-cierre-total",
@@ -61,12 +61,12 @@
   ],
   "para_mapa": [
     {
-      "id": "e4f223e4",
+      "id": "3d11ca84",
       "tipo": "cierre_total",
-      "ruta": "autopista México-Cuernavaca - tvazteca",
-      "descripcion": "Volcadura de tráiler con peligrosos químicos provoca el cierre en la autopista México-Cuernavaca - tvazteca.com. Volcadura de tráiler con peligrosos químicos provoca el cierre en la autopista México-Cuernavaca tvazteca.com",
+      "ruta": "autopista México-Cuernavaca - TV Azteca",
+      "descripcion": "Volcadura de tráiler con peligrosos químicos provoca el cierre en la autopista México-Cuernavaca - TV Azteca. Volcadura de tráiler con peligrosos químicos provoca el cierre en la autopista México-Cuernavaca TV Azteca",
       "fecha": "29 julio 2026 · 20:57 CST",
-      "fuente": "tvazteca.com",
+      "fuente": "TV Azteca",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQam1kc2VTZjZseHpUSEl5N3BKMmYzQ2NJZlE1M1JtOUEweTBzVDkyV1lPeUZSYlVyNUhVLTZiOHF2SUJ6OVpmR0wxV1ZqUl8xQWUxYzZ6N2V6WWoyeWdtbEprMVV4OUo4RHBMaUlnMHNrbnJudFRNdk1lekVkaFBtbHZJdHpYcTlLZXFIWTA4bHlSSGdxcjBSNE1DOGVHNUdSU3lhVGxxaUgzUzBuaC1qSmdEaHdGRlpyOUVScVpkaTZVaWJmalBMMFBtc19ZVzZuS0hMUzREONIB1wFBVV95cUxQam1kc2VTZjZseHpUSEl5N3BKMmYzQ2NJZlE1M1JtOUEweTBzVDkyV1lPeUZSYlVyNUhVLTZiOHF2SUJ6OVpmR0wxV1ZqUl8xQWUxYzZ6N2V6WWoyeWdtbEprMVV4OUo4RHBMaUlnMHNrbnJudFRNdk1lekVkaFBtbHZJdHpYcTlLZXFIWTA4bHlSSGdxcjBSNE1DOGVHNUdSU3lhVGxxaUgzUzBuaC1qSmdEaHdGRlpyOUVScVpkaTZVaWJmalBMMFBtc19ZVzZuS0hMUzREOA?oc=5",
       "dot_color": "#e74c3c",
       "badge_txt": "CIERRE TOTAL",
