@@ -1,11 +1,11 @@
 {
-  "ultima_actualizacion": "2026-07-30T16:01:55.118479-06:00",
-  "ultima_actualizacion_legible": "30 de julio de 2026 · 16:01 CST",
-  "total": 6,
+  "ultima_actualizacion": "2026-07-30T17:17:59.863391-06:00",
+  "ultima_actualizacion_legible": "30 de julio de 2026 · 17:17 CST",
+  "total": 7,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
-    "Medios nacionales",
+    "Quadratin + regionales",
     "Telegram"
   ],
   "grupos": [
@@ -33,52 +33,20 @@
           "lon": -104.0
         },
         {
-          "id": "57cfee21",
-          "tipo": "cierre_total",
-          "ruta": "autopista México-Pachuca",
-          "descripcion": "Volcadura de camionetas con alimentos colapsa la autopista México-Pachuca. La volcadura de dos camionetas que transportaban alimentos provocó severas afectaciones a la circulación sobre la autopista México-Pachuca.",
-          "recomendacion": "",
-          "fecha": "30 julio 2026 · 09:38 CST",
-          "fecha_iso": "2026-07-30T09:38:00-06:00",
-          "fuente": "24 Horas",
-          "url": "https://24-horas.mx/estados/volcadura-de-camionetas-con-alimentos-colapsa-la-autopista-mexico-pachuca/",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL",
-          "lat": 20.12,
-          "lon": -98.73
-        },
-        {
-          "id": "9ed66273",
+          "id": "9eb0b240",
           "tipo": "cierre_total",
           "ruta": "Volcadura de tractocamión paraliza la México-Cuernavaca por más de 12…",
-          "descripcion": "Volcadura de tractocamión paraliza la México-Cuernavaca por más de 12 horas - lajornadamorelos.mx. Volcadura de tractocamión paraliza la México-Cuernavaca por más de 12 horas lajornadamorelos.mx",
+          "descripcion": "Volcadura de tractocamión paraliza la México-Cuernavaca por más de 12 horas - La Jornada Morelos. Volcadura de tractocamión paraliza la México-Cuernavaca por más de 12 horas La Jornada Morelos",
           "recomendacion": "",
           "fecha": "30 julio 2026 · 06:02 CST",
           "fecha_iso": "2026-07-30T06:02:00-06:00",
-          "fuente": "lajornadamorelos.mx",
+          "fuente": "La Jornada Morelos",
           "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPLXpMMnFOQ1R6RUdEUEZGQ01iMTZ0TC03cFEwRjNVNmpvaWtTX0l4cmFQekEtLXBVU205S1F4SmFHTVFJcHkzNk5Nemc0V3dMdHdJM05kenRJWTZDbkFLdnlRdXBibTAtZnpzckFZdU9WaEVhcFFxNGttSnplU3NJMzJETWR1VkZ0aE15NUJOcE1Gdy10QlJUUV9vYW5yLUQ3YUg5NHZvdHFqSUZUWWkxbUk4T25JbTk5eHpSR3Ftb05jRnA3V2NZUw?oc=5",
           "dot_color": "#e74c3c",
           "badge": "badge-cierre-total",
           "badge_txt": "CIERRE TOTAL",
           "lat": 18.67,
           "lon": -99.1
-        },
-        {
-          "id": "f4214a7a",
-          "tipo": "cierre_total",
-          "ruta": "Intensas lluvias inundan las casas de más de 150 familias…",
-          "descripcion": "Intensas lluvias inundan las casas de más de 150 familias en Mazatlán. Mazatlán, Sin., Unas 150 familias perdieron su patrimonio a consecuencia de las torrenciales lluvias en el puerto, ayer en la madrugada, las cuales dejaron 161 litros de agua por metro cuadrado, con inundaciones que alcanzaron más de un metro de altura en el ejido Urías. La emergencia provocó severos daños materiales, colapsó vialidades, por lo que el Ejército Mexicano activó el Plan DN-III-E.",
-          "recomendacion": "",
-          "fecha": "30 julio 2026 · 04:20 CST",
-          "fecha_iso": "2026-07-30T04:20:00-06:00",
-          "fuente": "La Jornada Estados",
-          "url": "https://www.jornada.com.mx/2026/07/30/estados/027n1est?partner=rss",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL",
-          "lat": 21.0,
-          "lon": -104.0
         }
       ]
     },
@@ -115,6 +83,50 @@
       "col2": true,
       "alertas": [
         {
+          "id": "8ade0c51",
+          "tipo": "cierre_parcial",
+          "ruta": "Derriba tráiler un poste y queda atravesado en la Escénica…",
+          "descripcion": "Derriba tráiler un poste y queda atravesado en la Escénica de Acapulco. El accidente obliga al cierre parcial de la circulación",
+          "recomendacion": "",
+          "fecha": "30 julio 2026 · 17:11 CST",
+          "fecha_iso": "2026-07-30T17:11:00-06:00",
+          "fuente": "Quadratin Guerrero",
+          "url": "https://guerrero.quadratin.com.mx/derriba-trailer-un-poste-y-queda-atravesado-en-la-escenica-de-acapulco/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 16.86,
+          "lon": -99.88
+        },
+        {
+          "id": "04f21f9e",
+          "tipo": "cierre_parcial",
+          "ruta": "carretera 175 en Miahuatlán",
+          "descripcion": "Deja 3 lesionados choque sobre la carretera 175 en Miahuatlán. A la altura de la entrada a Santa Lucía Miahuatlán",
+          "recomendacion": "",
+          "fecha": "30 julio 2026 · 16:44 CST",
+          "fecha_iso": "2026-07-30T16:44:00-06:00",
+          "fuente": "Quadratin Oaxaca",
+          "url": "https://oaxaca.quadratin.com.mx/deja-3-lesionados-choque-sobre-la-carretera-175-en-miahuatlan/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        },
+        {
+          "id": "57087b99",
+          "tipo": "cierre_parcial",
+          "ruta": "carretera 131 en Zimatlán",
+          "descripcion": "Muere motociclista en choque sobre la carretera 131 en Zimatlán. El siniestro ocurrió metros adelante de una tienda AutoZone, frente a la funeraria Santa Fe",
+          "recomendacion": "",
+          "fecha": "30 julio 2026 · 16:38 CST",
+          "fecha_iso": "2026-07-30T16:38:00-06:00",
+          "fuente": "Quadratin Oaxaca",
+          "url": "https://oaxaca.quadratin.com.mx/muere-motociclista-en-choque-sobre-la-carretera-131-en-zimatlan/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        },
+        {
           "id": "c1e18a99",
           "tipo": "cierre_parcial",
           "ruta": "Accidentes en Carreteras de Puebla Hoy: Cierres Viales y Tráfico…",
@@ -134,6 +146,19 @@
     }
   ],
   "para_mapa": [
+    {
+      "id": "8ade0c51",
+      "tipo": "cierre_parcial",
+      "ruta": "Derriba tráiler un poste y queda atravesado en la Escénica…",
+      "descripcion": "Derriba tráiler un poste y queda atravesado en la Escénica de Acapulco. El accidente obliga al cierre parcial de la circulación",
+      "fecha": "30 julio 2026 · 17:11 CST",
+      "fuente": "Quadratin Guerrero",
+      "url": "https://guerrero.quadratin.com.mx/derriba-trailer-un-poste-y-queda-atravesado-en-la-escenica-de-acapulco/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 16.86,
+      "lon": -99.88
+    },
     {
       "id": "76de85af",
       "tipo": "cierre_total",
@@ -161,19 +186,6 @@
       "lon": -98.2
     },
     {
-      "id": "57cfee21",
-      "tipo": "cierre_total",
-      "ruta": "autopista México-Pachuca",
-      "descripcion": "Volcadura de camionetas con alimentos colapsa la autopista México-Pachuca. La volcadura de dos camionetas que transportaban alimentos provocó severas afectaciones a la circulación sobre la autopista México-Pachuca.",
-      "fecha": "30 julio 2026 · 09:38 CST",
-      "fuente": "24 Horas",
-      "url": "https://24-horas.mx/estados/volcadura-de-camionetas-con-alimentos-colapsa-la-autopista-mexico-pachuca/",
-      "dot_color": "#e74c3c",
-      "badge_txt": "CIERRE TOTAL",
-      "lat": 20.12,
-      "lon": -98.73
-    },
-    {
       "id": "51427726",
       "tipo": "bloqueo",
       "ruta": "Tráfico en la autopista México-Puebla hoy: Noticias sobre bloqueos y…",
@@ -187,30 +199,17 @@
       "lon": -98.4
     },
     {
-      "id": "9ed66273",
+      "id": "9eb0b240",
       "tipo": "cierre_total",
       "ruta": "Volcadura de tractocamión paraliza la México-Cuernavaca por más de 12…",
-      "descripcion": "Volcadura de tractocamión paraliza la México-Cuernavaca por más de 12 horas - lajornadamorelos.mx. Volcadura de tractocamión paraliza la México-Cuernavaca por más de 12 horas lajornadamorelos.mx",
+      "descripcion": "Volcadura de tractocamión paraliza la México-Cuernavaca por más de 12 horas - La Jornada Morelos. Volcadura de tractocamión paraliza la México-Cuernavaca por más de 12 horas La Jornada Morelos",
       "fecha": "30 julio 2026 · 06:02 CST",
-      "fuente": "lajornadamorelos.mx",
+      "fuente": "La Jornada Morelos",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPLXpMMnFOQ1R6RUdEUEZGQ01iMTZ0TC03cFEwRjNVNmpvaWtTX0l4cmFQekEtLXBVU205S1F4SmFHTVFJcHkzNk5Nemc0V3dMdHdJM05kenRJWTZDbkFLdnlRdXBibTAtZnpzckFZdU9WaEVhcFFxNGttSnplU3NJMzJETWR1VkZ0aE15NUJOcE1Gdy10QlJUUV9vYW5yLUQ3YUg5NHZvdHFqSUZUWWkxbUk4T25JbTk5eHpSR3Ftb05jRnA3V2NZUw?oc=5",
       "dot_color": "#e74c3c",
       "badge_txt": "CIERRE TOTAL",
       "lat": 18.67,
       "lon": -99.1
-    },
-    {
-      "id": "f4214a7a",
-      "tipo": "cierre_total",
-      "ruta": "Intensas lluvias inundan las casas de más de 150 familias…",
-      "descripcion": "Intensas lluvias inundan las casas de más de 150 familias en Mazatlán. Mazatlán, Sin., Unas 150 familias perdieron su patrimonio a consecuencia de las torrenciales lluvias en el puerto, ayer en la madrugada, las cuales dejaron 161 litros de agua por metro cuadrado, con inundaciones que alcanzaron más de un metro de altura en el ejido Urías. La emergencia provocó severos daños materiales, colapsó vialidades, por lo que el Ejército Mexicano activó el Plan DN-III-E.",
-      "fecha": "30 julio 2026 · 04:20 CST",
-      "fuente": "La Jornada Estados",
-      "url": "https://www.jornada.com.mx/2026/07/30/estados/027n1est?partner=rss",
-      "dot_color": "#e74c3c",
-      "badge_txt": "CIERRE TOTAL",
-      "lat": 21.0,
-      "lon": -104.0
     }
   ]
 }
