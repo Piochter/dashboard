@@ -1,12 +1,11 @@
 {
-  "ultima_actualizacion": "2026-07-29T22:30:35.394046-06:00",
-  "ultima_actualizacion_legible": "29 de julio de 2026 · 22:30 CST",
-  "total": 4,
+  "ultima_actualizacion": "2026-07-30T01:14:02.359825-06:00",
+  "ultima_actualizacion_legible": "30 de julio de 2026 · 01:14 CST",
+  "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
-    "Quadratin + regionales",
-    "Telegram"
+    "Quadratin + regionales"
   ],
   "grupos": [
     {
@@ -25,23 +24,7 @@
           "fecha": "29 julio 2026 · 20:57 CST",
           "fecha_iso": "2026-07-29T20:57:00-06:00",
           "fuente": "TV Azteca",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORXV4SF9GcDRDWlhVWDg1MGo5TWJnOVk4ZEc3RlFyZXlhSkNocE9kQzk4Y0gwNVdYdzRNVmdCbnNtVFpZNkUtTTZCOVBtdS1nT2JDS3RYdm90Y21Vd0VXSm1CQ0p4SUZpMEI5bFVwampvWFVEeVotSTlXZkNXS0pnWnRBbnVSbmhtRnpmanZKRTBLaUxKcUdJSmVRR2FCNkpsUWhsVER0Tk8wVGxxQ096SUJSS3NDaV9EOXJwMUllb1hnYkxwOURpVUtB0gHXAUFVX3lxTFBqbWRzZVNmNmx4elRISXk3cEoyZjNDY0lmUTUzUm05QTB5MHNUOTJXWU95RlJiVXI1SFUtNmI4cXZJQno5WmZHTDFXVmpSXzFBZTFjNno3ZXpZajJ5Z21sSmsxVXg5SjhEcExpSWcwc2tucm50VE12TWV6RWRoUG1sdkl0elhxOUtlcUhZMDhseVJIZ3FyMFI0TUM4ZUc1R1JTeWFUbHFpSDNTMG5oLWpKZ0Rod0ZGWnI5RVJxWmRpNlVpYmZqUEwwUG1zX1lXNm5LSExTNEQ4?oc=5",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL",
-          "lat": 18.92,
-          "lon": -99.23
-        },
-        {
-          "id": "04464976",
-          "tipo": "cierre_total",
-          "ruta": "autopista México-Cuernavaca - Milenio",
-          "descripcion": "Volcadura de tráiler con ácido muriático provoca cierre total en la autopista México-Cuernavaca - Milenio. Volcadura de tráiler con ácido muriático provoca cierre total en la autopista México-Cuernavaca Milenio",
-          "recomendacion": "",
-          "fecha": "29 julio 2026 · 11:33 CST",
-          "fecha_iso": "2026-07-29T11:33:00-06:00",
-          "fuente": "Milenio",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdWd6UmI3YWRMZzYwNlFIX19idHZHMGFEVF9OYzlNN3FwUy1EZTFnZldaV0FEX1lFQkVxdC1nTFYwSmVMdW9MblVpOWFVdlZIVDRNSS1WSGtxbWQ5Ni1vLS1Id0NGN2ltTUt3V1VPQVlXNlJXcWlZTnJyb0VTNFlGbFZFNTVDLVp0OFVjQjRKTWVkTFNTTzJkd0UtUdIBmwFBVV95cUxPdWd6UmI3YWRMZzYwNlFIX19idHZHMGFEVF9OYzlNN3FwUy1EZTFnZldaV0FEX1lFQkVxdC1nTFYwSmVMdW9MblVpOWFVdlZIVDRNSS1WSGtxbWQ5Ni1vLS1Id0NGN2ltTUt3V1VPQVlXNlJXcWlZTnJyb0VTNFlGbFZFNTVDLVp0OFVjQjRKTWVkTFNTTzJkd0UtUQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQam1kc2VTZjZseHpUSEl5N3BKMmYzQ2NJZlE1M1JtOUEweTBzVDkyV1lPeUZSYlVyNUhVLTZiOHF2SUJ6OVpmR0wxV1ZqUl8xQWUxYzZ6N2V6WWoyeWdtbEprMVV4OUo4RHBMaUlnMHNrbnJudFRNdk1lekVkaFBtbHZJdHpYcTlLZXFIWTA4bHlSSGdxcjBSNE1DOGVHNUdSU3lhVGxxaUgzUzBuaC1qSmdEaHdGRlpyOUVScVpkaTZVaWJmalBMMFBtc19ZVzZuS0hMUzREONIB1wFBVV95cUxQam1kc2VTZjZseHpUSEl5N3BKMmYzQ2NJZlE1M1JtOUEweTBzVDkyV1lPeUZSYlVyNUhVLTZiOHF2SUJ6OVpmR0wxV1ZqUl8xQWUxYzZ6N2V6WWoyeWdtbEprMVV4OUo4RHBMaUlnMHNrbnJudFRNdk1lekVkaFBtbHZJdHpYcTlLZXFIWTA4bHlSSGdxcjBSNE1DOGVHNUdSU3lhVGxxaUgzUzBuaC1qSmdEaHdGRlpyOUVScVpkaTZVaWJmalBMMFBtc19ZVzZuS0hMUzREOA?oc=5",
           "dot_color": "#e74c3c",
           "badge": "badge-cierre-total",
           "badge_txt": "CIERRE TOTAL",
@@ -72,20 +55,6 @@
           "badge_txt": "CIERRE PARCIAL",
           "lat": 17.06,
           "lon": -96.72
-        },
-        {
-          "id": "f69e840d",
-          "tipo": "cierre_parcial",
-          "ruta": "🚨Accidente en la carretera Otumba-Ciudad Sahagún deja varios lesionados 👇…",
-          "descripcion": "🚨Accidente en la carretera Otumba-Ciudad Sahagún deja varios lesionados 👇\n https://lajornadaestadodemexico.com/accidente-en-la-carretera-otumba-ciudad-sahagun-deja-varios-lesionados/",
-          "recomendacion": "",
-          "fecha": "29 julio 2026 · 11:08 CST",
-          "fecha_iso": "2026-07-29T11:08:00-06:00",
-          "fuente": "Telegram @jornadaedomex",
-          "url": "https://t.me/jornadaedomex/11582",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
         }
       ]
     }
@@ -98,7 +67,7 @@
       "descripcion": "Volcadura de tráiler con peligrosos químicos provoca el cierre en la autopista México-Cuernavaca - TV Azteca. Volcadura de tráiler con peligrosos químicos provoca el cierre en la autopista México-Cuernavaca TV Azteca",
       "fecha": "29 julio 2026 · 20:57 CST",
       "fuente": "TV Azteca",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORXV4SF9GcDRDWlhVWDg1MGo5TWJnOVk4ZEc3RlFyZXlhSkNocE9kQzk4Y0gwNVdYdzRNVmdCbnNtVFpZNkUtTTZCOVBtdS1nT2JDS3RYdm90Y21Vd0VXSm1CQ0p4SUZpMEI5bFVwampvWFVEeVotSTlXZkNXS0pnWnRBbnVSbmhtRnpmanZKRTBLaUxKcUdJSmVRR2FCNkpsUWhsVER0Tk8wVGxxQ096SUJSS3NDaV9EOXJwMUllb1hnYkxwOURpVUtB0gHXAUFVX3lxTFBqbWRzZVNmNmx4elRISXk3cEoyZjNDY0lmUTUzUm05QTB5MHNUOTJXWU95RlJiVXI1SFUtNmI4cXZJQno5WmZHTDFXVmpSXzFBZTFjNno3ZXpZajJ5Z21sSmsxVXg5SjhEcExpSWcwc2tucm50VE12TWV6RWRoUG1sdkl0elhxOUtlcUhZMDhseVJIZ3FyMFI0TUM4ZUc1R1JTeWFUbHFpSDNTMG5oLWpKZ0Rod0ZGWnI5RVJxWmRpNlVpYmZqUEwwUG1zX1lXNm5LSExTNEQ4?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQam1kc2VTZjZseHpUSEl5N3BKMmYzQ2NJZlE1M1JtOUEweTBzVDkyV1lPeUZSYlVyNUhVLTZiOHF2SUJ6OVpmR0wxV1ZqUl8xQWUxYzZ6N2V6WWoyeWdtbEprMVV4OUo4RHBMaUlnMHNrbnJudFRNdk1lekVkaFBtbHZJdHpYcTlLZXFIWTA4bHlSSGdxcjBSNE1DOGVHNUdSU3lhVGxxaUgzUzBuaC1qSmdEaHdGRlpyOUVScVpkaTZVaWJmalBMMFBtc19ZVzZuS0hMUzREONIB1wFBVV95cUxQam1kc2VTZjZseHpUSEl5N3BKMmYzQ2NJZlE1M1JtOUEweTBzVDkyV1lPeUZSYlVyNUhVLTZiOHF2SUJ6OVpmR0wxV1ZqUl8xQWUxYzZ6N2V6WWoyeWdtbEprMVV4OUo4RHBMaUlnMHNrbnJudFRNdk1lekVkaFBtbHZJdHpYcTlLZXFIWTA4bHlSSGdxcjBSNE1DOGVHNUdSU3lhVGxxaUgzUzBuaC1qSmdEaHdGRlpyOUVScVpkaTZVaWJmalBMMFBtc19ZVzZuS0hMUzREOA?oc=5",
       "dot_color": "#e74c3c",
       "badge_txt": "CIERRE TOTAL",
       "lat": 18.92,
@@ -116,19 +85,6 @@
       "badge_txt": "CIERRE PARCIAL",
       "lat": 17.06,
       "lon": -96.72
-    },
-    {
-      "id": "04464976",
-      "tipo": "cierre_total",
-      "ruta": "autopista México-Cuernavaca - Milenio",
-      "descripcion": "Volcadura de tráiler con ácido muriático provoca cierre total en la autopista México-Cuernavaca - Milenio. Volcadura de tráiler con ácido muriático provoca cierre total en la autopista México-Cuernavaca Milenio",
-      "fecha": "29 julio 2026 · 11:33 CST",
-      "fuente": "Milenio",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdWd6UmI3YWRMZzYwNlFIX19idHZHMGFEVF9OYzlNN3FwUy1EZTFnZldaV0FEX1lFQkVxdC1nTFYwSmVMdW9MblVpOWFVdlZIVDRNSS1WSGtxbWQ5Ni1vLS1Id0NGN2ltTUt3V1VPQVlXNlJXcWlZTnJyb0VTNFlGbFZFNTVDLVp0OFVjQjRKTWVkTFNTTzJkd0UtUdIBmwFBVV95cUxPdWd6UmI3YWRMZzYwNlFIX19idHZHMGFEVF9OYzlNN3FwUy1EZTFnZldaV0FEX1lFQkVxdC1nTFYwSmVMdW9MblVpOWFVdlZIVDRNSS1WSGtxbWQ5Ni1vLS1Id0NGN2ltTUt3V1VPQVlXNlJXcWlZTnJyb0VTNFlGbFZFNTVDLVp0OFVjQjRKTWVkTFNTTzJkd0UtUQ?oc=5",
-      "dot_color": "#e74c3c",
-      "badge_txt": "CIERRE TOTAL",
-      "lat": 18.92,
-      "lon": -99.23
     }
   ]
 }
