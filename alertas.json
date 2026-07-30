@@ -1,6 +1,6 @@
 {
-  "ultima_actualizacion": "2026-07-30T14:57:19.867855-06:00",
-  "ultima_actualizacion_legible": "30 de julio de 2026 · 14:57 CST",
+  "ultima_actualizacion": "2026-07-30T16:01:55.118479-06:00",
+  "ultima_actualizacion_legible": "30 de julio de 2026 · 16:01 CST",
   "total": 6,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
@@ -49,14 +49,14 @@
           "lon": -98.73
         },
         {
-          "id": "9eb0b240",
+          "id": "9ed66273",
           "tipo": "cierre_total",
           "ruta": "Volcadura de tractocamión paraliza la México-Cuernavaca por más de 12…",
-          "descripcion": "Volcadura de tractocamión paraliza la México-Cuernavaca por más de 12 horas - La Jornada Morelos. Volcadura de tractocamión paraliza la México-Cuernavaca por más de 12 horas La Jornada Morelos",
+          "descripcion": "Volcadura de tractocamión paraliza la México-Cuernavaca por más de 12 horas - lajornadamorelos.mx. Volcadura de tractocamión paraliza la México-Cuernavaca por más de 12 horas lajornadamorelos.mx",
           "recomendacion": "",
           "fecha": "30 julio 2026 · 06:02 CST",
           "fecha_iso": "2026-07-30T06:02:00-06:00",
-          "fuente": "La Jornada Morelos",
+          "fuente": "lajornadamorelos.mx",
           "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPLXpMMnFOQ1R6RUdEUEZGQ01iMTZ0TC03cFEwRjNVNmpvaWtTX0l4cmFQekEtLXBVU205S1F4SmFHTVFJcHkzNk5Nemc0V3dMdHdJM05kenRJWTZDbkFLdnlRdXBibTAtZnpzckFZdU9WaEVhcFFxNGttSnplU3NJMzJETWR1VkZ0aE15NUJOcE1Gdy10QlJUUV9vYW5yLUQ3YUg5NHZvdHFqSUZUWWkxbUk4T25JbTk5eHpSR3Ftb05jRnA3V2NZUw?oc=5",
           "dot_color": "#e74c3c",
           "badge": "badge-cierre-total",
@@ -187,12 +187,12 @@
       "lon": -98.4
     },
     {
-      "id": "9eb0b240",
+      "id": "9ed66273",
       "tipo": "cierre_total",
       "ruta": "Volcadura de tractocamión paraliza la México-Cuernavaca por más de 12…",
-      "descripcion": "Volcadura de tractocamión paraliza la México-Cuernavaca por más de 12 horas - La Jornada Morelos. Volcadura de tractocamión paraliza la México-Cuernavaca por más de 12 horas La Jornada Morelos",
+      "descripcion": "Volcadura de tractocamión paraliza la México-Cuernavaca por más de 12 horas - lajornadamorelos.mx. Volcadura de tractocamión paraliza la México-Cuernavaca por más de 12 horas lajornadamorelos.mx",
       "fecha": "30 julio 2026 · 06:02 CST",
-      "fuente": "La Jornada Morelos",
+      "fuente": "lajornadamorelos.mx",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPLXpMMnFOQ1R6RUdEUEZGQ01iMTZ0TC03cFEwRjNVNmpvaWtTX0l4cmFQekEtLXBVU205S1F4SmFHTVFJcHkzNk5Nemc0V3dMdHdJM05kenRJWTZDbkFLdnlRdXBibTAtZnpzckFZdU9WaEVhcFFxNGttSnplU3NJMzJETWR1VkZ0aE15NUJOcE1Gdy10QlJUUV9vYW5yLUQ3YUg5NHZvdHFqSUZUWWkxbUk4T25JbTk5eHpSR3Ftb05jRnA3V2NZUw?oc=5",
       "dot_color": "#e74c3c",
       "badge_txt": "CIERRE TOTAL",
