@@ -1,11 +1,12 @@
 {
-  "ultima_actualizacion": "2026-07-30T07:14:20.424579-06:00",
-  "ultima_actualizacion_legible": "30 de julio de 2026 · 07:14 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-07-30T09:24:22.461191-06:00",
+  "ultima_actualizacion_legible": "30 de julio de 2026 · 09:24 CST",
+  "total": 4,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
-    "Medios nacionales"
+    "Medios nacionales",
+    "Quadratin + regionales"
   ],
   "grupos": [
     {
@@ -15,6 +16,22 @@
       "label": "CIERRE TOTAL",
       "col2": false,
       "alertas": [
+        {
+          "id": "9eb0b240",
+          "tipo": "cierre_total",
+          "ruta": "Volcadura de tractocamión paraliza la México-Cuernavaca por más de 12…",
+          "descripcion": "Volcadura de tractocamión paraliza la México-Cuernavaca por más de 12 horas - La Jornada Morelos. Volcadura de tractocamión paraliza la México-Cuernavaca por más de 12 horas La Jornada Morelos",
+          "recomendacion": "",
+          "fecha": "30 julio 2026 · 06:02 CST",
+          "fecha_iso": "2026-07-30T06:02:00-06:00",
+          "fuente": "La Jornada Morelos",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPLXpMMnFOQ1R6RUdEUEZGQ01iMTZ0TC03cFEwRjNVNmpvaWtTX0l4cmFQekEtLXBVU205S1F4SmFHTVFJcHkzNk5Nemc0V3dMdHdJM05kenRJWTZDbkFLdnlRdXBibTAtZnpzckFZdU9WaEVhcFFxNGttSnplU3NJMzJETWR1VkZ0aE15NUJOcE1Gdy10QlJUUV9vYW5yLUQ3YUg5NHZvdHFqSUZUWWkxbUk4T25JbTk5eHpSR3Ftb05jRnA3V2NZUw?oc=5",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL",
+          "lat": 18.67,
+          "lon": -99.1
+        },
         {
           "id": "f4214a7a",
           "tipo": "cierre_total",
@@ -30,27 +47,100 @@
           "badge_txt": "CIERRE TOTAL",
           "lat": 21.0,
           "lon": -104.0
-        },
+        }
+      ]
+    },
+    {
+      "tipo": "bloqueo",
+      "color": "rojo",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
+      "col2": false,
+      "alertas": [
         {
-          "id": "3d11ca84",
-          "tipo": "cierre_total",
-          "ruta": "autopista México-Cuernavaca - TV Azteca",
-          "descripcion": "Volcadura de tráiler con peligrosos químicos provoca el cierre en la autopista México-Cuernavaca - TV Azteca. Volcadura de tráiler con peligrosos químicos provoca el cierre en la autopista México-Cuernavaca TV Azteca",
+          "id": "89fe5167",
+          "tipo": "bloqueo",
+          "ruta": "Tráfico en la autopista México-Puebla hoy: Noticias sobre bloqueos y…",
+          "descripcion": "Tráfico en la autopista México-Puebla hoy: Noticias sobre bloqueos y accidentes EN VIVO este 30 de julio - tvazteca.com. Tráfico en la autopista México-Puebla hoy: Noticias sobre bloqueos y accidentes EN VIVO este 30 de julio tvazteca.com",
           "recomendacion": "",
-          "fecha": "29 julio 2026 · 20:57 CST",
-          "fecha_iso": "2026-07-29T20:57:00-06:00",
-          "fuente": "TV Azteca",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQam1kc2VTZjZseHpUSEl5N3BKMmYzQ2NJZlE1M1JtOUEweTBzVDkyV1lPeUZSYlVyNUhVLTZiOHF2SUJ6OVpmR0wxV1ZqUl8xQWUxYzZ6N2V6WWoyeWdtbEprMVV4OUo4RHBMaUlnMHNrbnJudFRNdk1lekVkaFBtbHZJdHpYcTlLZXFIWTA4bHlSSGdxcjBSNE1DOGVHNUdSU3lhVGxxaUgzUzBuaC1qSmdEaHdGRlpyOUVScVpkaTZVaWJmalBMMFBtc19ZVzZuS0hMUzREONIB1wFBVV95cUxQam1kc2VTZjZseHpUSEl5N3BKMmYzQ2NJZlE1M1JtOUEweTBzVDkyV1lPeUZSYlVyNUhVLTZiOHF2SUJ6OVpmR0wxV1ZqUl8xQWUxYzZ6N2V6WWoyeWdtbEprMVV4OUo4RHBMaUlnMHNrbnJudFRNdk1lekVkaFBtbHZJdHpYcTlLZXFIWTA4bHlSSGdxcjBSNE1DOGVHNUdSU3lhVGxxaUgzUzBuaC1qSmdEaHdGRlpyOUVScVpkaTZVaWJmalBMMFBtc19ZVzZuS0hMUzREOA?oc=5",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL",
-          "lat": 18.92,
-          "lon": -99.23
+          "fecha": "30 julio 2026 · 07:40 CST",
+          "fecha_iso": "2026-07-30T07:40:00-06:00",
+          "fuente": "tvazteca.com",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYmJvRi1fSXlfTS04aFlpSGhhWURNVGFWdm5qMTY2YXdyS0E0T2MxQllKTjBGNGVMc0h5c0dQbW9jdDhBclJJa1ZqYzR0eUtsZHNQN3IyWkU1empXLWZ2TlVFa01ZTXdycmdUYVJfRFI2Z3VNc3F3U2FQQTBRTXhjZjV1QVhlR1ZldkpoRzdydHpka0d2cjd4eFk5S2xTcURtRndwZWVLc0ZPa3owZi1YcEY5ZEl6cnVGU09j0gHIAUFVX3lxTE5KMEVYbENQcDNlTmJOSlpxRGV6UVhZQjViN3REZm1yRzJ3eDlhTC0xc0Rjc2wzbWJDNHFoOEVXc0FBVkhwVFU5LTVxRWtqcmI3ZHVMNDQwbmE1Y0hhbk5kRmlmOUJjRmZGcVJxbXVVd3JFczl0U0dvVkQ1MjluaHEwNjBXWXZuSk5oRXBFSmxVamNrWkpPWVZDNE5wSWdxYWktN0M0MjVKUjd6bDY5UEI1Ukl6M2Vlc3BRNzhCQkpjbHZWd0FvLUpD?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 19.35,
+          "lon": -98.4
+        }
+      ]
+    },
+    {
+      "tipo": "cierre_parcial",
+      "color": "amarillo",
+      "icono": "🟡",
+      "label": "CIERRE PARCIAL / ACCIDENTES",
+      "col2": true,
+      "alertas": [
+        {
+          "id": "9f19d4f1",
+          "tipo": "cierre_parcial",
+          "ruta": "Choca tráiler en muro de la México-Puebla; causa tránsito lento…",
+          "descripcion": "Choca tráiler en muro de la México-Puebla; causa tránsito lento. IXTAPALUCA, Edomex., 30 de julio de 2026.- Un tráiler se accidentó la mañana de este jueves sobre la autopista México-Puebla y terminó montado sobre el muro de contención central, lo que provocó afectaciones a la circulación con dirección hacia la Ciudad de México. El percance ocurrió a la altura de La Virgen, en un tramo […]",
+          "recomendacion": "",
+          "fecha": "30 julio 2026 · 08:15 CST",
+          "fecha_iso": "2026-07-30T08:15:00-06:00",
+          "fuente": "Quadratin EdoMex",
+          "url": "https://edomex.quadratin.com.mx/choca-trailer-en-muro-de-la-mexico-puebla-causa-transito-lento/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 19.35,
+          "lon": -98.4
         }
       ]
     }
   ],
   "para_mapa": [
+    {
+      "id": "9f19d4f1",
+      "tipo": "cierre_parcial",
+      "ruta": "Choca tráiler en muro de la México-Puebla; causa tránsito lento…",
+      "descripcion": "Choca tráiler en muro de la México-Puebla; causa tránsito lento. IXTAPALUCA, Edomex., 30 de julio de 2026.- Un tráiler se accidentó la mañana de este jueves sobre la autopista México-Puebla y terminó montado sobre el muro de contención central, lo que provocó afectaciones a la circulación con dirección hacia la Ciudad de México. El percance ocurrió a la altura de La Virgen, en un tramo […]",
+      "fecha": "30 julio 2026 · 08:15 CST",
+      "fuente": "Quadratin EdoMex",
+      "url": "https://edomex.quadratin.com.mx/choca-trailer-en-muro-de-la-mexico-puebla-causa-transito-lento/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 19.35,
+      "lon": -98.4
+    },
+    {
+      "id": "89fe5167",
+      "tipo": "bloqueo",
+      "ruta": "Tráfico en la autopista México-Puebla hoy: Noticias sobre bloqueos y…",
+      "descripcion": "Tráfico en la autopista México-Puebla hoy: Noticias sobre bloqueos y accidentes EN VIVO este 30 de julio - tvazteca.com. Tráfico en la autopista México-Puebla hoy: Noticias sobre bloqueos y accidentes EN VIVO este 30 de julio tvazteca.com",
+      "fecha": "30 julio 2026 · 07:40 CST",
+      "fuente": "tvazteca.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYmJvRi1fSXlfTS04aFlpSGhhWURNVGFWdm5qMTY2YXdyS0E0T2MxQllKTjBGNGVMc0h5c0dQbW9jdDhBclJJa1ZqYzR0eUtsZHNQN3IyWkU1empXLWZ2TlVFa01ZTXdycmdUYVJfRFI2Z3VNc3F3U2FQQTBRTXhjZjV1QVhlR1ZldkpoRzdydHpka0d2cjd4eFk5S2xTcURtRndwZWVLc0ZPa3owZi1YcEY5ZEl6cnVGU09j0gHIAUFVX3lxTE5KMEVYbENQcDNlTmJOSlpxRGV6UVhZQjViN3REZm1yRzJ3eDlhTC0xc0Rjc2wzbWJDNHFoOEVXc0FBVkhwVFU5LTVxRWtqcmI3ZHVMNDQwbmE1Y0hhbk5kRmlmOUJjRmZGcVJxbXVVd3JFczl0U0dvVkQ1MjluaHEwNjBXWXZuSk5oRXBFSmxVamNrWkpPWVZDNE5wSWdxYWktN0M0MjVKUjd6bDY5UEI1Ukl6M2Vlc3BRNzhCQkpjbHZWd0FvLUpD?oc=5",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 19.35,
+      "lon": -98.4
+    },
+    {
+      "id": "9eb0b240",
+      "tipo": "cierre_total",
+      "ruta": "Volcadura de tractocamión paraliza la México-Cuernavaca por más de 12…",
+      "descripcion": "Volcadura de tractocamión paraliza la México-Cuernavaca por más de 12 horas - La Jornada Morelos. Volcadura de tractocamión paraliza la México-Cuernavaca por más de 12 horas La Jornada Morelos",
+      "fecha": "30 julio 2026 · 06:02 CST",
+      "fuente": "La Jornada Morelos",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPLXpMMnFOQ1R6RUdEUEZGQ01iMTZ0TC03cFEwRjNVNmpvaWtTX0l4cmFQekEtLXBVU205S1F4SmFHTVFJcHkzNk5Nemc0V3dMdHdJM05kenRJWTZDbkFLdnlRdXBibTAtZnpzckFZdU9WaEVhcFFxNGttSnplU3NJMzJETWR1VkZ0aE15NUJOcE1Gdy10QlJUUV9vYW5yLUQ3YUg5NHZvdHFqSUZUWWkxbUk4T25JbTk5eHpSR3Ftb05jRnA3V2NZUw?oc=5",
+      "dot_color": "#e74c3c",
+      "badge_txt": "CIERRE TOTAL",
+      "lat": 18.67,
+      "lon": -99.1
+    },
     {
       "id": "f4214a7a",
       "tipo": "cierre_total",
@@ -63,19 +153,6 @@
       "badge_txt": "CIERRE TOTAL",
       "lat": 21.0,
       "lon": -104.0
-    },
-    {
-      "id": "3d11ca84",
-      "tipo": "cierre_total",
-      "ruta": "autopista México-Cuernavaca - TV Azteca",
-      "descripcion": "Volcadura de tráiler con peligrosos químicos provoca el cierre en la autopista México-Cuernavaca - TV Azteca. Volcadura de tráiler con peligrosos químicos provoca el cierre en la autopista México-Cuernavaca TV Azteca",
-      "fecha": "29 julio 2026 · 20:57 CST",
-      "fuente": "TV Azteca",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQam1kc2VTZjZseHpUSEl5N3BKMmYzQ2NJZlE1M1JtOUEweTBzVDkyV1lPeUZSYlVyNUhVLTZiOHF2SUJ6OVpmR0wxV1ZqUl8xQWUxYzZ6N2V6WWoyeWdtbEprMVV4OUo4RHBMaUlnMHNrbnJudFRNdk1lekVkaFBtbHZJdHpYcTlLZXFIWTA4bHlSSGdxcjBSNE1DOGVHNUdSU3lhVGxxaUgzUzBuaC1qSmdEaHdGRlpyOUVScVpkaTZVaWJmalBMMFBtc19ZVzZuS0hMUzREONIB1wFBVV95cUxQam1kc2VTZjZseHpUSEl5N3BKMmYzQ2NJZlE1M1JtOUEweTBzVDkyV1lPeUZSYlVyNUhVLTZiOHF2SUJ6OVpmR0wxV1ZqUl8xQWUxYzZ6N2V6WWoyeWdtbEprMVV4OUo4RHBMaUlnMHNrbnJudFRNdk1lekVkaFBtbHZJdHpYcTlLZXFIWTA4bHlSSGdxcjBSNE1DOGVHNUdSU3lhVGxxaUgzUzBuaC1qSmdEaHdGRlpyOUVScVpkaTZVaWJmalBMMFBtc19ZVzZuS0hMUzREOA?oc=5",
-      "dot_color": "#e74c3c",
-      "badge_txt": "CIERRE TOTAL",
-      "lat": 18.92,
-      "lon": -99.23
     }
   ]
 }
