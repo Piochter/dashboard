@@ -1,11 +1,11 @@
 {
-  "ultima_actualizacion": "2026-07-30T05:33:17.876493-06:00",
-  "ultima_actualizacion_legible": "30 de julio de 2026 · 05:33 CST",
+  "ultima_actualizacion": "2026-07-30T07:14:20.424579-06:00",
+  "ultima_actualizacion_legible": "30 de julio de 2026 · 07:14 CST",
   "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
-    "Quadratin + regionales"
+    "Medios nacionales"
   ],
   "grupos": [
     {
@@ -15,6 +15,22 @@
       "label": "CIERRE TOTAL",
       "col2": false,
       "alertas": [
+        {
+          "id": "f4214a7a",
+          "tipo": "cierre_total",
+          "ruta": "Intensas lluvias inundan las casas de más de 150 familias…",
+          "descripcion": "Intensas lluvias inundan las casas de más de 150 familias en Mazatlán. Mazatlán, Sin., Unas 150 familias perdieron su patrimonio a consecuencia de las torrenciales lluvias en el puerto, ayer en la madrugada, las cuales dejaron 161 litros de agua por metro cuadrado, con inundaciones que alcanzaron más de un metro de altura en el ejido Urías. La emergencia provocó severos daños materiales, colapsó vialidades, por lo que el Ejército Mexicano activó el Plan DN-III-E.",
+          "recomendacion": "",
+          "fecha": "30 julio 2026 · 04:20 CST",
+          "fecha_iso": "2026-07-30T04:20:00-06:00",
+          "fuente": "La Jornada Estados",
+          "url": "https://www.jornada.com.mx/2026/07/30/estados/027n1est?partner=rss",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL",
+          "lat": 21.0,
+          "lon": -104.0
+        },
         {
           "id": "3d11ca84",
           "tipo": "cierre_total",
@@ -32,34 +48,22 @@
           "lon": -99.23
         }
       ]
-    },
-    {
-      "tipo": "cierre_parcial",
-      "color": "amarillo",
-      "icono": "🟡",
-      "label": "CIERRE PARCIAL / ACCIDENTES",
-      "col2": true,
-      "alertas": [
-        {
-          "id": "4216c1d7",
-          "tipo": "cierre_parcial",
-          "ruta": "Cierran supercarretera Cuacnopalan–Oaxaca por choque e incendio…",
-          "descripcion": "Cierran supercarretera Cuacnopalan–Oaxaca por choque e incendio. Una camioneta y un tractocamión chocaron cerca de Tepelmeme; no hay saldo oficial",
-          "recomendacion": "",
-          "fecha": "29 julio 2026 · 18:07 CST",
-          "fecha_iso": "2026-07-29T18:07:00-06:00",
-          "fuente": "Quadratin Oaxaca",
-          "url": "https://oaxaca.quadratin.com.mx/cierran-supercarretera-cuacnopalan-oaxaca-por-choque-e-incendio/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 17.06,
-          "lon": -96.72
-        }
-      ]
     }
   ],
   "para_mapa": [
+    {
+      "id": "f4214a7a",
+      "tipo": "cierre_total",
+      "ruta": "Intensas lluvias inundan las casas de más de 150 familias…",
+      "descripcion": "Intensas lluvias inundan las casas de más de 150 familias en Mazatlán. Mazatlán, Sin., Unas 150 familias perdieron su patrimonio a consecuencia de las torrenciales lluvias en el puerto, ayer en la madrugada, las cuales dejaron 161 litros de agua por metro cuadrado, con inundaciones que alcanzaron más de un metro de altura en el ejido Urías. La emergencia provocó severos daños materiales, colapsó vialidades, por lo que el Ejército Mexicano activó el Plan DN-III-E.",
+      "fecha": "30 julio 2026 · 04:20 CST",
+      "fuente": "La Jornada Estados",
+      "url": "https://www.jornada.com.mx/2026/07/30/estados/027n1est?partner=rss",
+      "dot_color": "#e74c3c",
+      "badge_txt": "CIERRE TOTAL",
+      "lat": 21.0,
+      "lon": -104.0
+    },
     {
       "id": "3d11ca84",
       "tipo": "cierre_total",
@@ -72,19 +76,6 @@
       "badge_txt": "CIERRE TOTAL",
       "lat": 18.92,
       "lon": -99.23
-    },
-    {
-      "id": "4216c1d7",
-      "tipo": "cierre_parcial",
-      "ruta": "Cierran supercarretera Cuacnopalan–Oaxaca por choque e incendio…",
-      "descripcion": "Cierran supercarretera Cuacnopalan–Oaxaca por choque e incendio. Una camioneta y un tractocamión chocaron cerca de Tepelmeme; no hay saldo oficial",
-      "fecha": "29 julio 2026 · 18:07 CST",
-      "fuente": "Quadratin Oaxaca",
-      "url": "https://oaxaca.quadratin.com.mx/cierran-supercarretera-cuacnopalan-oaxaca-por-choque-e-incendio/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 17.06,
-      "lon": -96.72
     }
   ]
 }
