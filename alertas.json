@@ -1,38 +1,13 @@
 {
-  "ultima_actualizacion": "2026-07-30T22:37:22.533261-06:00",
-  "ultima_actualizacion_legible": "30 de julio de 2026 · 22:37 CST",
-  "total": 4,
+  "ultima_actualizacion": "2026-07-31T01:33:48.053915-06:00",
+  "ultima_actualizacion_legible": "31 de julio de 2026 · 01:33 CST",
+  "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
     "Telegram"
   ],
   "grupos": [
-    {
-      "tipo": "cierre_total",
-      "color": "rojo",
-      "icono": "🔴",
-      "label": "CIERRE TOTAL",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "76de85af",
-          "tipo": "cierre_total",
-          "ruta": "Intensas lluvias inundan las casas de más de 150 familias…",
-          "descripcion": "Intensas lluvias inundan las casas de más de 150 familias en Mazatlán\nhttps://www.jornada.com.mx/2026/07/30/estados/027n1est?partner=rss\n\nMazatlán, Sin., Unas 150 familias perdieron su patrimonio a consecuencia de las torrenciales lluvias en el puerto, ayer en la madrugada, las cuales dejaron 161 litros de agua por metro cuadrado, con inundaciones que alcanzaron más de un metro de altura en el ejido Urías. La emergencia provocó severos daños materiales, colapsó vialidades, por lo que el Ejército",
-          "recomendacion": "",
-          "fecha": "30 julio 2026 · 13:09 CST",
-          "fecha_iso": "2026-07-30T13:09:00-06:00",
-          "fuente": "Telegram @NOTMEX",
-          "url": "https://t.me/NOTMEX/184967",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL",
-          "lat": 21.0,
-          "lon": -104.0
-        }
-      ]
-    },
     {
       "tipo": "bloqueo",
       "color": "rojo",
@@ -76,52 +51,9 @@
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL"
-        },
-        {
-          "id": "c1e18a99",
-          "tipo": "cierre_parcial",
-          "ruta": "Accidentes en Carreteras de Puebla Hoy: Cierres Viales y Tráfico…",
-          "descripcion": "Accidentes en Carreteras de Puebla Hoy: Cierres Viales y Tráfico Lento - N+. Accidentes en Carreteras de Puebla Hoy: Cierres Viales y Tráfico Lento N+",
-          "recomendacion": "",
-          "fecha": "30 julio 2026 · 11:43 CST",
-          "fecha_iso": "2026-07-30T11:43:00-06:00",
-          "fuente": "N+",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQcnItUU12QTVDRzZvckVLTHVTbmowVjViV2JwVlRQUVc2WEk3OUFYNmUzMTVwanlzNFpGSC1yVmpNMzFFU1FxRUQ0TzZzRkNFM3Zvb3MxNTBKVkw5YVJYdE5ucnNFaXFVamNTcDBmQU5xTndCcjNtSW9KdUl0emZLYXNqOEJCdkE5Nm1ReTNEWS1ncmpkajhaeWNrLVJTc0NQNlg3cnk1aXE1QnZaaThWZDRkaHJQallXVVhDem1QRVJMbGV6bzdwcXk5aFROVVBLV2UwMUdzdHpBZmhFQmhtTGtB?oc=5",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.04,
-          "lon": -98.2
         }
       ]
     }
   ],
-  "para_mapa": [
-    {
-      "id": "76de85af",
-      "tipo": "cierre_total",
-      "ruta": "Intensas lluvias inundan las casas de más de 150 familias…",
-      "descripcion": "Intensas lluvias inundan las casas de más de 150 familias en Mazatlán\nhttps://www.jornada.com.mx/2026/07/30/estados/027n1est?partner=rss\n\nMazatlán, Sin., Unas 150 familias perdieron su patrimonio a consecuencia de las torrenciales lluvias en el puerto, ayer en la madrugada, las cuales dejaron 161 litros de agua por metro cuadrado, con inundaciones que alcanzaron más de un metro de altura en el ejido Urías. La emergencia provocó severos daños materiales, colapsó vialidades, por lo que el Ejército",
-      "fecha": "30 julio 2026 · 13:09 CST",
-      "fuente": "Telegram @NOTMEX",
-      "url": "https://t.me/NOTMEX/184967",
-      "dot_color": "#e74c3c",
-      "badge_txt": "CIERRE TOTAL",
-      "lat": 21.0,
-      "lon": -104.0
-    },
-    {
-      "id": "c1e18a99",
-      "tipo": "cierre_parcial",
-      "ruta": "Accidentes en Carreteras de Puebla Hoy: Cierres Viales y Tráfico…",
-      "descripcion": "Accidentes en Carreteras de Puebla Hoy: Cierres Viales y Tráfico Lento - N+. Accidentes en Carreteras de Puebla Hoy: Cierres Viales y Tráfico Lento N+",
-      "fecha": "30 julio 2026 · 11:43 CST",
-      "fuente": "N+",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQcnItUU12QTVDRzZvckVLTHVTbmowVjViV2JwVlRQUVc2WEk3OUFYNmUzMTVwanlzNFpGSC1yVmpNMzFFU1FxRUQ0TzZzRkNFM3Zvb3MxNTBKVkw5YVJYdE5ucnNFaXFVamNTcDBmQU5xTndCcjNtSW9KdUl0emZLYXNqOEJCdkE5Nm1ReTNEWS1ncmpkajhaeWNrLVJTc0NQNlg3cnk1aXE1QnZaaThWZDRkaHJQallXVVhDem1QRVJMbGV6bzdwcXk5aFROVVBLV2UwMUdzdHpBZmhFQmhtTGtB?oc=5",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.04,
-      "lon": -98.2
-    }
-  ]
+  "para_mapa": []
 }
