@@ -1,11 +1,10 @@
 {
-  "ultima_actualizacion": "2026-07-30T19:01:17.101123-06:00",
-  "ultima_actualizacion_legible": "30 de julio de 2026 · 19:01 CST",
-  "total": 5,
+  "ultima_actualizacion": "2026-07-30T22:37:22.533261-06:00",
+  "ultima_actualizacion_legible": "30 de julio de 2026 · 22:37 CST",
+  "total": 4,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
-    "Quadratin + regionales",
     "Telegram"
   ],
   "grupos": [
@@ -42,20 +41,18 @@
       "col2": false,
       "alertas": [
         {
-          "id": "51427726",
+          "id": "dd6dcbcc",
           "tipo": "bloqueo",
-          "ruta": "Tráfico en la autopista México-Puebla hoy: Noticias sobre bloqueos y…",
-          "descripcion": "Tráfico en la autopista México-Puebla hoy: Noticias sobre bloqueos y accidentes EN VIVO este 30 de julio - TV Azteca. Tráfico en la autopista México-Puebla hoy: Noticias sobre bloqueos y accidentes EN VIVO este 30 de julio TV Azteca",
+          "ruta": "carretera México-Cuautla para protestar contra las extorsiones - La Jornada",
+          "descripcion": "Recolectores y concesionarios de grúa bloquean la carretera México-Cuautla para protestar contra las extorsiones - La Jornada. Recolectores y concesionarios de grúa bloquean la carretera México-Cuautla para protestar contra las extorsiones La Jornada",
           "recomendacion": "",
-          "fecha": "30 julio 2026 · 07:40 CST",
-          "fecha_iso": "2026-07-30T07:40:00-06:00",
-          "fuente": "TV Azteca",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSjBFWGxDUHAzZU5iTkpacURlelFYWUI1Yjd0RGZtckcyd3g5YUwtMXNEY3NsM21iQzRxaDhFV3NBQVZIcFRVOS01cUVranJiN2R1TDQ0MG5hNWNIYW5OZEZpZjlCY0ZmRnFScW11VXdyRXM5dFNHb1ZENTI5bmhxMDYwV1l2bkpOaEVwRUpsVWpja1pKT1lWQzROcElncWFpLTdDNDI1SlI3emw2OVBCNVJJejNlZXNwUTc4QkJKY2x2VndBby1KQ9IByAFBVV95cUxOSjBFWGxDUHAzZU5iTkpacURlelFYWUI1Yjd0RGZtckcyd3g5YUwtMXNEY3NsM21iQzRxaDhFV3NBQVZIcFRVOS01cUVranJiN2R1TDQ0MG5hNWNIYW5OZEZpZjlCY0ZmRnFScW11VXdyRXM5dFNHb1ZENTI5bmhxMDYwV1l2bkpOaEVwRUpsVWpja1pKT1lWQzROcElncWFpLTdDNDI1SlI3emw2OVBCNVJJejNlZXNwUTc4QkJKY2x2VndBby1KQw?oc=5",
+          "fecha": "30 julio 2026 · 14:22 CST",
+          "fecha_iso": "2026-07-30T14:22:00-06:00",
+          "fuente": "La Jornada",
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNekVXalhlbzNYalphZnRnUEZhaWtvU05XTEZ5d0FhNlRiSkdmTHNtYklQX254NlIxMlBVVTZDdmxmR0RncjA4Zm9zcGxkcjZGV21tTmZZMVNNQkpyQmNvOTJnTC1yS0FzRGtVaW41RzZzTWZTR1l1MGozc2Z0a3FtZDZqQlJTNXZJZ18tWGRZTnZsU1U0X1NhQjhWRUY2WWlBUDhTUmNSbGMzeDhlTlVaWWJ5U0s4RUcwWmFFeTllRzNWMjhURlNFRUptOFE1NjhxTWI4VTQ4emJKeWdJOEtGZkR2c3hxS2JLZEZMR3VRTElIMEtsb0hCaA?oc=5",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 19.35,
-          "lon": -98.4
+          "badge_txt": "BLOQUEO"
         }
       ]
     },
@@ -67,29 +64,15 @@
       "col2": true,
       "alertas": [
         {
-          "id": "04f21f9e",
+          "id": "5ea1e56f",
           "tipo": "cierre_parcial",
-          "ruta": "carretera 175 en Miahuatlán",
-          "descripcion": "Deja 3 lesionados choque sobre la carretera 175 en Miahuatlán. A la altura de la entrada a Santa Lucía Miahuatlán",
+          "ruta": "🛣️Cuatro tramos concentran los accidentes más frecuentes en el Circuito…",
+          "descripcion": "🛣️Cuatro tramos concentran los accidentes más frecuentes en el Circuito Exterior Mexiquense\n\n https://lajornadaestadodemexico.com/cuatro-tramos-concentran-accidentes-circuito-exterior-mexiquense/",
           "recomendacion": "",
-          "fecha": "30 julio 2026 · 16:44 CST",
-          "fecha_iso": "2026-07-30T16:44:00-06:00",
-          "fuente": "Quadratin Oaxaca",
-          "url": "https://oaxaca.quadratin.com.mx/deja-3-lesionados-choque-sobre-la-carretera-175-en-miahuatlan/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
-        },
-        {
-          "id": "57087b99",
-          "tipo": "cierre_parcial",
-          "ruta": "carretera 131 en Zimatlán",
-          "descripcion": "Muere motociclista en choque sobre la carretera 131 en Zimatlán. El siniestro ocurrió metros adelante de una tienda AutoZone, frente a la funeraria Santa Fe",
-          "recomendacion": "",
-          "fecha": "30 julio 2026 · 16:38 CST",
-          "fecha_iso": "2026-07-30T16:38:00-06:00",
-          "fuente": "Quadratin Oaxaca",
-          "url": "https://oaxaca.quadratin.com.mx/muere-motociclista-en-choque-sobre-la-carretera-131-en-zimatlan/",
+          "fecha": "30 julio 2026 · 20:33 CST",
+          "fecha_iso": "2026-07-30T20:33:00-06:00",
+          "fuente": "Telegram @jornadaedomex",
+          "url": "https://t.me/jornadaedomex/11599",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL"
@@ -139,19 +122,6 @@
       "badge_txt": "CIERRE PARCIAL",
       "lat": 19.04,
       "lon": -98.2
-    },
-    {
-      "id": "51427726",
-      "tipo": "bloqueo",
-      "ruta": "Tráfico en la autopista México-Puebla hoy: Noticias sobre bloqueos y…",
-      "descripcion": "Tráfico en la autopista México-Puebla hoy: Noticias sobre bloqueos y accidentes EN VIVO este 30 de julio - TV Azteca. Tráfico en la autopista México-Puebla hoy: Noticias sobre bloqueos y accidentes EN VIVO este 30 de julio TV Azteca",
-      "fecha": "30 julio 2026 · 07:40 CST",
-      "fuente": "TV Azteca",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSjBFWGxDUHAzZU5iTkpacURlelFYWUI1Yjd0RGZtckcyd3g5YUwtMXNEY3NsM21iQzRxaDhFV3NBQVZIcFRVOS01cUVranJiN2R1TDQ0MG5hNWNIYW5OZEZpZjlCY0ZmRnFScW11VXdyRXM5dFNHb1ZENTI5bmhxMDYwV1l2bkpOaEVwRUpsVWpja1pKT1lWQzROcElncWFpLTdDNDI1SlI3emw2OVBCNVJJejNlZXNwUTc4QkJKY2x2VndBby1KQ9IByAFBVV95cUxOSjBFWGxDUHAzZU5iTkpacURlelFYWUI1Yjd0RGZtckcyd3g5YUwtMXNEY3NsM21iQzRxaDhFV3NBQVZIcFRVOS01cUVranJiN2R1TDQ0MG5hNWNIYW5OZEZpZjlCY0ZmRnFScW11VXdyRXM5dFNHb1ZENTI5bmhxMDYwV1l2bkpOaEVwRUpsVWpja1pKT1lWQzROcElncWFpLTdDNDI1SlI3emw2OVBCNVJJejNlZXNwUTc4QkJKY2x2VndBby1KQw?oc=5",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 19.35,
-      "lon": -98.4
     }
   ]
 }
