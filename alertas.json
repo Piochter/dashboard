@@ -1,36 +1,12 @@
 {
-  "ultima_actualizacion": "2026-07-31T01:33:48.053915-06:00",
-  "ultima_actualizacion_legible": "31 de julio de 2026 · 01:33 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-07-31T04:14:49.695182-06:00",
+  "ultima_actualizacion_legible": "31 de julio de 2026 · 04:14 CST",
+  "total": 1,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News",
     "Telegram"
   ],
   "grupos": [
-    {
-      "tipo": "bloqueo",
-      "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "dd6dcbcc",
-          "tipo": "bloqueo",
-          "ruta": "carretera México-Cuautla para protestar contra las extorsiones - La Jornada",
-          "descripcion": "Recolectores y concesionarios de grúa bloquean la carretera México-Cuautla para protestar contra las extorsiones - La Jornada. Recolectores y concesionarios de grúa bloquean la carretera México-Cuautla para protestar contra las extorsiones La Jornada",
-          "recomendacion": "",
-          "fecha": "30 julio 2026 · 14:22 CST",
-          "fecha_iso": "2026-07-30T14:22:00-06:00",
-          "fuente": "La Jornada",
-          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNekVXalhlbzNYalphZnRnUEZhaWtvU05XTEZ5d0FhNlRiSkdmTHNtYklQX254NlIxMlBVVTZDdmxmR0RncjA4Zm9zcGxkcjZGV21tTmZZMVNNQkpyQmNvOTJnTC1yS0FzRGtVaW41RzZzTWZTR1l1MGozc2Z0a3FtZDZqQlJTNXZJZ18tWGRZTnZsU1U0X1NhQjhWRUY2WWlBUDhTUmNSbGMzeDhlTlVaWWJ5U0s4RUcwWmFFeTllRzNWMjhURlNFRUptOFE1NjhxTWI4VTQ4emJKeWdJOEtGZkR2c3hxS2JLZEZMR3VRTElIMEtsb0hCaA?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        }
-      ]
-    },
     {
       "tipo": "cierre_parcial",
       "color": "amarillo",
