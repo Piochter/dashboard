@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-07-30T17:17:59.863391-06:00",
-  "ultima_actualizacion_legible": "30 de julio de 2026 · 17:17 CST",
-  "total": 7,
+  "ultima_actualizacion": "2026-07-30T19:01:17.101123-06:00",
+  "ultima_actualizacion_legible": "30 de julio de 2026 · 19:01 CST",
+  "total": 5,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
@@ -31,22 +31,6 @@
           "badge_txt": "CIERRE TOTAL",
           "lat": 21.0,
           "lon": -104.0
-        },
-        {
-          "id": "9eb0b240",
-          "tipo": "cierre_total",
-          "ruta": "Volcadura de tractocamión paraliza la México-Cuernavaca por más de 12…",
-          "descripcion": "Volcadura de tractocamión paraliza la México-Cuernavaca por más de 12 horas - La Jornada Morelos. Volcadura de tractocamión paraliza la México-Cuernavaca por más de 12 horas La Jornada Morelos",
-          "recomendacion": "",
-          "fecha": "30 julio 2026 · 06:02 CST",
-          "fecha_iso": "2026-07-30T06:02:00-06:00",
-          "fuente": "La Jornada Morelos",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPLXpMMnFOQ1R6RUdEUEZGQ01iMTZ0TC03cFEwRjNVNmpvaWtTX0l4cmFQekEtLXBVU205S1F4SmFHTVFJcHkzNk5Nemc0V3dMdHdJM05kenRJWTZDbkFLdnlRdXBibTAtZnpzckFZdU9WaEVhcFFxNGttSnplU3NJMzJETWR1VkZ0aE15NUJOcE1Gdy10QlJUUV9vYW5yLUQ3YUg5NHZvdHFqSUZUWWkxbUk4T25JbTk5eHpSR3Ftb05jRnA3V2NZUw?oc=5",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL",
-          "lat": 18.67,
-          "lon": -99.1
         }
       ]
     },
@@ -82,22 +66,6 @@
       "label": "CIERRE PARCIAL / ACCIDENTES",
       "col2": true,
       "alertas": [
-        {
-          "id": "8ade0c51",
-          "tipo": "cierre_parcial",
-          "ruta": "Derriba tráiler un poste y queda atravesado en la Escénica…",
-          "descripcion": "Derriba tráiler un poste y queda atravesado en la Escénica de Acapulco. El accidente obliga al cierre parcial de la circulación",
-          "recomendacion": "",
-          "fecha": "30 julio 2026 · 17:11 CST",
-          "fecha_iso": "2026-07-30T17:11:00-06:00",
-          "fuente": "Quadratin Guerrero",
-          "url": "https://guerrero.quadratin.com.mx/derriba-trailer-un-poste-y-queda-atravesado-en-la-escenica-de-acapulco/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 16.86,
-          "lon": -99.88
-        },
         {
           "id": "04f21f9e",
           "tipo": "cierre_parcial",
@@ -147,19 +115,6 @@
   ],
   "para_mapa": [
     {
-      "id": "8ade0c51",
-      "tipo": "cierre_parcial",
-      "ruta": "Derriba tráiler un poste y queda atravesado en la Escénica…",
-      "descripcion": "Derriba tráiler un poste y queda atravesado en la Escénica de Acapulco. El accidente obliga al cierre parcial de la circulación",
-      "fecha": "30 julio 2026 · 17:11 CST",
-      "fuente": "Quadratin Guerrero",
-      "url": "https://guerrero.quadratin.com.mx/derriba-trailer-un-poste-y-queda-atravesado-en-la-escenica-de-acapulco/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 16.86,
-      "lon": -99.88
-    },
-    {
       "id": "76de85af",
       "tipo": "cierre_total",
       "ruta": "Intensas lluvias inundan las casas de más de 150 familias…",
@@ -197,19 +152,6 @@
       "badge_txt": "BLOQUEO",
       "lat": 19.35,
       "lon": -98.4
-    },
-    {
-      "id": "9eb0b240",
-      "tipo": "cierre_total",
-      "ruta": "Volcadura de tractocamión paraliza la México-Cuernavaca por más de 12…",
-      "descripcion": "Volcadura de tractocamión paraliza la México-Cuernavaca por más de 12 horas - La Jornada Morelos. Volcadura de tractocamión paraliza la México-Cuernavaca por más de 12 horas La Jornada Morelos",
-      "fecha": "30 julio 2026 · 06:02 CST",
-      "fuente": "La Jornada Morelos",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPLXpMMnFOQ1R6RUdEUEZGQ01iMTZ0TC03cFEwRjNVNmpvaWtTX0l4cmFQekEtLXBVU205S1F4SmFHTVFJcHkzNk5Nemc0V3dMdHdJM05kenRJWTZDbkFLdnlRdXBibTAtZnpzckFZdU9WaEVhcFFxNGttSnplU3NJMzJETWR1VkZ0aE15NUJOcE1Gdy10QlJUUV9vYW5yLUQ3YUg5NHZvdHFqSUZUWWkxbUk4T25JbTk5eHpSR3Ftb05jRnA3V2NZUw?oc=5",
-      "dot_color": "#e74c3c",
-      "badge_txt": "CIERRE TOTAL",
-      "lat": 18.67,
-      "lon": -99.1
     }
   ]
 }
