@@ -1,12 +1,51 @@
 {
-  "ultima_actualizacion": "2026-08-01T06:15:06.539636-06:00",
-  "ultima_actualizacion_legible": "1 de agosto de 2026 · 06:15 CST",
-  "total": 0,
+  "ultima_actualizacion": "2026-08-01T07:53:01.154927-06:00",
+  "ultima_actualizacion_legible": "1 de agosto de 2026 · 07:53 CST",
+  "total": 1,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News"
   ],
-  "grupos": [],
-  "para_mapa": [],
-  "nota": "Sin alertas activas en la ventana de tiempo configurada."
+  "grupos": [
+    {
+      "tipo": "cierre_parcial",
+      "color": "amarillo",
+      "icono": "🟡",
+      "label": "CIERRE PARCIAL / ACCIDENTES",
+      "col2": true,
+      "alertas": [
+        {
+          "id": "49a433f0",
+          "tipo": "cierre_parcial",
+          "ruta": "autopista México Cuernavaca por derrame de químicos - Telediario",
+          "descripcion": "Cierre de autopista México Cuernavaca por derrame de químicos - Telediario. Cierre de autopista México Cuernavaca por derrame de químicos Telediario",
+          "recomendacion": "",
+          "fecha": "31 julio 2026 · 21:32 CST",
+          "fecha_iso": "2026-07-31T21:32:00-06:00",
+          "fuente": "Telediario",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaXFWLTZwMVJtS05HVVFud2llT0Zfb0xkVzgyTl9RaUd5SzZJSGJzSDdqbjZrbW9LM2pDSlR3YjEzQUFKOHdKbjk2a2pFWEpOS3dxM3NfMG1pUkdiNzFfUll4ZF9NNEptSFNoNUJaQi1WLTA0NlkxVWs1bi1iUkU2RHM1bGxzY0Y0bWpaN1FQeldDaVFXWFhSRWZyaVNJR2N2Ml9GQWp4R0RZejlPYWotLUVKZjDSAbQBQVVfeXFMT1BBYUdDNHhHVkdIekt0TW5tVzN5d3hpUUtSVklrLVJrQjZZaHNfRG9DVFlGYUZIVE55eGJBeDNrYVczbXpQSEhiR09ENlRVWDZVOXZPNTVjOHpBM0lnUTNhOVNHVnFiNDdSamE5NmVqb3JRT0M0RTlXOU5QZnpvUEx3Z2JEWmZnTk53TWZCM0pkek1sRnoxNmhPUXFkcmIxekNyOU1MNDdFTTFnbG5EdkhHaW9J?oc=5",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 18.92,
+          "lon": -99.23
+        }
+      ]
+    }
+  ],
+  "para_mapa": [
+    {
+      "id": "49a433f0",
+      "tipo": "cierre_parcial",
+      "ruta": "autopista México Cuernavaca por derrame de químicos - Telediario",
+      "descripcion": "Cierre de autopista México Cuernavaca por derrame de químicos - Telediario. Cierre de autopista México Cuernavaca por derrame de químicos Telediario",
+      "fecha": "31 julio 2026 · 21:32 CST",
+      "fuente": "Telediario",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaXFWLTZwMVJtS05HVVFud2llT0Zfb0xkVzgyTl9RaUd5SzZJSGJzSDdqbjZrbW9LM2pDSlR3YjEzQUFKOHdKbjk2a2pFWEpOS3dxM3NfMG1pUkdiNzFfUll4ZF9NNEptSFNoNUJaQi1WLTA0NlkxVWs1bi1iUkU2RHM1bGxzY0Y0bWpaN1FQeldDaVFXWFhSRWZyaVNJR2N2Ml9GQWp4R0RZejlPYWotLUVKZjDSAbQBQVVfeXFMT1BBYUdDNHhHVkdIekt0TW5tVzN5d3hpUUtSVklrLVJrQjZZaHNfRG9DVFlGYUZIVE55eGJBeDNrYVczbXpQSEhiR09ENlRVWDZVOXZPNTVjOHpBM0lnUTNhOVNHVnFiNDdSamE5NmVqb3JRT0M0RTlXOU5QZnpvUEx3Z2JEWmZnTk53TWZCM0pkek1sRnoxNmhPUXFkcmIxekNyOU1MNDdFTTFnbG5EdkhHaW9J?oc=5",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 18.92,
+      "lon": -99.23
+    }
+  ]
 }
