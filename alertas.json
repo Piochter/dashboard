@@ -1,11 +1,11 @@
 {
-  "ultima_actualizacion": "2026-08-01T15:08:48.987646-06:00",
-  "ultima_actualizacion_legible": "1 de agosto de 2026 · 15:08 CST",
+  "ultima_actualizacion": "2026-08-01T16:09:51.698687-06:00",
+  "ultima_actualizacion_legible": "1 de agosto de 2026 · 16:09 CST",
   "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
-    "Medios regionales"
+    "Quadratin + regionales"
   ],
   "grupos": [
     {
@@ -39,37 +39,37 @@
       "col2": true,
       "alertas": [
         {
-          "id": "6177a3f5",
+          "id": "58ee0c00",
           "tipo": "cierre_parcial",
-          "ruta": "carretera Guadalajara-Zapotlanejo",
-          "descripcion": "Conductor fallece tras chocar contra un árbol en la carretera Guadalajara-Zapotlanejo. El percance vial registrado en el cruce con la carretera El Salto, ocurrió por causas que, hasta el momento, no han sido determinadas",
+          "ruta": "Se incendia camioneta en la Pachuca-Ciudad Sahagún; hay afectaciones viales…",
+          "descripcion": "Se incendia camioneta en la Pachuca-Ciudad Sahagún; hay afectaciones viales. El incendio de un vehículo particular sobre la carretera Pachuca-Sahagún movilizó a bomberos voluntarios y agentes de la policía municipal de Zempoal",
           "recomendacion": "",
-          "fecha": "1 agosto 2026 · 10:15 CST",
-          "fecha_iso": "2026-08-01T10:15:00-06:00",
-          "fuente": "El Informador Jalisco",
-          "url": "https://www.informador.mx/jalisco/seguridad-en-jalisco-conductor-fallece-tras-chocar-contra-un-arbol-en-la-carretera-guadalajara-zapotlanejo-20260801-0069.html",
+          "fecha": "1 agosto 2026 · 15:36 CST",
+          "fecha_iso": "2026-08-01T15:36:00-06:00",
+          "fuente": "Quadratin Hidalgo",
+          "url": "https://hidalgo.quadratin.com.mx/sucesos/se-incendia-camioneta-en-la-pachuca-ciudad-sahagun-hay-afectaciones-viales/",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL",
-          "lat": 20.66,
-          "lon": -103.35
+          "lat": 20.12,
+          "lon": -98.73
         }
       ]
     }
   ],
   "para_mapa": [
     {
-      "id": "6177a3f5",
+      "id": "58ee0c00",
       "tipo": "cierre_parcial",
-      "ruta": "carretera Guadalajara-Zapotlanejo",
-      "descripcion": "Conductor fallece tras chocar contra un árbol en la carretera Guadalajara-Zapotlanejo. El percance vial registrado en el cruce con la carretera El Salto, ocurrió por causas que, hasta el momento, no han sido determinadas",
-      "fecha": "1 agosto 2026 · 10:15 CST",
-      "fuente": "El Informador Jalisco",
-      "url": "https://www.informador.mx/jalisco/seguridad-en-jalisco-conductor-fallece-tras-chocar-contra-un-arbol-en-la-carretera-guadalajara-zapotlanejo-20260801-0069.html",
+      "ruta": "Se incendia camioneta en la Pachuca-Ciudad Sahagún; hay afectaciones viales…",
+      "descripcion": "Se incendia camioneta en la Pachuca-Ciudad Sahagún; hay afectaciones viales. El incendio de un vehículo particular sobre la carretera Pachuca-Sahagún movilizó a bomberos voluntarios y agentes de la policía municipal de Zempoal",
+      "fecha": "1 agosto 2026 · 15:36 CST",
+      "fuente": "Quadratin Hidalgo",
+      "url": "https://hidalgo.quadratin.com.mx/sucesos/se-incendia-camioneta-en-la-pachuca-ciudad-sahagun-hay-afectaciones-viales/",
       "dot_color": "#e67e22",
       "badge_txt": "CIERRE PARCIAL",
-      "lat": 20.66,
-      "lon": -103.35
+      "lat": 20.12,
+      "lon": -98.73
     }
   ]
 }
