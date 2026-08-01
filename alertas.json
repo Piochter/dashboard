@@ -1,10 +1,11 @@
 {
-  "ultima_actualizacion": "2026-08-01T16:09:51.698687-06:00",
-  "ultima_actualizacion_legible": "1 de agosto de 2026 · 16:09 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-08-01T17:09:55.658721-06:00",
+  "ultima_actualizacion_legible": "1 de agosto de 2026 · 17:09 CST",
+  "total": 3,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
+    "Medios regionales",
     "Quadratin + regionales"
   ],
   "grupos": [
@@ -38,6 +39,20 @@
       "label": "CIERRE PARCIAL / ACCIDENTES",
       "col2": true,
       "alertas": [
+        {
+          "id": "e3ea0556",
+          "tipo": "cierre_parcial",
+          "ruta": "autopista Salamanca-Morelia",
+          "descripcion": "Choque y vuelco de tráiler deja 7 heridos en autopista Salamanca-Morelia, Uriangato. Las autoridades investigan una invasión de carril como la causa del choque múltiple en el tramo vial.",
+          "recomendacion": "",
+          "fecha": "1 agosto 2026 · 15:54 CST",
+          "fecha_iso": "2026-08-01T15:54:00-06:00",
+          "fuente": "AM Guanajuato",
+          "url": "https://www.am.com.mx/guanajuato-sur/2026/08/01/choque-y-vuelco-de-trailer-deja-7-heridos-en-autopista-salamanca-morelia-uriangato-1826469.html",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        },
         {
           "id": "58ee0c00",
           "tipo": "cierre_parcial",
