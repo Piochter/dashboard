@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-08-01T10:49:56.269025-06:00",
-  "ultima_actualizacion_legible": "1 de agosto de 2026 · 10:49 CST",
-  "total": 4,
+  "ultima_actualizacion": "2026-08-01T11:54:13.811864-06:00",
+  "ultima_actualizacion_legible": "1 de agosto de 2026 · 11:54 CST",
+  "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
@@ -16,22 +16,6 @@
       "col2": false,
       "alertas": [
         {
-          "id": "a6431fc4",
-          "tipo": "bloqueo",
-          "ruta": "Con bloqueo, exige Pómaro acta de autogobierno modificada…",
-          "descripcion": "Con bloqueo, exige Pómaro acta de autogobierno modificada. Se instalaron en la carretera federal México 200",
-          "recomendacion": "",
-          "fecha": "1 agosto 2026 · 09:43 CST",
-          "fecha_iso": "2026-08-01T09:43:00-06:00",
-          "fuente": "Quadratin Michoacan",
-          "url": "https://www.quadratin.com.mx/municipios/con-bloqueo-exige-pomaro-acta-de-autogobierno-modificada/",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 19.1,
-          "lon": -104.3
-        },
-        {
           "id": "473de823",
           "tipo": "bloqueo",
           "ruta": "Bloqueos carreteras HOY 1 de agosto: Autopistas cerradas en México,…",
@@ -41,20 +25,6 @@
           "fecha_iso": "2026-08-01T09:26:00-06:00",
           "fuente": "Eje Central",
           "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQYnIxRnF1b0VnRFFvb0NWS0ZtTEVXd1VYRUpVMnZISXRfcU9VcndvT0s0YzJ6U0d2NnpWMjBxM3JyWGdISl80S2w1ZVEyX2pId1htMXItX2N6dU94Q2g2SVdHaHF0NWlsVUJyd01ubE9kbFVjZEc1LVcwNjA5RmNWRkZ0V2plNENhZlI0SlotZmtpcHBydERSUHpreW5QYVVRRTRzSjN5QmNTQm5FTXJ3OXBJZlJFQldOVWxqYjIwMFozaXpIUjdZanZyN2FDblRzeGNGcTA5bWtJVG9qSWhtc2U5Q2p4TGM?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        },
-        {
-          "id": "aeedb454",
-          "tipo": "bloqueo",
-          "ruta": "Guadalupe Bárcenas rompe el silencio; justifica ausencia al Cabildo y…",
-          "descripcion": "Guadalupe Bárcenas rompe el silencio; justifica ausencia al Cabildo y llama a manifestantes a no bloquear carreteras - Reto Diario. Guadalupe Bárcenas rompe el silencio; justifica ausencia al Cabildo y llama a manifestantes a no bloquear carreteras Reto Diario",
-          "recomendacion": "",
-          "fecha": "31 julio 2026 · 23:49 CST",
-          "fecha_iso": "2026-07-31T23:49:00-06:00",
-          "fuente": "Reto Diario",
-          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQd3hLeVZxZENLOGpXTXBSTkNEUW0tT2REVVFLcXBYUTdmYXJYUW1jNWRnblpYek9kN20zVHY0c3NBZkphSVl2NXVJaFNWeXlXSk53NWRsU1lPLXAyTm1rcThUS0F4eDFYa0FZbU5OVnY1Sm51U2RRazd1UllZZ05OR2FmSE5sQjFZTmE3MjJIdE1ES3FMYm1aNkF5b01UWDBWNTdaV0dHTVRLN3ZTMVBCTU1GZE9VNGVITWFGUWtZZVcwSGhGQTBKVmdEQTlkVjJka3pTcmdWYTFWaVZJbWE3QzJVTXZGNXU5YWdNZnU4WXA1ZXc?oc=5",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO"
@@ -100,19 +70,6 @@
       "badge_txt": "CIERRE PARCIAL",
       "lat": 20.66,
       "lon": -103.35
-    },
-    {
-      "id": "a6431fc4",
-      "tipo": "bloqueo",
-      "ruta": "Con bloqueo, exige Pómaro acta de autogobierno modificada…",
-      "descripcion": "Con bloqueo, exige Pómaro acta de autogobierno modificada. Se instalaron en la carretera federal México 200",
-      "fecha": "1 agosto 2026 · 09:43 CST",
-      "fuente": "Quadratin Michoacan",
-      "url": "https://www.quadratin.com.mx/municipios/con-bloqueo-exige-pomaro-acta-de-autogobierno-modificada/",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 19.1,
-      "lon": -104.3
     }
   ]
 }
