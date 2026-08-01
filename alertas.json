@@ -1,51 +1,66 @@
 {
-  "ultima_actualizacion": "2026-08-01T08:53:06.306552-06:00",
-  "ultima_actualizacion_legible": "1 de agosto de 2026 · 08:53 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-08-01T09:54:07.923816-06:00",
+  "ultima_actualizacion_legible": "1 de agosto de 2026 · 09:54 CST",
+  "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News"
+    "Google News",
+    "Medios regionales"
   ],
   "grupos": [
     {
-      "tipo": "cierre_parcial",
-      "color": "amarillo",
-      "icono": "🟡",
-      "label": "CIERRE PARCIAL / ACCIDENTES",
-      "col2": true,
+      "tipo": "bloqueo",
+      "color": "rojo",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
+      "col2": false,
       "alertas": [
         {
-          "id": "49a433f0",
-          "tipo": "cierre_parcial",
-          "ruta": "autopista México Cuernavaca por derrame de químicos - Telediario",
-          "descripcion": "Cierre de autopista México Cuernavaca por derrame de químicos - Telediario. Cierre de autopista México Cuernavaca por derrame de químicos Telediario",
+          "id": "a6431fc4",
+          "tipo": "bloqueo",
+          "ruta": "Con bloqueo, exige Pómaro acta de autogobierno modificada…",
+          "descripcion": "Con bloqueo, exige Pómaro acta de autogobierno modificada. Se instalaron en la carretera federal México 200",
           "recomendacion": "",
-          "fecha": "31 julio 2026 · 21:32 CST",
-          "fecha_iso": "2026-07-31T21:32:00-06:00",
-          "fuente": "Telediario",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaXFWLTZwMVJtS05HVVFud2llT0Zfb0xkVzgyTl9RaUd5SzZJSGJzSDdqbjZrbW9LM2pDSlR3YjEzQUFKOHdKbjk2a2pFWEpOS3dxM3NfMG1pUkdiNzFfUll4ZF9NNEptSFNoNUJaQi1WLTA0NlkxVWs1bi1iUkU2RHM1bGxzY0Y0bWpaN1FQeldDaVFXWFhSRWZyaVNJR2N2Ml9GQWp4R0RZejlPYWotLUVKZjDSAbQBQVVfeXFMT1BBYUdDNHhHVkdIekt0TW5tVzN5d3hpUUtSVklrLVJrQjZZaHNfRG9DVFlGYUZIVE55eGJBeDNrYVczbXpQSEhiR09ENlRVWDZVOXZPNTVjOHpBM0lnUTNhOVNHVnFiNDdSamE5NmVqb3JRT0M0RTlXOU5QZnpvUEx3Z2JEWmZnTk53TWZCM0pkek1sRnoxNmhPUXFkcmIxekNyOU1MNDdFTTFnbG5EdkhHaW9J?oc=5",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 18.92,
-          "lon": -99.23
+          "fecha": "1 agosto 2026 · 09:43 CST",
+          "fecha_iso": "2026-08-01T09:43:00-06:00",
+          "fuente": "Quadratin Michoacan",
+          "url": "https://www.quadratin.com.mx/municipios/con-bloqueo-exige-pomaro-acta-de-autogobierno-modificada/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 19.1,
+          "lon": -104.3
+        },
+        {
+          "id": "473de823",
+          "tipo": "bloqueo",
+          "ruta": "Bloqueos carreteras HOY 1 de agosto: Autopistas cerradas en México,…",
+          "descripcion": "Bloqueos carreteras HOY 1 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 1 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
+          "recomendacion": "",
+          "fecha": "1 agosto 2026 · 09:26 CST",
+          "fecha_iso": "2026-08-01T09:26:00-06:00",
+          "fuente": "Eje Central",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQYnIxRnF1b0VnRFFvb0NWS0ZtTEVXd1VYRUpVMnZISXRfcU9VcndvT0s0YzJ6U0d2NnpWMjBxM3JyWGdISl80S2w1ZVEyX2pId1htMXItX2N6dU94Q2g2SVdHaHF0NWlsVUJyd01ubE9kbFVjZEc1LVcwNjA5RmNWRkZ0V2plNENhZlI0SlotZmtpcHBydERSUHpreW5QYVVRRTRzSjN5QmNTQm5FTXJ3OXBJZlJFQldOVWxqYjIwMFozaXpIUjdZanZyN2FDblRzeGNGcTA5bWtJVG9qSWhtc2U5Q2p4TGM?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
         }
       ]
     }
   ],
   "para_mapa": [
     {
-      "id": "49a433f0",
-      "tipo": "cierre_parcial",
-      "ruta": "autopista México Cuernavaca por derrame de químicos - Telediario",
-      "descripcion": "Cierre de autopista México Cuernavaca por derrame de químicos - Telediario. Cierre de autopista México Cuernavaca por derrame de químicos Telediario",
-      "fecha": "31 julio 2026 · 21:32 CST",
-      "fuente": "Telediario",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaXFWLTZwMVJtS05HVVFud2llT0Zfb0xkVzgyTl9RaUd5SzZJSGJzSDdqbjZrbW9LM2pDSlR3YjEzQUFKOHdKbjk2a2pFWEpOS3dxM3NfMG1pUkdiNzFfUll4ZF9NNEptSFNoNUJaQi1WLTA0NlkxVWs1bi1iUkU2RHM1bGxzY0Y0bWpaN1FQeldDaVFXWFhSRWZyaVNJR2N2Ml9GQWp4R0RZejlPYWotLUVKZjDSAbQBQVVfeXFMT1BBYUdDNHhHVkdIekt0TW5tVzN5d3hpUUtSVklrLVJrQjZZaHNfRG9DVFlGYUZIVE55eGJBeDNrYVczbXpQSEhiR09ENlRVWDZVOXZPNTVjOHpBM0lnUTNhOVNHVnFiNDdSamE5NmVqb3JRT0M0RTlXOU5QZnpvUEx3Z2JEWmZnTk53TWZCM0pkek1sRnoxNmhPUXFkcmIxekNyOU1MNDdFTTFnbG5EdkhHaW9J?oc=5",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 18.92,
-      "lon": -99.23
+      "id": "a6431fc4",
+      "tipo": "bloqueo",
+      "ruta": "Con bloqueo, exige Pómaro acta de autogobierno modificada…",
+      "descripcion": "Con bloqueo, exige Pómaro acta de autogobierno modificada. Se instalaron en la carretera federal México 200",
+      "fecha": "1 agosto 2026 · 09:43 CST",
+      "fuente": "Quadratin Michoacan",
+      "url": "https://www.quadratin.com.mx/municipios/con-bloqueo-exige-pomaro-acta-de-autogobierno-modificada/",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 19.1,
+      "lon": -104.3
     }
   ]
 }
