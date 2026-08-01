@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-08-01T09:54:07.923816-06:00",
-  "ultima_actualizacion_legible": "1 de agosto de 2026 · 09:54 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-08-01T10:49:56.269025-06:00",
+  "ultima_actualizacion_legible": "1 de agosto de 2026 · 10:49 CST",
+  "total": 4,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
@@ -44,11 +44,63 @@
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO"
+        },
+        {
+          "id": "aeedb454",
+          "tipo": "bloqueo",
+          "ruta": "Guadalupe Bárcenas rompe el silencio; justifica ausencia al Cabildo y…",
+          "descripcion": "Guadalupe Bárcenas rompe el silencio; justifica ausencia al Cabildo y llama a manifestantes a no bloquear carreteras - Reto Diario. Guadalupe Bárcenas rompe el silencio; justifica ausencia al Cabildo y llama a manifestantes a no bloquear carreteras Reto Diario",
+          "recomendacion": "",
+          "fecha": "31 julio 2026 · 23:49 CST",
+          "fecha_iso": "2026-07-31T23:49:00-06:00",
+          "fuente": "Reto Diario",
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQd3hLeVZxZENLOGpXTXBSTkNEUW0tT2REVVFLcXBYUTdmYXJYUW1jNWRnblpYek9kN20zVHY0c3NBZkphSVl2NXVJaFNWeXlXSk53NWRsU1lPLXAyTm1rcThUS0F4eDFYa0FZbU5OVnY1Sm51U2RRazd1UllZZ05OR2FmSE5sQjFZTmE3MjJIdE1ES3FMYm1aNkF5b01UWDBWNTdaV0dHTVRLN3ZTMVBCTU1GZE9VNGVITWFGUWtZZVcwSGhGQTBKVmdEQTlkVjJka3pTcmdWYTFWaVZJbWE3QzJVTXZGNXU5YWdNZnU4WXA1ZXc?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        }
+      ]
+    },
+    {
+      "tipo": "cierre_parcial",
+      "color": "amarillo",
+      "icono": "🟡",
+      "label": "CIERRE PARCIAL / ACCIDENTES",
+      "col2": true,
+      "alertas": [
+        {
+          "id": "6177a3f5",
+          "tipo": "cierre_parcial",
+          "ruta": "carretera Guadalajara-Zapotlanejo",
+          "descripcion": "Conductor fallece tras chocar contra un árbol en la carretera Guadalajara-Zapotlanejo. El percance vial registrado en el cruce con la carretera El Salto, ocurrió por causas que, hasta el momento, no han sido determinadas",
+          "recomendacion": "",
+          "fecha": "1 agosto 2026 · 10:15 CST",
+          "fecha_iso": "2026-08-01T10:15:00-06:00",
+          "fuente": "El Informador Jalisco",
+          "url": "https://www.informador.mx/jalisco/seguridad-en-jalisco-conductor-fallece-tras-chocar-contra-un-arbol-en-la-carretera-guadalajara-zapotlanejo-20260801-0069.html",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 20.66,
+          "lon": -103.35
         }
       ]
     }
   ],
   "para_mapa": [
+    {
+      "id": "6177a3f5",
+      "tipo": "cierre_parcial",
+      "ruta": "carretera Guadalajara-Zapotlanejo",
+      "descripcion": "Conductor fallece tras chocar contra un árbol en la carretera Guadalajara-Zapotlanejo. El percance vial registrado en el cruce con la carretera El Salto, ocurrió por causas que, hasta el momento, no han sido determinadas",
+      "fecha": "1 agosto 2026 · 10:15 CST",
+      "fuente": "El Informador Jalisco",
+      "url": "https://www.informador.mx/jalisco/seguridad-en-jalisco-conductor-fallece-tras-chocar-contra-un-arbol-en-la-carretera-guadalajara-zapotlanejo-20260801-0069.html",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 20.66,
+      "lon": -103.35
+    },
     {
       "id": "a6431fc4",
       "tipo": "bloqueo",
