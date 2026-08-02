@@ -1,11 +1,10 @@
 {
-  "ultima_actualizacion": "2026-08-01T21:50:11.433420-06:00",
-  "ultima_actualizacion_legible": "1 de agosto de 2026 · 21:50 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-08-02T00:27:30.535133-06:00",
+  "ultima_actualizacion_legible": "2 de agosto de 2026 · 00:27 CST",
+  "total": 1,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Medios regionales",
-    "Quadratin + regionales"
+    "Medios regionales"
   ],
   "grupos": [
     {
@@ -28,39 +27,9 @@
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL"
-        },
-        {
-          "id": "58ee0c00",
-          "tipo": "cierre_parcial",
-          "ruta": "Se incendia camioneta en la Pachuca-Ciudad Sahagún; hay afectaciones viales…",
-          "descripcion": "Se incendia camioneta en la Pachuca-Ciudad Sahagún; hay afectaciones viales. El incendio de un vehículo particular sobre la carretera Pachuca-Sahagún movilizó a bomberos voluntarios y agentes de la policía municipal de Zempoal",
-          "recomendacion": "",
-          "fecha": "1 agosto 2026 · 15:36 CST",
-          "fecha_iso": "2026-08-01T15:36:00-06:00",
-          "fuente": "Quadratin Hidalgo",
-          "url": "https://hidalgo.quadratin.com.mx/sucesos/se-incendia-camioneta-en-la-pachuca-ciudad-sahagun-hay-afectaciones-viales/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 20.12,
-          "lon": -98.73
         }
       ]
     }
   ],
-  "para_mapa": [
-    {
-      "id": "58ee0c00",
-      "tipo": "cierre_parcial",
-      "ruta": "Se incendia camioneta en la Pachuca-Ciudad Sahagún; hay afectaciones viales…",
-      "descripcion": "Se incendia camioneta en la Pachuca-Ciudad Sahagún; hay afectaciones viales. El incendio de un vehículo particular sobre la carretera Pachuca-Sahagún movilizó a bomberos voluntarios y agentes de la policía municipal de Zempoal",
-      "fecha": "1 agosto 2026 · 15:36 CST",
-      "fuente": "Quadratin Hidalgo",
-      "url": "https://hidalgo.quadratin.com.mx/sucesos/se-incendia-camioneta-en-la-pachuca-ciudad-sahagun-hay-afectaciones-viales/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 20.12,
-      "lon": -98.73
-    }
-  ]
+  "para_mapa": []
 }
