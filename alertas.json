@@ -1,6 +1,6 @@
 {
-  "ultima_actualizacion": "2026-08-02T11:32:11.428148-06:00",
-  "ultima_actualizacion_legible": "2 de agosto de 2026 · 11:32 CST",
+  "ultima_actualizacion": "2026-08-02T12:39:44.680857-06:00",
+  "ultima_actualizacion_legible": "2 de agosto de 2026 · 12:39 CST",
   "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
@@ -16,14 +16,14 @@
       "col2": false,
       "alertas": [
         {
-          "id": "0237f5d0",
+          "id": "c5a8dbf1",
           "tipo": "bloqueo",
           "ruta": "Bloqueos carreteras HOY 2 de agosto: Autopistas cerradas en México,…",
-          "descripcion": "Bloqueos carreteras HOY 2 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 2 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
+          "descripcion": "Bloqueos carreteras HOY 2 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - ejecentral.com.mx. Bloqueos carreteras HOY 2 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE ejecentral.com.mx",
           "recomendacion": "",
           "fecha": "2 agosto 2026 · 08:51 CST",
           "fecha_iso": "2026-08-02T08:51:00-06:00",
-          "fuente": "Eje Central",
+          "fuente": "ejecentral.com.mx",
           "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNY0o0QkpETnZ4U0lkX3d6SjRXSEpHZUpkbWJ3Mkltc0x4MEpUcUZhNGF4SktZNVhFTDkxLTk0NFp0OHJCTHdycXdna3dXSWZpN3NQS1NXM1JFMlF1LTdFWU55VEFYb19EbEwxZ280SmJvTW1Yamk1aVludmpGYUlUYU1jX2hLbWdrRmRDV2g5MGlnM2MxT2xQOUFnWXgwNW1KeTM3VjBzTVY3VkNvaUcxUEROd1hfTUpYUkZqWWJDVHN1N3Y1UlJrdjJralJZR1hESWhKMEZfaW9rY3V5OTJMMTlMNXZacTg?oc=5",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
