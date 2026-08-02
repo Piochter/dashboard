@@ -1,10 +1,11 @@
 {
-  "ultima_actualizacion": "2026-08-02T10:27:48.737341-06:00",
-  "ultima_actualizacion_legible": "2 de agosto de 2026 · 10:27 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-08-02T11:32:11.428148-06:00",
+  "ultima_actualizacion_legible": "2 de agosto de 2026 · 11:32 CST",
+  "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News"
+    "Google News",
+    "Medios regionales"
   ],
   "grupos": [
     {
@@ -27,6 +28,29 @@
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO"
+        }
+      ]
+    },
+    {
+      "tipo": "clima",
+      "color": "azul",
+      "icono": "🌧",
+      "label": "ALERTA METEOROLOGICA",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "7e658515",
+          "tipo": "clima",
+          "ruta": "Lluvia deja inundaciones, vehículos varados y árboles caídos en Tlaquepaque…",
+          "descripcion": "Lluvia deja inundaciones, vehículos varados y árboles caídos en Tlaquepaque y Tonalá. La Dirección General de Protección Civil y Bomberos de San Pedro Tlaquepaque informó que mantiene el monitoreo permanente de las condiciones meteorológicas e invita a la ciudadanía a evitar cruzar vialidades inundadas",
+          "recomendacion": "evitar cruzar vialidades inundadas",
+          "fecha": "2 agosto 2026 · 10:24 CST",
+          "fecha_iso": "2026-08-02T10:24:00-06:00",
+          "fuente": "El Informador Jalisco",
+          "url": "https://www.informador.mx/jalisco/lluvia-de-esta-madrugada-deja-inundaciones-vehiculos-varados-y-arboles-caidos-en-tlaquepaque-y-tonala-20260802-0056.html",
+          "dot_color": "#3498db",
+          "badge": "badge-clima",
+          "badge_txt": "ALERTA CLIMA"
         }
       ]
     }
