@@ -1,10 +1,9 @@
 {
-  "ultima_actualizacion": "2026-08-02T19:14:18.688033-06:00",
-  "ultima_actualizacion_legible": "2 de agosto de 2026 · 19:14 CST",
+  "ultima_actualizacion": "2026-08-02T22:48:13.478757-06:00",
+  "ultima_actualizacion_legible": "2 de agosto de 2026 · 22:48 CST",
   "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News",
     "Medios regionales"
   ],
   "grupos": [
@@ -28,23 +27,48 @@
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO"
-        },
+        }
+      ]
+    },
+    {
+      "tipo": "clima",
+      "color": "azul",
+      "icono": "🌧",
+      "label": "ALERTA METEOROLOGICA",
+      "col2": false,
+      "alertas": [
         {
-          "id": "0237f5d0",
-          "tipo": "bloqueo",
-          "ruta": "Bloqueos carreteras HOY 2 de agosto: Autopistas cerradas en México,…",
-          "descripcion": "Bloqueos carreteras HOY 2 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 2 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
+          "id": "3f4433a1",
+          "tipo": "clima",
+          "ruta": "Lluvias y tormenta eléctrica generan caos e inundaciones en Monterrey…",
+          "descripcion": "Lluvias y tormenta eléctrica generan caos e inundaciones en Monterrey. La zona metropolitana de Monterrey sufrió afectaciones por lluvias intensas y tormenta eléctrica, incluyendo cortes de energía, cierre de vialidades y el rescate a personas atrapadas",
           "recomendacion": "",
-          "fecha": "2 agosto 2026 · 08:51 CST",
-          "fecha_iso": "2026-08-02T08:51:00-06:00",
-          "fuente": "Eje Central",
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNY0o0QkpETnZ4U0lkX3d6SjRXSEpHZUpkbWJ3Mkltc0x4MEpUcUZhNGF4SktZNVhFTDkxLTk0NFp0OHJCTHdycXdna3dXSWZpN3NQS1NXM1JFMlF1LTdFWU55VEFYb19EbEwxZ280SmJvTW1Yamk1aVludmpGYUlUYU1jX2hLbWdrRmRDV2g5MGlnM2MxT2xQOUFnWXgwNW1KeTM3VjBzTVY3VkNvaUcxUEROd1hfTUpYUkZqWWJDVHN1N3Y1UlJrdjJralJZR1hESWhKMEZfaW9rY3V5OTJMMTlMNXZacTg?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
+          "fecha": "2 agosto 2026 · 14:37 CST",
+          "fecha_iso": "2026-08-02T14:37:00-06:00",
+          "fuente": "El Sol de Mexico",
+          "url": "https://oem.com.mx/elsoldemexico/mexico/lluvias-y-tormenta-electrica-generan-caos-e-inundaciones-en-monterrey-31410245",
+          "dot_color": "#3498db",
+          "badge": "badge-clima",
+          "badge_txt": "ALERTA CLIMA",
+          "lat": 25.67,
+          "lon": -100.31
         }
       ]
     }
   ],
-  "para_mapa": []
+  "para_mapa": [
+    {
+      "id": "3f4433a1",
+      "tipo": "clima",
+      "ruta": "Lluvias y tormenta eléctrica generan caos e inundaciones en Monterrey…",
+      "descripcion": "Lluvias y tormenta eléctrica generan caos e inundaciones en Monterrey. La zona metropolitana de Monterrey sufrió afectaciones por lluvias intensas y tormenta eléctrica, incluyendo cortes de energía, cierre de vialidades y el rescate a personas atrapadas",
+      "fecha": "2 agosto 2026 · 14:37 CST",
+      "fuente": "El Sol de Mexico",
+      "url": "https://oem.com.mx/elsoldemexico/mexico/lluvias-y-tormenta-electrica-generan-caos-e-inundaciones-en-monterrey-31410245",
+      "dot_color": "#3498db",
+      "badge_txt": "ALERTA CLIMA",
+      "lat": 25.67,
+      "lon": -100.31
+    }
+  ]
 }
