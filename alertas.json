@@ -1,9 +1,11 @@
 {
-  "ultima_actualizacion": "2026-08-03T10:45:48.454520-06:00",
-  "ultima_actualizacion_legible": "3 de agosto de 2026 · 10:45 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-08-03T12:27:46.578288-06:00",
+  "ultima_actualizacion_legible": "3 de agosto de 2026 · 12:27 CST",
+  "total": 5,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
+    "Medios regionales",
+    "Quadratin + regionales",
     "Telegram"
   ],
   "grupos": [
@@ -14,6 +16,22 @@
       "label": "CIERRE TOTAL",
       "col2": false,
       "alertas": [
+        {
+          "id": "38b06963",
+          "tipo": "cierre_total",
+          "ruta": "autopista Celaya-Querétaro provoca caos vial",
+          "descripcion": "Volcadura de tráiler en la autopista Celaya-Querétaro provoca caos vial. Celaya.- La volcadura de un tráiler sobre la autopista Celaya-Querétaro originó la movilización de los cuerpos de emergencias, aunque solo se reportaron daños materiales y carga vehicular pesada. El accidente provocó gran congestionamiento vial con dirección a Querétaro. La carretera fue abanderada por elementos de la Guardia Nacional de la división caminos para evitar mayores […]",
+          "recomendacion": "evitar mayores […]",
+          "fecha": "3 agosto 2026 · 10:08 CST",
+          "fecha_iso": "2026-08-03T10:08:00-06:00",
+          "fuente": "AM Guanajuato",
+          "url": "https://www.am.com.mx/celaya/2026/08/03/volcadura-de-trailer-en-la-autopista-celaya-queretaro-1827063.html",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL",
+          "lat": 20.55,
+          "lon": -100.6
+        },
         {
           "id": "cb80d6d6",
           "tipo": "cierre_total",
@@ -37,6 +55,22 @@
       "label": "CIERRE PARCIAL / ACCIDENTES",
       "col2": true,
       "alertas": [
+        {
+          "id": "213597ed",
+          "tipo": "cierre_parcial",
+          "ruta": "Choca autobús en el Arco Norte y deja 11 lesionados…",
+          "descripcion": "Choca autobús en el Arco Norte y deja 11 lesionados en Atlacomulco. ATLACOMULCO, Edomex., 3 de agosto del 2026.- Un autobús de pasajeros se impactó la mañana de este lunes contra un muro de contención en el Trébol del Arco Norte, a la altura del municipio de Atlacomulco, accidente que dejó un saldo preliminar de 11 personas lesionadas y provocó la movilización de cuerpos de emergencia de […]",
+          "recomendacion": "",
+          "fecha": "3 agosto 2026 · 10:48 CST",
+          "fecha_iso": "2026-08-03T10:48:00-06:00",
+          "fuente": "Quadratin EdoMex",
+          "url": "https://edomex.quadratin.com.mx/choca-autobus-en-el-arco-norte-y-deja-11-lesionados-en-atlacomulco/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 19.8,
+          "lon": -99.1
+        },
         {
           "id": "dac53360",
           "tipo": "cierre_parcial",
@@ -71,6 +105,32 @@
     }
   ],
   "para_mapa": [
+    {
+      "id": "213597ed",
+      "tipo": "cierre_parcial",
+      "ruta": "Choca autobús en el Arco Norte y deja 11 lesionados…",
+      "descripcion": "Choca autobús en el Arco Norte y deja 11 lesionados en Atlacomulco. ATLACOMULCO, Edomex., 3 de agosto del 2026.- Un autobús de pasajeros se impactó la mañana de este lunes contra un muro de contención en el Trébol del Arco Norte, a la altura del municipio de Atlacomulco, accidente que dejó un saldo preliminar de 11 personas lesionadas y provocó la movilización de cuerpos de emergencia de […]",
+      "fecha": "3 agosto 2026 · 10:48 CST",
+      "fuente": "Quadratin EdoMex",
+      "url": "https://edomex.quadratin.com.mx/choca-autobus-en-el-arco-norte-y-deja-11-lesionados-en-atlacomulco/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 19.8,
+      "lon": -99.1
+    },
+    {
+      "id": "38b06963",
+      "tipo": "cierre_total",
+      "ruta": "autopista Celaya-Querétaro provoca caos vial",
+      "descripcion": "Volcadura de tráiler en la autopista Celaya-Querétaro provoca caos vial. Celaya.- La volcadura de un tráiler sobre la autopista Celaya-Querétaro originó la movilización de los cuerpos de emergencias, aunque solo se reportaron daños materiales y carga vehicular pesada. El accidente provocó gran congestionamiento vial con dirección a Querétaro. La carretera fue abanderada por elementos de la Guardia Nacional de la división caminos para evitar mayores […]",
+      "fecha": "3 agosto 2026 · 10:08 CST",
+      "fuente": "AM Guanajuato",
+      "url": "https://www.am.com.mx/celaya/2026/08/03/volcadura-de-trailer-en-la-autopista-celaya-queretaro-1827063.html",
+      "dot_color": "#e74c3c",
+      "badge_txt": "CIERRE TOTAL",
+      "lat": 20.55,
+      "lon": -100.6
+    },
     {
       "id": "7e13bdd2",
       "tipo": "cierre_parcial",
