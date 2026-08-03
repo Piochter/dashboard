@@ -1,12 +1,11 @@
 {
-  "ultima_actualizacion": "2026-08-02T17:39:50.671088-06:00",
-  "ultima_actualizacion_legible": "2 de agosto de 2026 · 17:39 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-08-02T19:14:18.688033-06:00",
+  "ultima_actualizacion_legible": "2 de agosto de 2026 · 19:14 CST",
+  "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
-    "Medios regionales",
-    "Quadratin + regionales"
+    "Medios regionales"
   ],
   "grupos": [
     {
@@ -45,46 +44,7 @@
           "badge_txt": "BLOQUEO"
         }
       ]
-    },
-    {
-      "tipo": "cierre_parcial",
-      "color": "amarillo",
-      "icono": "🟡",
-      "label": "CIERRE PARCIAL / ACCIDENTES",
-      "col2": true,
-      "alertas": [
-        {
-          "id": "a60f58ec",
-          "tipo": "cierre_parcial",
-          "ruta": "Registra Tultitlán nueva tragedia vial frente al Mexibús Bello Horizonte…",
-          "descripcion": "Registra Tultitlán nueva tragedia vial frente al Mexibús Bello Horizonte. TULTITLÁN, Edomex., 2 de agosto de 2026.-Un accidente en Tultitlán Estado de México (EMX) provocó una intensa movilización de cuerpos de emergencia y severas afectaciones a la circulación la mañana de este domingo, luego de que un motociclista falleciera tras verse involucrado en un percance con un tractocamión sobre la Vía José López Portillo, a […]",
-          "recomendacion": "",
-          "fecha": "2 agosto 2026 · 13:00 CST",
-          "fecha_iso": "2026-08-02T13:00:00-06:00",
-          "fuente": "Quadratin EdoMex",
-          "url": "https://edomex.quadratin.com.mx/registra-tultitlan-nueva-tragedia-vial-frente-al-mexibus-bello-horizonte/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.35,
-          "lon": -99.7
-        }
-      ]
     }
   ],
-  "para_mapa": [
-    {
-      "id": "a60f58ec",
-      "tipo": "cierre_parcial",
-      "ruta": "Registra Tultitlán nueva tragedia vial frente al Mexibús Bello Horizonte…",
-      "descripcion": "Registra Tultitlán nueva tragedia vial frente al Mexibús Bello Horizonte. TULTITLÁN, Edomex., 2 de agosto de 2026.-Un accidente en Tultitlán Estado de México (EMX) provocó una intensa movilización de cuerpos de emergencia y severas afectaciones a la circulación la mañana de este domingo, luego de que un motociclista falleciera tras verse involucrado en un percance con un tractocamión sobre la Vía José López Portillo, a […]",
-      "fecha": "2 agosto 2026 · 13:00 CST",
-      "fuente": "Quadratin EdoMex",
-      "url": "https://edomex.quadratin.com.mx/registra-tultitlan-nueva-tragedia-vial-frente-al-mexibus-bello-horizonte/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.35,
-      "lon": -99.7
-    }
-  ]
+  "para_mapa": []
 }
