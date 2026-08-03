@@ -1,11 +1,10 @@
 {
-  "ultima_actualizacion": "2026-08-03T12:27:46.578288-06:00",
-  "ultima_actualizacion_legible": "3 de agosto de 2026 · 12:27 CST",
-  "total": 5,
+  "ultima_actualizacion": "2026-08-03T14:10:14.705938-06:00",
+  "ultima_actualizacion_legible": "3 de agosto de 2026 · 14:10 CST",
+  "total": 4,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Medios regionales",
-    "Quadratin + regionales",
     "Telegram"
   ],
   "grupos": [
@@ -56,22 +55,6 @@
       "col2": true,
       "alertas": [
         {
-          "id": "213597ed",
-          "tipo": "cierre_parcial",
-          "ruta": "Choca autobús en el Arco Norte y deja 11 lesionados…",
-          "descripcion": "Choca autobús en el Arco Norte y deja 11 lesionados en Atlacomulco. ATLACOMULCO, Edomex., 3 de agosto del 2026.- Un autobús de pasajeros se impactó la mañana de este lunes contra un muro de contención en el Trébol del Arco Norte, a la altura del municipio de Atlacomulco, accidente que dejó un saldo preliminar de 11 personas lesionadas y provocó la movilización de cuerpos de emergencia de […]",
-          "recomendacion": "",
-          "fecha": "3 agosto 2026 · 10:48 CST",
-          "fecha_iso": "2026-08-03T10:48:00-06:00",
-          "fuente": "Quadratin EdoMex",
-          "url": "https://edomex.quadratin.com.mx/choca-autobus-en-el-arco-norte-y-deja-11-lesionados-en-atlacomulco/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.8,
-          "lon": -99.1
-        },
-        {
           "id": "dac53360",
           "tipo": "cierre_parcial",
           "ruta": "⚠️Pareja pierde la vida tras accidente en la carretera #SanFelipeDelProgreso-#Ixtlahuaca…",
@@ -105,19 +88,6 @@
     }
   ],
   "para_mapa": [
-    {
-      "id": "213597ed",
-      "tipo": "cierre_parcial",
-      "ruta": "Choca autobús en el Arco Norte y deja 11 lesionados…",
-      "descripcion": "Choca autobús en el Arco Norte y deja 11 lesionados en Atlacomulco. ATLACOMULCO, Edomex., 3 de agosto del 2026.- Un autobús de pasajeros se impactó la mañana de este lunes contra un muro de contención en el Trébol del Arco Norte, a la altura del municipio de Atlacomulco, accidente que dejó un saldo preliminar de 11 personas lesionadas y provocó la movilización de cuerpos de emergencia de […]",
-      "fecha": "3 agosto 2026 · 10:48 CST",
-      "fuente": "Quadratin EdoMex",
-      "url": "https://edomex.quadratin.com.mx/choca-autobus-en-el-arco-norte-y-deja-11-lesionados-en-atlacomulco/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.8,
-      "lon": -99.1
-    },
     {
       "id": "38b06963",
       "tipo": "cierre_total",
