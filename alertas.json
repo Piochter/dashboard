@@ -1,9 +1,10 @@
 {
-  "ultima_actualizacion": "2026-08-03T16:33:36.978038-06:00",
-  "ultima_actualizacion_legible": "3 de agosto de 2026 · 16:33 CST",
-  "total": 4,
+  "ultima_actualizacion": "2026-08-03T17:46:34.933873-06:00",
+  "ultima_actualizacion_legible": "3 de agosto de 2026 · 17:46 CST",
+  "total": 5,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
+    "Google News",
     "Telegram"
   ],
   "grupos": [
@@ -27,6 +28,29 @@
           "dot_color": "#e74c3c",
           "badge": "badge-cierre-total",
           "badge_txt": "CIERRE TOTAL"
+        }
+      ]
+    },
+    {
+      "tipo": "bloqueo",
+      "color": "rojo",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "645f7171",
+          "tipo": "bloqueo",
+          "ruta": "Bloqueos carreteras HOY 3 de agosto: Autopistas cerradas en México,…",
+          "descripcion": "Bloqueos carreteras HOY 3 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 3 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
+          "recomendacion": "",
+          "fecha": "3 agosto 2026 · 07:03 CST",
+          "fecha_iso": "2026-08-03T07:03:00-06:00",
+          "fuente": "Eje Central",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOSjhaUUxqR3lLa0RScHVmaG1jX180WThKVlhPbURtWG13UDFWR2piWnRqQXNDUzBmbkE3cDNRTFNQNHNnTGQ3S3JkZnNrMVlOdllJRlBINnpma3lmc1JCbG9kel9ITHd3XzJJNjBEcTVaUmVUakRkQzRVZV9CRU9ZNmw5OWtoSllZSG5mOHVOc1lkTTBCTVF6Z21oWW1mcEkyVWtWNWpUOUsxV1dRbU4xWTZYc1dkQmp6Sk5qODNfSzNEb1RtM2g1MDNEclVYSXBfLWJMVDR0bEpvenVpaGJWdEhoelFwejg?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
         }
       ]
     },
