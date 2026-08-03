@@ -1,35 +1,12 @@
 {
-  "ultima_actualizacion": "2026-08-02T22:48:13.478757-06:00",
-  "ultima_actualizacion_legible": "2 de agosto de 2026 · 22:48 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-08-03T02:22:05.895255-06:00",
+  "ultima_actualizacion_legible": "3 de agosto de 2026 · 02:22 CST",
+  "total": 1,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Medios regionales"
   ],
   "grupos": [
-    {
-      "tipo": "bloqueo",
-      "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "a703e40a",
-          "tipo": "bloqueo",
-          "ruta": "autopista y evacuó a un centenar de personas",
-          "descripcion": "Francia controla incendio que afectó una autopista y evacuó a un centenar de personas. Para evitar la propagación del fuego, estuvieron trabajando 280 bomberos, además de 12 aeronaves y una treintena de gendarmes que se ocuparon de la seguridad",
-          "recomendacion": "evitar la propagación del fuego, estuvieron trabajando 280 bomberos, además de 12 aeronaves y una treintena de gendarmes que se ocuparon de la seguridad",
-          "fecha": "2 agosto 2026 · 11:29 CST",
-          "fecha_iso": "2026-08-02T11:29:00-06:00",
-          "fuente": "El Sol de Mexico",
-          "url": "https://oem.com.mx/elsoldemexico/mundo/francia-controla-incendio-que-afecto-una-autopista-y-evacuo-a-un-centenar-de-personas-31408136",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        }
-      ]
-    },
     {
       "tipo": "clima",
       "color": "azul",
