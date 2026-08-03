@@ -1,10 +1,9 @@
 {
-  "ultima_actualizacion": "2026-08-03T14:10:14.705938-06:00",
-  "ultima_actualizacion_legible": "3 de agosto de 2026 · 14:10 CST",
-  "total": 4,
+  "ultima_actualizacion": "2026-08-03T15:20:34.789963-06:00",
+  "ultima_actualizacion_legible": "3 de agosto de 2026 · 15:20 CST",
+  "total": 3,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Medios regionales",
     "Telegram"
   ],
   "grupos": [
@@ -15,22 +14,6 @@
       "label": "CIERRE TOTAL",
       "col2": false,
       "alertas": [
-        {
-          "id": "38b06963",
-          "tipo": "cierre_total",
-          "ruta": "autopista Celaya-Querétaro provoca caos vial",
-          "descripcion": "Volcadura de tráiler en la autopista Celaya-Querétaro provoca caos vial. Celaya.- La volcadura de un tráiler sobre la autopista Celaya-Querétaro originó la movilización de los cuerpos de emergencias, aunque solo se reportaron daños materiales y carga vehicular pesada. El accidente provocó gran congestionamiento vial con dirección a Querétaro. La carretera fue abanderada por elementos de la Guardia Nacional de la división caminos para evitar mayores […]",
-          "recomendacion": "evitar mayores […]",
-          "fecha": "3 agosto 2026 · 10:08 CST",
-          "fecha_iso": "2026-08-03T10:08:00-06:00",
-          "fuente": "AM Guanajuato",
-          "url": "https://www.am.com.mx/celaya/2026/08/03/volcadura-de-trailer-en-la-autopista-celaya-queretaro-1827063.html",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL",
-          "lat": 20.55,
-          "lon": -100.6
-        },
         {
           "id": "cb80d6d6",
           "tipo": "cierre_total",
@@ -88,19 +71,6 @@
     }
   ],
   "para_mapa": [
-    {
-      "id": "38b06963",
-      "tipo": "cierre_total",
-      "ruta": "autopista Celaya-Querétaro provoca caos vial",
-      "descripcion": "Volcadura de tráiler en la autopista Celaya-Querétaro provoca caos vial. Celaya.- La volcadura de un tráiler sobre la autopista Celaya-Querétaro originó la movilización de los cuerpos de emergencias, aunque solo se reportaron daños materiales y carga vehicular pesada. El accidente provocó gran congestionamiento vial con dirección a Querétaro. La carretera fue abanderada por elementos de la Guardia Nacional de la división caminos para evitar mayores […]",
-      "fecha": "3 agosto 2026 · 10:08 CST",
-      "fuente": "AM Guanajuato",
-      "url": "https://www.am.com.mx/celaya/2026/08/03/volcadura-de-trailer-en-la-autopista-celaya-queretaro-1827063.html",
-      "dot_color": "#e74c3c",
-      "badge_txt": "CIERRE TOTAL",
-      "lat": 20.55,
-      "lon": -100.6
-    },
     {
       "id": "7e13bdd2",
       "tipo": "cierre_parcial",
