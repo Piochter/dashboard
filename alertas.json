@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-08-03T15:48:54.605645-06:00",
-  "ultima_actualizacion_legible": "3 de agosto de 2026 · 15:48 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-08-03T16:33:36.978038-06:00",
+  "ultima_actualizacion_legible": "3 de agosto de 2026 · 16:33 CST",
+  "total": 4,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Telegram"
@@ -37,6 +37,20 @@
       "label": "CIERRE PARCIAL / ACCIDENTES",
       "col2": true,
       "alertas": [
+        {
+          "id": "8970c3d5",
+          "tipo": "cierre_parcial",
+          "ruta": "🚨Sobrevive militar a accidente en Tecámac; su auto quedó prensado…",
+          "descripcion": "🚨Sobrevive militar a accidente en Tecámac; su auto quedó prensado 👇\n https://lajornadaestadodemexico.com/militar-sobrevive-tras-quedar-su-automovil-prensado-entre-dos-traileres-en-tecamac/",
+          "recomendacion": "",
+          "fecha": "3 agosto 2026 · 16:17 CST",
+          "fecha_iso": "2026-08-03T16:17:00-06:00",
+          "fuente": "Telegram @jornadaedomex",
+          "url": "https://t.me/jornadaedomex/11630",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        },
         {
           "id": "dac53360",
           "tipo": "cierre_parcial",
