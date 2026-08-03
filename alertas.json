@@ -1,12 +1,88 @@
 {
-  "ultima_actualizacion": "2026-08-03T05:54:29.107456-06:00",
-  "ultima_actualizacion_legible": "3 de agosto de 2026 · 05:54 CST",
-  "total": 0,
+  "ultima_actualizacion": "2026-08-03T08:17:04.479083-06:00",
+  "ultima_actualizacion_legible": "3 de agosto de 2026 · 08:17 CST",
+  "total": 3,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News"
+    "Telegram"
   ],
-  "grupos": [],
-  "para_mapa": [],
-  "nota": "Sin alertas activas en la ventana de tiempo configurada."
+  "grupos": [
+    {
+      "tipo": "cierre_total",
+      "color": "rojo",
+      "icono": "🔴",
+      "label": "CIERRE TOTAL",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "cb80d6d6",
+          "tipo": "cierre_total",
+          "ruta": "🚨 Tráiler vuelca y afecta la circulación entre #Texcoco y…",
+          "descripcion": "🚨 Tráiler vuelca y afecta la circulación entre #Texcoco y #LosReyes [#VIDEO 👇] \n\nhttps://lajornadaestadodemexico.com/volcadura-de-trailer-en-la-texcoco-los-reyes/",
+          "recomendacion": "",
+          "fecha": "3 agosto 2026 · 06:38 CST",
+          "fecha_iso": "2026-08-03T06:38:00-06:00",
+          "fuente": "Telegram @jornadaedomex",
+          "url": "https://t.me/jornadaedomex/11620",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL"
+        }
+      ]
+    },
+    {
+      "tipo": "cierre_parcial",
+      "color": "amarillo",
+      "icono": "🟡",
+      "label": "CIERRE PARCIAL / ACCIDENTES",
+      "col2": true,
+      "alertas": [
+        {
+          "id": "dac53360",
+          "tipo": "cierre_parcial",
+          "ruta": "⚠️Pareja pierde la vida tras accidente en la carretera #SanFelipeDelProgreso-#Ixtlahuaca…",
+          "descripcion": "⚠️Pareja pierde la vida tras accidente en la carretera #SanFelipeDelProgreso-#Ixtlahuaca\nhttps://lajornadaestadodemexico.com/accidente-en-la-carretera-san-felipe-del-progreso-ixtlahuaca/",
+          "recomendacion": "",
+          "fecha": "3 agosto 2026 · 07:22 CST",
+          "fecha_iso": "2026-08-03T07:22:00-06:00",
+          "fuente": "Telegram @jornadaedomex",
+          "url": "https://t.me/jornadaedomex/11622",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        },
+        {
+          "id": "7e13bdd2",
+          "tipo": "cierre_parcial",
+          "ruta": "🚧 Fuerte accidente reduce la circulación a un solo carril…",
+          "descripcion": "🚧 Fuerte accidente reduce la circulación a un solo carril en la #México-#Toluca 😨👇\n\nhttps://lajornadaestadodemexico.com/accidente-reduce-la-circulacion-a-un-solo-carril-en-la-mexico-toluca/",
+          "recomendacion": "",
+          "fecha": "3 agosto 2026 · 07:04 CST",
+          "fecha_iso": "2026-08-03T07:04:00-06:00",
+          "fuente": "Telegram @jornadaedomex",
+          "url": "https://t.me/jornadaedomex/11621",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 19.29,
+          "lon": -99.66
+        }
+      ]
+    }
+  ],
+  "para_mapa": [
+    {
+      "id": "7e13bdd2",
+      "tipo": "cierre_parcial",
+      "ruta": "🚧 Fuerte accidente reduce la circulación a un solo carril…",
+      "descripcion": "🚧 Fuerte accidente reduce la circulación a un solo carril en la #México-#Toluca 😨👇\n\nhttps://lajornadaestadodemexico.com/accidente-reduce-la-circulacion-a-un-solo-carril-en-la-mexico-toluca/",
+      "fecha": "3 agosto 2026 · 07:04 CST",
+      "fuente": "Telegram @jornadaedomex",
+      "url": "https://t.me/jornadaedomex/11621",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 19.29,
+      "lon": -99.66
+    }
+  ]
 }
