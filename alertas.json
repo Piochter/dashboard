@@ -1,11 +1,11 @@
 {
-  "ultima_actualizacion": "2026-08-04T06:17:40.885319-06:00",
-  "ultima_actualizacion_legible": "4 de agosto de 2026 · 06:17 CST",
+  "ultima_actualizacion": "2026-08-04T08:58:19.747615-06:00",
+  "ultima_actualizacion_legible": "4 de agosto de 2026 · 08:58 CST",
   "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Medios nacionales",
-    "Quadratin + regionales"
+    "Google News",
+    "Medios nacionales"
   ],
   "grupos": [
     {
@@ -16,20 +16,18 @@
       "col2": false,
       "alertas": [
         {
-          "id": "36bd269d",
+          "id": "578e391f",
           "tipo": "bloqueo",
-          "ruta": "Toma protesta Ernesto García como jefe de la Guardia Nacional…",
-          "descripcion": "Toma protesta Ernesto García como jefe de la Guardia Nacional en Jalisco. Un acto orientado a reforzar la estrategia de seguridad y la articulación entre las fuerzas federales y locales.",
+          "ruta": "Bloqueos carreteras HOY 4 de agosto: Autopistas cerradas en México,…",
+          "descripcion": "Bloqueos carreteras HOY 4 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 4 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
           "recomendacion": "",
-          "fecha": "3 agosto 2026 · 19:58 CST",
-          "fecha_iso": "2026-08-03T19:58:00-06:00",
-          "fuente": "Quadratin Jalisco",
-          "url": "https://jalisco.quadratin.com.mx/Nacional/toma-protesta-ernesto-garcia-como-jefe-de-la-guardia-nacional-en-jalisco/",
+          "fecha": "4 agosto 2026 · 07:21 CST",
+          "fecha_iso": "2026-08-04T07:21:00-06:00",
+          "fuente": "Eje Central",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQYVNmNlhoR2VNbC1Ydllzc3JXVEUyY1A1Sk5YN2pXRE1mLU52bUlvckZGWk83VlRjUWNKX0hDSXBSZUhRT2tVM09va0hpUkRjbUxIdkJaWDFvclZaV25ZREp2dVRQVlZjMkZMMVFCUnEyZWQ3U1FqYmZVQWh3ZzNFR3VseWZaN3NEV2J2N1JmNE9zYUhDaDZCLXJrZ1JvR1FYX0pQd09xelMxYkREVEo1QkU3a2p3b1Ftc29JbzJTaDF6OHBhbzVDQ05hMmJCd3Y1anBDRGNubFNQVGRNc1hDeUZlNDRTMUk?oc=5",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 20.66,
-          "lon": -103.35
+          "badge_txt": "BLOQUEO"
         }
       ]
     },
@@ -72,19 +70,6 @@
       "badge_txt": "ALERTA CLIMA",
       "lat": 19.7,
       "lon": -101.19
-    },
-    {
-      "id": "36bd269d",
-      "tipo": "bloqueo",
-      "ruta": "Toma protesta Ernesto García como jefe de la Guardia Nacional…",
-      "descripcion": "Toma protesta Ernesto García como jefe de la Guardia Nacional en Jalisco. Un acto orientado a reforzar la estrategia de seguridad y la articulación entre las fuerzas federales y locales.",
-      "fecha": "3 agosto 2026 · 19:58 CST",
-      "fuente": "Quadratin Jalisco",
-      "url": "https://jalisco.quadratin.com.mx/Nacional/toma-protesta-ernesto-garcia-como-jefe-de-la-guardia-nacional-en-jalisco/",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 20.66,
-      "lon": -103.35
     }
   ]
 }
