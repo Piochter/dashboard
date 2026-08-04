@@ -1,10 +1,10 @@
 {
-  "ultima_actualizacion": "2026-08-03T19:29:22.773038-06:00",
-  "ultima_actualizacion_legible": "3 de agosto de 2026 · 19:29 CST",
+  "ultima_actualizacion": "2026-08-03T22:43:14.746095-06:00",
+  "ultima_actualizacion_legible": "3 de agosto de 2026 · 22:43 CST",
   "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Medios regionales",
+    "Quadratin + regionales",
     "Telegram"
   ],
   "grupos": [
@@ -16,20 +16,20 @@
       "col2": false,
       "alertas": [
         {
-          "id": "f73f0d6a",
+          "id": "36bd269d",
           "tipo": "bloqueo",
-          "ruta": "Prenden fuego a tráiler en bloqueo de Pómaro en Maruata…",
-          "descripcion": "Prenden fuego a tráiler en bloqueo de Pómaro en Maruata. Se encontraba detenido en la carretera federal México 200",
+          "ruta": "Toma protesta Ernesto García como jefe de la Guardia Nacional…",
+          "descripcion": "Toma protesta Ernesto García como jefe de la Guardia Nacional en Jalisco. Un acto orientado a reforzar la estrategia de seguridad y la articulación entre las fuerzas federales y locales.",
           "recomendacion": "",
-          "fecha": "3 agosto 2026 · 18:08 CST",
-          "fecha_iso": "2026-08-03T18:08:00-06:00",
-          "fuente": "Quadratin Michoacan",
-          "url": "https://www.quadratin.com.mx/justicia/prenden-fuego-a-trailer-en-bloqueo-de-pomaro-en-maruata/",
+          "fecha": "3 agosto 2026 · 19:58 CST",
+          "fecha_iso": "2026-08-03T19:58:00-06:00",
+          "fuente": "Quadratin Jalisco",
+          "url": "https://jalisco.quadratin.com.mx/Nacional/toma-protesta-ernesto-garcia-como-jefe-de-la-guardia-nacional-en-jalisco/",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO",
-          "lat": 19.1,
-          "lon": -104.3
+          "lat": 20.66,
+          "lon": -103.35
         }
       ]
     },
@@ -59,17 +59,17 @@
   ],
   "para_mapa": [
     {
-      "id": "f73f0d6a",
+      "id": "36bd269d",
       "tipo": "bloqueo",
-      "ruta": "Prenden fuego a tráiler en bloqueo de Pómaro en Maruata…",
-      "descripcion": "Prenden fuego a tráiler en bloqueo de Pómaro en Maruata. Se encontraba detenido en la carretera federal México 200",
-      "fecha": "3 agosto 2026 · 18:08 CST",
-      "fuente": "Quadratin Michoacan",
-      "url": "https://www.quadratin.com.mx/justicia/prenden-fuego-a-trailer-en-bloqueo-de-pomaro-en-maruata/",
+      "ruta": "Toma protesta Ernesto García como jefe de la Guardia Nacional…",
+      "descripcion": "Toma protesta Ernesto García como jefe de la Guardia Nacional en Jalisco. Un acto orientado a reforzar la estrategia de seguridad y la articulación entre las fuerzas federales y locales.",
+      "fecha": "3 agosto 2026 · 19:58 CST",
+      "fuente": "Quadratin Jalisco",
+      "url": "https://jalisco.quadratin.com.mx/Nacional/toma-protesta-ernesto-garcia-como-jefe-de-la-guardia-nacional-en-jalisco/",
       "dot_color": "#8e44ad",
       "badge_txt": "BLOQUEO",
-      "lat": 19.1,
-      "lon": -104.3
+      "lat": 20.66,
+      "lon": -103.35
     }
   ]
 }
