@@ -1,11 +1,11 @@
 {
-  "ultima_actualizacion": "2026-08-04T04:06:52.960859-06:00",
-  "ultima_actualizacion_legible": "4 de agosto de 2026 · 04:06 CST",
+  "ultima_actualizacion": "2026-08-04T06:17:40.885319-06:00",
+  "ultima_actualizacion_legible": "4 de agosto de 2026 · 06:17 CST",
   "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Quadratin + regionales",
-    "Telegram"
+    "Medios nacionales",
+    "Quadratin + regionales"
   ],
   "grupos": [
     {
@@ -34,30 +34,45 @@
       ]
     },
     {
-      "tipo": "cierre_parcial",
-      "color": "amarillo",
-      "icono": "🟡",
-      "label": "CIERRE PARCIAL / ACCIDENTES",
-      "col2": true,
+      "tipo": "clima",
+      "color": "azul",
+      "icono": "🌧",
+      "label": "ALERTA METEOROLOGICA",
+      "col2": false,
       "alertas": [
         {
-          "id": "8970c3d5",
-          "tipo": "cierre_parcial",
-          "ruta": "🚨Sobrevive militar a accidente en Tecámac; su auto quedó prensado…",
-          "descripcion": "🚨Sobrevive militar a accidente en Tecámac; su auto quedó prensado 👇\n https://lajornadaestadodemexico.com/militar-sobrevive-tras-quedar-su-automovil-prensado-entre-dos-traileres-en-tecamac/",
+          "id": "87966983",
+          "tipo": "clima",
+          "ruta": "Fuerte lluvia con granizo en Pátzcuaro causa desborde de arroyo…",
+          "descripcion": "Fuerte lluvia con granizo en Pátzcuaro causa desborde de arroyo e inundaciones. Una tormenta con granizo y fuertes ráfagas de viento azotó ayer en la tarde a Pátzcuaro, Michoacán, y provocó el desborde del arroyo del Libramiento, inundaciones en colonias y arrastre de vehículos y motocicletas.",
           "recomendacion": "",
-          "fecha": "3 agosto 2026 · 16:17 CST",
-          "fecha_iso": "2026-08-03T16:17:00-06:00",
-          "fuente": "Telegram @jornadaedomex",
-          "url": "https://t.me/jornadaedomex/11630",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
+          "fecha": "4 agosto 2026 · 02:39 CST",
+          "fecha_iso": "2026-08-04T02:39:00-06:00",
+          "fuente": "La Jornada Estados",
+          "url": "https://www.jornada.com.mx/2026/08/04/estados/027n2est?partner=rss",
+          "dot_color": "#3498db",
+          "badge": "badge-clima",
+          "badge_txt": "ALERTA CLIMA",
+          "lat": 19.7,
+          "lon": -101.19
         }
       ]
     }
   ],
   "para_mapa": [
+    {
+      "id": "87966983",
+      "tipo": "clima",
+      "ruta": "Fuerte lluvia con granizo en Pátzcuaro causa desborde de arroyo…",
+      "descripcion": "Fuerte lluvia con granizo en Pátzcuaro causa desborde de arroyo e inundaciones. Una tormenta con granizo y fuertes ráfagas de viento azotó ayer en la tarde a Pátzcuaro, Michoacán, y provocó el desborde del arroyo del Libramiento, inundaciones en colonias y arrastre de vehículos y motocicletas.",
+      "fecha": "4 agosto 2026 · 02:39 CST",
+      "fuente": "La Jornada Estados",
+      "url": "https://www.jornada.com.mx/2026/08/04/estados/027n2est?partner=rss",
+      "dot_color": "#3498db",
+      "badge_txt": "ALERTA CLIMA",
+      "lat": 19.7,
+      "lon": -101.19
+    },
     {
       "id": "36bd269d",
       "tipo": "bloqueo",
