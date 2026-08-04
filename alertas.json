@@ -1,6 +1,6 @@
 {
-  "ultima_actualizacion": "2026-08-04T12:23:57.610491-06:00",
-  "ultima_actualizacion_legible": "4 de agosto de 2026 · 12:23 CST",
+  "ultima_actualizacion": "2026-08-04T14:07:24.966651-06:00",
+  "ultima_actualizacion_legible": "4 de agosto de 2026 · 14:07 CST",
   "total": 6,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
@@ -18,20 +18,18 @@
       "col2": false,
       "alertas": [
         {
-          "id": "fc930e44",
+          "id": "dabd7771",
           "tipo": "cierre_total",
-          "ruta": "Deja carambola 5 lesionados en Almoloya de Juárez…",
-          "descripcion": "Deja carambola 5 lesionados en Almoloya de Juárez. ALMOLOYA DE JUÁREZ, Edomex., 4 de agosto de 2026.- La madrugada de este martes se registró un choque en el que estuvieron involucrados un tráiler y tres vehículos particulares, lo que dejó como saldo cinco personas lesionadas, al menos dos de ellas de gravedad, además del cierre total de la circulación sobre la carretera Toluca-Zitácuaro. […]",
+          "ruta": "Volcadura en Puerto Interior desata caos carretero: Se voltea tráiler…",
+          "descripcion": "Volcadura en Puerto Interior desata caos carretero: Se voltea tráiler con electrolitos. El accidente sucedió minutos después de las 7 de la mañana de este martes 4 de agosto en el puente que va hacia el Puerto Interior, con dirección de León a Silao.",
           "recomendacion": "",
-          "fecha": "4 agosto 2026 · 09:15 CST",
-          "fecha_iso": "2026-08-04T09:15:00-06:00",
-          "fuente": "Quadratin EdoMex",
-          "url": "https://edomex.quadratin.com.mx/deja-carambola-5-lesionados-en-almoloya-de-juarez/",
+          "fecha": "4 agosto 2026 · 13:52 CST",
+          "fecha_iso": "2026-08-04T13:52:00-06:00",
+          "fuente": "AM Guanajuato",
+          "url": "https://www.am.com.mx/leon/2026/08/04/volcadura-de-trailer-en-puerto-interior-provoca-caos-en-carretera-1827535.html",
           "dot_color": "#e74c3c",
           "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL",
-          "lat": 19.35,
-          "lon": -99.7
+          "badge_txt": "CIERRE TOTAL"
         }
       ]
     },
@@ -42,22 +40,6 @@
       "label": "BLOQUEOS / MANIFESTACIONES",
       "col2": false,
       "alertas": [
-        {
-          "id": "76c09273",
-          "tipo": "bloqueo",
-          "ruta": "Instan cerco de antimotines en Casa Michoacán ante llegada de…",
-          "descripcion": "Instan cerco de antimotines en Casa Michoacán ante llegada de comuneros. La circulación en la zona ya se encuentra interrumpida",
-          "recomendacion": "",
-          "fecha": "4 agosto 2026 · 12:20 CST",
-          "fecha_iso": "2026-08-04T12:20:00-06:00",
-          "fuente": "Quadratin Michoacan",
-          "url": "https://www.quadratin.com.mx/sucesos/instan-cerco-de-antimotines-en-casa-michoacan-ante-llegada-de-comuneros/",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 19.7,
-          "lon": -101.19
-        },
         {
           "id": "578e391f",
           "tipo": "bloqueo",
@@ -82,15 +64,31 @@
       "col2": true,
       "alertas": [
         {
-          "id": "1ce16d04",
+          "id": "e224333d",
           "tipo": "cierre_parcial",
-          "ruta": "Controlan incendio de pastizal en kilómetro 31 de Cazones…",
-          "descripcion": "Controlan incendio de pastizal en kilómetro 31 de Cazones. Con el respaldo de la Unidad Municipal de Protección Civil y voluntarios",
+          "ruta": "Chocan tráiler y Urvan del transporte público en Acapulco; 6…",
+          "descripcion": "Chocan tráiler y Urvan del transporte público en Acapulco; 6 lesionados. El accidente, en la colonia Balcones del Mar",
           "recomendacion": "",
-          "fecha": "4 agosto 2026 · 09:23 CST",
-          "fecha_iso": "2026-08-04T09:23:00-06:00",
-          "fuente": "Quadratin Veracruz",
-          "url": "https://veracruz.quadratin.com.mx/controlan-incendio-de-pastizal-en-kilometro-31-de-cazones/",
+          "fecha": "4 agosto 2026 · 13:01 CST",
+          "fecha_iso": "2026-08-04T13:01:00-06:00",
+          "fuente": "Quadratin Guerrero",
+          "url": "https://guerrero.quadratin.com.mx/chocan-trailer-y-urvan-del-transporte-publico-en-acapulco-6-lesionados/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 16.86,
+          "lon": -99.88
+        },
+        {
+          "id": "18b86d95",
+          "tipo": "cierre_parcial",
+          "ruta": "autopista La Pera-Cuautla",
+          "descripcion": "Denuncian robos en autopista La Pera-Cuautla. Denuncian robos en autopista La Pera-Cuautla",
+          "recomendacion": "",
+          "fecha": "4 agosto 2026 · 12:44 CST",
+          "fecha_iso": "2026-08-04T12:44:00-06:00",
+          "fuente": "Quadratin Morelos",
+          "url": "https://morelos.quadratin.com.mx/denuncian-robos-en-autopista-la-pera-cuautla/",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL"
@@ -139,30 +137,17 @@
   ],
   "para_mapa": [
     {
-      "id": "76c09273",
-      "tipo": "bloqueo",
-      "ruta": "Instan cerco de antimotines en Casa Michoacán ante llegada de…",
-      "descripcion": "Instan cerco de antimotines en Casa Michoacán ante llegada de comuneros. La circulación en la zona ya se encuentra interrumpida",
-      "fecha": "4 agosto 2026 · 12:20 CST",
-      "fuente": "Quadratin Michoacan",
-      "url": "https://www.quadratin.com.mx/sucesos/instan-cerco-de-antimotines-en-casa-michoacan-ante-llegada-de-comuneros/",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 19.7,
-      "lon": -101.19
-    },
-    {
-      "id": "fc930e44",
-      "tipo": "cierre_total",
-      "ruta": "Deja carambola 5 lesionados en Almoloya de Juárez…",
-      "descripcion": "Deja carambola 5 lesionados en Almoloya de Juárez. ALMOLOYA DE JUÁREZ, Edomex., 4 de agosto de 2026.- La madrugada de este martes se registró un choque en el que estuvieron involucrados un tráiler y tres vehículos particulares, lo que dejó como saldo cinco personas lesionadas, al menos dos de ellas de gravedad, además del cierre total de la circulación sobre la carretera Toluca-Zitácuaro. […]",
-      "fecha": "4 agosto 2026 · 09:15 CST",
-      "fuente": "Quadratin EdoMex",
-      "url": "https://edomex.quadratin.com.mx/deja-carambola-5-lesionados-en-almoloya-de-juarez/",
-      "dot_color": "#e74c3c",
-      "badge_txt": "CIERRE TOTAL",
-      "lat": 19.35,
-      "lon": -99.7
+      "id": "e224333d",
+      "tipo": "cierre_parcial",
+      "ruta": "Chocan tráiler y Urvan del transporte público en Acapulco; 6…",
+      "descripcion": "Chocan tráiler y Urvan del transporte público en Acapulco; 6 lesionados. El accidente, en la colonia Balcones del Mar",
+      "fecha": "4 agosto 2026 · 13:01 CST",
+      "fuente": "Quadratin Guerrero",
+      "url": "https://guerrero.quadratin.com.mx/chocan-trailer-y-urvan-del-transporte-publico-en-acapulco-6-lesionados/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 16.86,
+      "lon": -99.88
     },
     {
       "id": "87966983",
