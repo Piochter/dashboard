@@ -1,6 +1,6 @@
 {
-  "ultima_actualizacion": "2026-08-04T17:42:43.453039-06:00",
-  "ultima_actualizacion_legible": "4 de agosto de 2026 · 17:42 CST",
+  "ultima_actualizacion": "2026-08-04T19:04:42.989087-06:00",
+  "ultima_actualizacion_legible": "4 de agosto de 2026 · 19:04 CST",
   "total": 4,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
@@ -31,14 +31,14 @@
           "badge_txt": "BLOQUEO"
         },
         {
-          "id": "a2872b3a",
+          "id": "578e391f",
           "tipo": "bloqueo",
           "ruta": "Bloqueos carreteras HOY 4 de agosto: Autopistas cerradas en México,…",
-          "descripcion": "Bloqueos carreteras HOY 4 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - ejecentral.com.mx. Bloqueos carreteras HOY 4 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE ejecentral.com.mx",
+          "descripcion": "Bloqueos carreteras HOY 4 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 4 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
           "recomendacion": "",
           "fecha": "4 agosto 2026 · 07:21 CST",
           "fecha_iso": "2026-08-04T07:21:00-06:00",
-          "fuente": "ejecentral.com.mx",
+          "fuente": "Eje Central",
           "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQYVNmNlhoR2VNbC1Ydllzc3JXVEUyY1A1Sk5YN2pXRE1mLU52bUlvckZGWk83VlRjUWNKX0hDSXBSZUhRT2tVM09va0hpUkRjbUxIdkJaWDFvclZaV25ZREp2dVRQVlZjMkZMMVFCUnEyZWQ3U1FqYmZVQWh3ZzNFR3VseWZaN3NEV2J2N1JmNE9zYUhDaDZCLXJrZ1JvR1FYX0pQd09xelMxYkREVEo1QkU3a2p3b1Ftc29JbzJTaDF6OHBhbzVDQ05hMmJCd3Y1anBDRGNubFNQVGRNc1hDeUZlNDRTMUk?oc=5",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
@@ -54,6 +54,22 @@
       "col2": true,
       "alertas": [
         {
+          "id": "47c3ccc7",
+          "tipo": "cierre_parcial",
+          "ruta": "Tolva se accidenta y deja cerrado el surponiente…",
+          "descripcion": "Tolva se accidenta y deja cerrado el surponiente. Un tractocamión acoplado con una tolva se accidentó al presentar una aparente falla en un neumático y posteriormente se impactó contra el muro The post Tolva se accidenta y deja cerrado el surponiente appeared first on Quadratin Querétaro.",
+          "recomendacion": "",
+          "fecha": "4 agosto 2026 · 18:00 CST",
+          "fecha_iso": "2026-08-04T18:00:00-06:00",
+          "fuente": "Quadratin Queretaro",
+          "url": "https://queretaro.quadratin.com.mx/tolva-se-accidenta-y-deja-cerrado-el-surponiente/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 20.59,
+          "lon": -100.39
+        },
+        {
           "id": "993feae6",
           "tipo": "cierre_parcial",
           "ruta": "carretera a Los Cues",
@@ -68,27 +84,24 @@
           "badge_txt": "CIERRE PARCIAL",
           "lat": 20.59,
           "lon": -100.39
-        },
-        {
-          "id": "95752f72",
-          "tipo": "cierre_parcial",
-          "ruta": "Muere mujer atropellada por tráiler en Tultitlán; menor sale ileso…",
-          "descripcion": "Muere mujer atropellada por tráiler en Tultitlán; menor sale ileso. TULTITLÁN, Edomex., 4 de agosto de 2026.- Una mujer perdió la vida luego de ser atropellada por un tráiler cuando circulaba a bordo de una motocicleta junto con un menor de edad, quien aparentemente era su nieto, en calles de Tultitlán. El accidente ocurrió sobre avenida Prados, esquina con Eje 3, donde la motocicleta fue […]",
-          "recomendacion": "",
-          "fecha": "4 agosto 2026 · 15:30 CST",
-          "fecha_iso": "2026-08-04T15:30:00-06:00",
-          "fuente": "Quadratin EdoMex",
-          "url": "https://edomex.quadratin.com.mx/muere-mujer-atropellada-por-trailer-en-tultitlan-menor-sale-ileso/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.35,
-          "lon": -99.7
         }
       ]
     }
   ],
   "para_mapa": [
+    {
+      "id": "47c3ccc7",
+      "tipo": "cierre_parcial",
+      "ruta": "Tolva se accidenta y deja cerrado el surponiente…",
+      "descripcion": "Tolva se accidenta y deja cerrado el surponiente. Un tractocamión acoplado con una tolva se accidentó al presentar una aparente falla en un neumático y posteriormente se impactó contra el muro The post Tolva se accidenta y deja cerrado el surponiente appeared first on Quadratin Querétaro.",
+      "fecha": "4 agosto 2026 · 18:00 CST",
+      "fuente": "Quadratin Queretaro",
+      "url": "https://queretaro.quadratin.com.mx/tolva-se-accidenta-y-deja-cerrado-el-surponiente/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 20.59,
+      "lon": -100.39
+    },
     {
       "id": "993feae6",
       "tipo": "cierre_parcial",
@@ -101,19 +114,6 @@
       "badge_txt": "CIERRE PARCIAL",
       "lat": 20.59,
       "lon": -100.39
-    },
-    {
-      "id": "95752f72",
-      "tipo": "cierre_parcial",
-      "ruta": "Muere mujer atropellada por tráiler en Tultitlán; menor sale ileso…",
-      "descripcion": "Muere mujer atropellada por tráiler en Tultitlán; menor sale ileso. TULTITLÁN, Edomex., 4 de agosto de 2026.- Una mujer perdió la vida luego de ser atropellada por un tráiler cuando circulaba a bordo de una motocicleta junto con un menor de edad, quien aparentemente era su nieto, en calles de Tultitlán. El accidente ocurrió sobre avenida Prados, esquina con Eje 3, donde la motocicleta fue […]",
-      "fecha": "4 agosto 2026 · 15:30 CST",
-      "fuente": "Quadratin EdoMex",
-      "url": "https://edomex.quadratin.com.mx/muere-mujer-atropellada-por-trailer-en-tultitlan-menor-sale-ileso/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.35,
-      "lon": -99.7
     }
   ]
 }
