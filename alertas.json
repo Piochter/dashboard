@@ -1,36 +1,12 @@
 {
-  "ultima_actualizacion": "2026-08-05T03:47:38.460714-06:00",
-  "ultima_actualizacion_legible": "5 de agosto de 2026 · 03:47 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-08-05T05:51:52.256383-06:00",
+  "ultima_actualizacion_legible": "5 de agosto de 2026 · 05:51 CST",
+  "total": 1,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Quadratin + regionales",
-    "Telegram"
+    "Quadratin + regionales"
   ],
   "grupos": [
-    {
-      "tipo": "bloqueo",
-      "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "fecf66f9",
-          "tipo": "bloqueo",
-          "ruta": "Habitantes de Tultepec levantan protesta en caseta del CEM tras…",
-          "descripcion": "Habitantes de Tultepec levantan protesta en caseta del CEM tras pactar reunión con las autoridades👇\nhttps://lajornadaestadodemexico.com/habitantes-de-tultepec-levantan-protesta-en-caseta-del-cem/",
-          "recomendacion": "",
-          "fecha": "4 agosto 2026 · 16:31 CST",
-          "fecha_iso": "2026-08-04T16:31:00-06:00",
-          "fuente": "Telegram @jornadaedomex",
-          "url": "https://t.me/jornadaedomex/11643",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        }
-      ]
-    },
     {
       "tipo": "cierre_parcial",
       "color": "amarillo",
