@@ -1,11 +1,11 @@
 {
-  "ultima_actualizacion": "2026-08-05T07:44:24.336197-06:00",
-  "ultima_actualizacion_legible": "5 de agosto de 2026 · 07:44 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-08-05T09:51:10.509381-06:00",
+  "ultima_actualizacion_legible": "5 de agosto de 2026 · 09:51 CST",
+  "total": 4,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Medios nacionales",
-    "Quadratin + regionales",
+    "Medios regionales",
     "Telegram"
   ],
   "grupos": [
@@ -16,6 +16,38 @@
       "label": "CIERRE PARCIAL / ACCIDENTES",
       "col2": true,
       "alertas": [
+        {
+          "id": "7353c2d1",
+          "tipo": "cierre_parcial",
+          "ruta": "📢Alertan por desvíos y cierres en la carretera #Toluca-#Atlacomulco 😱👇…",
+          "descripcion": "📢Alertan por desvíos y cierres en la carretera #Toluca-#Atlacomulco 😱👇\n https://lajornadaestadodemexico.com/desvios-y-cierres-en-la-carretera-toluca-atlacomulco/",
+          "recomendacion": "",
+          "fecha": "5 agosto 2026 · 09:41 CST",
+          "fecha_iso": "2026-08-05T09:41:00-06:00",
+          "fuente": "Telegram @jornadaedomex",
+          "url": "https://t.me/jornadaedomex/11645",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 19.29,
+          "lon": -99.66
+        },
+        {
+          "id": "3dada84d",
+          "tipo": "cierre_parcial",
+          "ruta": "Se les “olvidó” pagar: Caen Zervando y Mayanin por supuesto…",
+          "descripcion": "Se les “olvidó” pagar: Caen Zervando y Mayanin por supuesto robo de mercancía en Bugambilias. Fueron puestos a disposición de la Fiscalía General del Estado de Guanajuato para que se determine su situación legal.",
+          "recomendacion": "",
+          "fecha": "5 agosto 2026 · 08:38 CST",
+          "fecha_iso": "2026-08-05T08:38:00-06:00",
+          "fuente": "AM Guanajuato",
+          "url": "https://www.am.com.mx/celaya/2026/08/05/caen-dos-por-supuesto-robo-en-tienda-de-bugambilias-en-celaya-1827927.html",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 21.02,
+          "lon": -101.26
+        },
         {
           "id": "e3167d7d",
           "tipo": "cierre_parcial",
@@ -47,27 +79,37 @@
           "badge_txt": "CIERRE PARCIAL",
           "lat": 29.07,
           "lon": -110.96
-        },
-        {
-          "id": "9755f391",
-          "tipo": "cierre_parcial",
-          "ruta": "autopista México-Querétaro",
-          "descripcion": "Graban asalto a camioneta de paquetería en autopista México-Querétaro. La tarde de este martes, una camioneta de paquetería que circulaba sobre la autopista México–Querétaro, a la altura del tramo de Santa Ana Azcapotzalt The post Graban asalto a camioneta de paquetería en autopista México-Querétaro appeared first on Quadratin Hidalgo.",
-          "recomendacion": "",
-          "fecha": "4 agosto 2026 · 21:37 CST",
-          "fecha_iso": "2026-08-04T21:37:00-06:00",
-          "fuente": "Quadratin Hidalgo",
-          "url": "https://hidalgo.quadratin.com.mx/sucesos/graban-asalto-a-camioneta-de-paqueteria-en-autopista-mexico-queretaro/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 20.1,
-          "lon": -99.5
         }
       ]
     }
   ],
   "para_mapa": [
+    {
+      "id": "7353c2d1",
+      "tipo": "cierre_parcial",
+      "ruta": "📢Alertan por desvíos y cierres en la carretera #Toluca-#Atlacomulco 😱👇…",
+      "descripcion": "📢Alertan por desvíos y cierres en la carretera #Toluca-#Atlacomulco 😱👇\n https://lajornadaestadodemexico.com/desvios-y-cierres-en-la-carretera-toluca-atlacomulco/",
+      "fecha": "5 agosto 2026 · 09:41 CST",
+      "fuente": "Telegram @jornadaedomex",
+      "url": "https://t.me/jornadaedomex/11645",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 19.29,
+      "lon": -99.66
+    },
+    {
+      "id": "3dada84d",
+      "tipo": "cierre_parcial",
+      "ruta": "Se les “olvidó” pagar: Caen Zervando y Mayanin por supuesto…",
+      "descripcion": "Se les “olvidó” pagar: Caen Zervando y Mayanin por supuesto robo de mercancía en Bugambilias. Fueron puestos a disposición de la Fiscalía General del Estado de Guanajuato para que se determine su situación legal.",
+      "fecha": "5 agosto 2026 · 08:38 CST",
+      "fuente": "AM Guanajuato",
+      "url": "https://www.am.com.mx/celaya/2026/08/05/caen-dos-por-supuesto-robo-en-tienda-de-bugambilias-en-celaya-1827927.html",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 21.02,
+      "lon": -101.26
+    },
     {
       "id": "e3167d7d",
       "tipo": "cierre_parcial",
@@ -93,19 +135,6 @@
       "badge_txt": "CIERRE PARCIAL",
       "lat": 29.07,
       "lon": -110.96
-    },
-    {
-      "id": "9755f391",
-      "tipo": "cierre_parcial",
-      "ruta": "autopista México-Querétaro",
-      "descripcion": "Graban asalto a camioneta de paquetería en autopista México-Querétaro. La tarde de este martes, una camioneta de paquetería que circulaba sobre la autopista México–Querétaro, a la altura del tramo de Santa Ana Azcapotzalt The post Graban asalto a camioneta de paquetería en autopista México-Querétaro appeared first on Quadratin Hidalgo.",
-      "fecha": "4 agosto 2026 · 21:37 CST",
-      "fuente": "Quadratin Hidalgo",
-      "url": "https://hidalgo.quadratin.com.mx/sucesos/graban-asalto-a-camioneta-de-paqueteria-en-autopista-mexico-queretaro/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 20.1,
-      "lon": -99.5
     }
   ]
 }
