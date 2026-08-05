@@ -1,10 +1,12 @@
 {
-  "ultima_actualizacion": "2026-08-05T05:51:52.256383-06:00",
-  "ultima_actualizacion_legible": "5 de agosto de 2026 · 05:51 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-08-05T07:44:24.336197-06:00",
+  "ultima_actualizacion_legible": "5 de agosto de 2026 · 07:44 CST",
+  "total": 3,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Quadratin + regionales"
+    "Medios nacionales",
+    "Quadratin + regionales",
+    "Telegram"
   ],
   "grupos": [
     {
@@ -14,6 +16,38 @@
       "label": "CIERRE PARCIAL / ACCIDENTES",
       "col2": true,
       "alertas": [
+        {
+          "id": "e3167d7d",
+          "tipo": "cierre_parcial",
+          "ruta": "Choque en carretera de Sonora; un muerto y 37 heridos…",
+          "descripcion": "Choque en carretera de Sonora; un muerto y 37 heridos\nhttps://www.jornada.com.mx/2026/08/05/estados/025n4est?partner=rss",
+          "recomendacion": "",
+          "fecha": "5 agosto 2026 · 06:07 CST",
+          "fecha_iso": "2026-08-05T06:07:00-06:00",
+          "fuente": "Telegram @NOTMEX",
+          "url": "https://t.me/NOTMEX/185122",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 29.07,
+          "lon": -110.96
+        },
+        {
+          "id": "04dfaf87",
+          "tipo": "cierre_parcial",
+          "ruta": "Choque en carretera de Sonora; un muerto y 37 heridos…",
+          "descripcion": "Choque en carretera de Sonora; un muerto y 37 heridos. ",
+          "recomendacion": "",
+          "fecha": "5 agosto 2026 · 04:08 CST",
+          "fecha_iso": "2026-08-05T04:08:00-06:00",
+          "fuente": "La Jornada Estados",
+          "url": "https://www.jornada.com.mx/2026/08/05/estados/025n4est?partner=rss",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 29.07,
+          "lon": -110.96
+        },
         {
           "id": "9755f391",
           "tipo": "cierre_parcial",
@@ -34,6 +68,32 @@
     }
   ],
   "para_mapa": [
+    {
+      "id": "e3167d7d",
+      "tipo": "cierre_parcial",
+      "ruta": "Choque en carretera de Sonora; un muerto y 37 heridos…",
+      "descripcion": "Choque en carretera de Sonora; un muerto y 37 heridos\nhttps://www.jornada.com.mx/2026/08/05/estados/025n4est?partner=rss",
+      "fecha": "5 agosto 2026 · 06:07 CST",
+      "fuente": "Telegram @NOTMEX",
+      "url": "https://t.me/NOTMEX/185122",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 29.07,
+      "lon": -110.96
+    },
+    {
+      "id": "04dfaf87",
+      "tipo": "cierre_parcial",
+      "ruta": "Choque en carretera de Sonora; un muerto y 37 heridos…",
+      "descripcion": "Choque en carretera de Sonora; un muerto y 37 heridos. ",
+      "fecha": "5 agosto 2026 · 04:08 CST",
+      "fuente": "La Jornada Estados",
+      "url": "https://www.jornada.com.mx/2026/08/05/estados/025n4est?partner=rss",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 29.07,
+      "lon": -110.96
+    },
     {
       "id": "9755f391",
       "tipo": "cierre_parcial",
