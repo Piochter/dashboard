@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-08-05T13:00:04.158689-06:00",
-  "ultima_actualizacion_legible": "5 de agosto de 2026 · 13:00 CST",
-  "total": 7,
+  "ultima_actualizacion": "2026-08-05T14:27:49.483990-06:00",
+  "ultima_actualizacion_legible": "5 de agosto de 2026 · 14:27 CST",
+  "total": 8,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
@@ -57,6 +57,20 @@
           "badge_txt": "BLOQUEO",
           "lat": 19.7,
           "lon": -101.19
+        },
+        {
+          "id": "aaef2974",
+          "tipo": "bloqueo",
+          "ruta": "Bloqueos carreteras HOY 5 de agosto: Autopistas cerradas en México,…",
+          "descripcion": "Bloqueos carreteras HOY 5 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 5 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
+          "recomendacion": "",
+          "fecha": "5 agosto 2026 · 07:06 CST",
+          "fecha_iso": "2026-08-05T07:06:00-06:00",
+          "fuente": "Eje Central",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOendXQTE2QlY0M0VsRF9WMUh1ek1sRjg0SkRHa2hFUkdXTTNBWXhCTnZOWWdzNGQyTlhnbXRIQVM2QlZKNno5T0ZwanQtVDFWcjdTYzg1R0RtRDZYUzNSQ3BGcmY0RXhxNnFQcmhaQUF1cm4xc0FqTkQ0QkxncmdqNTllM3ptQmhncHU3UmhIME9pSndKenN1X21TTnZuR0kzMmh1cy1lUHlLWmt6dXdqT2FQLWlqdlIySWNUWWxrSzlGRFdtdUdCcE1BSGRTbWtpNlRNOGZvajh2WnVmby1melFLWE5NZEU?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
         }
       ]
     },
