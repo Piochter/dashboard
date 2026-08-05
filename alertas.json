@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-08-05T16:43:42.731917-06:00",
-  "ultima_actualizacion_legible": "5 de agosto de 2026 · 16:43 CST",
-  "total": 7,
+  "ultima_actualizacion": "2026-08-05T17:38:50.897416-06:00",
+  "ultima_actualizacion_legible": "5 de agosto de 2026 · 17:38 CST",
+  "total": 8,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
@@ -17,6 +17,20 @@
       "label": "CIERRE TOTAL",
       "col2": false,
       "alertas": [
+        {
+          "id": "2b150026",
+          "tipo": "cierre_total",
+          "ruta": "Volcadura deja 4 muertos y 3 menores heridos en San…",
+          "descripcion": "Volcadura deja 4 muertos y 3 menores heridos en San Miguel el Alto. El percance ocurrió aproximadamente en el kilómetro 108 de la carretera que conduce de San José de los Reynoso hacia San Juan de los Lagos.",
+          "recomendacion": "",
+          "fecha": "5 agosto 2026 · 17:10 CST",
+          "fecha_iso": "2026-08-05T17:10:00-06:00",
+          "fuente": "Quadratin Jalisco",
+          "url": "https://jalisco.quadratin.com.mx/sucesos/volcadura-deja-4-muertos-y-3-menores-heridos-en-san-miguel-el-alto/",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL"
+        },
         {
           "id": "76520086",
           "tipo": "cierre_total",
