@@ -1,10 +1,9 @@
 {
-  "ultima_actualizacion": "2026-08-04T19:04:42.989087-06:00",
-  "ultima_actualizacion_legible": "4 de agosto de 2026 · 19:04 CST",
-  "total": 4,
+  "ultima_actualizacion": "2026-08-04T22:27:56.483520-06:00",
+  "ultima_actualizacion_legible": "4 de agosto de 2026 · 22:27 CST",
+  "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News",
     "Quadratin + regionales",
     "Telegram"
   ],
@@ -29,20 +28,6 @@
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO"
-        },
-        {
-          "id": "578e391f",
-          "tipo": "bloqueo",
-          "ruta": "Bloqueos carreteras HOY 4 de agosto: Autopistas cerradas en México,…",
-          "descripcion": "Bloqueos carreteras HOY 4 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 4 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
-          "recomendacion": "",
-          "fecha": "4 agosto 2026 · 07:21 CST",
-          "fecha_iso": "2026-08-04T07:21:00-06:00",
-          "fuente": "Eje Central",
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQYVNmNlhoR2VNbC1Ydllzc3JXVEUyY1A1Sk5YN2pXRE1mLU52bUlvckZGWk83VlRjUWNKX0hDSXBSZUhRT2tVM09va0hpUkRjbUxIdkJaWDFvclZaV25ZREp2dVRQVlZjMkZMMVFCUnEyZWQ3U1FqYmZVQWh3ZzNFR3VseWZaN3NEV2J2N1JmNE9zYUhDaDZCLXJrZ1JvR1FYX0pQd09xelMxYkREVEo1QkU3a2p3b1Ftc29JbzJTaDF6OHBhbzVDQ05hMmJCd3Y1anBDRGNubFNQVGRNc1hDeUZlNDRTMUk?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
         }
       ]
     },
@@ -54,66 +39,37 @@
       "col2": true,
       "alertas": [
         {
-          "id": "47c3ccc7",
+          "id": "9755f391",
           "tipo": "cierre_parcial",
-          "ruta": "Tolva se accidenta y deja cerrado el surponiente…",
-          "descripcion": "Tolva se accidenta y deja cerrado el surponiente. Un tractocamión acoplado con una tolva se accidentó al presentar una aparente falla en un neumático y posteriormente se impactó contra el muro The post Tolva se accidenta y deja cerrado el surponiente appeared first on Quadratin Querétaro.",
+          "ruta": "autopista México-Querétaro",
+          "descripcion": "Graban asalto a camioneta de paquetería en autopista México-Querétaro. La tarde de este martes, una camioneta de paquetería que circulaba sobre la autopista México–Querétaro, a la altura del tramo de Santa Ana Azcapotzalt The post Graban asalto a camioneta de paquetería en autopista México-Querétaro appeared first on Quadratin Hidalgo.",
           "recomendacion": "",
-          "fecha": "4 agosto 2026 · 18:00 CST",
-          "fecha_iso": "2026-08-04T18:00:00-06:00",
-          "fuente": "Quadratin Queretaro",
-          "url": "https://queretaro.quadratin.com.mx/tolva-se-accidenta-y-deja-cerrado-el-surponiente/",
+          "fecha": "4 agosto 2026 · 21:37 CST",
+          "fecha_iso": "2026-08-04T21:37:00-06:00",
+          "fuente": "Quadratin Hidalgo",
+          "url": "https://hidalgo.quadratin.com.mx/sucesos/graban-asalto-a-camioneta-de-paqueteria-en-autopista-mexico-queretaro/",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL",
-          "lat": 20.59,
-          "lon": -100.39
-        },
-        {
-          "id": "993feae6",
-          "tipo": "cierre_parcial",
-          "ruta": "carretera a Los Cues",
-          "descripcion": "Dos lesionados tras choque en la carretera a Los Cues. Dos trabajadores que viajaban a bordo de una camioneta de carga ligera, resultaron lesionados de consideración The post Dos lesionados tras choque en la carretera a Los Cues appeared first on Quadratin Querétaro.",
-          "recomendacion": "",
-          "fecha": "4 agosto 2026 · 17:00 CST",
-          "fecha_iso": "2026-08-04T17:00:00-06:00",
-          "fuente": "Quadratin Queretaro",
-          "url": "https://queretaro.quadratin.com.mx/dos-lesionados-tras-choque-en-la-carretera-a-los-cues/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 20.59,
-          "lon": -100.39
+          "lat": 20.1,
+          "lon": -99.5
         }
       ]
     }
   ],
   "para_mapa": [
     {
-      "id": "47c3ccc7",
+      "id": "9755f391",
       "tipo": "cierre_parcial",
-      "ruta": "Tolva se accidenta y deja cerrado el surponiente…",
-      "descripcion": "Tolva se accidenta y deja cerrado el surponiente. Un tractocamión acoplado con una tolva se accidentó al presentar una aparente falla en un neumático y posteriormente se impactó contra el muro The post Tolva se accidenta y deja cerrado el surponiente appeared first on Quadratin Querétaro.",
-      "fecha": "4 agosto 2026 · 18:00 CST",
-      "fuente": "Quadratin Queretaro",
-      "url": "https://queretaro.quadratin.com.mx/tolva-se-accidenta-y-deja-cerrado-el-surponiente/",
+      "ruta": "autopista México-Querétaro",
+      "descripcion": "Graban asalto a camioneta de paquetería en autopista México-Querétaro. La tarde de este martes, una camioneta de paquetería que circulaba sobre la autopista México–Querétaro, a la altura del tramo de Santa Ana Azcapotzalt The post Graban asalto a camioneta de paquetería en autopista México-Querétaro appeared first on Quadratin Hidalgo.",
+      "fecha": "4 agosto 2026 · 21:37 CST",
+      "fuente": "Quadratin Hidalgo",
+      "url": "https://hidalgo.quadratin.com.mx/sucesos/graban-asalto-a-camioneta-de-paqueteria-en-autopista-mexico-queretaro/",
       "dot_color": "#e67e22",
       "badge_txt": "CIERRE PARCIAL",
-      "lat": 20.59,
-      "lon": -100.39
-    },
-    {
-      "id": "993feae6",
-      "tipo": "cierre_parcial",
-      "ruta": "carretera a Los Cues",
-      "descripcion": "Dos lesionados tras choque en la carretera a Los Cues. Dos trabajadores que viajaban a bordo de una camioneta de carga ligera, resultaron lesionados de consideración The post Dos lesionados tras choque en la carretera a Los Cues appeared first on Quadratin Querétaro.",
-      "fecha": "4 agosto 2026 · 17:00 CST",
-      "fuente": "Quadratin Queretaro",
-      "url": "https://queretaro.quadratin.com.mx/dos-lesionados-tras-choque-en-la-carretera-a-los-cues/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 20.59,
-      "lon": -100.39
+      "lat": 20.1,
+      "lon": -99.5
     }
   ]
 }
