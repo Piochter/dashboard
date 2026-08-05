@@ -1,11 +1,10 @@
 {
-  "ultima_actualizacion": "2026-08-05T09:51:10.509381-06:00",
-  "ultima_actualizacion_legible": "5 de agosto de 2026 · 09:51 CST",
-  "total": 4,
+  "ultima_actualizacion": "2026-08-05T11:21:12.210361-06:00",
+  "ultima_actualizacion_legible": "5 de agosto de 2026 · 11:21 CST",
+  "total": 3,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Medios nacionales",
-    "Medios regionales",
     "Telegram"
   ],
   "grupos": [
@@ -31,22 +30,6 @@
           "badge_txt": "CIERRE PARCIAL",
           "lat": 19.29,
           "lon": -99.66
-        },
-        {
-          "id": "3dada84d",
-          "tipo": "cierre_parcial",
-          "ruta": "Se les “olvidó” pagar: Caen Zervando y Mayanin por supuesto…",
-          "descripcion": "Se les “olvidó” pagar: Caen Zervando y Mayanin por supuesto robo de mercancía en Bugambilias. Fueron puestos a disposición de la Fiscalía General del Estado de Guanajuato para que se determine su situación legal.",
-          "recomendacion": "",
-          "fecha": "5 agosto 2026 · 08:38 CST",
-          "fecha_iso": "2026-08-05T08:38:00-06:00",
-          "fuente": "AM Guanajuato",
-          "url": "https://www.am.com.mx/celaya/2026/08/05/caen-dos-por-supuesto-robo-en-tienda-de-bugambilias-en-celaya-1827927.html",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 21.02,
-          "lon": -101.26
         },
         {
           "id": "e3167d7d",
@@ -96,19 +79,6 @@
       "badge_txt": "CIERRE PARCIAL",
       "lat": 19.29,
       "lon": -99.66
-    },
-    {
-      "id": "3dada84d",
-      "tipo": "cierre_parcial",
-      "ruta": "Se les “olvidó” pagar: Caen Zervando y Mayanin por supuesto…",
-      "descripcion": "Se les “olvidó” pagar: Caen Zervando y Mayanin por supuesto robo de mercancía en Bugambilias. Fueron puestos a disposición de la Fiscalía General del Estado de Guanajuato para que se determine su situación legal.",
-      "fecha": "5 agosto 2026 · 08:38 CST",
-      "fuente": "AM Guanajuato",
-      "url": "https://www.am.com.mx/celaya/2026/08/05/caen-dos-por-supuesto-robo-en-tienda-de-bugambilias-en-celaya-1827927.html",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 21.02,
-      "lon": -101.26
     },
     {
       "id": "e3167d7d",
