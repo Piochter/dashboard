@@ -1,90 +1,12 @@
 {
-  "ultima_actualizacion": "2026-08-06T06:17:20.891373-06:00",
-  "ultima_actualizacion_legible": "6 de agosto de 2026 · 06:17 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-08-06T08:44:27.630315-06:00",
+  "ultima_actualizacion_legible": "6 de agosto de 2026 · 08:44 CST",
+  "total": 0,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News",
-    "Quadratin + regionales"
+    "Google News"
   ],
-  "grupos": [
-    {
-      "tipo": "cierre_total",
-      "color": "rojo",
-      "icono": "🔴",
-      "label": "CIERRE TOTAL",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "2751a3aa",
-          "tipo": "cierre_total",
-          "ruta": "carretera México-Toluca",
-          "descripcion": "Vuelca tráiler y colapsa circulación en la carretera México-Toluca. OCOYOACAC, Edomex., 5 de agosto de 2026.- La volcadura de un tráiler provocó severas afectaciones a la circulación la tarde de este miércoles sobre la carretera libre México-Toluca, a la altura de El Zarco, en dirección hacia Toluca. El accidente ocurrió alrededor de las 18 horas, pasando la zona conocida como Las Fresas, donde la […]",
-          "recomendacion": "",
-          "fecha": "5 agosto 2026 · 21:00 CST",
-          "fecha_iso": "2026-08-05T21:00:00-06:00",
-          "fuente": "Quadratin EdoMex",
-          "url": "https://edomex.quadratin.com.mx/vuelca-trailer-y-colapsa-circulacion-en-la-carretera-mexico-toluca/",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL",
-          "lat": 19.35,
-          "lon": -99.7
-        }
-      ]
-    },
-    {
-      "tipo": "cierre_parcial",
-      "color": "amarillo",
-      "icono": "🟡",
-      "label": "CIERRE PARCIAL / ACCIDENTES",
-      "col2": true,
-      "alertas": [
-        {
-          "id": "cdd07225",
-          "tipo": "cierre_parcial",
-          "ruta": "Accidente colapsa la autopista México-Pachuca; trailero queda prensado | VIDEO…",
-          "descripcion": "Accidente colapsa la autopista México-Pachuca; trailero queda prensado | VIDEO - La Silla Rota. Accidente colapsa la autopista México-Pachuca; trailero queda prensado | VIDEO La Silla Rota",
-          "recomendacion": "",
-          "fecha": "5 agosto 2026 · 18:20 CST",
-          "fecha_iso": "2026-08-05T18:20:00-06:00",
-          "fuente": "La Silla Rota",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNM3N5bHFhREVvUWJkS1BublRWWHpjZzRYUVpTbElDcWl3Y1BRVnY1VTR5RmJxNlFjbUFlWEFGT0FfbjFEU2hiR2lCdFBaNUU4VFp0dHF1OFZMLVdWUURHaUdNTmZpX2tWQjFPSTNzWGFocXhGeEs2NE9ZdHlQZEhZcGVkbHdHYUJBMFNHajYxS3BQcFNUYXdEekd3TEV0TXFLQmNnRFctaXN5MFBRQk5QQVRHU3U5ekNKaGJjYVIxQ2k0WnFCQXhYSzBrXzZxY0E?oc=5",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 20.12,
-          "lon": -98.73
-        }
-      ]
-    }
-  ],
-  "para_mapa": [
-    {
-      "id": "2751a3aa",
-      "tipo": "cierre_total",
-      "ruta": "carretera México-Toluca",
-      "descripcion": "Vuelca tráiler y colapsa circulación en la carretera México-Toluca. OCOYOACAC, Edomex., 5 de agosto de 2026.- La volcadura de un tráiler provocó severas afectaciones a la circulación la tarde de este miércoles sobre la carretera libre México-Toluca, a la altura de El Zarco, en dirección hacia Toluca. El accidente ocurrió alrededor de las 18 horas, pasando la zona conocida como Las Fresas, donde la […]",
-      "fecha": "5 agosto 2026 · 21:00 CST",
-      "fuente": "Quadratin EdoMex",
-      "url": "https://edomex.quadratin.com.mx/vuelca-trailer-y-colapsa-circulacion-en-la-carretera-mexico-toluca/",
-      "dot_color": "#e74c3c",
-      "badge_txt": "CIERRE TOTAL",
-      "lat": 19.35,
-      "lon": -99.7
-    },
-    {
-      "id": "cdd07225",
-      "tipo": "cierre_parcial",
-      "ruta": "Accidente colapsa la autopista México-Pachuca; trailero queda prensado | VIDEO…",
-      "descripcion": "Accidente colapsa la autopista México-Pachuca; trailero queda prensado | VIDEO - La Silla Rota. Accidente colapsa la autopista México-Pachuca; trailero queda prensado | VIDEO La Silla Rota",
-      "fecha": "5 agosto 2026 · 18:20 CST",
-      "fuente": "La Silla Rota",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNM3N5bHFhREVvUWJkS1BublRWWHpjZzRYUVpTbElDcWl3Y1BRVnY1VTR5RmJxNlFjbUFlWEFGT0FfbjFEU2hiR2lCdFBaNUU4VFp0dHF1OFZMLVdWUURHaUdNTmZpX2tWQjFPSTNzWGFocXhGeEs2NE9ZdHlQZEhZcGVkbHdHYUJBMFNHajYxS3BQcFNUYXdEekd3TEV0TXFLQmNnRFctaXN5MFBRQk5QQVRHU3U5ekNKaGJjYVIxQ2k0WnFCQXhYSzBrXzZxY0E?oc=5",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 20.12,
-      "lon": -98.73
-    }
-  ]
+  "grupos": [],
+  "para_mapa": [],
+  "nota": "Sin alertas activas en la ventana de tiempo configurada."
 }
