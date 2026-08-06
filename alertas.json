@@ -1,13 +1,11 @@
 {
-  "ultima_actualizacion": "2026-08-05T19:03:11.269639-06:00",
-  "ultima_actualizacion_legible": "5 de agosto de 2026 · 19:03 CST",
-  "total": 7,
+  "ultima_actualizacion": "2026-08-05T22:29:35.903311-06:00",
+  "ultima_actualizacion_legible": "5 de agosto de 2026 · 22:29 CST",
+  "total": 4,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
-    "Medios nacionales",
-    "Quadratin + regionales",
-    "Telegram"
+    "Quadratin + regionales"
   ],
   "grupos": [
     {
@@ -17,6 +15,22 @@
       "label": "CIERRE TOTAL",
       "col2": false,
       "alertas": [
+        {
+          "id": "2751a3aa",
+          "tipo": "cierre_total",
+          "ruta": "carretera México-Toluca",
+          "descripcion": "Vuelca tráiler y colapsa circulación en la carretera México-Toluca. OCOYOACAC, Edomex., 5 de agosto de 2026.- La volcadura de un tráiler provocó severas afectaciones a la circulación la tarde de este miércoles sobre la carretera libre México-Toluca, a la altura de El Zarco, en dirección hacia Toluca. El accidente ocurrió alrededor de las 18 horas, pasando la zona conocida como Las Fresas, donde la […]",
+          "recomendacion": "",
+          "fecha": "5 agosto 2026 · 21:00 CST",
+          "fecha_iso": "2026-08-05T21:00:00-06:00",
+          "fuente": "Quadratin EdoMex",
+          "url": "https://edomex.quadratin.com.mx/vuelca-trailer-y-colapsa-circulacion-en-la-carretera-mexico-toluca/",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL",
+          "lat": 19.35,
+          "lon": -99.7
+        },
         {
           "id": "2b150026",
           "tipo": "cierre_total",
@@ -30,29 +44,6 @@
           "dot_color": "#e74c3c",
           "badge": "badge-cierre-total",
           "badge_txt": "CIERRE TOTAL"
-        }
-      ]
-    },
-    {
-      "tipo": "bloqueo",
-      "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "aaef2974",
-          "tipo": "bloqueo",
-          "ruta": "Bloqueos carreteras HOY 5 de agosto: Autopistas cerradas en México,…",
-          "descripcion": "Bloqueos carreteras HOY 5 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 5 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
-          "recomendacion": "",
-          "fecha": "5 agosto 2026 · 07:06 CST",
-          "fecha_iso": "2026-08-05T07:06:00-06:00",
-          "fuente": "Eje Central",
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOendXQTE2QlY0M0VsRF9WMUh1ek1sRjg0SkRHa2hFUkdXTTNBWXhCTnZOWWdzNGQyTlhnbXRIQVM2QlZKNno5T0ZwanQtVDFWcjdTYzg1R0RtRDZYUzNSQ3BGcmY0RXhxNnFQcmhaQUF1cm4xc0FqTkQ0QkxncmdqNTllM3ptQmhncHU3UmhIME9pSndKenN1X21TTnZuR0kzMmh1cy1lUHlLWmt6dXdqT2FQLWlqdlIySWNUWWxrSzlGRFdtdUdCcE1BSGRTbWtpNlRNOGZvajh2WnVmby1melFLWE5NZEU?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
         }
       ]
     },
@@ -94,57 +85,24 @@
           "badge_txt": "CIERRE PARCIAL",
           "lat": 20.11,
           "lon": -98.73
-        },
-        {
-          "id": "7353c2d1",
-          "tipo": "cierre_parcial",
-          "ruta": "📢Alertan por desvíos y cierres en la carretera #Toluca-#Atlacomulco 😱👇…",
-          "descripcion": "📢Alertan por desvíos y cierres en la carretera #Toluca-#Atlacomulco 😱👇\n https://lajornadaestadodemexico.com/desvios-y-cierres-en-la-carretera-toluca-atlacomulco/",
-          "recomendacion": "",
-          "fecha": "5 agosto 2026 · 09:41 CST",
-          "fecha_iso": "2026-08-05T09:41:00-06:00",
-          "fuente": "Telegram @jornadaedomex",
-          "url": "https://t.me/jornadaedomex/11645",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.29,
-          "lon": -99.66
-        },
-        {
-          "id": "d0873603",
-          "tipo": "cierre_parcial",
-          "ruta": "autopista Orizaba - Puebla tras accidente de tráiler cargado con verdura - La Silla Rota",
-          "descripcion": "Liberan paso en la autopista Orizaba - Puebla tras accidente de tráiler cargado con verdura - La Silla Rota. Liberan paso en la autopista Orizaba - Puebla tras accidente de tráiler cargado con verdura La Silla Rota",
-          "recomendacion": "",
-          "fecha": "5 agosto 2026 · 08:01 CST",
-          "fecha_iso": "2026-08-05T08:01:00-06:00",
-          "fuente": "La Silla Rota",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZ0Y1dFcza0d3TUlwNkFkdFlWSTN5QXdFdG9MSllmX19ZMGFOU2tYU0llbEFwbWVHemJTVWFtSU4wZEh5Y1RHUnZKZVlHTEdQNHZteTNtdUh2SnBiR1NLMUpJdVpsUjF3RVhHTUpuOFNZZ0gtQnhnaV8wUlBMSm1jelZRbTdYVUdGOXAySklhSExTbmNhU1FCZ21yNnNZTV9fSTRuRDNreTF1RmxJcDNMbERPWkJCdHNRWTVjQzBRanBhRlJPblItM0Z0MXc0YTBkd0dsdmNOZFdTMm5qTTFnN21sLVo?oc=5",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.04,
-          "lon": -98.2
-        },
-        {
-          "id": "1e4060e0",
-          "tipo": "cierre_parcial",
-          "ruta": "La factura que las empresas ya no pueden evitar: la…",
-          "descripcion": "La factura que las empresas ya no pueden evitar: la inseguridad. Antes de que una mercancía salga a carretera, la empresa ya comenzó a pagar. No por combustible, casetas o mantenimiento, sino por cámaras, monitoreo, seguros, rutas alternas y protocolos de seguridad. La factura de la inseguridad comienza antes de un robo y pesa cada vez más sobre la competitividad de las empresas. La inseguridad dejó […]",
-          "recomendacion": "evitar: la inseguridad",
-          "fecha": "5 agosto 2026 · 07:35 CST",
-          "fecha_iso": "2026-08-05T07:35:00-06:00",
-          "fuente": "T21 Transporte",
-          "url": "https://t21.com.mx/la-factura-que-las-empresas-ya-no-pueden-evitar-la-inseguridad/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
         }
       ]
     }
   ],
   "para_mapa": [
+    {
+      "id": "2751a3aa",
+      "tipo": "cierre_total",
+      "ruta": "carretera México-Toluca",
+      "descripcion": "Vuelca tráiler y colapsa circulación en la carretera México-Toluca. OCOYOACAC, Edomex., 5 de agosto de 2026.- La volcadura de un tráiler provocó severas afectaciones a la circulación la tarde de este miércoles sobre la carretera libre México-Toluca, a la altura de El Zarco, en dirección hacia Toluca. El accidente ocurrió alrededor de las 18 horas, pasando la zona conocida como Las Fresas, donde la […]",
+      "fecha": "5 agosto 2026 · 21:00 CST",
+      "fuente": "Quadratin EdoMex",
+      "url": "https://edomex.quadratin.com.mx/vuelca-trailer-y-colapsa-circulacion-en-la-carretera-mexico-toluca/",
+      "dot_color": "#e74c3c",
+      "badge_txt": "CIERRE TOTAL",
+      "lat": 19.35,
+      "lon": -99.7
+    },
     {
       "id": "cdd07225",
       "tipo": "cierre_parcial",
@@ -170,32 +128,6 @@
       "badge_txt": "CIERRE PARCIAL",
       "lat": 20.11,
       "lon": -98.73
-    },
-    {
-      "id": "7353c2d1",
-      "tipo": "cierre_parcial",
-      "ruta": "📢Alertan por desvíos y cierres en la carretera #Toluca-#Atlacomulco 😱👇…",
-      "descripcion": "📢Alertan por desvíos y cierres en la carretera #Toluca-#Atlacomulco 😱👇\n https://lajornadaestadodemexico.com/desvios-y-cierres-en-la-carretera-toluca-atlacomulco/",
-      "fecha": "5 agosto 2026 · 09:41 CST",
-      "fuente": "Telegram @jornadaedomex",
-      "url": "https://t.me/jornadaedomex/11645",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.29,
-      "lon": -99.66
-    },
-    {
-      "id": "d0873603",
-      "tipo": "cierre_parcial",
-      "ruta": "autopista Orizaba - Puebla tras accidente de tráiler cargado con verdura - La Silla Rota",
-      "descripcion": "Liberan paso en la autopista Orizaba - Puebla tras accidente de tráiler cargado con verdura - La Silla Rota. Liberan paso en la autopista Orizaba - Puebla tras accidente de tráiler cargado con verdura La Silla Rota",
-      "fecha": "5 agosto 2026 · 08:01 CST",
-      "fuente": "La Silla Rota",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZ0Y1dFcza0d3TUlwNkFkdFlWSTN5QXdFdG9MSllmX19ZMGFOU2tYU0llbEFwbWVHemJTVWFtSU4wZEh5Y1RHUnZKZVlHTEdQNHZteTNtdUh2SnBiR1NLMUpJdVpsUjF3RVhHTUpuOFNZZ0gtQnhnaV8wUlBMSm1jelZRbTdYVUdGOXAySklhSExTbmNhU1FCZ21yNnNZTV9fSTRuRDNreTF1RmxJcDNMbERPWkJCdHNRWTVjQzBRanBhRlJPblItM0Z0MXc0YTBkd0dsdmNOZFdTMm5qTTFnN21sLVo?oc=5",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.04,
-      "lon": -98.2
     }
   ]
 }
