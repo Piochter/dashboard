@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-08-05T17:38:50.897416-06:00",
-  "ultima_actualizacion_legible": "5 de agosto de 2026 · 17:38 CST",
-  "total": 8,
+  "ultima_actualizacion": "2026-08-05T19:03:11.269639-06:00",
+  "ultima_actualizacion_legible": "5 de agosto de 2026 · 19:03 CST",
+  "total": 7,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
@@ -27,20 +27,6 @@
           "fecha_iso": "2026-08-05T17:10:00-06:00",
           "fuente": "Quadratin Jalisco",
           "url": "https://jalisco.quadratin.com.mx/sucesos/volcadura-deja-4-muertos-y-3-menores-heridos-en-san-miguel-el-alto/",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL"
-        },
-        {
-          "id": "76520086",
-          "tipo": "cierre_total",
-          "ruta": "libramiento de Ometepec",
-          "descripcion": "Inicia levantamiento topográfico para reparar el libramiento de Ometepec. Se busca reparar baches y deslaves a lo largo de 8 kilómetros de la vía",
-          "recomendacion": "",
-          "fecha": "5 agosto 2026 · 16:09 CST",
-          "fecha_iso": "2026-08-05T16:09:00-06:00",
-          "fuente": "Quadratin Guerrero",
-          "url": "https://guerrero.quadratin.com.mx/inicia-levantamiento-topografico-para-reparar-el-libramiento-de-ometepec/",
           "dot_color": "#e74c3c",
           "badge": "badge-cierre-total",
           "badge_txt": "CIERRE TOTAL"
@@ -78,18 +64,36 @@
       "col2": true,
       "alertas": [
         {
-          "id": "0584caf7",
+          "id": "cdd07225",
           "tipo": "cierre_parcial",
-          "ruta": "Dos accidentes con saldo fatal en Cumbres de Maltrata…",
-          "descripcion": "Dos accidentes con saldo fatal en Cumbres de Maltrata. Provocan el cierre parcial de la circulación con dirección al puerto",
+          "ruta": "Accidente colapsa la autopista México-Pachuca; trailero queda prensado | VIDEO…",
+          "descripcion": "Accidente colapsa la autopista México-Pachuca; trailero queda prensado | VIDEO - La Silla Rota. Accidente colapsa la autopista México-Pachuca; trailero queda prensado | VIDEO La Silla Rota",
           "recomendacion": "",
-          "fecha": "5 agosto 2026 · 15:19 CST",
-          "fecha_iso": "2026-08-05T15:19:00-06:00",
-          "fuente": "Quadratin Veracruz",
-          "url": "https://veracruz.quadratin.com.mx/dos-accidentes-con-saldo-fatal-en-cumbres-de-maltrata/",
+          "fecha": "5 agosto 2026 · 18:20 CST",
+          "fecha_iso": "2026-08-05T18:20:00-06:00",
+          "fuente": "La Silla Rota",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOSmk0UTllTEp4cXljR21HX0dka05LNXpDRlBjaE5qUFBZVnJFU09QLU1UWlRKek00SGVKSVFlNks0S1JsZEI0Z0pFVEtIM0h2WTFubDFPWGRQWkphelZ4Rk16SlJrZE1wcFFNekF2Q0x3T2tRQjhKRHo2Slg2OG9LVkFFWVE3VmNQRTBhZmVnMHhvYmFhdms3Yy0yaWI4V3ZKa0lBa05OUC1LTW8xTTBVLURpLUVsdWZiS21YWTl0Szd2ZHZ6Um9UNFdNOVExNkhXclZrMjVST0dTTHM4Wnc?oc=5",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 20.12,
+          "lon": -98.73
+        },
+        {
+          "id": "de05fae6",
+          "tipo": "cierre_parcial",
+          "ruta": "autopista México-Pachuca",
+          "descripcion": "Accidente de tráiler provoca caos vial en la autopista México-Pachuca. Un tráiler se vio involucrado en un accidente la tarde de este miércoles sobre la autopista México-Pachuca, a la altura del fraccionamiento Casas Quma The post Accidente de tráiler provoca caos vial en la autopista México-Pachuca appeared first on Quadratin Hidalgo.",
+          "recomendacion": "",
+          "fecha": "5 agosto 2026 · 18:03 CST",
+          "fecha_iso": "2026-08-05T18:03:00-06:00",
+          "fuente": "Quadratin Hidalgo",
+          "url": "https://hidalgo.quadratin.com.mx/sucesos/accidente-de-trailer-provoca-caos-vial-en-la-autopista-mexico-pachuca/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 20.11,
+          "lon": -98.73
         },
         {
           "id": "7353c2d1",
@@ -136,27 +140,37 @@
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL"
-        },
-        {
-          "id": "e3167d7d",
-          "tipo": "cierre_parcial",
-          "ruta": "Choque en carretera de Sonora; un muerto y 37 heridos…",
-          "descripcion": "Choque en carretera de Sonora; un muerto y 37 heridos\nhttps://www.jornada.com.mx/2026/08/05/estados/025n4est?partner=rss",
-          "recomendacion": "",
-          "fecha": "5 agosto 2026 · 06:07 CST",
-          "fecha_iso": "2026-08-05T06:07:00-06:00",
-          "fuente": "Telegram @NOTMEX",
-          "url": "https://t.me/NOTMEX/185122",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 29.07,
-          "lon": -110.96
         }
       ]
     }
   ],
   "para_mapa": [
+    {
+      "id": "cdd07225",
+      "tipo": "cierre_parcial",
+      "ruta": "Accidente colapsa la autopista México-Pachuca; trailero queda prensado | VIDEO…",
+      "descripcion": "Accidente colapsa la autopista México-Pachuca; trailero queda prensado | VIDEO - La Silla Rota. Accidente colapsa la autopista México-Pachuca; trailero queda prensado | VIDEO La Silla Rota",
+      "fecha": "5 agosto 2026 · 18:20 CST",
+      "fuente": "La Silla Rota",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOSmk0UTllTEp4cXljR21HX0dka05LNXpDRlBjaE5qUFBZVnJFU09QLU1UWlRKek00SGVKSVFlNks0S1JsZEI0Z0pFVEtIM0h2WTFubDFPWGRQWkphelZ4Rk16SlJrZE1wcFFNekF2Q0x3T2tRQjhKRHo2Slg2OG9LVkFFWVE3VmNQRTBhZmVnMHhvYmFhdms3Yy0yaWI4V3ZKa0lBa05OUC1LTW8xTTBVLURpLUVsdWZiS21YWTl0Szd2ZHZ6Um9UNFdNOVExNkhXclZrMjVST0dTTHM4Wnc?oc=5",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 20.12,
+      "lon": -98.73
+    },
+    {
+      "id": "de05fae6",
+      "tipo": "cierre_parcial",
+      "ruta": "autopista México-Pachuca",
+      "descripcion": "Accidente de tráiler provoca caos vial en la autopista México-Pachuca. Un tráiler se vio involucrado en un accidente la tarde de este miércoles sobre la autopista México-Pachuca, a la altura del fraccionamiento Casas Quma The post Accidente de tráiler provoca caos vial en la autopista México-Pachuca appeared first on Quadratin Hidalgo.",
+      "fecha": "5 agosto 2026 · 18:03 CST",
+      "fuente": "Quadratin Hidalgo",
+      "url": "https://hidalgo.quadratin.com.mx/sucesos/accidente-de-trailer-provoca-caos-vial-en-la-autopista-mexico-pachuca/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 20.11,
+      "lon": -98.73
+    },
     {
       "id": "7353c2d1",
       "tipo": "cierre_parcial",
@@ -182,19 +196,6 @@
       "badge_txt": "CIERRE PARCIAL",
       "lat": 19.04,
       "lon": -98.2
-    },
-    {
-      "id": "e3167d7d",
-      "tipo": "cierre_parcial",
-      "ruta": "Choque en carretera de Sonora; un muerto y 37 heridos…",
-      "descripcion": "Choque en carretera de Sonora; un muerto y 37 heridos\nhttps://www.jornada.com.mx/2026/08/05/estados/025n4est?partner=rss",
-      "fecha": "5 agosto 2026 · 06:07 CST",
-      "fuente": "Telegram @NOTMEX",
-      "url": "https://t.me/NOTMEX/185122",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 29.07,
-      "lon": -110.96
     }
   ]
 }
