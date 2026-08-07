@@ -1,12 +1,36 @@
 {
-  "ultima_actualizacion": "2026-08-07T10:33:04.945603-06:00",
-  "ultima_actualizacion_legible": "7 de agosto de 2026 · 10:33 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-08-07T11:32:51.403004-06:00",
+  "ultima_actualizacion_legible": "7 de agosto de 2026 · 11:32 CST",
+  "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
+    "Quadratin + regionales",
     "Telegram"
   ],
   "grupos": [
+    {
+      "tipo": "bloqueo",
+      "color": "rojo",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "ef47d80e",
+          "tipo": "bloqueo",
+          "ruta": "Protestan agricultores en Iguala para exigir ayuda por sequías…",
+          "descripcion": "Protestan agricultores en Iguala para exigir ayuda por sequías. Se reúnen la carretera federal y amagan con bloquear",
+          "recomendacion": "",
+          "fecha": "7 agosto 2026 · 10:49 CST",
+          "fecha_iso": "2026-08-07T10:49:00-06:00",
+          "fuente": "Quadratin Guerrero",
+          "url": "https://guerrero.quadratin.com.mx/protestan-agricultores-en-iguala-para-exigir-ayuda-por-sequias/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        }
+      ]
+    },
     {
       "tipo": "cierre_parcial",
       "color": "amarillo",
