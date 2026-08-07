@@ -1,9 +1,10 @@
 {
-  "ultima_actualizacion": "2026-08-07T11:32:51.403004-06:00",
-  "ultima_actualizacion_legible": "7 de agosto de 2026 · 11:32 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-08-07T12:29:34.155004-06:00",
+  "ultima_actualizacion_legible": "7 de agosto de 2026 · 12:29 CST",
+  "total": 3,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
+    "Google News",
     "Quadratin + regionales",
     "Telegram"
   ],
@@ -39,6 +40,22 @@
       "col2": true,
       "alertas": [
         {
+          "id": "5d159c67",
+          "tipo": "cierre_parcial",
+          "ruta": "🔴 Tráiler se queda sin frenos y embiste cerca de…",
+          "descripcion": "🔴 Tráiler se queda sin frenos y embiste cerca de 10 autos en Siglo XXI y salida a San Luis Potosí. #policiaca #patrulla790 #noticias #accidente #aguascalientes - facebook.com. 🔴 Tráiler se queda sin frenos y embiste cerca de 10 autos en Siglo XXI y salida a San Luis Potosí. #policiaca #patrulla790 #noticias #accidente #aguascalientes facebook.com",
+          "recomendacion": "",
+          "fecha": "7 agosto 2026 · 10:54 CST",
+          "fecha_iso": "2026-08-07T10:54:00-06:00",
+          "fuente": "facebook.com",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPUnFoR3k5UW40eDFydXptSkFieGg2YUEwTmVwUkpqNVFHRWUyMHFmNl83clhHOVJaM2c1YlRpZDVsZXVVazRKMi1xOWRnTHNyQ014S0Nkd3RudWdtdmR5VmZ4RkctRC0za2JEeDN1Tl9ld2ZxeWpFY1ExOUduTUg3VTdEMFh4cmhLVmFLSjRiVTdCbC14MDFaX1ZUaFkxRlVmMUhPZEpKMGFMdHU2dFd3NjNrR3pVM0UtSVh3NklraDNkd0JDOFNRT0w2MHR5SVdJdHhUMUZQWUZua0QxZ3k0amNn?oc=5",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 19.3,
+          "lon": -104.0
+        },
+        {
           "id": "ad65bb5d",
           "tipo": "cierre_parcial",
           "ruta": "🚧Tráiler y automóvil chocan en la #Toluca-#Ixtlahuaca, hay afectaciones viales…",
@@ -58,6 +75,19 @@
     }
   ],
   "para_mapa": [
+    {
+      "id": "5d159c67",
+      "tipo": "cierre_parcial",
+      "ruta": "🔴 Tráiler se queda sin frenos y embiste cerca de…",
+      "descripcion": "🔴 Tráiler se queda sin frenos y embiste cerca de 10 autos en Siglo XXI y salida a San Luis Potosí. #policiaca #patrulla790 #noticias #accidente #aguascalientes - facebook.com. 🔴 Tráiler se queda sin frenos y embiste cerca de 10 autos en Siglo XXI y salida a San Luis Potosí. #policiaca #patrulla790 #noticias #accidente #aguascalientes facebook.com",
+      "fecha": "7 agosto 2026 · 10:54 CST",
+      "fuente": "facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPUnFoR3k5UW40eDFydXptSkFieGg2YUEwTmVwUkpqNVFHRWUyMHFmNl83clhHOVJaM2c1YlRpZDVsZXVVazRKMi1xOWRnTHNyQ014S0Nkd3RudWdtdmR5VmZ4RkctRC0za2JEeDN1Tl9ld2ZxeWpFY1ExOUduTUg3VTdEMFh4cmhLVmFLSjRiVTdCbC14MDFaX1ZUaFkxRlVmMUhPZEpKMGFMdHU2dFd3NjNrR3pVM0UtSVh3NklraDNkd0JDOFNRT0w2MHR5SVdJdHhUMUZQWUZua0QxZ3k0amNn?oc=5",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 19.3,
+      "lon": -104.0
+    },
     {
       "id": "ad65bb5d",
       "tipo": "cierre_parcial",
