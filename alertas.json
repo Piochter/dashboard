@@ -1,10 +1,11 @@
 {
-  "ultima_actualizacion": "2026-08-07T12:29:34.155004-06:00",
-  "ultima_actualizacion_legible": "7 de agosto de 2026 · 12:29 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-08-07T13:30:25.315663-06:00",
+  "ultima_actualizacion_legible": "7 de agosto de 2026 · 13:30 CST",
+  "total": 5,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
+    "Medios regionales",
     "Quadratin + regionales",
     "Telegram"
   ],
@@ -16,6 +17,22 @@
       "label": "BLOQUEOS / MANIFESTACIONES",
       "col2": false,
       "alertas": [
+        {
+          "id": "0498721b",
+          "tipo": "bloqueo",
+          "ruta": "Paralizan vecinos la Toluca-Tenango; exigen clausura de basurero…",
+          "descripcion": "Paralizan vecinos la Toluca-Tenango; exigen clausura de basurero. CALIMAYA, Edomex., 7 de agosto de 2026.- Habitantes de diversos fraccionamientos y comunidades bloquearon este viernes la circulación de la carretera Toluca–Tenango, a la altura del puente y la avenida Calimaya, para exigir a las autoridades el cierre definitivo de un relleno sanitario. La protesta desató un severo caos vehicular en la zona del cruce […]",
+          "recomendacion": "",
+          "fecha": "7 agosto 2026 · 12:45 CST",
+          "fecha_iso": "2026-08-07T12:45:00-06:00",
+          "fuente": "Quadratin EdoMex",
+          "url": "https://edomex.quadratin.com.mx/paralizan-vecinos-la-toluca-tenango-exigen-clausura-de-basurero/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 19.35,
+          "lon": -99.7
+        },
         {
           "id": "ef47d80e",
           "tipo": "bloqueo",
@@ -72,9 +89,45 @@
           "lon": -99.66
         }
       ]
+    },
+    {
+      "tipo": "clima",
+      "color": "azul",
+      "icono": "🌧",
+      "label": "ALERTA METEOROLOGICA",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "01681ad5",
+          "tipo": "clima",
+          "ruta": "SMN advierte tormentas intensas, granizo y riesgo de inundaciones en…",
+          "descripcion": "SMN advierte tormentas intensas, granizo y riesgo de inundaciones en México. Del 7 al 9 de agosto, gran parte del territorio nacional enfrentará lluvias torrenciales y ráfagas de viento de hasta 70 km/h, mientras el norte del país continuará bajo una ola de calor extremo",
+          "recomendacion": "",
+          "fecha": "7 agosto 2026 · 12:44 CST",
+          "fecha_iso": "2026-08-07T12:44:00-06:00",
+          "fuente": "El Informador Jalisco",
+          "url": "https://www.informador.mx/mexico/clima-smn-advierte-tormentas-intensas-granizo-y-riesgo-de-inundaciones-en-mexico-20260807-0092.html",
+          "dot_color": "#3498db",
+          "badge": "badge-clima",
+          "badge_txt": "ALERTA CLIMA"
+        }
+      ]
     }
   ],
   "para_mapa": [
+    {
+      "id": "0498721b",
+      "tipo": "bloqueo",
+      "ruta": "Paralizan vecinos la Toluca-Tenango; exigen clausura de basurero…",
+      "descripcion": "Paralizan vecinos la Toluca-Tenango; exigen clausura de basurero. CALIMAYA, Edomex., 7 de agosto de 2026.- Habitantes de diversos fraccionamientos y comunidades bloquearon este viernes la circulación de la carretera Toluca–Tenango, a la altura del puente y la avenida Calimaya, para exigir a las autoridades el cierre definitivo de un relleno sanitario. La protesta desató un severo caos vehicular en la zona del cruce […]",
+      "fecha": "7 agosto 2026 · 12:45 CST",
+      "fuente": "Quadratin EdoMex",
+      "url": "https://edomex.quadratin.com.mx/paralizan-vecinos-la-toluca-tenango-exigen-clausura-de-basurero/",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 19.35,
+      "lon": -99.7
+    },
     {
       "id": "5d159c67",
       "tipo": "cierre_parcial",
