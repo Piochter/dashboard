@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-08-07T14:57:26.802301-06:00",
-  "ultima_actualizacion_legible": "7 de agosto de 2026 · 14:57 CST",
-  "total": 4,
+  "ultima_actualizacion": "2026-08-07T15:33:08.951103-06:00",
+  "ultima_actualizacion_legible": "7 de agosto de 2026 · 15:33 CST",
+  "total": 5,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
@@ -10,6 +10,31 @@
     "Telegram"
   ],
   "grupos": [
+    {
+      "tipo": "cierre_total",
+      "color": "rojo",
+      "icono": "🔴",
+      "label": "CIERRE TOTAL",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "907e72e2",
+          "tipo": "cierre_total",
+          "ruta": "Salida de camino y volcadura de tráiler en la 57…",
+          "descripcion": "Salida de camino y volcadura de tráiler en la 57. Se registró la salida de camino y volcadura de un tractocamión con caja seca que transporta producto de limpieza y dejó bloqueada la circulación The post Salida de camino y volcadura de tráiler en la 57 appeared first on Quadratin Querétaro.",
+          "recomendacion": "",
+          "fecha": "7 agosto 2026 · 15:00 CST",
+          "fecha_iso": "2026-08-07T15:00:00-06:00",
+          "fuente": "Quadratin Queretaro",
+          "url": "https://queretaro.quadratin.com.mx/salida-de-camino-y-volcadura-de-trailer-en-la-57/",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL",
+          "lat": 21.5,
+          "lon": -100.0
+        }
+      ]
+    },
     {
       "tipo": "bloqueo",
       "color": "rojo",
@@ -101,6 +126,19 @@
     }
   ],
   "para_mapa": [
+    {
+      "id": "907e72e2",
+      "tipo": "cierre_total",
+      "ruta": "Salida de camino y volcadura de tráiler en la 57…",
+      "descripcion": "Salida de camino y volcadura de tráiler en la 57. Se registró la salida de camino y volcadura de un tractocamión con caja seca que transporta producto de limpieza y dejó bloqueada la circulación The post Salida de camino y volcadura de tráiler en la 57 appeared first on Quadratin Querétaro.",
+      "fecha": "7 agosto 2026 · 15:00 CST",
+      "fuente": "Quadratin Queretaro",
+      "url": "https://queretaro.quadratin.com.mx/salida-de-camino-y-volcadura-de-trailer-en-la-57/",
+      "dot_color": "#e74c3c",
+      "badge_txt": "CIERRE TOTAL",
+      "lat": 21.5,
+      "lon": -100.0
+    },
     {
       "id": "0498721b",
       "tipo": "bloqueo",
