@@ -1,11 +1,10 @@
 {
-  "ultima_actualizacion": "2026-08-07T16:18:05.983158-06:00",
-  "ultima_actualizacion_legible": "7 de agosto de 2026 · 16:18 CST",
-  "total": 6,
+  "ultima_actualizacion": "2026-08-07T17:03:27.423543-06:00",
+  "ultima_actualizacion_legible": "7 de agosto de 2026 · 17:03 CST",
+  "total": 4,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
-    "Medios regionales",
     "Quadratin + regionales",
     "Telegram"
   ],
@@ -75,22 +74,6 @@
           "lon": -100.0
         },
         {
-          "id": "5d159c67",
-          "tipo": "cierre_parcial",
-          "ruta": "🔴 Tráiler se queda sin frenos y embiste cerca de…",
-          "descripcion": "🔴 Tráiler se queda sin frenos y embiste cerca de 10 autos en Siglo XXI y salida a San Luis Potosí. #policiaca #patrulla790 #noticias #accidente #aguascalientes - facebook.com. 🔴 Tráiler se queda sin frenos y embiste cerca de 10 autos en Siglo XXI y salida a San Luis Potosí. #policiaca #patrulla790 #noticias #accidente #aguascalientes facebook.com",
-          "recomendacion": "",
-          "fecha": "7 agosto 2026 · 10:54 CST",
-          "fecha_iso": "2026-08-07T10:54:00-06:00",
-          "fuente": "facebook.com",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPUnFoR3k5UW40eDFydXptSkFieGg2YUEwTmVwUkpqNVFHRWUyMHFmNl83clhHOVJaM2c1YlRpZDVsZXVVazRKMi1xOWRnTHNyQ014S0Nkd3RudWdtdmR5VmZ4RkctRC0za2JEeDN1Tl9ld2ZxeWpFY1ExOUduTUg3VTdEMFh4cmhLVmFLSjRiVTdCbC14MDFaX1ZUaFkxRlVmMUhPZEpKMGFMdHU2dFd3NjNrR3pVM0UtSVh3NklraDNkd0JDOFNRT0w2MHR5SVdJdHhUMUZQWUZua0QxZ3k0amNn?oc=5",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.3,
-          "lon": -104.0
-        },
-        {
           "id": "ad65bb5d",
           "tipo": "cierre_parcial",
           "ruta": "🚧Tráiler y automóvil chocan en la #Toluca-#Ixtlahuaca, hay afectaciones viales…",
@@ -105,29 +88,6 @@
           "badge_txt": "CIERRE PARCIAL",
           "lat": 19.29,
           "lon": -99.66
-        }
-      ]
-    },
-    {
-      "tipo": "clima",
-      "color": "azul",
-      "icono": "🌧",
-      "label": "ALERTA METEOROLOGICA",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "01681ad5",
-          "tipo": "clima",
-          "ruta": "SMN advierte tormentas intensas, granizo y riesgo de inundaciones en…",
-          "descripcion": "SMN advierte tormentas intensas, granizo y riesgo de inundaciones en México. Del 7 al 9 de agosto, gran parte del territorio nacional enfrentará lluvias torrenciales y ráfagas de viento de hasta 70 km/h, mientras el norte del país continuará bajo una ola de calor extremo",
-          "recomendacion": "",
-          "fecha": "7 agosto 2026 · 12:44 CST",
-          "fecha_iso": "2026-08-07T12:44:00-06:00",
-          "fuente": "El Informador Jalisco",
-          "url": "https://www.informador.mx/mexico/clima-smn-advierte-tormentas-intensas-granizo-y-riesgo-de-inundaciones-en-mexico-20260807-0092.html",
-          "dot_color": "#3498db",
-          "badge": "badge-clima",
-          "badge_txt": "ALERTA CLIMA"
         }
       ]
     }
@@ -171,19 +131,6 @@
       "badge_txt": "CIERRE TOTAL",
       "lat": 21.5,
       "lon": -100.0
-    },
-    {
-      "id": "5d159c67",
-      "tipo": "cierre_parcial",
-      "ruta": "🔴 Tráiler se queda sin frenos y embiste cerca de…",
-      "descripcion": "🔴 Tráiler se queda sin frenos y embiste cerca de 10 autos en Siglo XXI y salida a San Luis Potosí. #policiaca #patrulla790 #noticias #accidente #aguascalientes - facebook.com. 🔴 Tráiler se queda sin frenos y embiste cerca de 10 autos en Siglo XXI y salida a San Luis Potosí. #policiaca #patrulla790 #noticias #accidente #aguascalientes facebook.com",
-      "fecha": "7 agosto 2026 · 10:54 CST",
-      "fuente": "facebook.com",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPUnFoR3k5UW40eDFydXptSkFieGg2YUEwTmVwUkpqNVFHRWUyMHFmNl83clhHOVJaM2c1YlRpZDVsZXVVazRKMi1xOWRnTHNyQ014S0Nkd3RudWdtdmR5VmZ4RkctRC0za2JEeDN1Tl9ld2ZxeWpFY1ExOUduTUg3VTdEMFh4cmhLVmFLSjRiVTdCbC14MDFaX1ZUaFkxRlVmMUhPZEpKMGFMdHU2dFd3NjNrR3pVM0UtSVh3NklraDNkd0JDOFNRT0w2MHR5SVdJdHhUMUZQWUZua0QxZ3k0amNn?oc=5",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.3,
-      "lon": -104.0
     },
     {
       "id": "ad65bb5d",
