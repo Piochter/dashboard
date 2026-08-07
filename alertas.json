@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-08-07T15:33:08.951103-06:00",
-  "ultima_actualizacion_legible": "7 de agosto de 2026 · 15:33 CST",
-  "total": 5,
+  "ultima_actualizacion": "2026-08-07T16:18:05.983158-06:00",
+  "ultima_actualizacion_legible": "7 de agosto de 2026 · 16:18 CST",
+  "total": 6,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
@@ -17,6 +17,22 @@
       "label": "CIERRE TOTAL",
       "col2": false,
       "alertas": [
+        {
+          "id": "0a2e95af",
+          "tipo": "cierre_total",
+          "ruta": "autopista Orizaba-Puebla hoy 7 de agosto - La Silla Rota",
+          "descripcion": "Volcadura colapsa la autopista Orizaba-Puebla hoy 7 de agosto - La Silla Rota. Volcadura colapsa la autopista Orizaba-Puebla hoy 7 de agosto La Silla Rota",
+          "recomendacion": "",
+          "fecha": "7 agosto 2026 · 15:55 CST",
+          "fecha_iso": "2026-08-07T15:55:00-06:00",
+          "fuente": "La Silla Rota",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQV0tVWHBPYlREOEJ3N3YzTWVjV1JOVFVTV09ISG5uWWxuZENRWlB1UjJiLWFvZmo1ZDJNOXNxN3BzaG5YclpYS2hoM185c2dJRGxSS1NlTjNUZDBLRy1kMEtkWEVhX1pKcktJMTZ4TU9wenpZWFRIaUg1MWFDbjZmUWxrSHI2MUtrMTR4Z2xTMEJTcGs4Z3FqSU1oZGptcU1Ecl80ZDlMb2pjZUFSQVdvaEl6RDNnLTRuQlAzRU1vYw?oc=5",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL",
+          "lat": 19.04,
+          "lon": -98.2
+        },
         {
           "id": "907e72e2",
           "tipo": "cierre_total",
@@ -36,37 +52,28 @@
       ]
     },
     {
-      "tipo": "bloqueo",
-      "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "0498721b",
-          "tipo": "bloqueo",
-          "ruta": "Paralizan vecinos la Toluca-Tenango; exigen clausura de basurero…",
-          "descripcion": "Paralizan vecinos la Toluca-Tenango; exigen clausura de basurero. CALIMAYA, Edomex., 7 de agosto de 2026.- Habitantes de diversos fraccionamientos y comunidades bloquearon este viernes la circulación de la carretera Toluca–Tenango, a la altura del puente y la avenida Calimaya, para exigir a las autoridades el cierre definitivo de un relleno sanitario. La protesta desató un severo caos vehicular en la zona del cruce […]",
-          "recomendacion": "",
-          "fecha": "7 agosto 2026 · 12:45 CST",
-          "fecha_iso": "2026-08-07T12:45:00-06:00",
-          "fuente": "Quadratin EdoMex",
-          "url": "https://edomex.quadratin.com.mx/paralizan-vecinos-la-toluca-tenango-exigen-clausura-de-basurero/",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 19.35,
-          "lon": -99.7
-        }
-      ]
-    },
-    {
       "tipo": "cierre_parcial",
       "color": "amarillo",
       "icono": "🟡",
       "label": "CIERRE PARCIAL / ACCIDENTES",
       "col2": true,
       "alertas": [
+        {
+          "id": "9b5a60eb",
+          "tipo": "cierre_parcial",
+          "ruta": "Autobús choca contra camión en la 57 en SJR: el…",
+          "descripcion": "Autobús choca contra camión en la 57 en SJR: el chofer resultó herido. Un autobús de pasajeros colisionó por alcance contra un camión de carga en la autopista 57 a la altura de la comunidad de Palma de Romero The post Autobús choca contra camión en la 57 en SJR: el chofer resultó herido appeared first on Quadratin Querétaro.",
+          "recomendacion": "",
+          "fecha": "7 agosto 2026 · 16:00 CST",
+          "fecha_iso": "2026-08-07T16:00:00-06:00",
+          "fuente": "Quadratin Queretaro",
+          "url": "https://queretaro.quadratin.com.mx/autobus-choca-contra-camion-en-la-57-en-sjr-el-chofer-resulto-herido/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 21.5,
+          "lon": -100.0
+        },
         {
           "id": "5d159c67",
           "tipo": "cierre_parcial",
@@ -127,6 +134,32 @@
   ],
   "para_mapa": [
     {
+      "id": "9b5a60eb",
+      "tipo": "cierre_parcial",
+      "ruta": "Autobús choca contra camión en la 57 en SJR: el…",
+      "descripcion": "Autobús choca contra camión en la 57 en SJR: el chofer resultó herido. Un autobús de pasajeros colisionó por alcance contra un camión de carga en la autopista 57 a la altura de la comunidad de Palma de Romero The post Autobús choca contra camión en la 57 en SJR: el chofer resultó herido appeared first on Quadratin Querétaro.",
+      "fecha": "7 agosto 2026 · 16:00 CST",
+      "fuente": "Quadratin Queretaro",
+      "url": "https://queretaro.quadratin.com.mx/autobus-choca-contra-camion-en-la-57-en-sjr-el-chofer-resulto-herido/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 21.5,
+      "lon": -100.0
+    },
+    {
+      "id": "0a2e95af",
+      "tipo": "cierre_total",
+      "ruta": "autopista Orizaba-Puebla hoy 7 de agosto - La Silla Rota",
+      "descripcion": "Volcadura colapsa la autopista Orizaba-Puebla hoy 7 de agosto - La Silla Rota. Volcadura colapsa la autopista Orizaba-Puebla hoy 7 de agosto La Silla Rota",
+      "fecha": "7 agosto 2026 · 15:55 CST",
+      "fuente": "La Silla Rota",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQV0tVWHBPYlREOEJ3N3YzTWVjV1JOVFVTV09ISG5uWWxuZENRWlB1UjJiLWFvZmo1ZDJNOXNxN3BzaG5YclpYS2hoM185c2dJRGxSS1NlTjNUZDBLRy1kMEtkWEVhX1pKcktJMTZ4TU9wenpZWFRIaUg1MWFDbjZmUWxrSHI2MUtrMTR4Z2xTMEJTcGs4Z3FqSU1oZGptcU1Ecl80ZDlMb2pjZUFSQVdvaEl6RDNnLTRuQlAzRU1vYw?oc=5",
+      "dot_color": "#e74c3c",
+      "badge_txt": "CIERRE TOTAL",
+      "lat": 19.04,
+      "lon": -98.2
+    },
+    {
       "id": "907e72e2",
       "tipo": "cierre_total",
       "ruta": "Salida de camino y volcadura de tráiler en la 57…",
@@ -138,19 +171,6 @@
       "badge_txt": "CIERRE TOTAL",
       "lat": 21.5,
       "lon": -100.0
-    },
-    {
-      "id": "0498721b",
-      "tipo": "bloqueo",
-      "ruta": "Paralizan vecinos la Toluca-Tenango; exigen clausura de basurero…",
-      "descripcion": "Paralizan vecinos la Toluca-Tenango; exigen clausura de basurero. CALIMAYA, Edomex., 7 de agosto de 2026.- Habitantes de diversos fraccionamientos y comunidades bloquearon este viernes la circulación de la carretera Toluca–Tenango, a la altura del puente y la avenida Calimaya, para exigir a las autoridades el cierre definitivo de un relleno sanitario. La protesta desató un severo caos vehicular en la zona del cruce […]",
-      "fecha": "7 agosto 2026 · 12:45 CST",
-      "fuente": "Quadratin EdoMex",
-      "url": "https://edomex.quadratin.com.mx/paralizan-vecinos-la-toluca-tenango-exigen-clausura-de-basurero/",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 19.35,
-      "lon": -99.7
     },
     {
       "id": "5d159c67",
