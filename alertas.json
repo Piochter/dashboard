@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-08-07T17:03:27.423543-06:00",
-  "ultima_actualizacion_legible": "7 de agosto de 2026 · 17:03 CST",
-  "total": 4,
+  "ultima_actualizacion": "2026-08-07T17:46:46.223079-06:00",
+  "ultima_actualizacion_legible": "7 de agosto de 2026 · 17:46 CST",
+  "total": 3,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
@@ -31,22 +31,6 @@
           "badge_txt": "CIERRE TOTAL",
           "lat": 19.04,
           "lon": -98.2
-        },
-        {
-          "id": "907e72e2",
-          "tipo": "cierre_total",
-          "ruta": "Salida de camino y volcadura de tráiler en la 57…",
-          "descripcion": "Salida de camino y volcadura de tráiler en la 57. Se registró la salida de camino y volcadura de un tractocamión con caja seca que transporta producto de limpieza y dejó bloqueada la circulación The post Salida de camino y volcadura de tráiler en la 57 appeared first on Quadratin Querétaro.",
-          "recomendacion": "",
-          "fecha": "7 agosto 2026 · 15:00 CST",
-          "fecha_iso": "2026-08-07T15:00:00-06:00",
-          "fuente": "Quadratin Queretaro",
-          "url": "https://queretaro.quadratin.com.mx/salida-de-camino-y-volcadura-de-trailer-en-la-57/",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL",
-          "lat": 21.5,
-          "lon": -100.0
         }
       ]
     },
@@ -118,19 +102,6 @@
       "badge_txt": "CIERRE TOTAL",
       "lat": 19.04,
       "lon": -98.2
-    },
-    {
-      "id": "907e72e2",
-      "tipo": "cierre_total",
-      "ruta": "Salida de camino y volcadura de tráiler en la 57…",
-      "descripcion": "Salida de camino y volcadura de tráiler en la 57. Se registró la salida de camino y volcadura de un tractocamión con caja seca que transporta producto de limpieza y dejó bloqueada la circulación The post Salida de camino y volcadura de tráiler en la 57 appeared first on Quadratin Querétaro.",
-      "fecha": "7 agosto 2026 · 15:00 CST",
-      "fuente": "Quadratin Queretaro",
-      "url": "https://queretaro.quadratin.com.mx/salida-de-camino-y-volcadura-de-trailer-en-la-57/",
-      "dot_color": "#e74c3c",
-      "badge_txt": "CIERRE TOTAL",
-      "lat": 21.5,
-      "lon": -100.0
     },
     {
       "id": "ad65bb5d",
