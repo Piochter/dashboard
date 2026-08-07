@@ -1,11 +1,10 @@
 {
-  "ultima_actualizacion": "2026-08-07T06:27:30.550813-06:00",
-  "ultima_actualizacion_legible": "7 de agosto de 2026 · 06:27 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-08-07T07:48:37.372568-06:00",
+  "ultima_actualizacion_legible": "7 de agosto de 2026 · 07:48 CST",
+  "total": 1,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News",
-    "Medios regionales"
+    "Google News"
   ],
   "grupos": [
     {
@@ -16,28 +15,14 @@
       "col2": true,
       "alertas": [
         {
-          "id": "18b73a84",
+          "id": "3e5a4d50",
           "tipo": "cierre_parcial",
-          "ruta": "Libramiento Norte",
-          "descripcion": "Auto fuera de control se estrella contra puesto de fresas en el Libramiento Norte. El percance ocurrió a la altura de El Carrizalito cuando un vehículo se salió del camino y causó destrozos en la estructura de un puesto comercial en servicio.",
-          "recomendacion": "",
-          "fecha": "6 agosto 2026 · 22:48 CST",
-          "fecha_iso": "2026-08-06T22:48:00-06:00",
-          "fuente": "AM Guanajuato",
-          "url": "https://www.am.com.mx/irapuato/2026/08/06/auto-fuera-de-control-se-estrella-contra-puesto-de-fresas-en-el-libramiento-norte-1828696.html",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
-        },
-        {
-          "id": "d0873603",
-          "tipo": "cierre_parcial",
-          "ruta": "autopista Orizaba - Puebla tras accidente de tráiler cargado con verdura - La Silla Rota",
-          "descripcion": "Liberan paso en la autopista Orizaba - Puebla tras accidente de tráiler cargado con verdura - La Silla Rota. Liberan paso en la autopista Orizaba - Puebla tras accidente de tráiler cargado con verdura La Silla Rota",
+          "ruta": "autopista Orizaba - Puebla tras accidente de tráiler cargado con verdura - lasillarota",
+          "descripcion": "Liberan paso en la autopista Orizaba - Puebla tras accidente de tráiler cargado con verdura - lasillarota.com. Liberan paso en la autopista Orizaba - Puebla tras accidente de tráiler cargado con verdura lasillarota.com",
           "recomendacion": "",
           "fecha": "6 agosto 2026 · 20:40 CST",
           "fecha_iso": "2026-08-06T20:40:00-06:00",
-          "fuente": "La Silla Rota",
+          "fuente": "lasillarota.com",
           "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZ0Y1dFcza0d3TUlwNkFkdFlWSTN5QXdFdG9MSllmX19ZMGFOU2tYU0llbEFwbWVHemJTVWFtSU4wZEh5Y1RHUnZKZVlHTEdQNHZteTNtdUh2SnBiR1NLMUpJdVpsUjF3RVhHTUpuOFNZZ0gtQnhnaV8wUlBMSm1jelZRbTdYVUdGOXAySklhSExTbmNhU1FCZ21yNnNZTV9fSTRuRDNreTF1RmxJcDNMbERPWkJCdHNRWTVjQzBRanBhRlJPblItM0Z0MXc0YTBkd0dsdmNOZFdTMm5qTTFnN21sLVo?oc=5",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
@@ -50,12 +35,12 @@
   ],
   "para_mapa": [
     {
-      "id": "d0873603",
+      "id": "3e5a4d50",
       "tipo": "cierre_parcial",
-      "ruta": "autopista Orizaba - Puebla tras accidente de tráiler cargado con verdura - La Silla Rota",
-      "descripcion": "Liberan paso en la autopista Orizaba - Puebla tras accidente de tráiler cargado con verdura - La Silla Rota. Liberan paso en la autopista Orizaba - Puebla tras accidente de tráiler cargado con verdura La Silla Rota",
+      "ruta": "autopista Orizaba - Puebla tras accidente de tráiler cargado con verdura - lasillarota",
+      "descripcion": "Liberan paso en la autopista Orizaba - Puebla tras accidente de tráiler cargado con verdura - lasillarota.com. Liberan paso en la autopista Orizaba - Puebla tras accidente de tráiler cargado con verdura lasillarota.com",
       "fecha": "6 agosto 2026 · 20:40 CST",
-      "fuente": "La Silla Rota",
+      "fuente": "lasillarota.com",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZ0Y1dFcza0d3TUlwNkFkdFlWSTN5QXdFdG9MSllmX19ZMGFOU2tYU0llbEFwbWVHemJTVWFtSU4wZEh5Y1RHUnZKZVlHTEdQNHZteTNtdUh2SnBiR1NLMUpJdVpsUjF3RVhHTUpuOFNZZ0gtQnhnaV8wUlBMSm1jelZRbTdYVUdGOXAySklhSExTbmNhU1FCZ21yNnNZTV9fSTRuRDNreTF1RmxJcDNMbERPWkJCdHNRWTVjQzBRanBhRlJPblItM0Z0MXc0YTBkd0dsdmNOZFdTMm5qTTFnN21sLVo?oc=5",
       "dot_color": "#e67e22",
       "badge_txt": "CIERRE PARCIAL",
