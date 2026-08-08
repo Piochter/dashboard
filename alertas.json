@@ -1,11 +1,10 @@
 {
-  "ultima_actualizacion": "2026-08-08T13:51:27.466170-06:00",
-  "ultima_actualizacion_legible": "8 de agosto de 2026 · 13:51 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-08-08T14:18:36.977388-06:00",
+  "ultima_actualizacion_legible": "8 de agosto de 2026 · 14:18 CST",
+  "total": 1,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News",
-    "Medios regionales"
+    "Google News"
   ],
   "grupos": [
     {
@@ -15,20 +14,6 @@
       "label": "CIERRE PARCIAL / ACCIDENTES",
       "col2": true,
       "alertas": [
-        {
-          "id": "497e9f08",
-          "tipo": "cierre_parcial",
-          "ruta": "Atropellan y matan a ‘biker’ en carretera Abasolo-Pastor Ortiz; no…",
-          "descripcion": "Atropellan y matan a ‘biker’ en carretera Abasolo-Pastor Ortiz; no ha sido identificado. El percance provocó la movilización de corporaciones de seguridad tras el hallazgo de la víctima sobre la vialidad.",
-          "recomendacion": "",
-          "fecha": "8 agosto 2026 · 12:42 CST",
-          "fecha_iso": "2026-08-08T12:42:00-06:00",
-          "fuente": "AM Guanajuato",
-          "url": "https://www.am.com.mx/guanajuato-sur/2026/08/08/atropellan-y-matan-a-biker-en-carretera-abasolo-pastor-ortiz-no-ha-sido-identificado-1829193.html",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
-        },
         {
           "id": "a43d5073",
           "tipo": "cierre_parcial",
