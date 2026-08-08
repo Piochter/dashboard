@@ -1,12 +1,10 @@
 {
-  "ultima_actualizacion": "2026-08-07T18:55:18.549337-06:00",
-  "ultima_actualizacion_legible": "7 de agosto de 2026 · 18:55 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-08-07T20:51:31.085204-06:00",
+  "ultima_actualizacion_legible": "7 de agosto de 2026 · 20:51 CST",
+  "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News",
-    "Quadratin + regionales",
-    "Telegram"
+    "Google News"
   ],
   "grupos": [
     {
@@ -42,54 +40,25 @@
       "col2": true,
       "alertas": [
         {
-          "id": "9b5a60eb",
+          "id": "5d159c67",
           "tipo": "cierre_parcial",
-          "ruta": "Autobús choca contra camión en la 57 en SJR: el…",
-          "descripcion": "Autobús choca contra camión en la 57 en SJR: el chofer resultó herido. Un autobús de pasajeros colisionó por alcance contra un camión de carga en la autopista 57 a la altura de la comunidad de Palma de Romero The post Autobús choca contra camión en la 57 en SJR: el chofer resultó herido appeared first on Quadratin Querétaro.",
+          "ruta": "🔴 Tráiler se queda sin frenos y embiste cerca de…",
+          "descripcion": "🔴 Tráiler se queda sin frenos y embiste cerca de 10 autos en Siglo XXI y salida a San Luis Potosí. #policiaca #patrulla790 #noticias #accidente #aguascalientes - facebook.com. 🔴 Tráiler se queda sin frenos y embiste cerca de 10 autos en Siglo XXI y salida a San Luis Potosí. #policiaca #patrulla790 #noticias #accidente #aguascalientes facebook.com",
           "recomendacion": "",
-          "fecha": "7 agosto 2026 · 16:00 CST",
-          "fecha_iso": "2026-08-07T16:00:00-06:00",
-          "fuente": "Quadratin Queretaro",
-          "url": "https://queretaro.quadratin.com.mx/autobus-choca-contra-camion-en-la-57-en-sjr-el-chofer-resulto-herido/",
+          "fecha": "7 agosto 2026 · 10:54 CST",
+          "fecha_iso": "2026-08-07T10:54:00-06:00",
+          "fuente": "facebook.com",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPUnFoR3k5UW40eDFydXptSkFieGg2YUEwTmVwUkpqNVFHRWUyMHFmNl83clhHOVJaM2c1YlRpZDVsZXVVazRKMi1xOWRnTHNyQ014S0Nkd3RudWdtdmR5VmZ4RkctRC0za2JEeDN1Tl9ld2ZxeWpFY1ExOUduTUg3VTdEMFh4cmhLVmFLSjRiVTdCbC14MDFaX1ZUaFkxRlVmMUhPZEpKMGFMdHU2dFd3NjNrR3pVM0UtSVh3NklraDNkd0JDOFNRT0w2MHR5SVdJdHhUMUZQWUZua0QxZ3k0amNn?oc=5",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL",
-          "lat": 21.5,
-          "lon": -100.0
-        },
-        {
-          "id": "ad65bb5d",
-          "tipo": "cierre_parcial",
-          "ruta": "🚧Tráiler y automóvil chocan en la #Toluca-#Ixtlahuaca, hay afectaciones viales…",
-          "descripcion": "🚧Tráiler y automóvil chocan en la #Toluca-#Ixtlahuaca, hay afectaciones viales 👇\nhttps://lajornadaestadodemexico.com/choque-en-la-toluca-ixtlahuaca/",
-          "recomendacion": "",
-          "fecha": "7 agosto 2026 · 08:02 CST",
-          "fecha_iso": "2026-08-07T08:02:00-06:00",
-          "fuente": "Telegram @jornadaedomex",
-          "url": "https://t.me/jornadaedomex/11663",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.29,
-          "lon": -99.66
+          "lat": 19.3,
+          "lon": -104.0
         }
       ]
     }
   ],
   "para_mapa": [
-    {
-      "id": "9b5a60eb",
-      "tipo": "cierre_parcial",
-      "ruta": "Autobús choca contra camión en la 57 en SJR: el…",
-      "descripcion": "Autobús choca contra camión en la 57 en SJR: el chofer resultó herido. Un autobús de pasajeros colisionó por alcance contra un camión de carga en la autopista 57 a la altura de la comunidad de Palma de Romero The post Autobús choca contra camión en la 57 en SJR: el chofer resultó herido appeared first on Quadratin Querétaro.",
-      "fecha": "7 agosto 2026 · 16:00 CST",
-      "fuente": "Quadratin Queretaro",
-      "url": "https://queretaro.quadratin.com.mx/autobus-choca-contra-camion-en-la-57-en-sjr-el-chofer-resulto-herido/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 21.5,
-      "lon": -100.0
-    },
     {
       "id": "0a2e95af",
       "tipo": "cierre_total",
@@ -104,17 +73,17 @@
       "lon": -98.2
     },
     {
-      "id": "ad65bb5d",
+      "id": "5d159c67",
       "tipo": "cierre_parcial",
-      "ruta": "🚧Tráiler y automóvil chocan en la #Toluca-#Ixtlahuaca, hay afectaciones viales…",
-      "descripcion": "🚧Tráiler y automóvil chocan en la #Toluca-#Ixtlahuaca, hay afectaciones viales 👇\nhttps://lajornadaestadodemexico.com/choque-en-la-toluca-ixtlahuaca/",
-      "fecha": "7 agosto 2026 · 08:02 CST",
-      "fuente": "Telegram @jornadaedomex",
-      "url": "https://t.me/jornadaedomex/11663",
+      "ruta": "🔴 Tráiler se queda sin frenos y embiste cerca de…",
+      "descripcion": "🔴 Tráiler se queda sin frenos y embiste cerca de 10 autos en Siglo XXI y salida a San Luis Potosí. #policiaca #patrulla790 #noticias #accidente #aguascalientes - facebook.com. 🔴 Tráiler se queda sin frenos y embiste cerca de 10 autos en Siglo XXI y salida a San Luis Potosí. #policiaca #patrulla790 #noticias #accidente #aguascalientes facebook.com",
+      "fecha": "7 agosto 2026 · 10:54 CST",
+      "fuente": "facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPUnFoR3k5UW40eDFydXptSkFieGg2YUEwTmVwUkpqNVFHRWUyMHFmNl83clhHOVJaM2c1YlRpZDVsZXVVazRKMi1xOWRnTHNyQ014S0Nkd3RudWdtdmR5VmZ4RkctRC0za2JEeDN1Tl9ld2ZxeWpFY1ExOUduTUg3VTdEMFh4cmhLVmFLSjRiVTdCbC14MDFaX1ZUaFkxRlVmMUhPZEpKMGFMdHU2dFd3NjNrR3pVM0UtSVh3NklraDNkd0JDOFNRT0w2MHR5SVdJdHhUMUZQWUZua0QxZ3k0amNn?oc=5",
       "dot_color": "#e67e22",
       "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.29,
-      "lon": -99.66
+      "lat": 19.3,
+      "lon": -104.0
     }
   ]
 }
