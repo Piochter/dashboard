@@ -1,51 +1,12 @@
 {
-  "ultima_actualizacion": "2026-08-08T03:52:51.344803-06:00",
-  "ultima_actualizacion_legible": "8 de agosto de 2026 · 03:52 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-08-08T04:22:16.429452-06:00",
+  "ultima_actualizacion_legible": "8 de agosto de 2026 · 04:22 CST",
+  "total": 0,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News"
   ],
-  "grupos": [
-    {
-      "tipo": "cierre_total",
-      "color": "rojo",
-      "icono": "🔴",
-      "label": "CIERRE TOTAL",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "0a2e95af",
-          "tipo": "cierre_total",
-          "ruta": "autopista Orizaba-Puebla hoy 7 de agosto - La Silla Rota",
-          "descripcion": "Volcadura colapsa la autopista Orizaba-Puebla hoy 7 de agosto - La Silla Rota. Volcadura colapsa la autopista Orizaba-Puebla hoy 7 de agosto La Silla Rota",
-          "recomendacion": "",
-          "fecha": "7 agosto 2026 · 15:55 CST",
-          "fecha_iso": "2026-08-07T15:55:00-06:00",
-          "fuente": "La Silla Rota",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQV0tVWHBPYlREOEJ3N3YzTWVjV1JOVFVTV09ISG5uWWxuZENRWlB1UjJiLWFvZmo1ZDJNOXNxN3BzaG5YclpYS2hoM185c2dJRGxSS1NlTjNUZDBLRy1kMEtkWEVhX1pKcktJMTZ4TU9wenpZWFRIaUg1MWFDbjZmUWxrSHI2MUtrMTR4Z2xTMEJTcGs4Z3FqSU1oZGptcU1Ecl80ZDlMb2pjZUFSQVdvaEl6RDNnLTRuQlAzRU1vYw?oc=5",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL",
-          "lat": 19.04,
-          "lon": -98.2
-        }
-      ]
-    }
-  ],
-  "para_mapa": [
-    {
-      "id": "0a2e95af",
-      "tipo": "cierre_total",
-      "ruta": "autopista Orizaba-Puebla hoy 7 de agosto - La Silla Rota",
-      "descripcion": "Volcadura colapsa la autopista Orizaba-Puebla hoy 7 de agosto - La Silla Rota. Volcadura colapsa la autopista Orizaba-Puebla hoy 7 de agosto La Silla Rota",
-      "fecha": "7 agosto 2026 · 15:55 CST",
-      "fuente": "La Silla Rota",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQV0tVWHBPYlREOEJ3N3YzTWVjV1JOVFVTV09ISG5uWWxuZENRWlB1UjJiLWFvZmo1ZDJNOXNxN3BzaG5YclpYS2hoM185c2dJRGxSS1NlTjNUZDBLRy1kMEtkWEVhX1pKcktJMTZ4TU9wenpZWFRIaUg1MWFDbjZmUWxrSHI2MUtrMTR4Z2xTMEJTcGs4Z3FqSU1oZGptcU1Ecl80ZDlMb2pjZUFSQVdvaEl6RDNnLTRuQlAzRU1vYw?oc=5",
-      "dot_color": "#e74c3c",
-      "badge_txt": "CIERRE TOTAL",
-      "lat": 19.04,
-      "lon": -98.2
-    }
-  ]
+  "grupos": [],
+  "para_mapa": [],
+  "nota": "Sin alertas activas en la ventana de tiempo configurada."
 }
