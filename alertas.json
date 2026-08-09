@@ -1,40 +1,14 @@
 {
-  "ultima_actualizacion": "2026-08-09T15:34:49.748015-06:00",
-  "ultima_actualizacion_legible": "9 de agosto de 2026 · 15:34 CST",
-  "total": 4,
+  "ultima_actualizacion": "2026-08-09T16:03:21.002311-06:00",
+  "ultima_actualizacion_legible": "9 de agosto de 2026 · 16:03 CST",
+  "total": 3,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
     "Medios regionales",
-    "Quadratin + regionales",
     "Telegram"
   ],
   "grupos": [
-    {
-      "tipo": "cierre_total",
-      "color": "rojo",
-      "icono": "🔴",
-      "label": "CIERRE TOTAL",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "b91325fe",
-          "tipo": "cierre_total",
-          "ruta": "Volcadura de camión cargado de cerveza desata rapiña en Cruz…",
-          "descripcion": "Volcadura de camión cargado de cerveza desata rapiña en Cruz Grande. El hecho ocurre sobre la carretera Acapulco-Pinotepa Nacional",
-          "recomendacion": "",
-          "fecha": "9 agosto 2026 · 14:15 CST",
-          "fecha_iso": "2026-08-09T14:15:00-06:00",
-          "fuente": "Quadratin Guerrero",
-          "url": "https://guerrero.quadratin.com.mx/volcadura-de-camion-cargado-de-cerveza-desata-rapina-en-cruz-grande/",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL",
-          "lat": 16.86,
-          "lon": -99.88
-        }
-      ]
-    },
     {
       "tipo": "bloqueo",
       "color": "rojo",
@@ -101,19 +75,6 @@
     }
   ],
   "para_mapa": [
-    {
-      "id": "b91325fe",
-      "tipo": "cierre_total",
-      "ruta": "Volcadura de camión cargado de cerveza desata rapiña en Cruz…",
-      "descripcion": "Volcadura de camión cargado de cerveza desata rapiña en Cruz Grande. El hecho ocurre sobre la carretera Acapulco-Pinotepa Nacional",
-      "fecha": "9 agosto 2026 · 14:15 CST",
-      "fuente": "Quadratin Guerrero",
-      "url": "https://guerrero.quadratin.com.mx/volcadura-de-camion-cargado-de-cerveza-desata-rapina-en-cruz-grande/",
-      "dot_color": "#e74c3c",
-      "badge_txt": "CIERRE TOTAL",
-      "lat": 16.86,
-      "lon": -99.88
-    },
     {
       "id": "ccfbc7d6",
       "tipo": "cierre_parcial",
