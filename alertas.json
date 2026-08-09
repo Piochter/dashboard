@@ -1,11 +1,10 @@
 {
-  "ultima_actualizacion": "2026-08-09T16:48:29.223509-06:00",
-  "ultima_actualizacion_legible": "9 de agosto de 2026 · 16:48 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-08-09T17:22:36.159125-06:00",
+  "ultima_actualizacion_legible": "9 de agosto de 2026 · 17:22 CST",
+  "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
-    "Medios regionales",
     "Telegram"
   ],
   "grupos": [
@@ -39,20 +38,6 @@
       "label": "CIERRE PARCIAL / ACCIDENTES",
       "col2": true,
       "alertas": [
-        {
-          "id": "f3b53a0a",
-          "tipo": "cierre_parcial",
-          "ruta": "carretera en San José Iturbide",
-          "descripcion": "Choque entre tráileres provoca incendio y cierre de carretera en San José Iturbide. El aparatoso accidente originó que la carretera federal fuera cerrada a la circulación por algunos minutos en lo que el incendio era controlado.",
-          "recomendacion": "",
-          "fecha": "9 agosto 2026 · 16:16 CST",
-          "fecha_iso": "2026-08-09T16:16:00-06:00",
-          "fuente": "AM Guanajuato",
-          "url": "https://www.am.com.mx/guanajuato/2026/08/09/choque-entre-traileres-provoca-incendio-y-cierre-de-carretera-en-san-jose-iturbide-1829614.html",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
-        },
         {
           "id": "ccfbc7d6",
           "tipo": "cierre_parcial",
