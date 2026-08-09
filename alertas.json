@@ -1,10 +1,11 @@
 {
-  "ultima_actualizacion": "2026-08-09T15:00:34.523710-06:00",
-  "ultima_actualizacion_legible": "9 de agosto de 2026 · 15:00 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-08-09T15:34:49.748015-06:00",
+  "ultima_actualizacion_legible": "9 de agosto de 2026 · 15:34 CST",
+  "total": 4,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
+    "Medios regionales",
     "Quadratin + regionales",
     "Telegram"
   ],
@@ -42,14 +43,14 @@
       "col2": false,
       "alertas": [
         {
-          "id": "cb2009c5",
+          "id": "a14d0ba7",
           "tipo": "bloqueo",
           "ruta": "Bloqueos carreteras HOY 9 de agosto: Autopistas cerradas en México,…",
-          "descripcion": "Bloqueos carreteras HOY 9 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 9 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
+          "descripcion": "Bloqueos carreteras HOY 9 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - ejecentral.com.mx. Bloqueos carreteras HOY 9 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE ejecentral.com.mx",
           "recomendacion": "",
           "fecha": "9 agosto 2026 · 09:01 CST",
           "fecha_iso": "2026-08-09T09:01:00-06:00",
-          "fuente": "Eje Central",
+          "fuente": "ejecentral.com.mx",
           "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOUkdidkRyUlQwVlZvYkFwb053UXZrTEZZR182S2ZQZ1dsandmS2Z4WlFDMEw2aFlZcktINFhLSzBETUphdHpKTFAxRVJFS04weW5CQlZsUjVxZjdzV1ZUX3l4bHZkYlVIeUt0LWtDMWNkV3l4NWZ1T2NNRlFkd3dUVjJqUy1WSWNOVjA4Rk1OSW1hYk51Q3NIdWVZWE5uV1BPS0VKd3NySjZfZkJsNXZUa0NpaDJjNzRBSTJTSHQ3MHNoTVZZZ25BWXF5MVlnMy1hWkpPZUJxckxDdzhpbEIyay1mcEtYdjg?oc=5",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
@@ -79,6 +80,22 @@
           "badge_txt": "CIERRE PARCIAL",
           "lat": 20.1,
           "lon": -99.5
+        },
+        {
+          "id": "ff062857",
+          "tipo": "cierre_parcial",
+          "ruta": "Choque de frente entre dos autos deja 3 heridos en…",
+          "descripcion": "Choque de frente entre dos autos deja 3 heridos en la Guanajuato-Dolores Hidalgo. Según los reportes preliminares, uno de los conductores circulaba presuntamente a exceso de velocidad y, al tomar un tramo de curvas, invadió el carril contrario e impactó de frente a la otra unidad.",
+          "recomendacion": "",
+          "fecha": "9 agosto 2026 · 12:45 CST",
+          "fecha_iso": "2026-08-09T12:45:00-06:00",
+          "fuente": "AM Guanajuato",
+          "url": "https://www.am.com.mx/guanajuato-capital/2026/08/09/choque-frontal-en-la-guanajuato-dolores-hidalgo-deja-3-heridos-1829565.html",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 20.11,
+          "lon": -98.73
         }
       ]
     }
@@ -109,6 +126,19 @@
       "badge_txt": "CIERRE PARCIAL",
       "lat": 20.1,
       "lon": -99.5
+    },
+    {
+      "id": "ff062857",
+      "tipo": "cierre_parcial",
+      "ruta": "Choque de frente entre dos autos deja 3 heridos en…",
+      "descripcion": "Choque de frente entre dos autos deja 3 heridos en la Guanajuato-Dolores Hidalgo. Según los reportes preliminares, uno de los conductores circulaba presuntamente a exceso de velocidad y, al tomar un tramo de curvas, invadió el carril contrario e impactó de frente a la otra unidad.",
+      "fecha": "9 agosto 2026 · 12:45 CST",
+      "fuente": "AM Guanajuato",
+      "url": "https://www.am.com.mx/guanajuato-capital/2026/08/09/choque-frontal-en-la-guanajuato-dolores-hidalgo-deja-3-heridos-1829565.html",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 20.11,
+      "lon": -98.73
     }
   ]
 }
