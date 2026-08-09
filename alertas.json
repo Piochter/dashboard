@@ -1,6 +1,6 @@
 {
-  "ultima_actualizacion": "2026-08-09T11:22:47.386200-06:00",
-  "ultima_actualizacion_legible": "9 de agosto de 2026 · 11:22 CST",
+  "ultima_actualizacion": "2026-08-09T11:56:19.934200-06:00",
+  "ultima_actualizacion_legible": "9 de agosto de 2026 · 11:56 CST",
   "total": 4,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
@@ -17,15 +17,15 @@
       "col2": false,
       "alertas": [
         {
-          "id": "29fe42bf",
+          "id": "b91325fe",
           "tipo": "cierre_total",
-          "ruta": "Volcadura de camión cargado de cerveza provoca rapiña en Cruz…",
-          "descripcion": "Volcadura de camión cargado de cerveza provoca rapiña en Cruz Grande. El hecho ocurre sobre la carretera Acapulco-Pinotepa Nacional",
+          "ruta": "Volcadura de camión cargado de cerveza desata rapiña en Cruz…",
+          "descripcion": "Volcadura de camión cargado de cerveza desata rapiña en Cruz Grande. El hecho ocurre sobre la carretera Acapulco-Pinotepa Nacional",
           "recomendacion": "",
           "fecha": "9 agosto 2026 · 11:15 CST",
           "fecha_iso": "2026-08-09T11:15:00-06:00",
           "fuente": "Quadratin Guerrero",
-          "url": "https://guerrero.quadratin.com.mx/volcadura-de-camion-cargado-de-cerveza-provoca-rapina-en-cruz-grande/",
+          "url": "https://guerrero.quadratin.com.mx/volcadura-de-camion-cargado-de-cerveza-desata-rapina-en-cruz-grande/",
           "dot_color": "#e74c3c",
           "badge": "badge-cierre-total",
           "badge_txt": "CIERRE TOTAL",
@@ -97,13 +97,13 @@
   ],
   "para_mapa": [
     {
-      "id": "29fe42bf",
+      "id": "b91325fe",
       "tipo": "cierre_total",
-      "ruta": "Volcadura de camión cargado de cerveza provoca rapiña en Cruz…",
-      "descripcion": "Volcadura de camión cargado de cerveza provoca rapiña en Cruz Grande. El hecho ocurre sobre la carretera Acapulco-Pinotepa Nacional",
+      "ruta": "Volcadura de camión cargado de cerveza desata rapiña en Cruz…",
+      "descripcion": "Volcadura de camión cargado de cerveza desata rapiña en Cruz Grande. El hecho ocurre sobre la carretera Acapulco-Pinotepa Nacional",
       "fecha": "9 agosto 2026 · 11:15 CST",
       "fuente": "Quadratin Guerrero",
-      "url": "https://guerrero.quadratin.com.mx/volcadura-de-camion-cargado-de-cerveza-provoca-rapina-en-cruz-grande/",
+      "url": "https://guerrero.quadratin.com.mx/volcadura-de-camion-cargado-de-cerveza-desata-rapina-en-cruz-grande/",
       "dot_color": "#e74c3c",
       "badge_txt": "CIERRE TOTAL",
       "lat": 16.86,
