@@ -1,10 +1,11 @@
 {
-  "ultima_actualizacion": "2026-08-09T12:26:37.660897-06:00",
-  "ultima_actualizacion_legible": "9 de agosto de 2026 · 12:26 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-08-09T13:10:36.462385-06:00",
+  "ultima_actualizacion_legible": "9 de agosto de 2026 · 13:10 CST",
+  "total": 4,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
+    "Medios regionales",
     "Quadratin + regionales"
   ],
   "grupos": [
@@ -30,6 +31,20 @@
           "badge_txt": "CIERRE TOTAL",
           "lat": 16.86,
           "lon": -99.88
+        },
+        {
+          "id": "276df61c",
+          "tipo": "cierre_total",
+          "ruta": "Severo embotellamiento dejó la volcadura de un tráiler en la…",
+          "descripcion": "Severo embotellamiento dejó la volcadura de un tráiler en la La Piedad-Irapuato. Irapuato.- Un tráiler volcó sobre una cuneta, de la carretera federal 1110 La Piedad-Irapuato. El tráfico se vio severamente afectado mientras los cuerpos de emergencias intentaban recuperar la unidad. Los hechos se reportaron alrededor de las 7:00 de la tarde del sábado, cuando el conductor de un tráiler conducía en dirección a Irapuato. Al llegar […]",
+          "recomendacion": "",
+          "fecha": "9 agosto 2026 · 07:50 CST",
+          "fecha_iso": "2026-08-09T07:50:00-06:00",
+          "fuente": "AM Guanajuato",
+          "url": "https://www.am.com.mx/irapuato/2026/08/09/volcadura-en-la-piedad-irapuato-causa-severo-embotellamiento-1829527.html",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL"
         }
       ]
     },
@@ -41,23 +56,61 @@
       "col2": false,
       "alertas": [
         {
-          "id": "a14d0ba7",
+          "id": "cb2009c5",
           "tipo": "bloqueo",
           "ruta": "Bloqueos carreteras HOY 9 de agosto: Autopistas cerradas en México,…",
-          "descripcion": "Bloqueos carreteras HOY 9 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - ejecentral.com.mx. Bloqueos carreteras HOY 9 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE ejecentral.com.mx",
+          "descripcion": "Bloqueos carreteras HOY 9 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 9 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
           "recomendacion": "",
           "fecha": "9 agosto 2026 · 09:01 CST",
           "fecha_iso": "2026-08-09T09:01:00-06:00",
-          "fuente": "ejecentral.com.mx",
+          "fuente": "Eje Central",
           "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOUkdidkRyUlQwVlZvYkFwb053UXZrTEZZR182S2ZQZ1dsandmS2Z4WlFDMEw2aFlZcktINFhLSzBETUphdHpKTFAxRVJFS04weW5CQlZsUjVxZjdzV1ZUX3l4bHZkYlVIeUt0LWtDMWNkV3l4NWZ1T2NNRlFkd3dUVjJqUy1WSWNOVjA4Rk1OSW1hYk51Q3NIdWVZWE5uV1BPS0VKd3NySjZfZkJsNXZUa0NpaDJjNzRBSTJTSHQ3MHNoTVZZZ25BWXF5MVlnMy1hWkpPZUJxckxDdzhpbEIyay1mcEtYdjg?oc=5",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO"
         }
       ]
+    },
+    {
+      "tipo": "cierre_parcial",
+      "color": "amarillo",
+      "icono": "🟡",
+      "label": "CIERRE PARCIAL / ACCIDENTES",
+      "col2": true,
+      "alertas": [
+        {
+          "id": "ff062857",
+          "tipo": "cierre_parcial",
+          "ruta": "Choque de frente entre dos autos deja 3 heridos en…",
+          "descripcion": "Choque de frente entre dos autos deja 3 heridos en la Guanajuato-Dolores Hidalgo. Según los reportes preliminares, uno de los conductores circulaba presuntamente a exceso de velocidad y, al tomar un tramo de curvas, invadió el carril contrario e impactó de frente a la otra unidad.",
+          "recomendacion": "",
+          "fecha": "9 agosto 2026 · 12:45 CST",
+          "fecha_iso": "2026-08-09T12:45:00-06:00",
+          "fuente": "AM Guanajuato",
+          "url": "https://www.am.com.mx/guanajuato-capital/2026/08/09/choque-frontal-en-la-guanajuato-dolores-hidalgo-deja-3-heridos-1829565.html",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 20.11,
+          "lon": -98.73
+        }
+      ]
     }
   ],
   "para_mapa": [
+    {
+      "id": "ff062857",
+      "tipo": "cierre_parcial",
+      "ruta": "Choque de frente entre dos autos deja 3 heridos en…",
+      "descripcion": "Choque de frente entre dos autos deja 3 heridos en la Guanajuato-Dolores Hidalgo. Según los reportes preliminares, uno de los conductores circulaba presuntamente a exceso de velocidad y, al tomar un tramo de curvas, invadió el carril contrario e impactó de frente a la otra unidad.",
+      "fecha": "9 agosto 2026 · 12:45 CST",
+      "fuente": "AM Guanajuato",
+      "url": "https://www.am.com.mx/guanajuato-capital/2026/08/09/choque-frontal-en-la-guanajuato-dolores-hidalgo-deja-3-heridos-1829565.html",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 20.11,
+      "lon": -98.73
+    },
     {
       "id": "b91325fe",
       "tipo": "cierre_total",
