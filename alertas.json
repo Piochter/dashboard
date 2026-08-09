@@ -1,9 +1,10 @@
 {
-  "ultima_actualizacion": "2026-08-09T09:05:29.393459-06:00",
-  "ultima_actualizacion_legible": "9 de agosto de 2026 · 09:05 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-08-09T09:45:11.334860-06:00",
+  "ultima_actualizacion_legible": "9 de agosto de 2026 · 09:45 CST",
+  "total": 3,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
+    "Google News",
     "Medios regionales"
   ],
   "grupos": [
@@ -31,6 +32,29 @@
       ]
     },
     {
+      "tipo": "bloqueo",
+      "color": "rojo",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "cb2009c5",
+          "tipo": "bloqueo",
+          "ruta": "Bloqueos carreteras HOY 9 de agosto: Autopistas cerradas en México,…",
+          "descripcion": "Bloqueos carreteras HOY 9 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 9 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
+          "recomendacion": "",
+          "fecha": "9 agosto 2026 · 09:01 CST",
+          "fecha_iso": "2026-08-09T09:01:00-06:00",
+          "fuente": "Eje Central",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOUkdidkRyUlQwVlZvYkFwb053UXZrTEZZR182S2ZQZ1dsandmS2Z4WlFDMEw2aFlZcktINFhLSzBETUphdHpKTFAxRVJFS04weW5CQlZsUjVxZjdzV1ZUX3l4bHZkYlVIeUt0LWtDMWNkV3l4NWZ1T2NNRlFkd3dUVjJqUy1WSWNOVjA4Rk1OSW1hYk51Q3NIdWVZWE5uV1BPS0VKd3NySjZfZkJsNXZUa0NpaDJjNzRBSTJTSHQ3MHNoTVZZZ25BWXF5MVlnMy1hWkpPZUJxckxDdzhpbEIyay1mcEtYdjg?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        }
+      ]
+    },
+    {
       "tipo": "cierre_parcial",
       "color": "amarillo",
       "icono": "🟡",
@@ -38,37 +62,21 @@
       "col2": true,
       "alertas": [
         {
-          "id": "587de29b",
+          "id": "65712acd",
           "tipo": "cierre_parcial",
-          "ruta": "carretera en Jalisco",
-          "descripcion": "Accidentes de tráileres elevan la preocupación por la seguridad carretera en Jalisco. Siete de cada 10 choques en carreteras del estado involucran camiones de carga, el doble que el promedio nacional",
+          "ruta": "Carreteras Bloqueadas en México Hoy, Domingo 9 de Agosto 2026…",
+          "descripcion": "Carreteras Bloqueadas en México Hoy, Domingo 9 de Agosto 2026 - N+. Carreteras Bloqueadas en México Hoy, Domingo 9 de Agosto 2026 N+",
           "recomendacion": "",
-          "fecha": "9 agosto 2026 · 04:00 CST",
-          "fecha_iso": "2026-08-09T04:00:00-06:00",
-          "fuente": "El Informador Jalisco",
-          "url": "https://www.informador.mx/accidentes-de-traileres-elevan-la-preocupacion-por-la-seguridad-carretera-en-jalisco-l202608090003.html",
+          "fecha": "9 agosto 2026 · 00:05 CST",
+          "fecha_iso": "2026-08-09T00:05:00-06:00",
+          "fuente": "N+",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPd0FfZVhBdzZhTG5OMnVRSlRxMGhadTNINGZqdTFqb1EtWVFoejNPVlNURllRVHNTZGxvRmpuY0c0cXJ5a0VBNURvTEctYkxNR3VCQlFORUV2LVRSMUg0VFBFMF9qZktCM1IzNmFlTGdXMmxkLWFjTkdoZTAtcFJuZUxZUUQwd1lqSUNaWmt4YmI0clJQZjRBRWlmY3R5QVRha25xYzd1djJ1dw?oc=5",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 20.66,
-          "lon": -103.35
+          "badge_txt": "CIERRE PARCIAL"
         }
       ]
     }
   ],
-  "para_mapa": [
-    {
-      "id": "587de29b",
-      "tipo": "cierre_parcial",
-      "ruta": "carretera en Jalisco",
-      "descripcion": "Accidentes de tráileres elevan la preocupación por la seguridad carretera en Jalisco. Siete de cada 10 choques en carreteras del estado involucran camiones de carga, el doble que el promedio nacional",
-      "fecha": "9 agosto 2026 · 04:00 CST",
-      "fuente": "El Informador Jalisco",
-      "url": "https://www.informador.mx/accidentes-de-traileres-elevan-la-preocupacion-por-la-seguridad-carretera-en-jalisco-l202608090003.html",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 20.66,
-      "lon": -103.35
-    }
-  ]
+  "para_mapa": []
 }
