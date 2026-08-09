@@ -1,37 +1,12 @@
 {
-  "ultima_actualizacion": "2026-08-09T05:00:24.271213-06:00",
-  "ultima_actualizacion_legible": "9 de agosto de 2026 · 05:00 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-08-09T05:31:30.038705-06:00",
+  "ultima_actualizacion_legible": "9 de agosto de 2026 · 05:31 CST",
+  "total": 1,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Medios regionales"
   ],
   "grupos": [
-    {
-      "tipo": "bloqueo",
-      "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "0ae5dcd6",
-          "tipo": "bloqueo",
-          "ruta": "Deslizamiento de tierra deja casi 400 personas varadas en una…",
-          "descripcion": "Deslizamiento de tierra deja casi 400 personas varadas en una localidad de Japón. El desastre natural bloqueó una de las carreteras locales y dejó prácticamente aislado al poblado de Azumino",
-          "recomendacion": "",
-          "fecha": "8 agosto 2026 · 22:45 CST",
-          "fecha_iso": "2026-08-08T22:45:00-06:00",
-          "fuente": "El Informador Jalisco",
-          "url": "https://www.informador.mx/internacional/deslizamiento-de-tierra-deja-casi-400-personas-varadas-en-una-localidad-de-japon-20260808-0104.html",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 25.2,
-          "lon": -102.0
-        }
-      ]
-    },
     {
       "tipo": "cierre_parcial",
       "color": "amarillo",
@@ -71,19 +46,6 @@
       "badge_txt": "CIERRE PARCIAL",
       "lat": 20.66,
       "lon": -103.35
-    },
-    {
-      "id": "0ae5dcd6",
-      "tipo": "bloqueo",
-      "ruta": "Deslizamiento de tierra deja casi 400 personas varadas en una…",
-      "descripcion": "Deslizamiento de tierra deja casi 400 personas varadas en una localidad de Japón. El desastre natural bloqueó una de las carreteras locales y dejó prácticamente aislado al poblado de Azumino",
-      "fecha": "8 agosto 2026 · 22:45 CST",
-      "fuente": "El Informador Jalisco",
-      "url": "https://www.informador.mx/internacional/deslizamiento-de-tierra-deja-casi-400-personas-varadas-en-una-localidad-de-japon-20260808-0104.html",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 25.2,
-      "lon": -102.0
     }
   ]
 }
