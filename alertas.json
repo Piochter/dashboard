@@ -1,12 +1,35 @@
 {
-  "ultima_actualizacion": "2026-08-09T07:59:00.574362-06:00",
-  "ultima_actualizacion_legible": "9 de agosto de 2026 · 07:59 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-08-09T08:32:57.267685-06:00",
+  "ultima_actualizacion_legible": "9 de agosto de 2026 · 08:32 CST",
+  "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Medios regionales"
   ],
   "grupos": [
+    {
+      "tipo": "cierre_total",
+      "color": "rojo",
+      "icono": "🔴",
+      "label": "CIERRE TOTAL",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "276df61c",
+          "tipo": "cierre_total",
+          "ruta": "Severo embotellamiento dejó la volcadura de un tráiler en la…",
+          "descripcion": "Severo embotellamiento dejó la volcadura de un tráiler en la La Piedad-Irapuato. Irapuato.- Un tráiler volcó sobre una cuneta, de la carretera federal 1110 La Piedad-Irapuato. El tráfico se vio severamente afectado mientras los cuerpos de emergencias intentaban recuperar la unidad. Los hechos se reportaron alrededor de las 7:00 de la tarde del sábado, cuando el conductor de un tráiler conducía en dirección a Irapuato. Al llegar […]",
+          "recomendacion": "",
+          "fecha": "9 agosto 2026 · 07:50 CST",
+          "fecha_iso": "2026-08-09T07:50:00-06:00",
+          "fuente": "AM Guanajuato",
+          "url": "https://www.am.com.mx/irapuato/2026/08/09/volcadura-en-la-piedad-irapuato-causa-severo-embotellamiento-1829527.html",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL"
+        }
+      ]
+    },
     {
       "tipo": "cierre_parcial",
       "color": "amarillo",
