@@ -1,10 +1,10 @@
 {
-  "ultima_actualizacion": "2026-08-08T17:52:05.497077-06:00",
-  "ultima_actualizacion_legible": "8 de agosto de 2026 · 17:52 CST",
+  "ultima_actualizacion": "2026-08-08T18:58:12.313381-06:00",
+  "ultima_actualizacion_legible": "8 de agosto de 2026 · 18:58 CST",
   "total": 1,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News"
+    "Medios regionales"
   ],
   "grupos": [
     {
@@ -15,15 +15,15 @@
       "col2": true,
       "alertas": [
         {
-          "id": "a43d5073",
+          "id": "720f133b",
           "tipo": "cierre_parcial",
-          "ruta": "Carreteras Bloqueadas en México Hoy, Sábado 8 de Agosto 2026…",
-          "descripcion": "Carreteras Bloqueadas en México Hoy, Sábado 8 de Agosto 2026 - N+. Carreteras Bloqueadas en México Hoy, Sábado 8 de Agosto 2026 N+",
+          "ruta": "13 muertos en Perú tras fuerte choque de camioneta y…",
+          "descripcion": "13 muertos en Perú tras fuerte choque de camioneta y tráiler. Entre los fallecidos se encuentra el chófer de la minivan, identificado como Raúl Huamaní Enríquez, de 36 años",
           "recomendacion": "",
-          "fecha": "8 agosto 2026 · 06:27 CST",
-          "fecha_iso": "2026-08-08T06:27:00-06:00",
-          "fuente": "N+",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbDVqRHZCU3BIX0ZyR2UyTFdxemRqOW5JdXFzZWFwcWR6alM4dGxlNjlscGZwMHVIZGxWM1I3U0h1ZU5yRVlwYjc2QmliU1VNb3lMbE02Rk01OVNlVzVmSzNGNXZEeGJaOFN2ZTZMYTZMTTBTYWZBQ3VtZ1ZHVEV1STVWWFhQS2F3WUkwZ2hvOWNYSjRVdk5CWmhn?oc=5",
+          "fecha": "8 agosto 2026 · 13:49 CST",
+          "fecha_iso": "2026-08-08T13:49:00-06:00",
+          "fuente": "El Sol de Mexico",
+          "url": "https://oem.com.mx/elsoldemexico/mundo/13-muertos-en-peru-tras-fuerte-choque-de-camioneta-y-trailer-31490762",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL"
