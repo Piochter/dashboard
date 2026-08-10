@@ -1,14 +1,38 @@
 {
-  "ultima_actualizacion": "2026-08-10T13:14:33.019656-06:00",
-  "ultima_actualizacion_legible": "10 de agosto de 2026 · 13:14 CST",
-  "total": 6,
+  "ultima_actualizacion": "2026-08-10T14:02:25.838996-06:00",
+  "ultima_actualizacion_legible": "10 de agosto de 2026 · 14:02 CST",
+  "total": 8,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
+    "Medios regionales",
     "Quadratin + regionales",
     "Telegram"
   ],
   "grupos": [
+    {
+      "tipo": "cierre_total",
+      "color": "rojo",
+      "icono": "🔴",
+      "label": "CIERRE TOTAL",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "1f285348",
+          "tipo": "cierre_total",
+          "ruta": "carretera federal Pénjamo-Abasolo",
+          "descripcion": "Fallece conductor tras volcar su auto en la carretera federal Pénjamo-Abasolo. Como consecuencia del accidente, automovilistas se detuvieron y llamaron al 911 para reportar la volcadura, lo que generó la movilización de personal y paramédicos de Protección Civil y Bomberos de Pénjamo y Abasolo.",
+          "recomendacion": "",
+          "fecha": "10 agosto 2026 · 10:44 CST",
+          "fecha_iso": "2026-08-10T10:44:00-06:00",
+          "fuente": "AM Guanajuato",
+          "url": "https://www.am.com.mx/irapuato/2026/08/10/fallece-conductor-en-la-penjamo-abasolo-tras-volcarse-1829879.html",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL"
+        }
+      ]
+    },
     {
       "tipo": "bloqueo",
       "color": "rojo",
@@ -17,14 +41,14 @@
       "col2": false,
       "alertas": [
         {
-          "id": "b87d950d",
+          "id": "0dc00553",
           "tipo": "bloqueo",
           "ruta": "Bloqueo de transportistas en la Carretera México-Puebla: Rutas alternas para…",
-          "descripcion": "Bloqueo de transportistas en la Carretera México-Puebla: Rutas alternas para salir de Los Reyes- La Paz hacia la CDMX - Eje Central. Bloqueo de transportistas en la Carretera México-Puebla: Rutas alternas para salir de Los Reyes- La Paz hacia la CDMX Eje Central",
+          "descripcion": "Bloqueo de transportistas en la Carretera México-Puebla: Rutas alternas para salir de Los Reyes- La Paz hacia la CDMX - ejecentral.com.mx. Bloqueo de transportistas en la Carretera México-Puebla: Rutas alternas para salir de Los Reyes- La Paz hacia la CDMX ejecentral.com.mx",
           "recomendacion": "",
           "fecha": "10 agosto 2026 · 08:59 CST",
           "fecha_iso": "2026-08-10T08:59:00-06:00",
-          "fuente": "Eje Central",
+          "fuente": "ejecentral.com.mx",
           "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPS1NveHlkaHVCazM1b01nLUdVaDQwcFpCeGhTT0tmRmNkMUZaWE41NGhERnpjemg0aG1NZTZNWHh4NWJUdy1XZkFqMEl0UWxJYm5laHMzUEJsajlRdDVBdTVEN1ppX3dGbUh5QWs5dnFFQ3ppOXRabDNnMlVTRWQtREFOZTNGUTRaaDk2VktSbUdzYndBVnYxV2VYaGxpVzZCR19ZZS10MEFEaGRrakF6SjhxLWhwVjlYMklqdTRBQnFBVVlkTkVONTJEX1pPdzNZc0duU1R3Zm8xOGRwOF9YVTlabXRQTnBidnpRYk1R?oc=5",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
@@ -49,14 +73,14 @@
           "lon": -98.4
         },
         {
-          "id": "b3a4fbee",
+          "id": "3f14526a",
           "tipo": "bloqueo",
           "ruta": "Bloqueos carreteras HOY 10 de agosto: Autopistas cerradas en México,…",
-          "descripcion": "Bloqueos carreteras HOY 10 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 10 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
+          "descripcion": "Bloqueos carreteras HOY 10 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - ejecentral.com.mx. Bloqueos carreteras HOY 10 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE ejecentral.com.mx",
           "recomendacion": "",
           "fecha": "10 agosto 2026 · 07:03 CST",
           "fecha_iso": "2026-08-10T07:03:00-06:00",
-          "fuente": "Eje Central",
+          "fuente": "ejecentral.com.mx",
           "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPaFc4Nkk0LU96QllGUm5xRlA4WFF1NXNiZVl0NmFXSDVzeFZQdFp0dW9LRHhESkFKcmhIVUNfcXFXRFlhVTBzWktJOUszOW5nRDc1LTNDc054V3RfWmdtT1RSTkV4eno2VTQ0d0FpcEZNUmVOb19BZTNjR0xCYTdSU1Q4ajY0enlDcDNFUkU5WlNOWVItQXdySmx2cGJpYlRrRXpSRzJuNzJ1bGg2dFZ6c2JoUDRndjlVYmZSRU94WENWVnpWMUgzOHlFWG14c3pzbkRWTzUwOEVoSUpsUmJpVkJvcW1UWmpH?oc=5",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
@@ -71,6 +95,20 @@
       "label": "CIERRE PARCIAL / ACCIDENTES",
       "col2": true,
       "alertas": [
+        {
+          "id": "15e43f06",
+          "tipo": "cierre_parcial",
+          "ruta": "Confirma FGE 2 muertos en incendio de tractocamiones en la…",
+          "descripcion": "Confirma FGE 2 muertos en incendio de tractocamiones en la Siglo 21. A la altura de La Huacana",
+          "recomendacion": "",
+          "fecha": "10 agosto 2026 · 13:37 CST",
+          "fecha_iso": "2026-08-10T13:37:00-06:00",
+          "fuente": "Quadratin Michoacan",
+          "url": "https://www.quadratin.com.mx/justicia/confirma-fge-2-muertos-en-incendio-de-tractocamiones-en-la-siglo-21/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        },
         {
           "id": "d9ea0d82",
           "tipo": "cierre_parcial",
@@ -150,12 +188,12 @@
       "lon": -96.72
     },
     {
-      "id": "b87d950d",
+      "id": "0dc00553",
       "tipo": "bloqueo",
       "ruta": "Bloqueo de transportistas en la Carretera México-Puebla: Rutas alternas para…",
-      "descripcion": "Bloqueo de transportistas en la Carretera México-Puebla: Rutas alternas para salir de Los Reyes- La Paz hacia la CDMX - Eje Central. Bloqueo de transportistas en la Carretera México-Puebla: Rutas alternas para salir de Los Reyes- La Paz hacia la CDMX Eje Central",
+      "descripcion": "Bloqueo de transportistas en la Carretera México-Puebla: Rutas alternas para salir de Los Reyes- La Paz hacia la CDMX - ejecentral.com.mx. Bloqueo de transportistas en la Carretera México-Puebla: Rutas alternas para salir de Los Reyes- La Paz hacia la CDMX ejecentral.com.mx",
       "fecha": "10 agosto 2026 · 08:59 CST",
-      "fuente": "Eje Central",
+      "fuente": "ejecentral.com.mx",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPS1NveHlkaHVCazM1b01nLUdVaDQwcFpCeGhTT0tmRmNkMUZaWE41NGhERnpjemg0aG1NZTZNWHh4NWJUdy1XZkFqMEl0UWxJYm5laHMzUEJsajlRdDVBdTVEN1ppX3dGbUh5QWs5dnFFQ3ppOXRabDNnMlVTRWQtREFOZTNGUTRaaDk2VktSbUdzYndBVnYxV2VYaGxpVzZCR19ZZS10MEFEaGRrakF6SjhxLWhwVjlYMklqdTRBQnFBVVlkTkVONTJEX1pPdzNZc0duU1R3Zm8xOGRwOF9YVTlabXRQTnBidnpRYk1R?oc=5",
       "dot_color": "#8e44ad",
       "badge_txt": "BLOQUEO",
