@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-08-10T16:19:29.652960-06:00",
-  "ultima_actualizacion_legible": "10 de agosto de 2026 · 16:19 CST",
-  "total": 7,
+  "ultima_actualizacion": "2026-08-10T17:04:27.754317-06:00",
+  "ultima_actualizacion_legible": "10 de agosto de 2026 · 17:04 CST",
+  "total": 8,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
@@ -18,6 +18,20 @@
       "label": "BLOQUEOS / MANIFESTACIONES",
       "col2": false,
       "alertas": [
+        {
+          "id": "9e3a82f8",
+          "tipo": "bloqueo",
+          "ruta": "Transportistas liberan vialidades tras cuatro horas de protesta en Los…",
+          "descripcion": "Transportistas liberan vialidades tras cuatro horas de protesta en Los Reyes La Paz 👇\n https://lajornadaestadodemexico.com/transportistas-liberan-vialidades-tras-protesta-en-los-reyes-la-paz/",
+          "recomendacion": "",
+          "fecha": "10 agosto 2026 · 16:31 CST",
+          "fecha_iso": "2026-08-10T16:31:00-06:00",
+          "fuente": "Telegram @jornadaedomex",
+          "url": "https://t.me/jornadaedomex/11690",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
         {
           "id": "25b64d81",
           "tipo": "bloqueo",
