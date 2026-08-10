@@ -1,11 +1,12 @@
 {
-  "ultima_actualizacion": "2026-08-10T15:42:10.111120-06:00",
-  "ultima_actualizacion_legible": "10 de agosto de 2026 · 15:42 CST",
-  "total": 6,
+  "ultima_actualizacion": "2026-08-10T16:19:29.652960-06:00",
+  "ultima_actualizacion_legible": "10 de agosto de 2026 · 16:19 CST",
+  "total": 7,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
     "Medios nacionales",
+    "Medios regionales",
     "Quadratin + regionales",
     "Telegram"
   ],
@@ -34,14 +35,14 @@
           "lon": -98.4
         },
         {
-          "id": "b87d950d",
+          "id": "0dc00553",
           "tipo": "bloqueo",
           "ruta": "Bloqueo de transportistas en la Carretera México-Puebla: Rutas alternas para…",
-          "descripcion": "Bloqueo de transportistas en la Carretera México-Puebla: Rutas alternas para salir de Los Reyes- La Paz hacia la CDMX - Eje Central. Bloqueo de transportistas en la Carretera México-Puebla: Rutas alternas para salir de Los Reyes- La Paz hacia la CDMX Eje Central",
+          "descripcion": "Bloqueo de transportistas en la Carretera México-Puebla: Rutas alternas para salir de Los Reyes- La Paz hacia la CDMX - ejecentral.com.mx. Bloqueo de transportistas en la Carretera México-Puebla: Rutas alternas para salir de Los Reyes- La Paz hacia la CDMX ejecentral.com.mx",
           "recomendacion": "",
           "fecha": "10 agosto 2026 · 08:59 CST",
           "fecha_iso": "2026-08-10T08:59:00-06:00",
-          "fuente": "Eje Central",
+          "fuente": "ejecentral.com.mx",
           "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPS1NveHlkaHVCazM1b01nLUdVaDQwcFpCeGhTT0tmRmNkMUZaWE41NGhERnpjemg0aG1NZTZNWHh4NWJUdy1XZkFqMEl0UWxJYm5laHMzUEJsajlRdDVBdTVEN1ppX3dGbUh5QWs5dnFFQ3ppOXRabDNnMlVTRWQtREFOZTNGUTRaaDk2VktSbUdzYndBVnYxV2VYaGxpVzZCR19ZZS10MEFEaGRrakF6SjhxLWhwVjlYMklqdTRBQnFBVVlkTkVONTJEX1pPdzNZc0duU1R3Zm8xOGRwOF9YVTlabXRQTnBidnpRYk1R?oc=5",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
@@ -66,14 +67,14 @@
           "lon": -98.4
         },
         {
-          "id": "b3a4fbee",
+          "id": "3f14526a",
           "tipo": "bloqueo",
           "ruta": "Bloqueos carreteras HOY 10 de agosto: Autopistas cerradas en México,…",
-          "descripcion": "Bloqueos carreteras HOY 10 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 10 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
+          "descripcion": "Bloqueos carreteras HOY 10 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - ejecentral.com.mx. Bloqueos carreteras HOY 10 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE ejecentral.com.mx",
           "recomendacion": "",
           "fecha": "10 agosto 2026 · 07:03 CST",
           "fecha_iso": "2026-08-10T07:03:00-06:00",
-          "fuente": "Eje Central",
+          "fuente": "ejecentral.com.mx",
           "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPaFc4Nkk0LU96QllGUm5xRlA4WFF1NXNiZVl0NmFXSDVzeFZQdFp0dW9LRHhESkFKcmhIVUNfcXFXRFlhVTBzWktJOUszOW5nRDc1LTNDc054V3RfWmdtT1RSTkV4eno2VTQ0d0FpcEZNUmVOb19BZTNjR0xCYTdSU1Q4ajY0enlDcDNFUkU5WlNOWVItQXdySmx2cGJpYlRrRXpSRzJuNzJ1bGg2dFZ6c2JoUDRndjlVYmZSRU94WENWVnpWMUgzOHlFWG14c3pzbkRWTzUwOEVoSUpsUmJpVkJvcW1UWmpH?oc=5",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
@@ -88,6 +89,22 @@
       "label": "CIERRE PARCIAL / ACCIDENTES",
       "col2": true,
       "alertas": [
+        {
+          "id": "cdc39e09",
+          "tipo": "cierre_parcial",
+          "ruta": "Tragedia en carretera San Miguel de Allende-Querétaro: Mujer muere tras…",
+          "descripcion": "Tragedia en carretera San Miguel de Allende-Querétaro: Mujer muere tras choque. Se trata de una camioneta blanca en cuyo interior se encontró a dos personas, una de ellas una mujer que ya no tenía signos vitales.",
+          "recomendacion": "",
+          "fecha": "10 agosto 2026 · 15:26 CST",
+          "fecha_iso": "2026-08-10T15:26:00-06:00",
+          "fuente": "AM Guanajuato",
+          "url": "https://www.am.com.mx/san-miguel-de-allende/2026/08/10/tragedia-en-carretera-san-miguel-de-allende-queretaro-mujer-muere-tras-choque-1830020.html",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 20.59,
+          "lon": -100.39
+        },
         {
           "id": "a68f3e9f",
           "tipo": "cierre_parcial",
@@ -125,6 +142,19 @@
   ],
   "para_mapa": [
     {
+      "id": "cdc39e09",
+      "tipo": "cierre_parcial",
+      "ruta": "Tragedia en carretera San Miguel de Allende-Querétaro: Mujer muere tras…",
+      "descripcion": "Tragedia en carretera San Miguel de Allende-Querétaro: Mujer muere tras choque. Se trata de una camioneta blanca en cuyo interior se encontró a dos personas, una de ellas una mujer que ya no tenía signos vitales.",
+      "fecha": "10 agosto 2026 · 15:26 CST",
+      "fuente": "AM Guanajuato",
+      "url": "https://www.am.com.mx/san-miguel-de-allende/2026/08/10/tragedia-en-carretera-san-miguel-de-allende-queretaro-mujer-muere-tras-choque-1830020.html",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 20.59,
+      "lon": -100.39
+    },
+    {
       "id": "25b64d81",
       "tipo": "bloqueo",
       "ruta": "Sigue bloqueo en la México-Puebla; exigen más seguridad tras asesinato…",
@@ -151,12 +181,12 @@
       "lon": -96.72
     },
     {
-      "id": "b87d950d",
+      "id": "0dc00553",
       "tipo": "bloqueo",
       "ruta": "Bloqueo de transportistas en la Carretera México-Puebla: Rutas alternas para…",
-      "descripcion": "Bloqueo de transportistas en la Carretera México-Puebla: Rutas alternas para salir de Los Reyes- La Paz hacia la CDMX - Eje Central. Bloqueo de transportistas en la Carretera México-Puebla: Rutas alternas para salir de Los Reyes- La Paz hacia la CDMX Eje Central",
+      "descripcion": "Bloqueo de transportistas en la Carretera México-Puebla: Rutas alternas para salir de Los Reyes- La Paz hacia la CDMX - ejecentral.com.mx. Bloqueo de transportistas en la Carretera México-Puebla: Rutas alternas para salir de Los Reyes- La Paz hacia la CDMX ejecentral.com.mx",
       "fecha": "10 agosto 2026 · 08:59 CST",
-      "fuente": "Eje Central",
+      "fuente": "ejecentral.com.mx",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPS1NveHlkaHVCazM1b01nLUdVaDQwcFpCeGhTT0tmRmNkMUZaWE41NGhERnpjemg0aG1NZTZNWHh4NWJUdy1XZkFqMEl0UWxJYm5laHMzUEJsajlRdDVBdTVEN1ppX3dGbUh5QWs5dnFFQ3ppOXRabDNnMlVTRWQtREFOZTNGUTRaaDk2VktSbUdzYndBVnYxV2VYaGxpVzZCR19ZZS10MEFEaGRrakF6SjhxLWhwVjlYMklqdTRBQnFBVVlkTkVONTJEX1pPdzNZc0duU1R3Zm8xOGRwOF9YVTlabXRQTnBidnpRYk1R?oc=5",
       "dot_color": "#8e44ad",
       "badge_txt": "BLOQUEO",
