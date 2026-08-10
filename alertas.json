@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-08-10T17:04:27.754317-06:00",
-  "ultima_actualizacion_legible": "10 de agosto de 2026 · 17:04 CST",
-  "total": 8,
+  "ultima_actualizacion": "2026-08-10T17:49:51.750716-06:00",
+  "ultima_actualizacion_legible": "10 de agosto de 2026 · 17:49 CST",
+  "total": 9,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
@@ -18,6 +18,20 @@
       "label": "BLOQUEOS / MANIFESTACIONES",
       "col2": false,
       "alertas": [
+        {
+          "id": "18e0dd42",
+          "tipo": "bloqueo",
+          "ruta": "Levantan bloqueo en la México-Texcoco; persiste reclamo por extorsiones…",
+          "descripcion": "Levantan bloqueo en la México-Texcoco; persiste reclamo por extorsiones. Los manifestantes advirtieron que volverían a bloquear la carretera México-Texcoco en caso de no recibir atención y una respuesta a sus exigencias",
+          "recomendacion": "",
+          "fecha": "10 agosto 2026 · 17:45 CST",
+          "fecha_iso": "2026-08-10T17:45:00-06:00",
+          "fuente": "Quadratin EdoMex",
+          "url": "https://edomex.quadratin.com.mx/levantan-bloqueo-en-la-mexico-texcoco-persiste-reclamo-por-extorsiones/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
         {
           "id": "9e3a82f8",
           "tipo": "bloqueo",
