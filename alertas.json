@@ -1,10 +1,11 @@
 {
-  "ultima_actualizacion": "2026-08-10T10:10:56.102957-06:00",
-  "ultima_actualizacion_legible": "10 de agosto de 2026 · 10:10 CST",
-  "total": 6,
+  "ultima_actualizacion": "2026-08-10T11:07:03.368514-06:00",
+  "ultima_actualizacion_legible": "10 de agosto de 2026 · 11:07 CST",
+  "total": 7,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
+    "Medios regionales",
     "Quadratin + regionales",
     "Telegram"
   ],
@@ -16,6 +17,20 @@
       "label": "CIERRE TOTAL",
       "col2": false,
       "alertas": [
+        {
+          "id": "1f285348",
+          "tipo": "cierre_total",
+          "ruta": "carretera federal Pénjamo-Abasolo",
+          "descripcion": "Fallece conductor tras volcar su auto en la carretera federal Pénjamo-Abasolo. Como consecuencia del accidente, automovilistas se detuvieron y llamaron al 911 para reportar la volcadura, lo que generó la movilización de personal y paramédicos de Protección Civil y Bomberos de Pénjamo y Abasolo.",
+          "recomendacion": "",
+          "fecha": "10 agosto 2026 · 10:44 CST",
+          "fecha_iso": "2026-08-10T10:44:00-06:00",
+          "fuente": "AM Guanajuato",
+          "url": "https://www.am.com.mx/irapuato/2026/08/10/fallece-conductor-en-la-penjamo-abasolo-tras-volcarse-1829879.html",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL"
+        },
         {
           "id": "62eb160b",
           "tipo": "cierre_total",
@@ -58,14 +73,14 @@
           "lon": -98.4
         },
         {
-          "id": "0b9bc501",
+          "id": "f9e9474d",
           "tipo": "bloqueo",
-          "ruta": "Carretera y Explican Por Qué - nmas",
-          "descripcion": "Bloqueo Hoy en la México-Puebla: Transportistas Cierran Carretera y Explican Por Qué - nmas.com.mx. Bloqueo Hoy en la México-Puebla: Transportistas Cierran Carretera y Explican Por Qué nmas.com.mx",
+          "ruta": "Bloqueo Hoy en la México-Puebla: Transportistas Cierran Carretera y Explican…",
+          "descripcion": "Bloqueo Hoy en la México-Puebla: Transportistas Cierran Carretera y Explican Por Qué - N+. Bloqueo Hoy en la México-Puebla: Transportistas Cierran Carretera y Explican Por Qué N+",
           "recomendacion": "",
           "fecha": "10 agosto 2026 · 08:43 CST",
           "fecha_iso": "2026-08-10T08:43:00-06:00",
-          "fuente": "nmas.com.mx",
+          "fuente": "N+",
           "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQakZuOEtLU0lLMXp6RU81SlNmRXNxeDNVc2FhR1JhSTJYZTc1TUsyWVlyOEhpOUtVU2pVZTZ6NDRWT09OYnBSeTRfNmJqWkZJTnlMRG9oSUtEemJuRTRfdkg5LWRVcTRTTjhGM2UyLVh0YWpwWnlvNWNpSVY1c0NjSU1jaUwwSFhjajYwdTdOeHJwMmhfRDRLVDJDNkNlRFZFQTZCZ2NuOG12ampEZDZ0WEtMMUVBdTV6eFJpaA?oc=5",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
@@ -172,12 +187,12 @@
       "lon": -99.7
     },
     {
-      "id": "0b9bc501",
+      "id": "f9e9474d",
       "tipo": "bloqueo",
-      "ruta": "Carretera y Explican Por Qué - nmas",
-      "descripcion": "Bloqueo Hoy en la México-Puebla: Transportistas Cierran Carretera y Explican Por Qué - nmas.com.mx. Bloqueo Hoy en la México-Puebla: Transportistas Cierran Carretera y Explican Por Qué nmas.com.mx",
+      "ruta": "Bloqueo Hoy en la México-Puebla: Transportistas Cierran Carretera y Explican…",
+      "descripcion": "Bloqueo Hoy en la México-Puebla: Transportistas Cierran Carretera y Explican Por Qué - N+. Bloqueo Hoy en la México-Puebla: Transportistas Cierran Carretera y Explican Por Qué N+",
       "fecha": "10 agosto 2026 · 08:43 CST",
-      "fuente": "nmas.com.mx",
+      "fuente": "N+",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQakZuOEtLU0lLMXp6RU81SlNmRXNxeDNVc2FhR1JhSTJYZTc1TUsyWVlyOEhpOUtVU2pVZTZ6NDRWT09OYnBSeTRfNmJqWkZJTnlMRG9oSUtEemJuRTRfdkg5LWRVcTRTTjhGM2UyLVh0YWpwWnlvNWNpSVY1c0NjSU1jaUwwSFhjajYwdTdOeHJwMmhfRDRLVDJDNkNlRFZFQTZCZ2NuOG12ampEZDZ0WEtMMUVBdTV6eFJpaA?oc=5",
       "dot_color": "#8e44ad",
       "badge_txt": "BLOQUEO",
