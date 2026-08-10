@@ -1,38 +1,15 @@
 {
-  "ultima_actualizacion": "2026-08-10T14:02:25.838996-06:00",
-  "ultima_actualizacion_legible": "10 de agosto de 2026 · 14:02 CST",
-  "total": 8,
+  "ultima_actualizacion": "2026-08-10T14:59:32.890234-06:00",
+  "ultima_actualizacion_legible": "10 de agosto de 2026 · 14:59 CST",
+  "total": 6,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
-    "Medios regionales",
+    "Medios nacionales",
     "Quadratin + regionales",
     "Telegram"
   ],
   "grupos": [
-    {
-      "tipo": "cierre_total",
-      "color": "rojo",
-      "icono": "🔴",
-      "label": "CIERRE TOTAL",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "1f285348",
-          "tipo": "cierre_total",
-          "ruta": "carretera federal Pénjamo-Abasolo",
-          "descripcion": "Fallece conductor tras volcar su auto en la carretera federal Pénjamo-Abasolo. Como consecuencia del accidente, automovilistas se detuvieron y llamaron al 911 para reportar la volcadura, lo que generó la movilización de personal y paramédicos de Protección Civil y Bomberos de Pénjamo y Abasolo.",
-          "recomendacion": "",
-          "fecha": "10 agosto 2026 · 10:44 CST",
-          "fecha_iso": "2026-08-10T10:44:00-06:00",
-          "fuente": "AM Guanajuato",
-          "url": "https://www.am.com.mx/irapuato/2026/08/10/fallece-conductor-en-la-penjamo-abasolo-tras-volcarse-1829879.html",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL"
-        }
-      ]
-    },
     {
       "tipo": "bloqueo",
       "color": "rojo",
@@ -40,6 +17,22 @@
       "label": "BLOQUEOS / MANIFESTACIONES",
       "col2": false,
       "alertas": [
+        {
+          "id": "25b64d81",
+          "tipo": "bloqueo",
+          "ruta": "Sigue bloqueo en la México-Puebla; exigen más seguridad tras asesinato…",
+          "descripcion": "Sigue bloqueo en la México-Puebla; exigen más seguridad tras asesinato de niña. Transportistas de la asociación Rutas Hermanas mantienen un bloqueo en la carretera México-Puebla como protesta por el asesinato de una niña.",
+          "recomendacion": "",
+          "fecha": "10 agosto 2026 · 14:02 CST",
+          "fecha_iso": "2026-08-10T14:02:00-06:00",
+          "fuente": "24 Horas",
+          "url": "https://24-horas.mx/estados/sigue-bloqueo-en-la-mexico-puebla-exigen-mas-seguridad-tras-asesinato-de-nina/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 19.35,
+          "lon": -98.4
+        },
         {
           "id": "0dc00553",
           "tipo": "bloqueo",
@@ -96,36 +89,6 @@
       "col2": true,
       "alertas": [
         {
-          "id": "15e43f06",
-          "tipo": "cierre_parcial",
-          "ruta": "Confirma FGE 2 muertos en incendio de tractocamiones en la…",
-          "descripcion": "Confirma FGE 2 muertos en incendio de tractocamiones en la Siglo 21. A la altura de La Huacana",
-          "recomendacion": "",
-          "fecha": "10 agosto 2026 · 13:37 CST",
-          "fecha_iso": "2026-08-10T13:37:00-06:00",
-          "fuente": "Quadratin Michoacan",
-          "url": "https://www.quadratin.com.mx/justicia/confirma-fge-2-muertos-en-incendio-de-tractocamiones-en-la-siglo-21/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
-        },
-        {
-          "id": "d9ea0d82",
-          "tipo": "cierre_parcial",
-          "ruta": "Vuelca tractocamión sobre pickup en la GDL-Colima; hay un muerto…",
-          "descripcion": "Vuelca tractocamión sobre pickup en la GDL-Colima; hay un muerto. El accidente mantiene cerrada la circulación con dirección a la capital jalisciense",
-          "recomendacion": "",
-          "fecha": "10 agosto 2026 · 12:59 CST",
-          "fecha_iso": "2026-08-10T12:59:00-06:00",
-          "fuente": "Quadratin Jalisco",
-          "url": "https://jalisco.quadratin.com.mx/sucesos/vuelca-tractocamion-sobre-pickup-en-la-gdl-colima-hay-un-muerto/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.24,
-          "lon": -103.72
-        },
-        {
           "id": "a68f3e9f",
           "tipo": "cierre_parcial",
           "ruta": "carretera Oaxaca-Tehuantepec",
@@ -162,17 +125,17 @@
   ],
   "para_mapa": [
     {
-      "id": "d9ea0d82",
-      "tipo": "cierre_parcial",
-      "ruta": "Vuelca tractocamión sobre pickup en la GDL-Colima; hay un muerto…",
-      "descripcion": "Vuelca tractocamión sobre pickup en la GDL-Colima; hay un muerto. El accidente mantiene cerrada la circulación con dirección a la capital jalisciense",
-      "fecha": "10 agosto 2026 · 12:59 CST",
-      "fuente": "Quadratin Jalisco",
-      "url": "https://jalisco.quadratin.com.mx/sucesos/vuelca-tractocamion-sobre-pickup-en-la-gdl-colima-hay-un-muerto/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.24,
-      "lon": -103.72
+      "id": "25b64d81",
+      "tipo": "bloqueo",
+      "ruta": "Sigue bloqueo en la México-Puebla; exigen más seguridad tras asesinato…",
+      "descripcion": "Sigue bloqueo en la México-Puebla; exigen más seguridad tras asesinato de niña. Transportistas de la asociación Rutas Hermanas mantienen un bloqueo en la carretera México-Puebla como protesta por el asesinato de una niña.",
+      "fecha": "10 agosto 2026 · 14:02 CST",
+      "fuente": "24 Horas",
+      "url": "https://24-horas.mx/estados/sigue-bloqueo-en-la-mexico-puebla-exigen-mas-seguridad-tras-asesinato-de-nina/",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 19.35,
+      "lon": -98.4
     },
     {
       "id": "a68f3e9f",
