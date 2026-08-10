@@ -1,12 +1,36 @@
 {
-  "ultima_actualizacion": "2026-08-09T23:03:21.357766-06:00",
-  "ultima_actualizacion_legible": "9 de agosto de 2026 · 23:03 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-08-10T00:21:36.823255-06:00",
+  "ultima_actualizacion_legible": "10 de agosto de 2026 · 00:21 CST",
+  "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
+    "Medios regionales",
     "Telegram"
   ],
   "grupos": [
+    {
+      "tipo": "cierre_total",
+      "color": "rojo",
+      "icono": "🔴",
+      "label": "CIERRE TOTAL",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "9ece78d3",
+          "tipo": "cierre_total",
+          "ruta": "Provoca estragos lluvia en Irapuato: derrumbe en agencia de autos…",
+          "descripcion": "Provoca estragos lluvia en Irapuato: derrumbe en agencia de autos y cierre de calles. Las tormentas dominicales movilizaron a corporaciones de auxilio tras colapsar la movilidad urbana y causar anegaciones en domicilios, comercios y vialidades neurálgicas del municipio.",
+          "recomendacion": "usar anegaciones en domicilios, comercios y vialidades neurálgicas del municipio",
+          "fecha": "9 agosto 2026 · 23:19 CST",
+          "fecha_iso": "2026-08-09T23:19:00-06:00",
+          "fuente": "AM Guanajuato",
+          "url": "https://www.am.com.mx/irapuato/2026/08/09/provoca-estragos-lluvia-en-irapuato-cierran-pasos-a-desnivel-y-cae-granizo-1829763.html",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL"
+        }
+      ]
+    },
     {
       "tipo": "cierre_parcial",
       "color": "amarillo",
