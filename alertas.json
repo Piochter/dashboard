@@ -1,10 +1,11 @@
 {
-  "ultima_actualizacion": "2026-08-11T11:38:15.438350-06:00",
-  "ultima_actualizacion_legible": "11 de agosto de 2026 · 11:38 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-08-11T12:34:10.584322-06:00",
+  "ultima_actualizacion_legible": "11 de agosto de 2026 · 12:34 CST",
+  "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News"
+    "Google News",
+    "Quadratin + regionales"
   ],
   "grupos": [
     {
@@ -14,6 +15,20 @@
       "label": "BLOQUEOS / MANIFESTACIONES",
       "col2": false,
       "alertas": [
+        {
+          "id": "11aad29f",
+          "tipo": "bloqueo",
+          "ruta": "Bloquean camioneros la Federal 182 para exigir mesa de diálogo…",
+          "descripcion": "Bloquean camioneros la Federal 182 para exigir mesa de diálogo. El bloqueo mantiene afectada la circulación en este tramo de la región de la Cañada",
+          "recomendacion": "",
+          "fecha": "11 agosto 2026 · 12:08 CST",
+          "fecha_iso": "2026-08-11T12:08:00-06:00",
+          "fuente": "Quadratin Oaxaca",
+          "url": "https://oaxaca.quadratin.com.mx/bloquean-camioneros-la-federal-182-para-exigir-mesa-de-dialogo/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
         {
           "id": "56546160",
           "tipo": "bloqueo",
