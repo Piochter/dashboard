@@ -1,12 +1,11 @@
 {
-  "ultima_actualizacion": "2026-08-10T17:49:51.750716-06:00",
-  "ultima_actualizacion_legible": "10 de agosto de 2026 · 17:49 CST",
-  "total": 9,
+  "ultima_actualizacion": "2026-08-10T18:59:44.065481-06:00",
+  "ultima_actualizacion_legible": "10 de agosto de 2026 · 18:59 CST",
+  "total": 6,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
     "Medios nacionales",
-    "Medios regionales",
     "Quadratin + regionales",
     "Telegram"
   ],
@@ -63,14 +62,14 @@
           "lon": -98.4
         },
         {
-          "id": "0dc00553",
+          "id": "b87d950d",
           "tipo": "bloqueo",
           "ruta": "Bloqueo de transportistas en la Carretera México-Puebla: Rutas alternas para…",
-          "descripcion": "Bloqueo de transportistas en la Carretera México-Puebla: Rutas alternas para salir de Los Reyes- La Paz hacia la CDMX - ejecentral.com.mx. Bloqueo de transportistas en la Carretera México-Puebla: Rutas alternas para salir de Los Reyes- La Paz hacia la CDMX ejecentral.com.mx",
+          "descripcion": "Bloqueo de transportistas en la Carretera México-Puebla: Rutas alternas para salir de Los Reyes- La Paz hacia la CDMX - Eje Central. Bloqueo de transportistas en la Carretera México-Puebla: Rutas alternas para salir de Los Reyes- La Paz hacia la CDMX Eje Central",
           "recomendacion": "",
           "fecha": "10 agosto 2026 · 08:59 CST",
           "fecha_iso": "2026-08-10T08:59:00-06:00",
-          "fuente": "ejecentral.com.mx",
+          "fuente": "Eje Central",
           "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPS1NveHlkaHVCazM1b01nLUdVaDQwcFpCeGhTT0tmRmNkMUZaWE41NGhERnpjemg0aG1NZTZNWHh4NWJUdy1XZkFqMEl0UWxJYm5laHMzUEJsajlRdDVBdTVEN1ppX3dGbUh5QWs5dnFFQ3ppOXRabDNnMlVTRWQtREFOZTNGUTRaaDk2VktSbUdzYndBVnYxV2VYaGxpVzZCR19ZZS10MEFEaGRrakF6SjhxLWhwVjlYMklqdTRBQnFBVVlkTkVONTJEX1pPdzNZc0duU1R3Zm8xOGRwOF9YVTlabXRQTnBidnpRYk1R?oc=5",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
@@ -95,93 +94,23 @@
           "lon": -98.4
         },
         {
-          "id": "3f14526a",
+          "id": "b3a4fbee",
           "tipo": "bloqueo",
           "ruta": "Bloqueos carreteras HOY 10 de agosto: Autopistas cerradas en México,…",
-          "descripcion": "Bloqueos carreteras HOY 10 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - ejecentral.com.mx. Bloqueos carreteras HOY 10 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE ejecentral.com.mx",
+          "descripcion": "Bloqueos carreteras HOY 10 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 10 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
           "recomendacion": "",
           "fecha": "10 agosto 2026 · 07:03 CST",
           "fecha_iso": "2026-08-10T07:03:00-06:00",
-          "fuente": "ejecentral.com.mx",
+          "fuente": "Eje Central",
           "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPaFc4Nkk0LU96QllGUm5xRlA4WFF1NXNiZVl0NmFXSDVzeFZQdFp0dW9LRHhESkFKcmhIVUNfcXFXRFlhVTBzWktJOUszOW5nRDc1LTNDc054V3RfWmdtT1RSTkV4eno2VTQ0d0FpcEZNUmVOb19BZTNjR0xCYTdSU1Q4ajY0enlDcDNFUkU5WlNOWVItQXdySmx2cGJpYlRrRXpSRzJuNzJ1bGg2dFZ6c2JoUDRndjlVYmZSRU94WENWVnpWMUgzOHlFWG14c3pzbkRWTzUwOEVoSUpsUmJpVkJvcW1UWmpH?oc=5",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO"
         }
       ]
-    },
-    {
-      "tipo": "cierre_parcial",
-      "color": "amarillo",
-      "icono": "🟡",
-      "label": "CIERRE PARCIAL / ACCIDENTES",
-      "col2": true,
-      "alertas": [
-        {
-          "id": "cdc39e09",
-          "tipo": "cierre_parcial",
-          "ruta": "Tragedia en carretera San Miguel de Allende-Querétaro: Mujer muere tras…",
-          "descripcion": "Tragedia en carretera San Miguel de Allende-Querétaro: Mujer muere tras choque. Se trata de una camioneta blanca en cuyo interior se encontró a dos personas, una de ellas una mujer que ya no tenía signos vitales.",
-          "recomendacion": "",
-          "fecha": "10 agosto 2026 · 15:26 CST",
-          "fecha_iso": "2026-08-10T15:26:00-06:00",
-          "fuente": "AM Guanajuato",
-          "url": "https://www.am.com.mx/san-miguel-de-allende/2026/08/10/tragedia-en-carretera-san-miguel-de-allende-queretaro-mujer-muere-tras-choque-1830020.html",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 20.59,
-          "lon": -100.39
-        },
-        {
-          "id": "a68f3e9f",
-          "tipo": "cierre_parcial",
-          "ruta": "carretera Oaxaca-Tehuantepec",
-          "descripcion": "Accidente afecta circulación en carretera Oaxaca-Tehuantepec. La circulación permanece parcialmente cerrada en este punto de la carretera",
-          "recomendacion": "",
-          "fecha": "10 agosto 2026 · 12:27 CST",
-          "fecha_iso": "2026-08-10T12:27:00-06:00",
-          "fuente": "Quadratin Oaxaca",
-          "url": "https://oaxaca.quadratin.com.mx/accidente-afecta-circulacion-en-carretera-oaxaca-tehuantepec/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 17.06,
-          "lon": -96.72
-        },
-        {
-          "id": "94188980",
-          "tipo": "cierre_parcial",
-          "ruta": "📢 #Mexibús modifica recorrido por cierre de #VíaMorelos en #Ecatepec…",
-          "descripcion": "📢 #Mexibús modifica recorrido por cierre de #VíaMorelos en #Ecatepec\nhttps://lajornadaestadodemexico.com/trailer-derriba-postes-en-la-via-morelos-ecatepec/",
-          "recomendacion": "",
-          "fecha": "10 agosto 2026 · 06:59 CST",
-          "fecha_iso": "2026-08-10T06:59:00-06:00",
-          "fuente": "Telegram @jornadaedomex",
-          "url": "https://t.me/jornadaedomex/11679",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 18.67,
-          "lon": -99.1
-        }
-      ]
     }
   ],
   "para_mapa": [
-    {
-      "id": "cdc39e09",
-      "tipo": "cierre_parcial",
-      "ruta": "Tragedia en carretera San Miguel de Allende-Querétaro: Mujer muere tras…",
-      "descripcion": "Tragedia en carretera San Miguel de Allende-Querétaro: Mujer muere tras choque. Se trata de una camioneta blanca en cuyo interior se encontró a dos personas, una de ellas una mujer que ya no tenía signos vitales.",
-      "fecha": "10 agosto 2026 · 15:26 CST",
-      "fuente": "AM Guanajuato",
-      "url": "https://www.am.com.mx/san-miguel-de-allende/2026/08/10/tragedia-en-carretera-san-miguel-de-allende-queretaro-mujer-muere-tras-choque-1830020.html",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 20.59,
-      "lon": -100.39
-    },
     {
       "id": "25b64d81",
       "tipo": "bloqueo",
@@ -196,25 +125,12 @@
       "lon": -98.4
     },
     {
-      "id": "a68f3e9f",
-      "tipo": "cierre_parcial",
-      "ruta": "carretera Oaxaca-Tehuantepec",
-      "descripcion": "Accidente afecta circulación en carretera Oaxaca-Tehuantepec. La circulación permanece parcialmente cerrada en este punto de la carretera",
-      "fecha": "10 agosto 2026 · 12:27 CST",
-      "fuente": "Quadratin Oaxaca",
-      "url": "https://oaxaca.quadratin.com.mx/accidente-afecta-circulacion-en-carretera-oaxaca-tehuantepec/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 17.06,
-      "lon": -96.72
-    },
-    {
-      "id": "0dc00553",
+      "id": "b87d950d",
       "tipo": "bloqueo",
       "ruta": "Bloqueo de transportistas en la Carretera México-Puebla: Rutas alternas para…",
-      "descripcion": "Bloqueo de transportistas en la Carretera México-Puebla: Rutas alternas para salir de Los Reyes- La Paz hacia la CDMX - ejecentral.com.mx. Bloqueo de transportistas en la Carretera México-Puebla: Rutas alternas para salir de Los Reyes- La Paz hacia la CDMX ejecentral.com.mx",
+      "descripcion": "Bloqueo de transportistas en la Carretera México-Puebla: Rutas alternas para salir de Los Reyes- La Paz hacia la CDMX - Eje Central. Bloqueo de transportistas en la Carretera México-Puebla: Rutas alternas para salir de Los Reyes- La Paz hacia la CDMX Eje Central",
       "fecha": "10 agosto 2026 · 08:59 CST",
-      "fuente": "ejecentral.com.mx",
+      "fuente": "Eje Central",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPS1NveHlkaHVCazM1b01nLUdVaDQwcFpCeGhTT0tmRmNkMUZaWE41NGhERnpjemg0aG1NZTZNWHh4NWJUdy1XZkFqMEl0UWxJYm5laHMzUEJsajlRdDVBdTVEN1ppX3dGbUh5QWs5dnFFQ3ppOXRabDNnMlVTRWQtREFOZTNGUTRaaDk2VktSbUdzYndBVnYxV2VYaGxpVzZCR19ZZS10MEFEaGRrakF6SjhxLWhwVjlYMklqdTRBQnFBVVlkTkVONTJEX1pPdzNZc0duU1R3Zm8xOGRwOF9YVTlabXRQTnBidnpRYk1R?oc=5",
       "dot_color": "#8e44ad",
       "badge_txt": "BLOQUEO",
@@ -233,19 +149,6 @@
       "badge_txt": "BLOQUEO",
       "lat": 19.35,
       "lon": -98.4
-    },
-    {
-      "id": "94188980",
-      "tipo": "cierre_parcial",
-      "ruta": "📢 #Mexibús modifica recorrido por cierre de #VíaMorelos en #Ecatepec…",
-      "descripcion": "📢 #Mexibús modifica recorrido por cierre de #VíaMorelos en #Ecatepec\nhttps://lajornadaestadodemexico.com/trailer-derriba-postes-en-la-via-morelos-ecatepec/",
-      "fecha": "10 agosto 2026 · 06:59 CST",
-      "fuente": "Telegram @jornadaedomex",
-      "url": "https://t.me/jornadaedomex/11679",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 18.67,
-      "lon": -99.1
     }
   ]
 }
