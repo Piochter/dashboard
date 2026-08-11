@@ -1,12 +1,10 @@
 {
-  "ultima_actualizacion": "2026-08-10T18:59:44.065481-06:00",
-  "ultima_actualizacion_legible": "10 de agosto de 2026 · 18:59 CST",
-  "total": 6,
+  "ultima_actualizacion": "2026-08-10T21:04:26.898163-06:00",
+  "ultima_actualizacion_legible": "10 de agosto de 2026 · 21:04 CST",
+  "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News",
     "Medios nacionales",
-    "Quadratin + regionales",
     "Telegram"
   ],
   "grupos": [
@@ -17,20 +15,6 @@
       "label": "BLOQUEOS / MANIFESTACIONES",
       "col2": false,
       "alertas": [
-        {
-          "id": "18e0dd42",
-          "tipo": "bloqueo",
-          "ruta": "Levantan bloqueo en la México-Texcoco; persiste reclamo por extorsiones…",
-          "descripcion": "Levantan bloqueo en la México-Texcoco; persiste reclamo por extorsiones. Los manifestantes advirtieron que volverían a bloquear la carretera México-Texcoco en caso de no recibir atención y una respuesta a sus exigencias",
-          "recomendacion": "",
-          "fecha": "10 agosto 2026 · 17:45 CST",
-          "fecha_iso": "2026-08-10T17:45:00-06:00",
-          "fuente": "Quadratin EdoMex",
-          "url": "https://edomex.quadratin.com.mx/levantan-bloqueo-en-la-mexico-texcoco-persiste-reclamo-por-extorsiones/",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        },
         {
           "id": "9e3a82f8",
           "tipo": "bloqueo",
@@ -60,52 +44,6 @@
           "badge_txt": "BLOQUEO",
           "lat": 19.35,
           "lon": -98.4
-        },
-        {
-          "id": "b87d950d",
-          "tipo": "bloqueo",
-          "ruta": "Bloqueo de transportistas en la Carretera México-Puebla: Rutas alternas para…",
-          "descripcion": "Bloqueo de transportistas en la Carretera México-Puebla: Rutas alternas para salir de Los Reyes- La Paz hacia la CDMX - Eje Central. Bloqueo de transportistas en la Carretera México-Puebla: Rutas alternas para salir de Los Reyes- La Paz hacia la CDMX Eje Central",
-          "recomendacion": "",
-          "fecha": "10 agosto 2026 · 08:59 CST",
-          "fecha_iso": "2026-08-10T08:59:00-06:00",
-          "fuente": "Eje Central",
-          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPS1NveHlkaHVCazM1b01nLUdVaDQwcFpCeGhTT0tmRmNkMUZaWE41NGhERnpjemg0aG1NZTZNWHh4NWJUdy1XZkFqMEl0UWxJYm5laHMzUEJsajlRdDVBdTVEN1ppX3dGbUh5QWs5dnFFQ3ppOXRabDNnMlVTRWQtREFOZTNGUTRaaDk2VktSbUdzYndBVnYxV2VYaGxpVzZCR19ZZS10MEFEaGRrakF6SjhxLWhwVjlYMklqdTRBQnFBVVlkTkVONTJEX1pPdzNZc0duU1R3Zm8xOGRwOF9YVTlabXRQTnBidnpRYk1R?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 19.35,
-          "lon": -98.4
-        },
-        {
-          "id": "f9e9474d",
-          "tipo": "bloqueo",
-          "ruta": "Bloqueo Hoy en la México-Puebla: Transportistas Cierran Carretera y Explican…",
-          "descripcion": "Bloqueo Hoy en la México-Puebla: Transportistas Cierran Carretera y Explican Por Qué - N+. Bloqueo Hoy en la México-Puebla: Transportistas Cierran Carretera y Explican Por Qué N+",
-          "recomendacion": "",
-          "fecha": "10 agosto 2026 · 08:43 CST",
-          "fecha_iso": "2026-08-10T08:43:00-06:00",
-          "fuente": "N+",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQakZuOEtLU0lLMXp6RU81SlNmRXNxeDNVc2FhR1JhSTJYZTc1TUsyWVlyOEhpOUtVU2pVZTZ6NDRWT09OYnBSeTRfNmJqWkZJTnlMRG9oSUtEemJuRTRfdkg5LWRVcTRTTjhGM2UyLVh0YWpwWnlvNWNpSVY1c0NjSU1jaUwwSFhjajYwdTdOeHJwMmhfRDRLVDJDNkNlRFZFQTZCZ2NuOG12ampEZDZ0WEtMMUVBdTV6eFJpaA?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 19.35,
-          "lon": -98.4
-        },
-        {
-          "id": "b3a4fbee",
-          "tipo": "bloqueo",
-          "ruta": "Bloqueos carreteras HOY 10 de agosto: Autopistas cerradas en México,…",
-          "descripcion": "Bloqueos carreteras HOY 10 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 10 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
-          "recomendacion": "",
-          "fecha": "10 agosto 2026 · 07:03 CST",
-          "fecha_iso": "2026-08-10T07:03:00-06:00",
-          "fuente": "Eje Central",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPaFc4Nkk0LU96QllGUm5xRlA4WFF1NXNiZVl0NmFXSDVzeFZQdFp0dW9LRHhESkFKcmhIVUNfcXFXRFlhVTBzWktJOUszOW5nRDc1LTNDc054V3RfWmdtT1RSTkV4eno2VTQ0d0FpcEZNUmVOb19BZTNjR0xCYTdSU1Q4ajY0enlDcDNFUkU5WlNOWVItQXdySmx2cGJpYlRrRXpSRzJuNzJ1bGg2dFZ6c2JoUDRndjlVYmZSRU94WENWVnpWMUgzOHlFWG14c3pzbkRWTzUwOEVoSUpsUmJpVkJvcW1UWmpH?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
         }
       ]
     }
@@ -119,32 +57,6 @@
       "fecha": "10 agosto 2026 · 14:02 CST",
       "fuente": "24 Horas",
       "url": "https://24-horas.mx/estados/sigue-bloqueo-en-la-mexico-puebla-exigen-mas-seguridad-tras-asesinato-de-nina/",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 19.35,
-      "lon": -98.4
-    },
-    {
-      "id": "b87d950d",
-      "tipo": "bloqueo",
-      "ruta": "Bloqueo de transportistas en la Carretera México-Puebla: Rutas alternas para…",
-      "descripcion": "Bloqueo de transportistas en la Carretera México-Puebla: Rutas alternas para salir de Los Reyes- La Paz hacia la CDMX - Eje Central. Bloqueo de transportistas en la Carretera México-Puebla: Rutas alternas para salir de Los Reyes- La Paz hacia la CDMX Eje Central",
-      "fecha": "10 agosto 2026 · 08:59 CST",
-      "fuente": "Eje Central",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPS1NveHlkaHVCazM1b01nLUdVaDQwcFpCeGhTT0tmRmNkMUZaWE41NGhERnpjemg0aG1NZTZNWHh4NWJUdy1XZkFqMEl0UWxJYm5laHMzUEJsajlRdDVBdTVEN1ppX3dGbUh5QWs5dnFFQ3ppOXRabDNnMlVTRWQtREFOZTNGUTRaaDk2VktSbUdzYndBVnYxV2VYaGxpVzZCR19ZZS10MEFEaGRrakF6SjhxLWhwVjlYMklqdTRBQnFBVVlkTkVONTJEX1pPdzNZc0duU1R3Zm8xOGRwOF9YVTlabXRQTnBidnpRYk1R?oc=5",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 19.35,
-      "lon": -98.4
-    },
-    {
-      "id": "f9e9474d",
-      "tipo": "bloqueo",
-      "ruta": "Bloqueo Hoy en la México-Puebla: Transportistas Cierran Carretera y Explican…",
-      "descripcion": "Bloqueo Hoy en la México-Puebla: Transportistas Cierran Carretera y Explican Por Qué - N+. Bloqueo Hoy en la México-Puebla: Transportistas Cierran Carretera y Explican Por Qué N+",
-      "fecha": "10 agosto 2026 · 08:43 CST",
-      "fuente": "N+",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQakZuOEtLU0lLMXp6RU81SlNmRXNxeDNVc2FhR1JhSTJYZTc1TUsyWVlyOEhpOUtVU2pVZTZ6NDRWT09OYnBSeTRfNmJqWkZJTnlMRG9oSUtEemJuRTRfdkg5LWRVcTRTTjhGM2UyLVh0YWpwWnlvNWNpSVY1c0NjSU1jaUwwSFhjajYwdTdOeHJwMmhfRDRLVDJDNkNlRFZFQTZCZ2NuOG12ampEZDZ0WEtMMUVBdTV6eFJpaA?oc=5",
       "dot_color": "#8e44ad",
       "badge_txt": "BLOQUEO",
       "lat": 19.35,
