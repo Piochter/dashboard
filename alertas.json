@@ -1,13 +1,38 @@
 {
-  "ultima_actualizacion": "2026-08-11T12:34:10.584322-06:00",
-  "ultima_actualizacion_legible": "11 de agosto de 2026 · 12:34 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-08-11T13:44:43.209480-06:00",
+  "ultima_actualizacion_legible": "11 de agosto de 2026 · 13:44 CST",
+  "total": 3,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
     "Quadratin + regionales"
   ],
   "grupos": [
+    {
+      "tipo": "cierre_total",
+      "color": "rojo",
+      "icono": "🔴",
+      "label": "CIERRE TOTAL",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "60bb5dd0",
+          "tipo": "cierre_total",
+          "ruta": "autopista México-Querétaro - Al Diálogo",
+          "descripcion": "Volcadura de tráiler causa cierre de circulación en autopista México-Querétaro - Al Diálogo. Volcadura de tráiler causa cierre de circulación en autopista México-Querétaro Al Diálogo",
+          "recomendacion": "",
+          "fecha": "11 agosto 2026 · 13:19 CST",
+          "fecha_iso": "2026-08-11T13:19:00-06:00",
+          "fuente": "Al Diálogo",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbU5LczA4X2IzTWQ5YncxR3lhLXV0MmIzYi1vMkoxSlhnNEpuUmFmMm9Ja3NsM2pRNUhnSGZxVGIwUXZBb3lZcDNWT0I5ODdpYlAySFVJN0ZaaXpFSlhuREFSbmJXbUZqRXpMTF90a3RBNHZnMnZlZTU4aGZJSWVWOTF3S3BCLVNXVE91aXlFbURCdURjRW5VaXd2R3VXdjFFeW5CN2FyVWFZem5MWkhoTmtiZkw4SHdN?oc=5",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL",
+          "lat": 20.1,
+          "lon": -99.5
+        }
+      ]
+    },
     {
       "tipo": "bloqueo",
       "color": "rojo",
@@ -46,5 +71,19 @@
       ]
     }
   ],
-  "para_mapa": []
+  "para_mapa": [
+    {
+      "id": "60bb5dd0",
+      "tipo": "cierre_total",
+      "ruta": "autopista México-Querétaro - Al Diálogo",
+      "descripcion": "Volcadura de tráiler causa cierre de circulación en autopista México-Querétaro - Al Diálogo. Volcadura de tráiler causa cierre de circulación en autopista México-Querétaro Al Diálogo",
+      "fecha": "11 agosto 2026 · 13:19 CST",
+      "fuente": "Al Diálogo",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbU5LczA4X2IzTWQ5YncxR3lhLXV0MmIzYi1vMkoxSlhnNEpuUmFmMm9Ja3NsM2pRNUhnSGZxVGIwUXZBb3lZcDNWT0I5ODdpYlAySFVJN0ZaaXpFSlhuREFSbmJXbUZqRXpMTF90a3RBNHZnMnZlZTU4aGZJSWVWOTF3S3BCLVNXVE91aXlFbURCdURjRW5VaXd2R3VXdjFFeW5CN2FyVWFZem5MWkhoTmtiZkw4SHdN?oc=5",
+      "dot_color": "#e74c3c",
+      "badge_txt": "CIERRE TOTAL",
+      "lat": 20.1,
+      "lon": -99.5
+    }
+  ]
 }
