@@ -1,9 +1,10 @@
 {
-  "ultima_actualizacion": "2026-08-12T13:46:59.688614-06:00",
-  "ultima_actualizacion_legible": "12 de agosto de 2026 · 13:46 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-08-12T14:33:48.712678-06:00",
+  "ultima_actualizacion_legible": "12 de agosto de 2026 · 14:33 CST",
+  "total": 4,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
+    "Medios regionales",
     "Quadratin + regionales",
     "Telegram"
   ],
@@ -15,6 +16,20 @@
       "label": "CIERRE PARCIAL / ACCIDENTES",
       "col2": true,
       "alertas": [
+        {
+          "id": "af91b992",
+          "tipo": "cierre_parcial",
+          "ruta": "¿Qué pasó? Despliegan operativo y catean finca en el Centro…",
+          "descripcion": "¿Qué pasó? Despliegan operativo y catean finca en el Centro de Salamanca. Despliegue de agentes de investigación y Guardia Nacional en el Andador Arroyo de San Antonio provoca el cierre de calles aledañas.",
+          "recomendacion": "",
+          "fecha": "12 agosto 2026 · 12:35 CST",
+          "fecha_iso": "2026-08-12T12:35:00-06:00",
+          "fuente": "AM Guanajuato",
+          "url": "https://www.am.com.mx/salamanca/2026/08/12/que-paso-despliegan-operativo-y-catean-finca-en-el-centro-de-salamanca-1831022.html",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        },
         {
           "id": "4c2d7fcb",
           "tipo": "cierre_parcial",
