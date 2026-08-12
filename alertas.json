@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-08-12T00:51:39.636050-06:00",
-  "ultima_actualizacion_legible": "12 de agosto de 2026 · 00:51 CST",
-  "total": 4,
+  "ultima_actualizacion": "2026-08-12T02:10:08.497891-06:00",
+  "ultima_actualizacion_legible": "12 de agosto de 2026 · 02:10 CST",
+  "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
@@ -28,47 +28,6 @@
           "dot_color": "#e74c3c",
           "badge": "badge-cierre-total",
           "badge_txt": "CIERRE TOTAL",
-          "lat": 19.04,
-          "lon": -98.2
-        },
-        {
-          "id": "60bb5dd0",
-          "tipo": "cierre_total",
-          "ruta": "autopista México-Querétaro - Al Diálogo",
-          "descripcion": "Volcadura de tráiler causa cierre de circulación en autopista México-Querétaro - Al Diálogo. Volcadura de tráiler causa cierre de circulación en autopista México-Querétaro Al Diálogo",
-          "recomendacion": "",
-          "fecha": "11 agosto 2026 · 13:19 CST",
-          "fecha_iso": "2026-08-11T13:19:00-06:00",
-          "fuente": "Al Diálogo",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbU5LczA4X2IzTWQ5YncxR3lhLXV0MmIzYi1vMkoxSlhnNEpuUmFmMm9Ja3NsM2pRNUhnSGZxVGIwUXZBb3lZcDNWT0I5ODdpYlAySFVJN0ZaaXpFSlhuREFSbmJXbUZqRXpMTF90a3RBNHZnMnZlZTU4aGZJSWVWOTF3S3BCLVNXVE91aXlFbURCdURjRW5VaXd2R3VXdjFFeW5CN2FyVWFZem5MWkhoTmtiZkw4SHdN?oc=5",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL",
-          "lat": 20.1,
-          "lon": -99.5
-        }
-      ]
-    },
-    {
-      "tipo": "bloqueo",
-      "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "1210eb1c",
-          "tipo": "bloqueo",
-          "ruta": "Un Tráiler Volcó sobre Carretera de Puebla y Bloqueó el…",
-          "descripcion": "Un Tráiler Volcó sobre Carretera de Puebla y Bloqueó el Paso Vehicular - N+. Un Tráiler Volcó sobre Carretera de Puebla y Bloqueó el Paso Vehicular N+",
-          "recomendacion": "",
-          "fecha": "11 agosto 2026 · 13:52 CST",
-          "fecha_iso": "2026-08-11T13:52:00-06:00",
-          "fuente": "N+",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbUxHeXJ5S2hfOVNFREtQNm9LTHN6Uk9oMzRaZkY5ekg0M1g4ZjB1V2g2WU95aFVlZXJBU2d1TFRDTGh1S2Q2X0U2MjZHSUR2SmhxaEc3U2RZMDgzMl9ueEdOd2ZhVGJpRWJTSWVZdG05dlF0ZnM2SmdHYWpIdEh5UHY1eHQ3UXdBQkg5S0hYS200d3JrdE84YnlMTzllamVHLWxpVkdjeGMxemlza0JuaGhtLVM2QzRQWWhobGl5YVVMN2p1UjZENFloZ0c5SkI3VllQc3VFRkRFNU1D?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
           "lat": 19.04,
           "lon": -98.2
         }
@@ -126,32 +85,6 @@
       "badge_txt": "CIERRE TOTAL",
       "lat": 19.04,
       "lon": -98.2
-    },
-    {
-      "id": "1210eb1c",
-      "tipo": "bloqueo",
-      "ruta": "Un Tráiler Volcó sobre Carretera de Puebla y Bloqueó el…",
-      "descripcion": "Un Tráiler Volcó sobre Carretera de Puebla y Bloqueó el Paso Vehicular - N+. Un Tráiler Volcó sobre Carretera de Puebla y Bloqueó el Paso Vehicular N+",
-      "fecha": "11 agosto 2026 · 13:52 CST",
-      "fuente": "N+",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbUxHeXJ5S2hfOVNFREtQNm9LTHN6Uk9oMzRaZkY5ekg0M1g4ZjB1V2g2WU95aFVlZXJBU2d1TFRDTGh1S2Q2X0U2MjZHSUR2SmhxaEc3U2RZMDgzMl9ueEdOd2ZhVGJpRWJTSWVZdG05dlF0ZnM2SmdHYWpIdEh5UHY1eHQ3UXdBQkg5S0hYS200d3JrdE84YnlMTzllamVHLWxpVkdjeGMxemlza0JuaGhtLVM2QzRQWWhobGl5YVVMN2p1UjZENFloZ0c5SkI3VllQc3VFRkRFNU1D?oc=5",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 19.04,
-      "lon": -98.2
-    },
-    {
-      "id": "60bb5dd0",
-      "tipo": "cierre_total",
-      "ruta": "autopista México-Querétaro - Al Diálogo",
-      "descripcion": "Volcadura de tráiler causa cierre de circulación en autopista México-Querétaro - Al Diálogo. Volcadura de tráiler causa cierre de circulación en autopista México-Querétaro Al Diálogo",
-      "fecha": "11 agosto 2026 · 13:19 CST",
-      "fuente": "Al Diálogo",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbU5LczA4X2IzTWQ5YncxR3lhLXV0MmIzYi1vMkoxSlhnNEpuUmFmMm9Ja3NsM2pRNUhnSGZxVGIwUXZBb3lZcDNWT0I5ODdpYlAySFVJN0ZaaXpFSlhuREFSbmJXbUZqRXpMTF90a3RBNHZnMnZlZTU4aGZJSWVWOTF3S3BCLVNXVE91aXlFbURCdURjRW5VaXd2R3VXdjFFeW5CN2FyVWFZem5MWkhoTmtiZkw4SHdN?oc=5",
-      "dot_color": "#e74c3c",
-      "badge_txt": "CIERRE TOTAL",
-      "lat": 20.1,
-      "lon": -99.5
     }
   ]
 }
