@@ -1,10 +1,9 @@
 {
-  "ultima_actualizacion": "2026-08-12T09:39:26.319126-06:00",
-  "ultima_actualizacion_legible": "12 de agosto de 2026 · 09:39 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-08-12T10:34:25.216649-06:00",
+  "ultima_actualizacion_legible": "12 de agosto de 2026 · 10:34 CST",
+  "total": 1,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Quadratin + regionales",
     "Telegram"
   ],
   "grupos": [
@@ -30,22 +29,6 @@
           "badge_txt": "CIERRE PARCIAL",
           "lat": 19.29,
           "lon": -99.66
-        },
-        {
-          "id": "a73e5550",
-          "tipo": "cierre_parcial",
-          "ruta": "Reportan asaltos a mano armada en carreteras de Xalatlaco…",
-          "descripcion": "Reportan asaltos a mano armada en carreteras de Xalatlaco. XALATLACO, Edomex., 11 de agosto del 2026.- Conductores y habitantes de Xalatlaco denunciaron nuevos asaltos a mano armada en la carretera que comunica a este municipio con El Ajusco, luego de que un comerciante reportara haber sido interceptado y despojado de su camioneta, en la que transportaba mercancía. El hecho habría ocurrido en las inmediaciones […]",
-          "recomendacion": "",
-          "fecha": "11 agosto 2026 · 22:30 CST",
-          "fecha_iso": "2026-08-11T22:30:00-06:00",
-          "fuente": "Quadratin EdoMex",
-          "url": "https://edomex.quadratin.com.mx/reportan-asaltos-a-mano-armada-en-carreteras-de-xalatlaco/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.35,
-          "lon": -99.7
         }
       ]
     }
@@ -63,19 +46,6 @@
       "badge_txt": "CIERRE PARCIAL",
       "lat": 19.29,
       "lon": -99.66
-    },
-    {
-      "id": "a73e5550",
-      "tipo": "cierre_parcial",
-      "ruta": "Reportan asaltos a mano armada en carreteras de Xalatlaco…",
-      "descripcion": "Reportan asaltos a mano armada en carreteras de Xalatlaco. XALATLACO, Edomex., 11 de agosto del 2026.- Conductores y habitantes de Xalatlaco denunciaron nuevos asaltos a mano armada en la carretera que comunica a este municipio con El Ajusco, luego de que un comerciante reportara haber sido interceptado y despojado de su camioneta, en la que transportaba mercancía. El hecho habría ocurrido en las inmediaciones […]",
-      "fecha": "11 agosto 2026 · 22:30 CST",
-      "fuente": "Quadratin EdoMex",
-      "url": "https://edomex.quadratin.com.mx/reportan-asaltos-a-mano-armada-en-carreteras-de-xalatlaco/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.35,
-      "lon": -99.7
     }
   ]
 }
