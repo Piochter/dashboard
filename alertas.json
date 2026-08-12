@@ -1,15 +1,63 @@
 {
-  "ultima_actualizacion": "2026-08-12T15:26:54.147180-06:00",
-  "ultima_actualizacion_legible": "12 de agosto de 2026 · 15:26 CST",
+  "ultima_actualizacion": "2026-08-12T16:09:54.903213-06:00",
+  "ultima_actualizacion_legible": "12 de agosto de 2026 · 16:09 CST",
   "total": 5,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
+    "Google News",
     "Medios nacionales",
-    "Medios regionales",
     "Quadratin + regionales",
     "Telegram"
   ],
   "grupos": [
+    {
+      "tipo": "cierre_total",
+      "color": "rojo",
+      "icono": "🔴",
+      "label": "CIERRE TOTAL",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "c6742be6",
+          "tipo": "cierre_total",
+          "ruta": "Reportan choque múltiple fatal en la Cuacnopalan-Oaxaca…",
+          "descripcion": "Reportan choque múltiple fatal en la Cuacnopalan-Oaxaca. Accidente deja saldo trágico y cierre total en la autopista",
+          "recomendacion": "",
+          "fecha": "12 agosto 2026 · 16:00 CST",
+          "fecha_iso": "2026-08-12T16:00:00-06:00",
+          "fuente": "Quadratin Puebla",
+          "url": "https://puebla.quadratin.com.mx/sucesos/reportan-choque-multiple-fatal-en-la-cuacnopalan-oaxaca/",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL",
+          "lat": 17.06,
+          "lon": -96.72
+        }
+      ]
+    },
+    {
+      "tipo": "bloqueo",
+      "color": "rojo",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "62521a59",
+          "tipo": "bloqueo",
+          "ruta": "Hay Bloqueos en Carreteras de México Hoy 12 de Agosto…",
+          "descripcion": "Hay Bloqueos en Carreteras de México Hoy 12 de Agosto 2026: Autopistas con Afectaciones - N+. Hay Bloqueos en Carreteras de México Hoy 12 de Agosto 2026: Autopistas con Afectaciones N+",
+          "recomendacion": "",
+          "fecha": "12 agosto 2026 · 07:59 CST",
+          "fecha_iso": "2026-08-12T07:59:00-06:00",
+          "fuente": "N+",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYnhaalFLOGtKNkgyV0lRWVV1TFpLUWhCN2pHc0QtbDJWNUtIZ3dCWFRMeVBuLVBZYnFkRUVabHlIMGhTcU5ncVZkT3NOang3emMtblVpbW92X1RpNDFybzFLUkJKYVBtYUlzbFRWdkF6djhKNFlVQXFRVjZndDFZZTk3SlVGZDYxSGVLUUpaRkhmZm93a1ZqN0hOOG5RUF9sNUN6dWxuOHBfaktDZ2Q0d0U0djQ1UVBxMUNocjNB?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        }
+      ]
+    },
     {
       "tipo": "cierre_parcial",
       "color": "amarillo",
@@ -17,20 +65,6 @@
       "label": "CIERRE PARCIAL / ACCIDENTES",
       "col2": true,
       "alertas": [
-        {
-          "id": "af91b992",
-          "tipo": "cierre_parcial",
-          "ruta": "¿Qué pasó? Despliegan operativo y catean finca en el Centro…",
-          "descripcion": "¿Qué pasó? Despliegan operativo y catean finca en el Centro de Salamanca. Despliegue de agentes de investigación y Guardia Nacional en el Andador Arroyo de San Antonio provoca el cierre de calles aledañas.",
-          "recomendacion": "",
-          "fecha": "12 agosto 2026 · 12:35 CST",
-          "fecha_iso": "2026-08-12T12:35:00-06:00",
-          "fuente": "AM Guanajuato",
-          "url": "https://www.am.com.mx/salamanca/2026/08/12/que-paso-despliegan-operativo-y-catean-finca-en-el-centro-de-salamanca-1831022.html",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
-        },
         {
           "id": "4c2d7fcb",
           "tipo": "cierre_parcial",
@@ -46,20 +80,6 @@
           "badge_txt": "CIERRE PARCIAL",
           "lat": 17.06,
           "lon": -96.72
-        },
-        {
-          "id": "af749acf",
-          "tipo": "cierre_parcial",
-          "ruta": "Realizarán IJCF y SICT peritajes en accidentes de carreteras federales…",
-          "descripcion": "Realizarán IJCF y SICT peritajes en accidentes de carreteras federales. Firmaron un convenio de colaboración para facilitar el acceso a información técnica de la red carretera federal",
-          "recomendacion": "",
-          "fecha": "12 agosto 2026 · 12:23 CST",
-          "fecha_iso": "2026-08-12T12:23:00-06:00",
-          "fuente": "Quadratin Jalisco",
-          "url": "https://jalisco.quadratin.com.mx/sucesos/realizaran-ijcf-y-sict-peritajes-en-accidentes-de-carreteras-federales/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
         },
         {
           "id": "592e7be1",
@@ -95,6 +115,19 @@
     }
   ],
   "para_mapa": [
+    {
+      "id": "c6742be6",
+      "tipo": "cierre_total",
+      "ruta": "Reportan choque múltiple fatal en la Cuacnopalan-Oaxaca…",
+      "descripcion": "Reportan choque múltiple fatal en la Cuacnopalan-Oaxaca. Accidente deja saldo trágico y cierre total en la autopista",
+      "fecha": "12 agosto 2026 · 16:00 CST",
+      "fuente": "Quadratin Puebla",
+      "url": "https://puebla.quadratin.com.mx/sucesos/reportan-choque-multiple-fatal-en-la-cuacnopalan-oaxaca/",
+      "dot_color": "#e74c3c",
+      "badge_txt": "CIERRE TOTAL",
+      "lat": 17.06,
+      "lon": -96.72
+    },
     {
       "id": "4c2d7fcb",
       "tipo": "cierre_parcial",
