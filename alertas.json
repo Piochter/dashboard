@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-08-12T23:04:49.538340-06:00",
-  "ultima_actualizacion_legible": "12 de agosto de 2026 · 23:04 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-08-13T00:43:29.620565-06:00",
+  "ultima_actualizacion_legible": "13 de agosto de 2026 · 00:43 CST",
+  "total": 1,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Quadratin + regionales"
@@ -31,31 +31,6 @@
           "lon": -96.72
         }
       ]
-    },
-    {
-      "tipo": "cierre_parcial",
-      "color": "amarillo",
-      "icono": "🟡",
-      "label": "CIERRE PARCIAL / ACCIDENTES",
-      "col2": true,
-      "alertas": [
-        {
-          "id": "4c2d7fcb",
-          "tipo": "cierre_parcial",
-          "ruta": "autopista Oaxaca-Cuacnopalan",
-          "descripcion": "Deja choque un muerto en autopista Oaxaca-Cuacnopalan. Se trató de una carambola en la que estarían involucrados varios vehículos y, al parecer, un tractocamión tipo plataforma",
-          "recomendacion": "",
-          "fecha": "12 agosto 2026 · 12:35 CST",
-          "fecha_iso": "2026-08-12T12:35:00-06:00",
-          "fuente": "Quadratin Oaxaca",
-          "url": "https://oaxaca.quadratin.com.mx/deja-accidente-un-muerto-en-autopista-oaxaca-cuacnopalan/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 17.06,
-          "lon": -96.72
-        }
-      ]
     }
   ],
   "para_mapa": [
@@ -69,19 +44,6 @@
       "url": "https://puebla.quadratin.com.mx/sucesos/reportan-choque-multiple-fatal-en-la-cuacnopalan-oaxaca/",
       "dot_color": "#e74c3c",
       "badge_txt": "CIERRE TOTAL",
-      "lat": 17.06,
-      "lon": -96.72
-    },
-    {
-      "id": "4c2d7fcb",
-      "tipo": "cierre_parcial",
-      "ruta": "autopista Oaxaca-Cuacnopalan",
-      "descripcion": "Deja choque un muerto en autopista Oaxaca-Cuacnopalan. Se trató de una carambola en la que estarían involucrados varios vehículos y, al parecer, un tractocamión tipo plataforma",
-      "fecha": "12 agosto 2026 · 12:35 CST",
-      "fuente": "Quadratin Oaxaca",
-      "url": "https://oaxaca.quadratin.com.mx/deja-accidente-un-muerto-en-autopista-oaxaca-cuacnopalan/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
       "lat": 17.06,
       "lon": -96.72
     }
