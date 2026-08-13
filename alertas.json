@@ -1,14 +1,11 @@
 {
-  "ultima_actualizacion": "2026-08-12T18:43:23.534847-06:00",
-  "ultima_actualizacion_legible": "12 de agosto de 2026 · 18:43 CST",
-  "total": 6,
+  "ultima_actualizacion": "2026-08-12T21:13:58.309470-06:00",
+  "ultima_actualizacion_legible": "12 de agosto de 2026 · 21:13 CST",
+  "total": 3,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News",
     "Medios nacionales",
-    "Medios regionales",
-    "Quadratin + regionales",
-    "Telegram"
+    "Quadratin + regionales"
   ],
   "grupos": [
     {
@@ -18,20 +15,6 @@
       "label": "CIERRE TOTAL",
       "col2": false,
       "alertas": [
-        {
-          "id": "a6bcb22c",
-          "tipo": "cierre_total",
-          "ruta": "1",
-          "descripcion": "¿Qué paso en la Irapuato-Abasolo? Volcadura de camioneta desata caos vial y filas de 1 km. A la altura de la comunidad de Mogotes, el conductor perdió el control del volante, chocó contra el muro de contención de concreto y volcó.",
-          "recomendacion": "",
-          "fecha": "12 agosto 2026 · 17:26 CST",
-          "fecha_iso": "2026-08-12T17:26:00-06:00",
-          "fuente": "AM Guanajuato",
-          "url": "https://www.am.com.mx/irapuato/2026/08/12/que-paso-en-la-irapuato-abasolo-volcadura-de-camioneta-desata-caos-vial-y-filas-de-1-km-1831127.html",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL"
-        },
         {
           "id": "c6742be6",
           "tipo": "cierre_total",
@@ -47,29 +30,6 @@
           "badge_txt": "CIERRE TOTAL",
           "lat": 17.06,
           "lon": -96.72
-        }
-      ]
-    },
-    {
-      "tipo": "bloqueo",
-      "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "62521a59",
-          "tipo": "bloqueo",
-          "ruta": "Hay Bloqueos en Carreteras de México Hoy 12 de Agosto…",
-          "descripcion": "Hay Bloqueos en Carreteras de México Hoy 12 de Agosto 2026: Autopistas con Afectaciones - N+. Hay Bloqueos en Carreteras de México Hoy 12 de Agosto 2026: Autopistas con Afectaciones N+",
-          "recomendacion": "",
-          "fecha": "12 agosto 2026 · 07:59 CST",
-          "fecha_iso": "2026-08-12T07:59:00-06:00",
-          "fuente": "N+",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYnhaalFLOGtKNkgyV0lRWVV1TFpLUWhCN2pHc0QtbDJWNUtIZ3dCWFRMeVBuLVBZYnFkRUVabHlIMGhTcU5ncVZkT3NOang3emMtblVpbW92X1RpNDFybzFLUkJKYVBtYUlzbFRWdkF6djhKNFlVQXFRVjZndDFZZTk3SlVGZDYxSGVLUUpaRkhmZm93a1ZqN0hOOG5RUF9sNUN6dWxuOHBfaktDZ2Q0d0U0djQ1UVBxMUNocjNB?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
         }
       ]
     },
@@ -109,22 +69,6 @@
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL"
-        },
-        {
-          "id": "889f23d9",
-          "tipo": "cierre_parcial",
-          "ruta": "🚘💥 ¡Precaución! Choque complica la circulación rumbo a #Atlacomulco 😨👇…",
-          "descripcion": "🚘💥 ¡Precaución! Choque complica la circulación rumbo a #Atlacomulco 😨👇\n\nhttps://lajornadaestadodemexico.com/choque-toluca-atlacomulco/",
-          "recomendacion": "",
-          "fecha": "12 agosto 2026 · 07:36 CST",
-          "fecha_iso": "2026-08-12T07:36:00-06:00",
-          "fuente": "Telegram @jornadaedomex",
-          "url": "https://t.me/jornadaedomex/11703",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.29,
-          "lon": -99.66
         }
       ]
     }
@@ -155,19 +99,6 @@
       "badge_txt": "CIERRE PARCIAL",
       "lat": 17.06,
       "lon": -96.72
-    },
-    {
-      "id": "889f23d9",
-      "tipo": "cierre_parcial",
-      "ruta": "🚘💥 ¡Precaución! Choque complica la circulación rumbo a #Atlacomulco 😨👇…",
-      "descripcion": "🚘💥 ¡Precaución! Choque complica la circulación rumbo a #Atlacomulco 😨👇\n\nhttps://lajornadaestadodemexico.com/choque-toluca-atlacomulco/",
-      "fecha": "12 agosto 2026 · 07:36 CST",
-      "fuente": "Telegram @jornadaedomex",
-      "url": "https://t.me/jornadaedomex/11703",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.29,
-      "lon": -99.66
     }
   ]
 }
