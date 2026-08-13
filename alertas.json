@@ -1,51 +1,12 @@
 {
-  "ultima_actualizacion": "2026-08-13T03:32:09.354863-06:00",
-  "ultima_actualizacion_legible": "13 de agosto de 2026 · 03:32 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-08-13T04:45:52.602420-06:00",
+  "ultima_actualizacion_legible": "13 de agosto de 2026 · 04:45 CST",
+  "total": 0,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Quadratin + regionales"
+    "Google News"
   ],
-  "grupos": [
-    {
-      "tipo": "cierre_total",
-      "color": "rojo",
-      "icono": "🔴",
-      "label": "CIERRE TOTAL",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "c6742be6",
-          "tipo": "cierre_total",
-          "ruta": "Reportan choque múltiple fatal en la Cuacnopalan-Oaxaca…",
-          "descripcion": "Reportan choque múltiple fatal en la Cuacnopalan-Oaxaca. Accidente deja saldo trágico y cierre total en la autopista",
-          "recomendacion": "",
-          "fecha": "12 agosto 2026 · 16:00 CST",
-          "fecha_iso": "2026-08-12T16:00:00-06:00",
-          "fuente": "Quadratin Puebla",
-          "url": "https://puebla.quadratin.com.mx/sucesos/reportan-choque-multiple-fatal-en-la-cuacnopalan-oaxaca/",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL",
-          "lat": 17.06,
-          "lon": -96.72
-        }
-      ]
-    }
-  ],
-  "para_mapa": [
-    {
-      "id": "c6742be6",
-      "tipo": "cierre_total",
-      "ruta": "Reportan choque múltiple fatal en la Cuacnopalan-Oaxaca…",
-      "descripcion": "Reportan choque múltiple fatal en la Cuacnopalan-Oaxaca. Accidente deja saldo trágico y cierre total en la autopista",
-      "fecha": "12 agosto 2026 · 16:00 CST",
-      "fuente": "Quadratin Puebla",
-      "url": "https://puebla.quadratin.com.mx/sucesos/reportan-choque-multiple-fatal-en-la-cuacnopalan-oaxaca/",
-      "dot_color": "#e74c3c",
-      "badge_txt": "CIERRE TOTAL",
-      "lat": 17.06,
-      "lon": -96.72
-    }
-  ]
+  "grupos": [],
+  "para_mapa": [],
+  "nota": "Sin alertas activas en la ventana de tiempo configurada."
 }
