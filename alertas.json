@@ -1,10 +1,9 @@
 {
-  "ultima_actualizacion": "2026-08-12T21:13:58.309470-06:00",
-  "ultima_actualizacion_legible": "12 de agosto de 2026 · 21:13 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-08-12T23:04:49.538340-06:00",
+  "ultima_actualizacion_legible": "12 de agosto de 2026 · 23:04 CST",
+  "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Medios nacionales",
     "Quadratin + regionales"
   ],
   "grupos": [
@@ -55,20 +54,6 @@
           "badge_txt": "CIERRE PARCIAL",
           "lat": 17.06,
           "lon": -96.72
-        },
-        {
-          "id": "592e7be1",
-          "tipo": "cierre_parcial",
-          "ruta": "Instalarán C4 carretero con videovigilancia y arcos inteligentes, para mantener…",
-          "descripcion": "Instalarán C4 carretero con videovigilancia y arcos inteligentes, para mantener cifras positivas en robo al autotransporte. El Gobierno Federal a través del comandante Guillermo Briseño Lobera, titular de la Guardia Nacional, confirmó que en el ciclo enero – junio del 2026 se tiene una disminución de 19.4% en el robo al autotransporte, lo que es resultado de programas como Estrategia “Balam” y el Plan “Cero robo al transporte”. Comparados los meses […]",
-          "recomendacion": "",
-          "fecha": "12 agosto 2026 · 10:44 CST",
-          "fecha_iso": "2026-08-12T10:44:00-06:00",
-          "fuente": "T21 Transporte",
-          "url": "https://t21.com.mx/instalaran-c4-carretero-con-videovigilancia-y-arcos-inteligentes-para-mantener-cifras-positivas-en-robo-al-autotransporte/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
         }
       ]
     }
