@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-08-14T11:09:15.076233-06:00",
-  "ultima_actualizacion_legible": "14 de agosto de 2026 · 11:09 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-08-14T12:04:39.357319-06:00",
+  "ultima_actualizacion_legible": "14 de agosto de 2026 · 12:04 CST",
+  "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Medios nacionales",
@@ -41,22 +41,6 @@
       "col2": true,
       "alertas": [
         {
-          "id": "5edd706f",
-          "tipo": "cierre_parcial",
-          "ruta": "Reportan incendio en camellón de la México-Querétaro…",
-          "descripcion": "Reportan incendio en camellón de la México-Querétaro. CUAUTITLÁN IZCALLI, Edomex., 14 de agosto de 2026.- Un árbol ubicado en el camellón de la autopista México–Querétaro se incendió la mañana de este viernes, a la altura de Dixon, en dirección a Querétaro. Las llamas fueron visibles desde la vialidad, lo que generó alerta entre automovilistas que circulaban por este tramo de la autopista. […]",
-          "recomendacion": "",
-          "fecha": "14 agosto 2026 · 08:00 CST",
-          "fecha_iso": "2026-08-14T08:00:00-06:00",
-          "fuente": "Quadratin EdoMex",
-          "url": "https://edomex.quadratin.com.mx/reportan-incendio-en-camellon-de-la-mexico-queretaro/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 20.1,
-          "lon": -99.5
-        },
-        {
           "id": "c76129d2",
           "tipo": "cierre_parcial",
           "ruta": "Centro y sureste se mantienen como epicentro del robo al…",
@@ -86,19 +70,6 @@
       "badge_txt": "BLOQUEO",
       "lat": 19.35,
       "lon": -99.7
-    },
-    {
-      "id": "5edd706f",
-      "tipo": "cierre_parcial",
-      "ruta": "Reportan incendio en camellón de la México-Querétaro…",
-      "descripcion": "Reportan incendio en camellón de la México-Querétaro. CUAUTITLÁN IZCALLI, Edomex., 14 de agosto de 2026.- Un árbol ubicado en el camellón de la autopista México–Querétaro se incendió la mañana de este viernes, a la altura de Dixon, en dirección a Querétaro. Las llamas fueron visibles desde la vialidad, lo que generó alerta entre automovilistas que circulaban por este tramo de la autopista. […]",
-      "fecha": "14 agosto 2026 · 08:00 CST",
-      "fuente": "Quadratin EdoMex",
-      "url": "https://edomex.quadratin.com.mx/reportan-incendio-en-camellon-de-la-mexico-queretaro/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 20.1,
-      "lon": -99.5
     }
   ]
 }
