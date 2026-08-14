@@ -1,12 +1,66 @@
 {
-  "ultima_actualizacion": "2026-08-14T06:42:24.709418-06:00",
-  "ultima_actualizacion_legible": "14 de agosto de 2026 · 06:42 CST",
-  "total": 0,
+  "ultima_actualizacion": "2026-08-14T08:02:20.171425-06:00",
+  "ultima_actualizacion_legible": "14 de agosto de 2026 · 08:02 CST",
+  "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News"
+    "Medios nacionales",
+    "Quadratin + regionales"
   ],
-  "grupos": [],
-  "para_mapa": [],
-  "nota": "Sin alertas activas en la ventana de tiempo configurada."
+  "grupos": [
+    {
+      "tipo": "cierre_parcial",
+      "color": "amarillo",
+      "icono": "🟡",
+      "label": "CIERRE PARCIAL / ACCIDENTES",
+      "col2": true,
+      "alertas": [
+        {
+          "id": "5edd706f",
+          "tipo": "cierre_parcial",
+          "ruta": "Reportan incendio en camellón de la México-Querétaro…",
+          "descripcion": "Reportan incendio en camellón de la México-Querétaro. CUAUTITLÁN IZCALLI, Edomex., 14 de agosto de 2026.- Un árbol ubicado en el camellón de la autopista México–Querétaro se incendió la mañana de este viernes, a la altura de Dixon, en dirección a Querétaro. Las llamas fueron visibles desde la vialidad, lo que generó alerta entre automovilistas que circulaban por este tramo de la autopista. […]",
+          "recomendacion": "",
+          "fecha": "14 agosto 2026 · 08:00 CST",
+          "fecha_iso": "2026-08-14T08:00:00-06:00",
+          "fuente": "Quadratin EdoMex",
+          "url": "https://edomex.quadratin.com.mx/reportan-incendio-en-camellon-de-la-mexico-queretaro/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 20.1,
+          "lon": -99.5
+        },
+        {
+          "id": "c76129d2",
+          "tipo": "cierre_parcial",
+          "ruta": "Centro y sureste se mantienen como epicentro del robo al…",
+          "descripcion": "Centro y sureste se mantienen como epicentro del robo al autotransporte. En su informe correspondiente al segundo trimestre de 2026 (2T26) sobre el robo al autotransporte en México, Overhaul dio a conocer que, si bien hubo una composición en los sucesos registrados en la zona centro y la sureste, al considerar ambas regiones, se mantienen como las de mayor generación de siniestros para la actividad. La […]",
+          "recomendacion": "",
+          "fecha": "14 agosto 2026 · 07:46 CST",
+          "fecha_iso": "2026-08-14T07:46:00-06:00",
+          "fuente": "T21 Transporte",
+          "url": "https://t21.com.mx/centro-y-sureste-se-mantienen-como-epicentro-del-robo-al-autotransporte/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        }
+      ]
+    }
+  ],
+  "para_mapa": [
+    {
+      "id": "5edd706f",
+      "tipo": "cierre_parcial",
+      "ruta": "Reportan incendio en camellón de la México-Querétaro…",
+      "descripcion": "Reportan incendio en camellón de la México-Querétaro. CUAUTITLÁN IZCALLI, Edomex., 14 de agosto de 2026.- Un árbol ubicado en el camellón de la autopista México–Querétaro se incendió la mañana de este viernes, a la altura de Dixon, en dirección a Querétaro. Las llamas fueron visibles desde la vialidad, lo que generó alerta entre automovilistas que circulaban por este tramo de la autopista. […]",
+      "fecha": "14 agosto 2026 · 08:00 CST",
+      "fuente": "Quadratin EdoMex",
+      "url": "https://edomex.quadratin.com.mx/reportan-incendio-en-camellon-de-la-mexico-queretaro/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 20.1,
+      "lon": -99.5
+    }
+  ]
 }
