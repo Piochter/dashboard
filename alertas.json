@@ -1,35 +1,12 @@
 {
-  "ultima_actualizacion": "2026-08-13T18:43:25.421082-06:00",
-  "ultima_actualizacion_legible": "13 de agosto de 2026 · 18:43 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-08-13T21:12:30.550441-06:00",
+  "ultima_actualizacion_legible": "13 de agosto de 2026 · 21:12 CST",
+  "total": 0,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News"
   ],
-  "grupos": [
-    {
-      "tipo": "bloqueo",
-      "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "ec4822b9",
-          "tipo": "bloqueo",
-          "ruta": "Bloqueos carreteras HOY 13 de agosto: Autopistas cerradas en México,…",
-          "descripcion": "Bloqueos carreteras HOY 13 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 13 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
-          "recomendacion": "",
-          "fecha": "13 agosto 2026 · 07:05 CST",
-          "fecha_iso": "2026-08-13T07:05:00-06:00",
-          "fuente": "Eje Central",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOc3ZGTkF2REVhWTBFblJ3RU5iSFNQb1c5RGRwMng1a3dtZHJoZjByck9BaklucWhxRHRRYTgyQkZiZ0kxc0FfeWpzbm5ELWx5WXNGcHgxRVlwZmJrVGxZMTROd0JFWnlkQWFwMlhFeEJMWmhUUTAtVDZ3UnhycnA5VTBtVGhlTVpGTWpDUVFNU2gwb3I2WWg5cHdQeDFaNDJmNlpaV29saC15WmdnVDdhZW5YTnpEQXhoc3ppVy1nYTd5S09lYnBoVHZ5LUlLMDlyQ3pNbkE4VW9OTzJacnF2ckxEV0RSSWFF?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        }
-      ]
-    }
-  ],
-  "para_mapa": []
+  "grupos": [],
+  "para_mapa": [],
+  "nota": "Sin alertas activas en la ventana de tiempo configurada."
 }
