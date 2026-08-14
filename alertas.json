@@ -1,13 +1,38 @@
 {
-  "ultima_actualizacion": "2026-08-14T10:05:02.991129-06:00",
-  "ultima_actualizacion_legible": "14 de agosto de 2026 · 10:05 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-08-14T11:09:15.076233-06:00",
+  "ultima_actualizacion_legible": "14 de agosto de 2026 · 11:09 CST",
+  "total": 3,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Medios nacionales",
     "Quadratin + regionales"
   ],
   "grupos": [
+    {
+      "tipo": "bloqueo",
+      "color": "rojo",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "17760396",
+          "tipo": "bloqueo",
+          "ruta": "Toman caseta El Dorado familias de jóvenes de desaparecidos en…",
+          "descripcion": "Toman caseta El Dorado familias de jóvenes de desaparecidos en Mazatlán. ALMOLOYA DE JUÁREZ, Edomex., 14 de agosto de 2026.- Una jornada de protesta se vivió este viernes en el kilómetro 13 de la autopista Toluca–Atlacomulco, donde manifestantes dieron vía libre en la caseta El Dorado. Los manifestantes decidieron levantar las plumas de cobro en ambas direcciones, esto de acuerdo a los inconformes para visibilizar su […]",
+          "recomendacion": "",
+          "fecha": "14 agosto 2026 · 10:46 CST",
+          "fecha_iso": "2026-08-14T10:46:00-06:00",
+          "fuente": "Quadratin EdoMex",
+          "url": "https://edomex.quadratin.com.mx/toman-caseta-el-dorado-familias-de-jovenes-de-desaparecidos-en-mazatlan/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 19.35,
+          "lon": -99.7
+        }
+      ]
+    },
     {
       "tipo": "cierre_parcial",
       "color": "amarillo",
@@ -49,6 +74,19 @@
     }
   ],
   "para_mapa": [
+    {
+      "id": "17760396",
+      "tipo": "bloqueo",
+      "ruta": "Toman caseta El Dorado familias de jóvenes de desaparecidos en…",
+      "descripcion": "Toman caseta El Dorado familias de jóvenes de desaparecidos en Mazatlán. ALMOLOYA DE JUÁREZ, Edomex., 14 de agosto de 2026.- Una jornada de protesta se vivió este viernes en el kilómetro 13 de la autopista Toluca–Atlacomulco, donde manifestantes dieron vía libre en la caseta El Dorado. Los manifestantes decidieron levantar las plumas de cobro en ambas direcciones, esto de acuerdo a los inconformes para visibilizar su […]",
+      "fecha": "14 agosto 2026 · 10:46 CST",
+      "fuente": "Quadratin EdoMex",
+      "url": "https://edomex.quadratin.com.mx/toman-caseta-el-dorado-familias-de-jovenes-de-desaparecidos-en-mazatlan/",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 19.35,
+      "lon": -99.7
+    },
     {
       "id": "5edd706f",
       "tipo": "cierre_parcial",
