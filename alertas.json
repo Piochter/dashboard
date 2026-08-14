@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-08-14T12:04:39.357319-06:00",
-  "ultima_actualizacion_legible": "14 de agosto de 2026 · 12:04 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-08-14T13:12:19.395350-06:00",
+  "ultima_actualizacion_legible": "14 de agosto de 2026 · 13:12 CST",
+  "total": 3,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Medios nacionales",
@@ -41,6 +41,22 @@
       "col2": true,
       "alertas": [
         {
+          "id": "df14fc8f",
+          "tipo": "cierre_parcial",
+          "ruta": "Automóvil se incendia en la México-Cuernavaca…",
+          "descripcion": "Automóvil se incendia en la México-Cuernavaca. Durante la mañana de este viernes se registró el incendio de un automóvil, a la altura del kilómetro 34, en la autopista México-Cuernavaca.",
+          "recomendacion": "",
+          "fecha": "14 agosto 2026 · 12:47 CST",
+          "fecha_iso": "2026-08-14T12:47:00-06:00",
+          "fuente": "24 Horas",
+          "url": "https://24-horas.mx/cdmx/automovil-se-incendia-en-la-mexico-cuernavaca/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 18.92,
+          "lon": -99.23
+        },
+        {
           "id": "c76129d2",
           "tipo": "cierre_parcial",
           "ruta": "Centro y sureste se mantienen como epicentro del robo al…",
@@ -58,6 +74,19 @@
     }
   ],
   "para_mapa": [
+    {
+      "id": "df14fc8f",
+      "tipo": "cierre_parcial",
+      "ruta": "Automóvil se incendia en la México-Cuernavaca…",
+      "descripcion": "Automóvil se incendia en la México-Cuernavaca. Durante la mañana de este viernes se registró el incendio de un automóvil, a la altura del kilómetro 34, en la autopista México-Cuernavaca.",
+      "fecha": "14 agosto 2026 · 12:47 CST",
+      "fuente": "24 Horas",
+      "url": "https://24-horas.mx/cdmx/automovil-se-incendia-en-la-mexico-cuernavaca/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 18.92,
+      "lon": -99.23
+    },
     {
       "id": "17760396",
       "tipo": "bloqueo",
