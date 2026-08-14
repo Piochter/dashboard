@@ -1,12 +1,51 @@
 {
-  "ultima_actualizacion": "2026-08-14T00:17:09.978448-06:00",
-  "ultima_actualizacion_legible": "14 de agosto de 2026 · 00:17 CST",
-  "total": 0,
+  "ultima_actualizacion": "2026-08-14T01:56:58.528802-06:00",
+  "ultima_actualizacion_legible": "14 de agosto de 2026 · 01:56 CST",
+  "total": 1,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News"
+    "Medios regionales"
   ],
-  "grupos": [],
-  "para_mapa": [],
-  "nota": "Sin alertas activas en la ventana de tiempo configurada."
+  "grupos": [
+    {
+      "tipo": "cierre_total",
+      "color": "rojo",
+      "icono": "🔴",
+      "label": "CIERRE TOTAL",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "9cca2e06",
+          "tipo": "cierre_total",
+          "ruta": "Choca auto con camión, vuelca y los tripulantes huyen del…",
+          "descripcion": "Choca auto con camión, vuelca y los tripulantes huyen del lugar en León. Un percance vial registrado bajo la lluvia sobre el libramiento José María Morelos movilizó a los cuerpos de emergencia tras la volcadura y abandono de un vehículo particular.",
+          "recomendacion": "",
+          "fecha": "13 agosto 2026 · 23:30 CST",
+          "fecha_iso": "2026-08-13T23:30:00-06:00",
+          "fuente": "AM Guanajuato",
+          "url": "https://www.am.com.mx/leon/2026/08/13/choca-auto-con-camion-vuelca-y-los-tripulantes-huyen-del-lugar-en-leon-1832103.html",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL",
+          "lat": 18.67,
+          "lon": -99.1
+        }
+      ]
+    }
+  ],
+  "para_mapa": [
+    {
+      "id": "9cca2e06",
+      "tipo": "cierre_total",
+      "ruta": "Choca auto con camión, vuelca y los tripulantes huyen del…",
+      "descripcion": "Choca auto con camión, vuelca y los tripulantes huyen del lugar en León. Un percance vial registrado bajo la lluvia sobre el libramiento José María Morelos movilizó a los cuerpos de emergencia tras la volcadura y abandono de un vehículo particular.",
+      "fecha": "13 agosto 2026 · 23:30 CST",
+      "fuente": "AM Guanajuato",
+      "url": "https://www.am.com.mx/leon/2026/08/13/choca-auto-con-camion-vuelca-y-los-tripulantes-huyen-del-lugar-en-leon-1832103.html",
+      "dot_color": "#e74c3c",
+      "badge_txt": "CIERRE TOTAL",
+      "lat": 18.67,
+      "lon": -99.1
+    }
+  ]
 }
