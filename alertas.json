@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-08-15T14:12:17.773160-06:00",
-  "ultima_actualizacion_legible": "15 de agosto de 2026 · 14:12 CST",
-  "total": 4,
+  "ultima_actualizacion": "2026-08-15T14:37:42.766553-06:00",
+  "ultima_actualizacion_legible": "15 de agosto de 2026 · 14:37 CST",
+  "total": 3,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
@@ -16,14 +16,14 @@
       "col2": false,
       "alertas": [
         {
-          "id": "0c144fc2",
+          "id": "1d5003fe",
           "tipo": "bloqueo",
           "ruta": "Bloqueos carreteras HOY 15 de agosto: Autopistas cerradas en México,…",
-          "descripcion": "Bloqueos carreteras HOY 15 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - ejecentral.com.mx. Bloqueos carreteras HOY 15 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE ejecentral.com.mx",
+          "descripcion": "Bloqueos carreteras HOY 15 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 15 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
           "recomendacion": "",
           "fecha": "15 agosto 2026 · 09:39 CST",
           "fecha_iso": "2026-08-15T09:39:00-06:00",
-          "fuente": "ejecentral.com.mx",
+          "fuente": "Eje Central",
           "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxONXRmZkdMOFhva3hUaDFXQ1RLNjd1TjF5dWhuUEpaT0xLRDB6dXYyYWhITDBuQk1hbHk2Ynl1NmZCMTFmaGI3eFpPRlZkYkdiZ0pKRmJyWlRzR1dIUHBxYkw2ZGZFM2k2V0c0bWRrcHEtdlVFMUtVRnk3T18ycERrV28zM0VjRnRFYVFvTVhieDVQRFBabmJmQWgxTHRhWDYycUhRdHBhVGMzMEhDNGl1a2lEZ1BxWmZ2UXZLQXc1VEJHT0JYSGhqd1R0bzBNREhpV3RfMU1kODAyWFBfUmNmMTRUbmhNc2VG?oc=5",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
@@ -55,22 +55,6 @@
           "badge_txt": "CIERRE PARCIAL"
         },
         {
-          "id": "d3bf30f5",
-          "tipo": "cierre_parcial",
-          "ruta": "Sobreviven peregrinos a choque múltiple en la México-Veracruz…",
-          "descripcion": "Sobreviven peregrinos a choque múltiple en la México-Veracruz. XALTOCAN, Tlax., 15 de agosto de 2026.- Peregrinos que regresaban de la Basílica de Guadalupe sobrevivieron a un aparatoso accidente que involucró tres unidades pesadas, la mañana de este sábado, sobre la carretera federal México-Veracruz, a la altura de la zona conocida como La Retama, en el municipio de Xaltocan. El percance ocurrió aproximadamente en […]",
-          "recomendacion": "",
-          "fecha": "15 agosto 2026 · 13:46 CST",
-          "fecha_iso": "2026-08-15T13:46:00-06:00",
-          "fuente": "Quadratin Chiapas",
-          "url": "https://chiapas.quadratin.com.mx/sucesos/sobreviven-peregrinos-a-choque-multiple-en-la-mexico-veracruz/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.2,
-          "lon": -96.8
-        },
-        {
           "id": "0918d6c1",
           "tipo": "cierre_parcial",
           "ruta": "Accidente vial en Atotonilco de Tula deja un hombre sin…",
@@ -91,19 +75,6 @@
   ],
   "para_mapa": [
     {
-      "id": "d3bf30f5",
-      "tipo": "cierre_parcial",
-      "ruta": "Sobreviven peregrinos a choque múltiple en la México-Veracruz…",
-      "descripcion": "Sobreviven peregrinos a choque múltiple en la México-Veracruz. XALTOCAN, Tlax., 15 de agosto de 2026.- Peregrinos que regresaban de la Basílica de Guadalupe sobrevivieron a un aparatoso accidente que involucró tres unidades pesadas, la mañana de este sábado, sobre la carretera federal México-Veracruz, a la altura de la zona conocida como La Retama, en el municipio de Xaltocan. El percance ocurrió aproximadamente en […]",
-      "fecha": "15 agosto 2026 · 13:46 CST",
-      "fuente": "Quadratin Chiapas",
-      "url": "https://chiapas.quadratin.com.mx/sucesos/sobreviven-peregrinos-a-choque-multiple-en-la-mexico-veracruz/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.2,
-      "lon": -96.8
-    },
-    {
       "id": "0918d6c1",
       "tipo": "cierre_parcial",
       "ruta": "Accidente vial en Atotonilco de Tula deja un hombre sin…",
@@ -117,12 +88,12 @@
       "lon": -102.0
     },
     {
-      "id": "0c144fc2",
+      "id": "1d5003fe",
       "tipo": "bloqueo",
       "ruta": "Bloqueos carreteras HOY 15 de agosto: Autopistas cerradas en México,…",
-      "descripcion": "Bloqueos carreteras HOY 15 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - ejecentral.com.mx. Bloqueos carreteras HOY 15 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE ejecentral.com.mx",
+      "descripcion": "Bloqueos carreteras HOY 15 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 15 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
       "fecha": "15 agosto 2026 · 09:39 CST",
-      "fuente": "ejecentral.com.mx",
+      "fuente": "Eje Central",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxONXRmZkdMOFhva3hUaDFXQ1RLNjd1TjF5dWhuUEpaT0xLRDB6dXYyYWhITDBuQk1hbHk2Ynl1NmZCMTFmaGI3eFpPRlZkYkdiZ0pKRmJyWlRzR1dIUHBxYkw2ZGZFM2k2V0c0bWRrcHEtdlVFMUtVRnk3T18ycERrV28zM0VjRnRFYVFvTVhieDVQRFBabmJmQWgxTHRhWDYycUhRdHBhVGMzMEhDNGl1a2lEZ1BxWmZ2UXZLQXc1VEJHT0JYSGhqd1R0bzBNREhpV3RfMU1kODAyWFBfUmNmMTRUbmhNc2VG?oc=5",
       "dot_color": "#8e44ad",
       "badge_txt": "BLOQUEO",
