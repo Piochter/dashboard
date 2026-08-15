@@ -1,38 +1,12 @@
 {
-  "ultima_actualizacion": "2026-08-14T17:44:55.428533-06:00",
-  "ultima_actualizacion_legible": "14 de agosto de 2026 · 17:44 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-08-14T18:01:03.862631-06:00",
+  "ultima_actualizacion_legible": "14 de agosto de 2026 · 18:01 CST",
+  "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Medios nacionales",
-    "Quadratin + regionales"
+    "Medios nacionales"
   ],
   "grupos": [
-    {
-      "tipo": "cierre_total",
-      "color": "rojo",
-      "icono": "🔴",
-      "label": "CIERRE TOTAL",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "99043eed",
-          "tipo": "cierre_total",
-          "ruta": "Camión bloquea la 57 tras volcadura en SJR…",
-          "descripcion": "Camión bloquea la 57 tras volcadura en SJR. Un camión tipo Torton terminó volcado a un costado de la autopista 57 en dirección a la Ciudad de México a la altura de Palma de Romero The post Camión bloquea la 57 tras volcadura en SJR appeared first on Quadratin Querétaro.",
-          "recomendacion": "",
-          "fecha": "14 agosto 2026 · 15:00 CST",
-          "fecha_iso": "2026-08-14T15:00:00-06:00",
-          "fuente": "Quadratin Queretaro",
-          "url": "https://queretaro.quadratin.com.mx/camion-bloquea-la-57-tras-volcadura-en-sjr/",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL",
-          "lat": 21.5,
-          "lon": -100.0
-        }
-      ]
-    },
     {
       "tipo": "cierre_parcial",
       "color": "amarillo",
@@ -74,19 +48,6 @@
     }
   ],
   "para_mapa": [
-    {
-      "id": "99043eed",
-      "tipo": "cierre_total",
-      "ruta": "Camión bloquea la 57 tras volcadura en SJR…",
-      "descripcion": "Camión bloquea la 57 tras volcadura en SJR. Un camión tipo Torton terminó volcado a un costado de la autopista 57 en dirección a la Ciudad de México a la altura de Palma de Romero The post Camión bloquea la 57 tras volcadura en SJR appeared first on Quadratin Querétaro.",
-      "fecha": "14 agosto 2026 · 15:00 CST",
-      "fuente": "Quadratin Queretaro",
-      "url": "https://queretaro.quadratin.com.mx/camion-bloquea-la-57-tras-volcadura-en-sjr/",
-      "dot_color": "#e74c3c",
-      "badge_txt": "CIERRE TOTAL",
-      "lat": 21.5,
-      "lon": -100.0
-    },
     {
       "id": "df14fc8f",
       "tipo": "cierre_parcial",
