@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-08-15T13:35:27.325578-06:00",
-  "ultima_actualizacion_legible": "15 de agosto de 2026 · 13:35 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-08-15T13:54:52.673129-06:00",
+  "ultima_actualizacion_legible": "15 de agosto de 2026 · 13:54 CST",
+  "total": 4,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
@@ -41,6 +41,36 @@
       "col2": true,
       "alertas": [
         {
+          "id": "8afa6360",
+          "tipo": "cierre_parcial",
+          "ruta": "Reportan accidente entre tráiler y pipa de combustible en NL…",
+          "descripcion": "Reportan accidente entre tráiler y pipa de combustible en NL. El reporte fue recibido alrededor de las 9:12 horas en la Autopista Laredo",
+          "recomendacion": "",
+          "fecha": "15 agosto 2026 · 13:47 CST",
+          "fecha_iso": "2026-08-15T13:47:00-06:00",
+          "fuente": "Quadratin Jalisco",
+          "url": "https://jalisco.quadratin.com.mx/Nacional/reportan-accidente-entre-trailer-y-pipa-de-combustible-en-nl/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        },
+        {
+          "id": "d3bf30f5",
+          "tipo": "cierre_parcial",
+          "ruta": "Sobreviven peregrinos a choque múltiple en la México-Veracruz…",
+          "descripcion": "Sobreviven peregrinos a choque múltiple en la México-Veracruz. XALTOCAN, Tlax., 15 de agosto de 2026.- Peregrinos que regresaban de la Basílica de Guadalupe sobrevivieron a un aparatoso accidente que involucró tres unidades pesadas, la mañana de este sábado, sobre la carretera federal México-Veracruz, a la altura de la zona conocida como La Retama, en el municipio de Xaltocan. El percance ocurrió aproximadamente en […]",
+          "recomendacion": "",
+          "fecha": "15 agosto 2026 · 13:46 CST",
+          "fecha_iso": "2026-08-15T13:46:00-06:00",
+          "fuente": "Quadratin Chiapas",
+          "url": "https://chiapas.quadratin.com.mx/sucesos/sobreviven-peregrinos-a-choque-multiple-en-la-mexico-veracruz/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 19.2,
+          "lon": -96.8
+        },
+        {
           "id": "0918d6c1",
           "tipo": "cierre_parcial",
           "ruta": "Accidente vial en Atotonilco de Tula deja un hombre sin…",
@@ -60,6 +90,19 @@
     }
   ],
   "para_mapa": [
+    {
+      "id": "d3bf30f5",
+      "tipo": "cierre_parcial",
+      "ruta": "Sobreviven peregrinos a choque múltiple en la México-Veracruz…",
+      "descripcion": "Sobreviven peregrinos a choque múltiple en la México-Veracruz. XALTOCAN, Tlax., 15 de agosto de 2026.- Peregrinos que regresaban de la Basílica de Guadalupe sobrevivieron a un aparatoso accidente que involucró tres unidades pesadas, la mañana de este sábado, sobre la carretera federal México-Veracruz, a la altura de la zona conocida como La Retama, en el municipio de Xaltocan. El percance ocurrió aproximadamente en […]",
+      "fecha": "15 agosto 2026 · 13:46 CST",
+      "fuente": "Quadratin Chiapas",
+      "url": "https://chiapas.quadratin.com.mx/sucesos/sobreviven-peregrinos-a-choque-multiple-en-la-mexico-veracruz/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 19.2,
+      "lon": -96.8
+    },
     {
       "id": "0918d6c1",
       "tipo": "cierre_parcial",
