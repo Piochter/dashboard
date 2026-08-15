@@ -1,12 +1,51 @@
 {
-  "ultima_actualizacion": "2026-08-15T09:22:41.764467-06:00",
-  "ultima_actualizacion_legible": "15 de agosto de 2026 · 09:22 CST",
-  "total": 0,
+  "ultima_actualizacion": "2026-08-15T09:43:10.331168-06:00",
+  "ultima_actualizacion_legible": "15 de agosto de 2026 · 09:43 CST",
+  "total": 1,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News"
   ],
-  "grupos": [],
-  "para_mapa": [],
-  "nota": "Sin alertas activas en la ventana de tiempo configurada."
+  "grupos": [
+    {
+      "tipo": "bloqueo",
+      "color": "rojo",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "1d5003fe",
+          "tipo": "bloqueo",
+          "ruta": "Bloqueos carreteras HOY 15 de agosto: Autopistas cerradas en México,…",
+          "descripcion": "Bloqueos carreteras HOY 15 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 15 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
+          "recomendacion": "",
+          "fecha": "15 agosto 2026 · 09:39 CST",
+          "fecha_iso": "2026-08-15T09:39:00-06:00",
+          "fuente": "Eje Central",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxONXRmZkdMOFhva3hUaDFXQ1RLNjd1TjF5dWhuUEpaT0xLRDB6dXYyYWhITDBuQk1hbHk2Ynl1NmZCMTFmaGI3eFpPRlZkYkdiZ0pKRmJyWlRzR1dIUHBxYkw2ZGZFM2k2V0c0bWRrcHEtdlVFMUtVRnk3T18ycERrV28zM0VjRnRFYVFvTVhieDVQRFBabmJmQWgxTHRhWDYycUhRdHBhVGMzMEhDNGl1a2lEZ1BxWmZ2UXZLQXc1VEJHT0JYSGhqd1R0bzBNREhpV3RfMU1kODAyWFBfUmNmMTRUbmhNc2VG?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 21.0,
+          "lon": -104.0
+        }
+      ]
+    }
+  ],
+  "para_mapa": [
+    {
+      "id": "1d5003fe",
+      "tipo": "bloqueo",
+      "ruta": "Bloqueos carreteras HOY 15 de agosto: Autopistas cerradas en México,…",
+      "descripcion": "Bloqueos carreteras HOY 15 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 15 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
+      "fecha": "15 agosto 2026 · 09:39 CST",
+      "fuente": "Eje Central",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxONXRmZkdMOFhva3hUaDFXQ1RLNjd1TjF5dWhuUEpaT0xLRDB6dXYyYWhITDBuQk1hbHk2Ynl1NmZCMTFmaGI3eFpPRlZkYkdiZ0pKRmJyWlRzR1dIUHBxYkw2ZGZFM2k2V0c0bWRrcHEtdlVFMUtVRnk3T18ycERrV28zM0VjRnRFYVFvTVhieDVQRFBabmJmQWgxTHRhWDYycUhRdHBhVGMzMEhDNGl1a2lEZ1BxWmZ2UXZLQXc1VEJHT0JYSGhqd1R0bzBNREhpV3RfMU1kODAyWFBfUmNmMTRUbmhNc2VG?oc=5",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 21.0,
+      "lon": -104.0
+    }
+  ]
 }
