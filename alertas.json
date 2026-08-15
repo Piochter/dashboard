@@ -1,6 +1,6 @@
 {
-  "ultima_actualizacion": "2026-08-15T16:57:21.478663-06:00",
-  "ultima_actualizacion_legible": "15 de agosto de 2026 · 16:57 CST",
+  "ultima_actualizacion": "2026-08-15T17:14:44.091959-06:00",
+  "ultima_actualizacion_legible": "15 de agosto de 2026 · 17:14 CST",
   "total": 6,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
@@ -16,6 +16,22 @@
       "label": "BLOQUEOS / MANIFESTACIONES",
       "col2": false,
       "alertas": [
+        {
+          "id": "fd318fbe",
+          "tipo": "bloqueo",
+          "ruta": "Queman patrulla municipal durante protesta contra proyecto carretero en Nopala…",
+          "descripcion": "Queman patrulla municipal durante protesta contra proyecto carretero en Nopala. La inconformidad en Nopala de Villagrán escaló este sábado durante una jornada de protesta contra el proyecto de construcción de una autopista The post Queman patrulla municipal durante protesta contra proyecto carretero en Nopala appeared first on Quadratin Hidalgo.",
+          "recomendacion": "",
+          "fecha": "15 agosto 2026 · 17:14 CST",
+          "fecha_iso": "2026-08-15T17:14:00-06:00",
+          "fuente": "Quadratin Hidalgo",
+          "url": "https://hidalgo.quadratin.com.mx/municipios/queman-patrulla-municipal-durante-protesta-contra-proyecto-carretero-en-nopala/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 20.11,
+          "lon": -98.73
+        },
         {
           "id": "21f5ebb8",
           "tipo": "bloqueo",
@@ -88,20 +104,6 @@
           "badge_txt": "CIERRE PARCIAL"
         },
         {
-          "id": "8afa6360",
-          "tipo": "cierre_parcial",
-          "ruta": "Reportan accidente entre tráiler y pipa de combustible en NL…",
-          "descripcion": "Reportan accidente entre tráiler y pipa de combustible en NL. El reporte fue recibido alrededor de las 9:12 horas en la Autopista Laredo",
-          "recomendacion": "",
-          "fecha": "15 agosto 2026 · 13:47 CST",
-          "fecha_iso": "2026-08-15T13:47:00-06:00",
-          "fuente": "Quadratin Jalisco",
-          "url": "https://jalisco.quadratin.com.mx/Nacional/reportan-accidente-entre-trailer-y-pipa-de-combustible-en-nl/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
-        },
-        {
           "id": "0918d6c1",
           "tipo": "cierre_parcial",
           "ruta": "Accidente vial en Atotonilco de Tula deja un hombre sin…",
@@ -121,6 +123,19 @@
     }
   ],
   "para_mapa": [
+    {
+      "id": "fd318fbe",
+      "tipo": "bloqueo",
+      "ruta": "Queman patrulla municipal durante protesta contra proyecto carretero en Nopala…",
+      "descripcion": "Queman patrulla municipal durante protesta contra proyecto carretero en Nopala. La inconformidad en Nopala de Villagrán escaló este sábado durante una jornada de protesta contra el proyecto de construcción de una autopista The post Queman patrulla municipal durante protesta contra proyecto carretero en Nopala appeared first on Quadratin Hidalgo.",
+      "fecha": "15 agosto 2026 · 17:14 CST",
+      "fuente": "Quadratin Hidalgo",
+      "url": "https://hidalgo.quadratin.com.mx/municipios/queman-patrulla-municipal-durante-protesta-contra-proyecto-carretero-en-nopala/",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 20.11,
+      "lon": -98.73
+    },
     {
       "id": "21f5ebb8",
       "tipo": "bloqueo",
