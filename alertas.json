@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-08-16T00:40:34.699123-06:00",
-  "ultima_actualizacion_legible": "16 de agosto de 2026 · 00:40 CST",
-  "total": 7,
+  "ultima_actualizacion": "2026-08-16T01:18:22.115244-06:00",
+  "ultima_actualizacion_legible": "16 de agosto de 2026 · 01:18 CST",
+  "total": 5,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Medios regionales",
@@ -99,36 +99,6 @@
           "badge_txt": "CIERRE PARCIAL",
           "lat": 21.0,
           "lon": -104.0
-        },
-        {
-          "id": "ee7edcc0",
-          "tipo": "cierre_parcial",
-          "ruta": "Frustran asalto a camión de carga con contenido valuado en…",
-          "descripcion": "Frustran asalto a camión de carga con contenido valuado en 3 mdp. Los hechos ocurrieron en el municipio de Unión de San Antonio",
-          "recomendacion": "",
-          "fecha": "15 agosto 2026 · 14:52 CST",
-          "fecha_iso": "2026-08-15T14:52:00-06:00",
-          "fuente": "El Informador Jalisco",
-          "url": "https://www.informador.mx/jalisco/seguridad-en-jalisco-frustran-asalto-a-camion-de-carga-en-union-de-san-antonio-con-contenido-valuado-en-3-mdp-20260815-0064.html",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
-        },
-        {
-          "id": "0918d6c1",
-          "tipo": "cierre_parcial",
-          "ruta": "Accidente vial en Atotonilco de Tula deja un hombre sin…",
-          "descripcion": "Accidente vial en Atotonilco de Tula deja un hombre sin vida. Un hombre de aproximadamente 40 años perdió la vida tras ser atropellado en la carretera federal Jorobas-Tula The post Accidente vial en Atotonilco de Tula deja un hombre sin vida appeared first on Quadratin Hidalgo.",
-          "recomendacion": "",
-          "fecha": "15 agosto 2026 · 13:07 CST",
-          "fecha_iso": "2026-08-15T13:07:00-06:00",
-          "fuente": "Quadratin Hidalgo",
-          "url": "https://hidalgo.quadratin.com.mx/sucesos/accidente-vial-en-atotonilco-de-tula-deja-un-hombre-sin-vida/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 25.2,
-          "lon": -102.0
         }
       ]
     }
@@ -172,19 +142,6 @@
       "badge_txt": "CIERRE PARCIAL",
       "lat": 21.0,
       "lon": -104.0
-    },
-    {
-      "id": "0918d6c1",
-      "tipo": "cierre_parcial",
-      "ruta": "Accidente vial en Atotonilco de Tula deja un hombre sin…",
-      "descripcion": "Accidente vial en Atotonilco de Tula deja un hombre sin vida. Un hombre de aproximadamente 40 años perdió la vida tras ser atropellado en la carretera federal Jorobas-Tula The post Accidente vial en Atotonilco de Tula deja un hombre sin vida appeared first on Quadratin Hidalgo.",
-      "fecha": "15 agosto 2026 · 13:07 CST",
-      "fuente": "Quadratin Hidalgo",
-      "url": "https://hidalgo.quadratin.com.mx/sucesos/accidente-vial-en-atotonilco-de-tula-deja-un-hombre-sin-vida/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 25.2,
-      "lon": -102.0
     }
   ]
 }
