@@ -1,12 +1,13 @@
 {
-  "ultima_actualizacion": "2026-08-16T10:41:44.666555-06:00",
-  "ultima_actualizacion_legible": "16 de agosto de 2026 · 10:41 CST",
-  "total": 4,
+  "ultima_actualizacion": "2026-08-16T10:59:21.896602-06:00",
+  "ultima_actualizacion_legible": "16 de agosto de 2026 · 10:59 CST",
+  "total": 5,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
     "Medios nacionales",
-    "Quadratin + regionales"
+    "Quadratin + regionales",
+    "Telegram"
   ],
   "grupos": [
     {
@@ -65,6 +66,22 @@
       "col2": true,
       "alertas": [
         {
+          "id": "ca5e02fa",
+          "tipo": "cierre_parcial",
+          "ruta": "📢Accidente de motocicletas deja varios lesionados en la #México-#Pachuca 😱…",
+          "descripcion": "📢Accidente de motocicletas deja varios lesionados en la #México-#Pachuca 😱 [ #VIDEO 👇]\n\nhttps://lajornadaestadodemexico.com/accidente-de-motocicletas-deja-varios-lesionados-en-la-mexico-pachuca/",
+          "recomendacion": "",
+          "fecha": "16 agosto 2026 · 10:49 CST",
+          "fecha_iso": "2026-08-16T10:49:00-06:00",
+          "fuente": "Telegram @jornadaedomex",
+          "url": "https://t.me/jornadaedomex/11746",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 20.12,
+          "lon": -98.73
+        },
+        {
           "id": "5688ef31",
           "tipo": "cierre_parcial",
           "ruta": "Muere trabajador de CFE en choque en Salina Cruz-La Ventosa…",
@@ -96,6 +113,19 @@
     }
   ],
   "para_mapa": [
+    {
+      "id": "ca5e02fa",
+      "tipo": "cierre_parcial",
+      "ruta": "📢Accidente de motocicletas deja varios lesionados en la #México-#Pachuca 😱…",
+      "descripcion": "📢Accidente de motocicletas deja varios lesionados en la #México-#Pachuca 😱 [ #VIDEO 👇]\n\nhttps://lajornadaestadodemexico.com/accidente-de-motocicletas-deja-varios-lesionados-en-la-mexico-pachuca/",
+      "fecha": "16 agosto 2026 · 10:49 CST",
+      "fuente": "Telegram @jornadaedomex",
+      "url": "https://t.me/jornadaedomex/11746",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 20.12,
+      "lon": -98.73
+    },
     {
       "id": "1844a695",
       "tipo": "cierre_total",
