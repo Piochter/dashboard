@@ -1,14 +1,38 @@
 {
-  "ultima_actualizacion": "2026-08-16T16:38:22.887448-06:00",
-  "ultima_actualizacion_legible": "16 de agosto de 2026 · 16:38 CST",
-  "total": 4,
+  "ultima_actualizacion": "2026-08-16T16:56:36.142017-06:00",
+  "ultima_actualizacion_legible": "16 de agosto de 2026 · 16:56 CST",
+  "total": 5,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
+    "Google News",
     "Medios regionales",
     "Quadratin + regionales",
     "Telegram"
   ],
   "grupos": [
+    {
+      "tipo": "bloqueo",
+      "color": "rojo",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "86057f49",
+          "tipo": "bloqueo",
+          "ruta": "Bloqueos carreteras HOY 16 de agosto: Autopistas cerradas en México,…",
+          "descripcion": "Bloqueos carreteras HOY 16 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 16 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
+          "recomendacion": "",
+          "fecha": "16 agosto 2026 · 08:48 CST",
+          "fecha_iso": "2026-08-16T08:48:00-06:00",
+          "fuente": "Eje Central",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOa1hRUFhieXJNTE16M095YjlhVE5WdHZlWW83VkNVVHJaZi1KcUJYZmxRcG1KaFRuVlNoTEFpZF90UXQxNEFZNjVkZTVzNFJZa2NvYklhVngzeklPclRKMmtEOFpqcmF0cjd3UVczc2hJMmlWdlJpbWhCTzgzajd3cTBHMkFoUVI0c1hXandRUU5jdm1ZVk9LdXZHSGJtOW1NamVab2JpdW1MMmx1ZTV4cWhWekkyN0Itd0Y2QXZKY3FCTnpRUjJRYXRqS2NkNFl0Ymo5Qms1RjR6dVhmSUNCUVlsb25qdGN4?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        }
+      ]
+    },
     {
       "tipo": "cierre_parcial",
       "color": "amarillo",
