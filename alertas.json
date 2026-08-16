@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-08-16T13:14:24.175098-06:00",
-  "ultima_actualizacion_legible": "16 de agosto de 2026 · 13:14 CST",
-  "total": 5,
+  "ultima_actualizacion": "2026-08-16T13:34:00.581709-06:00",
+  "ultima_actualizacion_legible": "16 de agosto de 2026 · 13:34 CST",
+  "total": 6,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
@@ -66,6 +66,36 @@
       "col2": true,
       "alertas": [
         {
+          "id": "7e1ce0ef",
+          "tipo": "cierre_parcial",
+          "ruta": "Deja choque de motocicletas cinco lesionados en la México-Pachuca…",
+          "descripcion": "Deja choque de motocicletas cinco lesionados en la México-Pachuca. El accidente ocurrió a la altura de Santa Clara y San Pedro Xalostoc, en Ecatepec.",
+          "recomendacion": "",
+          "fecha": "16 agosto 2026 · 13:30 CST",
+          "fecha_iso": "2026-08-16T13:30:00-06:00",
+          "fuente": "Quadratin EdoMex",
+          "url": "https://edomex.quadratin.com.mx/deja-choque-de-motocicletas-cinco-lesionados-en-la-mexico-pachuca/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 20.12,
+          "lon": -98.73
+        },
+        {
+          "id": "e8cce0bc",
+          "tipo": "cierre_parcial",
+          "ruta": "Cae árbol sobre vehículo en Santa Lucía del Camino…",
+          "descripcion": "Cae árbol sobre vehículo en Santa Lucía del Camino. El desplazamiento vehicular fue cerrada temporalmente en ese tramo",
+          "recomendacion": "",
+          "fecha": "16 agosto 2026 · 13:19 CST",
+          "fecha_iso": "2026-08-16T13:19:00-06:00",
+          "fuente": "Quadratin Oaxaca",
+          "url": "https://oaxaca.quadratin.com.mx/cae-arbol-sobre-vehiculo-y-bloquea-avenida-lazaro-cardenas/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        },
+        {
           "id": "ca5e02fa",
           "tipo": "cierre_parcial",
           "ruta": "📢Accidente de motocicletas deja varios lesionados en la #México-#Pachuca 😱…",
@@ -80,20 +110,6 @@
           "badge_txt": "CIERRE PARCIAL",
           "lat": 20.12,
           "lon": -98.73
-        },
-        {
-          "id": "5688ef31",
-          "tipo": "cierre_parcial",
-          "ruta": "Muere trabajador de CFE en choque en Salina Cruz-La Ventosa…",
-          "descripcion": "Muere trabajador de CFE en choque en Salina Cruz-La Ventosa. El percance ocurrió en el kilómetro 32, cerca de la desviación hacia Lachiguiri",
-          "recomendacion": "",
-          "fecha": "16 agosto 2026 · 09:31 CST",
-          "fecha_iso": "2026-08-16T09:31:00-06:00",
-          "fuente": "Quadratin Oaxaca",
-          "url": "https://oaxaca.quadratin.com.mx/muere-trabajador-de-cfe-en-choque-en-salina-cruz-la-ventosa/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
         },
         {
           "id": "2e75b93b",
@@ -113,6 +129,19 @@
     }
   ],
   "para_mapa": [
+    {
+      "id": "7e1ce0ef",
+      "tipo": "cierre_parcial",
+      "ruta": "Deja choque de motocicletas cinco lesionados en la México-Pachuca…",
+      "descripcion": "Deja choque de motocicletas cinco lesionados en la México-Pachuca. El accidente ocurrió a la altura de Santa Clara y San Pedro Xalostoc, en Ecatepec.",
+      "fecha": "16 agosto 2026 · 13:30 CST",
+      "fuente": "Quadratin EdoMex",
+      "url": "https://edomex.quadratin.com.mx/deja-choque-de-motocicletas-cinco-lesionados-en-la-mexico-pachuca/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 20.12,
+      "lon": -98.73
+    },
     {
       "id": "ca5e02fa",
       "tipo": "cierre_parcial",
