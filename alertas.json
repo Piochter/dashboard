@@ -1,11 +1,10 @@
 {
-  "ultima_actualizacion": "2026-08-16T13:34:00.581709-06:00",
-  "ultima_actualizacion_legible": "16 de agosto de 2026 · 13:34 CST",
-  "total": 6,
+  "ultima_actualizacion": "2026-08-16T13:53:21.357295-06:00",
+  "ultima_actualizacion_legible": "16 de agosto de 2026 · 13:53 CST",
+  "total": 5,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
-    "Medios nacionales",
     "Quadratin + regionales",
     "Telegram"
   ],
@@ -110,20 +109,6 @@
           "badge_txt": "CIERRE PARCIAL",
           "lat": 20.12,
           "lon": -98.73
-        },
-        {
-          "id": "2e75b93b",
-          "tipo": "cierre_parcial",
-          "ruta": "Profepa investiga derrame de 2 mil litros de ácido sulfúrico…",
-          "descripcion": "Profepa investiga derrame de 2 mil litros de ácido sulfúrico en Caborca. Caborca, Son., La Procuraduría Federal de Protección al Ambiente (Profepa) abrió una investigación por el derrame de unos 2 mil litros de ácido sulfúrico el jueves pasado en el tramo Caborca–Y Griega, luego de un accidente carretero. La autoridad ambiental informó que levantó un acta y abrió un procedimiento administrativo para determinar las circunstancias en las que se produjo el percance, identificar las posibles afectac",
-          "recomendacion": "",
-          "fecha": "16 agosto 2026 · 01:41 CST",
-          "fecha_iso": "2026-08-16T01:41:00-06:00",
-          "fuente": "La Jornada Estados",
-          "url": "https://www.jornada.com.mx/2026/08/16/estados/020n2est?partner=rss",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
         }
       ]
     }
