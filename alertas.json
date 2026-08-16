@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-08-15T21:58:38.401765-06:00",
-  "ultima_actualizacion_legible": "15 de agosto de 2026 · 21:58 CST",
-  "total": 6,
+  "ultima_actualizacion": "2026-08-15T22:33:37.986520-06:00",
+  "ultima_actualizacion_legible": "15 de agosto de 2026 · 22:33 CST",
+  "total": 7,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Medios regionales",
@@ -56,6 +56,20 @@
       "label": "CIERRE PARCIAL / ACCIDENTES",
       "col2": true,
       "alertas": [
+        {
+          "id": "1080baa1",
+          "tipo": "cierre_parcial",
+          "ruta": "Confirma Policía Vial un fallecido y 3 heridos por choque…",
+          "descripcion": "Confirma Policía Vial un fallecido y 3 heridos por choque en El Tule. Tres vehículos estuvieron involucrados en el percance sobre la carretera a Tlacolula",
+          "recomendacion": "",
+          "fecha": "15 agosto 2026 · 22:30 CST",
+          "fecha_iso": "2026-08-15T22:30:00-06:00",
+          "fuente": "Quadratin Oaxaca",
+          "url": "https://oaxaca.quadratin.com.mx/confirma-policia-vial-un-fallecido-y-3-heridos-por-choque-en-el-tule/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        },
         {
           "id": "0879bec9",
           "tipo": "cierre_parcial",
