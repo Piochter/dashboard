@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-08-16T04:14:13.628131-06:00",
-  "ultima_actualizacion_legible": "16 de agosto de 2026 · 04:14 CST",
-  "total": 4,
+  "ultima_actualizacion": "2026-08-16T04:39:48.679194-06:00",
+  "ultima_actualizacion_legible": "16 de agosto de 2026 · 04:39 CST",
+  "total": 3,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Medios nacionales",
@@ -30,22 +30,6 @@
           "badge_txt": "BLOQUEO",
           "lat": 20.11,
           "lon": -98.73
-        },
-        {
-          "id": "21f5ebb8",
-          "tipo": "bloqueo",
-          "ruta": "Acusan al gobierno de Huehuetoca por cerrar bares; bloquean la…",
-          "descripcion": "Acusan al gobierno de Huehuetoca por cerrar bares; bloquean la Méx-Qro. HUEHUETOCA, Edomex., 15 de agosto de 2026.- Un grupo de comerciantes, presuntamente propietarios de bares y restaurantes, bloquearon la tarde de este sábado la autopista Méx-Qro, para denunciar supuestos cierres de sus negocios de manera arbitraria por parte del ayuntamiento de Huehuetoca, que encabeza Juan Manuel López Adán. La manifestación se concentró en la zona […]",
-          "recomendacion": "",
-          "fecha": "15 agosto 2026 · 16:15 CST",
-          "fecha_iso": "2026-08-15T16:15:00-06:00",
-          "fuente": "Quadratin EdoMex",
-          "url": "https://edomex.quadratin.com.mx/acusan-al-gobierno-de-huehuetoca-por-cerrar-bares-bloquean-la-mex-qro/",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 21.0,
-          "lon": -104.0
         }
       ]
     },
@@ -100,19 +84,6 @@
       "badge_txt": "BLOQUEO",
       "lat": 20.11,
       "lon": -98.73
-    },
-    {
-      "id": "21f5ebb8",
-      "tipo": "bloqueo",
-      "ruta": "Acusan al gobierno de Huehuetoca por cerrar bares; bloquean la…",
-      "descripcion": "Acusan al gobierno de Huehuetoca por cerrar bares; bloquean la Méx-Qro. HUEHUETOCA, Edomex., 15 de agosto de 2026.- Un grupo de comerciantes, presuntamente propietarios de bares y restaurantes, bloquearon la tarde de este sábado la autopista Méx-Qro, para denunciar supuestos cierres de sus negocios de manera arbitraria por parte del ayuntamiento de Huehuetoca, que encabeza Juan Manuel López Adán. La manifestación se concentró en la zona […]",
-      "fecha": "15 agosto 2026 · 16:15 CST",
-      "fuente": "Quadratin EdoMex",
-      "url": "https://edomex.quadratin.com.mx/acusan-al-gobierno-de-huehuetoca-por-cerrar-bares-bloquean-la-mex-qro/",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 21.0,
-      "lon": -104.0
     }
   ]
 }
