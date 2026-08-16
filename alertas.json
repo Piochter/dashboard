@@ -1,9 +1,10 @@
 {
-  "ultima_actualizacion": "2026-08-16T03:18:41.566601-06:00",
-  "ultima_actualizacion_legible": "16 de agosto de 2026 · 03:18 CST",
+  "ultima_actualizacion": "2026-08-16T03:49:26.488486-06:00",
+  "ultima_actualizacion_legible": "16 de agosto de 2026 · 03:49 CST",
   "total": 4,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
+    "Medios nacionales",
     "Quadratin + regionales"
   ],
   "grupos": [
@@ -56,6 +57,20 @@
       "col2": true,
       "alertas": [
         {
+          "id": "2e75b93b",
+          "tipo": "cierre_parcial",
+          "ruta": "Profepa investiga derrame de 2 mil litros de ácido sulfúrico…",
+          "descripcion": "Profepa investiga derrame de 2 mil litros de ácido sulfúrico en Caborca. Caborca, Son., La Procuraduría Federal de Protección al Ambiente (Profepa) abrió una investigación por el derrame de unos 2 mil litros de ácido sulfúrico el jueves pasado en el tramo Caborca–Y Griega, luego de un accidente carretero. La autoridad ambiental informó que levantó un acta y abrió un procedimiento administrativo para determinar las circunstancias en las que se produjo el percance, identificar las posibles afectac",
+          "recomendacion": "",
+          "fecha": "16 agosto 2026 · 01:41 CST",
+          "fecha_iso": "2026-08-16T01:41:00-06:00",
+          "fuente": "La Jornada Estados",
+          "url": "https://www.jornada.com.mx/2026/08/16/estados/020n2est?partner=rss",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        },
+        {
           "id": "1080baa1",
           "tipo": "cierre_parcial",
           "ruta": "Confirma Policía Vial un fallecido y 3 heridos por choque…",
@@ -68,22 +83,6 @@
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL"
-        },
-        {
-          "id": "4f3af243",
-          "tipo": "cierre_parcial",
-          "ruta": "Accidente entre autobús y unidad de la GN deja víctimas…",
-          "descripcion": "Accidente entre autobús y unidad de la GN deja víctimas en Jiquipilas. TUXTLA GUTIÉRREZ, Chis., 15 de agosto 2026.-Un fuerte accidente carretero ocurrido la tarde de este sábado sobre el tramo Jiquipilas–Puente Las Flores dejó, de manera preliminar, presuntamente personas sin vida y varios lesionados, tras la colisión entre un autobús de la empresa Rápidos del Sur y una unidad de un convoy de la Guardia Nacional. […]",
-          "recomendacion": "",
-          "fecha": "15 agosto 2026 · 15:27 CST",
-          "fecha_iso": "2026-08-15T15:27:00-06:00",
-          "fuente": "Quadratin Chiapas",
-          "url": "https://chiapas.quadratin.com.mx/principal/accidente-entre-autobus-y-unidad-de-la-gn-deja-victimas-en-jiquipilas/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 21.0,
-          "lon": -104.0
         }
       ]
     }
@@ -112,19 +111,6 @@
       "url": "https://edomex.quadratin.com.mx/acusan-al-gobierno-de-huehuetoca-por-cerrar-bares-bloquean-la-mex-qro/",
       "dot_color": "#8e44ad",
       "badge_txt": "BLOQUEO",
-      "lat": 21.0,
-      "lon": -104.0
-    },
-    {
-      "id": "4f3af243",
-      "tipo": "cierre_parcial",
-      "ruta": "Accidente entre autobús y unidad de la GN deja víctimas…",
-      "descripcion": "Accidente entre autobús y unidad de la GN deja víctimas en Jiquipilas. TUXTLA GUTIÉRREZ, Chis., 15 de agosto 2026.-Un fuerte accidente carretero ocurrido la tarde de este sábado sobre el tramo Jiquipilas–Puente Las Flores dejó, de manera preliminar, presuntamente personas sin vida y varios lesionados, tras la colisión entre un autobús de la empresa Rápidos del Sur y una unidad de un convoy de la Guardia Nacional. […]",
-      "fecha": "15 agosto 2026 · 15:27 CST",
-      "fuente": "Quadratin Chiapas",
-      "url": "https://chiapas.quadratin.com.mx/principal/accidente-entre-autobus-y-unidad-de-la-gn-deja-victimas-en-jiquipilas/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
       "lat": 21.0,
       "lon": -104.0
     }
