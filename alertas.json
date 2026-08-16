@@ -1,37 +1,14 @@
 {
-  "ultima_actualizacion": "2026-08-16T16:11:28.463203-06:00",
-  "ultima_actualizacion_legible": "16 de agosto de 2026 · 16:11 CST",
-  "total": 5,
+  "ultima_actualizacion": "2026-08-16T16:38:22.887448-06:00",
+  "ultima_actualizacion_legible": "16 de agosto de 2026 · 16:38 CST",
+  "total": 4,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News",
+    "Medios regionales",
     "Quadratin + regionales",
     "Telegram"
   ],
   "grupos": [
-    {
-      "tipo": "bloqueo",
-      "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "177a550a",
-          "tipo": "bloqueo",
-          "ruta": "Bloqueos carreteras HOY 16 de agosto: Autopistas cerradas en México,…",
-          "descripcion": "Bloqueos carreteras HOY 16 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - ejecentral.com.mx. Bloqueos carreteras HOY 16 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE ejecentral.com.mx",
-          "recomendacion": "",
-          "fecha": "16 agosto 2026 · 08:48 CST",
-          "fecha_iso": "2026-08-16T08:48:00-06:00",
-          "fuente": "ejecentral.com.mx",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOa1hRUFhieXJNTE16M095YjlhVE5WdHZlWW83VkNVVHJaZi1KcUJYZmxRcG1KaFRuVlNoTEFpZF90UXQxNEFZNjVkZTVzNFJZa2NvYklhVngzeklPclRKMmtEOFpqcmF0cjd3UVczc2hJMmlWdlJpbWhCTzgzajd3cTBHMkFoUVI0c1hXandRUU5jdm1ZVk9LdXZHSGJtOW1NamVab2JpdW1MMmx1ZTV4cWhWekkyN0Itd0Y2QXZKY3FCTnpRUjJRYXRqS2NkNFl0Ymo5Qms1RjR6dVhmSUNCUVlsb25qdGN4?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        }
-      ]
-    },
     {
       "tipo": "cierre_parcial",
       "color": "amarillo",
@@ -39,6 +16,22 @@
       "label": "CIERRE PARCIAL / ACCIDENTES",
       "col2": true,
       "alertas": [
+        {
+          "id": "eb3f0056",
+          "tipo": "cierre_parcial",
+          "ruta": "Alertan por accidente en la autopista Colima-Guadalajara; hay cierre en…",
+          "descripcion": "Alertan por accidente en la autopista Colima-Guadalajara; hay cierre en la circulación. Autoridades de Jalisco atendieron el percance registrado en el Puente de Beltrán y recomendaron evitar la zona y utilizar rutas alternas",
+          "recomendacion": "evitar la zona y utilizar rutas alternas",
+          "fecha": "16 agosto 2026 · 16:10 CST",
+          "fecha_iso": "2026-08-16T16:10:00-06:00",
+          "fuente": "El Informador Jalisco",
+          "url": "https://www.informador.mx/jalisco/autopista-colima-guadalajara-accidente-provoca-cierre-de-circulacion-20260816-0070.html",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 20.66,
+          "lon": -103.35
+        },
         {
           "id": "7e1ce0ef",
           "tipo": "cierre_parcial",
@@ -84,27 +77,24 @@
           "badge_txt": "CIERRE PARCIAL",
           "lat": 20.12,
           "lon": -98.73
-        },
-        {
-          "id": "f3a7b92d",
-          "tipo": "cierre_parcial",
-          "ruta": "Accidente múltiple paraliza la autopista México-Puebla; reportan un muerto y…",
-          "descripcion": "Accidente múltiple paraliza la autopista México-Puebla; reportan un muerto y varios lesionados - Enfoque Noticias. Accidente múltiple paraliza la autopista México-Puebla; reportan un muerto y varios lesionados Enfoque Noticias",
-          "recomendacion": "",
-          "fecha": "16 agosto 2026 · 09:22 CST",
-          "fecha_iso": "2026-08-16T09:22:00-06:00",
-          "fuente": "Enfoque Noticias",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbTgxeGxnekVpY3RQaG55a095eFd6NlNLYXpQX0EzY2FfYmc1Zk00MkJUWDljOU1vQ3VxQ2JiWHFJYVZPeXBNQUhtdlU3a0tURUpTUDRKcUtZVUtzWWRSMzdLRWRkWUVsc0E3d2lHdWRLNlBrSVZZTjZIZzJBRTViNExYNWFhQnJTdXJOZS1sQUdiQVJrODBQaQ?oc=5",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.35,
-          "lon": -98.4
         }
       ]
     }
   ],
   "para_mapa": [
+    {
+      "id": "eb3f0056",
+      "tipo": "cierre_parcial",
+      "ruta": "Alertan por accidente en la autopista Colima-Guadalajara; hay cierre en…",
+      "descripcion": "Alertan por accidente en la autopista Colima-Guadalajara; hay cierre en la circulación. Autoridades de Jalisco atendieron el percance registrado en el Puente de Beltrán y recomendaron evitar la zona y utilizar rutas alternas",
+      "fecha": "16 agosto 2026 · 16:10 CST",
+      "fuente": "El Informador Jalisco",
+      "url": "https://www.informador.mx/jalisco/autopista-colima-guadalajara-accidente-provoca-cierre-de-circulacion-20260816-0070.html",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 20.66,
+      "lon": -103.35
+    },
     {
       "id": "7e1ce0ef",
       "tipo": "cierre_parcial",
@@ -130,19 +120,6 @@
       "badge_txt": "CIERRE PARCIAL",
       "lat": 20.12,
       "lon": -98.73
-    },
-    {
-      "id": "f3a7b92d",
-      "tipo": "cierre_parcial",
-      "ruta": "Accidente múltiple paraliza la autopista México-Puebla; reportan un muerto y…",
-      "descripcion": "Accidente múltiple paraliza la autopista México-Puebla; reportan un muerto y varios lesionados - Enfoque Noticias. Accidente múltiple paraliza la autopista México-Puebla; reportan un muerto y varios lesionados Enfoque Noticias",
-      "fecha": "16 agosto 2026 · 09:22 CST",
-      "fuente": "Enfoque Noticias",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbTgxeGxnekVpY3RQaG55a095eFd6NlNLYXpQX0EzY2FfYmc1Zk00MkJUWDljOU1vQ3VxQ2JiWHFJYVZPeXBNQUhtdlU3a0tURUpTUDRKcUtZVUtzWWRSMzdLRWRkWUVsc0E3d2lHdWRLNlBrSVZZTjZIZzJBRTViNExYNWFhQnJTdXJOZS1sQUdiQVJrODBQaQ?oc=5",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.35,
-      "lon": -98.4
     }
   ]
 }
