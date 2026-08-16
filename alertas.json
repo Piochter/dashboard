@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-08-16T14:11:32.458597-06:00",
-  "ultima_actualizacion_legible": "16 de agosto de 2026 · 14:11 CST",
-  "total": 5,
+  "ultima_actualizacion": "2026-08-16T14:36:11.461705-06:00",
+  "ultima_actualizacion_legible": "16 de agosto de 2026 · 14:36 CST",
+  "total": 4,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
@@ -9,31 +9,6 @@
     "Telegram"
   ],
   "grupos": [
-    {
-      "tipo": "cierre_total",
-      "color": "rojo",
-      "icono": "🔴",
-      "label": "CIERRE TOTAL",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "1844a695",
-          "tipo": "cierre_total",
-          "ruta": "Fatal volcadura en Vizarrón Cadereyta deja un muerto…",
-          "descripcion": "Fatal volcadura en Vizarrón Cadereyta deja un muerto. Una fatal salida de camino y volcadura fue la que se registró en la carretera federal 120 en el tramo San Juan - Xilitla The post Fatal volcadura en Vizarrón Cadereyta deja un muerto appeared first on Quadratin Querétaro.",
-          "recomendacion": "",
-          "fecha": "16 agosto 2026 · 10:00 CST",
-          "fecha_iso": "2026-08-16T10:00:00-06:00",
-          "fuente": "Quadratin Queretaro",
-          "url": "https://queretaro.quadratin.com.mx/fatal-volcadura-en-vizarron-cadereyta-deja-un-muerto/",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL",
-          "lat": 20.59,
-          "lon": -100.39
-        }
-      ]
-    },
     {
       "tipo": "bloqueo",
       "color": "rojo",
@@ -139,19 +114,6 @@
       "badge_txt": "CIERRE PARCIAL",
       "lat": 20.12,
       "lon": -98.73
-    },
-    {
-      "id": "1844a695",
-      "tipo": "cierre_total",
-      "ruta": "Fatal volcadura en Vizarrón Cadereyta deja un muerto…",
-      "descripcion": "Fatal volcadura en Vizarrón Cadereyta deja un muerto. Una fatal salida de camino y volcadura fue la que se registró en la carretera federal 120 en el tramo San Juan - Xilitla The post Fatal volcadura en Vizarrón Cadereyta deja un muerto appeared first on Quadratin Querétaro.",
-      "fecha": "16 agosto 2026 · 10:00 CST",
-      "fuente": "Quadratin Queretaro",
-      "url": "https://queretaro.quadratin.com.mx/fatal-volcadura-en-vizarron-cadereyta-deja-un-muerto/",
-      "dot_color": "#e74c3c",
-      "badge_txt": "CIERRE TOTAL",
-      "lat": 20.59,
-      "lon": -100.39
     }
   ]
 }
