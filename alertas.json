@@ -1,38 +1,13 @@
 {
-  "ultima_actualizacion": "2026-08-16T04:57:56.894032-06:00",
-  "ultima_actualizacion_legible": "16 de agosto de 2026 · 04:57 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-08-16T05:16:57.130222-06:00",
+  "ultima_actualizacion_legible": "16 de agosto de 2026 · 05:16 CST",
+  "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Medios nacionales",
     "Quadratin + regionales"
   ],
   "grupos": [
-    {
-      "tipo": "bloqueo",
-      "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "fd318fbe",
-          "tipo": "bloqueo",
-          "ruta": "Queman patrulla municipal durante protesta contra proyecto carretero en Nopala…",
-          "descripcion": "Queman patrulla municipal durante protesta contra proyecto carretero en Nopala. La inconformidad en Nopala de Villagrán escaló este sábado durante una jornada de protesta contra el proyecto de construcción de una autopista The post Queman patrulla municipal durante protesta contra proyecto carretero en Nopala appeared first on Quadratin Hidalgo.",
-          "recomendacion": "",
-          "fecha": "15 agosto 2026 · 17:14 CST",
-          "fecha_iso": "2026-08-15T17:14:00-06:00",
-          "fuente": "Quadratin Hidalgo",
-          "url": "https://hidalgo.quadratin.com.mx/municipios/queman-patrulla-municipal-durante-protesta-contra-proyecto-carretero-en-nopala/",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 20.11,
-          "lon": -98.73
-        }
-      ]
-    },
     {
       "tipo": "cierre_parcial",
       "color": "amarillo",
@@ -71,19 +46,5 @@
       ]
     }
   ],
-  "para_mapa": [
-    {
-      "id": "fd318fbe",
-      "tipo": "bloqueo",
-      "ruta": "Queman patrulla municipal durante protesta contra proyecto carretero en Nopala…",
-      "descripcion": "Queman patrulla municipal durante protesta contra proyecto carretero en Nopala. La inconformidad en Nopala de Villagrán escaló este sábado durante una jornada de protesta contra el proyecto de construcción de una autopista The post Queman patrulla municipal durante protesta contra proyecto carretero en Nopala appeared first on Quadratin Hidalgo.",
-      "fecha": "15 agosto 2026 · 17:14 CST",
-      "fuente": "Quadratin Hidalgo",
-      "url": "https://hidalgo.quadratin.com.mx/municipios/queman-patrulla-municipal-durante-protesta-contra-proyecto-carretero-en-nopala/",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 20.11,
-      "lon": -98.73
-    }
-  ]
+  "para_mapa": []
 }
