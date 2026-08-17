@@ -1,10 +1,9 @@
 {
-  "ultima_actualizacion": "2026-08-17T03:55:50.526237-06:00",
-  "ultima_actualizacion_legible": "17 de agosto de 2026 · 03:55 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-08-17T04:22:48.624544-06:00",
+  "ultima_actualizacion_legible": "17 de agosto de 2026 · 04:22 CST",
+  "total": 1,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Medios regionales",
     "Quadratin + regionales"
   ],
   "grupos": [
@@ -15,22 +14,6 @@
       "label": "CIERRE PARCIAL / ACCIDENTES",
       "col2": true,
       "alertas": [
-        {
-          "id": "0f0aa9be",
-          "tipo": "cierre_parcial",
-          "ruta": "autopista Guadalajara-Colima",
-          "descripcion": "Confirman un fallecido tras accidente en la autopista Guadalajara-Colima. Un tráiler quedó completamente consumido por las llamas, el cual llevaba un contenedor con, aparentemente, tambos de mil litros de aceite",
-          "recomendacion": "",
-          "fecha": "16 agosto 2026 · 21:36 CST",
-          "fecha_iso": "2026-08-16T21:36:00-06:00",
-          "fuente": "El Informador Jalisco",
-          "url": "https://www.informador.mx/jalisco/autopista-guadalajara-colima-confirman-un-fallecido-tras-accidente-20260816-0094.html",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.24,
-          "lon": -103.72
-        },
         {
           "id": "1787b2c7",
           "tipo": "cierre_parcial",
@@ -48,19 +31,5 @@
       ]
     }
   ],
-  "para_mapa": [
-    {
-      "id": "0f0aa9be",
-      "tipo": "cierre_parcial",
-      "ruta": "autopista Guadalajara-Colima",
-      "descripcion": "Confirman un fallecido tras accidente en la autopista Guadalajara-Colima. Un tráiler quedó completamente consumido por las llamas, el cual llevaba un contenedor con, aparentemente, tambos de mil litros de aceite",
-      "fecha": "16 agosto 2026 · 21:36 CST",
-      "fuente": "El Informador Jalisco",
-      "url": "https://www.informador.mx/jalisco/autopista-guadalajara-colima-confirman-un-fallecido-tras-accidente-20260816-0094.html",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.24,
-      "lon": -103.72
-    }
-  ]
+  "para_mapa": []
 }
