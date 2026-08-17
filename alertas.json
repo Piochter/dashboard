@@ -1,12 +1,119 @@
 {
-  "ultima_actualizacion": "2026-08-17T07:14:31.330965-06:00",
-  "ultima_actualizacion_legible": "17 de agosto de 2026 · 07:14 CST",
-  "total": 0,
+  "ultima_actualizacion": "2026-08-17T07:53:38.344199-06:00",
+  "ultima_actualizacion_legible": "17 de agosto de 2026 · 07:53 CST",
+  "total": 4,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News"
+    "Google News",
+    "Medios nacionales",
+    "Quadratin + regionales"
   ],
-  "grupos": [],
-  "para_mapa": [],
-  "nota": "Sin alertas activas en la ventana de tiempo configurada."
+  "grupos": [
+    {
+      "tipo": "bloqueo",
+      "color": "rojo",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "6b8dd180",
+          "tipo": "bloqueo",
+          "ruta": "Exigen a gobierno de Texcoco obras y toman caseta Peñón-Texcoco…",
+          "descripcion": "Exigen a gobierno de Texcoco obras y toman caseta Peñón-Texcoco. TEXCOCO, Edomex., 16 de agosto de 2026.-Pobladores de la colonia Guadalupe Victoria tomaron esta noche la caseta de la autopista Peñón-Texcoco, con dirección a Texcoco, como medida de protesta ante la falta de atención a sus demandas por parte del Ayuntamiento de Texcoco, encabezado por Nazario Gutiérrez. Los manifestantes levantaron las plumas de la caseta […]",
+          "recomendacion": "",
+          "fecha": "17 agosto 2026 · 07:45 CST",
+          "fecha_iso": "2026-08-17T07:45:00-06:00",
+          "fuente": "Quadratin EdoMex",
+          "url": "https://edomex.quadratin.com.mx/exigen-a-gobierno-de-texcoco-obras-y-toman-caseta-penon-texcoco/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 19.35,
+          "lon": -99.7
+        },
+        {
+          "id": "f29cc0bb",
+          "tipo": "bloqueo",
+          "ruta": "Bloqueos carreteras HOY 17 de agosto: Autopistas cerradas en México,…",
+          "descripcion": "Bloqueos carreteras HOY 17 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 17 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
+          "recomendacion": "",
+          "fecha": "17 agosto 2026 · 07:08 CST",
+          "fecha_iso": "2026-08-17T07:08:00-06:00",
+          "fuente": "Eje Central",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNY2FTZ2NrMi1MNVhzNGwtLUtPWWxNWmhsUko1NmlKSnFFYTlWTngwTFFFVjJ2UlpsUlh1Qzc5OGNrUGJobWF4QlFCa2JVRDEzTzJEUnFrcjd3blQyLVExUy13VlFzQUE3Q2pKLS1kMk0wRE9KSjUxbFh3UFhyRzc0cVVMcm0xSzMxeWVDNjZSNUM0VkxoY3BDUnQ1NUdUeG9McXAybTJoaDBiYU9PdW9pQ2dPY0xSaFZNZnJWWG92MFU5ZVBHanh1T1FreHoxVjBhY1FMM1FYU0Fwd2FTaUJlcGFKWnZ6Mkc4?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        }
+      ]
+    },
+    {
+      "tipo": "cierre_parcial",
+      "color": "amarillo",
+      "icono": "🟡",
+      "label": "CIERRE PARCIAL / ACCIDENTES",
+      "col2": true,
+      "alertas": [
+        {
+          "id": "e4ef7d51",
+          "tipo": "cierre_parcial",
+          "ruta": "Choca ADO y muere conductor de automóvil en Oaxaca…",
+          "descripcion": "Choca ADO y muere conductor de automóvil en Oaxaca. Dos personas resultaron lesionadas en el choque ocurrido en la supercarretera a la Costa",
+          "recomendacion": "",
+          "fecha": "17 agosto 2026 · 07:47 CST",
+          "fecha_iso": "2026-08-17T07:47:00-06:00",
+          "fuente": "Quadratin Oaxaca",
+          "url": "https://oaxaca.quadratin.com.mx/choca-ado-y-muere-conductor-de-automovil-en-oaxaca/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 17.06,
+          "lon": -96.72
+        },
+        {
+          "id": "ab7de94d",
+          "tipo": "cierre_parcial",
+          "ruta": "Vigomex busca reducir el impacto de accidentes en flotas de…",
+          "descripcion": "Vigomex busca reducir el impacto de accidentes en flotas de autotransporte. ALLENDE, NL.– Un impacto frontal puede significar más que llevar una unidad al taller. Mientras se reparan componentes como defensas, parrillas, refuerzos o cofres, el vehículo permanece fuera de operación, un escenario que ha llevado a los transportistas a buscar alternativas para disminuir los daños y mantener la disponibilidad de sus flotas. Bajo esa lógica, […]",
+          "recomendacion": "",
+          "fecha": "17 agosto 2026 · 07:45 CST",
+          "fecha_iso": "2026-08-17T07:45:00-06:00",
+          "fuente": "T21 Transporte",
+          "url": "https://t21.com.mx/vigomex-busca-reducir-el-impacto-de-accidentes-en-flotas-de-autotransporte/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        }
+      ]
+    }
+  ],
+  "para_mapa": [
+    {
+      "id": "e4ef7d51",
+      "tipo": "cierre_parcial",
+      "ruta": "Choca ADO y muere conductor de automóvil en Oaxaca…",
+      "descripcion": "Choca ADO y muere conductor de automóvil en Oaxaca. Dos personas resultaron lesionadas en el choque ocurrido en la supercarretera a la Costa",
+      "fecha": "17 agosto 2026 · 07:47 CST",
+      "fuente": "Quadratin Oaxaca",
+      "url": "https://oaxaca.quadratin.com.mx/choca-ado-y-muere-conductor-de-automovil-en-oaxaca/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 17.06,
+      "lon": -96.72
+    },
+    {
+      "id": "6b8dd180",
+      "tipo": "bloqueo",
+      "ruta": "Exigen a gobierno de Texcoco obras y toman caseta Peñón-Texcoco…",
+      "descripcion": "Exigen a gobierno de Texcoco obras y toman caseta Peñón-Texcoco. TEXCOCO, Edomex., 16 de agosto de 2026.-Pobladores de la colonia Guadalupe Victoria tomaron esta noche la caseta de la autopista Peñón-Texcoco, con dirección a Texcoco, como medida de protesta ante la falta de atención a sus demandas por parte del Ayuntamiento de Texcoco, encabezado por Nazario Gutiérrez. Los manifestantes levantaron las plumas de la caseta […]",
+      "fecha": "17 agosto 2026 · 07:45 CST",
+      "fuente": "Quadratin EdoMex",
+      "url": "https://edomex.quadratin.com.mx/exigen-a-gobierno-de-texcoco-obras-y-toman-caseta-penon-texcoco/",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 19.35,
+      "lon": -99.7
+    }
+  ]
 }
