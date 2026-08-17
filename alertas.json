@@ -1,9 +1,10 @@
 {
-  "ultima_actualizacion": "2026-08-17T17:26:41.708645-06:00",
-  "ultima_actualizacion_legible": "17 de agosto de 2026 · 17:26 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-08-17T17:44:20.186173-06:00",
+  "ultima_actualizacion_legible": "17 de agosto de 2026 · 17:44 CST",
+  "total": 6,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
+    "Google News",
     "Medios nacionales",
     "Quadratin + regionales",
     "Telegram"
@@ -17,6 +18,22 @@
       "col2": false,
       "alertas": [
         {
+          "id": "6fc43de9",
+          "tipo": "bloqueo",
+          "ruta": "Amenazan a manifestantes en caseta El Dorado a cuatro días…",
+          "descripcion": "Amenazan a manifestantes en caseta El Dorado a cuatro días de protesta. Advierten con acciones legales a familiares de mexiquenses desaparecidos en Mazatlán que mantienen tomada la caseta El Dorado",
+          "recomendacion": "",
+          "fecha": "17 agosto 2026 · 17:30 CST",
+          "fecha_iso": "2026-08-17T17:30:00-06:00",
+          "fuente": "Quadratin EdoMex",
+          "url": "https://edomex.quadratin.com.mx/amenazan-a-manifestantes-en-caseta-el-dorado-a-cuatro-dias-de-protesta/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 23.24,
+          "lon": -106.41
+        },
+        {
           "id": "02f968a9",
           "tipo": "bloqueo",
           "ruta": "Protesta en Caseta de El Dorado suma 72 horas👇 [https://lajornadaestadodemexico.com/protesta-en-caseta-de-el-dorado-suma-72-horas/](https://lajornadaestadodemexico.com/protesta-en-caseta-de-el-dorado-suma-72-horas/)…",
@@ -26,6 +43,20 @@
           "fecha_iso": "2026-08-17T14:27:00-06:00",
           "fuente": "Telegram @jornadaedomex",
           "url": "https://t.me/jornadaedomex/11756",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
+        {
+          "id": "f29cc0bb",
+          "tipo": "bloqueo",
+          "ruta": "Bloqueos carreteras HOY 17 de agosto: Autopistas cerradas en México,…",
+          "descripcion": "Bloqueos carreteras HOY 17 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 17 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
+          "recomendacion": "",
+          "fecha": "17 agosto 2026 · 07:08 CST",
+          "fecha_iso": "2026-08-17T07:08:00-06:00",
+          "fuente": "Eje Central",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNY2FTZ2NrMi1MNVhzNGwtLUtPWWxNWmhsUko1NmlKSnFFYTlWTngwTFFFVjJ2UlpsUlh1Qzc5OGNrUGJobWF4QlFCa2JVRDEzTzJEUnFrcjd3blQyLVExUy13VlFzQUE3Q2pKLS1kMk0wRE9KSjUxbFh3UFhyRzc0cVVMcm0xSzMxeWVDNjZSNUM0VkxoY3BDUnQ1NUdUeG9McXAybTJoaDBiYU9PdW9pQ2dPY0xSaFZNZnJWWG92MFU5ZVBHanh1T1FreHoxVjBhY1FMM1FYU0Fwd2FTaUJlcGFKWnZ6Mkc4?oc=5",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO"
@@ -39,6 +70,22 @@
       "label": "CIERRE PARCIAL / ACCIDENTES",
       "col2": true,
       "alertas": [
+        {
+          "id": "0e538d13",
+          "tipo": "cierre_parcial",
+          "ruta": "Accidente en la México-Toluca Hoy: Esto Pasó con Tráiler en…",
+          "descripcion": "Accidente en la México-Toluca Hoy: Esto Pasó con Tráiler en Ocoyoacac - N+. Accidente en la México-Toluca Hoy: Esto Pasó con Tráiler en Ocoyoacac N+",
+          "recomendacion": "",
+          "fecha": "17 agosto 2026 · 13:00 CST",
+          "fecha_iso": "2026-08-17T13:00:00-06:00",
+          "fuente": "N+",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWk5tbUotX0NQaVQ3MnhJS2lIZUZGSVk2NW1WWXh3RGRTVmZDdjNzeHBsdnl2VFVqbGZ6dGxVTjdhcWEyNGhTYUVCY2kybjY4dXBiSFIzQm9NaXNPdFBydWRLR01KbTFZc0VNWmgzNzF3ZV9YWm1tWFE1UzNSam9QUG9NQ2tPa0NXb3dNT0htTDRkUlJlZ1hId1g3bmR0a2Z2OU1yWGRPUTNVdUhtY0ZjWVNTYzVZXzJOenc?oc=5",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 19.29,
+          "lon": -99.66
+        },
         {
           "id": "019495fc",
           "tipo": "cierre_parcial",
@@ -73,6 +120,32 @@
     }
   ],
   "para_mapa": [
+    {
+      "id": "6fc43de9",
+      "tipo": "bloqueo",
+      "ruta": "Amenazan a manifestantes en caseta El Dorado a cuatro días…",
+      "descripcion": "Amenazan a manifestantes en caseta El Dorado a cuatro días de protesta. Advierten con acciones legales a familiares de mexiquenses desaparecidos en Mazatlán que mantienen tomada la caseta El Dorado",
+      "fecha": "17 agosto 2026 · 17:30 CST",
+      "fuente": "Quadratin EdoMex",
+      "url": "https://edomex.quadratin.com.mx/amenazan-a-manifestantes-en-caseta-el-dorado-a-cuatro-dias-de-protesta/",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 23.24,
+      "lon": -106.41
+    },
+    {
+      "id": "0e538d13",
+      "tipo": "cierre_parcial",
+      "ruta": "Accidente en la México-Toluca Hoy: Esto Pasó con Tráiler en…",
+      "descripcion": "Accidente en la México-Toluca Hoy: Esto Pasó con Tráiler en Ocoyoacac - N+. Accidente en la México-Toluca Hoy: Esto Pasó con Tráiler en Ocoyoacac N+",
+      "fecha": "17 agosto 2026 · 13:00 CST",
+      "fuente": "N+",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWk5tbUotX0NQaVQ3MnhJS2lIZUZGSVk2NW1WWXh3RGRTVmZDdjNzeHBsdnl2VFVqbGZ6dGxVTjdhcWEyNGhTYUVCY2kybjY4dXBiSFIzQm9NaXNPdFBydWRLR01KbTFZc0VNWmgzNzF3ZV9YWm1tWFE1UzNSam9QUG9NQ2tPa0NXb3dNT0htTDRkUlJlZ1hId1g3bmR0a2Z2OU1yWGRPUTNVdUhtY0ZjWVNTYzVZXzJOenc?oc=5",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 19.29,
+      "lon": -99.66
+    },
     {
       "id": "019495fc",
       "tipo": "cierre_parcial",
