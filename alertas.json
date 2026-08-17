@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-08-17T00:45:12.560411-06:00",
-  "ultima_actualizacion_legible": "17 de agosto de 2026 · 00:45 CST",
-  "total": 4,
+  "ultima_actualizacion": "2026-08-17T01:39:30.720151-06:00",
+  "ultima_actualizacion_legible": "17 de agosto de 2026 · 01:39 CST",
+  "total": 3,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Medios regionales",
@@ -46,22 +46,6 @@
           "badge_txt": "CIERRE PARCIAL"
         },
         {
-          "id": "eb3f0056",
-          "tipo": "cierre_parcial",
-          "ruta": "Alertan por accidente en la autopista Colima-Guadalajara; hay cierre en…",
-          "descripcion": "Alertan por accidente en la autopista Colima-Guadalajara; hay cierre en la circulación. Autoridades de Jalisco atendieron el percance registrado en el Puente de Beltrán y recomendaron evitar la zona y utilizar rutas alternas",
-          "recomendacion": "evitar la zona y utilizar rutas alternas",
-          "fecha": "16 agosto 2026 · 16:10 CST",
-          "fecha_iso": "2026-08-16T16:10:00-06:00",
-          "fuente": "El Informador Jalisco",
-          "url": "https://www.informador.mx/jalisco/autopista-colima-guadalajara-accidente-provoca-cierre-de-circulacion-20260816-0070.html",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 20.66,
-          "lon": -103.35
-        },
-        {
           "id": "0e1a4182",
           "tipo": "cierre_parcial",
           "ruta": "Detienen en Veracruz a tres ligados a red de robos…",
@@ -93,19 +77,6 @@
       "badge_txt": "CIERRE PARCIAL",
       "lat": 19.24,
       "lon": -103.72
-    },
-    {
-      "id": "eb3f0056",
-      "tipo": "cierre_parcial",
-      "ruta": "Alertan por accidente en la autopista Colima-Guadalajara; hay cierre en…",
-      "descripcion": "Alertan por accidente en la autopista Colima-Guadalajara; hay cierre en la circulación. Autoridades de Jalisco atendieron el percance registrado en el Puente de Beltrán y recomendaron evitar la zona y utilizar rutas alternas",
-      "fecha": "16 agosto 2026 · 16:10 CST",
-      "fuente": "El Informador Jalisco",
-      "url": "https://www.informador.mx/jalisco/autopista-colima-guadalajara-accidente-provoca-cierre-de-circulacion-20260816-0070.html",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 20.66,
-      "lon": -103.35
     },
     {
       "id": "0e1a4182",
