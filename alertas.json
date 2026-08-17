@@ -1,12 +1,11 @@
 {
-  "ultima_actualizacion": "2026-08-16T22:43:48.777401-06:00",
-  "ultima_actualizacion_legible": "16 de agosto de 2026 · 22:43 CST",
-  "total": 5,
+  "ultima_actualizacion": "2026-08-16T23:21:20.360303-06:00",
+  "ultima_actualizacion_legible": "16 de agosto de 2026 · 23:21 CST",
+  "total": 4,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Medios regionales",
-    "Quadratin + regionales",
-    "Telegram"
+    "Quadratin + regionales"
   ],
   "grupos": [
     {
@@ -77,22 +76,6 @@
           "badge_txt": "CIERRE PARCIAL",
           "lat": 19.18,
           "lon": -96.14
-        },
-        {
-          "id": "ca5e02fa",
-          "tipo": "cierre_parcial",
-          "ruta": "📢Accidente de motocicletas deja varios lesionados en la #México-#Pachuca 😱…",
-          "descripcion": "📢Accidente de motocicletas deja varios lesionados en la #México-#Pachuca 😱 [ #VIDEO 👇]\n\nhttps://lajornadaestadodemexico.com/accidente-de-motocicletas-deja-varios-lesionados-en-la-mexico-pachuca/",
-          "recomendacion": "",
-          "fecha": "16 agosto 2026 · 10:49 CST",
-          "fecha_iso": "2026-08-16T10:49:00-06:00",
-          "fuente": "Telegram @jornadaedomex",
-          "url": "https://t.me/jornadaedomex/11746",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 20.12,
-          "lon": -98.73
         }
       ]
     }
@@ -136,19 +119,6 @@
       "badge_txt": "CIERRE PARCIAL",
       "lat": 19.18,
       "lon": -96.14
-    },
-    {
-      "id": "ca5e02fa",
-      "tipo": "cierre_parcial",
-      "ruta": "📢Accidente de motocicletas deja varios lesionados en la #México-#Pachuca 😱…",
-      "descripcion": "📢Accidente de motocicletas deja varios lesionados en la #México-#Pachuca 😱 [ #VIDEO 👇]\n\nhttps://lajornadaestadodemexico.com/accidente-de-motocicletas-deja-varios-lesionados-en-la-mexico-pachuca/",
-      "fecha": "16 agosto 2026 · 10:49 CST",
-      "fuente": "Telegram @jornadaedomex",
-      "url": "https://t.me/jornadaedomex/11746",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 20.12,
-      "lon": -98.73
     }
   ]
 }
