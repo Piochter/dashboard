@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-08-17T11:18:13.308210-06:00",
-  "ultima_actualizacion_legible": "17 de agosto de 2026 · 11:18 CST",
-  "total": 4,
+  "ultima_actualizacion": "2026-08-17T11:52:25.023825-06:00",
+  "ultima_actualizacion_legible": "17 de agosto de 2026 · 11:52 CST",
+  "total": 3,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
@@ -16,22 +16,6 @@
       "label": "BLOQUEOS / MANIFESTACIONES",
       "col2": false,
       "alertas": [
-        {
-          "id": "6b8dd180",
-          "tipo": "bloqueo",
-          "ruta": "Exigen a gobierno de Texcoco obras y toman caseta Peñón-Texcoco…",
-          "descripcion": "Exigen a gobierno de Texcoco obras y toman caseta Peñón-Texcoco. TEXCOCO, Edomex., 16 de agosto de 2026.-Pobladores de la colonia Guadalupe Victoria tomaron esta noche la caseta de la autopista Peñón-Texcoco, con dirección a Texcoco, como medida de protesta ante la falta de atención a sus demandas por parte del Ayuntamiento de Texcoco, encabezado por Nazario Gutiérrez. Los manifestantes levantaron las plumas de la caseta […]",
-          "recomendacion": "",
-          "fecha": "17 agosto 2026 · 07:45 CST",
-          "fecha_iso": "2026-08-17T07:45:00-06:00",
-          "fuente": "Quadratin EdoMex",
-          "url": "https://edomex.quadratin.com.mx/exigen-a-gobierno-de-texcoco-obras-y-toman-caseta-penon-texcoco/",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 19.35,
-          "lon": -99.7
-        },
         {
           "id": "f29cc0bb",
           "tipo": "bloqueo",
@@ -101,19 +85,6 @@
       "badge_txt": "CIERRE PARCIAL",
       "lat": 19.8,
       "lon": -99.1
-    },
-    {
-      "id": "6b8dd180",
-      "tipo": "bloqueo",
-      "ruta": "Exigen a gobierno de Texcoco obras y toman caseta Peñón-Texcoco…",
-      "descripcion": "Exigen a gobierno de Texcoco obras y toman caseta Peñón-Texcoco. TEXCOCO, Edomex., 16 de agosto de 2026.-Pobladores de la colonia Guadalupe Victoria tomaron esta noche la caseta de la autopista Peñón-Texcoco, con dirección a Texcoco, como medida de protesta ante la falta de atención a sus demandas por parte del Ayuntamiento de Texcoco, encabezado por Nazario Gutiérrez. Los manifestantes levantaron las plumas de la caseta […]",
-      "fecha": "17 agosto 2026 · 07:45 CST",
-      "fuente": "Quadratin EdoMex",
-      "url": "https://edomex.quadratin.com.mx/exigen-a-gobierno-de-texcoco-obras-y-toman-caseta-penon-texcoco/",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 19.35,
-      "lon": -99.7
     }
   ]
 }
