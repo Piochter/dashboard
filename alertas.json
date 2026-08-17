@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-08-16T21:11:48.901241-06:00",
-  "ultima_actualizacion_legible": "16 de agosto de 2026 · 21:11 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-08-16T22:02:52.701478-06:00",
+  "ultima_actualizacion_legible": "16 de agosto de 2026 · 22:02 CST",
+  "total": 5,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Medios regionales",
@@ -16,6 +16,22 @@
       "label": "CIERRE PARCIAL / ACCIDENTES",
       "col2": true,
       "alertas": [
+        {
+          "id": "0f0aa9be",
+          "tipo": "cierre_parcial",
+          "ruta": "autopista Guadalajara-Colima",
+          "descripcion": "Confirman un fallecido tras accidente en la autopista Guadalajara-Colima. Un tráiler quedó completamente consumido por las llamas, el cual llevaba un contenedor con, aparentemente, tambos de mil litros de aceite",
+          "recomendacion": "",
+          "fecha": "16 agosto 2026 · 21:36 CST",
+          "fecha_iso": "2026-08-16T21:36:00-06:00",
+          "fuente": "El Informador Jalisco",
+          "url": "https://www.informador.mx/jalisco/autopista-guadalajara-colima-confirman-un-fallecido-tras-accidente-20260816-0094.html",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 19.24,
+          "lon": -103.72
+        },
         {
           "id": "1787b2c7",
           "tipo": "cierre_parcial",
@@ -47,6 +63,22 @@
           "lon": -103.35
         },
         {
+          "id": "0e1a4182",
+          "tipo": "cierre_parcial",
+          "ruta": "Detienen en Veracruz a tres ligados a red de robos…",
+          "descripcion": "Detienen en Veracruz a tres ligados a red de robos y secuestro en Puebla. Operativo conjunto captura a grupo criminal en la carretera Minatitlán-Córdoba",
+          "recomendacion": "",
+          "fecha": "16 agosto 2026 · 14:34 CST",
+          "fecha_iso": "2026-08-16T14:34:00-06:00",
+          "fuente": "Quadratin Puebla",
+          "url": "https://puebla.quadratin.com.mx/sucesos/detienen-en-veracruz-a-tres-ligados-a-red-de-robos-y-secuestro-en-puebla/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 19.18,
+          "lon": -96.14
+        },
+        {
           "id": "ca5e02fa",
           "tipo": "cierre_parcial",
           "ruta": "📢Accidente de motocicletas deja varios lesionados en la #México-#Pachuca 😱…",
@@ -67,6 +99,19 @@
   ],
   "para_mapa": [
     {
+      "id": "0f0aa9be",
+      "tipo": "cierre_parcial",
+      "ruta": "autopista Guadalajara-Colima",
+      "descripcion": "Confirman un fallecido tras accidente en la autopista Guadalajara-Colima. Un tráiler quedó completamente consumido por las llamas, el cual llevaba un contenedor con, aparentemente, tambos de mil litros de aceite",
+      "fecha": "16 agosto 2026 · 21:36 CST",
+      "fuente": "El Informador Jalisco",
+      "url": "https://www.informador.mx/jalisco/autopista-guadalajara-colima-confirman-un-fallecido-tras-accidente-20260816-0094.html",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 19.24,
+      "lon": -103.72
+    },
+    {
       "id": "eb3f0056",
       "tipo": "cierre_parcial",
       "ruta": "Alertan por accidente en la autopista Colima-Guadalajara; hay cierre en…",
@@ -78,6 +123,19 @@
       "badge_txt": "CIERRE PARCIAL",
       "lat": 20.66,
       "lon": -103.35
+    },
+    {
+      "id": "0e1a4182",
+      "tipo": "cierre_parcial",
+      "ruta": "Detienen en Veracruz a tres ligados a red de robos…",
+      "descripcion": "Detienen en Veracruz a tres ligados a red de robos y secuestro en Puebla. Operativo conjunto captura a grupo criminal en la carretera Minatitlán-Córdoba",
+      "fecha": "16 agosto 2026 · 14:34 CST",
+      "fuente": "Quadratin Puebla",
+      "url": "https://puebla.quadratin.com.mx/sucesos/detienen-en-veracruz-a-tres-ligados-a-red-de-robos-y-secuestro-en-puebla/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 19.18,
+      "lon": -96.14
     },
     {
       "id": "ca5e02fa",
