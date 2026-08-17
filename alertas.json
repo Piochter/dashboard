@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-08-16T17:55:32.698469-06:00",
-  "ultima_actualizacion_legible": "16 de agosto de 2026 · 17:55 CST",
-  "total": 6,
+  "ultima_actualizacion": "2026-08-16T18:41:07.006939-06:00",
+  "ultima_actualizacion_legible": "16 de agosto de 2026 · 18:41 CST",
+  "total": 5,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
@@ -18,14 +18,14 @@
       "col2": false,
       "alertas": [
         {
-          "id": "177a550a",
+          "id": "86057f49",
           "tipo": "bloqueo",
           "ruta": "Bloqueos carreteras HOY 16 de agosto: Autopistas cerradas en México,…",
-          "descripcion": "Bloqueos carreteras HOY 16 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - ejecentral.com.mx. Bloqueos carreteras HOY 16 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE ejecentral.com.mx",
+          "descripcion": "Bloqueos carreteras HOY 16 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 16 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
           "recomendacion": "",
           "fecha": "16 agosto 2026 · 08:48 CST",
           "fecha_iso": "2026-08-16T08:48:00-06:00",
-          "fuente": "ejecentral.com.mx",
+          "fuente": "Eje Central",
           "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOa1hRUFhieXJNTE16M095YjlhVE5WdHZlWW83VkNVVHJaZi1KcUJYZmxRcG1KaFRuVlNoTEFpZF90UXQxNEFZNjVkZTVzNFJZa2NvYklhVngzeklPclRKMmtEOFpqcmF0cjd3UVczc2hJMmlWdlJpbWhCTzgzajd3cTBHMkFoUVI0c1hXandRUU5jdm1ZVk9LdXZHSGJtOW1NamVab2JpdW1MMmx1ZTV4cWhWekkyN0Itd0Y2QXZKY3FCTnpRUjJRYXRqS2NkNFl0Ymo5Qms1RjR6dVhmSUNCUVlsb25qdGN4?oc=5",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
@@ -69,22 +69,6 @@
           "badge_txt": "CIERRE PARCIAL",
           "lat": 20.66,
           "lon": -103.35
-        },
-        {
-          "id": "7e1ce0ef",
-          "tipo": "cierre_parcial",
-          "ruta": "Deja choque de motocicletas cinco lesionados en la México-Pachuca…",
-          "descripcion": "Deja choque de motocicletas cinco lesionados en la México-Pachuca. El accidente ocurrió a la altura de Santa Clara y San Pedro Xalostoc, en Ecatepec.",
-          "recomendacion": "",
-          "fecha": "16 agosto 2026 · 13:30 CST",
-          "fecha_iso": "2026-08-16T13:30:00-06:00",
-          "fuente": "Quadratin EdoMex",
-          "url": "https://edomex.quadratin.com.mx/deja-choque-de-motocicletas-cinco-lesionados-en-la-mexico-pachuca/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 20.12,
-          "lon": -98.73
         },
         {
           "id": "e8cce0bc",
@@ -132,19 +116,6 @@
       "badge_txt": "CIERRE PARCIAL",
       "lat": 20.66,
       "lon": -103.35
-    },
-    {
-      "id": "7e1ce0ef",
-      "tipo": "cierre_parcial",
-      "ruta": "Deja choque de motocicletas cinco lesionados en la México-Pachuca…",
-      "descripcion": "Deja choque de motocicletas cinco lesionados en la México-Pachuca. El accidente ocurrió a la altura de Santa Clara y San Pedro Xalostoc, en Ecatepec.",
-      "fecha": "16 agosto 2026 · 13:30 CST",
-      "fuente": "Quadratin EdoMex",
-      "url": "https://edomex.quadratin.com.mx/deja-choque-de-motocicletas-cinco-lesionados-en-la-mexico-pachuca/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 20.12,
-      "lon": -98.73
     },
     {
       "id": "ca5e02fa",
