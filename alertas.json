@@ -1,10 +1,9 @@
 {
-  "ultima_actualizacion": "2026-08-17T16:59:57.761774-06:00",
-  "ultima_actualizacion_legible": "17 de agosto de 2026 · 16:59 CST",
-  "total": 6,
+  "ultima_actualizacion": "2026-08-17T17:26:41.708645-06:00",
+  "ultima_actualizacion_legible": "17 de agosto de 2026 · 17:26 CST",
+  "total": 3,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News",
     "Medios nacionales",
     "Quadratin + regionales",
     "Telegram"
@@ -30,34 +29,6 @@
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO"
-        },
-        {
-          "id": "af590c83",
-          "tipo": "bloqueo",
-          "ruta": "Bloquean la Vía Atlixcáyotl por la búsqueda de América Pamela…",
-          "descripcion": "Bloquean la Vía Atlixcáyotl por la búsqueda de América Pamela. Familiares protestan en la caseta para acelerar localización",
-          "recomendacion": "",
-          "fecha": "17 agosto 2026 · 13:01 CST",
-          "fecha_iso": "2026-08-17T13:01:00-06:00",
-          "fuente": "Quadratin Puebla",
-          "url": "https://puebla.quadratin.com.mx/justicia/bloquean-la-via-atlixcayotl-por-la-busqueda-de-america-pamela/",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        },
-        {
-          "id": "f29cc0bb",
-          "tipo": "bloqueo",
-          "ruta": "Bloqueos carreteras HOY 17 de agosto: Autopistas cerradas en México,…",
-          "descripcion": "Bloqueos carreteras HOY 17 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 17 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
-          "recomendacion": "",
-          "fecha": "17 agosto 2026 · 07:08 CST",
-          "fecha_iso": "2026-08-17T07:08:00-06:00",
-          "fuente": "Eje Central",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNY2FTZ2NrMi1MNVhzNGwtLUtPWWxNWmhsUko1NmlKSnFFYTlWTngwTFFFVjJ2UlpsUlh1Qzc5OGNrUGJobWF4QlFCa2JVRDEzTzJEUnFrcjd3blQyLVExUy13VlFzQUE3Q2pKLS1kMk0wRE9KSjUxbFh3UFhyRzc0cVVMcm0xSzMxeWVDNjZSNUM0VkxoY3BDUnQ1NUdUeG9McXAybTJoaDBiYU9PdW9pQ2dPY0xSaFZNZnJWWG92MFU5ZVBHanh1T1FreHoxVjBhY1FMM1FYU0Fwd2FTaUJlcGFKWnZ6Mkc4?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
         }
       ]
     },
@@ -68,22 +39,6 @@
       "label": "CIERRE PARCIAL / ACCIDENTES",
       "col2": true,
       "alertas": [
-        {
-          "id": "0e538d13",
-          "tipo": "cierre_parcial",
-          "ruta": "Accidente en la México-Toluca Hoy: Esto Pasó con Tráiler en…",
-          "descripcion": "Accidente en la México-Toluca Hoy: Esto Pasó con Tráiler en Ocoyoacac - N+. Accidente en la México-Toluca Hoy: Esto Pasó con Tráiler en Ocoyoacac N+",
-          "recomendacion": "",
-          "fecha": "17 agosto 2026 · 13:00 CST",
-          "fecha_iso": "2026-08-17T13:00:00-06:00",
-          "fuente": "N+",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWk5tbUotX0NQaVQ3MnhJS2lIZUZGSVk2NW1WWXh3RGRTVmZDdjNzeHBsdnl2VFVqbGZ6dGxVTjdhcWEyNGhTYUVCY2kybjY4dXBiSFIzQm9NaXNPdFBydWRLR01KbTFZc0VNWmgzNzF3ZV9YWm1tWFE1UzNSam9QUG9NQ2tPa0NXb3dNT0htTDRkUlJlZ1hId1g3bmR0a2Z2OU1yWGRPUTNVdUhtY0ZjWVNTYzVZXzJOenc?oc=5",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.29,
-          "lon": -99.66
-        },
         {
           "id": "019495fc",
           "tipo": "cierre_parcial",
@@ -118,19 +73,6 @@
     }
   ],
   "para_mapa": [
-    {
-      "id": "0e538d13",
-      "tipo": "cierre_parcial",
-      "ruta": "Accidente en la México-Toluca Hoy: Esto Pasó con Tráiler en…",
-      "descripcion": "Accidente en la México-Toluca Hoy: Esto Pasó con Tráiler en Ocoyoacac - N+. Accidente en la México-Toluca Hoy: Esto Pasó con Tráiler en Ocoyoacac N+",
-      "fecha": "17 agosto 2026 · 13:00 CST",
-      "fuente": "N+",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWk5tbUotX0NQaVQ3MnhJS2lIZUZGSVk2NW1WWXh3RGRTVmZDdjNzeHBsdnl2VFVqbGZ6dGxVTjdhcWEyNGhTYUVCY2kybjY4dXBiSFIzQm9NaXNPdFBydWRLR01KbTFZc0VNWmgzNzF3ZV9YWm1tWFE1UzNSam9QUG9NQ2tPa0NXb3dNT0htTDRkUlJlZ1hId1g3bmR0a2Z2OU1yWGRPUTNVdUhtY0ZjWVNTYzVZXzJOenc?oc=5",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.29,
-      "lon": -99.66
-    },
     {
       "id": "019495fc",
       "tipo": "cierre_parcial",
