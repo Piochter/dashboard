@@ -1,12 +1,13 @@
 {
-  "ultima_actualizacion": "2026-08-17T14:21:46.542777-06:00",
-  "ultima_actualizacion_legible": "17 de agosto de 2026 · 14:21 CST",
-  "total": 4,
+  "ultima_actualizacion": "2026-08-17T14:51:21.786575-06:00",
+  "ultima_actualizacion_legible": "17 de agosto de 2026 · 14:51 CST",
+  "total": 6,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
     "Medios nacionales",
-    "Quadratin + regionales"
+    "Quadratin + regionales",
+    "Telegram"
   ],
   "grupos": [
     {
@@ -16,6 +17,20 @@
       "label": "BLOQUEOS / MANIFESTACIONES",
       "col2": false,
       "alertas": [
+        {
+          "id": "02f968a9",
+          "tipo": "bloqueo",
+          "ruta": "Protesta en Caseta de El Dorado suma 72 horas👇 [https://lajornadaestadodemexico.com/protesta-en-caseta-de-el-dorado-suma-72-horas/](https://lajornadaestadodemexico.com/protesta-en-caseta-de-el-dorado-suma-72-horas/)…",
+          "descripcion": "Protesta en Caseta de El Dorado suma 72 horas👇\n [https://lajornadaestadodemexico.com/protesta-en-caseta-de-el-dorado-suma-72-horas/](https://lajornadaestadodemexico.com/protesta-en-caseta-de-el-dorado-suma-72-horas/)",
+          "recomendacion": "",
+          "fecha": "17 agosto 2026 · 14:27 CST",
+          "fecha_iso": "2026-08-17T14:27:00-06:00",
+          "fuente": "Telegram @jornadaedomex",
+          "url": "https://t.me/jornadaedomex/11756",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
         {
           "id": "af590c83",
           "tipo": "bloqueo",
@@ -54,6 +69,22 @@
       "col2": true,
       "alertas": [
         {
+          "id": "0e538d13",
+          "tipo": "cierre_parcial",
+          "ruta": "Accidente en la México-Toluca Hoy: Esto Pasó con Tráiler en…",
+          "descripcion": "Accidente en la México-Toluca Hoy: Esto Pasó con Tráiler en Ocoyoacac - N+. Accidente en la México-Toluca Hoy: Esto Pasó con Tráiler en Ocoyoacac N+",
+          "recomendacion": "",
+          "fecha": "17 agosto 2026 · 13:00 CST",
+          "fecha_iso": "2026-08-17T13:00:00-06:00",
+          "fuente": "N+",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWk5tbUotX0NQaVQ3MnhJS2lIZUZGSVk2NW1WWXh3RGRTVmZDdjNzeHBsdnl2VFVqbGZ6dGxVTjdhcWEyNGhTYUVCY2kybjY4dXBiSFIzQm9NaXNPdFBydWRLR01KbTFZc0VNWmgzNzF3ZV9YWm1tWFE1UzNSam9QUG9NQ2tPa0NXb3dNT0htTDRkUlJlZ1hId1g3bmR0a2Z2OU1yWGRPUTNVdUhtY0ZjWVNTYzVZXzJOenc?oc=5",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 19.29,
+          "lon": -99.66
+        },
+        {
           "id": "019495fc",
           "tipo": "cierre_parcial",
           "ruta": "Accidente en el Arco Norte deja una persona sin vida…",
@@ -87,6 +118,19 @@
     }
   ],
   "para_mapa": [
+    {
+      "id": "0e538d13",
+      "tipo": "cierre_parcial",
+      "ruta": "Accidente en la México-Toluca Hoy: Esto Pasó con Tráiler en…",
+      "descripcion": "Accidente en la México-Toluca Hoy: Esto Pasó con Tráiler en Ocoyoacac - N+. Accidente en la México-Toluca Hoy: Esto Pasó con Tráiler en Ocoyoacac N+",
+      "fecha": "17 agosto 2026 · 13:00 CST",
+      "fuente": "N+",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWk5tbUotX0NQaVQ3MnhJS2lIZUZGSVk2NW1WWXh3RGRTVmZDdjNzeHBsdnl2VFVqbGZ6dGxVTjdhcWEyNGhTYUVCY2kybjY4dXBiSFIzQm9NaXNPdFBydWRLR01KbTFZc0VNWmgzNzF3ZV9YWm1tWFE1UzNSam9QUG9NQ2tPa0NXb3dNT0htTDRkUlJlZ1hId1g3bmR0a2Z2OU1yWGRPUTNVdUhtY0ZjWVNTYzVZXzJOenc?oc=5",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 19.29,
+      "lon": -99.66
+    },
     {
       "id": "019495fc",
       "tipo": "cierre_parcial",
