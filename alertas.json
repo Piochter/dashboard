@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-08-17T12:23:59.474699-06:00",
-  "ultima_actualizacion_legible": "17 de agosto de 2026 · 12:23 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-08-17T13:06:54.306026-06:00",
+  "ultima_actualizacion_legible": "17 de agosto de 2026 · 13:06 CST",
+  "total": 4,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
@@ -16,6 +16,20 @@
       "label": "BLOQUEOS / MANIFESTACIONES",
       "col2": false,
       "alertas": [
+        {
+          "id": "af590c83",
+          "tipo": "bloqueo",
+          "ruta": "Bloquean la Vía Atlixcáyotl por la búsqueda de América Pamela…",
+          "descripcion": "Bloquean la Vía Atlixcáyotl por la búsqueda de América Pamela. Familiares protestan en la caseta para acelerar localización",
+          "recomendacion": "",
+          "fecha": "17 agosto 2026 · 13:01 CST",
+          "fecha_iso": "2026-08-17T13:01:00-06:00",
+          "fuente": "Quadratin Puebla",
+          "url": "https://puebla.quadratin.com.mx/justicia/bloquean-la-via-atlixcayotl-por-la-busqueda-de-america-pamela/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
         {
           "id": "f29cc0bb",
           "tipo": "bloqueo",
