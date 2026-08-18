@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-08-18T17:13:52.608915-06:00",
-  "ultima_actualizacion_legible": "18 de agosto de 2026 · 17:13 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-08-18T17:36:07.261738-06:00",
+  "ultima_actualizacion_legible": "18 de agosto de 2026 · 17:36 CST",
+  "total": 4,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
@@ -17,14 +17,30 @@
       "col2": false,
       "alertas": [
         {
-          "id": "3796c337",
+          "id": "abbd52a2",
+          "tipo": "bloqueo",
+          "ruta": "​Reclaman habitantes de Tula daños en puente histórico provocados por…",
+          "descripcion": "​Reclaman habitantes de Tula daños en puente histórico provocados por obra. ​Tula de Allende, Hgo., a 18 de agosto de 2026. Habitantes de las comunidades El Saabí, La Amistad y Zaragoza, junto con integrantes del Sistema Comunitario de Agua Potable del ejido de San Marcos, bloquearon este martes el libramiento que comunica con Zaragoza, exigiendo la rehabilitación inmediata del puente de La Barranca. ​Los manifestantes señalan […] The post ​Reclaman habitantes de Tula daños en puente histórico p",
+          "recomendacion": "",
+          "fecha": "18 agosto 2026 · 17:22 CST",
+          "fecha_iso": "2026-08-18T17:22:00-06:00",
+          "fuente": "Quadratin Hidalgo",
+          "url": "https://hidalgo.quadratin.com.mx/municipios/reclaman-habitantes-de-tula-danos-en-puente-historico-provocados-por-obra/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 20.11,
+          "lon": -98.73
+        },
+        {
+          "id": "63c69057",
           "tipo": "bloqueo",
           "ruta": "Bloqueos carreteras HOY 18 de agosto: Autopistas cerradas en México,…",
-          "descripcion": "Bloqueos carreteras HOY 18 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 18 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
+          "descripcion": "Bloqueos carreteras HOY 18 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - ejecentral.com.mx. Bloqueos carreteras HOY 18 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE ejecentral.com.mx",
           "recomendacion": "",
           "fecha": "18 agosto 2026 · 06:35 CST",
           "fecha_iso": "2026-08-18T06:35:00-06:00",
-          "fuente": "Eje Central",
+          "fuente": "ejecentral.com.mx",
           "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQMzlwSUFmYjRWQVR6OUIwUFpVcGpjRXNkNmdCblMtWlhlS0VDT0FfdHRjQlVfbm9NYzR5MGl6enVCd1ZzTzBOZWRCTjNuREt5Rl9sLVJTRFJGSVRaVzViUW9FWkpISFF4OHB0WVctb3NHVlhhTDRDYU9Ca3BLREdHQXkzclFubjlUdkFaSkhaUzJVbV8tZHQwTVZWNHFsbVY0dXp2el8xY3dxRmZ5NTBKX1ZwWDlCUzYxUXRNZVgwSi1SaThMZkRERmlJZ24xbkdYdlZZRDJTbmd0UjVuNEpmY25mYnNxeGxp?oc=5",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
@@ -75,6 +91,19 @@
     }
   ],
   "para_mapa": [
+    {
+      "id": "abbd52a2",
+      "tipo": "bloqueo",
+      "ruta": "​Reclaman habitantes de Tula daños en puente histórico provocados por…",
+      "descripcion": "​Reclaman habitantes de Tula daños en puente histórico provocados por obra. ​Tula de Allende, Hgo., a 18 de agosto de 2026. Habitantes de las comunidades El Saabí, La Amistad y Zaragoza, junto con integrantes del Sistema Comunitario de Agua Potable del ejido de San Marcos, bloquearon este martes el libramiento que comunica con Zaragoza, exigiendo la rehabilitación inmediata del puente de La Barranca. ​Los manifestantes señalan […] The post ​Reclaman habitantes de Tula daños en puente histórico p",
+      "fecha": "18 agosto 2026 · 17:22 CST",
+      "fuente": "Quadratin Hidalgo",
+      "url": "https://hidalgo.quadratin.com.mx/municipios/reclaman-habitantes-de-tula-danos-en-puente-historico-provocados-por-obra/",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 20.11,
+      "lon": -98.73
+    },
     {
       "id": "9c0f9cb9",
       "tipo": "cierre_parcial",
