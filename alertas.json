@@ -1,12 +1,75 @@
 {
-  "ultima_actualizacion": "2026-08-18T06:25:05.888511-06:00",
-  "ultima_actualizacion_legible": "18 de agosto de 2026 · 06:25 CST",
-  "total": 0,
+  "ultima_actualizacion": "2026-08-18T07:18:39.691370-06:00",
+  "ultima_actualizacion_legible": "18 de agosto de 2026 · 07:18 CST",
+  "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News"
+    "Google News",
+    "Telegram"
   ],
-  "grupos": [],
-  "para_mapa": [],
-  "nota": "Sin alertas activas en la ventana de tiempo configurada."
+  "grupos": [
+    {
+      "tipo": "bloqueo",
+      "color": "rojo",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "3796c337",
+          "tipo": "bloqueo",
+          "ruta": "Bloqueos carreteras HOY 18 de agosto: Autopistas cerradas en México,…",
+          "descripcion": "Bloqueos carreteras HOY 18 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 18 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
+          "recomendacion": "",
+          "fecha": "18 agosto 2026 · 06:35 CST",
+          "fecha_iso": "2026-08-18T06:35:00-06:00",
+          "fuente": "Eje Central",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQMzlwSUFmYjRWQVR6OUIwUFpVcGpjRXNkNmdCblMtWlhlS0VDT0FfdHRjQlVfbm9NYzR5MGl6enVCd1ZzTzBOZWRCTjNuREt5Rl9sLVJTRFJGSVRaVzViUW9FWkpISFF4OHB0WVctb3NHVlhhTDRDYU9Ca3BLREdHQXkzclFubjlUdkFaSkhaUzJVbV8tZHQwTVZWNHFsbVY0dXp2el8xY3dxRmZ5NTBKX1ZwWDlCUzYxUXRNZVgwSi1SaThMZkRERmlJZ24xbkdYdlZZRDJTbmd0UjVuNEpmY25mYnNxeGxp?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        }
+      ]
+    },
+    {
+      "tipo": "cierre_parcial",
+      "color": "amarillo",
+      "icono": "🟡",
+      "label": "CIERRE PARCIAL / ACCIDENTES",
+      "col2": true,
+      "alertas": [
+        {
+          "id": "ba85afb4",
+          "tipo": "cierre_parcial",
+          "ruta": "⚠️Cerrada totalmente la #Tenango-#Toluca tras accidente de tráiler 😱 https://lajornadaestadodemexico.com/cerrada-totalmente-la-tenango-toluca-tras-accidente/…",
+          "descripcion": "⚠️Cerrada totalmente la #Tenango-#Toluca tras accidente de tráiler 😱\n\nhttps://lajornadaestadodemexico.com/cerrada-totalmente-la-tenango-toluca-tras-accidente/",
+          "recomendacion": "",
+          "fecha": "18 agosto 2026 · 07:02 CST",
+          "fecha_iso": "2026-08-18T07:02:00-06:00",
+          "fuente": "Telegram @jornadaedomex",
+          "url": "https://t.me/jornadaedomex/11762",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 19.29,
+          "lon": -99.66
+        }
+      ]
+    }
+  ],
+  "para_mapa": [
+    {
+      "id": "ba85afb4",
+      "tipo": "cierre_parcial",
+      "ruta": "⚠️Cerrada totalmente la #Tenango-#Toluca tras accidente de tráiler 😱 https://lajornadaestadodemexico.com/cerrada-totalmente-la-tenango-toluca-tras-accidente/…",
+      "descripcion": "⚠️Cerrada totalmente la #Tenango-#Toluca tras accidente de tráiler 😱\n\nhttps://lajornadaestadodemexico.com/cerrada-totalmente-la-tenango-toluca-tras-accidente/",
+      "fecha": "18 agosto 2026 · 07:02 CST",
+      "fuente": "Telegram @jornadaedomex",
+      "url": "https://t.me/jornadaedomex/11762",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 19.29,
+      "lon": -99.66
+    }
+  ]
 }
