@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-08-17T22:34:11.075882-06:00",
-  "ultima_actualizacion_legible": "17 de agosto de 2026 · 22:34 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-08-17T23:07:04.146020-06:00",
+  "ultima_actualizacion_legible": "17 de agosto de 2026 · 23:07 CST",
+  "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
@@ -28,22 +28,6 @@
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO"
-        },
-        {
-          "id": "5a7d2b09",
-          "tipo": "bloqueo",
-          "ruta": "Tráfico Paralizado por Bloqueo de Transportistas sobre Carretera Federal de…",
-          "descripcion": "Tráfico Paralizado por Bloqueo de Transportistas sobre Carretera Federal de Puebla - N+. Tráfico Paralizado por Bloqueo de Transportistas sobre Carretera Federal de Puebla N+",
-          "recomendacion": "",
-          "fecha": "17 agosto 2026 · 11:01 CST",
-          "fecha_iso": "2026-08-17T11:01:00-06:00",
-          "fuente": "N+",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdzliQjZfRGdnZTdyYkg3YWxJSDl4ZE9oWWgzUkQ4aExXWVdlbHAwOVY3YktfcFRFRktFaUJPOFZEZEhmdTF2WWNuMzJrQWtUc2FidG9YVE5TakFmNWxBdUlLUVF5MGdxQmFhenZCblBRYUl2N01jQzhQSGw3VlNNTVNVYVRHWnlaWGhydTd0Q3Q0Y0tNVkNuMUpaS08wbXc3U3FFa0ZKbmVPN1dVRDRLQS1RaTIwa29GUlpLZ1pkUzVZRlU?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 19.04,
-          "lon": -98.2
         }
       ]
     },
@@ -86,19 +70,6 @@
       "badge_txt": "CIERRE PARCIAL",
       "lat": 19.29,
       "lon": -99.66
-    },
-    {
-      "id": "5a7d2b09",
-      "tipo": "bloqueo",
-      "ruta": "Tráfico Paralizado por Bloqueo de Transportistas sobre Carretera Federal de…",
-      "descripcion": "Tráfico Paralizado por Bloqueo de Transportistas sobre Carretera Federal de Puebla - N+. Tráfico Paralizado por Bloqueo de Transportistas sobre Carretera Federal de Puebla N+",
-      "fecha": "17 agosto 2026 · 11:01 CST",
-      "fuente": "N+",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdzliQjZfRGdnZTdyYkg3YWxJSDl4ZE9oWWgzUkQ4aExXWVdlbHAwOVY3YktfcFRFRktFaUJPOFZEZEhmdTF2WWNuMzJrQWtUc2FidG9YVE5TakFmNWxBdUlLUVF5MGdxQmFhenZCblBRYUl2N01jQzhQSGw3VlNNTVNVYVRHWnlaWGhydTd0Q3Q0Y0tNVkNuMUpaS08wbXc3U3FFa0ZKbmVPN1dVRDRLQS1RaTIwa29GUlpLZ1pkUzVZRlU?oc=5",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 19.04,
-      "lon": -98.2
     }
   ]
 }
