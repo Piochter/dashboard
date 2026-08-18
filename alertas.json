@@ -1,13 +1,39 @@
 {
-  "ultima_actualizacion": "2026-08-18T07:18:39.691370-06:00",
-  "ultima_actualizacion_legible": "18 de agosto de 2026 · 07:18 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-08-18T08:04:06.772808-06:00",
+  "ultima_actualizacion_legible": "18 de agosto de 2026 · 08:04 CST",
+  "total": 3,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
+    "Quadratin + regionales",
     "Telegram"
   ],
   "grupos": [
+    {
+      "tipo": "cierre_total",
+      "color": "rojo",
+      "icono": "🔴",
+      "label": "CIERRE TOTAL",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "3aabd65d",
+          "tipo": "cierre_total",
+          "ruta": "Reportan volcadura de tráiler y fuga de gas en la…",
+          "descripcion": "Reportan volcadura de tráiler y fuga de gas en la Toluca-Tenango. TOLUCA, Edomex., 18 de agosto de 2026.- La carretera Toluca-Tenango permanece cerrada en ambos sentidos debido a la volcadura de un tráiler registrada durante la mañana de este martes, a la altura de la zona de Bimbo-San Dimas. Automovilistas que circulan por la zona reportaron que la pesada unidad quedó volcada sobre la vialidad, lo […]",
+          "recomendacion": "",
+          "fecha": "18 agosto 2026 · 07:45 CST",
+          "fecha_iso": "2026-08-18T07:45:00-06:00",
+          "fuente": "Quadratin EdoMex",
+          "url": "https://edomex.quadratin.com.mx/reportan-volcadura-de-trailer-y-fuga-de-gas-en-la-toluca-tenango/",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL",
+          "lat": 19.35,
+          "lon": -99.7
+        }
+      ]
+    },
     {
       "tipo": "bloqueo",
       "color": "rojo",
@@ -58,6 +84,19 @@
     }
   ],
   "para_mapa": [
+    {
+      "id": "3aabd65d",
+      "tipo": "cierre_total",
+      "ruta": "Reportan volcadura de tráiler y fuga de gas en la…",
+      "descripcion": "Reportan volcadura de tráiler y fuga de gas en la Toluca-Tenango. TOLUCA, Edomex., 18 de agosto de 2026.- La carretera Toluca-Tenango permanece cerrada en ambos sentidos debido a la volcadura de un tráiler registrada durante la mañana de este martes, a la altura de la zona de Bimbo-San Dimas. Automovilistas que circulan por la zona reportaron que la pesada unidad quedó volcada sobre la vialidad, lo […]",
+      "fecha": "18 agosto 2026 · 07:45 CST",
+      "fuente": "Quadratin EdoMex",
+      "url": "https://edomex.quadratin.com.mx/reportan-volcadura-de-trailer-y-fuga-de-gas-en-la-toluca-tenango/",
+      "dot_color": "#e74c3c",
+      "badge_txt": "CIERRE TOTAL",
+      "lat": 19.35,
+      "lon": -99.7
+    },
     {
       "id": "ba85afb4",
       "tipo": "cierre_parcial",
