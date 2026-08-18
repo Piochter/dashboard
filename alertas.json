@@ -1,13 +1,11 @@
 {
-  "ultima_actualizacion": "2026-08-17T19:06:36.552443-06:00",
-  "ultima_actualizacion_legible": "17 de agosto de 2026 · 19:06 CST",
-  "total": 7,
+  "ultima_actualizacion": "2026-08-17T20:21:01.982143-06:00",
+  "ultima_actualizacion_legible": "17 de agosto de 2026 · 20:21 CST",
+  "total": 4,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
-    "Medios nacionales",
     "Medios regionales",
-    "Quadratin + regionales",
     "Telegram"
   ],
   "grupos": [
@@ -18,22 +16,6 @@
       "label": "BLOQUEOS / MANIFESTACIONES",
       "col2": false,
       "alertas": [
-        {
-          "id": "6fc43de9",
-          "tipo": "bloqueo",
-          "ruta": "Amenazan a manifestantes en caseta El Dorado a cuatro días…",
-          "descripcion": "Amenazan a manifestantes en caseta El Dorado a cuatro días de protesta. Advierten con acciones legales a familiares de mexiquenses desaparecidos en Mazatlán que mantienen tomada la caseta El Dorado",
-          "recomendacion": "",
-          "fecha": "17 agosto 2026 · 17:30 CST",
-          "fecha_iso": "2026-08-17T17:30:00-06:00",
-          "fuente": "Quadratin EdoMex",
-          "url": "https://edomex.quadratin.com.mx/amenazan-a-manifestantes-en-caseta-el-dorado-a-cuatro-dias-de-protesta/",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 23.24,
-          "lon": -106.41
-        },
         {
           "id": "02f968a9",
           "tipo": "bloqueo",
@@ -49,18 +31,20 @@
           "badge_txt": "BLOQUEO"
         },
         {
-          "id": "f29cc0bb",
+          "id": "5a7d2b09",
           "tipo": "bloqueo",
-          "ruta": "Bloqueos carreteras HOY 17 de agosto: Autopistas cerradas en México,…",
-          "descripcion": "Bloqueos carreteras HOY 17 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 17 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
+          "ruta": "Tráfico Paralizado por Bloqueo de Transportistas sobre Carretera Federal de…",
+          "descripcion": "Tráfico Paralizado por Bloqueo de Transportistas sobre Carretera Federal de Puebla - N+. Tráfico Paralizado por Bloqueo de Transportistas sobre Carretera Federal de Puebla N+",
           "recomendacion": "",
-          "fecha": "17 agosto 2026 · 07:08 CST",
-          "fecha_iso": "2026-08-17T07:08:00-06:00",
-          "fuente": "Eje Central",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNY2FTZ2NrMi1MNVhzNGwtLUtPWWxNWmhsUko1NmlKSnFFYTlWTngwTFFFVjJ2UlpsUlh1Qzc5OGNrUGJobWF4QlFCa2JVRDEzTzJEUnFrcjd3blQyLVExUy13VlFzQUE3Q2pKLS1kMk0wRE9KSjUxbFh3UFhyRzc0cVVMcm0xSzMxeWVDNjZSNUM0VkxoY3BDUnQ1NUdUeG9McXAybTJoaDBiYU9PdW9pQ2dPY0xSaFZNZnJWWG92MFU5ZVBHanh1T1FreHoxVjBhY1FMM1FYU0Fwd2FTaUJlcGFKWnZ6Mkc4?oc=5",
+          "fecha": "17 agosto 2026 · 11:01 CST",
+          "fecha_iso": "2026-08-17T11:01:00-06:00",
+          "fuente": "N+",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdzliQjZfRGdnZTdyYkg3YWxJSDl4ZE9oWWgzUkQ4aExXWVdlbHAwOVY3YktfcFRFRktFaUJPOFZEZEhmdTF2WWNuMzJrQWtUc2FidG9YVE5TakFmNWxBdUlLUVF5MGdxQmFhenZCblBRYUl2N01jQzhQSGw3VlNNTVNVYVRHWnlaWGhydTd0Q3Q0Y0tNVkNuMUpaS08wbXc3U3FFa0ZKbmVPN1dVRDRLQS1RaTIwa29GUlpLZ1pkUzVZRlU?oc=5",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
+          "badge_txt": "BLOQUEO",
+          "lat": 19.04,
+          "lon": -98.2
         }
       ]
     },
@@ -102,36 +86,6 @@
           "badge_txt": "CIERRE PARCIAL",
           "lat": 19.29,
           "lon": -99.66
-        },
-        {
-          "id": "019495fc",
-          "tipo": "cierre_parcial",
-          "ruta": "Accidente en el Arco Norte deja una persona sin vida…",
-          "descripcion": "Accidente en el Arco Norte deja una persona sin vida. TULA DE ALLENDE, Hgo. 17 de agosto de 2026.- Un hombre murió la madrugada de este lunes luego de que la camioneta de redilas en la que viajaba se impactara contra la parte trasera de un tráiler sobre el Arco Norte. El accidente ocurrió alrededor de las 04:00 horas, a la altura del kilómetro 71+700, […] The post Accidente en el Arco Norte deja una persona sin vida appeared first on Quadratin Hidalgo.",
-          "recomendacion": "",
-          "fecha": "17 agosto 2026 · 11:06 CST",
-          "fecha_iso": "2026-08-17T11:06:00-06:00",
-          "fuente": "Quadratin Hidalgo",
-          "url": "https://hidalgo.quadratin.com.mx/sucesos/accidente-en-el-arco-norte-deja-una-persona-sin-vida/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.8,
-          "lon": -99.1
-        },
-        {
-          "id": "ab7de94d",
-          "tipo": "cierre_parcial",
-          "ruta": "Vigomex busca reducir el impacto de accidentes en flotas de…",
-          "descripcion": "Vigomex busca reducir el impacto de accidentes en flotas de autotransporte. ALLENDE, NL.– Un impacto frontal puede significar más que llevar una unidad al taller. Mientras se reparan componentes como defensas, parrillas, refuerzos o cofres, el vehículo permanece fuera de operación, un escenario que ha llevado a los transportistas a buscar alternativas para disminuir los daños y mantener la disponibilidad de sus flotas. Bajo esa lógica, […]",
-          "recomendacion": "",
-          "fecha": "17 agosto 2026 · 07:20 CST",
-          "fecha_iso": "2026-08-17T07:20:00-06:00",
-          "fuente": "T21 Transporte",
-          "url": "https://t21.com.mx/vigomex-busca-reducir-el-impacto-de-accidentes-en-flotas-de-autotransporte/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
         }
       ]
     }
@@ -151,19 +105,6 @@
       "lon": -102.0
     },
     {
-      "id": "6fc43de9",
-      "tipo": "bloqueo",
-      "ruta": "Amenazan a manifestantes en caseta El Dorado a cuatro días…",
-      "descripcion": "Amenazan a manifestantes en caseta El Dorado a cuatro días de protesta. Advierten con acciones legales a familiares de mexiquenses desaparecidos en Mazatlán que mantienen tomada la caseta El Dorado",
-      "fecha": "17 agosto 2026 · 17:30 CST",
-      "fuente": "Quadratin EdoMex",
-      "url": "https://edomex.quadratin.com.mx/amenazan-a-manifestantes-en-caseta-el-dorado-a-cuatro-dias-de-protesta/",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 23.24,
-      "lon": -106.41
-    },
-    {
       "id": "0e538d13",
       "tipo": "cierre_parcial",
       "ruta": "Accidente en la México-Toluca Hoy: Esto Pasó con Tráiler en…",
@@ -177,17 +118,17 @@
       "lon": -99.66
     },
     {
-      "id": "019495fc",
-      "tipo": "cierre_parcial",
-      "ruta": "Accidente en el Arco Norte deja una persona sin vida…",
-      "descripcion": "Accidente en el Arco Norte deja una persona sin vida. TULA DE ALLENDE, Hgo. 17 de agosto de 2026.- Un hombre murió la madrugada de este lunes luego de que la camioneta de redilas en la que viajaba se impactara contra la parte trasera de un tráiler sobre el Arco Norte. El accidente ocurrió alrededor de las 04:00 horas, a la altura del kilómetro 71+700, […] The post Accidente en el Arco Norte deja una persona sin vida appeared first on Quadratin Hidalgo.",
-      "fecha": "17 agosto 2026 · 11:06 CST",
-      "fuente": "Quadratin Hidalgo",
-      "url": "https://hidalgo.quadratin.com.mx/sucesos/accidente-en-el-arco-norte-deja-una-persona-sin-vida/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.8,
-      "lon": -99.1
+      "id": "5a7d2b09",
+      "tipo": "bloqueo",
+      "ruta": "Tráfico Paralizado por Bloqueo de Transportistas sobre Carretera Federal de…",
+      "descripcion": "Tráfico Paralizado por Bloqueo de Transportistas sobre Carretera Federal de Puebla - N+. Tráfico Paralizado por Bloqueo de Transportistas sobre Carretera Federal de Puebla N+",
+      "fecha": "17 agosto 2026 · 11:01 CST",
+      "fuente": "N+",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdzliQjZfRGdnZTdyYkg3YWxJSDl4ZE9oWWgzUkQ4aExXWVdlbHAwOVY3YktfcFRFRktFaUJPOFZEZEhmdTF2WWNuMzJrQWtUc2FidG9YVE5TakFmNWxBdUlLUVF5MGdxQmFhenZCblBRYUl2N01jQzhQSGw3VlNNTVNVYVRHWnlaWGhydTd0Q3Q0Y0tNVkNuMUpaS08wbXc3U3FFa0ZKbmVPN1dVRDRLQS1RaTIwa29GUlpLZ1pkUzVZRlU?oc=5",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 19.04,
+      "lon": -98.2
     }
   ]
 }
