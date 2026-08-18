@@ -1,35 +1,12 @@
 {
-  "ultima_actualizacion": "2026-08-18T02:24:46.357875-06:00",
-  "ultima_actualizacion_legible": "18 de agosto de 2026 · 02:24 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-08-18T03:01:19.333965-06:00",
+  "ultima_actualizacion_legible": "18 de agosto de 2026 · 03:01 CST",
+  "total": 0,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Telegram"
+    "Google News"
   ],
-  "grupos": [
-    {
-      "tipo": "bloqueo",
-      "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "02f968a9",
-          "tipo": "bloqueo",
-          "ruta": "Protesta en Caseta de El Dorado suma 72 horas👇 [https://lajornadaestadodemexico.com/protesta-en-caseta-de-el-dorado-suma-72-horas/](https://lajornadaestadodemexico.com/protesta-en-caseta-de-el-dorado-suma-72-horas/)…",
-          "descripcion": "Protesta en Caseta de El Dorado suma 72 horas👇\n [https://lajornadaestadodemexico.com/protesta-en-caseta-de-el-dorado-suma-72-horas/](https://lajornadaestadodemexico.com/protesta-en-caseta-de-el-dorado-suma-72-horas/)",
-          "recomendacion": "",
-          "fecha": "17 agosto 2026 · 14:27 CST",
-          "fecha_iso": "2026-08-17T14:27:00-06:00",
-          "fuente": "Telegram @jornadaedomex",
-          "url": "https://t.me/jornadaedomex/11756",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        }
-      ]
-    }
-  ],
-  "para_mapa": []
+  "grupos": [],
+  "para_mapa": [],
+  "nota": "Sin alertas activas en la ventana de tiempo configurada."
 }
