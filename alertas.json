@@ -1,6 +1,6 @@
 {
-  "ultima_actualizacion": "2026-08-18T10:56:23.225172-06:00",
-  "ultima_actualizacion_legible": "18 de agosto de 2026 · 10:56 CST",
+  "ultima_actualizacion": "2026-08-18T11:19:48.917394-06:00",
+  "ultima_actualizacion_legible": "18 de agosto de 2026 · 11:19 CST",
   "total": 4,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
@@ -9,31 +9,6 @@
     "Telegram"
   ],
   "grupos": [
-    {
-      "tipo": "cierre_total",
-      "color": "rojo",
-      "icono": "🔴",
-      "label": "CIERRE TOTAL",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "3aabd65d",
-          "tipo": "cierre_total",
-          "ruta": "Reportan volcadura de tráiler y fuga de gas en la…",
-          "descripcion": "Reportan volcadura de tráiler y fuga de gas en la Toluca-Tenango. TOLUCA, Edomex., 18 de agosto de 2026.- La carretera Toluca-Tenango permanece cerrada en ambos sentidos debido a la volcadura de un tráiler registrada durante la mañana de este martes, a la altura de la zona de Bimbo-San Dimas. Automovilistas que circulan por la zona reportaron que la pesada unidad quedó volcada sobre la vialidad, lo […]",
-          "recomendacion": "",
-          "fecha": "18 agosto 2026 · 07:45 CST",
-          "fecha_iso": "2026-08-18T07:45:00-06:00",
-          "fuente": "Quadratin EdoMex",
-          "url": "https://edomex.quadratin.com.mx/reportan-volcadura-de-trailer-y-fuga-de-gas-en-la-toluca-tenango/",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL",
-          "lat": 19.35,
-          "lon": -99.7
-        }
-      ]
-    },
     {
       "tipo": "bloqueo",
       "color": "rojo",
@@ -64,6 +39,20 @@
       "label": "CIERRE PARCIAL / ACCIDENTES",
       "col2": true,
       "alertas": [
+        {
+          "id": "665354f6",
+          "tipo": "cierre_parcial",
+          "ruta": "carretera a Agua Dulce",
+          "descripcion": "Familia pierde la vida en accidente en carretera a Agua Dulce. Dos hombres y una mujer fallecieron en el accidente",
+          "recomendacion": "",
+          "fecha": "18 agosto 2026 · 11:02 CST",
+          "fecha_iso": "2026-08-18T11:02:00-06:00",
+          "fuente": "Quadratin Veracruz",
+          "url": "https://veracruz.quadratin.com.mx/familia-pierde-la-vida-en-accidente-en-carretera-a-agua-dulce/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        },
         {
           "id": "9c0f9cb9",
           "tipo": "cierre_parcial",
@@ -112,19 +101,6 @@
       "badge_txt": "CIERRE PARCIAL",
       "lat": 19.8,
       "lon": -99.1
-    },
-    {
-      "id": "3aabd65d",
-      "tipo": "cierre_total",
-      "ruta": "Reportan volcadura de tráiler y fuga de gas en la…",
-      "descripcion": "Reportan volcadura de tráiler y fuga de gas en la Toluca-Tenango. TOLUCA, Edomex., 18 de agosto de 2026.- La carretera Toluca-Tenango permanece cerrada en ambos sentidos debido a la volcadura de un tráiler registrada durante la mañana de este martes, a la altura de la zona de Bimbo-San Dimas. Automovilistas que circulan por la zona reportaron que la pesada unidad quedó volcada sobre la vialidad, lo […]",
-      "fecha": "18 agosto 2026 · 07:45 CST",
-      "fuente": "Quadratin EdoMex",
-      "url": "https://edomex.quadratin.com.mx/reportan-volcadura-de-trailer-y-fuga-de-gas-en-la-toluca-tenango/",
-      "dot_color": "#e74c3c",
-      "badge_txt": "CIERRE TOTAL",
-      "lat": 19.35,
-      "lon": -99.7
     },
     {
       "id": "ba85afb4",
