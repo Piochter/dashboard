@@ -1,11 +1,10 @@
 {
-  "ultima_actualizacion": "2026-08-17T20:21:01.982143-06:00",
-  "ultima_actualizacion_legible": "17 de agosto de 2026 · 20:21 CST",
-  "total": 4,
+  "ultima_actualizacion": "2026-08-17T21:14:59.845100-06:00",
+  "ultima_actualizacion_legible": "17 de agosto de 2026 · 21:14 CST",
+  "total": 3,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
-    "Medios regionales",
     "Telegram"
   ],
   "grupos": [
@@ -56,22 +55,6 @@
       "col2": true,
       "alertas": [
         {
-          "id": "29991022",
-          "tipo": "cierre_parcial",
-          "ruta": "Cierran otro tramo de avenida Ferrocarril Central por avance de…",
-          "descripcion": "Cierran otro tramo de avenida Ferrocarril Central por avance de obras del tren. El cierre del cuerpo sur, de Luis Pasteur a Francisco Juárez, se suma a otras afectaciones; autoridades estiman que hasta 40 mil vehículos circulan diariamente por la zona.",
-          "recomendacion": "",
-          "fecha": "17 agosto 2026 · 18:12 CST",
-          "fecha_iso": "2026-08-17T18:12:00-06:00",
-          "fuente": "AM Guanajuato",
-          "url": "https://www.am.com.mx/celaya/2026/08/17/cierran-otro-tramo-de-avenida-ferrocarril-central-por-avance-de-obras-del-tren-1833434.html",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 25.2,
-          "lon": -102.0
-        },
-        {
           "id": "0e538d13",
           "tipo": "cierre_parcial",
           "ruta": "Accidente en la México-Toluca Hoy: Esto Pasó con Tráiler en…",
@@ -91,19 +74,6 @@
     }
   ],
   "para_mapa": [
-    {
-      "id": "29991022",
-      "tipo": "cierre_parcial",
-      "ruta": "Cierran otro tramo de avenida Ferrocarril Central por avance de…",
-      "descripcion": "Cierran otro tramo de avenida Ferrocarril Central por avance de obras del tren. El cierre del cuerpo sur, de Luis Pasteur a Francisco Juárez, se suma a otras afectaciones; autoridades estiman que hasta 40 mil vehículos circulan diariamente por la zona.",
-      "fecha": "17 agosto 2026 · 18:12 CST",
-      "fuente": "AM Guanajuato",
-      "url": "https://www.am.com.mx/celaya/2026/08/17/cierran-otro-tramo-de-avenida-ferrocarril-central-por-avance-de-obras-del-tren-1833434.html",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 25.2,
-      "lon": -102.0
-    },
     {
       "id": "0e538d13",
       "tipo": "cierre_parcial",
