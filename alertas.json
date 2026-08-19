@@ -1,6 +1,6 @@
 {
-  "ultima_actualizacion": "2026-08-19T05:17:19.816997-06:00",
-  "ultima_actualizacion_legible": "19 de agosto de 2026 · 05:17 CST",
+  "ultima_actualizacion": "2026-08-19T05:48:05.725550-06:00",
+  "ultima_actualizacion_legible": "19 de agosto de 2026 · 05:48 CST",
   "total": 1,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
@@ -15,15 +15,15 @@
       "col2": true,
       "alertas": [
         {
-          "id": "97a2ac34",
+          "id": "e07253ea",
           "tipo": "cierre_parcial",
           "ruta": "Intento de asalto a transportista en la México-Puebla queda grabado…",
-          "descripcion": "Intento de asalto a transportista en la México-Puebla queda grabado en video - Infobae. Intento de asalto a transportista en la México-Puebla queda grabado en video Infobae",
+          "descripcion": "Intento de asalto a transportista en la México-Puebla queda grabado en video - infobae.com. Intento de asalto a transportista en la México-Puebla queda grabado en video infobae.com",
           "recomendacion": "",
           "fecha": "19 agosto 2026 · 01:46 CST",
           "fecha_iso": "2026-08-19T01:46:00-06:00",
-          "fuente": "Infobae",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeXVzQ25UVmxsVFJZaGFiTXZSSE83RE9DTFR6TE14UzJEazEzMk9KMTQ0bjVtcmo3bjNTZGMwNUJkb0xvQ3pEWGxXa3J0cTItaUpxRG9uT2NET3ROaDhhcks1QURmZC1LaUl5Q0JVN1RicUtOdjNBZTNicUxYRDZZNWVXNk9PV3ZhSk5Ra25KdFNsbnhRM1F2cHFsQTZEdk9scmZ0LUl6aVE2ZXhhMjZXWFotZTF5YldGZUdz0gHWAUFVX3lxTE5WdTM0WWpNRUVVOWViZzF6SlNOdWxSTmFIX0JSRFZTWEs3T1RobUpqLUEtMFlGemRGYTlISVFHM2hieFB3SWY3eXowMnFoa0p6U09DUHJUc1lzakV5NnlISWllbk5sOVQ5MUJpcDV4YVVoaE43V2I2RmY5RGhpdFQ5QkhoQW5NNFVTM3FQUXRHZ1l6NDYtZXFQMjdpWnIwdUk0Y3dRVmZNVVp4ZFJ3bGV0djY3V21rTHVabkVRZXVCdmM5T1RXTFZSLWpSUlE4S1kzT0lGS2c?oc=5",
+          "fuente": "infobae.com",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVnUzNFlqTUVFVTllYmcxekpTTnVsUk5hSF9CUkRWU1hLN09UaG1Kai1BLTBZRnpkRmE5SElRRzNoYnhQd0lmN3l6MDJxaGtKelNPQ1ByVHNZc2pFeTZ5SElpZW5ObDlUOTFCaXA1eGFVaGhON1diNkZmOURoaXRUOUJIaEFuTTRVUzNxUFF0R2dZejQ2LWVxUDI3aVpyMHVJNGN3UVZmTVVaeGRSd2xldHY2N1dta0x1Wm5FUWV1QnZjOU9UV0xWUi1qUlJROEtZM09JRktn0gHWAUFVX3lxTE5WdTM0WWpNRUVVOWViZzF6SlNOdWxSTmFIX0JSRFZTWEs3T1RobUpqLUEtMFlGemRGYTlISVFHM2hieFB3SWY3eXowMnFoa0p6U09DUHJUc1lzakV5NnlISWllbk5sOVQ5MUJpcDV4YVVoaE43V2I2RmY5RGhpdFQ5QkhoQW5NNFVTM3FQUXRHZ1l6NDYtZXFQMjdpWnIwdUk0Y3dRVmZNVVp4ZFJ3bGV0djY3V21rTHVabkVRZXVCdmM5T1RXTFZSLWpSUlE4S1kzT0lGS2c?oc=5",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL",
@@ -35,13 +35,13 @@
   ],
   "para_mapa": [
     {
-      "id": "97a2ac34",
+      "id": "e07253ea",
       "tipo": "cierre_parcial",
       "ruta": "Intento de asalto a transportista en la México-Puebla queda grabado…",
-      "descripcion": "Intento de asalto a transportista en la México-Puebla queda grabado en video - Infobae. Intento de asalto a transportista en la México-Puebla queda grabado en video Infobae",
+      "descripcion": "Intento de asalto a transportista en la México-Puebla queda grabado en video - infobae.com. Intento de asalto a transportista en la México-Puebla queda grabado en video infobae.com",
       "fecha": "19 agosto 2026 · 01:46 CST",
-      "fuente": "Infobae",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeXVzQ25UVmxsVFJZaGFiTXZSSE83RE9DTFR6TE14UzJEazEzMk9KMTQ0bjVtcmo3bjNTZGMwNUJkb0xvQ3pEWGxXa3J0cTItaUpxRG9uT2NET3ROaDhhcks1QURmZC1LaUl5Q0JVN1RicUtOdjNBZTNicUxYRDZZNWVXNk9PV3ZhSk5Ra25KdFNsbnhRM1F2cHFsQTZEdk9scmZ0LUl6aVE2ZXhhMjZXWFotZTF5YldGZUdz0gHWAUFVX3lxTE5WdTM0WWpNRUVVOWViZzF6SlNOdWxSTmFIX0JSRFZTWEs3T1RobUpqLUEtMFlGemRGYTlISVFHM2hieFB3SWY3eXowMnFoa0p6U09DUHJUc1lzakV5NnlISWllbk5sOVQ5MUJpcDV4YVVoaE43V2I2RmY5RGhpdFQ5QkhoQW5NNFVTM3FQUXRHZ1l6NDYtZXFQMjdpWnIwdUk0Y3dRVmZNVVp4ZFJ3bGV0djY3V21rTHVabkVRZXVCdmM5T1RXTFZSLWpSUlE4S1kzT0lGS2c?oc=5",
+      "fuente": "infobae.com",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVnUzNFlqTUVFVTllYmcxekpTTnVsUk5hSF9CUkRWU1hLN09UaG1Kai1BLTBZRnpkRmE5SElRRzNoYnhQd0lmN3l6MDJxaGtKelNPQ1ByVHNZc2pFeTZ5SElpZW5ObDlUOTFCaXA1eGFVaGhON1diNkZmOURoaXRUOUJIaEFuTTRVUzNxUFF0R2dZejQ2LWVxUDI3aVpyMHVJNGN3UVZmTVVaeGRSd2xldHY2N1dta0x1Wm5FUWV1QnZjOU9UV0xWUi1qUlJROEtZM09JRktn0gHWAUFVX3lxTE5WdTM0WWpNRUVVOWViZzF6SlNOdWxSTmFIX0JSRFZTWEs3T1RobUpqLUEtMFlGemRGYTlISVFHM2hieFB3SWY3eXowMnFoa0p6U09DUHJUc1lzakV5NnlISWllbk5sOVQ5MUJpcDV4YVVoaE43V2I2RmY5RGhpdFQ5QkhoQW5NNFVTM3FQUXRHZ1l6NDYtZXFQMjdpWnIwdUk0Y3dRVmZNVVp4ZFJ3bGV0djY3V21rTHVabkVRZXVCdmM5T1RXTFZSLWpSUlE4S1kzT0lGS2c?oc=5",
       "dot_color": "#e67e22",
       "badge_txt": "CIERRE PARCIAL",
       "lat": 19.35,
