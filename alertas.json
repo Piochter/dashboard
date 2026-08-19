@@ -1,10 +1,11 @@
 {
-  "ultima_actualizacion": "2026-08-19T10:54:38.625284-06:00",
-  "ultima_actualizacion_legible": "19 de agosto de 2026 · 10:54 CST",
-  "total": 8,
+  "ultima_actualizacion": "2026-08-19T11:18:54.496511-06:00",
+  "ultima_actualizacion_legible": "19 de agosto de 2026 · 11:18 CST",
+  "total": 9,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
+    "Medios regionales",
     "Quadratin + regionales",
     "Telegram"
   ],
@@ -57,6 +58,22 @@
       "label": "BLOQUEOS / MANIFESTACIONES",
       "col2": false,
       "alertas": [
+        {
+          "id": "0f50be1e",
+          "tipo": "bloqueo",
+          "ruta": "Guanajuato refuerza vigilancia ante violencia michoacana…",
+          "descripcion": "Guanajuato refuerza vigilancia ante violencia michoacana. GUANAJUATO, Gto., 19 de agosto de 2026.- El gobierno de Guanajuato reforzó la vigilancia en los límites con Michoacán ante la jornada de violencia que registró este miércoles con al menos 20 narcobloqueos y vehículos incendiados en diferentes carreteras del estado vecino. La mandataria estatal, Libia Dennise García Muñoz Ledo, informó a través de sus redes sociales que […]",
+          "recomendacion": "",
+          "fecha": "19 agosto 2026 · 11:06 CST",
+          "fecha_iso": "2026-08-19T11:06:00-06:00",
+          "fuente": "Quadratin Michoacan",
+          "url": "https://www.quadratin.com.mx/justicia/guanajuato-refuerza-vigilancia-ante-violencia-michoacana/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 19.7,
+          "lon": -101.19
+        },
         {
           "id": "be3ed46d",
           "tipo": "bloqueo",
@@ -160,6 +177,19 @@
     }
   ],
   "para_mapa": [
+    {
+      "id": "0f50be1e",
+      "tipo": "bloqueo",
+      "ruta": "Guanajuato refuerza vigilancia ante violencia michoacana…",
+      "descripcion": "Guanajuato refuerza vigilancia ante violencia michoacana. GUANAJUATO, Gto., 19 de agosto de 2026.- El gobierno de Guanajuato reforzó la vigilancia en los límites con Michoacán ante la jornada de violencia que registró este miércoles con al menos 20 narcobloqueos y vehículos incendiados en diferentes carreteras del estado vecino. La mandataria estatal, Libia Dennise García Muñoz Ledo, informó a través de sus redes sociales que […]",
+      "fecha": "19 agosto 2026 · 11:06 CST",
+      "fuente": "Quadratin Michoacan",
+      "url": "https://www.quadratin.com.mx/justicia/guanajuato-refuerza-vigilancia-ante-violencia-michoacana/",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 19.7,
+      "lon": -101.19
+    },
     {
       "id": "be3ed46d",
       "tipo": "bloqueo",
