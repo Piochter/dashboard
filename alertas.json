@@ -1,6 +1,6 @@
 {
-  "ultima_actualizacion": "2026-08-19T13:00:54.898875-06:00",
-  "ultima_actualizacion_legible": "19 de agosto de 2026 · 13:00 CST",
+  "ultima_actualizacion": "2026-08-19T13:29:16.040756-06:00",
+  "ultima_actualizacion_legible": "19 de agosto de 2026 · 13:29 CST",
   "total": 13,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
@@ -16,22 +16,6 @@
       "label": "CIERRE TOTAL",
       "col2": false,
       "alertas": [
-        {
-          "id": "dcdbd428",
-          "tipo": "cierre_total",
-          "ruta": "Accidente vial en la México-Pachuca deja un muerto y 25…",
-          "descripcion": "Accidente vial en la México-Pachuca deja un muerto y 25 heridos. Un hombre perdió la vida y al menos 25 personas resultaron lesionadas tras la volcadura de un autobús de pasajeros de la línea ODT The post Accidente vial en la México-Pachuca deja un muerto y 25 heridos appeared first on Quadratin Hidalgo.",
-          "recomendacion": "",
-          "fecha": "19 agosto 2026 · 08:09 CST",
-          "fecha_iso": "2026-08-19T08:09:00-06:00",
-          "fuente": "Quadratin Hidalgo",
-          "url": "https://hidalgo.quadratin.com.mx/principal/accidente-vial-en-la-mexico-pachuca-deja-un-muerto-y-25-heridos/",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL",
-          "lat": 20.11,
-          "lon": -98.73
-        },
         {
           "id": "2d98995b",
           "tipo": "cierre_total",
@@ -57,6 +41,22 @@
       "label": "BLOQUEOS / MANIFESTACIONES",
       "col2": false,
       "alertas": [
+        {
+          "id": "bf425d64",
+          "tipo": "bloqueo",
+          "ruta": "#AlertaVial | México-Toluca bloqueada por manifestación hoy 19 de agosto👇…",
+          "descripcion": "#AlertaVial | México-Toluca bloqueada por manifestación hoy 19 de agosto👇\n https://lajornadaestadodemexico.com/mexico-toluca-bloqueada-por-manifestacion/",
+          "recomendacion": "",
+          "fecha": "19 agosto 2026 · 13:22 CST",
+          "fecha_iso": "2026-08-19T13:22:00-06:00",
+          "fuente": "Telegram @jornadaedomex",
+          "url": "https://t.me/jornadaedomex/11785",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 19.29,
+          "lon": -99.66
+        },
         {
           "id": "30d313a0",
           "tipo": "bloqueo",
@@ -106,14 +106,14 @@
           "lon": -101.19
         },
         {
-          "id": "2d1a71fc",
+          "id": "1436988e",
           "tipo": "bloqueo",
           "ruta": "Bloqueos carreteras HOY 19 de agosto: Autopistas cerradas en México,…",
-          "descripcion": "Bloqueos carreteras HOY 19 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 19 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
+          "descripcion": "Bloqueos carreteras HOY 19 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - ejecentral.com.mx. Bloqueos carreteras HOY 19 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE ejecentral.com.mx",
           "recomendacion": "",
           "fecha": "19 agosto 2026 · 07:08 CST",
           "fecha_iso": "2026-08-19T07:08:00-06:00",
-          "fuente": "Eje Central",
+          "fuente": "ejecentral.com.mx",
           "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOVVN2VjVYbnJOblB6RThNbmJvWWRiem5mZnNZWlpMWEp5a3k4NDVSWUxFaXg3VnlpMWh2U3Vpb1FQY0ZMUjM3X1FqUUU2QktTNHU0OUY5RDAzUTl2ODlWbWM0cV9TcFVsN1FTTXd6Ym9peENPcE9UMXRxemVsaDlhXzVBUUlDemkzVHdtemxteV9jZlpMSFhweGRfOWVkdWREbEh5aGFic1NyQnFMNkpOaHRpUDB3SnFnOTVIYXRxVUNfVHF2cjBsX2VMaWw0dzVveUd5MFY4NllHYVpuQmtGNHNiZ1FqUllU?oc=5",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
@@ -173,14 +173,14 @@
           "lon": -104.3
         },
         {
-          "id": "ec758886",
+          "id": "10a2aef5",
           "tipo": "cierre_parcial",
           "ruta": "Intentaron asaltar un tráiler en la México-Puebla, pero algo salió…",
-          "descripcion": "Intentaron asaltar un tráiler en la México-Puebla, pero algo salió mal y frustró el robo | VIDEO - Excélsior. Intentaron asaltar un tráiler en la México-Puebla, pero algo salió mal y frustró el robo | VIDEO Excélsior",
+          "descripcion": "Intentaron asaltar un tráiler en la México-Puebla, pero algo salió mal y frustró el robo | VIDEO - excelsior.com.mx. Intentaron asaltar un tráiler en la México-Puebla, pero algo salió mal y frustró el robo | VIDEO excelsior.com.mx",
           "recomendacion": "",
           "fecha": "19 agosto 2026 · 11:48 CST",
           "fecha_iso": "2026-08-19T11:48:00-06:00",
-          "fuente": "Excélsior",
+          "fuente": "excelsior.com.mx",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPV0tMY3lMSUpIZWpYaXlhUmdLR2pfNi11MGxFdzJDd05RTnFHVjlKOTBZdWRpNHNLV3M5aVJiQzJWaFppN193NGZfLXQ3d0xMdE03Sk9CX0ZyN1llWEdHQmVRQldsTVkxTE5zOUdyRkFrQ2tEWHFFWG9lWnZicS02bTJScnVLY2lnV1lVLWs0OENKRWpRbGN1R0tMU3RKbFZhQ1BiY0h4MllObDZOLTB0US1XT3lmcy1T0gG-AUFVX3lxTE43VHBRUU0yd2ZWdmZBSlhEUHNSLXJsaWZGQWtUbFZQclBSRUI5VFVfRVFzU2UxQzNnX0d5Z3IzbUdvbVdYTFJiZE5VX1VtTWRHbk5RakptaXJnYkJaczI3TmdQY3pOQXFzZGhFXzg3TW13b3VMREoyYTI2V01zcnR3dGxIUEM0cy1XTUYzVVVfLWdKT2xORjBKQUY2dmJaSkJhekRGN29FQlktb29NbGs1c0FwQmJPMVBTeDlHd3c?oc=5",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
@@ -239,6 +239,19 @@
   ],
   "para_mapa": [
     {
+      "id": "bf425d64",
+      "tipo": "bloqueo",
+      "ruta": "#AlertaVial | México-Toluca bloqueada por manifestación hoy 19 de agosto👇…",
+      "descripcion": "#AlertaVial | México-Toluca bloqueada por manifestación hoy 19 de agosto👇\n https://lajornadaestadodemexico.com/mexico-toluca-bloqueada-por-manifestacion/",
+      "fecha": "19 agosto 2026 · 13:22 CST",
+      "fuente": "Telegram @jornadaedomex",
+      "url": "https://t.me/jornadaedomex/11785",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 19.29,
+      "lon": -99.66
+    },
+    {
       "id": "30d313a0",
       "tipo": "bloqueo",
       "ruta": "Liberan 9 bloqueos carreteros en Michoacán…",
@@ -278,12 +291,12 @@
       "lon": -101.19
     },
     {
-      "id": "ec758886",
+      "id": "10a2aef5",
       "tipo": "cierre_parcial",
       "ruta": "Intentaron asaltar un tráiler en la México-Puebla, pero algo salió…",
-      "descripcion": "Intentaron asaltar un tráiler en la México-Puebla, pero algo salió mal y frustró el robo | VIDEO - Excélsior. Intentaron asaltar un tráiler en la México-Puebla, pero algo salió mal y frustró el robo | VIDEO Excélsior",
+      "descripcion": "Intentaron asaltar un tráiler en la México-Puebla, pero algo salió mal y frustró el robo | VIDEO - excelsior.com.mx. Intentaron asaltar un tráiler en la México-Puebla, pero algo salió mal y frustró el robo | VIDEO excelsior.com.mx",
       "fecha": "19 agosto 2026 · 11:48 CST",
-      "fuente": "Excélsior",
+      "fuente": "excelsior.com.mx",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPV0tMY3lMSUpIZWpYaXlhUmdLR2pfNi11MGxFdzJDd05RTnFHVjlKOTBZdWRpNHNLV3M5aVJiQzJWaFppN193NGZfLXQ3d0xMdE03Sk9CX0ZyN1llWEdHQmVRQldsTVkxTE5zOUdyRkFrQ2tEWHFFWG9lWnZicS02bTJScnVLY2lnV1lVLWs0OENKRWpRbGN1R0tMU3RKbFZhQ1BiY0h4MllObDZOLTB0US1XT3lmcy1T0gG-AUFVX3lxTE43VHBRUU0yd2ZWdmZBSlhEUHNSLXJsaWZGQWtUbFZQclBSRUI5VFVfRVFzU2UxQzNnX0d5Z3IzbUdvbVdYTFJiZE5VX1VtTWRHbk5RakptaXJnYkJaczI3TmdQY3pOQXFzZGhFXzg3TW13b3VMREoyYTI2V01zcnR3dGxIUEM0cy1XTUYzVVVfLWdKT2xORjBKQUY2dmJaSkJhekRGN29FQlktb29NbGs1c0FwQmJPMVBTeDlHd3c?oc=5",
       "dot_color": "#e67e22",
       "badge_txt": "CIERRE PARCIAL",
@@ -302,19 +315,6 @@
       "badge_txt": "BLOQUEO",
       "lat": 19.7,
       "lon": -101.19
-    },
-    {
-      "id": "dcdbd428",
-      "tipo": "cierre_total",
-      "ruta": "Accidente vial en la México-Pachuca deja un muerto y 25…",
-      "descripcion": "Accidente vial en la México-Pachuca deja un muerto y 25 heridos. Un hombre perdió la vida y al menos 25 personas resultaron lesionadas tras la volcadura de un autobús de pasajeros de la línea ODT The post Accidente vial en la México-Pachuca deja un muerto y 25 heridos appeared first on Quadratin Hidalgo.",
-      "fecha": "19 agosto 2026 · 08:09 CST",
-      "fuente": "Quadratin Hidalgo",
-      "url": "https://hidalgo.quadratin.com.mx/principal/accidente-vial-en-la-mexico-pachuca-deja-un-muerto-y-25-heridos/",
-      "dot_color": "#e74c3c",
-      "badge_txt": "CIERRE TOTAL",
-      "lat": 20.11,
-      "lon": -98.73
     },
     {
       "id": "2d98995b",
