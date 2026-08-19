@@ -1,6 +1,6 @@
 {
-  "ultima_actualizacion": "2026-08-19T11:18:54.496511-06:00",
-  "ultima_actualizacion_legible": "19 de agosto de 2026 · 11:18 CST",
+  "ultima_actualizacion": "2026-08-19T11:48:05.322051-06:00",
+  "ultima_actualizacion_legible": "19 de agosto de 2026 · 11:48 CST",
   "total": 9,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
@@ -91,14 +91,14 @@
           "lon": -101.19
         },
         {
-          "id": "2d1a71fc",
+          "id": "1436988e",
           "tipo": "bloqueo",
           "ruta": "Bloqueos carreteras HOY 19 de agosto: Autopistas cerradas en México,…",
-          "descripcion": "Bloqueos carreteras HOY 19 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 19 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
+          "descripcion": "Bloqueos carreteras HOY 19 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - ejecentral.com.mx. Bloqueos carreteras HOY 19 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE ejecentral.com.mx",
           "recomendacion": "",
           "fecha": "19 agosto 2026 · 07:08 CST",
           "fecha_iso": "2026-08-19T07:08:00-06:00",
-          "fuente": "Eje Central",
+          "fuente": "ejecentral.com.mx",
           "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOVVN2VjVYbnJOblB6RThNbmJvWWRiem5mZnNZWlpMWEp5a3k4NDVSWUxFaXg3VnlpMWh2U3Vpb1FQY0ZMUjM3X1FqUUU2QktTNHU0OUY5RDAzUTl2ODlWbWM0cV9TcFVsN1FTTXd6Ym9peENPcE9UMXRxemVsaDlhXzVBUUlDemkzVHdtemxteV9jZlpMSFhweGRfOWVkdWREbEh5aGFic1NyQnFMNkpOaHRpUDB3SnFnOTVIYXRxVUNfVHF2cjBsX2VMaWw0dzVveUd5MFY4NllHYVpuQmtGNHNiZ1FqUllU?oc=5",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
