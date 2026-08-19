@@ -1,12 +1,36 @@
 {
-  "ultima_actualizacion": "2026-08-19T06:25:06.446595-06:00",
-  "ultima_actualizacion_legible": "19 de agosto de 2026 · 06:25 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-08-19T07:23:58.096775-06:00",
+  "ultima_actualizacion_legible": "19 de agosto de 2026 · 07:23 CST",
+  "total": 3,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News"
+    "Google News",
+    "Telegram"
   ],
   "grupos": [
+    {
+      "tipo": "bloqueo",
+      "color": "rojo",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "2d1a71fc",
+          "tipo": "bloqueo",
+          "ruta": "Bloqueos carreteras HOY 19 de agosto: Autopistas cerradas en México,…",
+          "descripcion": "Bloqueos carreteras HOY 19 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 19 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
+          "recomendacion": "",
+          "fecha": "19 agosto 2026 · 07:08 CST",
+          "fecha_iso": "2026-08-19T07:08:00-06:00",
+          "fuente": "Eje Central",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOVVN2VjVYbnJOblB6RThNbmJvWWRiem5mZnNZWlpMWEp5a3k4NDVSWUxFaXg3VnlpMWh2U3Vpb1FQY0ZMUjM3X1FqUUU2QktTNHU0OUY5RDAzUTl2ODlWbWM0cV9TcFVsN1FTTXd6Ym9peENPcE9UMXRxemVsaDlhXzVBUUlDemkzVHdtemxteV9jZlpMSFhweGRfOWVkdWREbEh5aGFic1NyQnFMNkpOaHRpUDB3SnFnOTVIYXRxVUNfVHF2cjBsX2VMaWw0dzVveUd5MFY4NllHYVpuQmtGNHNiZ1FqUllU?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        }
+      ]
+    },
     {
       "tipo": "cierre_parcial",
       "color": "amarillo",
@@ -14,6 +38,22 @@
       "label": "CIERRE PARCIAL / ACCIDENTES",
       "col2": true,
       "alertas": [
+        {
+          "id": "12747cd6",
+          "tipo": "cierre_parcial",
+          "ruta": "🚨¿Qué paso en la #México-#Pachuca hoy 19 de agosto? 😱…",
+          "descripcion": "🚨¿Qué paso en la #México-#Pachuca hoy 19 de agosto?  😱 Accidente deja varios lesionados [#VIDEO 👇]\n\nhttps://lajornadaestadodemexico.com/que-paso-en-la-mexico-pachuca-hoy-19-de-agosto/",
+          "recomendacion": "",
+          "fecha": "19 agosto 2026 · 07:10 CST",
+          "fecha_iso": "2026-08-19T07:10:00-06:00",
+          "fuente": "Telegram @jornadaedomex",
+          "url": "https://t.me/jornadaedomex/11776",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 20.12,
+          "lon": -98.73
+        },
         {
           "id": "97a2ac34",
           "tipo": "cierre_parcial",
@@ -23,7 +63,7 @@
           "fecha": "19 agosto 2026 · 01:46 CST",
           "fecha_iso": "2026-08-19T01:46:00-06:00",
           "fuente": "Infobae",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeXVzQ25UVmxsVFJZaGFiTXZSSE83RE9DTFR6TE14UzJEazEzMk9KMTQ0bjVtcmo3bjNTZGMwNUJkb0xvQ3pEWGxXa3J0cTItaUpxRG9uT2NET3ROaDhhcks1QURmZC1LaUl5Q0JVN1RicUtOdjNBZTNicUxYRDZZNWVXNk9PV3ZhSk5Ra25KdFNsbnhRM1F2cHFsQTZEdk9scmZ0LUl6aVE2ZXhhMjZXWFotZTF5YldGZUdz0gHWAUFVX3lxTE5WdTM0WWpNRUVVOWViZzF6SlNOdWxSTmFIX0JSRFZTWEs3T1RobUpqLUEtMFlGemRGYTlISVFHM2hieFB3SWY3eXowMnFoa0p6U09DUHJUc1lzakV5NnlISWllbk5sOVQ5MUJpcDV4YVVoaE43V2I2RmY5RGhpdFQ5QkhoQW5NNFVTM3FQUXRHZ1l6NDYtZXFQMjdpWnIwdUk0Y3dRVmZNVVp4ZFJ3bGV0djY3V21rTHVabkVRZXVCdmM5T1RXTFZSLWpSUlE4S1kzT0lGS2c?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVnUzNFlqTUVFVTllYmcxekpTTnVsUk5hSF9CUkRWU1hLN09UaG1Kai1BLTBZRnpkRmE5SElRRzNoYnhQd0lmN3l6MDJxaGtKelNPQ1ByVHNZc2pFeTZ5SElpZW5ObDlUOTFCaXA1eGFVaGhON1diNkZmOURoaXRUOUJIaEFuTTRVUzNxUFF0R2dZejQ2LWVxUDI3aVpyMHVJNGN3UVZmTVVaeGRSd2xldHY2N1dta0x1Wm5FUWV1QnZjOU9UV0xWUi1qUlJROEtZM09JRktn0gHWAUFVX3lxTE5WdTM0WWpNRUVVOWViZzF6SlNOdWxSTmFIX0JSRFZTWEs3T1RobUpqLUEtMFlGemRGYTlISVFHM2hieFB3SWY3eXowMnFoa0p6U09DUHJUc1lzakV5NnlISWllbk5sOVQ5MUJpcDV4YVVoaE43V2I2RmY5RGhpdFQ5QkhoQW5NNFVTM3FQUXRHZ1l6NDYtZXFQMjdpWnIwdUk0Y3dRVmZNVVp4ZFJ3bGV0djY3V21rTHVabkVRZXVCdmM5T1RXTFZSLWpSUlE4S1kzT0lGS2c?oc=5",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL",
@@ -35,13 +75,26 @@
   ],
   "para_mapa": [
     {
+      "id": "12747cd6",
+      "tipo": "cierre_parcial",
+      "ruta": "🚨¿Qué paso en la #México-#Pachuca hoy 19 de agosto? 😱…",
+      "descripcion": "🚨¿Qué paso en la #México-#Pachuca hoy 19 de agosto?  😱 Accidente deja varios lesionados [#VIDEO 👇]\n\nhttps://lajornadaestadodemexico.com/que-paso-en-la-mexico-pachuca-hoy-19-de-agosto/",
+      "fecha": "19 agosto 2026 · 07:10 CST",
+      "fuente": "Telegram @jornadaedomex",
+      "url": "https://t.me/jornadaedomex/11776",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 20.12,
+      "lon": -98.73
+    },
+    {
       "id": "97a2ac34",
       "tipo": "cierre_parcial",
       "ruta": "Intento de asalto a transportista en la México-Puebla queda grabado…",
       "descripcion": "Intento de asalto a transportista en la México-Puebla queda grabado en video - Infobae. Intento de asalto a transportista en la México-Puebla queda grabado en video Infobae",
       "fecha": "19 agosto 2026 · 01:46 CST",
       "fuente": "Infobae",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeXVzQ25UVmxsVFJZaGFiTXZSSE83RE9DTFR6TE14UzJEazEzMk9KMTQ0bjVtcmo3bjNTZGMwNUJkb0xvQ3pEWGxXa3J0cTItaUpxRG9uT2NET3ROaDhhcks1QURmZC1LaUl5Q0JVN1RicUtOdjNBZTNicUxYRDZZNWVXNk9PV3ZhSk5Ra25KdFNsbnhRM1F2cHFsQTZEdk9scmZ0LUl6aVE2ZXhhMjZXWFotZTF5YldGZUdz0gHWAUFVX3lxTE5WdTM0WWpNRUVVOWViZzF6SlNOdWxSTmFIX0JSRFZTWEs3T1RobUpqLUEtMFlGemRGYTlISVFHM2hieFB3SWY3eXowMnFoa0p6U09DUHJUc1lzakV5NnlISWllbk5sOVQ5MUJpcDV4YVVoaE43V2I2RmY5RGhpdFQ5QkhoQW5NNFVTM3FQUXRHZ1l6NDYtZXFQMjdpWnIwdUk0Y3dRVmZNVVp4ZFJ3bGV0djY3V21rTHVabkVRZXVCdmM5T1RXTFZSLWpSUlE4S1kzT0lGS2c?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVnUzNFlqTUVFVTllYmcxekpTTnVsUk5hSF9CUkRWU1hLN09UaG1Kai1BLTBZRnpkRmE5SElRRzNoYnhQd0lmN3l6MDJxaGtKelNPQ1ByVHNZc2pFeTZ5SElpZW5ObDlUOTFCaXA1eGFVaGhON1diNkZmOURoaXRUOUJIaEFuTTRVUzNxUFF0R2dZejQ2LWVxUDI3aVpyMHVJNGN3UVZmTVVaeGRSd2xldHY2N1dta0x1Wm5FUWV1QnZjOU9UV0xWUi1qUlJROEtZM09JRktn0gHWAUFVX3lxTE5WdTM0WWpNRUVVOWViZzF6SlNOdWxSTmFIX0JSRFZTWEs3T1RobUpqLUEtMFlGemRGYTlISVFHM2hieFB3SWY3eXowMnFoa0p6U09DUHJUc1lzakV5NnlISWllbk5sOVQ5MUJpcDV4YVVoaE43V2I2RmY5RGhpdFQ5QkhoQW5NNFVTM3FQUXRHZ1l6NDYtZXFQMjdpWnIwdUk0Y3dRVmZNVVp4ZFJ3bGV0djY3V21rTHVabkVRZXVCdmM5T1RXTFZSLWpSUlE4S1kzT0lGS2c?oc=5",
       "dot_color": "#e67e22",
       "badge_txt": "CIERRE PARCIAL",
       "lat": 19.35,
