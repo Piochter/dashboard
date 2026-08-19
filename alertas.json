@@ -1,12 +1,51 @@
 {
-  "ultima_actualizacion": "2026-08-19T01:03:37.587242-06:00",
-  "ultima_actualizacion_legible": "19 de agosto de 2026 · 01:03 CST",
-  "total": 0,
+  "ultima_actualizacion": "2026-08-19T01:52:30.982915-06:00",
+  "ultima_actualizacion_legible": "19 de agosto de 2026 · 01:52 CST",
+  "total": 1,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News"
   ],
-  "grupos": [],
-  "para_mapa": [],
-  "nota": "Sin alertas activas en la ventana de tiempo configurada."
+  "grupos": [
+    {
+      "tipo": "cierre_parcial",
+      "color": "amarillo",
+      "icono": "🟡",
+      "label": "CIERRE PARCIAL / ACCIDENTES",
+      "col2": true,
+      "alertas": [
+        {
+          "id": "97a2ac34",
+          "tipo": "cierre_parcial",
+          "ruta": "Intento de asalto a transportista en la México-Puebla queda grabado…",
+          "descripcion": "Intento de asalto a transportista en la México-Puebla queda grabado en video - Infobae. Intento de asalto a transportista en la México-Puebla queda grabado en video Infobae",
+          "recomendacion": "",
+          "fecha": "19 agosto 2026 · 01:46 CST",
+          "fecha_iso": "2026-08-19T01:46:00-06:00",
+          "fuente": "Infobae",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeXVzQ25UVmxsVFJZaGFiTXZSSE83RE9DTFR6TE14UzJEazEzMk9KMTQ0bjVtcmo3bjNTZGMwNUJkb0xvQ3pEWGxXa3J0cTItaUpxRG9uT2NET3ROaDhhcks1QURmZC1LaUl5Q0JVN1RicUtOdjNBZTNicUxYRDZZNWVXNk9PV3ZhSk5Ra25KdFNsbnhRM1F2cHFsQTZEdk9scmZ0LUl6aVE2ZXhhMjZXWFotZTF5YldGZUdz0gHWAUFVX3lxTE5WdTM0WWpNRUVVOWViZzF6SlNOdWxSTmFIX0JSRFZTWEs3T1RobUpqLUEtMFlGemRGYTlISVFHM2hieFB3SWY3eXowMnFoa0p6U09DUHJUc1lzakV5NnlISWllbk5sOVQ5MUJpcDV4YVVoaE43V2I2RmY5RGhpdFQ5QkhoQW5NNFVTM3FQUXRHZ1l6NDYtZXFQMjdpWnIwdUk0Y3dRVmZNVVp4ZFJ3bGV0djY3V21rTHVabkVRZXVCdmM5T1RXTFZSLWpSUlE4S1kzT0lGS2c?oc=5",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 19.35,
+          "lon": -98.4
+        }
+      ]
+    }
+  ],
+  "para_mapa": [
+    {
+      "id": "97a2ac34",
+      "tipo": "cierre_parcial",
+      "ruta": "Intento de asalto a transportista en la México-Puebla queda grabado…",
+      "descripcion": "Intento de asalto a transportista en la México-Puebla queda grabado en video - Infobae. Intento de asalto a transportista en la México-Puebla queda grabado en video Infobae",
+      "fecha": "19 agosto 2026 · 01:46 CST",
+      "fuente": "Infobae",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeXVzQ25UVmxsVFJZaGFiTXZSSE83RE9DTFR6TE14UzJEazEzMk9KMTQ0bjVtcmo3bjNTZGMwNUJkb0xvQ3pEWGxXa3J0cTItaUpxRG9uT2NET3ROaDhhcks1QURmZC1LaUl5Q0JVN1RicUtOdjNBZTNicUxYRDZZNWVXNk9PV3ZhSk5Ra25KdFNsbnhRM1F2cHFsQTZEdk9scmZ0LUl6aVE2ZXhhMjZXWFotZTF5YldGZUdz0gHWAUFVX3lxTE5WdTM0WWpNRUVVOWViZzF6SlNOdWxSTmFIX0JSRFZTWEs3T1RobUpqLUEtMFlGemRGYTlISVFHM2hieFB3SWY3eXowMnFoa0p6U09DUHJUc1lzakV5NnlISWllbk5sOVQ5MUJpcDV4YVVoaE43V2I2RmY5RGhpdFQ5QkhoQW5NNFVTM3FQUXRHZ1l6NDYtZXFQMjdpWnIwdUk0Y3dRVmZNVVp4ZFJ3bGV0djY3V21rTHVabkVRZXVCdmM5T1RXTFZSLWpSUlE4S1kzT0lGS2c?oc=5",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 19.35,
+      "lon": -98.4
+    }
+  ]
 }
