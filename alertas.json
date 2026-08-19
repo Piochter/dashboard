@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-08-19T14:51:52.759575-06:00",
-  "ultima_actualizacion_legible": "19 de agosto de 2026 · 14:51 CST",
-  "total": 10,
+  "ultima_actualizacion": "2026-08-19T15:17:30.929870-06:00",
+  "ultima_actualizacion_legible": "19 de agosto de 2026 · 15:17 CST",
+  "total": 11,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
@@ -42,6 +42,20 @@
       "label": "BLOQUEOS / MANIFESTACIONES",
       "col2": false,
       "alertas": [
+        {
+          "id": "72628adb",
+          "tipo": "bloqueo",
+          "ruta": "Exigen destitución de Bárcenas y alistan cierre en la caseta…",
+          "descripcion": "Exigen destitución de Bárcenas y alistan cierre en la caseta. Protestantes de Acatlán bloquearán la caseta de Atlixco",
+          "recomendacion": "",
+          "fecha": "19 agosto 2026 · 15:09 CST",
+          "fecha_iso": "2026-08-19T15:09:00-06:00",
+          "fuente": "Quadratin Puebla",
+          "url": "https://puebla.quadratin.com.mx/politica/exigen-destitucion-de-barcenas-y-alistan-cierre-en-la-caseta/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
         {
           "id": "5f0f9dc7",
           "tipo": "bloqueo",
@@ -130,15 +144,15 @@
       "col2": true,
       "alertas": [
         {
-          "id": "0a640178",
+          "id": "0423f04f",
           "tipo": "cierre_parcial",
           "ruta": "Actualizan reporte médico de lesionados tras choque en la México-Pachuca…",
-          "descripcion": "Actualizan reporte médico de lesionados tras choque en la México-Pachuca. TECÁMAC, Edomex., 19 de agosto de 2026.- Derivado del accidente en la carretera México-Pachuca, 25 personas (18 hombres y 7 mujeres) fueron ingresadas de urgencia al Hospital General Regional (HGR) No. 200 del IMSS en Tecámac, donde el personal activó los protocolos de atención para valorar a cada paciente, confirmando que tres de ellos se […]",
+          "descripcion": "Actualizan reporte médico de lesionados tras choque en la México-Pachuca. TECÁMAC, Edomex., 19 de agosto de 2026.- Derivado del accidente en la carretera México-Pachuca, 25 personas (18 hombres y 7 mujeres) fueron ingresadas de urgencia al Hospital General Regional (HGR) No. 200 del IMSS en Tecámac, donde el personal activó los protocolos de atención para valorar a cada paciente, confirmando que tres de ellos se encuentran graves. La llegada simultánea de los heridos movilizó al área […]",
           "recomendacion": "",
-          "fecha": "19 agosto 2026 · 12:15 CST",
-          "fecha_iso": "2026-08-19T12:15:00-06:00",
-          "fuente": "Quadratin EdoMex",
-          "url": "https://edomex.quadratin.com.mx/actualizan-reporte-medico-de-lesionados-tras-choque-en-la-mexico-pachuca/",
+          "fecha": "19 agosto 2026 · 13:34 CST",
+          "fecha_iso": "2026-08-19T13:34:00-06:00",
+          "fuente": "Quadratin Chiapas",
+          "url": "https://chiapas.quadratin.com.mx/sucesos/actualizan-reporte-medico-de-lesionados-tras-choque-en-la-mexico-pachuca/",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL",
@@ -209,6 +223,19 @@
       "lon": -101.19
     },
     {
+      "id": "0423f04f",
+      "tipo": "cierre_parcial",
+      "ruta": "Actualizan reporte médico de lesionados tras choque en la México-Pachuca…",
+      "descripcion": "Actualizan reporte médico de lesionados tras choque en la México-Pachuca. TECÁMAC, Edomex., 19 de agosto de 2026.- Derivado del accidente en la carretera México-Pachuca, 25 personas (18 hombres y 7 mujeres) fueron ingresadas de urgencia al Hospital General Regional (HGR) No. 200 del IMSS en Tecámac, donde el personal activó los protocolos de atención para valorar a cada paciente, confirmando que tres de ellos se encuentran graves. La llegada simultánea de los heridos movilizó al área […]",
+      "fecha": "19 agosto 2026 · 13:34 CST",
+      "fuente": "Quadratin Chiapas",
+      "url": "https://chiapas.quadratin.com.mx/sucesos/actualizan-reporte-medico-de-lesionados-tras-choque-en-la-mexico-pachuca/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 19.1,
+      "lon": -104.3
+    },
+    {
       "id": "bf425d64",
       "tipo": "bloqueo",
       "ruta": "#AlertaVial | México-Toluca bloqueada por manifestación hoy 19 de agosto👇…",
@@ -233,19 +260,6 @@
       "badge_txt": "BLOQUEO",
       "lat": 19.7,
       "lon": -101.19
-    },
-    {
-      "id": "0a640178",
-      "tipo": "cierre_parcial",
-      "ruta": "Actualizan reporte médico de lesionados tras choque en la México-Pachuca…",
-      "descripcion": "Actualizan reporte médico de lesionados tras choque en la México-Pachuca. TECÁMAC, Edomex., 19 de agosto de 2026.- Derivado del accidente en la carretera México-Pachuca, 25 personas (18 hombres y 7 mujeres) fueron ingresadas de urgencia al Hospital General Regional (HGR) No. 200 del IMSS en Tecámac, donde el personal activó los protocolos de atención para valorar a cada paciente, confirmando que tres de ellos se […]",
-      "fecha": "19 agosto 2026 · 12:15 CST",
-      "fuente": "Quadratin EdoMex",
-      "url": "https://edomex.quadratin.com.mx/actualizan-reporte-medico-de-lesionados-tras-choque-en-la-mexico-pachuca/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.1,
-      "lon": -104.3
     },
     {
       "id": "ec758886",
