@@ -1,10 +1,11 @@
 {
-  "ultima_actualizacion": "2026-08-19T08:51:43.413925-06:00",
-  "ultima_actualizacion_legible": "19 de agosto de 2026 · 08:51 CST",
-  "total": 7,
+  "ultima_actualizacion": "2026-08-19T09:22:03.314707-06:00",
+  "ultima_actualizacion_legible": "19 de agosto de 2026 · 09:22 CST",
+  "total": 8,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
+    "Medios regionales",
     "Quadratin + regionales",
     "Telegram"
   ],
@@ -73,6 +74,20 @@
       "label": "BLOQUEOS / MANIFESTACIONES",
       "col2": false,
       "alertas": [
+        {
+          "id": "3a52daf8",
+          "tipo": "bloqueo",
+          "ruta": "Restablecen circulación en la Morelia-Quiroga tras tiroteo y bloqueos…",
+          "descripcion": "Restablecen circulación en la Morelia-Quiroga tras tiroteo y bloqueos. Retiraron la unidad que impedía el tránsito vehicular",
+          "recomendacion": "",
+          "fecha": "19 agosto 2026 · 09:16 CST",
+          "fecha_iso": "2026-08-19T09:16:00-06:00",
+          "fuente": "Quadratin Michoacan",
+          "url": "https://www.quadratin.com.mx/justicia/restablecen-circulacion-en-la-morelia-quiroga-tras-tiroteo-y-bloqueos/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
         {
           "id": "2d1a71fc",
           "tipo": "bloqueo",
