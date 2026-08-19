@@ -1,51 +1,12 @@
 {
-  "ultima_actualizacion": "2026-08-18T20:12:58.287428-06:00",
-  "ultima_actualizacion_legible": "18 de agosto de 2026 · 20:12 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-08-18T21:11:04.354107-06:00",
+  "ultima_actualizacion_legible": "18 de agosto de 2026 · 21:11 CST",
+  "total": 0,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Quadratin + regionales"
+    "Google News"
   ],
-  "grupos": [
-    {
-      "tipo": "bloqueo",
-      "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "abbd52a2",
-          "tipo": "bloqueo",
-          "ruta": "​Reclaman habitantes de Tula daños en puente histórico provocados por…",
-          "descripcion": "​Reclaman habitantes de Tula daños en puente histórico provocados por obra. ​Tula de Allende, Hgo., a 18 de agosto de 2026. Habitantes de las comunidades El Saabí, La Amistad y Zaragoza, junto con integrantes del Sistema Comunitario de Agua Potable del ejido de San Marcos, bloquearon este martes el libramiento que comunica con Zaragoza, exigiendo la rehabilitación inmediata del puente de La Barranca. ​Los manifestantes señalan […] The post ​Reclaman habitantes de Tula daños en puente histórico p",
-          "recomendacion": "",
-          "fecha": "18 agosto 2026 · 17:22 CST",
-          "fecha_iso": "2026-08-18T17:22:00-06:00",
-          "fuente": "Quadratin Hidalgo",
-          "url": "https://hidalgo.quadratin.com.mx/municipios/reclaman-habitantes-de-tula-danos-en-puente-historico-provocados-por-obra/",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 20.11,
-          "lon": -98.73
-        }
-      ]
-    }
-  ],
-  "para_mapa": [
-    {
-      "id": "abbd52a2",
-      "tipo": "bloqueo",
-      "ruta": "​Reclaman habitantes de Tula daños en puente histórico provocados por…",
-      "descripcion": "​Reclaman habitantes de Tula daños en puente histórico provocados por obra. ​Tula de Allende, Hgo., a 18 de agosto de 2026. Habitantes de las comunidades El Saabí, La Amistad y Zaragoza, junto con integrantes del Sistema Comunitario de Agua Potable del ejido de San Marcos, bloquearon este martes el libramiento que comunica con Zaragoza, exigiendo la rehabilitación inmediata del puente de La Barranca. ​Los manifestantes señalan […] The post ​Reclaman habitantes de Tula daños en puente histórico p",
-      "fecha": "18 agosto 2026 · 17:22 CST",
-      "fuente": "Quadratin Hidalgo",
-      "url": "https://hidalgo.quadratin.com.mx/municipios/reclaman-habitantes-de-tula-danos-en-puente-historico-provocados-por-obra/",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 20.11,
-      "lon": -98.73
-    }
-  ]
+  "grupos": [],
+  "para_mapa": [],
+  "nota": "Sin alertas activas en la ventana de tiempo configurada."
 }
