@@ -1,11 +1,10 @@
 {
-  "ultima_actualizacion": "2026-08-18T18:52:52.790665-06:00",
-  "ultima_actualizacion_legible": "18 de agosto de 2026 · 18:52 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-08-18T20:12:58.287428-06:00",
+  "ultima_actualizacion_legible": "18 de agosto de 2026 · 20:12 CST",
+  "total": 1,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Quadratin + regionales",
-    "Telegram"
+    "Quadratin + regionales"
   ],
   "grupos": [
     {
@@ -32,31 +31,6 @@
           "lon": -98.73
         }
       ]
-    },
-    {
-      "tipo": "cierre_parcial",
-      "color": "amarillo",
-      "icono": "🟡",
-      "label": "CIERRE PARCIAL / ACCIDENTES",
-      "col2": true,
-      "alertas": [
-        {
-          "id": "ba85afb4",
-          "tipo": "cierre_parcial",
-          "ruta": "⚠️Cerrada totalmente la #Tenango-#Toluca tras accidente de tráiler 😱 https://lajornadaestadodemexico.com/cerrada-totalmente-la-tenango-toluca-tras-accidente/…",
-          "descripcion": "⚠️Cerrada totalmente la #Tenango-#Toluca tras accidente de tráiler 😱\n\nhttps://lajornadaestadodemexico.com/cerrada-totalmente-la-tenango-toluca-tras-accidente/",
-          "recomendacion": "",
-          "fecha": "18 agosto 2026 · 07:02 CST",
-          "fecha_iso": "2026-08-18T07:02:00-06:00",
-          "fuente": "Telegram @jornadaedomex",
-          "url": "https://t.me/jornadaedomex/11762",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.29,
-          "lon": -99.66
-        }
-      ]
     }
   ],
   "para_mapa": [
@@ -72,19 +46,6 @@
       "badge_txt": "BLOQUEO",
       "lat": 20.11,
       "lon": -98.73
-    },
-    {
-      "id": "ba85afb4",
-      "tipo": "cierre_parcial",
-      "ruta": "⚠️Cerrada totalmente la #Tenango-#Toluca tras accidente de tráiler 😱 https://lajornadaestadodemexico.com/cerrada-totalmente-la-tenango-toluca-tras-accidente/…",
-      "descripcion": "⚠️Cerrada totalmente la #Tenango-#Toluca tras accidente de tráiler 😱\n\nhttps://lajornadaestadodemexico.com/cerrada-totalmente-la-tenango-toluca-tras-accidente/",
-      "fecha": "18 agosto 2026 · 07:02 CST",
-      "fuente": "Telegram @jornadaedomex",
-      "url": "https://t.me/jornadaedomex/11762",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.29,
-      "lon": -99.66
     }
   ]
 }
