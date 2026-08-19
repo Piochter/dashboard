@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-08-19T12:20:30.028967-06:00",
-  "ultima_actualizacion_legible": "19 de agosto de 2026 · 12:20 CST",
-  "total": 11,
+  "ultima_actualizacion": "2026-08-19T13:00:54.898875-06:00",
+  "ultima_actualizacion_legible": "19 de agosto de 2026 · 13:00 CST",
+  "total": 13,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
@@ -58,6 +58,22 @@
       "col2": false,
       "alertas": [
         {
+          "id": "30d313a0",
+          "tipo": "bloqueo",
+          "ruta": "Liberan 9 bloqueos carreteros en Michoacán…",
+          "descripcion": "Liberan 9 bloqueos carreteros en Michoacán. Mantenemos presencia permanente en las carreteras para garantizar su seguridad y un tránsito fluido.",
+          "recomendacion": "",
+          "fecha": "19 agosto 2026 · 12:52 CST",
+          "fecha_iso": "2026-08-19T12:52:00-06:00",
+          "fuente": "Quadratin Oaxaca",
+          "url": "https://oaxaca.quadratin.com.mx/liberan-9-bloqueos-carreteros-en-michoacan/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 19.7,
+          "lon": -101.19
+        },
+        {
           "id": "4850ad1f",
           "tipo": "bloqueo",
           "ruta": "Reportan bloqueos y quema de vehículos en 20 sitios en…",
@@ -90,14 +106,14 @@
           "lon": -101.19
         },
         {
-          "id": "1436988e",
+          "id": "2d1a71fc",
           "tipo": "bloqueo",
           "ruta": "Bloqueos carreteras HOY 19 de agosto: Autopistas cerradas en México,…",
-          "descripcion": "Bloqueos carreteras HOY 19 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - ejecentral.com.mx. Bloqueos carreteras HOY 19 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE ejecentral.com.mx",
+          "descripcion": "Bloqueos carreteras HOY 19 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 19 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
           "recomendacion": "",
           "fecha": "19 agosto 2026 · 07:08 CST",
           "fecha_iso": "2026-08-19T07:08:00-06:00",
-          "fuente": "ejecentral.com.mx",
+          "fuente": "Eje Central",
           "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOVVN2VjVYbnJOblB6RThNbmJvWWRiem5mZnNZWlpMWEp5a3k4NDVSWUxFaXg3VnlpMWh2U3Vpb1FQY0ZMUjM3X1FqUUU2QktTNHU0OUY5RDAzUTl2ODlWbWM0cV9TcFVsN1FTTXd6Ym9peENPcE9UMXRxemVsaDlhXzVBUUlDemkzVHdtemxteV9jZlpMSFhweGRfOWVkdWREbEh5aGFic1NyQnFMNkpOaHRpUDB3SnFnOTVIYXRxVUNfVHF2cjBsX2VMaWw0dzVveUd5MFY4NllHYVpuQmtGNHNiZ1FqUllU?oc=5",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
@@ -126,6 +142,20 @@
       "label": "CIERRE PARCIAL / ACCIDENTES",
       "col2": true,
       "alertas": [
+        {
+          "id": "d8dda4df",
+          "tipo": "cierre_parcial",
+          "ruta": "autopista de Acayucan",
+          "descripcion": "Accidente múltiple en autopista de Acayucan. Hasta este momento, se desconoce si hay lesionados de gravedad",
+          "recomendacion": "",
+          "fecha": "19 agosto 2026 · 12:36 CST",
+          "fecha_iso": "2026-08-19T12:36:00-06:00",
+          "fuente": "Quadratin Veracruz",
+          "url": "https://veracruz.quadratin.com.mx/accidente-multiple-en-autopista-de-acayucan/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        },
         {
           "id": "0a640178",
           "tipo": "cierre_parcial",
@@ -208,6 +238,19 @@
     }
   ],
   "para_mapa": [
+    {
+      "id": "30d313a0",
+      "tipo": "bloqueo",
+      "ruta": "Liberan 9 bloqueos carreteros en Michoacán…",
+      "descripcion": "Liberan 9 bloqueos carreteros en Michoacán. Mantenemos presencia permanente en las carreteras para garantizar su seguridad y un tránsito fluido.",
+      "fecha": "19 agosto 2026 · 12:52 CST",
+      "fuente": "Quadratin Oaxaca",
+      "url": "https://oaxaca.quadratin.com.mx/liberan-9-bloqueos-carreteros-en-michoacan/",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 19.7,
+      "lon": -101.19
+    },
     {
       "id": "0a640178",
       "tipo": "cierre_parcial",
