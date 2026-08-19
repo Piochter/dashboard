@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-08-19T15:17:30.929870-06:00",
-  "ultima_actualizacion_legible": "19 de agosto de 2026 · 15:17 CST",
-  "total": 11,
+  "ultima_actualizacion": "2026-08-19T15:48:05.721843-06:00",
+  "ultima_actualizacion_legible": "19 de agosto de 2026 · 15:48 CST",
+  "total": 9,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
@@ -144,38 +144,6 @@
       "col2": true,
       "alertas": [
         {
-          "id": "0423f04f",
-          "tipo": "cierre_parcial",
-          "ruta": "Actualizan reporte médico de lesionados tras choque en la México-Pachuca…",
-          "descripcion": "Actualizan reporte médico de lesionados tras choque en la México-Pachuca. TECÁMAC, Edomex., 19 de agosto de 2026.- Derivado del accidente en la carretera México-Pachuca, 25 personas (18 hombres y 7 mujeres) fueron ingresadas de urgencia al Hospital General Regional (HGR) No. 200 del IMSS en Tecámac, donde el personal activó los protocolos de atención para valorar a cada paciente, confirmando que tres de ellos se encuentran graves. La llegada simultánea de los heridos movilizó al área […]",
-          "recomendacion": "",
-          "fecha": "19 agosto 2026 · 13:34 CST",
-          "fecha_iso": "2026-08-19T13:34:00-06:00",
-          "fuente": "Quadratin Chiapas",
-          "url": "https://chiapas.quadratin.com.mx/sucesos/actualizan-reporte-medico-de-lesionados-tras-choque-en-la-mexico-pachuca/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.1,
-          "lon": -104.3
-        },
-        {
-          "id": "ec758886",
-          "tipo": "cierre_parcial",
-          "ruta": "Intentaron asaltar un tráiler en la México-Puebla, pero algo salió…",
-          "descripcion": "Intentaron asaltar un tráiler en la México-Puebla, pero algo salió mal y frustró el robo | VIDEO - Excélsior. Intentaron asaltar un tráiler en la México-Puebla, pero algo salió mal y frustró el robo | VIDEO Excélsior",
-          "recomendacion": "",
-          "fecha": "19 agosto 2026 · 11:48 CST",
-          "fecha_iso": "2026-08-19T11:48:00-06:00",
-          "fuente": "Excélsior",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxON1RwUVFNMndmVnZmQUpYRFBzUi1ybGlmRkFrVGxWUHJQUkVCOVRVX0VRc1NlMUMzZ19HeWdyM21Hb21XWExSYmROVV9VbU1kR25OUWpKbWlyZ2JCWnMyN05nUGN6TkFxc2RoRV84N01td291TERKMmEyNldNc3J0d3RsSFBDNHMtV01GM1VVXy1nSk9sTkYwSkFGNnZiWkpCYXpERjdvRUJZLW9vTWxrNXNBcEJiTzFQU3g5R3d30gG-AUFVX3lxTE43VHBRUU0yd2ZWdmZBSlhEUHNSLXJsaWZGQWtUbFZQclBSRUI5VFVfRVFzU2UxQzNnX0d5Z3IzbUdvbVdYTFJiZE5VX1VtTWRHbk5RakptaXJnYkJaczI3TmdQY3pOQXFzZGhFXzg3TW13b3VMREoyYTI2V01zcnR3dGxIUEM0cy1XTUYzVVVfLWdKT2xORjBKQUY2dmJaSkJhekRGN29FQlktb29NbGs1c0FwQmJPMVBTeDlHd3c?oc=5",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.35,
-          "lon": -98.4
-        },
-        {
           "id": "51508c1b",
           "tipo": "cierre_parcial",
           "ruta": "🚧¡Evita la carretera #Metepec-#Zacango! Reportan cierre por poste caído 🥲…",
@@ -223,19 +191,6 @@
       "lon": -101.19
     },
     {
-      "id": "0423f04f",
-      "tipo": "cierre_parcial",
-      "ruta": "Actualizan reporte médico de lesionados tras choque en la México-Pachuca…",
-      "descripcion": "Actualizan reporte médico de lesionados tras choque en la México-Pachuca. TECÁMAC, Edomex., 19 de agosto de 2026.- Derivado del accidente en la carretera México-Pachuca, 25 personas (18 hombres y 7 mujeres) fueron ingresadas de urgencia al Hospital General Regional (HGR) No. 200 del IMSS en Tecámac, donde el personal activó los protocolos de atención para valorar a cada paciente, confirmando que tres de ellos se encuentran graves. La llegada simultánea de los heridos movilizó al área […]",
-      "fecha": "19 agosto 2026 · 13:34 CST",
-      "fuente": "Quadratin Chiapas",
-      "url": "https://chiapas.quadratin.com.mx/sucesos/actualizan-reporte-medico-de-lesionados-tras-choque-en-la-mexico-pachuca/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.1,
-      "lon": -104.3
-    },
-    {
       "id": "bf425d64",
       "tipo": "bloqueo",
       "ruta": "#AlertaVial | México-Toluca bloqueada por manifestación hoy 19 de agosto👇…",
@@ -260,19 +215,6 @@
       "badge_txt": "BLOQUEO",
       "lat": 19.7,
       "lon": -101.19
-    },
-    {
-      "id": "ec758886",
-      "tipo": "cierre_parcial",
-      "ruta": "Intentaron asaltar un tráiler en la México-Puebla, pero algo salió…",
-      "descripcion": "Intentaron asaltar un tráiler en la México-Puebla, pero algo salió mal y frustró el robo | VIDEO - Excélsior. Intentaron asaltar un tráiler en la México-Puebla, pero algo salió mal y frustró el robo | VIDEO Excélsior",
-      "fecha": "19 agosto 2026 · 11:48 CST",
-      "fuente": "Excélsior",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxON1RwUVFNMndmVnZmQUpYRFBzUi1ybGlmRkFrVGxWUHJQUkVCOVRVX0VRc1NlMUMzZ19HeWdyM21Hb21XWExSYmROVV9VbU1kR25OUWpKbWlyZ2JCWnMyN05nUGN6TkFxc2RoRV84N01td291TERKMmEyNldNc3J0d3RsSFBDNHMtV01GM1VVXy1nSk9sTkYwSkFGNnZiWkpCYXpERjdvRUJZLW9vTWxrNXNBcEJiTzFQU3g5R3d30gG-AUFVX3lxTE43VHBRUU0yd2ZWdmZBSlhEUHNSLXJsaWZGQWtUbFZQclBSRUI5VFVfRVFzU2UxQzNnX0d5Z3IzbUdvbVdYTFJiZE5VX1VtTWRHbk5RakptaXJnYkJaczI3TmdQY3pOQXFzZGhFXzg3TW13b3VMREoyYTI2V01zcnR3dGxIUEM0cy1XTUYzVVVfLWdKT2xORjBKQUY2dmJaSkJhekRGN29FQlktb29NbGs1c0FwQmJPMVBTeDlHd3c?oc=5",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.35,
-      "lon": -98.4
     },
     {
       "id": "be3ed46d",
