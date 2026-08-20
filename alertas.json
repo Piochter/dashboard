@@ -1,37 +1,13 @@
 {
-  "ultima_actualizacion": "2026-08-20T02:54:31.932548-06:00",
-  "ultima_actualizacion_legible": "20 de agosto de 2026 · 02:54 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-08-20T03:24:53.346779-06:00",
+  "ultima_actualizacion_legible": "20 de agosto de 2026 · 03:24 CST",
+  "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
-    "Medios regionales",
-    "Quadratin + regionales"
+    "Medios regionales"
   ],
   "grupos": [
-    {
-      "tipo": "bloqueo",
-      "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "72628adb",
-          "tipo": "bloqueo",
-          "ruta": "Exigen destitución de Bárcenas y alistan cierre en la caseta…",
-          "descripcion": "Exigen destitución de Bárcenas y alistan cierre en la caseta. Protestantes de Acatlán bloquearán la caseta de Atlixco",
-          "recomendacion": "",
-          "fecha": "19 agosto 2026 · 15:09 CST",
-          "fecha_iso": "2026-08-19T15:09:00-06:00",
-          "fuente": "Quadratin Puebla",
-          "url": "https://puebla.quadratin.com.mx/politica/exigen-destitucion-de-barcenas-y-alistan-cierre-en-la-caseta/",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        }
-      ]
-    },
     {
       "tipo": "cierre_parcial",
       "color": "amarillo",
