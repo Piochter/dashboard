@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-08-20T11:57:43.698298-06:00",
-  "ultima_actualizacion_legible": "20 de agosto de 2026 · 11:57 CST",
-  "total": 6,
+  "ultima_actualizacion": "2026-08-20T12:32:40.781409-06:00",
+  "ultima_actualizacion_legible": "20 de agosto de 2026 · 12:32 CST",
+  "total": 5,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
@@ -26,20 +26,6 @@
           "fecha_iso": "2026-08-20T07:09:00-06:00",
           "fuente": "Eje Central",
           "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOUGZqY200MndVRmJld0Z0MFJhZDVjX3BaZDdoa1VCaTZSeHNaLTZHWFVoSjZXd0F2U3lPdU5ENzhYLTRmUWgzbnhMMlpSb1lVVGJocERQOThqRS1lblFYWEpyVVpiUDNLSi1tMzNBdXFUTEhWY3RkSU5MRkhDcXZ0d2ZCeWFSdjNSTkdaUUcxQVV1d0dEM1dMUlFwWDdUaXJySEVMX2NqNXhHTFJocVR3ZGlRcENEb0Jtb2llMFlVQnpYZFVuVGpfNjVZM0hJdUhXcVpvb013ekhiOHlnSDBjNk9zanNBQXNP?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        },
-        {
-          "id": "c4b7f3c7",
-          "tipo": "bloqueo",
-          "ruta": "Bloqueos en Carreteras de México Hoy: Autopistas con Afectaciones este…",
-          "descripcion": "Bloqueos en Carreteras de México Hoy: Autopistas con Afectaciones este 20 de Agosto 2026 - N+. Bloqueos en Carreteras de México Hoy: Autopistas con Afectaciones este 20 de Agosto 2026 N+",
-          "recomendacion": "",
-          "fecha": "20 agosto 2026 · 07:02 CST",
-          "fecha_iso": "2026-08-20T07:02:00-06:00",
-          "fuente": "N+",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPa0xIc3lkbjJ2a0E4UUVWWXVOal83a2FLT0J1SzFPaGEtRldubWM1RHpKcXFpUzRYakh5MG1WQzZ1di1BME15R1Q5MF8wYldBeExvME8yb0lDMHpCV2JLSzFsTWw2NlB5M0F0aWhmaS0wbWJhb3EyaW1zTVJYdG5iVThjd2Fia0tyeFV2WVByY05Fb2llSzEwelhJUkZsVzhva2RGTnU3ODZoZE5rcjN1MElNTzVmZWlZ?oc=5",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO"
