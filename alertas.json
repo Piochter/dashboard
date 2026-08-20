@@ -1,39 +1,15 @@
 {
-  "ultima_actualizacion": "2026-08-19T19:16:31.790272-06:00",
-  "ultima_actualizacion_legible": "19 de agosto de 2026 · 19:16 CST",
-  "total": 10,
+  "ultima_actualizacion": "2026-08-19T20:32:27.620942-06:00",
+  "ultima_actualizacion_legible": "19 de agosto de 2026 · 20:32 CST",
+  "total": 7,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
+    "Medios regionales",
     "Quadratin + regionales",
     "Telegram"
   ],
   "grupos": [
-    {
-      "tipo": "cierre_total",
-      "color": "rojo",
-      "icono": "🔴",
-      "label": "CIERRE TOTAL",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "2d98995b",
-          "tipo": "cierre_total",
-          "ruta": "🚨#Actualización | Volcadura de autobús en la #México-#Pachuca deja una…",
-          "descripcion": "🚨#Actualización | Volcadura de autobús en la #México-#Pachuca deja una persona sin vida👇\n\nhttps://lajornadaestadodemexico.com/un-muerto-y-al-menos-15-heridos-deja-volcadura-de-autobus-en-la-mexico-pachuca/",
-          "recomendacion": "",
-          "fecha": "19 agosto 2026 · 07:40 CST",
-          "fecha_iso": "2026-08-19T07:40:00-06:00",
-          "fuente": "Telegram @jornadaedomex",
-          "url": "https://t.me/jornadaedomex/11777",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL",
-          "lat": 21.0,
-          "lon": -104.0
-        }
-      ]
-    },
     {
       "tipo": "bloqueo",
       "color": "rojo",
@@ -41,6 +17,22 @@
       "label": "BLOQUEOS / MANIFESTACIONES",
       "col2": false,
       "alertas": [
+        {
+          "id": "437094c2",
+          "tipo": "bloqueo",
+          "ruta": "¿Quién es el 'Tío Lako'? El líder del CNG detrás…",
+          "descripcion": "¿Quién es el 'Tío Lako'? El líder del CNG detrás del caos y bloqueos en Michoacán. Conoce el historial criminal de Heraclio Guerrero Martínez, vinculado a los recientes bloqueos en Michoacán y ataques directos contra la Guardia Nacional",
+          "recomendacion": "",
+          "fecha": "19 agosto 2026 · 19:05 CST",
+          "fecha_iso": "2026-08-19T19:05:00-06:00",
+          "fuente": "El Informador Jalisco",
+          "url": "https://www.informador.mx/mexico/quien-es-el-tio-lako-el-lider-del-cng-detras-del-caos-y-bloqueos-en-michoacan-20260819-0171.html",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 17.55,
+          "lon": -99.5
+        },
         {
           "id": "72628adb",
           "tipo": "bloqueo",
@@ -72,22 +64,6 @@
           "lon": -99.66
         },
         {
-          "id": "30d313a0",
-          "tipo": "bloqueo",
-          "ruta": "Liberan 9 bloqueos carreteros en Michoacán…",
-          "descripcion": "Liberan 9 bloqueos carreteros en Michoacán. Mantenemos presencia permanente en las carreteras para garantizar su seguridad y un tránsito fluido.",
-          "recomendacion": "",
-          "fecha": "19 agosto 2026 · 12:52 CST",
-          "fecha_iso": "2026-08-19T12:52:00-06:00",
-          "fuente": "Quadratin Oaxaca",
-          "url": "https://oaxaca.quadratin.com.mx/liberan-9-bloqueos-carreteros-en-michoacan/",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 19.7,
-          "lon": -101.19
-        },
-        {
           "id": "be3ed46d",
           "tipo": "bloqueo",
           "ruta": "⚠️ #Michoacán registra bloqueos en diversas vialidades, recomiendan evitar las…",
@@ -113,38 +89,6 @@
       "col2": true,
       "alertas": [
         {
-          "id": "74c03df1",
-          "tipo": "cierre_parcial",
-          "ruta": "Frustran asalto a balazos en el macrolibramiento Apaseo – Palmillas…",
-          "descripcion": "Frustran asalto a balazos en el macrolibramiento Apaseo – Palmillas. Fue frustrado un asalto a balazos en el macrolibramiento Apaseo - Palmillas a la altura del cruce con la carretera estatal a Coroneo The post Frustran asalto a balazos en el macrolibramiento Apaseo – Palmillas appeared first on Quadratin Querétaro.",
-          "recomendacion": "",
-          "fecha": "19 agosto 2026 · 18:40 CST",
-          "fecha_iso": "2026-08-19T18:40:00-06:00",
-          "fuente": "Quadratin Queretaro",
-          "url": "https://queretaro.quadratin.com.mx/frustran-asalto-a-balazos-en-el-macrolibramiento-apaseo-palmillas/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 20.59,
-          "lon": -100.39
-        },
-        {
-          "id": "5af9553c",
-          "tipo": "cierre_parcial",
-          "ruta": "Agarra Policía de Metepec a implicados en robo de 100…",
-          "descripcion": "Agarra Policía de Metepec a implicados en robo de 100 mil pesos a óptica. METEPEC, Edomex., 19 de agosto del 2026.- La oportuna intervención de la Policía Municipal de Metepec permitió la detención de dos personas señaladas como probables responsables del robo de mercancía valuada en aproximadamente 100 mil pesos, ocurrido el pasado 4 de agosto en una óptica y clínica ubicada sobre avenida Gobernadores. La investigación comenzó a […]",
-          "recomendacion": "",
-          "fecha": "19 agosto 2026 · 18:00 CST",
-          "fecha_iso": "2026-08-19T18:00:00-06:00",
-          "fuente": "Quadratin EdoMex",
-          "url": "https://edomex.quadratin.com.mx/agarra-policia-de-metepec-a-implicados-en-robo-de-100-mil-pesos-a-optica/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.35,
-          "lon": -99.7
-        },
-        {
           "id": "5e7758e8",
           "tipo": "cierre_parcial",
           "ruta": "autopista México-Querétaro - MVS Noticias",
@@ -161,14 +105,14 @@
           "lon": -99.5
         },
         {
-          "id": "10a2aef5",
+          "id": "ec758886",
           "tipo": "cierre_parcial",
           "ruta": "Intentaron asaltar un tráiler en la México-Puebla, pero algo salió…",
-          "descripcion": "Intentaron asaltar un tráiler en la México-Puebla, pero algo salió mal y frustró el robo | VIDEO - excelsior.com.mx. Intentaron asaltar un tráiler en la México-Puebla, pero algo salió mal y frustró el robo | VIDEO excelsior.com.mx",
+          "descripcion": "Intentaron asaltar un tráiler en la México-Puebla, pero algo salió mal y frustró el robo | VIDEO - Excélsior. Intentaron asaltar un tráiler en la México-Puebla, pero algo salió mal y frustró el robo | VIDEO Excélsior",
           "recomendacion": "",
           "fecha": "19 agosto 2026 · 11:48 CST",
           "fecha_iso": "2026-08-19T11:48:00-06:00",
-          "fuente": "excelsior.com.mx",
+          "fuente": "Excélsior",
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxON1RwUVFNMndmVnZmQUpYRFBzUi1ybGlmRkFrVGxWUHJQUkVCOVRVX0VRc1NlMUMzZ19HeWdyM21Hb21XWExSYmROVV9VbU1kR25OUWpKbWlyZ2JCWnMyN05nUGN6TkFxc2RoRV84N01td291TERKMmEyNldNc3J0d3RsSFBDNHMtV01GM1VVXy1nSk9sTkYwSkFGNnZiWkpCYXpERjdvRUJZLW9vTWxrNXNBcEJiTzFQU3g5R3d30gG-AUFVX3lxTE43VHBRUU0yd2ZWdmZBSlhEUHNSLXJsaWZGQWtUbFZQclBSRUI5VFVfRVFzU2UxQzNnX0d5Z3IzbUdvbVdYTFJiZE5VX1VtTWRHbk5RakptaXJnYkJaczI3TmdQY3pOQXFzZGhFXzg3TW13b3VMREoyYTI2V01zcnR3dGxIUEM0cy1XTUYzVVVfLWdKT2xORjBKQUY2dmJaSkJhekRGN29FQlktb29NbGs1c0FwQmJPMVBTeDlHd3c?oc=5",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
@@ -195,30 +139,17 @@
   ],
   "para_mapa": [
     {
-      "id": "74c03df1",
-      "tipo": "cierre_parcial",
-      "ruta": "Frustran asalto a balazos en el macrolibramiento Apaseo – Palmillas…",
-      "descripcion": "Frustran asalto a balazos en el macrolibramiento Apaseo – Palmillas. Fue frustrado un asalto a balazos en el macrolibramiento Apaseo - Palmillas a la altura del cruce con la carretera estatal a Coroneo The post Frustran asalto a balazos en el macrolibramiento Apaseo – Palmillas appeared first on Quadratin Querétaro.",
-      "fecha": "19 agosto 2026 · 18:40 CST",
-      "fuente": "Quadratin Queretaro",
-      "url": "https://queretaro.quadratin.com.mx/frustran-asalto-a-balazos-en-el-macrolibramiento-apaseo-palmillas/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 20.59,
-      "lon": -100.39
-    },
-    {
-      "id": "5af9553c",
-      "tipo": "cierre_parcial",
-      "ruta": "Agarra Policía de Metepec a implicados en robo de 100…",
-      "descripcion": "Agarra Policía de Metepec a implicados en robo de 100 mil pesos a óptica. METEPEC, Edomex., 19 de agosto del 2026.- La oportuna intervención de la Policía Municipal de Metepec permitió la detención de dos personas señaladas como probables responsables del robo de mercancía valuada en aproximadamente 100 mil pesos, ocurrido el pasado 4 de agosto en una óptica y clínica ubicada sobre avenida Gobernadores. La investigación comenzó a […]",
-      "fecha": "19 agosto 2026 · 18:00 CST",
-      "fuente": "Quadratin EdoMex",
-      "url": "https://edomex.quadratin.com.mx/agarra-policia-de-metepec-a-implicados-en-robo-de-100-mil-pesos-a-optica/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.35,
-      "lon": -99.7
+      "id": "437094c2",
+      "tipo": "bloqueo",
+      "ruta": "¿Quién es el 'Tío Lako'? El líder del CNG detrás…",
+      "descripcion": "¿Quién es el 'Tío Lako'? El líder del CNG detrás del caos y bloqueos en Michoacán. Conoce el historial criminal de Heraclio Guerrero Martínez, vinculado a los recientes bloqueos en Michoacán y ataques directos contra la Guardia Nacional",
+      "fecha": "19 agosto 2026 · 19:05 CST",
+      "fuente": "El Informador Jalisco",
+      "url": "https://www.informador.mx/mexico/quien-es-el-tio-lako-el-lider-del-cng-detras-del-caos-y-bloqueos-en-michoacan-20260819-0171.html",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 17.55,
+      "lon": -99.5
     },
     {
       "id": "5e7758e8",
@@ -247,25 +178,12 @@
       "lon": -99.66
     },
     {
-      "id": "30d313a0",
-      "tipo": "bloqueo",
-      "ruta": "Liberan 9 bloqueos carreteros en Michoacán…",
-      "descripcion": "Liberan 9 bloqueos carreteros en Michoacán. Mantenemos presencia permanente en las carreteras para garantizar su seguridad y un tránsito fluido.",
-      "fecha": "19 agosto 2026 · 12:52 CST",
-      "fuente": "Quadratin Oaxaca",
-      "url": "https://oaxaca.quadratin.com.mx/liberan-9-bloqueos-carreteros-en-michoacan/",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 19.7,
-      "lon": -101.19
-    },
-    {
-      "id": "10a2aef5",
+      "id": "ec758886",
       "tipo": "cierre_parcial",
       "ruta": "Intentaron asaltar un tráiler en la México-Puebla, pero algo salió…",
-      "descripcion": "Intentaron asaltar un tráiler en la México-Puebla, pero algo salió mal y frustró el robo | VIDEO - excelsior.com.mx. Intentaron asaltar un tráiler en la México-Puebla, pero algo salió mal y frustró el robo | VIDEO excelsior.com.mx",
+      "descripcion": "Intentaron asaltar un tráiler en la México-Puebla, pero algo salió mal y frustró el robo | VIDEO - Excélsior. Intentaron asaltar un tráiler en la México-Puebla, pero algo salió mal y frustró el robo | VIDEO Excélsior",
       "fecha": "19 agosto 2026 · 11:48 CST",
-      "fuente": "excelsior.com.mx",
+      "fuente": "Excélsior",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxON1RwUVFNMndmVnZmQUpYRFBzUi1ybGlmRkFrVGxWUHJQUkVCOVRVX0VRc1NlMUMzZ19HeWdyM21Hb21XWExSYmROVV9VbU1kR25OUWpKbWlyZ2JCWnMyN05nUGN6TkFxc2RoRV84N01td291TERKMmEyNldNc3J0d3RsSFBDNHMtV01GM1VVXy1nSk9sTkYwSkFGNnZiWkpCYXpERjdvRUJZLW9vTWxrNXNBcEJiTzFQU3g5R3d30gG-AUFVX3lxTE43VHBRUU0yd2ZWdmZBSlhEUHNSLXJsaWZGQWtUbFZQclBSRUI5VFVfRVFzU2UxQzNnX0d5Z3IzbUdvbVdYTFJiZE5VX1VtTWRHbk5RakptaXJnYkJaczI3TmdQY3pOQXFzZGhFXzg3TW13b3VMREoyYTI2V01zcnR3dGxIUEM0cy1XTUYzVVVfLWdKT2xORjBKQUY2dmJaSkJhekRGN29FQlktb29NbGs1c0FwQmJPMVBTeDlHd3c?oc=5",
       "dot_color": "#e67e22",
       "badge_txt": "CIERRE PARCIAL",
@@ -284,19 +202,6 @@
       "badge_txt": "BLOQUEO",
       "lat": 19.7,
       "lon": -101.19
-    },
-    {
-      "id": "2d98995b",
-      "tipo": "cierre_total",
-      "ruta": "🚨#Actualización | Volcadura de autobús en la #México-#Pachuca deja una…",
-      "descripcion": "🚨#Actualización | Volcadura de autobús en la #México-#Pachuca deja una persona sin vida👇\n\nhttps://lajornadaestadodemexico.com/un-muerto-y-al-menos-15-heridos-deja-volcadura-de-autobus-en-la-mexico-pachuca/",
-      "fecha": "19 agosto 2026 · 07:40 CST",
-      "fuente": "Telegram @jornadaedomex",
-      "url": "https://t.me/jornadaedomex/11777",
-      "dot_color": "#e74c3c",
-      "badge_txt": "CIERRE TOTAL",
-      "lat": 21.0,
-      "lon": -104.0
     }
   ]
 }
