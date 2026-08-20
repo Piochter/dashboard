@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-08-20T07:32:20.920702-06:00",
-  "ultima_actualizacion_legible": "20 de agosto de 2026 · 07:32 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-08-20T08:07:37.508340-06:00",
+  "ultima_actualizacion_legible": "20 de agosto de 2026 · 08:07 CST",
+  "total": 4,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
@@ -28,6 +28,20 @@
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO"
+        },
+        {
+          "id": "c4b7f3c7",
+          "tipo": "bloqueo",
+          "ruta": "Bloqueos en Carreteras de México Hoy: Autopistas con Afectaciones este…",
+          "descripcion": "Bloqueos en Carreteras de México Hoy: Autopistas con Afectaciones este 20 de Agosto 2026 - N+. Bloqueos en Carreteras de México Hoy: Autopistas con Afectaciones este 20 de Agosto 2026 N+",
+          "recomendacion": "",
+          "fecha": "20 agosto 2026 · 07:02 CST",
+          "fecha_iso": "2026-08-20T07:02:00-06:00",
+          "fuente": "N+",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPa0xIc3lkbjJ2a0E4UUVWWXVOal83a2FLT0J1SzFPaGEtRldubWM1RHpKcXFpUzRYakh5MG1WQzZ1di1BME15R1Q5MF8wYldBeExvME8yb0lDMHpCV2JLSzFsTWw2NlB5M0F0aWhmaS0wbWJhb3EyaW1zTVJYdG5iVThjd2Fia0tyeFV2WVByY05Fb2llSzEwelhJUkZsVzhva2RGTnU3ODZoZE5rcjN1MElNTzVmZWlZ?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
         }
       ]
     },
@@ -44,8 +58,8 @@
           "ruta": "Robo de carga en México 2T26: el riesgo ya no…",
           "descripcion": "Robo de carga en México 2T26: el riesgo ya no está sólo en la carretera. El robo de carga en México está cambiando de ubicación, horario y forma de ejecución. Los datos del segundo trimestre de 2026 (2T26) muestran que identificar una mercancía como “de alto riesgo” ya no es suficiente. Hoy, resulta necesario conocer qué producto se transporta, por qué carretera, a qué hora, dónde se detendrá la unidad […]",
           "recomendacion": "",
-          "fecha": "20 agosto 2026 · 06:45 CST",
-          "fecha_iso": "2026-08-20T06:45:00-06:00",
+          "fecha": "20 agosto 2026 · 06:55 CST",
+          "fecha_iso": "2026-08-20T06:55:00-06:00",
           "fuente": "T21 Transporte",
           "url": "https://t21.com.mx/robo-de-carga-en-mexico-2t26-el-riesgo-ya-no-esta-solo-en-la-carretera/",
           "dot_color": "#c0392b",
