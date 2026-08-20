@@ -1,38 +1,15 @@
 {
-  "ultima_actualizacion": "2026-08-20T13:18:24.493611-06:00",
-  "ultima_actualizacion_legible": "20 de agosto de 2026 · 13:18 CST",
-  "total": 6,
+  "ultima_actualizacion": "2026-08-20T13:53:24.322147-06:00",
+  "ultima_actualizacion_legible": "20 de agosto de 2026 · 13:53 CST",
+  "total": 7,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
     "Medios nacionales",
-    "Medios regionales",
+    "Quadratin + regionales",
     "Telegram"
   ],
   "grupos": [
-    {
-      "tipo": "cierre_total",
-      "color": "rojo",
-      "icono": "🔴",
-      "label": "CIERRE TOTAL",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "df32c2ac",
-          "tipo": "cierre_total",
-          "ruta": "Sacude terremoto de 7.2 a Perú y provoca derrumbes en…",
-          "descripcion": "Sacude terremoto de 7.2 a Perú y provoca derrumbes en el sur. A una profundida de 108 km",
-          "recomendacion": "",
-          "fecha": "20 agosto 2026 · 12:58 CST",
-          "fecha_iso": "2026-08-20T12:58:00-06:00",
-          "fuente": "Quadratin Michoacan",
-          "url": "https://www.quadratin.com.mx/internacionales/sacude-terremoto-de-7-2-a-peru-y-provoca-derrumbes-en-el-sur/",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL"
-        }
-      ]
-    },
     {
       "tipo": "bloqueo",
       "color": "rojo",
@@ -40,6 +17,22 @@
       "label": "BLOQUEOS / MANIFESTACIONES",
       "col2": false,
       "alertas": [
+        {
+          "id": "04f7505a",
+          "tipo": "bloqueo",
+          "ruta": "Suman 6 meses de paro en Tren Méx-Qro…",
+          "descripcion": "Suman 6 meses de paro en Tren Méx-Qro. CUAUTITLÁN, Edomex., 20 de agosto de 2026.- Habitantes de la comunidad de San Mateo Ixtacalco, en este municipio mexiquense, mantienen un bloqueo en las labores de construcción del tren México-Querétaro, por supuestos desacuerdos con el gobierno federal en relación con proyectos de movilidad como puentes peatonales y vehiculares, así como indemnizaciones por afectaciones a sus […]",
+          "recomendacion": "",
+          "fecha": "20 agosto 2026 · 13:45 CST",
+          "fecha_iso": "2026-08-20T13:45:00-06:00",
+          "fuente": "Quadratin EdoMex",
+          "url": "https://edomex.quadratin.com.mx/suman-6-meses-de-paro-en-tren-mex-qro/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 20.1,
+          "lon": -99.5
+        },
         {
           "id": "6264a92c",
           "tipo": "bloqueo",
@@ -50,6 +43,20 @@
           "fecha_iso": "2026-08-20T07:09:00-06:00",
           "fuente": "Eje Central",
           "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOUGZqY200MndVRmJld0Z0MFJhZDVjX3BaZDdoa1VCaTZSeHNaLTZHWFVoSjZXd0F2U3lPdU5ENzhYLTRmUWgzbnhMMlpSb1lVVGJocERQOThqRS1lblFYWEpyVVpiUDNLSi1tMzNBdXFUTEhWY3RkSU5MRkhDcXZ0d2ZCeWFSdjNSTkdaUUcxQVV1d0dEM1dMUlFwWDdUaXJySEVMX2NqNXhHTFJocVR3ZGlRcENEb0Jtb2llMFlVQnpYZFVuVGpfNjVZM0hJdUhXcVpvb013ekhiOHlnSDBjNk9zanNBQXNP?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
+        {
+          "id": "c4b7f3c7",
+          "tipo": "bloqueo",
+          "ruta": "Bloqueos en Carreteras de México Hoy: Autopistas con Afectaciones este…",
+          "descripcion": "Bloqueos en Carreteras de México Hoy: Autopistas con Afectaciones este 20 de Agosto 2026 - N+. Bloqueos en Carreteras de México Hoy: Autopistas con Afectaciones este 20 de Agosto 2026 N+",
+          "recomendacion": "",
+          "fecha": "20 agosto 2026 · 07:02 CST",
+          "fecha_iso": "2026-08-20T07:02:00-06:00",
+          "fuente": "N+",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPa0xIc3lkbjJ2a0E4UUVWWXVOal83a2FLT0J1SzFPaGEtRldubWM1RHpKcXFpUzRYakh5MG1WQzZ1di1BME15R1Q5MF8wYldBeExvME8yb0lDMHpCV2JLSzFsTWw2NlB5M0F0aWhmaS0wbWJhb3EyaW1zTVJYdG5iVThjd2Fia0tyeFV2WVByY05Fb2llSzEwelhJUkZsVzhva2RGTnU3ODZoZE5rcjN1MElNTzVmZWlZ?oc=5",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO"
@@ -134,6 +141,19 @@
     }
   ],
   "para_mapa": [
+    {
+      "id": "04f7505a",
+      "tipo": "bloqueo",
+      "ruta": "Suman 6 meses de paro en Tren Méx-Qro…",
+      "descripcion": "Suman 6 meses de paro en Tren Méx-Qro. CUAUTITLÁN, Edomex., 20 de agosto de 2026.- Habitantes de la comunidad de San Mateo Ixtacalco, en este municipio mexiquense, mantienen un bloqueo en las labores de construcción del tren México-Querétaro, por supuestos desacuerdos con el gobierno federal en relación con proyectos de movilidad como puentes peatonales y vehiculares, así como indemnizaciones por afectaciones a sus […]",
+      "fecha": "20 agosto 2026 · 13:45 CST",
+      "fuente": "Quadratin EdoMex",
+      "url": "https://edomex.quadratin.com.mx/suman-6-meses-de-paro-en-tren-mex-qro/",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 20.1,
+      "lon": -99.5
+    },
     {
       "id": "ed556784",
       "tipo": "cierre_parcial",
