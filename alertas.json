@@ -1,14 +1,38 @@
 {
-  "ultima_actualizacion": "2026-08-20T12:32:40.781409-06:00",
-  "ultima_actualizacion_legible": "20 de agosto de 2026 · 12:32 CST",
-  "total": 5,
+  "ultima_actualizacion": "2026-08-20T13:18:24.493611-06:00",
+  "ultima_actualizacion_legible": "20 de agosto de 2026 · 13:18 CST",
+  "total": 6,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
     "Medios nacionales",
+    "Medios regionales",
     "Telegram"
   ],
   "grupos": [
+    {
+      "tipo": "cierre_total",
+      "color": "rojo",
+      "icono": "🔴",
+      "label": "CIERRE TOTAL",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "df32c2ac",
+          "tipo": "cierre_total",
+          "ruta": "Sacude terremoto de 7.2 a Perú y provoca derrumbes en…",
+          "descripcion": "Sacude terremoto de 7.2 a Perú y provoca derrumbes en el sur. A una profundida de 108 km",
+          "recomendacion": "",
+          "fecha": "20 agosto 2026 · 12:58 CST",
+          "fecha_iso": "2026-08-20T12:58:00-06:00",
+          "fuente": "Quadratin Michoacan",
+          "url": "https://www.quadratin.com.mx/internacionales/sacude-terremoto-de-7-2-a-peru-y-provoca-derrumbes-en-el-sur/",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL"
+        }
+      ]
+    },
     {
       "tipo": "bloqueo",
       "color": "rojo",
