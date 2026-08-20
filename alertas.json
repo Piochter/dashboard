@@ -1,13 +1,12 @@
 {
-  "ultima_actualizacion": "2026-08-20T00:29:41.696585-06:00",
-  "ultima_actualizacion_legible": "20 de agosto de 2026 · 00:29 CST",
-  "total": 5,
+  "ultima_actualizacion": "2026-08-20T01:23:44.673091-06:00",
+  "ultima_actualizacion_legible": "20 de agosto de 2026 · 01:23 CST",
+  "total": 3,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
     "Medios regionales",
-    "Quadratin + regionales",
-    "Telegram"
+    "Quadratin + regionales"
   ],
   "grupos": [
     {
@@ -17,22 +16,6 @@
       "label": "BLOQUEOS / MANIFESTACIONES",
       "col2": false,
       "alertas": [
-        {
-          "id": "437094c2",
-          "tipo": "bloqueo",
-          "ruta": "¿Quién es el 'Tío Lako'? El líder del CNG detrás…",
-          "descripcion": "¿Quién es el 'Tío Lako'? El líder del CNG detrás del caos y bloqueos en Michoacán. Conoce el historial criminal de Heraclio Guerrero Martínez, vinculado a los recientes bloqueos en Michoacán y ataques directos contra la Guardia Nacional",
-          "recomendacion": "",
-          "fecha": "19 agosto 2026 · 19:05 CST",
-          "fecha_iso": "2026-08-19T19:05:00-06:00",
-          "fuente": "El Informador Jalisco",
-          "url": "https://www.informador.mx/mexico/quien-es-el-tio-lako-el-lider-del-cng-detras-del-caos-y-bloqueos-en-michoacan-20260819-0171.html",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 17.55,
-          "lon": -99.5
-        },
         {
           "id": "72628adb",
           "tipo": "bloqueo",
@@ -46,22 +29,6 @@
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO"
-        },
-        {
-          "id": "bf425d64",
-          "tipo": "bloqueo",
-          "ruta": "#AlertaVial | México-Toluca bloqueada por manifestación hoy 19 de agosto👇…",
-          "descripcion": "#AlertaVial | México-Toluca bloqueada por manifestación hoy 19 de agosto👇\n https://lajornadaestadodemexico.com/mexico-toluca-bloqueada-por-manifestacion/",
-          "recomendacion": "",
-          "fecha": "19 agosto 2026 · 13:22 CST",
-          "fecha_iso": "2026-08-19T13:22:00-06:00",
-          "fuente": "Telegram @jornadaedomex",
-          "url": "https://t.me/jornadaedomex/11785",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 19.29,
-          "lon": -99.66
         }
       ]
     },
@@ -107,19 +74,6 @@
   ],
   "para_mapa": [
     {
-      "id": "437094c2",
-      "tipo": "bloqueo",
-      "ruta": "¿Quién es el 'Tío Lako'? El líder del CNG detrás…",
-      "descripcion": "¿Quién es el 'Tío Lako'? El líder del CNG detrás del caos y bloqueos en Michoacán. Conoce el historial criminal de Heraclio Guerrero Martínez, vinculado a los recientes bloqueos en Michoacán y ataques directos contra la Guardia Nacional",
-      "fecha": "19 agosto 2026 · 19:05 CST",
-      "fuente": "El Informador Jalisco",
-      "url": "https://www.informador.mx/mexico/quien-es-el-tio-lako-el-lider-del-cng-detras-del-caos-y-bloqueos-en-michoacan-20260819-0171.html",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 17.55,
-      "lon": -99.5
-    },
-    {
       "id": "5e7758e8",
       "tipo": "cierre_parcial",
       "ruta": "autopista México-Querétaro - MVS Noticias",
@@ -131,19 +85,6 @@
       "badge_txt": "CIERRE PARCIAL",
       "lat": 20.1,
       "lon": -99.5
-    },
-    {
-      "id": "bf425d64",
-      "tipo": "bloqueo",
-      "ruta": "#AlertaVial | México-Toluca bloqueada por manifestación hoy 19 de agosto👇…",
-      "descripcion": "#AlertaVial | México-Toluca bloqueada por manifestación hoy 19 de agosto👇\n https://lajornadaestadodemexico.com/mexico-toluca-bloqueada-por-manifestacion/",
-      "fecha": "19 agosto 2026 · 13:22 CST",
-      "fuente": "Telegram @jornadaedomex",
-      "url": "https://t.me/jornadaedomex/11785",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 19.29,
-      "lon": -99.66
     }
   ]
 }
