@@ -1,12 +1,59 @@
 {
-  "ultima_actualizacion": "2026-08-20T06:27:56.709934-06:00",
-  "ultima_actualizacion_legible": "20 de agosto de 2026 · 06:27 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-08-20T07:32:20.920702-06:00",
+  "ultima_actualizacion_legible": "20 de agosto de 2026 · 07:32 CST",
+  "total": 3,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
+    "Google News",
     "Medios nacionales"
   ],
   "grupos": [
+    {
+      "tipo": "bloqueo",
+      "color": "rojo",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "6264a92c",
+          "tipo": "bloqueo",
+          "ruta": "Bloqueos carreteras HOY 20 de agosto: Autopistas cerradas en México,…",
+          "descripcion": "Bloqueos carreteras HOY 20 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 20 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
+          "recomendacion": "",
+          "fecha": "20 agosto 2026 · 07:09 CST",
+          "fecha_iso": "2026-08-20T07:09:00-06:00",
+          "fuente": "Eje Central",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOUGZqY200MndVRmJld0Z0MFJhZDVjX3BaZDdoa1VCaTZSeHNaLTZHWFVoSjZXd0F2U3lPdU5ENzhYLTRmUWgzbnhMMlpSb1lVVGJocERQOThqRS1lblFYWEpyVVpiUDNLSi1tMzNBdXFUTEhWY3RkSU5MRkhDcXZ0d2ZCeWFSdjNSTkdaUUcxQVV1d0dEM1dMUlFwWDdUaXJySEVMX2NqNXhHTFJocVR3ZGlRcENEb0Jtb2llMFlVQnpYZFVuVGpfNjVZM0hJdUhXcVpvb013ekhiOHlnSDBjNk9zanNBQXNP?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        }
+      ]
+    },
+    {
+      "tipo": "robo",
+      "color": "rojo",
+      "icono": "🚨",
+      "label": "ROBOS EN CARRETERA",
+      "col2": true,
+      "alertas": [
+        {
+          "id": "54f8564b",
+          "tipo": "robo",
+          "ruta": "Robo de carga en México 2T26: el riesgo ya no…",
+          "descripcion": "Robo de carga en México 2T26: el riesgo ya no está sólo en la carretera. El robo de carga en México está cambiando de ubicación, horario y forma de ejecución. Los datos del segundo trimestre de 2026 (2T26) muestran que identificar una mercancía como “de alto riesgo” ya no es suficiente. Hoy, resulta necesario conocer qué producto se transporta, por qué carretera, a qué hora, dónde se detendrá la unidad […]",
+          "recomendacion": "",
+          "fecha": "20 agosto 2026 · 06:45 CST",
+          "fecha_iso": "2026-08-20T06:45:00-06:00",
+          "fuente": "T21 Transporte",
+          "url": "https://t21.com.mx/robo-de-carga-en-mexico-2t26-el-riesgo-ya-no-esta-solo-en-la-carretera/",
+          "dot_color": "#c0392b",
+          "badge": "badge-robo",
+          "badge_txt": "ROBO"
+        }
+      ]
+    },
     {
       "tipo": "cierre_parcial",
       "color": "amarillo",
