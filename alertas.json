@@ -1,11 +1,10 @@
 {
-  "ultima_actualizacion": "2026-08-19T17:59:49.622287-06:00",
-  "ultima_actualizacion_legible": "19 de agosto de 2026 · 17:59 CST",
-  "total": 11,
+  "ultima_actualizacion": "2026-08-19T19:16:31.790272-06:00",
+  "ultima_actualizacion_legible": "19 de agosto de 2026 · 19:16 CST",
+  "total": 10,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
-    "Medios regionales",
     "Quadratin + regionales",
     "Telegram"
   ],
@@ -57,22 +56,6 @@
           "badge_txt": "BLOQUEO"
         },
         {
-          "id": "5f0f9dc7",
-          "tipo": "bloqueo",
-          "ruta": "Restablecen circulación en Michoacán tras jornada de bloqueos…",
-          "descripcion": "Restablecen circulación en Michoacán tras jornada de bloqueos. Las autoridades de Michoacán reportaron el restablecimiento total de la circulación en las carreteras afectadas por los bloqueos de este miércoles, tras el despliegue de operativos de seguridad",
-          "recomendacion": "",
-          "fecha": "19 agosto 2026 · 14:15 CST",
-          "fecha_iso": "2026-08-19T14:15:00-06:00",
-          "fuente": "El Informador Jalisco",
-          "url": "https://www.informador.mx/mexico/restablecen-circulacion-en-michoacan-tras-jornada-de-bloqueos-y-operativos-federales-20260819-0120.html",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 19.7,
-          "lon": -101.19
-        },
-        {
           "id": "bf425d64",
           "tipo": "bloqueo",
           "ruta": "#AlertaVial | México-Toluca bloqueada por manifestación hoy 19 de agosto👇…",
@@ -119,20 +102,6 @@
           "badge_txt": "BLOQUEO",
           "lat": 19.7,
           "lon": -101.19
-        },
-        {
-          "id": "2d1a71fc",
-          "tipo": "bloqueo",
-          "ruta": "Bloqueos carreteras HOY 19 de agosto: Autopistas cerradas en México,…",
-          "descripcion": "Bloqueos carreteras HOY 19 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 19 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
-          "recomendacion": "",
-          "fecha": "19 agosto 2026 · 07:08 CST",
-          "fecha_iso": "2026-08-19T07:08:00-06:00",
-          "fuente": "Eje Central",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOVVN2VjVYbnJOblB6RThNbmJvWWRiem5mZnNZWlpMWEp5a3k4NDVSWUxFaXg3VnlpMWh2U3Vpb1FQY0ZMUjM3X1FqUUU2QktTNHU0OUY5RDAzUTl2ODlWbWM0cV9TcFVsN1FTTXd6Ym9peENPcE9UMXRxemVsaDlhXzVBUUlDemkzVHdtemxteV9jZlpMSFhweGRfOWVkdWREbEh5aGFic1NyQnFMNkpOaHRpUDB3SnFnOTVIYXRxVUNfVHF2cjBsX2VMaWw0dzVveUd5MFY4NllHYVpuQmtGNHNiZ1FqUllU?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
         }
       ]
     },
@@ -143,6 +112,38 @@
       "label": "CIERRE PARCIAL / ACCIDENTES",
       "col2": true,
       "alertas": [
+        {
+          "id": "74c03df1",
+          "tipo": "cierre_parcial",
+          "ruta": "Frustran asalto a balazos en el macrolibramiento Apaseo – Palmillas…",
+          "descripcion": "Frustran asalto a balazos en el macrolibramiento Apaseo – Palmillas. Fue frustrado un asalto a balazos en el macrolibramiento Apaseo - Palmillas a la altura del cruce con la carretera estatal a Coroneo The post Frustran asalto a balazos en el macrolibramiento Apaseo – Palmillas appeared first on Quadratin Querétaro.",
+          "recomendacion": "",
+          "fecha": "19 agosto 2026 · 18:40 CST",
+          "fecha_iso": "2026-08-19T18:40:00-06:00",
+          "fuente": "Quadratin Queretaro",
+          "url": "https://queretaro.quadratin.com.mx/frustran-asalto-a-balazos-en-el-macrolibramiento-apaseo-palmillas/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 20.59,
+          "lon": -100.39
+        },
+        {
+          "id": "5af9553c",
+          "tipo": "cierre_parcial",
+          "ruta": "Agarra Policía de Metepec a implicados en robo de 100…",
+          "descripcion": "Agarra Policía de Metepec a implicados en robo de 100 mil pesos a óptica. METEPEC, Edomex., 19 de agosto del 2026.- La oportuna intervención de la Policía Municipal de Metepec permitió la detención de dos personas señaladas como probables responsables del robo de mercancía valuada en aproximadamente 100 mil pesos, ocurrido el pasado 4 de agosto en una óptica y clínica ubicada sobre avenida Gobernadores. La investigación comenzó a […]",
+          "recomendacion": "",
+          "fecha": "19 agosto 2026 · 18:00 CST",
+          "fecha_iso": "2026-08-19T18:00:00-06:00",
+          "fuente": "Quadratin EdoMex",
+          "url": "https://edomex.quadratin.com.mx/agarra-policia-de-metepec-a-implicados-en-robo-de-100-mil-pesos-a-optica/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 19.35,
+          "lon": -99.7
+        },
         {
           "id": "5e7758e8",
           "tipo": "cierre_parcial",
@@ -160,14 +161,14 @@
           "lon": -99.5
         },
         {
-          "id": "ec758886",
+          "id": "10a2aef5",
           "tipo": "cierre_parcial",
           "ruta": "Intentaron asaltar un tráiler en la México-Puebla, pero algo salió…",
-          "descripcion": "Intentaron asaltar un tráiler en la México-Puebla, pero algo salió mal y frustró el robo | VIDEO - Excélsior. Intentaron asaltar un tráiler en la México-Puebla, pero algo salió mal y frustró el robo | VIDEO Excélsior",
+          "descripcion": "Intentaron asaltar un tráiler en la México-Puebla, pero algo salió mal y frustró el robo | VIDEO - excelsior.com.mx. Intentaron asaltar un tráiler en la México-Puebla, pero algo salió mal y frustró el robo | VIDEO excelsior.com.mx",
           "recomendacion": "",
           "fecha": "19 agosto 2026 · 11:48 CST",
           "fecha_iso": "2026-08-19T11:48:00-06:00",
-          "fuente": "Excélsior",
+          "fuente": "excelsior.com.mx",
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxON1RwUVFNMndmVnZmQUpYRFBzUi1ybGlmRkFrVGxWUHJQUkVCOVRVX0VRc1NlMUMzZ19HeWdyM21Hb21XWExSYmROVV9VbU1kR25OUWpKbWlyZ2JCWnMyN05nUGN6TkFxc2RoRV84N01td291TERKMmEyNldNc3J0d3RsSFBDNHMtV01GM1VVXy1nSk9sTkYwSkFGNnZiWkpCYXpERjdvRUJZLW9vTWxrNXNBcEJiTzFQU3g5R3d30gG-AUFVX3lxTE43VHBRUU0yd2ZWdmZBSlhEUHNSLXJsaWZGQWtUbFZQclBSRUI5VFVfRVFzU2UxQzNnX0d5Z3IzbUdvbVdYTFJiZE5VX1VtTWRHbk5RakptaXJnYkJaczI3TmdQY3pOQXFzZGhFXzg3TW13b3VMREoyYTI2V01zcnR3dGxIUEM0cy1XTUYzVVVfLWdKT2xORjBKQUY2dmJaSkJhekRGN29FQlktb29NbGs1c0FwQmJPMVBTeDlHd3c?oc=5",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
@@ -188,27 +189,37 @@
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL"
-        },
-        {
-          "id": "12747cd6",
-          "tipo": "cierre_parcial",
-          "ruta": "🚨¿Qué paso en la #México-#Pachuca hoy 19 de agosto? 😱…",
-          "descripcion": "🚨¿Qué paso en la #México-#Pachuca hoy 19 de agosto?  😱 Accidente deja varios lesionados [#VIDEO 👇]\n\nhttps://lajornadaestadodemexico.com/que-paso-en-la-mexico-pachuca-hoy-19-de-agosto/",
-          "recomendacion": "",
-          "fecha": "19 agosto 2026 · 07:10 CST",
-          "fecha_iso": "2026-08-19T07:10:00-06:00",
-          "fuente": "Telegram @jornadaedomex",
-          "url": "https://t.me/jornadaedomex/11776",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 20.12,
-          "lon": -98.73
         }
       ]
     }
   ],
   "para_mapa": [
+    {
+      "id": "74c03df1",
+      "tipo": "cierre_parcial",
+      "ruta": "Frustran asalto a balazos en el macrolibramiento Apaseo – Palmillas…",
+      "descripcion": "Frustran asalto a balazos en el macrolibramiento Apaseo – Palmillas. Fue frustrado un asalto a balazos en el macrolibramiento Apaseo - Palmillas a la altura del cruce con la carretera estatal a Coroneo The post Frustran asalto a balazos en el macrolibramiento Apaseo – Palmillas appeared first on Quadratin Querétaro.",
+      "fecha": "19 agosto 2026 · 18:40 CST",
+      "fuente": "Quadratin Queretaro",
+      "url": "https://queretaro.quadratin.com.mx/frustran-asalto-a-balazos-en-el-macrolibramiento-apaseo-palmillas/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 20.59,
+      "lon": -100.39
+    },
+    {
+      "id": "5af9553c",
+      "tipo": "cierre_parcial",
+      "ruta": "Agarra Policía de Metepec a implicados en robo de 100…",
+      "descripcion": "Agarra Policía de Metepec a implicados en robo de 100 mil pesos a óptica. METEPEC, Edomex., 19 de agosto del 2026.- La oportuna intervención de la Policía Municipal de Metepec permitió la detención de dos personas señaladas como probables responsables del robo de mercancía valuada en aproximadamente 100 mil pesos, ocurrido el pasado 4 de agosto en una óptica y clínica ubicada sobre avenida Gobernadores. La investigación comenzó a […]",
+      "fecha": "19 agosto 2026 · 18:00 CST",
+      "fuente": "Quadratin EdoMex",
+      "url": "https://edomex.quadratin.com.mx/agarra-policia-de-metepec-a-implicados-en-robo-de-100-mil-pesos-a-optica/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 19.35,
+      "lon": -99.7
+    },
     {
       "id": "5e7758e8",
       "tipo": "cierre_parcial",
@@ -221,19 +232,6 @@
       "badge_txt": "CIERRE PARCIAL",
       "lat": 20.1,
       "lon": -99.5
-    },
-    {
-      "id": "5f0f9dc7",
-      "tipo": "bloqueo",
-      "ruta": "Restablecen circulación en Michoacán tras jornada de bloqueos…",
-      "descripcion": "Restablecen circulación en Michoacán tras jornada de bloqueos. Las autoridades de Michoacán reportaron el restablecimiento total de la circulación en las carreteras afectadas por los bloqueos de este miércoles, tras el despliegue de operativos de seguridad",
-      "fecha": "19 agosto 2026 · 14:15 CST",
-      "fuente": "El Informador Jalisco",
-      "url": "https://www.informador.mx/mexico/restablecen-circulacion-en-michoacan-tras-jornada-de-bloqueos-y-operativos-federales-20260819-0120.html",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 19.7,
-      "lon": -101.19
     },
     {
       "id": "bf425d64",
@@ -262,12 +260,12 @@
       "lon": -101.19
     },
     {
-      "id": "ec758886",
+      "id": "10a2aef5",
       "tipo": "cierre_parcial",
       "ruta": "Intentaron asaltar un tráiler en la México-Puebla, pero algo salió…",
-      "descripcion": "Intentaron asaltar un tráiler en la México-Puebla, pero algo salió mal y frustró el robo | VIDEO - Excélsior. Intentaron asaltar un tráiler en la México-Puebla, pero algo salió mal y frustró el robo | VIDEO Excélsior",
+      "descripcion": "Intentaron asaltar un tráiler en la México-Puebla, pero algo salió mal y frustró el robo | VIDEO - excelsior.com.mx. Intentaron asaltar un tráiler en la México-Puebla, pero algo salió mal y frustró el robo | VIDEO excelsior.com.mx",
       "fecha": "19 agosto 2026 · 11:48 CST",
-      "fuente": "Excélsior",
+      "fuente": "excelsior.com.mx",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxON1RwUVFNMndmVnZmQUpYRFBzUi1ybGlmRkFrVGxWUHJQUkVCOVRVX0VRc1NlMUMzZ19HeWdyM21Hb21XWExSYmROVV9VbU1kR25OUWpKbWlyZ2JCWnMyN05nUGN6TkFxc2RoRV84N01td291TERKMmEyNldNc3J0d3RsSFBDNHMtV01GM1VVXy1nSk9sTkYwSkFGNnZiWkpCYXpERjdvRUJZLW9vTWxrNXNBcEJiTzFQU3g5R3d30gG-AUFVX3lxTE43VHBRUU0yd2ZWdmZBSlhEUHNSLXJsaWZGQWtUbFZQclBSRUI5VFVfRVFzU2UxQzNnX0d5Z3IzbUdvbVdYTFJiZE5VX1VtTWRHbk5RakptaXJnYkJaczI3TmdQY3pOQXFzZGhFXzg3TW13b3VMREoyYTI2V01zcnR3dGxIUEM0cy1XTUYzVVVfLWdKT2xORjBKQUY2dmJaSkJhekRGN29FQlktb29NbGs1c0FwQmJPMVBTeDlHd3c?oc=5",
       "dot_color": "#e67e22",
       "badge_txt": "CIERRE PARCIAL",
@@ -299,19 +297,6 @@
       "badge_txt": "CIERRE TOTAL",
       "lat": 21.0,
       "lon": -104.0
-    },
-    {
-      "id": "12747cd6",
-      "tipo": "cierre_parcial",
-      "ruta": "🚨¿Qué paso en la #México-#Pachuca hoy 19 de agosto? 😱…",
-      "descripcion": "🚨¿Qué paso en la #México-#Pachuca hoy 19 de agosto?  😱 Accidente deja varios lesionados [#VIDEO 👇]\n\nhttps://lajornadaestadodemexico.com/que-paso-en-la-mexico-pachuca-hoy-19-de-agosto/",
-      "fecha": "19 agosto 2026 · 07:10 CST",
-      "fuente": "Telegram @jornadaedomex",
-      "url": "https://t.me/jornadaedomex/11776",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 20.12,
-      "lon": -98.73
     }
   ]
 }
