@@ -1,11 +1,12 @@
 {
-  "ultima_actualizacion": "2026-08-20T08:07:37.508340-06:00",
-  "ultima_actualizacion_legible": "20 de agosto de 2026 · 08:07 CST",
-  "total": 4,
+  "ultima_actualizacion": "2026-08-20T08:53:19.575937-06:00",
+  "ultima_actualizacion_legible": "20 de agosto de 2026 · 08:53 CST",
+  "total": 5,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
-    "Medios nacionales"
+    "Medios nacionales",
+    "Telegram"
   ],
   "grupos": [
     {
@@ -75,6 +76,20 @@
       "label": "CIERRE PARCIAL / ACCIDENTES",
       "col2": true,
       "alertas": [
+        {
+          "id": "4ef7f6fe",
+          "tipo": "cierre_parcial",
+          "ruta": "🚘 Camioneta queda destr0z4d4 tras ch0qu3 contra tráiler en #LaMarquesa-#Tenango…",
+          "descripcion": "🚘 Camioneta queda destr0z4d4 tras ch0qu3 contra tráiler en #LaMarquesa-#Tenango\n\nhttps://lajornadaestadodemexico.com/choque-contra-trailer-en-la-marquesa-tenango/",
+          "recomendacion": "",
+          "fecha": "20 agosto 2026 · 08:12 CST",
+          "fecha_iso": "2026-08-20T08:12:00-06:00",
+          "fuente": "Telegram @jornadaedomex",
+          "url": "https://t.me/jornadaedomex/11792",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        },
         {
           "id": "ed556784",
           "tipo": "cierre_parcial",
