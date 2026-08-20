@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-08-19T23:23:34.525411-06:00",
-  "ultima_actualizacion_legible": "19 de agosto de 2026 · 23:23 CST",
-  "total": 6,
+  "ultima_actualizacion": "2026-08-19T23:55:01.561217-06:00",
+  "ultima_actualizacion_legible": "19 de agosto de 2026 · 23:55 CST",
+  "total": 5,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
@@ -101,22 +101,6 @@
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL"
-        },
-        {
-          "id": "ec758886",
-          "tipo": "cierre_parcial",
-          "ruta": "Intentaron asaltar un tráiler en la México-Puebla, pero algo salió…",
-          "descripcion": "Intentaron asaltar un tráiler en la México-Puebla, pero algo salió mal y frustró el robo | VIDEO - Excélsior. Intentaron asaltar un tráiler en la México-Puebla, pero algo salió mal y frustró el robo | VIDEO Excélsior",
-          "recomendacion": "",
-          "fecha": "19 agosto 2026 · 11:48 CST",
-          "fecha_iso": "2026-08-19T11:48:00-06:00",
-          "fuente": "Excélsior",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxON1RwUVFNMndmVnZmQUpYRFBzUi1ybGlmRkFrVGxWUHJQUkVCOVRVX0VRc1NlMUMzZ19HeWdyM21Hb21XWExSYmROVV9VbU1kR25OUWpKbWlyZ2JCWnMyN05nUGN6TkFxc2RoRV84N01td291TERKMmEyNldNc3J0d3RsSFBDNHMtV01GM1VVXy1nSk9sTkYwSkFGNnZiWkpCYXpERjdvRUJZLW9vTWxrNXNBcEJiTzFQU3g5R3d30gG-AUFVX3lxTE43VHBRUU0yd2ZWdmZBSlhEUHNSLXJsaWZGQWtUbFZQclBSRUI5VFVfRVFzU2UxQzNnX0d5Z3IzbUdvbVdYTFJiZE5VX1VtTWRHbk5RakptaXJnYkJaczI3TmdQY3pOQXFzZGhFXzg3TW13b3VMREoyYTI2V01zcnR3dGxIUEM0cy1XTUYzVVVfLWdKT2xORjBKQUY2dmJaSkJhekRGN29FQlktb29NbGs1c0FwQmJPMVBTeDlHd3c?oc=5",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.35,
-          "lon": -98.4
         }
       ]
     }
@@ -160,19 +144,6 @@
       "badge_txt": "BLOQUEO",
       "lat": 19.29,
       "lon": -99.66
-    },
-    {
-      "id": "ec758886",
-      "tipo": "cierre_parcial",
-      "ruta": "Intentaron asaltar un tráiler en la México-Puebla, pero algo salió…",
-      "descripcion": "Intentaron asaltar un tráiler en la México-Puebla, pero algo salió mal y frustró el robo | VIDEO - Excélsior. Intentaron asaltar un tráiler en la México-Puebla, pero algo salió mal y frustró el robo | VIDEO Excélsior",
-      "fecha": "19 agosto 2026 · 11:48 CST",
-      "fuente": "Excélsior",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxON1RwUVFNMndmVnZmQUpYRFBzUi1ybGlmRkFrVGxWUHJQUkVCOVRVX0VRc1NlMUMzZ19HeWdyM21Hb21XWExSYmROVV9VbU1kR25OUWpKbWlyZ2JCWnMyN05nUGN6TkFxc2RoRV84N01td291TERKMmEyNldNc3J0d3RsSFBDNHMtV01GM1VVXy1nSk9sTkYwSkFGNnZiWkpCYXpERjdvRUJZLW9vTWxrNXNBcEJiTzFQU3g5R3d30gG-AUFVX3lxTE43VHBRUU0yd2ZWdmZBSlhEUHNSLXJsaWZGQWtUbFZQclBSRUI5VFVfRVFzU2UxQzNnX0d5Z3IzbUdvbVdYTFJiZE5VX1VtTWRHbk5RakptaXJnYkJaczI3TmdQY3pOQXFzZGhFXzg3TW13b3VMREoyYTI2V01zcnR3dGxIUEM0cy1XTUYzVVVfLWdKT2xORjBKQUY2dmJaSkJhekRGN29FQlktb29NbGs1c0FwQmJPMVBTeDlHd3c?oc=5",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.35,
-      "lon": -98.4
     }
   ]
 }
