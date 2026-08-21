@@ -1,35 +1,12 @@
 {
-  "ultima_actualizacion": "2026-08-21T03:59:44.461760-06:00",
-  "ultima_actualizacion_legible": "21 de agosto de 2026 · 03:59 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-08-21T04:30:36.144688-06:00",
+  "ultima_actualizacion_legible": "21 de agosto de 2026 · 04:30 CST",
+  "total": 0,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Quadratin + regionales"
+    "Google News"
   ],
-  "grupos": [
-    {
-      "tipo": "cierre_total",
-      "color": "rojo",
-      "icono": "🔴",
-      "label": "CIERRE TOTAL",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "5d9266ba",
-          "tipo": "cierre_total",
-          "ruta": "Sacude terremoto de 7.2 a Perú y provoca derrumbes en…",
-          "descripcion": "Sacude terremoto de 7.2 a Perú y provoca derrumbes en el sur. TRENTON, Nueva Jersey, EU, 20 de agosto de 2026.- Un terremoto de magnitud 7.2 sacudió la tarde de este jueves la zona sur de Perú, teniendo su epicentro a 21.74 millas (35 kilómetros) al norte de la ciudad de Coracora, en la provincia de Parinacochas, departamento de Ayacucho. El reporte emitido por el Instituto Geofísico […]",
-          "recomendacion": "",
-          "fecha": "20 agosto 2026 · 16:22 CST",
-          "fecha_iso": "2026-08-20T16:22:00-06:00",
-          "fuente": "Quadratin Morelos",
-          "url": "https://morelos.quadratin.com.mx/sacude-terremoto-de-7-2-a-peru-y-provoca-derrumbes-en-el-sur/",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL"
-        }
-      ]
-    }
-  ],
-  "para_mapa": []
+  "grupos": [],
+  "para_mapa": [],
+  "nota": "Sin alertas activas en la ventana de tiempo configurada."
 }
