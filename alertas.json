@@ -1,10 +1,11 @@
 {
-  "ultima_actualizacion": "2026-08-21T11:28:14.352089-06:00",
-  "ultima_actualizacion_legible": "21 de agosto de 2026 · 11:28 CST",
-  "total": 4,
+  "ultima_actualizacion": "2026-08-21T11:56:04.766853-06:00",
+  "ultima_actualizacion_legible": "21 de agosto de 2026 · 11:56 CST",
+  "total": 5,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News"
+    "Google News",
+    "Quadratin + regionales"
   ],
   "grupos": [
     {
@@ -14,6 +15,22 @@
       "label": "CIERRE TOTAL",
       "col2": false,
       "alertas": [
+        {
+          "id": "eb6cbce6",
+          "tipo": "cierre_total",
+          "ruta": "Vigilan riesgo de derrumbes en carreteras de la Sierra…",
+          "descripcion": "Vigilan riesgo de derrumbes en carreteras de la Sierra. Para evitar riesgos a los ciudadanos The post Vigilan riesgo de derrumbes en carreteras de la Sierra appeared first on Quadratin Querétaro.",
+          "recomendacion": "evitar riesgos a los ciudadanos The post Vigilan riesgo de derrumbes en carreteras de la Sierra appeared first on Quadratin Querétaro",
+          "fecha": "21 agosto 2026 · 11:30 CST",
+          "fecha_iso": "2026-08-21T11:30:00-06:00",
+          "fuente": "Quadratin Queretaro",
+          "url": "https://queretaro.quadratin.com.mx/vigilan-riesgo-de-derrumbes-en-carreteras-de-la-sierra/",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL",
+          "lat": 20.59,
+          "lon": -100.39
+        },
         {
           "id": "029be2a3",
           "tipo": "cierre_total",
@@ -82,5 +99,19 @@
       ]
     }
   ],
-  "para_mapa": []
+  "para_mapa": [
+    {
+      "id": "eb6cbce6",
+      "tipo": "cierre_total",
+      "ruta": "Vigilan riesgo de derrumbes en carreteras de la Sierra…",
+      "descripcion": "Vigilan riesgo de derrumbes en carreteras de la Sierra. Para evitar riesgos a los ciudadanos The post Vigilan riesgo de derrumbes en carreteras de la Sierra appeared first on Quadratin Querétaro.",
+      "fecha": "21 agosto 2026 · 11:30 CST",
+      "fuente": "Quadratin Queretaro",
+      "url": "https://queretaro.quadratin.com.mx/vigilan-riesgo-de-derrumbes-en-carreteras-de-la-sierra/",
+      "dot_color": "#e74c3c",
+      "badge_txt": "CIERRE TOTAL",
+      "lat": 20.59,
+      "lon": -100.39
+    }
+  ]
 }
