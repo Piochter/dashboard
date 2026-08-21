@@ -1,13 +1,11 @@
 {
-  "ultima_actualizacion": "2026-08-20T18:43:22.698645-06:00",
-  "ultima_actualizacion_legible": "20 de agosto de 2026 · 18:43 CST",
-  "total": 5,
+  "ultima_actualizacion": "2026-08-20T20:13:12.312903-06:00",
+  "ultima_actualizacion_legible": "20 de agosto de 2026 · 20:13 CST",
+  "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
-    "Medios nacionales",
-    "Quadratin + regionales",
-    "Telegram"
+    "Quadratin + regionales"
   ],
   "grupos": [
     {
@@ -18,64 +16,20 @@
       "col2": false,
       "alertas": [
         {
-          "id": "5d9266ba",
+          "id": "30e73321",
           "tipo": "cierre_total",
           "ruta": "Sacude terremoto de 7.2 a Perú y provoca derrumbes en…",
-          "descripcion": "Sacude terremoto de 7.2 a Perú y provoca derrumbes en el sur. TRENTON, Nueva Jersey, EU, 20 de agosto de 2026.- Un terremoto de magnitud 7.2 sacudió la tarde de este jueves la zona sur de Perú, teniendo su epicentro a 21.74 millas (35 kilómetros) al norte de la ciudad de Coracora, en la provincia de Parinacochas, departamento de Ayacucho. El reporte emitido por el Instituto Geofísico […]",
+          "descripcion": "Sacude terremoto de 7.2 a Perú y provoca derrumbes en el sur. Un terremoto de magnitud 7.2 sacudió la tarde de este jueves la zona sur de Perú, teniendo su epicentro a 21.74 millas (35 kilómetros) The post Sacude terremoto de 7.2 a Perú y provoca derrumbes en el sur appeared first on Quadratin Hidalgo.",
           "recomendacion": "",
-          "fecha": "20 agosto 2026 · 16:22 CST",
-          "fecha_iso": "2026-08-20T16:22:00-06:00",
-          "fuente": "Quadratin Morelos",
-          "url": "https://morelos.quadratin.com.mx/sacude-terremoto-de-7-2-a-peru-y-provoca-derrumbes-en-el-sur/",
+          "fecha": "20 agosto 2026 · 15:44 CST",
+          "fecha_iso": "2026-08-20T15:44:00-06:00",
+          "fuente": "Quadratin Hidalgo",
+          "url": "https://hidalgo.quadratin.com.mx/Internacional-2/sacude-terremoto-de-7-2-a-peru-y-provoca-derrumbes-en-el-sur/",
           "dot_color": "#e74c3c",
           "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL"
-        }
-      ]
-    },
-    {
-      "tipo": "bloqueo",
-      "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "6264a92c",
-          "tipo": "bloqueo",
-          "ruta": "Bloqueos carreteras HOY 20 de agosto: Autopistas cerradas en México,…",
-          "descripcion": "Bloqueos carreteras HOY 20 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 20 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
-          "recomendacion": "",
-          "fecha": "20 agosto 2026 · 07:09 CST",
-          "fecha_iso": "2026-08-20T07:09:00-06:00",
-          "fuente": "Eje Central",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOUGZqY200MndVRmJld0Z0MFJhZDVjX3BaZDdoa1VCaTZSeHNaLTZHWFVoSjZXd0F2U3lPdU5ENzhYLTRmUWgzbnhMMlpSb1lVVGJocERQOThqRS1lblFYWEpyVVpiUDNLSi1tMzNBdXFUTEhWY3RkSU5MRkhDcXZ0d2ZCeWFSdjNSTkdaUUcxQVV1d0dEM1dMUlFwWDdUaXJySEVMX2NqNXhHTFJocVR3ZGlRcENEb0Jtb2llMFlVQnpYZFVuVGpfNjVZM0hJdUhXcVpvb013ekhiOHlnSDBjNk9zanNBQXNP?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        }
-      ]
-    },
-    {
-      "tipo": "robo",
-      "color": "rojo",
-      "icono": "🚨",
-      "label": "ROBOS EN CARRETERA",
-      "col2": true,
-      "alertas": [
-        {
-          "id": "54f8564b",
-          "tipo": "robo",
-          "ruta": "Robo de carga en México 2T26: el riesgo ya no…",
-          "descripcion": "Robo de carga en México 2T26: el riesgo ya no está sólo en la carretera. El robo de carga en México está cambiando de ubicación, horario y forma de ejecución. Los datos del segundo trimestre de 2026 (2T26) muestran que identificar una mercancía como “de alto riesgo” ya no es suficiente. Hoy, resulta necesario conocer qué producto se transporta, por qué carretera, a qué hora, dónde se detendrá la unidad […]",
-          "recomendacion": "",
-          "fecha": "20 agosto 2026 · 06:55 CST",
-          "fecha_iso": "2026-08-20T06:55:00-06:00",
-          "fuente": "T21 Transporte",
-          "url": "https://t21.com.mx/robo-de-carga-en-mexico-2t26-el-riesgo-ya-no-esta-solo-en-la-carretera/",
-          "dot_color": "#c0392b",
-          "badge": "badge-robo",
-          "badge_txt": "ROBO"
+          "badge_txt": "CIERRE TOTAL",
+          "lat": 20.11,
+          "lon": -98.73
         }
       ]
     },
@@ -99,23 +53,23 @@
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL"
-        },
-        {
-          "id": "4ef7f6fe",
-          "tipo": "cierre_parcial",
-          "ruta": "🚘 Camioneta queda destr0z4d4 tras ch0qu3 contra tráiler en #LaMarquesa-#Tenango…",
-          "descripcion": "🚘 Camioneta queda destr0z4d4 tras ch0qu3 contra tráiler en #LaMarquesa-#Tenango\n\nhttps://lajornadaestadodemexico.com/choque-contra-trailer-en-la-marquesa-tenango/",
-          "recomendacion": "",
-          "fecha": "20 agosto 2026 · 08:12 CST",
-          "fecha_iso": "2026-08-20T08:12:00-06:00",
-          "fuente": "Telegram @jornadaedomex",
-          "url": "https://t.me/jornadaedomex/11792",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
         }
       ]
     }
   ],
-  "para_mapa": []
+  "para_mapa": [
+    {
+      "id": "30e73321",
+      "tipo": "cierre_total",
+      "ruta": "Sacude terremoto de 7.2 a Perú y provoca derrumbes en…",
+      "descripcion": "Sacude terremoto de 7.2 a Perú y provoca derrumbes en el sur. Un terremoto de magnitud 7.2 sacudió la tarde de este jueves la zona sur de Perú, teniendo su epicentro a 21.74 millas (35 kilómetros) The post Sacude terremoto de 7.2 a Perú y provoca derrumbes en el sur appeared first on Quadratin Hidalgo.",
+      "fecha": "20 agosto 2026 · 15:44 CST",
+      "fuente": "Quadratin Hidalgo",
+      "url": "https://hidalgo.quadratin.com.mx/Internacional-2/sacude-terremoto-de-7-2-a-peru-y-provoca-derrumbes-en-el-sur/",
+      "dot_color": "#e74c3c",
+      "badge_txt": "CIERRE TOTAL",
+      "lat": 20.11,
+      "lon": -98.73
+    }
+  ]
 }
