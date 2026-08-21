@@ -1,12 +1,35 @@
 {
-  "ultima_actualizacion": "2026-08-21T09:24:40.913689-06:00",
-  "ultima_actualizacion_legible": "21 de agosto de 2026 · 09:24 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-08-21T09:57:00.531429-06:00",
+  "ultima_actualizacion_legible": "21 de agosto de 2026 · 09:57 CST",
+  "total": 3,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News"
   ],
   "grupos": [
+    {
+      "tipo": "cierre_total",
+      "color": "rojo",
+      "icono": "🔴",
+      "label": "CIERRE TOTAL",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "029be2a3",
+          "tipo": "cierre_total",
+          "ruta": "autopista Los Chorros",
+          "descripcion": "Volcadura de tráiler cierra por horas la autopista Los Chorros, en Arteaga (video) - vanguardia.com.mx. Volcadura de tráiler cierra por horas la autopista Los Chorros, en Arteaga (video) vanguardia.com.mx",
+          "recomendacion": "",
+          "fecha": "21 agosto 2026 · 09:46 CST",
+          "fecha_iso": "2026-08-21T09:46:00-06:00",
+          "fuente": "vanguardia.com.mx",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWFVmWHJCUnRGdDNzUjFMZ0dNc3dQbzdOTGRfa0dCZUk2TlhMZzZCQjRTZm5neFdzdHY2ZGVYcUJkMHJjbGZNYjFuaHc4dTlsd3dVYTNrdDM5RmJ1M2pRVXdIZk5OY1gxR2hpNXFSNUt6MENGcW4wamdvbEFfZXljQUNFTXpZbHJSeTNkOFYyWVQxLXJnVUJsRHkwbU0tQ0tQUVIxWV82YW9WbnE2QWMtbklwdGxtdmkxSjVwSDd0QmEybFE?oc=5",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL"
+        }
+      ]
+    },
     {
       "tipo": "bloqueo",
       "color": "rojo",
