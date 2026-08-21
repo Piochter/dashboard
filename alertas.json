@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-08-21T09:57:00.531429-06:00",
-  "ultima_actualizacion_legible": "21 de agosto de 2026 · 09:57 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-08-21T10:24:34.781404-06:00",
+  "ultima_actualizacion_legible": "21 de agosto de 2026 · 10:24 CST",
+  "total": 4,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News"
@@ -61,6 +61,20 @@
           "fecha_iso": "2026-08-21T07:37:00-06:00",
           "fuente": "N+",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdWhqU1BKWG5kQXFaT24tWTVIOTdxMzlEUmQ1aUNtQm9VaXRUSkZBN3R1MS1HN29UbU51ZmtOSmI5VmpfT0ZPanB3dnVPcEc1NVJGRnZhbzAySnVRWjg0cl9SbmstSUZ6bFBua1VCVEVzNDNXY254N19kRHM2X2FIeVZEVmFwOGQ1TFk3V3FfYXZrX2VuZTFtUmpqWXB2ak1BdDVRSDc0d051Q2JkXzl1eWszWV9EZmhuTnc?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
+        {
+          "id": "b9c6ce72",
+          "tipo": "bloqueo",
+          "ruta": "ALERTAN por BLOQUEOS en estas CARRETERAS y AUTOPISTAS para HOY…",
+          "descripcion": "ALERTAN por BLOQUEOS en estas CARRETERAS y AUTOPISTAS para HOY viernes 21 de agosto de 2026 | EN VIVO - El Heraldo de México. ALERTAN por BLOQUEOS en estas CARRETERAS y AUTOPISTAS para HOY viernes 21 de agosto de 2026 | EN VIVO El Heraldo de México",
+          "recomendacion": "",
+          "fecha": "21 agosto 2026 · 05:33 CST",
+          "fecha_iso": "2026-08-21T05:33:00-06:00",
+          "fuente": "El Heraldo de México",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPdHQtNXhBQXNfZFNpbGpueUR5aFliYjdFWEFmc0hDQWhZMEdCeEFvVEZvR01rdko5NnM3aE9DT1lMV3NPUVU4ZkczSjNSR3VRcHpZMjd1LUUxYzFpTkpld0pGZFloeS1aRlVtQmQyTkZKN1VNMlRfV0VGaUNJYnRTWGlWNUx1WjZycDRjTVFXLWt5NVU3Y2JmMWRJMUdwNFYxTGwyZ05WOWhMMWhZbm5Gbjk0anBqNmpJQUVCNTRhSnpDQllabFNFcXhReTFCZXdIelF6cG8yNDR0N1NHN2VOdVMxRm5tZi1FV2M2QjFMR0w?oc=5",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO"
