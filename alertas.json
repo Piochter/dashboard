@@ -1,10 +1,11 @@
 {
-  "ultima_actualizacion": "2026-08-20T20:13:12.312903-06:00",
-  "ultima_actualizacion_legible": "20 de agosto de 2026 · 20:13 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-08-20T21:15:58.075674-06:00",
+  "ultima_actualizacion_legible": "20 de agosto de 2026 · 21:15 CST",
+  "total": 3,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
+    "Medios regionales",
     "Quadratin + regionales"
   ],
   "grupos": [
@@ -16,20 +17,18 @@
       "col2": false,
       "alertas": [
         {
-          "id": "30e73321",
+          "id": "5d9266ba",
           "tipo": "cierre_total",
           "ruta": "Sacude terremoto de 7.2 a Perú y provoca derrumbes en…",
-          "descripcion": "Sacude terremoto de 7.2 a Perú y provoca derrumbes en el sur. Un terremoto de magnitud 7.2 sacudió la tarde de este jueves la zona sur de Perú, teniendo su epicentro a 21.74 millas (35 kilómetros) The post Sacude terremoto de 7.2 a Perú y provoca derrumbes en el sur appeared first on Quadratin Hidalgo.",
+          "descripcion": "Sacude terremoto de 7.2 a Perú y provoca derrumbes en el sur. TRENTON, Nueva Jersey, EU, 20 de agosto de 2026.- Un terremoto de magnitud 7.2 sacudió la tarde de este jueves la zona sur de Perú, teniendo su epicentro a 21.74 millas (35 kilómetros) al norte de la ciudad de Coracora, en la provincia de Parinacochas, departamento de Ayacucho. El reporte emitido por el Instituto Geofísico […]",
           "recomendacion": "",
-          "fecha": "20 agosto 2026 · 15:44 CST",
-          "fecha_iso": "2026-08-20T15:44:00-06:00",
-          "fuente": "Quadratin Hidalgo",
-          "url": "https://hidalgo.quadratin.com.mx/Internacional-2/sacude-terremoto-de-7-2-a-peru-y-provoca-derrumbes-en-el-sur/",
+          "fecha": "20 agosto 2026 · 16:22 CST",
+          "fecha_iso": "2026-08-20T16:22:00-06:00",
+          "fuente": "Quadratin Morelos",
+          "url": "https://morelos.quadratin.com.mx/sacude-terremoto-de-7-2-a-peru-y-provoca-derrumbes-en-el-sur/",
           "dot_color": "#e74c3c",
           "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL",
-          "lat": 20.11,
-          "lon": -98.73
+          "badge_txt": "CIERRE TOTAL"
         }
       ]
     },
@@ -55,21 +54,46 @@
           "badge_txt": "CIERRE PARCIAL"
         }
       ]
+    },
+    {
+      "tipo": "clima",
+      "color": "azul",
+      "icono": "🌧",
+      "label": "ALERTA METEOROLOGICA",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "4cf5de0f",
+          "tipo": "clima",
+          "ruta": "Denuncian vecinos de Prolongación Guerrero frecuentes inundaciones…",
+          "descripcion": "Denuncian vecinos de Prolongación Guerrero frecuentes inundaciones. Vecinos denunciaron que el tramo Estrella-Euquerio Guerrero se inunda cada vez que llueve sin importar la intensidad, debido a la falta de infraestructura para desalojar el agua.",
+          "recomendacion": "",
+          "fecha": "20 agosto 2026 · 20:23 CST",
+          "fecha_iso": "2026-08-20T20:23:00-06:00",
+          "fuente": "AM Guanajuato",
+          "url": "https://www.am.com.mx/irapuato/2026/08/20/denuncian-vecinos-de-prolongacion-guerrero-frecuentes-inundaciones-1834743.html",
+          "dot_color": "#3498db",
+          "badge": "badge-clima",
+          "badge_txt": "ALERTA CLIMA",
+          "lat": 17.55,
+          "lon": -99.5
+        }
+      ]
     }
   ],
   "para_mapa": [
     {
-      "id": "30e73321",
-      "tipo": "cierre_total",
-      "ruta": "Sacude terremoto de 7.2 a Perú y provoca derrumbes en…",
-      "descripcion": "Sacude terremoto de 7.2 a Perú y provoca derrumbes en el sur. Un terremoto de magnitud 7.2 sacudió la tarde de este jueves la zona sur de Perú, teniendo su epicentro a 21.74 millas (35 kilómetros) The post Sacude terremoto de 7.2 a Perú y provoca derrumbes en el sur appeared first on Quadratin Hidalgo.",
-      "fecha": "20 agosto 2026 · 15:44 CST",
-      "fuente": "Quadratin Hidalgo",
-      "url": "https://hidalgo.quadratin.com.mx/Internacional-2/sacude-terremoto-de-7-2-a-peru-y-provoca-derrumbes-en-el-sur/",
-      "dot_color": "#e74c3c",
-      "badge_txt": "CIERRE TOTAL",
-      "lat": 20.11,
-      "lon": -98.73
+      "id": "4cf5de0f",
+      "tipo": "clima",
+      "ruta": "Denuncian vecinos de Prolongación Guerrero frecuentes inundaciones…",
+      "descripcion": "Denuncian vecinos de Prolongación Guerrero frecuentes inundaciones. Vecinos denunciaron que el tramo Estrella-Euquerio Guerrero se inunda cada vez que llueve sin importar la intensidad, debido a la falta de infraestructura para desalojar el agua.",
+      "fecha": "20 agosto 2026 · 20:23 CST",
+      "fuente": "AM Guanajuato",
+      "url": "https://www.am.com.mx/irapuato/2026/08/20/denuncian-vecinos-de-prolongacion-guerrero-frecuentes-inundaciones-1834743.html",
+      "dot_color": "#3498db",
+      "badge_txt": "ALERTA CLIMA",
+      "lat": 17.55,
+      "lon": -99.5
     }
   ]
 }
