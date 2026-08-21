@@ -1,11 +1,10 @@
 {
-  "ultima_actualizacion": "2026-08-21T15:00:13.786361-06:00",
-  "ultima_actualizacion_legible": "21 de agosto de 2026 · 15:00 CST",
-  "total": 6,
+  "ultima_actualizacion": "2026-08-21T15:27:04.836523-06:00",
+  "ultima_actualizacion_legible": "21 de agosto de 2026 · 15:27 CST",
+  "total": 5,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
-    "Medios regionales",
     "Quadratin + regionales"
   ],
   "grupos": [
@@ -96,29 +95,6 @@
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO"
-        }
-      ]
-    },
-    {
-      "tipo": "cierre_parcial",
-      "color": "amarillo",
-      "icono": "🟡",
-      "label": "CIERRE PARCIAL / ACCIDENTES",
-      "col2": true,
-      "alertas": [
-        {
-          "id": "4fd23683",
-          "tipo": "cierre_parcial",
-          "ruta": "carretera Pénjamo-Abasolo",
-          "descripcion": "Mueren tres personas en choque múltiple en la carretera Pénjamo-Abasolo. Hay cuatro personas lesionadas, entre ellas, dos menores edad. El percance que involucró tres vehículos y un tráiler, ocurrió en un puente entre la comunidad La Soledad de Morales y la Universidad Tecnológica de Pénjamo.",
-          "recomendacion": "",
-          "fecha": "21 agosto 2026 · 14:44 CST",
-          "fecha_iso": "2026-08-21T14:44:00-06:00",
-          "fuente": "AM Guanajuato",
-          "url": "https://www.am.com.mx/guanajuato-sur/2026/08/21/mueren-tres-personas-en-choque-multiple-en-la-carretera-penjamo-abasolo-1835014.html",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
         }
       ]
     }
