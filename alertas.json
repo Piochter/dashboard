@@ -1,12 +1,87 @@
 {
-  "ultima_actualizacion": "2026-08-21T15:49:46.974291-06:00",
-  "ultima_actualizacion_legible": "21 de agosto de 2026 · 15:49 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-08-21T16:14:28.832977-06:00",
+  "ultima_actualizacion_legible": "21 de agosto de 2026 · 16:14 CST",
+  "total": 5,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
+    "Google News",
     "Medios regionales"
   ],
   "grupos": [
+    {
+      "tipo": "cierre_total",
+      "color": "rojo",
+      "icono": "🔴",
+      "label": "CIERRE TOTAL",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "029be2a3",
+          "tipo": "cierre_total",
+          "ruta": "autopista Los Chorros",
+          "descripcion": "Volcadura de tráiler cierra por horas la autopista Los Chorros, en Arteaga (video) - vanguardia.com.mx. Volcadura de tráiler cierra por horas la autopista Los Chorros, en Arteaga (video) vanguardia.com.mx",
+          "recomendacion": "",
+          "fecha": "21 agosto 2026 · 09:46 CST",
+          "fecha_iso": "2026-08-21T09:46:00-06:00",
+          "fuente": "vanguardia.com.mx",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWFVmWHJCUnRGdDNzUjFMZ0dNc3dQbzdOTGRfa0dCZUk2TlhMZzZCQjRTZm5neFdzdHY2ZGVYcUJkMHJjbGZNYjFuaHc4dTlsd3dVYTNrdDM5RmJ1M2pRVXdIZk5OY1gxR2hpNXFSNUt6MENGcW4wamdvbEFfZXljQUNFTXpZbHJSeTNkOFYyWVQxLXJnVUJsRHkwbU0tQ0tQUVIxWV82YW9WbnE2QWMtbklwdGxtdmkxSjVwSDd0QmEybFE?oc=5",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL"
+        }
+      ]
+    },
+    {
+      "tipo": "bloqueo",
+      "color": "rojo",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "786095db",
+          "tipo": "bloqueo",
+          "ruta": "Bloqueos carreteros hoy 21 de agosto: cierres y afectaciones en…",
+          "descripcion": "Bloqueos carreteros hoy 21 de agosto: cierres y afectaciones en autopistas de México - Eje Central. Bloqueos carreteros hoy 21 de agosto: cierres y afectaciones en autopistas de México Eje Central",
+          "recomendacion": "",
+          "fecha": "21 agosto 2026 · 08:36 CST",
+          "fecha_iso": "2026-08-21T08:36:00-06:00",
+          "fuente": "Eje Central",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdG5GN2poVWdhN2dEMDN6UG5lb0dOckNuNkNUbFBMU3Zha0dCN0xfcEg5TWdGcXlYaVd4d29kM2V3RVMyQ0hlTGgtaE03UWRwbUhkQy1GbnR5Q0pUQm5jVXkyNjBkUl8wa3daczFMU0RpLXJpZ2FpclFaSmtTdWsyZ0wxbjc3cWktVElWTndobTFGVEhVTEY0RW5iY0sxemo1WFFXd1EtNW9TaHBqelJOS3lya0M4YXdfbkpHLV9YUmVmZms?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
+        {
+          "id": "4d2cb408",
+          "tipo": "bloqueo",
+          "ruta": "Estas Son las Carreteras con Bloqueos en México - N+…",
+          "descripcion": "Estas Son las Carreteras con Bloqueos en México - N+. Estas Son las Carreteras con Bloqueos en México N+",
+          "recomendacion": "",
+          "fecha": "21 agosto 2026 · 07:37 CST",
+          "fecha_iso": "2026-08-21T07:37:00-06:00",
+          "fuente": "N+",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdWhqU1BKWG5kQXFaT24tWTVIOTdxMzlEUmQ1aUNtQm9VaXRUSkZBN3R1MS1HN29UbU51ZmtOSmI5VmpfT0ZPanB3dnVPcEc1NVJGRnZhbzAySnVRWjg0cl9SbmstSUZ6bFBua1VCVEVzNDNXY254N19kRHM2X2FIeVZEVmFwOGQ1TFk3V3FfYXZrX2VuZTFtUmpqWXB2ak1BdDVRSDc0d051Q2JkXzl1eWszWV9EZmhuTnc?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
+        {
+          "id": "b9c6ce72",
+          "tipo": "bloqueo",
+          "ruta": "ALERTAN por BLOQUEOS en estas CARRETERAS y AUTOPISTAS para HOY…",
+          "descripcion": "ALERTAN por BLOQUEOS en estas CARRETERAS y AUTOPISTAS para HOY viernes 21 de agosto de 2026 | EN VIVO - El Heraldo de México. ALERTAN por BLOQUEOS en estas CARRETERAS y AUTOPISTAS para HOY viernes 21 de agosto de 2026 | EN VIVO El Heraldo de México",
+          "recomendacion": "",
+          "fecha": "21 agosto 2026 · 05:33 CST",
+          "fecha_iso": "2026-08-21T05:33:00-06:00",
+          "fuente": "El Heraldo de México",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPdHQtNXhBQXNfZFNpbGpueUR5aFliYjdFWEFmc0hDQWhZMEdCeEFvVEZvR01rdko5NnM3aE9DT1lMV3NPUVU4ZkczSjNSR3VRcHpZMjd1LUUxYzFpTkpld0pGZFloeS1aRlVtQmQyTkZKN1VNMlRfV0VGaUNJYnRTWGlWNUx1WjZycDRjTVFXLWt5NVU3Y2JmMWRJMUdwNFYxTGwyZ05WOWhMMWhZbm5Gbjk0anBqNmpJQUVCNTRhSnpDQllabFNFcXhReTFCZXdIelF6cG8yNDR0N1NHN2VOdVMxRm5tZi1FV2M2QjFMR0w?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        }
+      ]
+    },
     {
       "tipo": "cierre_parcial",
       "color": "amarillo",
@@ -15,21 +90,37 @@
       "col2": true,
       "alertas": [
         {
-          "id": "0616b1a1",
+          "id": "d9d7df91",
           "tipo": "cierre_parcial",
-          "ruta": "carretera Pénjamo-Abasolo",
-          "descripcion": "Mueren tres personas en choque múltiple en la carretera Pénjamo-Abasolo. Hay cinco personas lesionadas, entre ellas, dos menores edad. El percance que involucró tres vehículos y un tráiler, ocurrió en un puente entre la comunidad La Soledad de Morales y la Universidad Tecnológica de Pénjamo.",
+          "ruta": "Deja 2 heridos choque entre taxi y tráiler en la…",
+          "descripcion": "Deja 2 heridos choque entre taxi y tráiler en la Siglo 21. En el kilómetro 200 del tramo Las Cañas-Cuatro Caminos",
           "recomendacion": "",
-          "fecha": "21 agosto 2026 · 14:44 CST",
-          "fecha_iso": "2026-08-21T14:44:00-06:00",
-          "fuente": "AM Guanajuato",
-          "url": "https://www.am.com.mx/guanajuato-sur/2026/08/21/mueren-tres-personas-en-choque-multiple-en-la-carretera-penjamo-abasolo-1835014.html",
+          "fecha": "21 agosto 2026 · 16:10 CST",
+          "fecha_iso": "2026-08-21T16:10:00-06:00",
+          "fuente": "Quadratin Michoacan",
+          "url": "https://www.quadratin.com.mx/sucesos/deja-2-heridos-choque-entre-taxi-y-trailer-en-la-siglo-21/",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 19.1,
+          "lon": -104.3
         }
       ]
     }
   ],
-  "para_mapa": []
+  "para_mapa": [
+    {
+      "id": "d9d7df91",
+      "tipo": "cierre_parcial",
+      "ruta": "Deja 2 heridos choque entre taxi y tráiler en la…",
+      "descripcion": "Deja 2 heridos choque entre taxi y tráiler en la Siglo 21. En el kilómetro 200 del tramo Las Cañas-Cuatro Caminos",
+      "fecha": "21 agosto 2026 · 16:10 CST",
+      "fuente": "Quadratin Michoacan",
+      "url": "https://www.quadratin.com.mx/sucesos/deja-2-heridos-choque-entre-taxi-y-trailer-en-la-siglo-21/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 19.1,
+      "lon": -104.3
+    }
+  ]
 }
