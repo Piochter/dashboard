@@ -1,12 +1,49 @@
 {
-  "ultima_actualizacion": "2026-08-21T08:05:44.310958-06:00",
-  "ultima_actualizacion_legible": "21 de agosto de 2026 · 08:05 CST",
-  "total": 0,
+  "ultima_actualizacion": "2026-08-21T08:52:19.133248-06:00",
+  "ultima_actualizacion_legible": "21 de agosto de 2026 · 08:52 CST",
+  "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News"
   ],
-  "grupos": [],
-  "para_mapa": [],
-  "nota": "Sin alertas activas en la ventana de tiempo configurada."
+  "grupos": [
+    {
+      "tipo": "bloqueo",
+      "color": "rojo",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "786095db",
+          "tipo": "bloqueo",
+          "ruta": "Bloqueos carreteros hoy 21 de agosto: cierres y afectaciones en…",
+          "descripcion": "Bloqueos carreteros hoy 21 de agosto: cierres y afectaciones en autopistas de México - Eje Central. Bloqueos carreteros hoy 21 de agosto: cierres y afectaciones en autopistas de México Eje Central",
+          "recomendacion": "",
+          "fecha": "21 agosto 2026 · 08:36 CST",
+          "fecha_iso": "2026-08-21T08:36:00-06:00",
+          "fuente": "Eje Central",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdG5GN2poVWdhN2dEMDN6UG5lb0dOckNuNkNUbFBMU3Zha0dCN0xfcEg5TWdGcXlYaVd4d29kM2V3RVMyQ0hlTGgtaE03UWRwbUhkQy1GbnR5Q0pUQm5jVXkyNjBkUl8wa3daczFMU0RpLXJpZ2FpclFaSmtTdWsyZ0wxbjc3cWktVElWTndobTFGVEhVTEY0RW5iY0sxemo1WFFXd1EtNW9TaHBqelJOS3lya0M4YXdfbkpHLV9YUmVmZms?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
+        {
+          "id": "4d2cb408",
+          "tipo": "bloqueo",
+          "ruta": "Estas Son las Carreteras con Bloqueos en México - N+…",
+          "descripcion": "Estas Son las Carreteras con Bloqueos en México - N+. Estas Son las Carreteras con Bloqueos en México N+",
+          "recomendacion": "",
+          "fecha": "21 agosto 2026 · 07:37 CST",
+          "fecha_iso": "2026-08-21T07:37:00-06:00",
+          "fuente": "N+",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdWhqU1BKWG5kQXFaT24tWTVIOTdxMzlEUmQ1aUNtQm9VaXRUSkZBN3R1MS1HN29UbU51ZmtOSmI5VmpfT0ZPanB3dnVPcEc1NVJGRnZhbzAySnVRWjg0cl9SbmstSUZ6bFBua1VCVEVzNDNXY254N19kRHM2X2FIeVZEVmFwOGQ1TFk3V3FfYXZrX2VuZTFtUmpqWXB2ak1BdDVRSDc0d051Q2JkXzl1eWszWV9EZmhuTnc?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        }
+      ]
+    }
+  ],
+  "para_mapa": []
 }
