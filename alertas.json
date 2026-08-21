@@ -1,11 +1,9 @@
 {
-  "ultima_actualizacion": "2026-08-20T22:52:51.935443-06:00",
-  "ultima_actualizacion_legible": "20 de agosto de 2026 · 22:52 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-08-20T23:24:38.935535-06:00",
+  "ultima_actualizacion_legible": "20 de agosto de 2026 · 23:24 CST",
+  "total": 1,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News",
-    "Medios regionales",
     "Quadratin + regionales"
   ],
   "grupos": [
@@ -31,69 +29,7 @@
           "badge_txt": "CIERRE TOTAL"
         }
       ]
-    },
-    {
-      "tipo": "cierre_parcial",
-      "color": "amarillo",
-      "icono": "🟡",
-      "label": "CIERRE PARCIAL / ACCIDENTES",
-      "col2": true,
-      "alertas": [
-        {
-          "id": "b9fce116",
-          "tipo": "cierre_parcial",
-          "ruta": "Robos al transporte de carga aumentan en carreteras y zonas…",
-          "descripcion": "Robos al transporte de carga aumentan en carreteras y zonas estacionadas: el sector eleva la alerta en el inicio del segundo semestre – Transporte.mx – Transporte en México - Transporte.mx. Robos al transporte de carga aumentan en carreteras y zonas estacionadas: el sector eleva la alerta en el inicio del segundo semestre – Transporte.mx – Transporte en México Transporte.mx",
-          "recomendacion": "",
-          "fecha": "20 agosto 2026 · 11:11 CST",
-          "fecha_iso": "2026-08-20T11:11:00-06:00",
-          "fuente": "Transporte.mx",
-          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNR0YzUk5STS1CMHVVdzZzNmVramFaZ0FQVWViQ29Udm14V0Y0Yi1mSFlRdjJQNHFvQkhRZ3lucjJNcVNrTXRoeEw1TDhZcHdBdHZFNm5aTmVUMjNHN2RIT2tXNVRWNUNWdThDV2dWUDRWOWJmaWhjYTlXd0ZrR19GdEFycHlIekVmVXhZdXg0NkJ6UDZka3djMEgtSWFWV0padEpJOFdrNU9fdkV0eHRnWFZFM2k2NnVOakdoZ214Mkw4dHNSelZjVXAyenE2VkNrMUhka19EZ3FCM2hMYkpLVy1kOFRvcVZDZGxj?oc=5",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
-        }
-      ]
-    },
-    {
-      "tipo": "clima",
-      "color": "azul",
-      "icono": "🌧",
-      "label": "ALERTA METEOROLOGICA",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "4cf5de0f",
-          "tipo": "clima",
-          "ruta": "Denuncian vecinos de Prolongación Guerrero frecuentes inundaciones…",
-          "descripcion": "Denuncian vecinos de Prolongación Guerrero frecuentes inundaciones. Vecinos denunciaron que el tramo Estrella-Euquerio Guerrero se inunda cada vez que llueve sin importar la intensidad, debido a la falta de infraestructura para desalojar el agua.",
-          "recomendacion": "",
-          "fecha": "20 agosto 2026 · 20:23 CST",
-          "fecha_iso": "2026-08-20T20:23:00-06:00",
-          "fuente": "AM Guanajuato",
-          "url": "https://www.am.com.mx/irapuato/2026/08/20/denuncian-vecinos-de-prolongacion-guerrero-frecuentes-inundaciones-1834743.html",
-          "dot_color": "#3498db",
-          "badge": "badge-clima",
-          "badge_txt": "ALERTA CLIMA",
-          "lat": 17.55,
-          "lon": -99.5
-        }
-      ]
     }
   ],
-  "para_mapa": [
-    {
-      "id": "4cf5de0f",
-      "tipo": "clima",
-      "ruta": "Denuncian vecinos de Prolongación Guerrero frecuentes inundaciones…",
-      "descripcion": "Denuncian vecinos de Prolongación Guerrero frecuentes inundaciones. Vecinos denunciaron que el tramo Estrella-Euquerio Guerrero se inunda cada vez que llueve sin importar la intensidad, debido a la falta de infraestructura para desalojar el agua.",
-      "fecha": "20 agosto 2026 · 20:23 CST",
-      "fuente": "AM Guanajuato",
-      "url": "https://www.am.com.mx/irapuato/2026/08/20/denuncian-vecinos-de-prolongacion-guerrero-frecuentes-inundaciones-1834743.html",
-      "dot_color": "#3498db",
-      "badge_txt": "ALERTA CLIMA",
-      "lat": 17.55,
-      "lon": -99.5
-    }
-  ]
+  "para_mapa": []
 }
