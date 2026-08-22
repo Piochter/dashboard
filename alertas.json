@@ -1,11 +1,10 @@
 {
-  "ultima_actualizacion": "2026-08-21T17:45:55.575119-06:00",
-  "ultima_actualizacion_legible": "21 de agosto de 2026 · 17:45 CST",
-  "total": 5,
+  "ultima_actualizacion": "2026-08-21T18:01:04.432305-06:00",
+  "ultima_actualizacion_legible": "21 de agosto de 2026 · 18:01 CST",
+  "total": 4,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
-    "Medios regionales",
     "Quadratin + regionales"
   ],
   "grupos": [
@@ -84,31 +83,6 @@
           "badge_txt": "BLOQUEO"
         }
       ]
-    },
-    {
-      "tipo": "cierre_parcial",
-      "color": "amarillo",
-      "icono": "🟡",
-      "label": "CIERRE PARCIAL / ACCIDENTES",
-      "col2": true,
-      "alertas": [
-        {
-          "id": "d9d7df91",
-          "tipo": "cierre_parcial",
-          "ruta": "Deja 2 heridos choque entre taxi y tráiler en la…",
-          "descripcion": "Deja 2 heridos choque entre taxi y tráiler en la Siglo 21. En el kilómetro 200 del tramo Las Cañas-Cuatro Caminos",
-          "recomendacion": "",
-          "fecha": "21 agosto 2026 · 16:10 CST",
-          "fecha_iso": "2026-08-21T16:10:00-06:00",
-          "fuente": "Quadratin Michoacan",
-          "url": "https://www.quadratin.com.mx/sucesos/deja-2-heridos-choque-entre-taxi-y-trailer-en-la-siglo-21/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.1,
-          "lon": -104.3
-        }
-      ]
     }
   ],
   "para_mapa": [
@@ -124,19 +98,6 @@
       "badge_txt": "BLOQUEO",
       "lat": 16.86,
       "lon": -99.88
-    },
-    {
-      "id": "d9d7df91",
-      "tipo": "cierre_parcial",
-      "ruta": "Deja 2 heridos choque entre taxi y tráiler en la…",
-      "descripcion": "Deja 2 heridos choque entre taxi y tráiler en la Siglo 21. En el kilómetro 200 del tramo Las Cañas-Cuatro Caminos",
-      "fecha": "21 agosto 2026 · 16:10 CST",
-      "fuente": "Quadratin Michoacan",
-      "url": "https://www.quadratin.com.mx/sucesos/deja-2-heridos-choque-entre-taxi-y-trailer-en-la-siglo-21/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.1,
-      "lon": -104.3
     }
   ]
 }
