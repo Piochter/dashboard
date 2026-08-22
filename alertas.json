@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-08-22T00:23:09.812862-06:00",
-  "ultima_actualizacion_legible": "22 de agosto de 2026 · 00:23 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-08-22T01:08:06.685409-06:00",
+  "ultima_actualizacion_legible": "22 de agosto de 2026 · 01:08 CST",
+  "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Medios regionales",
@@ -40,20 +40,6 @@
       "label": "CIERRE PARCIAL / ACCIDENTES",
       "col2": true,
       "alertas": [
-        {
-          "id": "2db76490",
-          "tipo": "cierre_parcial",
-          "ruta": "¿Qué provocó el accidente de helicóptero en Kenya donde murieron…",
-          "descripcion": "¿Qué provocó el accidente de helicóptero en Kenya donde murieron seis personas?. El Departamento de Investigación de Accidentes Aéreos del Ministerio de Carreteras y Transporte de Kenya lidera las pesquisas para determinar la causa exacta del desplome",
-          "recomendacion": "",
-          "fecha": "21 agosto 2026 · 20:14 CST",
-          "fecha_iso": "2026-08-21T20:14:00-06:00",
-          "fuente": "El Informador Jalisco",
-          "url": "https://www.informador.mx/internacional/que-provoco-el-accidente-de-helicoptero-en-kenya-donde-murieron-seis-personas-20260821-0157.html",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
-        },
         {
           "id": "eb16fcf7",
           "tipo": "cierre_parcial",
