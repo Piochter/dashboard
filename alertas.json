@@ -1,10 +1,11 @@
 {
-  "ultima_actualizacion": "2026-08-21T19:25:34.571909-06:00",
-  "ultima_actualizacion_legible": "21 de agosto de 2026 · 19:25 CST",
+  "ultima_actualizacion": "2026-08-21T20:32:09.914991-06:00",
+  "ultima_actualizacion_legible": "21 de agosto de 2026 · 20:32 CST",
   "total": 3,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News"
+    "Google News",
+    "Quadratin + regionales"
   ],
   "grupos": [
     {
@@ -50,20 +51,29 @@
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO"
-        },
+        }
+      ]
+    },
+    {
+      "tipo": "cierre_parcial",
+      "color": "amarillo",
+      "icono": "🟡",
+      "label": "CIERRE PARCIAL / ACCIDENTES",
+      "col2": true,
+      "alertas": [
         {
-          "id": "4d2cb408",
-          "tipo": "bloqueo",
-          "ruta": "Estas Son las Carreteras con Bloqueos en México - N+…",
-          "descripcion": "Estas Son las Carreteras con Bloqueos en México - N+. Estas Son las Carreteras con Bloqueos en México N+",
+          "id": "eb16fcf7",
+          "tipo": "cierre_parcial",
+          "ruta": "Deja choque frontal 2 muertos en carretera Atlacomulco–Villa del Carbón…",
+          "descripcion": "Deja choque frontal 2 muertos en carretera Atlacomulco–Villa del Carbón. Hasta el momento se reportan dos personas fallecidas y dos hospitalizadas",
           "recomendacion": "",
-          "fecha": "21 agosto 2026 · 07:37 CST",
-          "fecha_iso": "2026-08-21T07:37:00-06:00",
-          "fuente": "N+",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdWhqU1BKWG5kQXFaT24tWTVIOTdxMzlEUmQ1aUNtQm9VaXRUSkZBN3R1MS1HN29UbU51ZmtOSmI5VmpfT0ZPanB3dnVPcEc1NVJGRnZhbzAySnVRWjg0cl9SbmstSUZ6bFBua1VCVEVzNDNXY254N19kRHM2X2FIeVZEVmFwOGQ1TFk3V3FfYXZrX2VuZTFtUmpqWXB2ak1BdDVRSDc0d051Q2JkXzl1eWszWV9EZmhuTnc?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
+          "fecha": "21 agosto 2026 · 19:30 CST",
+          "fecha_iso": "2026-08-21T19:30:00-06:00",
+          "fuente": "Quadratin EdoMex",
+          "url": "https://edomex.quadratin.com.mx/deja-choque-frontal-2-muertos-en-carretera-atlacomulco-villa-del-carbon/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
         }
       ]
     }
