@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-08-22T16:59:32.543125-06:00",
-  "ultima_actualizacion_legible": "22 de agosto de 2026 · 16:59 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-08-22T17:20:59.015025-06:00",
+  "ultima_actualizacion_legible": "22 de agosto de 2026 · 17:20 CST",
+  "total": 4,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
@@ -15,6 +15,38 @@
       "label": "CIERRE PARCIAL / ACCIDENTES",
       "col2": true,
       "alertas": [
+        {
+          "id": "452fa31a",
+          "tipo": "cierre_parcial",
+          "ruta": "Accidente vial en la México-Querétaro deja un hombre sin vida…",
+          "descripcion": "Accidente vial en la México-Querétaro deja un hombre sin vida en Tepeji. Un hombre de 48 años de edad, identificado con las iniciales A. M. M. y vecino de la comunidad de San Juan, perdió la vida durante la madrugada de est The post Accidente vial en la México-Querétaro deja un hombre sin vida en Tepeji appeared first on Quadratin Hidalgo.",
+          "recomendacion": "",
+          "fecha": "22 agosto 2026 · 17:09 CST",
+          "fecha_iso": "2026-08-22T17:09:00-06:00",
+          "fuente": "Quadratin Hidalgo",
+          "url": "https://hidalgo.quadratin.com.mx/sucesos/accidente-vial-en-la-mexico-queretaro-deja-un-hombre-sin-vida-en-tepeji/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 20.1,
+          "lon": -99.5
+        },
+        {
+          "id": "23e9770b",
+          "tipo": "cierre_parcial",
+          "ruta": "Accidente vial en Atitalaquia deja un hombre sin vida…",
+          "descripcion": "Accidente vial en Atitalaquia deja un hombre sin vida. Esta madrugada, un hombre perdió la vida luego de que el vehículo compacto en el que viajaba se impactara contra un tractocamión sobre la carretera The post Accidente vial en Atitalaquia deja un hombre sin vida appeared first on Quadratin Hidalgo.",
+          "recomendacion": "",
+          "fecha": "22 agosto 2026 · 17:06 CST",
+          "fecha_iso": "2026-08-22T17:06:00-06:00",
+          "fuente": "Quadratin Hidalgo",
+          "url": "https://hidalgo.quadratin.com.mx/sucesos/accidente-vial-en-atitalaquia-deja-un-hombre-sin-vida/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 20.11,
+          "lon": -98.73
+        },
         {
           "id": "64d787fd",
           "tipo": "cierre_parcial",
@@ -49,6 +81,32 @@
     }
   ],
   "para_mapa": [
+    {
+      "id": "452fa31a",
+      "tipo": "cierre_parcial",
+      "ruta": "Accidente vial en la México-Querétaro deja un hombre sin vida…",
+      "descripcion": "Accidente vial en la México-Querétaro deja un hombre sin vida en Tepeji. Un hombre de 48 años de edad, identificado con las iniciales A. M. M. y vecino de la comunidad de San Juan, perdió la vida durante la madrugada de est The post Accidente vial en la México-Querétaro deja un hombre sin vida en Tepeji appeared first on Quadratin Hidalgo.",
+      "fecha": "22 agosto 2026 · 17:09 CST",
+      "fuente": "Quadratin Hidalgo",
+      "url": "https://hidalgo.quadratin.com.mx/sucesos/accidente-vial-en-la-mexico-queretaro-deja-un-hombre-sin-vida-en-tepeji/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 20.1,
+      "lon": -99.5
+    },
+    {
+      "id": "23e9770b",
+      "tipo": "cierre_parcial",
+      "ruta": "Accidente vial en Atitalaquia deja un hombre sin vida…",
+      "descripcion": "Accidente vial en Atitalaquia deja un hombre sin vida. Esta madrugada, un hombre perdió la vida luego de que el vehículo compacto en el que viajaba se impactara contra un tractocamión sobre la carretera The post Accidente vial en Atitalaquia deja un hombre sin vida appeared first on Quadratin Hidalgo.",
+      "fecha": "22 agosto 2026 · 17:06 CST",
+      "fuente": "Quadratin Hidalgo",
+      "url": "https://hidalgo.quadratin.com.mx/sucesos/accidente-vial-en-atitalaquia-deja-un-hombre-sin-vida/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 20.11,
+      "lon": -98.73
+    },
     {
       "id": "64d787fd",
       "tipo": "cierre_parcial",
