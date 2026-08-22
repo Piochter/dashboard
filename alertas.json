@@ -1,38 +1,12 @@
 {
-  "ultima_actualizacion": "2026-08-22T03:58:01.592999-06:00",
-  "ultima_actualizacion_legible": "22 de agosto de 2026 · 03:58 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-08-22T04:18:37.450058-06:00",
+  "ultima_actualizacion_legible": "22 de agosto de 2026 · 04:18 CST",
+  "total": 1,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Medios regionales",
     "Quadratin + regionales"
   ],
   "grupos": [
-    {
-      "tipo": "cierre_total",
-      "color": "rojo",
-      "icono": "🔴",
-      "label": "CIERRE TOTAL",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "81cbcd30",
-          "tipo": "cierre_total",
-          "ruta": "Libramiento de Irapuato",
-          "descripcion": "Muere empleada del Gobierno de Guanajuato en volcadura sobre Libramiento de Irapuato. El automóvil salió del camino, cruzó un tramo de terreno irregular e impactó contra un talud de tierra, lo que provocó que diera varias vueltas en el aire.",
-          "recomendacion": "",
-          "fecha": "21 agosto 2026 · 23:53 CST",
-          "fecha_iso": "2026-08-21T23:53:00-06:00",
-          "fuente": "AM Guanajuato",
-          "url": "https://www.am.com.mx/irapuato/2026/08/21/muere-empleada-del-gobierno-de-guanajuato-en-volcadura-sobre-libramiento-de-irapuato-1835333.html",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL",
-          "lat": 21.02,
-          "lon": -101.26
-        }
-      ]
-    },
     {
       "tipo": "cierre_parcial",
       "color": "amarillo",
@@ -57,19 +31,5 @@
       ]
     }
   ],
-  "para_mapa": [
-    {
-      "id": "81cbcd30",
-      "tipo": "cierre_total",
-      "ruta": "Libramiento de Irapuato",
-      "descripcion": "Muere empleada del Gobierno de Guanajuato en volcadura sobre Libramiento de Irapuato. El automóvil salió del camino, cruzó un tramo de terreno irregular e impactó contra un talud de tierra, lo que provocó que diera varias vueltas en el aire.",
-      "fecha": "21 agosto 2026 · 23:53 CST",
-      "fuente": "AM Guanajuato",
-      "url": "https://www.am.com.mx/irapuato/2026/08/21/muere-empleada-del-gobierno-de-guanajuato-en-volcadura-sobre-libramiento-de-irapuato-1835333.html",
-      "dot_color": "#e74c3c",
-      "badge_txt": "CIERRE TOTAL",
-      "lat": 21.02,
-      "lon": -101.26
-    }
-  ]
+  "para_mapa": []
 }
