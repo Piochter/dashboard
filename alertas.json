@@ -1,12 +1,35 @@
 {
-  "ultima_actualizacion": "2026-08-22T13:16:48.451579-06:00",
-  "ultima_actualizacion_legible": "22 de agosto de 2026 · 13:16 CST",
-  "total": 0,
+  "ultima_actualizacion": "2026-08-22T13:44:01.257339-06:00",
+  "ultima_actualizacion_legible": "22 de agosto de 2026 · 13:44 CST",
+  "total": 1,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News"
   ],
-  "grupos": [],
-  "para_mapa": [],
-  "nota": "Sin alertas activas en la ventana de tiempo configurada."
+  "grupos": [
+    {
+      "tipo": "cierre_parcial",
+      "color": "amarillo",
+      "icono": "🟡",
+      "label": "CIERRE PARCIAL / ACCIDENTES",
+      "col2": true,
+      "alertas": [
+        {
+          "id": "08883770",
+          "tipo": "cierre_parcial",
+          "ruta": "Carreteras Bloqueadas en México: Mapa de Cierres y Reporte de…",
+          "descripcion": "Carreteras Bloqueadas en México: Mapa de Cierres y Reporte de Tráfico En Vivo - N+. Carreteras Bloqueadas en México: Mapa de Cierres y Reporte de Tráfico En Vivo N+",
+          "recomendacion": "",
+          "fecha": "22 agosto 2026 · 06:36 CST",
+          "fecha_iso": "2026-08-22T06:36:00-06:00",
+          "fuente": "N+",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZnV3RjdzS055NnRISXZoWDJXbWxKaE1DamMtTzJINGxEZ2t0R21JR2YtOExIbnJGUl9Zc2JEQlk3M0lyTFFpWWF1eUF2YTZEbEllXzFJLVZBT1lINFlNbUJ6SWQzZkJySzdMVHZhR015VzRsaDlSUlFTV0VZRENGZkJ3UWNJcGlvOS1UVUV3N2pZcTBycnA1YXpMMA?oc=5",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        }
+      ]
+    }
+  ],
+  "para_mapa": []
 }
