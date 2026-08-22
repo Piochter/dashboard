@@ -1,11 +1,10 @@
 {
-  "ultima_actualizacion": "2026-08-21T18:01:04.432305-06:00",
-  "ultima_actualizacion_legible": "21 de agosto de 2026 · 18:01 CST",
-  "total": 4,
+  "ultima_actualizacion": "2026-08-21T19:25:34.571909-06:00",
+  "ultima_actualizacion_legible": "21 de agosto de 2026 · 19:25 CST",
+  "total": 3,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News",
-    "Quadratin + regionales"
+    "Google News"
   ],
   "grupos": [
     {
@@ -39,22 +38,6 @@
       "col2": false,
       "alertas": [
         {
-          "id": "c05cd953",
-          "tipo": "bloqueo",
-          "ruta": "Continúa Gobierno de Leticia Lozano renovando calles de Acapulco…",
-          "descripcion": "Continúa Gobierno de Leticia Lozano renovando calles de Acapulco. Lleva Maquinaria Pesada Vialidades Dignas a Las Parotas y Ciudad Renacimiento",
-          "recomendacion": "",
-          "fecha": "21 agosto 2026 · 17:32 CST",
-          "fecha_iso": "2026-08-21T17:32:00-06:00",
-          "fuente": "Quadratin Guerrero",
-          "url": "https://guerrero.quadratin.com.mx/continua-gobierno-de-leticia-lozano-renovando-calles-de-acapulco/",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 16.86,
-          "lon": -99.88
-        },
-        {
           "id": "786095db",
           "tipo": "bloqueo",
           "ruta": "Bloqueos carreteros hoy 21 de agosto: cierres y afectaciones en…",
@@ -85,19 +68,5 @@
       ]
     }
   ],
-  "para_mapa": [
-    {
-      "id": "c05cd953",
-      "tipo": "bloqueo",
-      "ruta": "Continúa Gobierno de Leticia Lozano renovando calles de Acapulco…",
-      "descripcion": "Continúa Gobierno de Leticia Lozano renovando calles de Acapulco. Lleva Maquinaria Pesada Vialidades Dignas a Las Parotas y Ciudad Renacimiento",
-      "fecha": "21 agosto 2026 · 17:32 CST",
-      "fuente": "Quadratin Guerrero",
-      "url": "https://guerrero.quadratin.com.mx/continua-gobierno-de-leticia-lozano-renovando-calles-de-acapulco/",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 16.86,
-      "lon": -99.88
-    }
-  ]
+  "para_mapa": []
 }
