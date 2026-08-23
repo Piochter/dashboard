@@ -1,36 +1,12 @@
 {
-  "ultima_actualizacion": "2026-08-23T00:26:55.509446-06:00",
-  "ultima_actualizacion_legible": "23 de agosto de 2026 · 00:26 CST",
-  "total": 5,
+  "ultima_actualizacion": "2026-08-23T01:10:07.727947-06:00",
+  "ultima_actualizacion_legible": "23 de agosto de 2026 · 01:10 CST",
+  "total": 3,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Medios regionales",
     "Quadratin + regionales"
   ],
   "grupos": [
-    {
-      "tipo": "cierre_total",
-      "color": "rojo",
-      "icono": "🔴",
-      "label": "CIERRE TOTAL",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "71d3809f",
-          "tipo": "cierre_total",
-          "ruta": "Carretera a Chapala deja dos personas lesionadas",
-          "descripcion": "Volcadura de camión en Carretera a Chapala deja dos personas lesionadas. El accidente generó intenso tráfico en la zona, por lo que se recomienda tomar rutas alternas",
-          "recomendacion": "se recomienda tomar rutas alternas",
-          "fecha": "22 agosto 2026 · 19:40 CST",
-          "fecha_iso": "2026-08-22T19:40:00-06:00",
-          "fuente": "El Informador Jalisco",
-          "url": "https://www.informador.mx/jalisco/volcadura-de-camion-en-carretera-a-chapala-deja-dos-personas-lesionadas-20260822-0082.html",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL"
-        }
-      ]
-    },
     {
       "tipo": "cierre_parcial",
       "color": "amarillo",
@@ -85,22 +61,6 @@
           "badge_txt": "CIERRE PARCIAL",
           "lat": 20.11,
           "lon": -98.73
-        },
-        {
-          "id": "64d787fd",
-          "tipo": "cierre_parcial",
-          "ruta": "autopista Siglo XXI deja dos muertos y varios lesionados",
-          "descripcion": "Choque en la autopista Siglo XXI deja dos muertos y varios lesionados. Eran originarios de Santa Clara Ocoyucan",
-          "recomendacion": "",
-          "fecha": "22 agosto 2026 · 13:02 CST",
-          "fecha_iso": "2026-08-22T13:02:00-06:00",
-          "fuente": "Quadratin Puebla",
-          "url": "https://puebla.quadratin.com.mx/principal/choque-en-la-autopista-siglo-xxi-deja-dos-muertos-y-varios-lesionados/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.3,
-          "lon": -104.0
         }
       ]
     }
@@ -144,19 +104,6 @@
       "badge_txt": "CIERRE PARCIAL",
       "lat": 20.11,
       "lon": -98.73
-    },
-    {
-      "id": "64d787fd",
-      "tipo": "cierre_parcial",
-      "ruta": "autopista Siglo XXI deja dos muertos y varios lesionados",
-      "descripcion": "Choque en la autopista Siglo XXI deja dos muertos y varios lesionados. Eran originarios de Santa Clara Ocoyucan",
-      "fecha": "22 agosto 2026 · 13:02 CST",
-      "fuente": "Quadratin Puebla",
-      "url": "https://puebla.quadratin.com.mx/principal/choque-en-la-autopista-siglo-xxi-deja-dos-muertos-y-varios-lesionados/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.3,
-      "lon": -104.0
     }
   ]
 }
