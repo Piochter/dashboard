@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-08-23T11:55:24.069181-06:00",
-  "ultima_actualizacion_legible": "23 de agosto de 2026 · 11:55 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-08-23T12:15:54.679143-06:00",
+  "ultima_actualizacion_legible": "23 de agosto de 2026 · 12:15 CST",
+  "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Medios regionales",
@@ -25,20 +25,6 @@
           "fecha_iso": "2026-08-23T09:58:00-06:00",
           "fuente": "Quadratin Michoacan",
           "url": "https://www.quadratin.com.mx/sucesos/dos-heridos-deja-volcadura-en-la-carretera-morelia-charo/",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL"
-        },
-        {
-          "id": "891a0313",
-          "tipo": "cierre_total",
-          "ruta": "Libramiento de Morelia",
-          "descripcion": "Volcadura deja daños materiales en el Libramiento de Morelia. En inmediaciones de la salida a Salamanca",
-          "recomendacion": "",
-          "fecha": "23 agosto 2026 · 09:50 CST",
-          "fecha_iso": "2026-08-23T09:50:00-06:00",
-          "fuente": "Quadratin Michoacan",
-          "url": "https://www.quadratin.com.mx/sucesos/volcadura-deja-danos-materiales-en-el-libramiento-de-morelia/",
           "dot_color": "#e74c3c",
           "badge": "badge-cierre-total",
           "badge_txt": "CIERRE TOTAL"
