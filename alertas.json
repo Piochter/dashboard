@@ -1,33 +1,33 @@
 {
-  "ultima_actualizacion": "2026-08-23T12:15:54.679143-06:00",
-  "ultima_actualizacion_legible": "23 de agosto de 2026 · 12:15 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-08-23T12:49:51.040348-06:00",
+  "ultima_actualizacion_legible": "23 de agosto de 2026 · 12:49 CST",
+  "total": 3,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Medios regionales",
+    "Google News",
     "Quadratin + regionales"
   ],
   "grupos": [
     {
-      "tipo": "cierre_total",
+      "tipo": "bloqueo",
       "color": "rojo",
-      "icono": "🔴",
-      "label": "CIERRE TOTAL",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
       "col2": false,
       "alertas": [
         {
-          "id": "5a83cc99",
-          "tipo": "cierre_total",
-          "ruta": "carretera Morelia-Charo",
-          "descripcion": "Dos heridos deja volcadura en la carretera Morelia-Charo. A la altura de Mil Cumbres",
+          "id": "a42f1608",
+          "tipo": "bloqueo",
+          "ruta": "Bloqueos carreteras HOY 23 de agosto: Autopistas cerradas en México,…",
+          "descripcion": "Bloqueos carreteras HOY 23 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 23 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
           "recomendacion": "",
-          "fecha": "23 agosto 2026 · 09:58 CST",
-          "fecha_iso": "2026-08-23T09:58:00-06:00",
-          "fuente": "Quadratin Michoacan",
-          "url": "https://www.quadratin.com.mx/sucesos/dos-heridos-deja-volcadura-en-la-carretera-morelia-charo/",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL"
+          "fecha": "23 agosto 2026 · 08:44 CST",
+          "fecha_iso": "2026-08-23T08:44:00-06:00",
+          "fuente": "Eje Central",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNOFpGMjZkb1NIcl9zbktxdnhxZnZ3UlJyWkl2TzdHbExlWXpxeDRES203b2dNNkVJWm1PRGZmWmJWanhMQlAyVUd3VHNzejQzZWMtYXpBaFlUc3pka1Fhbm9kNHBVT0w2bUxnX0lIb1F2QmFqQXFwUmhpTm1WZVJKeVk3SU5SSkhCUmhKaW85NUFMNkZhN05HMmhLM09VVjVDb2E2TEJjdTM1ZHlPaEl0eXd5TzRaam5IMmIyUnF3WW1ock9FU0d3aHFwZElqa0RRdmlwY05pNWR5Z1dkS2E5YlNmTzhkYmt4?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
         }
       ]
     },
@@ -38,6 +38,22 @@
       "label": "CIERRE PARCIAL / ACCIDENTES",
       "col2": true,
       "alertas": [
+        {
+          "id": "62099ec1",
+          "tipo": "cierre_parcial",
+          "ruta": "Transportistas reportan robos en carreteras federales…",
+          "descripcion": "Transportistas reportan robos en carreteras federales. Exigen seguridad, pero es responsabilidad federal The post Transportistas reportan robos en carreteras federales appeared first on Quadratin Querétaro.",
+          "recomendacion": "",
+          "fecha": "23 agosto 2026 · 12:30 CST",
+          "fecha_iso": "2026-08-23T12:30:00-06:00",
+          "fuente": "Quadratin Queretaro",
+          "url": "https://queretaro.quadratin.com.mx/transportistas-reportan-robos-en-carreteras-federales/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 20.59,
+          "lon": -100.39
+        },
         {
           "id": "fdb0914d",
           "tipo": "cierre_parcial",
@@ -58,6 +74,19 @@
     }
   ],
   "para_mapa": [
+    {
+      "id": "62099ec1",
+      "tipo": "cierre_parcial",
+      "ruta": "Transportistas reportan robos en carreteras federales…",
+      "descripcion": "Transportistas reportan robos en carreteras federales. Exigen seguridad, pero es responsabilidad federal The post Transportistas reportan robos en carreteras federales appeared first on Quadratin Querétaro.",
+      "fecha": "23 agosto 2026 · 12:30 CST",
+      "fuente": "Quadratin Queretaro",
+      "url": "https://queretaro.quadratin.com.mx/transportistas-reportan-robos-en-carreteras-federales/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 20.59,
+      "lon": -100.39
+    },
     {
       "id": "fdb0914d",
       "tipo": "cierre_parcial",
