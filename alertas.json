@@ -1,12 +1,36 @@
 {
-  "ultima_actualizacion": "2026-08-22T19:02:09.840021-06:00",
-  "ultima_actualizacion_legible": "22 de agosto de 2026 · 19:02 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-08-22T20:37:01.910180-06:00",
+  "ultima_actualizacion_legible": "22 de agosto de 2026 · 20:37 CST",
+  "total": 5,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
+    "Medios regionales",
     "Quadratin + regionales"
   ],
   "grupos": [
+    {
+      "tipo": "cierre_total",
+      "color": "rojo",
+      "icono": "🔴",
+      "label": "CIERRE TOTAL",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "71d3809f",
+          "tipo": "cierre_total",
+          "ruta": "Carretera a Chapala deja dos personas lesionadas",
+          "descripcion": "Volcadura de camión en Carretera a Chapala deja dos personas lesionadas. El accidente generó intenso tráfico en la zona, por lo que se recomienda tomar rutas alternas",
+          "recomendacion": "se recomienda tomar rutas alternas",
+          "fecha": "22 agosto 2026 · 19:40 CST",
+          "fecha_iso": "2026-08-22T19:40:00-06:00",
+          "fuente": "El Informador Jalisco",
+          "url": "https://www.informador.mx/jalisco/volcadura-de-camion-en-carretera-a-chapala-deja-dos-personas-lesionadas-20260822-0082.html",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL"
+        }
+      ]
+    },
     {
       "tipo": "cierre_parcial",
       "color": "amarillo",
@@ -14,6 +38,22 @@
       "label": "CIERRE PARCIAL / ACCIDENTES",
       "col2": true,
       "alertas": [
+        {
+          "id": "8f306e0d",
+          "tipo": "cierre_parcial",
+          "ruta": "Accidente vial en comunidad de Atotonilco deja un hombre sin…",
+          "descripcion": "Accidente vial en comunidad de Atotonilco deja un hombre sin vida. ATOTONILCO DE TULA, Hgo., 22 de agosto de 2016.-Un hombre de aproximadamente 30 años perdió la vida la tarde de este sábado luego de ser atropellado cuando presuntamente intentaba cruzar la carretera Jorobas-Tula, a la altura de la comunidad de La Cañada. El accidente ocurrió frente a la empresa Procal 2000, donde, de acuerdo con […] The post Accidente vial en comunidad de Atotonilco deja un hombre sin vida appeared first on Quad",
+          "recomendacion": "",
+          "fecha": "22 agosto 2026 · 19:16 CST",
+          "fecha_iso": "2026-08-22T19:16:00-06:00",
+          "fuente": "Quadratin Hidalgo",
+          "url": "https://hidalgo.quadratin.com.mx/sucesos/accidente-vial-en-comunidad-de-atotonilco-deja-un-hombre-sin-vida/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 19.1,
+          "lon": -104.3
+        },
         {
           "id": "452fa31a",
           "tipo": "cierre_parcial",
@@ -66,6 +106,19 @@
     }
   ],
   "para_mapa": [
+    {
+      "id": "8f306e0d",
+      "tipo": "cierre_parcial",
+      "ruta": "Accidente vial en comunidad de Atotonilco deja un hombre sin…",
+      "descripcion": "Accidente vial en comunidad de Atotonilco deja un hombre sin vida. ATOTONILCO DE TULA, Hgo., 22 de agosto de 2016.-Un hombre de aproximadamente 30 años perdió la vida la tarde de este sábado luego de ser atropellado cuando presuntamente intentaba cruzar la carretera Jorobas-Tula, a la altura de la comunidad de La Cañada. El accidente ocurrió frente a la empresa Procal 2000, donde, de acuerdo con […] The post Accidente vial en comunidad de Atotonilco deja un hombre sin vida appeared first on Quad",
+      "fecha": "22 agosto 2026 · 19:16 CST",
+      "fuente": "Quadratin Hidalgo",
+      "url": "https://hidalgo.quadratin.com.mx/sucesos/accidente-vial-en-comunidad-de-atotonilco-deja-un-hombre-sin-vida/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 19.1,
+      "lon": -104.3
+    },
     {
       "id": "452fa31a",
       "tipo": "cierre_parcial",
