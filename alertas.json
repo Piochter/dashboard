@@ -1,12 +1,59 @@
 {
-  "ultima_actualizacion": "2026-08-23T09:44:56.653274-06:00",
-  "ultima_actualizacion_legible": "23 de agosto de 2026 · 09:44 CST",
-  "total": 0,
+  "ultima_actualizacion": "2026-08-23T09:58:39.406874-06:00",
+  "ultima_actualizacion_legible": "23 de agosto de 2026 · 09:58 CST",
+  "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News"
+    "Google News",
+    "Medios regionales"
   ],
-  "grupos": [],
-  "para_mapa": [],
-  "nota": "Sin alertas activas en la ventana de tiempo configurada."
+  "grupos": [
+    {
+      "tipo": "cierre_total",
+      "color": "rojo",
+      "icono": "🔴",
+      "label": "CIERRE TOTAL",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "891a0313",
+          "tipo": "cierre_total",
+          "ruta": "Libramiento de Morelia",
+          "descripcion": "Volcadura deja daños materiales en el Libramiento de Morelia. En inmediaciones de la salida a Salamanca",
+          "recomendacion": "",
+          "fecha": "23 agosto 2026 · 09:50 CST",
+          "fecha_iso": "2026-08-23T09:50:00-06:00",
+          "fuente": "Quadratin Michoacan",
+          "url": "https://www.quadratin.com.mx/sucesos/volcadura-deja-danos-materiales-en-el-libramiento-de-morelia/",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL"
+        }
+      ]
+    },
+    {
+      "tipo": "bloqueo",
+      "color": "rojo",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "a42f1608",
+          "tipo": "bloqueo",
+          "ruta": "Bloqueos carreteras HOY 23 de agosto: Autopistas cerradas en México,…",
+          "descripcion": "Bloqueos carreteras HOY 23 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 23 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
+          "recomendacion": "",
+          "fecha": "23 agosto 2026 · 08:44 CST",
+          "fecha_iso": "2026-08-23T08:44:00-06:00",
+          "fuente": "Eje Central",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNOFpGMjZkb1NIcl9zbktxdnhxZnZ3UlJyWkl2TzdHbExlWXpxeDRES203b2dNNkVJWm1PRGZmWmJWanhMQlAyVUd3VHNzejQzZWMtYXpBaFlUc3pka1Fhbm9kNHBVT0w2bUxnX0lIb1F2QmFqQXFwUmhpTm1WZVJKeVk3SU5SSkhCUmhKaW85NUFMNkZhN05HMmhLM09VVjVDb2E2TEJjdTM1ZHlPaEl0eXd5TzRaam5IMmIyUnF3WW1ock9FU0d3aHFwZElqa0RRdmlwY05pNWR5Z1dkS2E5YlNmTzhkYmt4?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        }
+      ]
+    }
+  ],
+  "para_mapa": []
 }
