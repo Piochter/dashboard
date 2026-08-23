@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-08-23T17:21:04.911360-06:00",
-  "ultima_actualizacion_legible": "23 de agosto de 2026 · 17:21 CST",
-  "total": 4,
+  "ultima_actualizacion": "2026-08-23T17:42:55.065357-06:00",
+  "ultima_actualizacion_legible": "23 de agosto de 2026 · 17:42 CST",
+  "total": 3,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
@@ -39,22 +39,6 @@
       "col2": true,
       "alertas": [
         {
-          "id": "62099ec1",
-          "tipo": "cierre_parcial",
-          "ruta": "Transportistas reportan robos en carreteras federales…",
-          "descripcion": "Transportistas reportan robos en carreteras federales. Exigen seguridad, pero es responsabilidad federal The post Transportistas reportan robos en carreteras federales appeared first on Quadratin Querétaro.",
-          "recomendacion": "",
-          "fecha": "23 agosto 2026 · 12:30 CST",
-          "fecha_iso": "2026-08-23T12:30:00-06:00",
-          "fuente": "Quadratin Queretaro",
-          "url": "https://queretaro.quadratin.com.mx/transportistas-reportan-robos-en-carreteras-federales/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 20.59,
-          "lon": -100.39
-        },
-        {
           "id": "af73010e",
           "tipo": "cierre_parcial",
           "ruta": "Accidente en la autopista México-Pirámides hoy: autobús de pasajeros se…",
@@ -90,19 +74,6 @@
     }
   ],
   "para_mapa": [
-    {
-      "id": "62099ec1",
-      "tipo": "cierre_parcial",
-      "ruta": "Transportistas reportan robos en carreteras federales…",
-      "descripcion": "Transportistas reportan robos en carreteras federales. Exigen seguridad, pero es responsabilidad federal The post Transportistas reportan robos en carreteras federales appeared first on Quadratin Querétaro.",
-      "fecha": "23 agosto 2026 · 12:30 CST",
-      "fuente": "Quadratin Queretaro",
-      "url": "https://queretaro.quadratin.com.mx/transportistas-reportan-robos-en-carreteras-federales/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 20.59,
-      "lon": -100.39
-    },
     {
       "id": "af73010e",
       "tipo": "cierre_parcial",
