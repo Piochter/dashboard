@@ -1,11 +1,11 @@
 {
-  "ultima_actualizacion": "2026-08-23T09:58:39.406874-06:00",
-  "ultima_actualizacion_legible": "23 de agosto de 2026 · 09:58 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-08-23T10:22:27.631114-06:00",
+  "ultima_actualizacion_legible": "23 de agosto de 2026 · 10:22 CST",
+  "total": 3,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News",
-    "Medios regionales"
+    "Medios regionales",
+    "Quadratin + regionales"
   ],
   "grupos": [
     {
@@ -15,6 +15,20 @@
       "label": "CIERRE TOTAL",
       "col2": false,
       "alertas": [
+        {
+          "id": "5a83cc99",
+          "tipo": "cierre_total",
+          "ruta": "carretera Morelia-Charo",
+          "descripcion": "Dos heridos deja volcadura en la carretera Morelia-Charo. A la altura de Mil Cumbres",
+          "recomendacion": "",
+          "fecha": "23 agosto 2026 · 09:58 CST",
+          "fecha_iso": "2026-08-23T09:58:00-06:00",
+          "fuente": "Quadratin Michoacan",
+          "url": "https://www.quadratin.com.mx/sucesos/dos-heridos-deja-volcadura-en-la-carretera-morelia-charo/",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL"
+        },
         {
           "id": "891a0313",
           "tipo": "cierre_total",
@@ -32,28 +46,44 @@
       ]
     },
     {
-      "tipo": "bloqueo",
-      "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
-      "col2": false,
+      "tipo": "cierre_parcial",
+      "color": "amarillo",
+      "icono": "🟡",
+      "label": "CIERRE PARCIAL / ACCIDENTES",
+      "col2": true,
       "alertas": [
         {
-          "id": "a42f1608",
-          "tipo": "bloqueo",
-          "ruta": "Bloqueos carreteras HOY 23 de agosto: Autopistas cerradas en México,…",
-          "descripcion": "Bloqueos carreteras HOY 23 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 23 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
+          "id": "fdb0914d",
+          "tipo": "cierre_parcial",
+          "ruta": "autopista Siglo XXI y en la Puebla-México",
+          "descripcion": "Fin de semana de accidentes: en la autopista Siglo XXI y en la Puebla-México. Se registraron retrasos vehiculares debido a los siniestros",
           "recomendacion": "",
-          "fecha": "23 agosto 2026 · 08:44 CST",
-          "fecha_iso": "2026-08-23T08:44:00-06:00",
-          "fuente": "Eje Central",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNOFpGMjZkb1NIcl9zbktxdnhxZnZ3UlJyWkl2TzdHbExlWXpxeDRES203b2dNNkVJWm1PRGZmWmJWanhMQlAyVUd3VHNzejQzZWMtYXpBaFlUc3pka1Fhbm9kNHBVT0w2bUxnX0lIb1F2QmFqQXFwUmhpTm1WZVJKeVk3SU5SSkhCUmhKaW85NUFMNkZhN05HMmhLM09VVjVDb2E2TEJjdTM1ZHlPaEl0eXd5TzRaam5IMmIyUnF3WW1ock9FU0d3aHFwZElqa0RRdmlwY05pNWR5Z1dkS2E5YlNmTzhkYmt4?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
+          "fecha": "23 agosto 2026 · 09:30 CST",
+          "fecha_iso": "2026-08-23T09:30:00-06:00",
+          "fuente": "Quadratin Puebla",
+          "url": "https://puebla.quadratin.com.mx/principal/fin-de-semana-de-accidentes-en-la-autopista-siglo-xxi-y-en-la-puebla-mexico/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 19.3,
+          "lon": -104.0
         }
       ]
     }
   ],
-  "para_mapa": []
+  "para_mapa": [
+    {
+      "id": "fdb0914d",
+      "tipo": "cierre_parcial",
+      "ruta": "autopista Siglo XXI y en la Puebla-México",
+      "descripcion": "Fin de semana de accidentes: en la autopista Siglo XXI y en la Puebla-México. Se registraron retrasos vehiculares debido a los siniestros",
+      "fecha": "23 agosto 2026 · 09:30 CST",
+      "fuente": "Quadratin Puebla",
+      "url": "https://puebla.quadratin.com.mx/principal/fin-de-semana-de-accidentes-en-la-autopista-siglo-xxi-y-en-la-puebla-mexico/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 19.3,
+      "lon": -104.0
+    }
+  ]
 }
