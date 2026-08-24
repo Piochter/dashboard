@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-08-24T12:25:58.638836-06:00",
-  "ultima_actualizacion_legible": "24 de agosto de 2026 · 12:25 CST",
-  "total": 6,
+  "ultima_actualizacion": "2026-08-24T13:09:35.464651-06:00",
+  "ultima_actualizacion_legible": "24 de agosto de 2026 · 13:09 CST",
+  "total": 5,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Medios regionales",
@@ -10,37 +10,26 @@
   ],
   "grupos": [
     {
-      "tipo": "cierre_total",
-      "color": "rojo",
-      "icono": "🔴",
-      "label": "CIERRE TOTAL",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "50f3557d",
-          "tipo": "cierre_total",
-          "ruta": "Arde tráiler y colapsa el Circuito Exterior a la altura…",
-          "descripcion": "Arde tráiler y colapsa el Circuito Exterior a la altura de Tultepec. TULTEPEC, Edomex., 24 de agosto de 2026.-Automovilistas reportaron este lunes la aparatosa volcadura e incendio de una pesada unidad de carga en el Circuito Exterior Mexiquense, específicamente a la altura del kilómetro 14, cerca del mercado San Pablito en el municipio de Tultepec en dirección a Toluca. El incidente provocó el cierre total de la […]",
-          "recomendacion": "",
-          "fecha": "24 agosto 2026 · 09:09 CST",
-          "fecha_iso": "2026-08-24T09:09:00-06:00",
-          "fuente": "Quadratin EdoMex",
-          "url": "https://edomex.quadratin.com.mx/arde-trailer-y-colapsa-el-circuito-exterior-a-la-altura-de-tultepec/",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL",
-          "lat": 19.35,
-          "lon": -99.7
-        }
-      ]
-    },
-    {
       "tipo": "cierre_parcial",
       "color": "amarillo",
       "icono": "🟡",
       "label": "CIERRE PARCIAL / ACCIDENTES",
       "col2": true,
       "alertas": [
+        {
+          "id": "864aae13",
+          "tipo": "cierre_parcial",
+          "ruta": "carretera 175",
+          "descripcion": "Deja varios lesionados choque de urban en carretera 175. La unidad quedó al borde de un precipicio tras el accidente",
+          "recomendacion": "",
+          "fecha": "24 agosto 2026 · 13:00 CST",
+          "fecha_iso": "2026-08-24T13:00:00-06:00",
+          "fuente": "Quadratin Oaxaca",
+          "url": "https://oaxaca.quadratin.com.mx/deja-varios-lesionados-choque-de-urban-en-carretera-175/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        },
         {
           "id": "804ff62f",
           "tipo": "cierre_parcial",
@@ -51,20 +40,6 @@
           "fecha_iso": "2026-08-24T11:45:00-06:00",
           "fuente": "AM Guanajuato",
           "url": "https://www.am.com.mx/salamanca/2026/08/24/muere-hombre-atropellado-en-salamanca-irapuato-1835979.html",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
-        },
-        {
-          "id": "6df623b4",
-          "tipo": "cierre_parcial",
-          "ruta": "Parte caravana de traileros de LC a Morelia por ola…",
-          "descripcion": "Parte caravana de traileros de LC a Morelia por ola de robos al sector. Llegará cerca de las 13 horas a Morelia",
-          "recomendacion": "",
-          "fecha": "24 agosto 2026 · 11:34 CST",
-          "fecha_iso": "2026-08-24T11:34:00-06:00",
-          "fuente": "Quadratin Michoacan",
-          "url": "https://www.quadratin.com.mx/sucesos/parte-caravana-de-traileros-de-lc-a-morelia-por-ola-de-robos-al-sector/",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL"
@@ -131,19 +106,6 @@
       "badge_txt": "CIERRE PARCIAL",
       "lat": 19.29,
       "lon": -99.66
-    },
-    {
-      "id": "50f3557d",
-      "tipo": "cierre_total",
-      "ruta": "Arde tráiler y colapsa el Circuito Exterior a la altura…",
-      "descripcion": "Arde tráiler y colapsa el Circuito Exterior a la altura de Tultepec. TULTEPEC, Edomex., 24 de agosto de 2026.-Automovilistas reportaron este lunes la aparatosa volcadura e incendio de una pesada unidad de carga en el Circuito Exterior Mexiquense, específicamente a la altura del kilómetro 14, cerca del mercado San Pablito en el municipio de Tultepec en dirección a Toluca. El incidente provocó el cierre total de la […]",
-      "fecha": "24 agosto 2026 · 09:09 CST",
-      "fuente": "Quadratin EdoMex",
-      "url": "https://edomex.quadratin.com.mx/arde-trailer-y-colapsa-el-circuito-exterior-a-la-altura-de-tultepec/",
-      "dot_color": "#e74c3c",
-      "badge_txt": "CIERRE TOTAL",
-      "lat": 19.35,
-      "lon": -99.7
     },
     {
       "id": "25f3348b",
