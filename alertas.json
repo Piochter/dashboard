@@ -1,9 +1,10 @@
 {
-  "ultima_actualizacion": "2026-08-24T16:50:52.654212-06:00",
-  "ultima_actualizacion_legible": "24 de agosto de 2026 · 16:50 CST",
-  "total": 4,
+  "ultima_actualizacion": "2026-08-24T17:14:55.665502-06:00",
+  "ultima_actualizacion_legible": "24 de agosto de 2026 · 17:14 CST",
+  "total": 5,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
+    "Medios regionales",
     "Quadratin + regionales",
     "Telegram"
   ],
@@ -15,6 +16,20 @@
       "label": "CIERRE PARCIAL / ACCIDENTES",
       "col2": true,
       "alertas": [
+        {
+          "id": "aec1db3a",
+          "tipo": "cierre_parcial",
+          "ruta": "carretera Celaya-Juventino Rosas dos lesionados",
+          "descripcion": "Deja accidente en la carretera Celaya-Juventino Rosas dos lesionados. El percance de registró la noche del domingo, a la altura de la comunidad de Roque. Uno de los lesionados fue hospitalizado en delicado estado de salud.",
+          "recomendacion": "",
+          "fecha": "24 agosto 2026 · 17:04 CST",
+          "fecha_iso": "2026-08-24T17:04:00-06:00",
+          "fuente": "AM Guanajuato",
+          "url": "https://www.am.com.mx/celaya/2026/08/24/deja-accidente-en-la-carretera-celaya-juventino-rosas-dos-lesionados-1836116.html",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        },
         {
           "id": "e679bf2e",
           "tipo": "cierre_parcial",
