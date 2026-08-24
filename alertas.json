@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-08-24T13:09:35.464651-06:00",
-  "ultima_actualizacion_legible": "24 de agosto de 2026 · 13:09 CST",
-  "total": 5,
+  "ultima_actualizacion": "2026-08-24T13:42:27.898827-06:00",
+  "ultima_actualizacion_legible": "24 de agosto de 2026 · 13:42 CST",
+  "total": 6,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Medios regionales",
@@ -16,6 +16,22 @@
       "label": "CIERRE PARCIAL / ACCIDENTES",
       "col2": true,
       "alertas": [
+        {
+          "id": "37e08750",
+          "tipo": "cierre_parcial",
+          "ruta": "Van 13 muertos durante las vacaciones de verano en Guerrero…",
+          "descripcion": "Van 13 muertos durante las vacaciones de verano en Guerrero. ACAPULCO, Gro., 24 de agosto de 2026.- La Secretaría de Protección Civil estatal reportó la muerte de 13 personas, cinco de ellas ahogadas en playas y ocho en accidentes viales en carreteras, a una semana de que culmine el dispositivo vacacional Verano 2026. De acuerdo con la dependencia, del 16 de julio al 23 de […]",
+          "recomendacion": "",
+          "fecha": "24 agosto 2026 · 13:26 CST",
+          "fecha_iso": "2026-08-24T13:26:00-06:00",
+          "fuente": "Quadratin Chiapas",
+          "url": "https://chiapas.quadratin.com.mx/sucesos/van-13-muertos-durante-las-vacaciones-de-verano-en-guerrero/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 17.55,
+          "lon": -99.5
+        },
         {
           "id": "864aae13",
           "tipo": "cierre_parcial",
@@ -94,6 +110,19 @@
     }
   ],
   "para_mapa": [
+    {
+      "id": "37e08750",
+      "tipo": "cierre_parcial",
+      "ruta": "Van 13 muertos durante las vacaciones de verano en Guerrero…",
+      "descripcion": "Van 13 muertos durante las vacaciones de verano en Guerrero. ACAPULCO, Gro., 24 de agosto de 2026.- La Secretaría de Protección Civil estatal reportó la muerte de 13 personas, cinco de ellas ahogadas en playas y ocho en accidentes viales en carreteras, a una semana de que culmine el dispositivo vacacional Verano 2026. De acuerdo con la dependencia, del 16 de julio al 23 de […]",
+      "fecha": "24 agosto 2026 · 13:26 CST",
+      "fuente": "Quadratin Chiapas",
+      "url": "https://chiapas.quadratin.com.mx/sucesos/van-13-muertos-durante-las-vacaciones-de-verano-en-guerrero/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 17.55,
+      "lon": -99.5
+    },
     {
       "id": "8838515b",
       "tipo": "cierre_parcial",
