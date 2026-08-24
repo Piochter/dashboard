@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-08-23T17:57:00.424938-06:00",
-  "ultima_actualizacion_legible": "23 de agosto de 2026 · 17:57 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-08-23T18:52:31.081728-06:00",
+  "ultima_actualizacion_legible": "23 de agosto de 2026 · 18:52 CST",
+  "total": 4,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
@@ -71,9 +71,47 @@
           "lon": -104.0
         }
       ]
+    },
+    {
+      "tipo": "obra",
+      "color": "verde",
+      "icono": "🚧",
+      "label": "OBRA CONTINUA",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "855d28be",
+          "tipo": "obra",
+          "ruta": "Acelera Chimalhuacán rehabilitación de sede de Rosario Castellanos…",
+          "descripcion": "Acelera Chimalhuacán rehabilitación de sede de Rosario Castellanos. CHIMALHUACÁN, Edomex., 23 de agosto de 2026.- El gobierno municipal de Chimalhuacán aprobó una inversión de 18 millones 478 mil 240.33 pesos para continuar con la rehabilitación de la sede de la Universidad Nacional Rosario Castellanos (UNRC), ubicada en el barrio Transportistas. Durante la sexagésima octava sesión ordinaria de Cabildo se aprobaron modificaciones al Programa […]",
+          "recomendacion": "",
+          "fecha": "23 agosto 2026 · 18:00 CST",
+          "fecha_iso": "2026-08-23T18:00:00-06:00",
+          "fuente": "Quadratin EdoMex",
+          "url": "https://edomex.quadratin.com.mx/acelera-chimalhuacan-rehabilitacion-de-sede-de-rosario-castellanos/",
+          "dot_color": "#27ae60",
+          "badge": "badge-obra",
+          "badge_txt": "OBRA CONTINUA",
+          "lat": 25.2,
+          "lon": -102.0
+        }
+      ]
     }
   ],
   "para_mapa": [
+    {
+      "id": "855d28be",
+      "tipo": "obra",
+      "ruta": "Acelera Chimalhuacán rehabilitación de sede de Rosario Castellanos…",
+      "descripcion": "Acelera Chimalhuacán rehabilitación de sede de Rosario Castellanos. CHIMALHUACÁN, Edomex., 23 de agosto de 2026.- El gobierno municipal de Chimalhuacán aprobó una inversión de 18 millones 478 mil 240.33 pesos para continuar con la rehabilitación de la sede de la Universidad Nacional Rosario Castellanos (UNRC), ubicada en el barrio Transportistas. Durante la sexagésima octava sesión ordinaria de Cabildo se aprobaron modificaciones al Programa […]",
+      "fecha": "23 agosto 2026 · 18:00 CST",
+      "fuente": "Quadratin EdoMex",
+      "url": "https://edomex.quadratin.com.mx/acelera-chimalhuacan-rehabilitacion-de-sede-de-rosario-castellanos/",
+      "dot_color": "#27ae60",
+      "badge_txt": "OBRA CONTINUA",
+      "lat": 25.2,
+      "lon": -102.0
+    },
     {
       "id": "af73010e",
       "tipo": "cierre_parcial",
