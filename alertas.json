@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-08-24T11:55:40.659073-06:00",
-  "ultima_actualizacion_legible": "24 de agosto de 2026 · 11:55 CST",
-  "total": 5,
+  "ultima_actualizacion": "2026-08-24T12:25:58.638836-06:00",
+  "ultima_actualizacion_legible": "24 de agosto de 2026 · 12:25 CST",
+  "total": 6,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Medios regionales",
@@ -41,6 +41,20 @@
       "label": "CIERRE PARCIAL / ACCIDENTES",
       "col2": true,
       "alertas": [
+        {
+          "id": "804ff62f",
+          "tipo": "cierre_parcial",
+          "ruta": "Muere hombre atropellado por vehículo de carga en la Salamanca-Irapuato;…",
+          "descripcion": "Muere hombre atropellado por vehículo de carga en la Salamanca-Irapuato; responsable huye. El presunto accidente se dio poco después de las 11:00 de la noche del domingo 23 de agosto, cuando diversos reportes fueron emitidos al Sistema de Emergencias 911 acerca de una persona tirada junto al muro de contención de la carretera.",
+          "recomendacion": "",
+          "fecha": "24 agosto 2026 · 11:45 CST",
+          "fecha_iso": "2026-08-24T11:45:00-06:00",
+          "fuente": "AM Guanajuato",
+          "url": "https://www.am.com.mx/salamanca/2026/08/24/muere-hombre-atropellado-en-salamanca-irapuato-1835979.html",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        },
         {
           "id": "6df623b4",
           "tipo": "cierre_parcial",
