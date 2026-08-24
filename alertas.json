@@ -1,36 +1,13 @@
 {
-  "ultima_actualizacion": "2026-08-23T20:18:08.763222-06:00",
-  "ultima_actualizacion_legible": "23 de agosto de 2026 · 20:18 CST",
-  "total": 4,
+  "ultima_actualizacion": "2026-08-23T21:29:33.837472-06:00",
+  "ultima_actualizacion_legible": "23 de agosto de 2026 · 21:29 CST",
+  "total": 3,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
     "Quadratin + regionales"
   ],
   "grupos": [
-    {
-      "tipo": "bloqueo",
-      "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "a42f1608",
-          "tipo": "bloqueo",
-          "ruta": "Bloqueos carreteras HOY 23 de agosto: Autopistas cerradas en México,…",
-          "descripcion": "Bloqueos carreteras HOY 23 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 23 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
-          "recomendacion": "",
-          "fecha": "23 agosto 2026 · 08:44 CST",
-          "fecha_iso": "2026-08-23T08:44:00-06:00",
-          "fuente": "Eje Central",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNOFpGMjZkb1NIcl9zbktxdnhxZnZ3UlJyWkl2TzdHbExlWXpxeDRES203b2dNNkVJWm1PRGZmWmJWanhMQlAyVUd3VHNzejQzZWMtYXpBaFlUc3pka1Fhbm9kNHBVT0w2bUxnX0lIb1F2QmFqQXFwUmhpTm1WZVJKeVk3SU5SSkhCUmhKaW85NUFMNkZhN05HMmhLM09VVjVDb2E2TEJjdTM1ZHlPaEl0eXd5TzRaam5IMmIyUnF3WW1ock9FU0d3aHFwZElqa0RRdmlwY05pNWR5Z1dkS2E5YlNmTzhkYmt4?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        }
-      ]
-    },
     {
       "tipo": "cierre_parcial",
       "color": "amarillo",
