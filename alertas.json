@@ -1,12 +1,51 @@
 {
-  "ultima_actualizacion": "2026-08-24T06:28:21.979930-06:00",
-  "ultima_actualizacion_legible": "24 de agosto de 2026 · 06:28 CST",
-  "total": 0,
+  "ultima_actualizacion": "2026-08-24T07:30:59.124181-06:00",
+  "ultima_actualizacion_legible": "24 de agosto de 2026 · 07:30 CST",
+  "total": 1,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News"
+    "Telegram"
   ],
-  "grupos": [],
-  "para_mapa": [],
-  "nota": "Sin alertas activas en la ventana de tiempo configurada."
+  "grupos": [
+    {
+      "tipo": "cierre_parcial",
+      "color": "amarillo",
+      "icono": "🟡",
+      "label": "CIERRE PARCIAL / ACCIDENTES",
+      "col2": true,
+      "alertas": [
+        {
+          "id": "25f3348b",
+          "tipo": "cierre_parcial",
+          "ruta": "🚧Tráfico lento en la #México-#Toluca por accidente a la altura…",
+          "descripcion": "🚧Tráfico lento en la #México-#Toluca por accidente a la altura de #Lerma 😱👇\nhttps://lajornadaestadodemexico.com/trafico-lento-en-la-mexico-toluca-por-accidente-a-la-altura-de-lerma/",
+          "recomendacion": "",
+          "fecha": "24 agosto 2026 · 07:14 CST",
+          "fecha_iso": "2026-08-24T07:14:00-06:00",
+          "fuente": "Telegram @jornadaedomex",
+          "url": "https://t.me/jornadaedomex/11814",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 19.29,
+          "lon": -99.66
+        }
+      ]
+    }
+  ],
+  "para_mapa": [
+    {
+      "id": "25f3348b",
+      "tipo": "cierre_parcial",
+      "ruta": "🚧Tráfico lento en la #México-#Toluca por accidente a la altura…",
+      "descripcion": "🚧Tráfico lento en la #México-#Toluca por accidente a la altura de #Lerma 😱👇\nhttps://lajornadaestadodemexico.com/trafico-lento-en-la-mexico-toluca-por-accidente-a-la-altura-de-lerma/",
+      "fecha": "24 agosto 2026 · 07:14 CST",
+      "fuente": "Telegram @jornadaedomex",
+      "url": "https://t.me/jornadaedomex/11814",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 19.29,
+      "lon": -99.66
+    }
+  ]
 }
