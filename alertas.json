@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-08-23T21:29:33.837472-06:00",
-  "ultima_actualizacion_legible": "23 de agosto de 2026 · 21:29 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-08-23T22:21:48.979359-06:00",
+  "ultima_actualizacion_legible": "23 de agosto de 2026 · 22:21 CST",
+  "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
@@ -30,22 +30,6 @@
           "badge_txt": "CIERRE PARCIAL",
           "lat": 25.2,
           "lon": -102.0
-        },
-        {
-          "id": "fdb0914d",
-          "tipo": "cierre_parcial",
-          "ruta": "autopista Siglo XXI y en la Puebla-México",
-          "descripcion": "Fin de semana de accidentes: en la autopista Siglo XXI y en la Puebla-México. Se registraron retrasos vehiculares debido a los siniestros",
-          "recomendacion": "",
-          "fecha": "23 agosto 2026 · 09:30 CST",
-          "fecha_iso": "2026-08-23T09:30:00-06:00",
-          "fuente": "Quadratin Puebla",
-          "url": "https://puebla.quadratin.com.mx/principal/fin-de-semana-de-accidentes-en-la-autopista-siglo-xxi-y-en-la-puebla-mexico/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.3,
-          "lon": -104.0
         }
       ]
     },
@@ -101,19 +85,6 @@
       "badge_txt": "CIERRE PARCIAL",
       "lat": 25.2,
       "lon": -102.0
-    },
-    {
-      "id": "fdb0914d",
-      "tipo": "cierre_parcial",
-      "ruta": "autopista Siglo XXI y en la Puebla-México",
-      "descripcion": "Fin de semana de accidentes: en la autopista Siglo XXI y en la Puebla-México. Se registraron retrasos vehiculares debido a los siniestros",
-      "fecha": "23 agosto 2026 · 09:30 CST",
-      "fuente": "Quadratin Puebla",
-      "url": "https://puebla.quadratin.com.mx/principal/fin-de-semana-de-accidentes-en-la-autopista-siglo-xxi-y-en-la-puebla-mexico/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.3,
-      "lon": -104.0
     }
   ]
 }
