@@ -1,38 +1,12 @@
 {
-  "ultima_actualizacion": "2026-08-23T22:21:48.979359-06:00",
-  "ultima_actualizacion_legible": "23 de agosto de 2026 · 22:21 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-08-23T23:09:21.084825-06:00",
+  "ultima_actualizacion_legible": "23 de agosto de 2026 · 23:09 CST",
+  "total": 1,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News",
     "Quadratin + regionales"
   ],
   "grupos": [
-    {
-      "tipo": "cierre_parcial",
-      "color": "amarillo",
-      "icono": "🟡",
-      "label": "CIERRE PARCIAL / ACCIDENTES",
-      "col2": true,
-      "alertas": [
-        {
-          "id": "af73010e",
-          "tipo": "cierre_parcial",
-          "ruta": "Accidente en la autopista México-Pirámides hoy: autobús de pasajeros se…",
-          "descripcion": "Accidente en la autopista México-Pirámides hoy: autobús de pasajeros se impacta en camellón y deja heridos - adn40.mx. Accidente en la autopista México-Pirámides hoy: autobús de pasajeros se impacta en camellón y deja heridos adn40.mx",
-          "recomendacion": "",
-          "fecha": "23 agosto 2026 · 10:57 CST",
-          "fecha_iso": "2026-08-23T10:57:00-06:00",
-          "fuente": "adn40.mx",
-          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOYVlkYnBZSUc4ak9SNHVWYzVBclQxdEFJd05pMGt3SGZTaUZDSE11d3JERkJ4LW1pdG9Pcmp5c0VXTVJGXzhxZXFzLWxZczZMd0JNUjM0d2R1SzhRNk1laGZJLUo2c2NiS29ZY19faXVhMGNMV2NmSmV4d2xXcXNqVWZORG1qZ3ZXSlVCV1BLYmJ4M09Gd3ZFUlNMc0UybFcxamN5QjV3VW5PSmg2X09oSmhidlotTHJIaWJtX1hwSUFfdkhLRGxyVDRNV1Rkc2RWQ3pOUVlHWmlLVW1ZSkFlVTdZNFdNeG1BOV9zN1ZZN0laUQ?oc=5",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 25.2,
-          "lon": -102.0
-        }
-      ]
-    },
     {
       "tipo": "obra",
       "color": "verde",
@@ -70,19 +44,6 @@
       "url": "https://edomex.quadratin.com.mx/acelera-chimalhuacan-rehabilitacion-de-sede-de-rosario-castellanos/",
       "dot_color": "#27ae60",
       "badge_txt": "OBRA CONTINUA",
-      "lat": 25.2,
-      "lon": -102.0
-    },
-    {
-      "id": "af73010e",
-      "tipo": "cierre_parcial",
-      "ruta": "Accidente en la autopista México-Pirámides hoy: autobús de pasajeros se…",
-      "descripcion": "Accidente en la autopista México-Pirámides hoy: autobús de pasajeros se impacta en camellón y deja heridos - adn40.mx. Accidente en la autopista México-Pirámides hoy: autobús de pasajeros se impacta en camellón y deja heridos adn40.mx",
-      "fecha": "23 agosto 2026 · 10:57 CST",
-      "fuente": "adn40.mx",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOYVlkYnBZSUc4ak9SNHVWYzVBclQxdEFJd05pMGt3SGZTaUZDSE11d3JERkJ4LW1pdG9Pcmp5c0VXTVJGXzhxZXFzLWxZczZMd0JNUjM0d2R1SzhRNk1laGZJLUo2c2NiS29ZY19faXVhMGNMV2NmSmV4d2xXcXNqVWZORG1qZ3ZXSlVCV1BLYmJ4M09Gd3ZFUlNMc0UybFcxamN5QjV3VW5PSmg2X09oSmhidlotTHJIaWJtX1hwSUFfdkhLRGxyVDRNV1Rkc2RWQ3pOUVlHWmlLVW1ZSkFlVTdZNFdNeG1BOV9zN1ZZN0laUQ?oc=5",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
       "lat": 25.2,
       "lon": -102.0
     }
