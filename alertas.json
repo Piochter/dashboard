@@ -1,10 +1,10 @@
 {
-  "ultima_actualizacion": "2026-08-24T18:50:05.452981-06:00",
-  "ultima_actualizacion_legible": "24 de agosto de 2026 · 18:50 CST",
-  "total": 5,
+  "ultima_actualizacion": "2026-08-24T20:13:34.808390-06:00",
+  "ultima_actualizacion_legible": "24 de agosto de 2026 · 20:13 CST",
+  "total": 4,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Medios regionales",
+    "Google News",
     "Quadratin + regionales",
     "Telegram"
   ],
@@ -17,34 +17,36 @@
       "col2": true,
       "alertas": [
         {
-          "id": "aec1db3a",
+          "id": "fdc44f2f",
           "tipo": "cierre_parcial",
-          "ruta": "carretera Celaya-Juventino Rosas dos lesionados",
-          "descripcion": "Deja accidente en la carretera Celaya-Juventino Rosas dos lesionados. El percance de registró la noche del domingo, a la altura de la comunidad de Roque. Uno de los lesionados fue hospitalizado en delicado estado de salud.",
+          "ruta": "carretera Oaxaca-Ixtlán",
+          "descripcion": "Policía Vial orienta a motociclistas en carretera Oaxaca-Ixtlán. Más de 100 conductores recibieron recomendaciones para prevenir accidentes; también aplicaron pruebas de alcoholimetría",
           "recomendacion": "",
-          "fecha": "24 agosto 2026 · 17:04 CST",
-          "fecha_iso": "2026-08-24T17:04:00-06:00",
-          "fuente": "AM Guanajuato",
-          "url": "https://www.am.com.mx/celaya/2026/08/24/deja-accidente-en-la-carretera-celaya-juventino-rosas-dos-lesionados-1836116.html",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
-        },
-        {
-          "id": "e679bf2e",
-          "tipo": "cierre_parcial",
-          "ruta": "Fatal choque frontal deja un muerto en Chichimequillas…",
-          "descripcion": "Fatal choque frontal deja un muerto en Chichimequillas. Un fatal choque de frente entre dos camionetas fue el que se registró sobre la carretera estatal 500 The post Fatal choque frontal deja un muerto en Chichimequillas appeared first on Quadratin Querétaro.",
-          "recomendacion": "",
-          "fecha": "24 agosto 2026 · 15:00 CST",
-          "fecha_iso": "2026-08-24T15:00:00-06:00",
-          "fuente": "Quadratin Queretaro",
-          "url": "https://queretaro.quadratin.com.mx/fatal-choque-frontal-deja-un-muerto-en-chichimequillas/",
+          "fecha": "24 agosto 2026 · 19:29 CST",
+          "fecha_iso": "2026-08-24T19:29:00-06:00",
+          "fuente": "Quadratin Oaxaca",
+          "url": "https://oaxaca.quadratin.com.mx/policia-vial-orienta-a-motociclistas-en-carretera-oaxaca-ixtlan/",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL",
-          "lat": 20.59,
-          "lon": -100.39
+          "lat": 17.06,
+          "lon": -96.72
+        },
+        {
+          "id": "6a98b89e",
+          "tipo": "cierre_parcial",
+          "ruta": "Choque entre Camioneta y Tráiler Deja Dos Lesionados en Autopista…",
+          "descripcion": "Choque entre Camioneta y Tráiler Deja Dos Lesionados en Autopista de Puebla - N+. Choque entre Camioneta y Tráiler Deja Dos Lesionados en Autopista de Puebla N+",
+          "recomendacion": "",
+          "fecha": "24 agosto 2026 · 17:18 CST",
+          "fecha_iso": "2026-08-24T17:18:00-06:00",
+          "fuente": "N+",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTk14R19KSzVOQTNkU2ZGQlU5YjlMalJRa29kTVduM0l4V09fVlR4bTFSNU9sbGdDX0ZwNU44Q0dKU3JHMzUtRUdyTlhBMTRtTGhMQnpBcHgwcnNsY0lhZFJEeWpyOVFhRkdxeUhhZVl0cVJVd2szTXA1S19VenV2cXNIU1VzYTBtNzBkRzktbzlSaXRMNl9IMlJqY0p5NVFqZW96clVTTl9KU0N1bU0tZUNEakpqdGVzTGtpRWswQ2I2ZGhLWV9sbklmSkFuOFNsTkRSZ3B6VTg4Zw?oc=5",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 19.04,
+          "lon": -98.2
         },
         {
           "id": "864aae13",
@@ -75,39 +77,36 @@
           "badge_txt": "CIERRE PARCIAL",
           "lat": 19.29,
           "lon": -99.66
-        },
-        {
-          "id": "25f3348b",
-          "tipo": "cierre_parcial",
-          "ruta": "🚧Tráfico lento en la #México-#Toluca por accidente a la altura…",
-          "descripcion": "🚧Tráfico lento en la #México-#Toluca por accidente a la altura de #Lerma 😱👇\nhttps://lajornadaestadodemexico.com/trafico-lento-en-la-mexico-toluca-por-accidente-a-la-altura-de-lerma/",
-          "recomendacion": "",
-          "fecha": "24 agosto 2026 · 07:14 CST",
-          "fecha_iso": "2026-08-24T07:14:00-06:00",
-          "fuente": "Telegram @jornadaedomex",
-          "url": "https://t.me/jornadaedomex/11814",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.29,
-          "lon": -99.66
         }
       ]
     }
   ],
   "para_mapa": [
     {
-      "id": "e679bf2e",
+      "id": "fdc44f2f",
       "tipo": "cierre_parcial",
-      "ruta": "Fatal choque frontal deja un muerto en Chichimequillas…",
-      "descripcion": "Fatal choque frontal deja un muerto en Chichimequillas. Un fatal choque de frente entre dos camionetas fue el que se registró sobre la carretera estatal 500 The post Fatal choque frontal deja un muerto en Chichimequillas appeared first on Quadratin Querétaro.",
-      "fecha": "24 agosto 2026 · 15:00 CST",
-      "fuente": "Quadratin Queretaro",
-      "url": "https://queretaro.quadratin.com.mx/fatal-choque-frontal-deja-un-muerto-en-chichimequillas/",
+      "ruta": "carretera Oaxaca-Ixtlán",
+      "descripcion": "Policía Vial orienta a motociclistas en carretera Oaxaca-Ixtlán. Más de 100 conductores recibieron recomendaciones para prevenir accidentes; también aplicaron pruebas de alcoholimetría",
+      "fecha": "24 agosto 2026 · 19:29 CST",
+      "fuente": "Quadratin Oaxaca",
+      "url": "https://oaxaca.quadratin.com.mx/policia-vial-orienta-a-motociclistas-en-carretera-oaxaca-ixtlan/",
       "dot_color": "#e67e22",
       "badge_txt": "CIERRE PARCIAL",
-      "lat": 20.59,
-      "lon": -100.39
+      "lat": 17.06,
+      "lon": -96.72
+    },
+    {
+      "id": "6a98b89e",
+      "tipo": "cierre_parcial",
+      "ruta": "Choque entre Camioneta y Tráiler Deja Dos Lesionados en Autopista…",
+      "descripcion": "Choque entre Camioneta y Tráiler Deja Dos Lesionados en Autopista de Puebla - N+. Choque entre Camioneta y Tráiler Deja Dos Lesionados en Autopista de Puebla N+",
+      "fecha": "24 agosto 2026 · 17:18 CST",
+      "fuente": "N+",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTk14R19KSzVOQTNkU2ZGQlU5YjlMalJRa29kTVduM0l4V09fVlR4bTFSNU9sbGdDX0ZwNU44Q0dKU3JHMzUtRUdyTlhBMTRtTGhMQnpBcHgwcnNsY0lhZFJEeWpyOVFhRkdxeUhhZVl0cVJVd2szTXA1S19VenV2cXNIU1VzYTBtNzBkRzktbzlSaXRMNl9IMlJqY0p5NVFqZW96clVTTl9KU0N1bU0tZUNEakpqdGVzTGtpRWswQ2I2ZGhLWV9sbklmSkFuOFNsTkRSZ3B6VTg4Zw?oc=5",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 19.04,
+      "lon": -98.2
     },
     {
       "id": "8838515b",
@@ -117,19 +116,6 @@
       "fecha": "24 agosto 2026 · 10:50 CST",
       "fuente": "Telegram @jornadaedomex",
       "url": "https://t.me/jornadaedomex/11817",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.29,
-      "lon": -99.66
-    },
-    {
-      "id": "25f3348b",
-      "tipo": "cierre_parcial",
-      "ruta": "🚧Tráfico lento en la #México-#Toluca por accidente a la altura…",
-      "descripcion": "🚧Tráfico lento en la #México-#Toluca por accidente a la altura de #Lerma 😱👇\nhttps://lajornadaestadodemexico.com/trafico-lento-en-la-mexico-toluca-por-accidente-a-la-altura-de-lerma/",
-      "fecha": "24 agosto 2026 · 07:14 CST",
-      "fuente": "Telegram @jornadaedomex",
-      "url": "https://t.me/jornadaedomex/11814",
       "dot_color": "#e67e22",
       "badge_txt": "CIERRE PARCIAL",
       "lat": 19.29,
