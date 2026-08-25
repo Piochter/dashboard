@@ -1,11 +1,10 @@
 {
-  "ultima_actualizacion": "2026-08-25T15:03:39.842713-06:00",
-  "ultima_actualizacion_legible": "25 de agosto de 2026 · 15:03 CST",
-  "total": 6,
+  "ultima_actualizacion": "2026-08-25T15:41:27.814264-06:00",
+  "ultima_actualizacion_legible": "25 de agosto de 2026 · 15:41 CST",
+  "total": 7,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
-    "Medios nacionales",
     "Quadratin + regionales",
     "Telegram"
   ],
@@ -17,6 +16,22 @@
       "label": "CIERRE TOTAL",
       "col2": false,
       "alertas": [
+        {
+          "id": "f73835ac",
+          "tipo": "cierre_total",
+          "ruta": "Cierran Circuito Exterior Mexiquense tras volcadura e incendio de tractocamión…",
+          "descripcion": "Cierran Circuito Exterior Mexiquense tras volcadura e incendio de tractocamión\nhttps://www.jornada.com.mx/2026/08/25/estados/027n1est?partner=rss\n\nTultepec, Méx., La autopista Circuito Exterior Mexiquense (CEM) permaneció cerrada a la altura del kilómetro 14 con dirección a Toluca, de las 7:46 a poco después de las 14 horas, debido a la volcadura e incendio de un tractocamión, cuyo contenedor con muebles quedó atravesado en la vía.",
+          "recomendacion": "",
+          "fecha": "25 agosto 2026 · 15:09 CST",
+          "fecha_iso": "2026-08-25T15:09:00-06:00",
+          "fuente": "Telegram @NOTMEX",
+          "url": "https://t.me/NOTMEX/185573",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL",
+          "lat": 19.29,
+          "lon": -99.66
+        },
         {
           "id": "14f401df",
           "tipo": "cierre_total",
@@ -32,22 +47,6 @@
           "badge_txt": "CIERRE TOTAL",
           "lat": 19.35,
           "lon": -98.4
-        },
-        {
-          "id": "00cb6543",
-          "tipo": "cierre_total",
-          "ruta": "Cierran Circuito Exterior Mexiquense tras volcadura e incendio de tractocamión…",
-          "descripcion": "Cierran Circuito Exterior Mexiquense tras volcadura e incendio de tractocamión. Tultepec, Méx., La autopista Circuito Exterior Mexiquense (CEM) permaneció cerrada a la altura del kilómetro 14 con dirección a Toluca, de las 7:46 a poco después de las 14 horas, debido a la volcadura e incendio de un tractocamión, cuyo contenedor con muebles quedó atravesado en la vía.",
-          "recomendacion": "",
-          "fecha": "25 agosto 2026 · 03:33 CST",
-          "fecha_iso": "2026-08-25T03:33:00-06:00",
-          "fuente": "La Jornada Estados",
-          "url": "https://www.jornada.com.mx/2026/08/25/estados/027n1est?partner=rss",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL",
-          "lat": 19.29,
-          "lon": -99.66
         }
       ]
     },
@@ -73,6 +72,22 @@
           "badge_txt": "BLOQUEO",
           "lat": 17.06,
           "lon": -96.72
+        },
+        {
+          "id": "38c7c03f",
+          "tipo": "bloqueo",
+          "ruta": "autopista este 25 de agosto - TV Azteca",
+          "descripcion": "¿Hay bloqueos en la México-Querétaro hoy? Tráfico EN VIVO en la autopista este 25 de agosto - TV Azteca. ¿Hay bloqueos en la México-Querétaro hoy? Tráfico EN VIVO en la autopista este 25 de agosto TV Azteca",
+          "recomendacion": "",
+          "fecha": "25 agosto 2026 · 10:06 CST",
+          "fecha_iso": "2026-08-25T10:06:00-06:00",
+          "fuente": "TV Azteca",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSEZXcl92R0VKLUk0WXMzQVdoeV9Sdkx5UEhiNUs4ZFZwUUdjdzdfZm5STkhkMmM4elEway1tZGhJUEJ0Tjl0UVY1QUdOUmlud1lDUGlRVjdZcGxOc3NGODZGSDRld1hkUXBVVDNGRFFtNjZiVWt1d3JRVWRzUHIwTm83NmlnZ3dGSDJ5TzhHVFNjX19aR05pakR3SU5GYVZDYVVmWDBBZjJqLTZZOW9ub3ZVZE4wNEVWOU1mTW9Kd9IBzAFBVV95cUxOY2xReFNLcGtELXM0ell1ZERQc0NTOTFmQTdyS25mYWR5U1NnNHZmbDZLNnNWN25LWnI0YndLYkhnYkN5em1jZ3J6Vy1SNDUyYU8xQzNZYURLX0JTSzBWU0FNNGwzUm8taUo4V1ZrT0NpdHhfT3MtQnJUVGNUSUk1Q0cyRjZHZW1rMEphTkdGdFItcFNyXzExQVotRGlNdG51dG5qR1drRHBnTmtNeVBKUTV0WG52QXNOdHYtQ2ZNdVRINmRmNng1SHFJU2o?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 20.1,
+          "lon": -99.5
         }
       ]
     },
@@ -132,6 +147,19 @@
   ],
   "para_mapa": [
     {
+      "id": "f73835ac",
+      "tipo": "cierre_total",
+      "ruta": "Cierran Circuito Exterior Mexiquense tras volcadura e incendio de tractocamión…",
+      "descripcion": "Cierran Circuito Exterior Mexiquense tras volcadura e incendio de tractocamión\nhttps://www.jornada.com.mx/2026/08/25/estados/027n1est?partner=rss\n\nTultepec, Méx., La autopista Circuito Exterior Mexiquense (CEM) permaneció cerrada a la altura del kilómetro 14 con dirección a Toluca, de las 7:46 a poco después de las 14 horas, debido a la volcadura e incendio de un tractocamión, cuyo contenedor con muebles quedó atravesado en la vía.",
+      "fecha": "25 agosto 2026 · 15:09 CST",
+      "fuente": "Telegram @NOTMEX",
+      "url": "https://t.me/NOTMEX/185573",
+      "dot_color": "#e74c3c",
+      "badge_txt": "CIERRE TOTAL",
+      "lat": 19.29,
+      "lon": -99.66
+    },
+    {
       "id": "812179f7",
       "tipo": "cierre_parcial",
       "ruta": "Descubre SSEM predio donde ocultaban autos robados en Cuautitlán…",
@@ -158,6 +186,19 @@
       "lon": -96.72
     },
     {
+      "id": "38c7c03f",
+      "tipo": "bloqueo",
+      "ruta": "autopista este 25 de agosto - TV Azteca",
+      "descripcion": "¿Hay bloqueos en la México-Querétaro hoy? Tráfico EN VIVO en la autopista este 25 de agosto - TV Azteca. ¿Hay bloqueos en la México-Querétaro hoy? Tráfico EN VIVO en la autopista este 25 de agosto TV Azteca",
+      "fecha": "25 agosto 2026 · 10:06 CST",
+      "fuente": "TV Azteca",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSEZXcl92R0VKLUk0WXMzQVdoeV9Sdkx5UEhiNUs4ZFZwUUdjdzdfZm5STkhkMmM4elEway1tZGhJUEJ0Tjl0UVY1QUdOUmlud1lDUGlRVjdZcGxOc3NGODZGSDRld1hkUXBVVDNGRFFtNjZiVWt1d3JRVWRzUHIwTm83NmlnZ3dGSDJ5TzhHVFNjX19aR05pakR3SU5GYVZDYVVmWDBBZjJqLTZZOW9ub3ZVZE4wNEVWOU1mTW9Kd9IBzAFBVV95cUxOY2xReFNLcGtELXM0ell1ZERQc0NTOTFmQTdyS25mYWR5U1NnNHZmbDZLNnNWN25LWnI0YndLYkhnYkN5em1jZ3J6Vy1SNDUyYU8xQzNZYURLX0JTSzBWU0FNNGwzUm8taUo4V1ZrT0NpdHhfT3MtQnJUVGNUSUk1Q0cyRjZHZW1rMEphTkdGdFItcFNyXzExQVotRGlNdG51dG5qR1drRHBnTmtNeVBKUTV0WG52QXNOdHYtQ2ZNdVRINmRmNng1SHFJU2o?oc=5",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 20.1,
+      "lon": -99.5
+    },
+    {
       "id": "14f401df",
       "tipo": "cierre_total",
       "ruta": "Volcadura de Tráiler Afecta Circulación en la México-Puebla - N+…",
@@ -169,19 +210,6 @@
       "badge_txt": "CIERRE TOTAL",
       "lat": 19.35,
       "lon": -98.4
-    },
-    {
-      "id": "00cb6543",
-      "tipo": "cierre_total",
-      "ruta": "Cierran Circuito Exterior Mexiquense tras volcadura e incendio de tractocamión…",
-      "descripcion": "Cierran Circuito Exterior Mexiquense tras volcadura e incendio de tractocamión. Tultepec, Méx., La autopista Circuito Exterior Mexiquense (CEM) permaneció cerrada a la altura del kilómetro 14 con dirección a Toluca, de las 7:46 a poco después de las 14 horas, debido a la volcadura e incendio de un tractocamión, cuyo contenedor con muebles quedó atravesado en la vía.",
-      "fecha": "25 agosto 2026 · 03:33 CST",
-      "fuente": "La Jornada Estados",
-      "url": "https://www.jornada.com.mx/2026/08/25/estados/027n1est?partner=rss",
-      "dot_color": "#e74c3c",
-      "badge_txt": "CIERRE TOTAL",
-      "lat": 19.29,
-      "lon": -99.66
     }
   ]
 }
