@@ -1,11 +1,10 @@
 {
-  "ultima_actualizacion": "2026-08-25T05:52:08.161136-06:00",
-  "ultima_actualizacion_legible": "25 de agosto de 2026 · 05:52 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-08-25T06:28:40.700165-06:00",
+  "ultima_actualizacion_legible": "25 de agosto de 2026 · 06:28 CST",
+  "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Medios nacionales",
-    "Medios regionales",
     "Quadratin + regionales"
   ],
   "grupos": [
@@ -31,31 +30,6 @@
           "badge_txt": "CIERRE TOTAL",
           "lat": 19.29,
           "lon": -99.66
-        }
-      ]
-    },
-    {
-      "tipo": "robo",
-      "color": "rojo",
-      "icono": "🚨",
-      "label": "ROBOS EN CARRETERA",
-      "col2": true,
-      "alertas": [
-        {
-          "id": "fa13e47d",
-          "tipo": "robo",
-          "ruta": "Reporta Guanajuato caída de hasta 25 % en robo en…",
-          "descripcion": "Reporta Guanajuato caída de hasta 25 % en robo en carreteras. La Secretaría de Gobierno reportó la disminución de enero a agosto en comparación con el mismo periodo del año pasado.",
-          "recomendacion": "",
-          "fecha": "25 agosto 2026 · 04:02 CST",
-          "fecha_iso": "2026-08-25T04:02:00-06:00",
-          "fuente": "AM Guanajuato",
-          "url": "https://www.am.com.mx/guanajuato/2026/08/25/reporta-guanajuato-caida-de-hasta-25-en-robo-en-carreteras-1836246.html",
-          "dot_color": "#c0392b",
-          "badge": "badge-robo",
-          "badge_txt": "ROBO",
-          "lat": 21.02,
-          "lon": -101.26
         }
       ]
     },
@@ -86,19 +60,6 @@
     }
   ],
   "para_mapa": [
-    {
-      "id": "fa13e47d",
-      "tipo": "robo",
-      "ruta": "Reporta Guanajuato caída de hasta 25 % en robo en…",
-      "descripcion": "Reporta Guanajuato caída de hasta 25 % en robo en carreteras. La Secretaría de Gobierno reportó la disminución de enero a agosto en comparación con el mismo periodo del año pasado.",
-      "fecha": "25 agosto 2026 · 04:02 CST",
-      "fuente": "AM Guanajuato",
-      "url": "https://www.am.com.mx/guanajuato/2026/08/25/reporta-guanajuato-caida-de-hasta-25-en-robo-en-carreteras-1836246.html",
-      "dot_color": "#c0392b",
-      "badge_txt": "ROBO",
-      "lat": 21.02,
-      "lon": -101.26
-    },
     {
       "id": "00cb6543",
       "tipo": "cierre_total",
