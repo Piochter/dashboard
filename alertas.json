@@ -1,10 +1,11 @@
 {
-  "ultima_actualizacion": "2026-08-24T20:13:34.808390-06:00",
-  "ultima_actualizacion_legible": "24 de agosto de 2026 · 20:13 CST",
+  "ultima_actualizacion": "2026-08-24T21:13:03.921831-06:00",
+  "ultima_actualizacion_legible": "24 de agosto de 2026 · 21:13 CST",
   "total": 4,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
+    "Medios regionales",
     "Quadratin + regionales",
     "Telegram"
   ],
@@ -49,15 +50,15 @@
           "lon": -98.2
         },
         {
-          "id": "864aae13",
+          "id": "aec1db3a",
           "tipo": "cierre_parcial",
-          "ruta": "carretera 175",
-          "descripcion": "Deja varios lesionados choque de urban en carretera 175. La unidad quedó al borde de un precipicio tras el accidente",
+          "ruta": "carretera Celaya-Juventino Rosas dos lesionados",
+          "descripcion": "Deja accidente en la carretera Celaya-Juventino Rosas dos lesionados. El percance de registró la noche del domingo, a la altura de la comunidad de Roque. Uno de los lesionados fue hospitalizado en delicado estado de salud.",
           "recomendacion": "",
-          "fecha": "24 agosto 2026 · 13:00 CST",
-          "fecha_iso": "2026-08-24T13:00:00-06:00",
-          "fuente": "Quadratin Oaxaca",
-          "url": "https://oaxaca.quadratin.com.mx/deja-varios-lesionados-choque-de-urban-en-carretera-175/",
+          "fecha": "24 agosto 2026 · 17:04 CST",
+          "fecha_iso": "2026-08-24T17:04:00-06:00",
+          "fuente": "AM Guanajuato",
+          "url": "https://www.am.com.mx/celaya/2026/08/24/deja-accidente-en-la-carretera-celaya-juventino-rosas-dos-lesionados-1836116.html",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL"
