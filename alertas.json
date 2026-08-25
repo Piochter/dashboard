@@ -1,12 +1,10 @@
 {
-  "ultima_actualizacion": "2026-08-25T09:58:30.663139-06:00",
-  "ultima_actualizacion_legible": "25 de agosto de 2026 · 09:58 CST",
-  "total": 4,
+  "ultima_actualizacion": "2026-08-25T10:32:01.144331-06:00",
+  "ultima_actualizacion_legible": "25 de agosto de 2026 · 10:32 CST",
+  "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News",
     "Medios nacionales",
-    "Quadratin + regionales",
     "Telegram"
   ],
   "grupos": [
@@ -17,22 +15,6 @@
       "label": "CIERRE TOTAL",
       "col2": false,
       "alertas": [
-        {
-          "id": "40d99638",
-          "tipo": "cierre_total",
-          "ruta": "Accidente en la México-Puebla por Volcadura de Tráiler: Hay Cierres…",
-          "descripcion": "Accidente en la México-Puebla por Volcadura de Tráiler: Hay Cierres Viales - N+. Accidente en la México-Puebla por Volcadura de Tráiler: Hay Cierres Viales N+",
-          "recomendacion": "",
-          "fecha": "25 agosto 2026 · 07:37 CST",
-          "fecha_iso": "2026-08-25T07:37:00-06:00",
-          "fuente": "N+",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUFZRN1h5dzRORjJkbEdXMExUWTc0NDBkMUZKSWtGcnJvWnhSdU1RWFlBZ2g2Tzl5MW9FQkFFYUs5NE5ockt2RnlhNHp5Zmh5c0Nqb3YtVjNtanB5SHU0REh3X3lpN3JMZG5rWWRiNVBBNVI3U0hoaWwydUtibl9oOUl1WkstMGtGOXRvSGZwM0d0SHpXUndaR284aTFlNDBVQktFTFFHNUhCdHFCb09zX1ZOZDJoZw?oc=5",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL",
-          "lat": 19.35,
-          "lon": -98.4
-        },
         {
           "id": "00cb6543",
           "tipo": "cierre_total",
@@ -71,53 +53,11 @@
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL"
-        },
-        {
-          "id": "c5e3061b",
-          "tipo": "cierre_parcial",
-          "ruta": "Autobús se sale del camino y deja 15 lesionados en…",
-          "descripcion": "Autobús se sale del camino y deja 15 lesionados en Teocelo. El accidente ocurrió sobre la carretera que comunica a San Marcos",
-          "recomendacion": "",
-          "fecha": "25 agosto 2026 · 06:22 CST",
-          "fecha_iso": "2026-08-25T06:22:00-06:00",
-          "fuente": "Quadratin Veracruz",
-          "url": "https://veracruz.quadratin.com.mx/autobus-se-sale-del-camino-y-deja-15-lesionados-en-teocelo/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 21.0,
-          "lon": -104.0
         }
       ]
     }
   ],
   "para_mapa": [
-    {
-      "id": "40d99638",
-      "tipo": "cierre_total",
-      "ruta": "Accidente en la México-Puebla por Volcadura de Tráiler: Hay Cierres…",
-      "descripcion": "Accidente en la México-Puebla por Volcadura de Tráiler: Hay Cierres Viales - N+. Accidente en la México-Puebla por Volcadura de Tráiler: Hay Cierres Viales N+",
-      "fecha": "25 agosto 2026 · 07:37 CST",
-      "fuente": "N+",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUFZRN1h5dzRORjJkbEdXMExUWTc0NDBkMUZKSWtGcnJvWnhSdU1RWFlBZ2g2Tzl5MW9FQkFFYUs5NE5ockt2RnlhNHp5Zmh5c0Nqb3YtVjNtanB5SHU0REh3X3lpN3JMZG5rWWRiNVBBNVI3U0hoaWwydUtibl9oOUl1WkstMGtGOXRvSGZwM0d0SHpXUndaR284aTFlNDBVQktFTFFHNUhCdHFCb09zX1ZOZDJoZw?oc=5",
-      "dot_color": "#e74c3c",
-      "badge_txt": "CIERRE TOTAL",
-      "lat": 19.35,
-      "lon": -98.4
-    },
-    {
-      "id": "c5e3061b",
-      "tipo": "cierre_parcial",
-      "ruta": "Autobús se sale del camino y deja 15 lesionados en…",
-      "descripcion": "Autobús se sale del camino y deja 15 lesionados en Teocelo. El accidente ocurrió sobre la carretera que comunica a San Marcos",
-      "fecha": "25 agosto 2026 · 06:22 CST",
-      "fuente": "Quadratin Veracruz",
-      "url": "https://veracruz.quadratin.com.mx/autobus-se-sale-del-camino-y-deja-15-lesionados-en-teocelo/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 21.0,
-      "lon": -104.0
-    },
     {
       "id": "00cb6543",
       "tipo": "cierre_total",
