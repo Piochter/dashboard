@@ -1,11 +1,12 @@
 {
-  "ultima_actualizacion": "2026-08-25T12:25:15.426071-06:00",
-  "ultima_actualizacion_legible": "25 de agosto de 2026 · 12:25 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-08-25T13:07:47.113129-06:00",
+  "ultima_actualizacion_legible": "25 de agosto de 2026 · 13:07 CST",
+  "total": 5,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
     "Medios nacionales",
+    "Quadratin + regionales",
     "Telegram"
   ],
   "grupos": [
@@ -16,6 +17,22 @@
       "label": "CIERRE TOTAL",
       "col2": false,
       "alertas": [
+        {
+          "id": "14f401df",
+          "tipo": "cierre_total",
+          "ruta": "Volcadura de Tráiler Afecta Circulación en la México-Puebla - N+…",
+          "descripcion": "Volcadura de Tráiler Afecta Circulación en la México-Puebla - N+. Volcadura de Tráiler Afecta Circulación en la México-Puebla N+",
+          "recomendacion": "",
+          "fecha": "25 agosto 2026 · 06:42 CST",
+          "fecha_iso": "2026-08-25T06:42:00-06:00",
+          "fuente": "N+",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSXR2V0tQOXVNVERkWTNMM3Q0R3h1YzZVMk1Wd3RUcUNnSGVYQkRNV1NiQ3RyeEg3bkp3UVNwTzRjc2kwQ1FfWi13OUdmanhCem9XeXFvbFI5X0VBSWdDZElBM3pFLXdScE9ZSHJaY3JFQzNZbnUwX0Z5dmJ6RlhGRU91TklNczhDNXZndkxKY0E0RTNsdFc5dWwxekdaNHdLeE5fNVE0UmxlU3pMUHJWUTR1MlpsQ3FTN1RXbnhQRQ?oc=5",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL",
+          "lat": 19.35,
+          "lon": -98.4
+        },
         {
           "id": "00cb6543",
           "tipo": "cierre_total",
@@ -31,6 +48,31 @@
           "badge_txt": "CIERRE TOTAL",
           "lat": 19.29,
           "lon": -99.66
+        }
+      ]
+    },
+    {
+      "tipo": "bloqueo",
+      "color": "rojo",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "dc3d463c",
+          "tipo": "bloqueo",
+          "ruta": "Mantiene Frente Popular Revolucionario bloqueos en Oaxaca…",
+          "descripcion": "Mantiene Frente Popular Revolucionario bloqueos en Oaxaca. Se concentran en al menos 9 puntos de la entidad, entre carreteras, casetas de cobro y sedes institucionales",
+          "recomendacion": "",
+          "fecha": "25 agosto 2026 · 12:48 CST",
+          "fecha_iso": "2026-08-25T12:48:00-06:00",
+          "fuente": "Quadratin Oaxaca",
+          "url": "https://oaxaca.quadratin.com.mx/mantiene-frente-popular-revolucionario-bloqueos-en-oaxaca/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 17.06,
+          "lon": -96.72
         }
       ]
     },
@@ -73,6 +115,32 @@
     }
   ],
   "para_mapa": [
+    {
+      "id": "dc3d463c",
+      "tipo": "bloqueo",
+      "ruta": "Mantiene Frente Popular Revolucionario bloqueos en Oaxaca…",
+      "descripcion": "Mantiene Frente Popular Revolucionario bloqueos en Oaxaca. Se concentran en al menos 9 puntos de la entidad, entre carreteras, casetas de cobro y sedes institucionales",
+      "fecha": "25 agosto 2026 · 12:48 CST",
+      "fuente": "Quadratin Oaxaca",
+      "url": "https://oaxaca.quadratin.com.mx/mantiene-frente-popular-revolucionario-bloqueos-en-oaxaca/",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 17.06,
+      "lon": -96.72
+    },
+    {
+      "id": "14f401df",
+      "tipo": "cierre_total",
+      "ruta": "Volcadura de Tráiler Afecta Circulación en la México-Puebla - N+…",
+      "descripcion": "Volcadura de Tráiler Afecta Circulación en la México-Puebla - N+. Volcadura de Tráiler Afecta Circulación en la México-Puebla N+",
+      "fecha": "25 agosto 2026 · 06:42 CST",
+      "fuente": "N+",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSXR2V0tQOXVNVERkWTNMM3Q0R3h1YzZVMk1Wd3RUcUNnSGVYQkRNV1NiQ3RyeEg3bkp3UVNwTzRjc2kwQ1FfWi13OUdmanhCem9XeXFvbFI5X0VBSWdDZElBM3pFLXdScE9ZSHJaY3JFQzNZbnUwX0Z5dmJ6RlhGRU91TklNczhDNXZndkxKY0E0RTNsdFc5dWwxekdaNHdLeE5fNVE0UmxlU3pMUHJWUTR1MlpsQ3FTN1RXbnhQRQ?oc=5",
+      "dot_color": "#e74c3c",
+      "badge_txt": "CIERRE TOTAL",
+      "lat": 19.35,
+      "lon": -98.4
+    },
     {
       "id": "00cb6543",
       "tipo": "cierre_total",
