@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-08-25T20:14:22.852824-06:00",
-  "ultima_actualizacion_legible": "25 de agosto de 2026 · 20:14 CST",
-  "total": 6,
+  "ultima_actualizacion": "2026-08-25T21:18:47.242149-06:00",
+  "ultima_actualizacion_legible": "25 de agosto de 2026 · 21:18 CST",
+  "total": 4,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
@@ -83,38 +83,6 @@
       "col2": true,
       "alertas": [
         {
-          "id": "5b904f1a",
-          "tipo": "cierre_parcial",
-          "ruta": "Reporta C5 Edomex tráfico de hasta 18km por accidentes en…",
-          "descripcion": "Reporta C5 Edomex tráfico de hasta 18km por accidentes en Tepotzotlán. Hasta el momento se desconocen las causas y características de ambos accidentes; sin embargo, la situación mantiene una intensa carga vehicular",
-          "recomendacion": "",
-          "fecha": "25 agosto 2026 · 19:04 CST",
-          "fecha_iso": "2026-08-25T19:04:00-06:00",
-          "fuente": "Quadratin EdoMex",
-          "url": "https://edomex.quadratin.com.mx/reporta-c5-edomex-trafico-de-hasta-18km-por-accidentes-en-tepotzotlan/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.35,
-          "lon": -99.7
-        },
-        {
-          "id": "5d7a32b7",
-          "tipo": "cierre_parcial",
-          "ruta": "Tres detenidos por robo al transporte de carga…",
-          "descripcion": "Tres detenidos por robo al transporte de carga. Tres presuntos asaltantes fueron detenidos por la Policía Estatal derivado de un reporte de la sustracción de una pesada unidad en el libramiento The post Tres detenidos por robo al transporte de carga appeared first on Quadratin Querétaro.",
-          "recomendacion": "",
-          "fecha": "25 agosto 2026 · 18:00 CST",
-          "fecha_iso": "2026-08-25T18:00:00-06:00",
-          "fuente": "Quadratin Queretaro",
-          "url": "https://queretaro.quadratin.com.mx/tres-detenidos-por-robo-al-transporte-de-carga/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 20.59,
-          "lon": -100.39
-        },
-        {
           "id": "ee3d13e8",
           "tipo": "cierre_parcial",
           "ruta": "Cierran Carretera León-Salamanca Por Choque de Tráiler Contra Una Grúa…",
@@ -132,32 +100,6 @@
     }
   ],
   "para_mapa": [
-    {
-      "id": "5b904f1a",
-      "tipo": "cierre_parcial",
-      "ruta": "Reporta C5 Edomex tráfico de hasta 18km por accidentes en…",
-      "descripcion": "Reporta C5 Edomex tráfico de hasta 18km por accidentes en Tepotzotlán. Hasta el momento se desconocen las causas y características de ambos accidentes; sin embargo, la situación mantiene una intensa carga vehicular",
-      "fecha": "25 agosto 2026 · 19:04 CST",
-      "fuente": "Quadratin EdoMex",
-      "url": "https://edomex.quadratin.com.mx/reporta-c5-edomex-trafico-de-hasta-18km-por-accidentes-en-tepotzotlan/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.35,
-      "lon": -99.7
-    },
-    {
-      "id": "5d7a32b7",
-      "tipo": "cierre_parcial",
-      "ruta": "Tres detenidos por robo al transporte de carga…",
-      "descripcion": "Tres detenidos por robo al transporte de carga. Tres presuntos asaltantes fueron detenidos por la Policía Estatal derivado de un reporte de la sustracción de una pesada unidad en el libramiento The post Tres detenidos por robo al transporte de carga appeared first on Quadratin Querétaro.",
-      "fecha": "25 agosto 2026 · 18:00 CST",
-      "fuente": "Quadratin Queretaro",
-      "url": "https://queretaro.quadratin.com.mx/tres-detenidos-por-robo-al-transporte-de-carga/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 20.59,
-      "lon": -100.39
-    },
     {
       "id": "f73835ac",
       "tipo": "cierre_total",
