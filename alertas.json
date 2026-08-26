@@ -1,10 +1,9 @@
 {
-  "ultima_actualizacion": "2026-08-25T22:09:04.653985-06:00",
-  "ultima_actualizacion_legible": "25 de agosto de 2026 · 22:09 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-08-25T22:54:29.302901-06:00",
+  "ultima_actualizacion_legible": "25 de agosto de 2026 · 22:54 CST",
+  "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News",
     "Quadratin + regionales",
     "Telegram"
   ],
@@ -56,29 +55,6 @@
           "badge_txt": "BLOQUEO",
           "lat": 17.06,
           "lon": -96.72
-        }
-      ]
-    },
-    {
-      "tipo": "cierre_parcial",
-      "color": "amarillo",
-      "icono": "🟡",
-      "label": "CIERRE PARCIAL / ACCIDENTES",
-      "col2": true,
-      "alertas": [
-        {
-          "id": "ee3d13e8",
-          "tipo": "cierre_parcial",
-          "ruta": "Cierran Carretera León-Salamanca Por Choque de Tráiler Contra Una Grúa…",
-          "descripcion": "Cierran Carretera León-Salamanca Por Choque de Tráiler Contra Una Grúa - N+. Cierran Carretera León-Salamanca Por Choque de Tráiler Contra Una Grúa N+",
-          "recomendacion": "",
-          "fecha": "25 agosto 2026 · 10:45 CST",
-          "fecha_iso": "2026-08-25T10:45:00-06:00",
-          "fuente": "N+",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdzZCWGZSWm1DNGcyNTNmdk5LeG1LWFJTemdpMmNfR09aYVBaSTFNWUVHdE9sVzdaYnNSajZ5SGE1Wm9sVlJHUmN1eUhtckJNSlhLMHBKem9CdW1xbzFSQTFGaUtWZDlFcjBIWDFUWVFyc1MyX1N3ZVo0SE4wdUJkQXd5a25hRV9kOElMN0NiMFl0WWdGazY4VWtSdUJMS08wcllNNjNvSmozVVVVR1E2aG5wMnhIYkR3RUZEZFQ1UkFUWjJFamc?oc=5",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
         }
       ]
     }
