@@ -1,51 +1,12 @@
 {
-  "ultima_actualizacion": "2026-08-26T03:09:06.287377-06:00",
-  "ultima_actualizacion_legible": "26 de agosto de 2026 · 03:09 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-08-26T03:55:51.240511-06:00",
+  "ultima_actualizacion_legible": "26 de agosto de 2026 · 03:55 CST",
+  "total": 0,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Telegram"
+    "Google News"
   ],
-  "grupos": [
-    {
-      "tipo": "cierre_total",
-      "color": "rojo",
-      "icono": "🔴",
-      "label": "CIERRE TOTAL",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "f73835ac",
-          "tipo": "cierre_total",
-          "ruta": "Cierran Circuito Exterior Mexiquense tras volcadura e incendio de tractocamión…",
-          "descripcion": "Cierran Circuito Exterior Mexiquense tras volcadura e incendio de tractocamión\nhttps://www.jornada.com.mx/2026/08/25/estados/027n1est?partner=rss\n\nTultepec, Méx., La autopista Circuito Exterior Mexiquense (CEM) permaneció cerrada a la altura del kilómetro 14 con dirección a Toluca, de las 7:46 a poco después de las 14 horas, debido a la volcadura e incendio de un tractocamión, cuyo contenedor con muebles quedó atravesado en la vía.",
-          "recomendacion": "",
-          "fecha": "25 agosto 2026 · 15:09 CST",
-          "fecha_iso": "2026-08-25T15:09:00-06:00",
-          "fuente": "Telegram @NOTMEX",
-          "url": "https://t.me/NOTMEX/185573",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL",
-          "lat": 19.29,
-          "lon": -99.66
-        }
-      ]
-    }
-  ],
-  "para_mapa": [
-    {
-      "id": "f73835ac",
-      "tipo": "cierre_total",
-      "ruta": "Cierran Circuito Exterior Mexiquense tras volcadura e incendio de tractocamión…",
-      "descripcion": "Cierran Circuito Exterior Mexiquense tras volcadura e incendio de tractocamión\nhttps://www.jornada.com.mx/2026/08/25/estados/027n1est?partner=rss\n\nTultepec, Méx., La autopista Circuito Exterior Mexiquense (CEM) permaneció cerrada a la altura del kilómetro 14 con dirección a Toluca, de las 7:46 a poco después de las 14 horas, debido a la volcadura e incendio de un tractocamión, cuyo contenedor con muebles quedó atravesado en la vía.",
-      "fecha": "25 agosto 2026 · 15:09 CST",
-      "fuente": "Telegram @NOTMEX",
-      "url": "https://t.me/NOTMEX/185573",
-      "dot_color": "#e74c3c",
-      "badge_txt": "CIERRE TOTAL",
-      "lat": 19.29,
-      "lon": -99.66
-    }
-  ]
+  "grupos": [],
+  "para_mapa": [],
+  "nota": "Sin alertas activas en la ventana de tiempo configurada."
 }
