@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-08-25T21:18:47.242149-06:00",
-  "ultima_actualizacion_legible": "25 de agosto de 2026 · 21:18 CST",
-  "total": 4,
+  "ultima_actualizacion": "2026-08-25T22:09:04.653985-06:00",
+  "ultima_actualizacion_legible": "25 de agosto de 2026 · 22:09 CST",
+  "total": 3,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
@@ -56,22 +56,6 @@
           "badge_txt": "BLOQUEO",
           "lat": 17.06,
           "lon": -96.72
-        },
-        {
-          "id": "38c7c03f",
-          "tipo": "bloqueo",
-          "ruta": "autopista este 25 de agosto - TV Azteca",
-          "descripcion": "¿Hay bloqueos en la México-Querétaro hoy? Tráfico EN VIVO en la autopista este 25 de agosto - TV Azteca. ¿Hay bloqueos en la México-Querétaro hoy? Tráfico EN VIVO en la autopista este 25 de agosto TV Azteca",
-          "recomendacion": "",
-          "fecha": "25 agosto 2026 · 10:06 CST",
-          "fecha_iso": "2026-08-25T10:06:00-06:00",
-          "fuente": "TV Azteca",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSEZXcl92R0VKLUk0WXMzQVdoeV9Sdkx5UEhiNUs4ZFZwUUdjdzdfZm5STkhkMmM4elEway1tZGhJUEJ0Tjl0UVY1QUdOUmlud1lDUGlRVjdZcGxOc3NGODZGSDRld1hkUXBVVDNGRFFtNjZiVWt1d3JRVWRzUHIwTm83NmlnZ3dGSDJ5TzhHVFNjX19aR05pakR3SU5GYVZDYVVmWDBBZjJqLTZZOW9ub3ZVZE4wNEVWOU1mTW9Kd9IBzAFBVV95cUxOY2xReFNLcGtELXM0ell1ZERQc0NTOTFmQTdyS25mYWR5U1NnNHZmbDZLNnNWN25LWnI0YndLYkhnYkN5em1jZ3J6Vy1SNDUyYU8xQzNZYURLX0JTSzBWU0FNNGwzUm8taUo4V1ZrT0NpdHhfT3MtQnJUVGNUSUk1Q0cyRjZHZW1rMEphTkdGdFItcFNyXzExQVotRGlNdG51dG5qR1drRHBnTmtNeVBKUTV0WG52QXNOdHYtQ2ZNdVRINmRmNng1SHFJU2o?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 20.1,
-          "lon": -99.5
         }
       ]
     },
@@ -125,19 +109,6 @@
       "badge_txt": "BLOQUEO",
       "lat": 17.06,
       "lon": -96.72
-    },
-    {
-      "id": "38c7c03f",
-      "tipo": "bloqueo",
-      "ruta": "autopista este 25 de agosto - TV Azteca",
-      "descripcion": "¿Hay bloqueos en la México-Querétaro hoy? Tráfico EN VIVO en la autopista este 25 de agosto - TV Azteca. ¿Hay bloqueos en la México-Querétaro hoy? Tráfico EN VIVO en la autopista este 25 de agosto TV Azteca",
-      "fecha": "25 agosto 2026 · 10:06 CST",
-      "fuente": "TV Azteca",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSEZXcl92R0VKLUk0WXMzQVdoeV9Sdkx5UEhiNUs4ZFZwUUdjdzdfZm5STkhkMmM4elEway1tZGhJUEJ0Tjl0UVY1QUdOUmlud1lDUGlRVjdZcGxOc3NGODZGSDRld1hkUXBVVDNGRFFtNjZiVWt1d3JRVWRzUHIwTm83NmlnZ3dGSDJ5TzhHVFNjX19aR05pakR3SU5GYVZDYVVmWDBBZjJqLTZZOW9ub3ZVZE4wNEVWOU1mTW9Kd9IBzAFBVV95cUxOY2xReFNLcGtELXM0ell1ZERQc0NTOTFmQTdyS25mYWR5U1NnNHZmbDZLNnNWN25LWnI0YndLYkhnYkN5em1jZ3J6Vy1SNDUyYU8xQzNZYURLX0JTSzBWU0FNNGwzUm8taUo4V1ZrT0NpdHhfT3MtQnJUVGNUSUk1Q0cyRjZHZW1rMEphTkdGdFItcFNyXzExQVotRGlNdG51dG5qR1drRHBnTmtNeVBKUTV0WG52QXNOdHYtQ2ZNdVRINmRmNng1SHFJU2o?oc=5",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 20.1,
-      "lon": -99.5
     }
   ]
 }
