@@ -1,11 +1,11 @@
 {
-  "ultima_actualizacion": "2026-08-26T12:50:34.092604-06:00",
-  "ultima_actualizacion_legible": "26 de agosto de 2026 · 12:50 CST",
+  "ultima_actualizacion": "2026-08-26T15:29:21.622118-06:00",
+  "ultima_actualizacion_legible": "26 de agosto de 2026 · 15:29 CST",
   "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
-    "Quadratin + regionales"
+    "Medios regionales"
   ],
   "grupos": [
     {
@@ -39,37 +39,21 @@
       "col2": true,
       "alertas": [
         {
-          "id": "a7383646",
+          "id": "a0ff08a2",
           "tipo": "cierre_parcial",
-          "ruta": "Choque entre tractocamiones provoca reducción de carriles en la México-Querétaro…",
-          "descripcion": "Choque entre tractocamiones provoca reducción de carriles en la México-Querétaro. Protagonizaron un choque por alcance. The post Choque entre tractocamiones provoca reducción de carriles en la México-Querétaro appeared first on Quadratin Hidalgo.",
+          "ruta": "Tres muertos y un herido deja choque de motociclistas en…",
+          "descripcion": "Tres muertos y un herido deja choque de motociclistas en Tarímbaro. Sobre la carretera Jamaica-La Noria",
           "recomendacion": "",
-          "fecha": "26 agosto 2026 · 10:54 CST",
-          "fecha_iso": "2026-08-26T10:54:00-06:00",
-          "fuente": "Quadratin Hidalgo",
-          "url": "https://hidalgo.quadratin.com.mx/sucesos/choque-entre-tractocamiones-provoca-reduccion-de-carriles-en-la-mexico-queretaro/",
+          "fecha": "26 agosto 2026 · 14:46 CST",
+          "fecha_iso": "2026-08-26T14:46:00-06:00",
+          "fuente": "Quadratin Michoacan",
+          "url": "https://www.quadratin.com.mx/sucesos/tres-muertos-y-un-herido-deja-choque-de-motociclistas-en-tarimbaro/",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 20.1,
-          "lon": -99.5
+          "badge_txt": "CIERRE PARCIAL"
         }
       ]
     }
   ],
-  "para_mapa": [
-    {
-      "id": "a7383646",
-      "tipo": "cierre_parcial",
-      "ruta": "Choque entre tractocamiones provoca reducción de carriles en la México-Querétaro…",
-      "descripcion": "Choque entre tractocamiones provoca reducción de carriles en la México-Querétaro. Protagonizaron un choque por alcance. The post Choque entre tractocamiones provoca reducción de carriles en la México-Querétaro appeared first on Quadratin Hidalgo.",
-      "fecha": "26 agosto 2026 · 10:54 CST",
-      "fuente": "Quadratin Hidalgo",
-      "url": "https://hidalgo.quadratin.com.mx/sucesos/choque-entre-tractocamiones-provoca-reduccion-de-carriles-en-la-mexico-queretaro/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 20.1,
-      "lon": -99.5
-    }
-  ]
+  "para_mapa": []
 }
