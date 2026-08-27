@@ -1,37 +1,12 @@
 {
-  "ultima_actualizacion": "2026-08-26T18:58:15.675763-06:00",
-  "ultima_actualizacion_legible": "26 de agosto de 2026 · 18:58 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-08-27T04:52:53.385529-06:00",
+  "ultima_actualizacion_legible": "27 de agosto de 2026 · 04:52 CST",
+  "total": 1,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News",
-    "Quadratin + regionales",
-    "Telegram"
+    "Quadratin + regionales"
   ],
   "grupos": [
-    {
-      "tipo": "bloqueo",
-      "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "89b94602",
-          "tipo": "bloqueo",
-          "ruta": "Bloqueos carreteras HOY 26 de agosto: Autopistas cerradas en México,…",
-          "descripcion": "Bloqueos carreteras HOY 26 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 26 de agosto: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
-          "recomendacion": "",
-          "fecha": "26 agosto 2026 · 07:10 CST",
-          "fecha_iso": "2026-08-26T07:10:00-06:00",
-          "fuente": "Eje Central",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPdmI0M09WVU5WcHRrMHdoak9lUkV2UHBpV09mUlJQcHFrSXQ5TVNrOTExbGFjVVM4alk2bkVyMjRxQWR2ZnlxMmhHY1kxMi1iMF94YXdsV0YtV2oyQVllWGNwYm1EVFczdVJMNzAtM3ZHODBnZmxrOVdBWnEtM2FpOFQ3UnlVd1cwUzgxMHpKSFBFRFRPYUpqVWE4TUViZk45cEdXTnNlOXUxcHdrTFRzOEVVc24zRThyUFVLV0RPQzVPdjV4eG11NE1hSTBWTGJobU9iODRXTzhPaDdoWlVLbnMxVnc5dXo3?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        }
-      ]
-    },
     {
       "tipo": "cierre_parcial",
       "color": "amarillo",
@@ -40,66 +15,37 @@
       "col2": true,
       "alertas": [
         {
-          "id": "6949a886",
+          "id": "4e69af7e",
           "tipo": "cierre_parcial",
-          "ruta": "Choca tráiler contra semáforo y bloquea carril del Mexibús en…",
-          "descripcion": "Choca tráiler contra semáforo y bloquea carril del Mexibús en Ecatepec. El accidente ocurrió en Vía Morelos; la circulación hacia la Central de Abasto y Tecámac presenta afectaciones.",
+          "ruta": "Cerrarán la México-Querétaro dos horas por montaje de estructuras…",
+          "descripcion": "Cerrarán la México-Querétaro dos horas por montaje de estructuras. CAPUFE realizará cierres parciales en ambos sentidos del kilómetro 88 entre la noche del jueves 27 y la madrugada del viernes 28 de agosto.",
           "recomendacion": "",
-          "fecha": "26 agosto 2026 · 16:45 CST",
-          "fecha_iso": "2026-08-26T16:45:00-06:00",
+          "fecha": "26 agosto 2026 · 22:45 CST",
+          "fecha_iso": "2026-08-26T22:45:00-06:00",
           "fuente": "Quadratin EdoMex",
-          "url": "https://edomex.quadratin.com.mx/choca-trailer-contra-semaforo-y-bloquea-carril-del-mexibus-en-ecatepec/",
+          "url": "https://edomex.quadratin.com.mx/cerraran-la-mexico-queretaro-dos-horas-por-montaje-de-estructuras/",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL",
-          "lat": 18.67,
-          "lon": -99.1
-        },
-        {
-          "id": "a36be5c1",
-          "tipo": "cierre_parcial",
-          "ruta": "🚧#AlertaVial | Tráiler derriba semáforo 🚦y provoca cierre en Vía…",
-          "descripcion": "🚧#AlertaVial | Tráiler derriba semáforo 🚦y provoca cierre en Vía Morelos👇\n https://lajornadaestadodemexico.com/trailer-derriba-semaforo-y-provoca-cierre-en-via-morelos/",
-          "recomendacion": "",
-          "fecha": "26 agosto 2026 · 16:39 CST",
-          "fecha_iso": "2026-08-26T16:39:00-06:00",
-          "fuente": "Telegram @jornadaedomex",
-          "url": "https://t.me/jornadaedomex/11846",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 18.67,
-          "lon": -99.1
+          "lat": 20.1,
+          "lon": -99.5
         }
       ]
     }
   ],
   "para_mapa": [
     {
-      "id": "6949a886",
+      "id": "4e69af7e",
       "tipo": "cierre_parcial",
-      "ruta": "Choca tráiler contra semáforo y bloquea carril del Mexibús en…",
-      "descripcion": "Choca tráiler contra semáforo y bloquea carril del Mexibús en Ecatepec. El accidente ocurrió en Vía Morelos; la circulación hacia la Central de Abasto y Tecámac presenta afectaciones.",
-      "fecha": "26 agosto 2026 · 16:45 CST",
+      "ruta": "Cerrarán la México-Querétaro dos horas por montaje de estructuras…",
+      "descripcion": "Cerrarán la México-Querétaro dos horas por montaje de estructuras. CAPUFE realizará cierres parciales en ambos sentidos del kilómetro 88 entre la noche del jueves 27 y la madrugada del viernes 28 de agosto.",
+      "fecha": "26 agosto 2026 · 22:45 CST",
       "fuente": "Quadratin EdoMex",
-      "url": "https://edomex.quadratin.com.mx/choca-trailer-contra-semaforo-y-bloquea-carril-del-mexibus-en-ecatepec/",
+      "url": "https://edomex.quadratin.com.mx/cerraran-la-mexico-queretaro-dos-horas-por-montaje-de-estructuras/",
       "dot_color": "#e67e22",
       "badge_txt": "CIERRE PARCIAL",
-      "lat": 18.67,
-      "lon": -99.1
-    },
-    {
-      "id": "a36be5c1",
-      "tipo": "cierre_parcial",
-      "ruta": "🚧#AlertaVial | Tráiler derriba semáforo 🚦y provoca cierre en Vía…",
-      "descripcion": "🚧#AlertaVial | Tráiler derriba semáforo 🚦y provoca cierre en Vía Morelos👇\n https://lajornadaestadodemexico.com/trailer-derriba-semaforo-y-provoca-cierre-en-via-morelos/",
-      "fecha": "26 agosto 2026 · 16:39 CST",
-      "fuente": "Telegram @jornadaedomex",
-      "url": "https://t.me/jornadaedomex/11846",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 18.67,
-      "lon": -99.1
+      "lat": 20.1,
+      "lon": -99.5
     }
   ]
 }
