@@ -1,10 +1,12 @@
 {
-  "ultima_actualizacion": "2026-08-27T14:52:30.279242-06:00",
-  "ultima_actualizacion_legible": "27 de agosto de 2026 · 14:52 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-08-27T23:03:22.521549-06:00",
+  "ultima_actualizacion_legible": "27 de agosto de 2026 · 23:03 CST",
+  "total": 3,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Medios nacionales"
+    "Medios nacionales",
+    "Medios regionales",
+    "Telegram"
   ],
   "grupos": [
     {
@@ -14,6 +16,34 @@
       "label": "CIERRE PARCIAL / ACCIDENTES",
       "col2": true,
       "alertas": [
+        {
+          "id": "bf4e25f4",
+          "tipo": "cierre_parcial",
+          "ruta": "Se impacta tráiler en la Maravatío-Atlacomulco; 2 muertos…",
+          "descripcion": "Se impacta tráiler en la Maravatío-Atlacomulco; 2 muertos. Tras el choque, se incendió",
+          "recomendacion": "",
+          "fecha": "27 agosto 2026 · 22:29 CST",
+          "fecha_iso": "2026-08-27T22:29:00-06:00",
+          "fuente": "Quadratin Michoacan",
+          "url": "https://www.quadratin.com.mx/justicia/se-impacta-trailer-en-la-maravatio-atlacomulco-2-muertos/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        },
+        {
+          "id": "08c22b28",
+          "tipo": "cierre_parcial",
+          "ruta": "**🚨 Embestida de tren a tráiler deja a persona sin…",
+          "descripcion": "**🚨 Embestida de tren a tráiler deja a persona sin vida en el Eje Vial**\n\n\nA causa de la colisión de las unidades, la caja del tráiler cayó y aplastó la camioneta Honda de la víctima\n\n\nhttps://diario.mx/juarez/2026/aug/27/embestida-de-tren-a-trailer-deja-a-persona-sin-vida-en-el-eje-vial-1135442.html",
+          "recomendacion": "",
+          "fecha": "27 agosto 2026 · 17:28 CST",
+          "fecha_iso": "2026-08-27T17:28:00-06:00",
+          "fuente": "Telegram @ElDiarioDeJuarez",
+          "url": "https://t.me/ElDiarioDeJuarez/1654",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        },
         {
           "id": "cedbad8c",
           "tipo": "cierre_parcial",
