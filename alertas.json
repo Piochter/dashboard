@@ -1,12 +1,35 @@
 {
-  "ultima_actualizacion": "2026-08-29T07:29:40.703949-06:00",
-  "ultima_actualizacion_legible": "29 de agosto de 2026 · 07:29 CST",
-  "total": 0,
+  "ultima_actualizacion": "2026-08-29T11:19:07.390023-06:00",
+  "ultima_actualizacion_legible": "29 de agosto de 2026 · 11:19 CST",
+  "total": 1,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News"
   ],
-  "grupos": [],
-  "para_mapa": [],
-  "nota": "Sin alertas activas en la ventana de tiempo configurada."
+  "grupos": [
+    {
+      "tipo": "bloqueo",
+      "color": "rojo",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "7ad31f90",
+          "tipo": "bloqueo",
+          "ruta": "Bloqueos carreteras HOY 29 de agosto: Autopistas cerradas en México,…",
+          "descripcion": "Bloqueos carreteras HOY 29 de agosto: Autopistas cerradas en México, accidentes viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 29 de agosto: Autopistas cerradas en México, accidentes viales y rutas alternas según CAPUFE Eje Central",
+          "recomendacion": "",
+          "fecha": "29 agosto 2026 · 09:51 CST",
+          "fecha_iso": "2026-08-29T09:51:00-06:00",
+          "fuente": "Eje Central",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNaWRydVN2N3FXbVYzSGN2ZUE4UmpSLTNoYk9zTGtfVE9BbzFSMnBJNFo3T2ROeUVOVGROSDVJMUVGVExITzJfcEdnYm9wd3g0SmZpM0I2emRQb2x6THhJYWdzbjlyQTktMUFVX1k2OGR0MndFSWpHVWtYd1hDaXA2VllNbVNtRTF2WHNweVhxLVBMZVZ1S2JJcGVFenRGUFpJYTF2VkZLa3VPUVRIa0Z0TEpDVnlPbktvWjQyUWg1akkwSFZtdGtlMng5cDlrai1ubVlZTXFBQmphM2h4RG81LW9YSmQ0SGZ6UzkyMA?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        }
+      ]
+    }
+  ],
+  "para_mapa": []
 }
