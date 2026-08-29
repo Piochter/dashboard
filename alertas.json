@@ -1,10 +1,11 @@
 {
-  "ultima_actualizacion": "2026-08-29T11:19:07.390023-06:00",
-  "ultima_actualizacion_legible": "29 de agosto de 2026 · 11:19 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-08-29T13:51:29.150405-06:00",
+  "ultima_actualizacion_legible": "29 de agosto de 2026 · 13:51 CST",
+  "total": 3,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News"
+    "Google News",
+    "Quadratin + regionales"
   ],
   "grupos": [
     {
@@ -14,6 +15,22 @@
       "label": "BLOQUEOS / MANIFESTACIONES",
       "col2": false,
       "alertas": [
+        {
+          "id": "b0d5f98c",
+          "tipo": "bloqueo",
+          "ruta": "Toman vecinos presidencia de Tasquillo y advierten bloqueo de la…",
+          "descripcion": "Toman vecinos presidencia de Tasquillo y advierten bloqueo de la México-Laredo. Habitantes de la comunidad de El Durazno en el municipio de Tasquillo, tomaron este sábado las instalaciones de la presidencia municipal The post Toman vecinos presidencia de Tasquillo y advierten bloqueo de la México-Laredo appeared first on Quadratin Hidalgo.",
+          "recomendacion": "",
+          "fecha": "29 agosto 2026 · 11:40 CST",
+          "fecha_iso": "2026-08-29T11:40:00-06:00",
+          "fuente": "Quadratin Hidalgo",
+          "url": "https://hidalgo.quadratin.com.mx/municipios/toman-vecinos-presidencia-de-tasquillo-y-advierten-bloqueo-de-la-mexico-laredo/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 24.0,
+          "lon": -99.0
+        },
         {
           "id": "7ad31f90",
           "tipo": "bloqueo",
@@ -29,7 +46,44 @@
           "badge_txt": "BLOQUEO"
         }
       ]
+    },
+    {
+      "tipo": "cierre_parcial",
+      "color": "amarillo",
+      "icono": "🟡",
+      "label": "CIERRE PARCIAL / ACCIDENTES",
+      "col2": true,
+      "alertas": [
+        {
+          "id": "7e3db3a5",
+          "tipo": "cierre_parcial",
+          "ruta": "Muere automovilista en el Periférico Ecológico…",
+          "descripcion": "Muere automovilista en el Periférico Ecológico. Accidente en el Periférico Ecológico deja un muerto",
+          "recomendacion": "",
+          "fecha": "29 agosto 2026 · 11:18 CST",
+          "fecha_iso": "2026-08-29T11:18:00-06:00",
+          "fuente": "Quadratin Puebla",
+          "url": "https://puebla.quadratin.com.mx/sucesos/muere-automovilista-en-el-periferico-ecologico/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        }
+      ]
     }
   ],
-  "para_mapa": []
+  "para_mapa": [
+    {
+      "id": "b0d5f98c",
+      "tipo": "bloqueo",
+      "ruta": "Toman vecinos presidencia de Tasquillo y advierten bloqueo de la…",
+      "descripcion": "Toman vecinos presidencia de Tasquillo y advierten bloqueo de la México-Laredo. Habitantes de la comunidad de El Durazno en el municipio de Tasquillo, tomaron este sábado las instalaciones de la presidencia municipal The post Toman vecinos presidencia de Tasquillo y advierten bloqueo de la México-Laredo appeared first on Quadratin Hidalgo.",
+      "fecha": "29 agosto 2026 · 11:40 CST",
+      "fuente": "Quadratin Hidalgo",
+      "url": "https://hidalgo.quadratin.com.mx/municipios/toman-vecinos-presidencia-de-tasquillo-y-advierten-bloqueo-de-la-mexico-laredo/",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 24.0,
+      "lon": -99.0
+    }
+  ]
 }
