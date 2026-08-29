@@ -1,51 +1,12 @@
 {
-  "ultima_actualizacion": "2026-08-29T01:54:13.426916-06:00",
-  "ultima_actualizacion_legible": "29 de agosto de 2026 · 01:54 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-08-29T07:29:40.703949-06:00",
+  "ultima_actualizacion_legible": "29 de agosto de 2026 · 07:29 CST",
+  "total": 0,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Medios nacionales"
+    "Google News"
   ],
-  "grupos": [
-    {
-      "tipo": "cierre_parcial",
-      "color": "amarillo",
-      "icono": "🟡",
-      "label": "CIERRE PARCIAL / ACCIDENTES",
-      "col2": true,
-      "alertas": [
-        {
-          "id": "028c3f67",
-          "tipo": "cierre_parcial",
-          "ruta": "Detienen a 4 señalados por el robo de un tractocamión…",
-          "descripcion": "Detienen a 4 señalados por el robo de un tractocamión en Iztacalco. El titular de la Secretaría de Seguridad Ciudadana (SSC) de la CDMX, Pablo Vázquez Camacho, reveló que se detuvo a cuatro personas señaladas por el robo de un tractocamión en la alcaldía Iztacalco.",
-          "recomendacion": "",
-          "fecha": "28 agosto 2026 · 15:23 CST",
-          "fecha_iso": "2026-08-28T15:23:00-06:00",
-          "fuente": "24 Horas",
-          "url": "https://24-horas.mx/cdmx/detienen-a-4-senalados-por-el-robo-de-un-tractocamion-en-iztacalco/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.43,
-          "lon": -99.13
-        }
-      ]
-    }
-  ],
-  "para_mapa": [
-    {
-      "id": "028c3f67",
-      "tipo": "cierre_parcial",
-      "ruta": "Detienen a 4 señalados por el robo de un tractocamión…",
-      "descripcion": "Detienen a 4 señalados por el robo de un tractocamión en Iztacalco. El titular de la Secretaría de Seguridad Ciudadana (SSC) de la CDMX, Pablo Vázquez Camacho, reveló que se detuvo a cuatro personas señaladas por el robo de un tractocamión en la alcaldía Iztacalco.",
-      "fecha": "28 agosto 2026 · 15:23 CST",
-      "fuente": "24 Horas",
-      "url": "https://24-horas.mx/cdmx/detienen-a-4-senalados-por-el-robo-de-un-tractocamion-en-iztacalco/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.43,
-      "lon": -99.13
-    }
-  ]
+  "grupos": [],
+  "para_mapa": [],
+  "nota": "Sin alertas activas en la ventana de tiempo configurada."
 }
