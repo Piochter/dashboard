@@ -1,91 +1,12 @@
 {
-  "ultima_actualizacion": "2026-08-28T19:04:05.108437-06:00",
-  "ultima_actualizacion_legible": "28 de agosto de 2026 · 19:04 CST",
-  "total": 7,
+  "ultima_actualizacion": "2026-08-29T01:54:13.426916-06:00",
+  "ultima_actualizacion_legible": "29 de agosto de 2026 · 01:54 CST",
+  "total": 1,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Medios nacionales",
-    "Medios regionales",
-    "Quadratin + regionales",
-    "Telegram"
+    "Medios nacionales"
   ],
   "grupos": [
-    {
-      "tipo": "cierre_total",
-      "color": "rojo",
-      "icono": "🔴",
-      "label": "CIERRE TOTAL",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "31dcc557",
-          "tipo": "cierre_total",
-          "ruta": "Volcadura cobra la vida de un conductor en la 200…",
-          "descripcion": "Volcadura cobra la vida de un conductor en la 200. Un auto terminó por salirse del camino en la carretera estatal 200 y tras haber volcado dentro de las instalaciones de la UNAQ The post Volcadura cobra la vida de un conductor en la 200 appeared first on Quadratin Querétaro.",
-          "recomendacion": "",
-          "fecha": "28 agosto 2026 · 17:00 CST",
-          "fecha_iso": "2026-08-28T17:00:00-06:00",
-          "fuente": "Quadratin Queretaro",
-          "url": "https://queretaro.quadratin.com.mx/volcadura-cobra-la-vida-de-un-conductor-en-la-200/",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL",
-          "lat": 19.1,
-          "lon": -104.3
-        },
-        {
-          "id": "039c35e1",
-          "tipo": "cierre_total",
-          "ruta": "Vuelca pipa de agua sobre Periférico Norte, hay un lesionado…",
-          "descripcion": "Vuelca pipa de agua sobre Periférico Norte, hay un lesionado. Durante la mañana de este viernes 28 de agosto se registró la volcadura de una pipa de agua sobre Periférico Norte, a la altura de Avenida de Paseo de las Palmas.",
-          "recomendacion": "",
-          "fecha": "28 agosto 2026 · 12:20 CST",
-          "fecha_iso": "2026-08-28T12:20:00-06:00",
-          "fuente": "24 Horas",
-          "url": "https://24-horas.mx/cdmx/vuelca-pipa-de-agua-sobre-periferico-norte-hay-un-lesionado/",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL"
-        }
-      ]
-    },
-    {
-      "tipo": "bloqueo",
-      "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "cfc4a7be",
-          "tipo": "bloqueo",
-          "ruta": "Cierran accesos a Tenango del Valle, en protesta por deterioro…",
-          "descripcion": "Cierran accesos a Tenango del Valle, en protesta por deterioro de vialidades\nhttps://www.jornada.com.mx/2026/08/28/estados/026n2est?partner=rss\n\nTenango del Valle, Méx., Después de dos días de protestas y ante la nula respuesta de las autoridades, pobladores de las comunidades de Balderas, Santa Cruz Pueblo Nuevo y San Francisco Putla, de este municipio, cerraron ayer por casi 12 horas todos los accesos a la demarcación como medida de presión para que el gobierno estatal atienda el problema de d",
-          "recomendacion": "",
-          "fecha": "28 agosto 2026 · 13:11 CST",
-          "fecha_iso": "2026-08-28T13:11:00-06:00",
-          "fuente": "Telegram @NOTMEX",
-          "url": "https://t.me/NOTMEX/185645",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        },
-        {
-          "id": "901d6e15",
-          "tipo": "bloqueo",
-          "ruta": "DAF Experience traza la ruta para avanzar en el mercado…",
-          "descripcion": "DAF Experience traza la ruta para avanzar en el mercado mexicano. EINDHOVEN, NL. – Al circular la Rijksweg 2, la autopista que conecta Ámsterdam con Eindhoven en Países Bajos, los poco más de 125 kilómetros que separan ambas ciudades permitieron a un grupo de transportistas mexicanos que participaron en el DAF Experiences, constatar la presencia de la marca no sólo en el país sino en Europa, […]",
-          "recomendacion": "",
-          "fecha": "28 agosto 2026 · 07:05 CST",
-          "fecha_iso": "2026-08-28T07:05:00-06:00",
-          "fuente": "T21 Transporte",
-          "url": "https://t21.com.mx/daf-experience-traza-la-ruta-para-avanzar-en-el-mercado-mexicano/",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        }
-      ]
-    },
     {
       "tipo": "cierre_parcial",
       "color": "amarillo",
@@ -93,20 +14,6 @@
       "label": "CIERRE PARCIAL / ACCIDENTES",
       "col2": true,
       "alertas": [
-        {
-          "id": "eae12074",
-          "tipo": "cierre_parcial",
-          "ruta": "Matan a Capitán de la GN en Aquila; en traslado…",
-          "descripcion": "Matan a Capitán de la GN en Aquila; en traslado a Apatzingán tras choque. En el tramo Tepalcatepec-Aquila",
-          "recomendacion": "",
-          "fecha": "28 agosto 2026 · 18:55 CST",
-          "fecha_iso": "2026-08-28T18:55:00-06:00",
-          "fuente": "Quadratin Michoacan",
-          "url": "https://www.quadratin.com.mx/justicia/matan-a-capitan-de-la-gn-en-aquila-en-traslado-a-apatzingan-tras-choque/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
-        },
         {
           "id": "028c3f67",
           "tipo": "cierre_parcial",
@@ -122,40 +29,11 @@
           "badge_txt": "CIERRE PARCIAL",
           "lat": 19.43,
           "lon": -99.13
-        },
-        {
-          "id": "4849ef82",
-          "tipo": "cierre_parcial",
-          "ruta": "Scania prevé mayor actividad de flotas corporativas al cierre de…",
-          "descripcion": "Scania prevé mayor actividad de flotas corporativas al cierre de 2026. QUERÉTARO, QRO.- En una operación de autotransporte, el costo de una unidad va más allá de su adquisición. De acuerdo con Rafael Gutiérrez, gerente de Desarrollo Comercial de Scania México, factores como el rendimiento de combustible, la seguridad y el mantenimiento también forman parte de la evaluación que realizan las flotas corporativas al momento de tomar […]",
-          "recomendacion": "",
-          "fecha": "28 agosto 2026 · 07:20 CST",
-          "fecha_iso": "2026-08-28T07:20:00-06:00",
-          "fuente": "T21 Transporte",
-          "url": "https://t21.com.mx/scania-preve-mayor-actividad-de-flotas-corporativas-al-cierre-de-2026/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 20.59,
-          "lon": -100.39
         }
       ]
     }
   ],
   "para_mapa": [
-    {
-      "id": "31dcc557",
-      "tipo": "cierre_total",
-      "ruta": "Volcadura cobra la vida de un conductor en la 200…",
-      "descripcion": "Volcadura cobra la vida de un conductor en la 200. Un auto terminó por salirse del camino en la carretera estatal 200 y tras haber volcado dentro de las instalaciones de la UNAQ The post Volcadura cobra la vida de un conductor en la 200 appeared first on Quadratin Querétaro.",
-      "fecha": "28 agosto 2026 · 17:00 CST",
-      "fuente": "Quadratin Queretaro",
-      "url": "https://queretaro.quadratin.com.mx/volcadura-cobra-la-vida-de-un-conductor-en-la-200/",
-      "dot_color": "#e74c3c",
-      "badge_txt": "CIERRE TOTAL",
-      "lat": 19.1,
-      "lon": -104.3
-    },
     {
       "id": "028c3f67",
       "tipo": "cierre_parcial",
@@ -168,19 +46,6 @@
       "badge_txt": "CIERRE PARCIAL",
       "lat": 19.43,
       "lon": -99.13
-    },
-    {
-      "id": "4849ef82",
-      "tipo": "cierre_parcial",
-      "ruta": "Scania prevé mayor actividad de flotas corporativas al cierre de…",
-      "descripcion": "Scania prevé mayor actividad de flotas corporativas al cierre de 2026. QUERÉTARO, QRO.- En una operación de autotransporte, el costo de una unidad va más allá de su adquisición. De acuerdo con Rafael Gutiérrez, gerente de Desarrollo Comercial de Scania México, factores como el rendimiento de combustible, la seguridad y el mantenimiento también forman parte de la evaluación que realizan las flotas corporativas al momento de tomar […]",
-      "fecha": "28 agosto 2026 · 07:20 CST",
-      "fuente": "T21 Transporte",
-      "url": "https://t21.com.mx/scania-preve-mayor-actividad-de-flotas-corporativas-al-cierre-de-2026/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 20.59,
-      "lon": -100.39
     }
   ]
 }
