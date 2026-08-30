@@ -1,10 +1,10 @@
 {
-  "ultima_actualizacion": "2026-08-29T18:18:14.286979-06:00",
-  "ultima_actualizacion_legible": "29 de agosto de 2026 · 18:18 CST",
+  "ultima_actualizacion": "2026-08-29T23:36:03.163139-06:00",
+  "ultima_actualizacion_legible": "29 de agosto de 2026 · 23:36 CST",
   "total": 3,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News",
+    "Medios regionales",
     "Quadratin + regionales"
   ],
   "grupos": [
@@ -15,6 +15,22 @@
       "label": "BLOQUEOS / MANIFESTACIONES",
       "col2": false,
       "alertas": [
+        {
+          "id": "ee609d4c",
+          "tipo": "bloqueo",
+          "ruta": "Caen ocho presuntos criminales y desmantelan campamento en Sinaloa…",
+          "descripcion": "Caen ocho presuntos criminales y desmantelan campamento en Sinaloa. En el operativo participaron elementos de la SSPC, Guardia Nacional, Semar, Sedena y la FGR",
+          "recomendacion": "",
+          "fecha": "29 agosto 2026 · 22:19 CST",
+          "fecha_iso": "2026-08-29T22:19:00-06:00",
+          "fuente": "El Informador Jalisco",
+          "url": "https://www.informador.mx/mexico/caen-ocho-presuntos-criminales-y-desmantelan-campamento-en-sinaloa-20260829-0095.html",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 24.8,
+          "lon": -107.39
+        },
         {
           "id": "b0d5f98c",
           "tipo": "bloqueo",
@@ -30,20 +46,6 @@
           "badge_txt": "BLOQUEO",
           "lat": 24.0,
           "lon": -99.0
-        },
-        {
-          "id": "7ad31f90",
-          "tipo": "bloqueo",
-          "ruta": "Bloqueos carreteras HOY 29 de agosto: Autopistas cerradas en México,…",
-          "descripcion": "Bloqueos carreteras HOY 29 de agosto: Autopistas cerradas en México, accidentes viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 29 de agosto: Autopistas cerradas en México, accidentes viales y rutas alternas según CAPUFE Eje Central",
-          "recomendacion": "",
-          "fecha": "29 agosto 2026 · 09:51 CST",
-          "fecha_iso": "2026-08-29T09:51:00-06:00",
-          "fuente": "Eje Central",
-          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNaWRydVN2N3FXbVYzSGN2ZUE4UmpSLTNoYk9zTGtfVE9BbzFSMnBJNFo3T2ROeUVOVGROSDVJMUVGVExITzJfcEdnYm9wd3g0SmZpM0I2emRQb2x6THhJYWdzbjlyQTktMUFVX1k2OGR0MndFSWpHVWtYd1hDaXA2VllNbVNtRTF2WHNweVhxLVBMZVZ1S2JJcGVFenRGUFpJYTF2VkZLa3VPUVRIa0Z0TEpDVnlPbktvWjQyUWg1akkwSFZtdGtlMng5cDlrai1ubVlZTXFBQmphM2h4RG81LW9YSmQ0SGZ6UzkyMA?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
         }
       ]
     },
@@ -55,15 +57,15 @@
       "col2": true,
       "alertas": [
         {
-          "id": "7e3db3a5",
+          "id": "3213a711",
           "tipo": "cierre_parcial",
-          "ruta": "Muere automovilista en el Periférico Ecológico…",
-          "descripcion": "Muere automovilista en el Periférico Ecológico. Accidente en el Periférico Ecológico deja un muerto",
+          "ruta": "Detienen a 2 asaltantes de transportistas en Chalco…",
+          "descripcion": "Detienen a 2 asaltantes de transportistas en Chalco. Un vehículo utilizado presuntamente como ‘muro’ en un robo violento a un tractocamión fue localizado por policías estatales",
           "recomendacion": "",
-          "fecha": "29 agosto 2026 · 11:18 CST",
-          "fecha_iso": "2026-08-29T11:18:00-06:00",
-          "fuente": "Quadratin Puebla",
-          "url": "https://puebla.quadratin.com.mx/sucesos/muere-automovilista-en-el-periferico-ecologico/",
+          "fecha": "29 agosto 2026 · 22:30 CST",
+          "fecha_iso": "2026-08-29T22:30:00-06:00",
+          "fuente": "Quadratin EdoMex",
+          "url": "https://edomex.quadratin.com.mx/detienen-a-2-asaltantes-de-transportistas-en-chalco/",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL"
@@ -72,6 +74,19 @@
     }
   ],
   "para_mapa": [
+    {
+      "id": "ee609d4c",
+      "tipo": "bloqueo",
+      "ruta": "Caen ocho presuntos criminales y desmantelan campamento en Sinaloa…",
+      "descripcion": "Caen ocho presuntos criminales y desmantelan campamento en Sinaloa. En el operativo participaron elementos de la SSPC, Guardia Nacional, Semar, Sedena y la FGR",
+      "fecha": "29 agosto 2026 · 22:19 CST",
+      "fuente": "El Informador Jalisco",
+      "url": "https://www.informador.mx/mexico/caen-ocho-presuntos-criminales-y-desmantelan-campamento-en-sinaloa-20260829-0095.html",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 24.8,
+      "lon": -107.39
+    },
     {
       "id": "b0d5f98c",
       "tipo": "bloqueo",
