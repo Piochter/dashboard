@@ -1,10 +1,10 @@
 {
-  "ultima_actualizacion": "2026-08-30T04:41:18.161364-06:00",
-  "ultima_actualizacion_legible": "30 de agosto de 2026 · 04:41 CST",
+  "ultima_actualizacion": "2026-08-30T08:59:32.612703-06:00",
+  "ultima_actualizacion_legible": "30 de agosto de 2026 · 08:59 CST",
   "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Medios regionales",
+    "Google News",
     "Quadratin + regionales"
   ],
   "grupos": [
@@ -16,20 +16,18 @@
       "col2": false,
       "alertas": [
         {
-          "id": "ee609d4c",
+          "id": "8186b1b9",
           "tipo": "bloqueo",
-          "ruta": "Caen ocho presuntos criminales y desmantelan campamento en Sinaloa…",
-          "descripcion": "Caen ocho presuntos criminales y desmantelan campamento en Sinaloa. En el operativo participaron elementos de la SSPC, Guardia Nacional, Semar, Sedena y la FGR",
+          "ruta": "Bloqueos carreteras HOY 30 de agosto: Autopistas cerradas en México,…",
+          "descripcion": "Bloqueos carreteras HOY 30 de agosto: Autopistas cerradas en México, accidentes viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 30 de agosto: Autopistas cerradas en México, accidentes viales y rutas alternas según CAPUFE Eje Central",
           "recomendacion": "",
-          "fecha": "29 agosto 2026 · 22:19 CST",
-          "fecha_iso": "2026-08-29T22:19:00-06:00",
-          "fuente": "El Informador Jalisco",
-          "url": "https://www.informador.mx/mexico/caen-ocho-presuntos-criminales-y-desmantelan-campamento-en-sinaloa-20260829-0095.html",
+          "fecha": "30 agosto 2026 · 08:47 CST",
+          "fecha_iso": "2026-08-30T08:47:00-06:00",
+          "fuente": "Eje Central",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPcUdid01LRjVIdlMxZVdOeno2bEhYazNDSm1EY3hDdjFqaF9DSFRobGY5RzgyUDVqX01XOVBfNk9VUkgzR0Ezd2liOTZfU3FHMTlCV0YwRzVYUmw0OUhxOWdnUm9mNm5sQ05rSUNHNTRSaVYyNkphNW1qa25rdk9aMzM5OThPRUxQajVkYl9Vc2xqcUZhV1hLLUpwNEQ2c1BMNVJtY0phbXRzSDkzTnFsbjlzOFhUWmRXYVNJX0NyLTJ4Wkt2Q0JxR2NzVWJNWW1hM25LbmxmZS1fTGN0S1IzaUgwd1RFdUI1cnE2VA?oc=5",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 24.8,
-          "lon": -107.39
+          "badge_txt": "BLOQUEO"
         }
       ]
     },
@@ -57,19 +55,5 @@
       ]
     }
   ],
-  "para_mapa": [
-    {
-      "id": "ee609d4c",
-      "tipo": "bloqueo",
-      "ruta": "Caen ocho presuntos criminales y desmantelan campamento en Sinaloa…",
-      "descripcion": "Caen ocho presuntos criminales y desmantelan campamento en Sinaloa. En el operativo participaron elementos de la SSPC, Guardia Nacional, Semar, Sedena y la FGR",
-      "fecha": "29 agosto 2026 · 22:19 CST",
-      "fuente": "El Informador Jalisco",
-      "url": "https://www.informador.mx/mexico/caen-ocho-presuntos-criminales-y-desmantelan-campamento-en-sinaloa-20260829-0095.html",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 24.8,
-      "lon": -107.39
-    }
-  ]
+  "para_mapa": []
 }
