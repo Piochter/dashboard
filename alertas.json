@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-08-29T23:36:03.163139-06:00",
-  "ultima_actualizacion_legible": "29 de agosto de 2026 · 23:36 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-08-30T04:41:18.161364-06:00",
+  "ultima_actualizacion_legible": "30 de agosto de 2026 · 04:41 CST",
+  "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Medios regionales",
@@ -30,22 +30,6 @@
           "badge_txt": "BLOQUEO",
           "lat": 24.8,
           "lon": -107.39
-        },
-        {
-          "id": "b0d5f98c",
-          "tipo": "bloqueo",
-          "ruta": "Toman vecinos presidencia de Tasquillo y advierten bloqueo de la…",
-          "descripcion": "Toman vecinos presidencia de Tasquillo y advierten bloqueo de la México-Laredo. Habitantes de la comunidad de El Durazno en el municipio de Tasquillo, tomaron este sábado las instalaciones de la presidencia municipal The post Toman vecinos presidencia de Tasquillo y advierten bloqueo de la México-Laredo appeared first on Quadratin Hidalgo.",
-          "recomendacion": "",
-          "fecha": "29 agosto 2026 · 11:40 CST",
-          "fecha_iso": "2026-08-29T11:40:00-06:00",
-          "fuente": "Quadratin Hidalgo",
-          "url": "https://hidalgo.quadratin.com.mx/municipios/toman-vecinos-presidencia-de-tasquillo-y-advierten-bloqueo-de-la-mexico-laredo/",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 24.0,
-          "lon": -99.0
         }
       ]
     },
@@ -86,19 +70,6 @@
       "badge_txt": "BLOQUEO",
       "lat": 24.8,
       "lon": -107.39
-    },
-    {
-      "id": "b0d5f98c",
-      "tipo": "bloqueo",
-      "ruta": "Toman vecinos presidencia de Tasquillo y advierten bloqueo de la…",
-      "descripcion": "Toman vecinos presidencia de Tasquillo y advierten bloqueo de la México-Laredo. Habitantes de la comunidad de El Durazno en el municipio de Tasquillo, tomaron este sábado las instalaciones de la presidencia municipal The post Toman vecinos presidencia de Tasquillo y advierten bloqueo de la México-Laredo appeared first on Quadratin Hidalgo.",
-      "fecha": "29 agosto 2026 · 11:40 CST",
-      "fuente": "Quadratin Hidalgo",
-      "url": "https://hidalgo.quadratin.com.mx/municipios/toman-vecinos-presidencia-de-tasquillo-y-advierten-bloqueo-de-la-mexico-laredo/",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 24.0,
-      "lon": -99.0
     }
   ]
 }
