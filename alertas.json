@@ -1,10 +1,11 @@
 {
-  "ultima_actualizacion": "2026-08-30T12:26:35.706371-06:00",
-  "ultima_actualizacion_legible": "30 de agosto de 2026 · 12:26 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-08-30T15:18:59.241237-06:00",
+  "ultima_actualizacion_legible": "30 de agosto de 2026 · 15:18 CST",
+  "total": 4,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
+    "Quadratin + regionales",
     "Telegram"
   ],
   "grupos": [
@@ -39,6 +40,36 @@
       "col2": true,
       "alertas": [
         {
+          "id": "cc44d97f",
+          "tipo": "cierre_parcial",
+          "ruta": "🔴En el accidente en la México-Toluca estarían involucrados una combi…",
+          "descripcion": "🔴En el accidente en la México-Toluca estarían involucrados una combi y un autobús. https://lajornadaestadodemexico.com/accidente-en-la-mexico-toluca-a-la-altura-de-lerma-deja-un-fallecido/",
+          "recomendacion": "",
+          "fecha": "30 agosto 2026 · 14:19 CST",
+          "fecha_iso": "2026-08-30T14:19:00-06:00",
+          "fuente": "Telegram @jornadaedomex",
+          "url": "https://t.me/jornadaedomex/11872",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 19.29,
+          "lon": -99.66
+        },
+        {
+          "id": "0c2e76a3",
+          "tipo": "cierre_parcial",
+          "ruta": "Muere cónsul de Alemania tras accidente acuático en Costa Rica…",
+          "descripcion": "Muere cónsul de Alemania tras accidente acuático en Costa Rica. El incidente ocurrió en el Centro Recreativo La Laguna, ubicado a unos 75 kilómetros al norte de San José.",
+          "recomendacion": "",
+          "fecha": "30 agosto 2026 · 13:38 CST",
+          "fecha_iso": "2026-08-30T13:38:00-06:00",
+          "fuente": "Quadratin Jalisco",
+          "url": "https://jalisco.quadratin.com.mx/Internacional/muere-consul-de-alemania-tras-accidente-acuatico-en-costa-rica/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        },
+        {
           "id": "2821d73f",
           "tipo": "cierre_parcial",
           "ruta": "Matan a capitán de la Guardia Nacional que era trasladado…",
@@ -55,5 +86,19 @@
       ]
     }
   ],
-  "para_mapa": []
+  "para_mapa": [
+    {
+      "id": "cc44d97f",
+      "tipo": "cierre_parcial",
+      "ruta": "🔴En el accidente en la México-Toluca estarían involucrados una combi…",
+      "descripcion": "🔴En el accidente en la México-Toluca estarían involucrados una combi y un autobús. https://lajornadaestadodemexico.com/accidente-en-la-mexico-toluca-a-la-altura-de-lerma-deja-un-fallecido/",
+      "fecha": "30 agosto 2026 · 14:19 CST",
+      "fuente": "Telegram @jornadaedomex",
+      "url": "https://t.me/jornadaedomex/11872",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 19.29,
+      "lon": -99.66
+    }
+  ]
 }
