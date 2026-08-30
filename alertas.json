@@ -1,6 +1,6 @@
 {
-  "ultima_actualizacion": "2026-08-30T15:18:59.241237-06:00",
-  "ultima_actualizacion_legible": "30 de agosto de 2026 · 15:18 CST",
+  "ultima_actualizacion": "2026-08-30T17:39:02.214315-06:00",
+  "ultima_actualizacion_legible": "30 de agosto de 2026 · 17:39 CST",
   "total": 4,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
@@ -40,6 +40,22 @@
       "col2": true,
       "alertas": [
         {
+          "id": "a7cdf3fb",
+          "tipo": "cierre_parcial",
+          "ruta": "Muere chofer y 8 quedan heridos tras choque en la…",
+          "descripcion": "Muere chofer y 8 quedan heridos tras choque en la México-Toluca. LERMA, Edomex., 30 de agosto de 2026.- Un hombre murió y ocho personas resultaron lesionadas luego de que una camioneta tipo van del transporte público se impactó contra la parte trasera de un autobús de pasajeros sobre la lateral de la carretera México-Toluca. El accidente ocurrió la tarde de este domingo en dirección a Toluca, […]",
+          "recomendacion": "",
+          "fecha": "30 agosto 2026 · 16:15 CST",
+          "fecha_iso": "2026-08-30T16:15:00-06:00",
+          "fuente": "Quadratin EdoMex",
+          "url": "https://edomex.quadratin.com.mx/muere-chofer-y-8-quedan-heridos-tras-choque-en-la-mexico-toluca/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 19.35,
+          "lon": -99.7
+        },
+        {
           "id": "cc44d97f",
           "tipo": "cierre_parcial",
           "ruta": "🔴En el accidente en la México-Toluca estarían involucrados una combi…",
@@ -54,20 +70,6 @@
           "badge_txt": "CIERRE PARCIAL",
           "lat": 19.29,
           "lon": -99.66
-        },
-        {
-          "id": "0c2e76a3",
-          "tipo": "cierre_parcial",
-          "ruta": "Muere cónsul de Alemania tras accidente acuático en Costa Rica…",
-          "descripcion": "Muere cónsul de Alemania tras accidente acuático en Costa Rica. El incidente ocurrió en el Centro Recreativo La Laguna, ubicado a unos 75 kilómetros al norte de San José.",
-          "recomendacion": "",
-          "fecha": "30 agosto 2026 · 13:38 CST",
-          "fecha_iso": "2026-08-30T13:38:00-06:00",
-          "fuente": "Quadratin Jalisco",
-          "url": "https://jalisco.quadratin.com.mx/Internacional/muere-consul-de-alemania-tras-accidente-acuatico-en-costa-rica/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
         },
         {
           "id": "2821d73f",
@@ -87,6 +89,19 @@
     }
   ],
   "para_mapa": [
+    {
+      "id": "a7cdf3fb",
+      "tipo": "cierre_parcial",
+      "ruta": "Muere chofer y 8 quedan heridos tras choque en la…",
+      "descripcion": "Muere chofer y 8 quedan heridos tras choque en la México-Toluca. LERMA, Edomex., 30 de agosto de 2026.- Un hombre murió y ocho personas resultaron lesionadas luego de que una camioneta tipo van del transporte público se impactó contra la parte trasera de un autobús de pasajeros sobre la lateral de la carretera México-Toluca. El accidente ocurrió la tarde de este domingo en dirección a Toluca, […]",
+      "fecha": "30 agosto 2026 · 16:15 CST",
+      "fuente": "Quadratin EdoMex",
+      "url": "https://edomex.quadratin.com.mx/muere-chofer-y-8-quedan-heridos-tras-choque-en-la-mexico-toluca/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 19.35,
+      "lon": -99.7
+    },
     {
       "id": "cc44d97f",
       "tipo": "cierre_parcial",
