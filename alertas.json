@@ -1,51 +1,80 @@
 {
-  "ultima_actualizacion": "2026-08-31T09:27:04.239196-06:00",
-  "ultima_actualizacion_legible": "31 de agosto de 2026 · 09:27 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-08-31T14:56:18.641038-06:00",
+  "ultima_actualizacion_legible": "31 de agosto de 2026 · 14:56 CST",
+  "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Quadratin + regionales"
+    "Telegram"
   ],
   "grupos": [
     {
-      "tipo": "cierre_parcial",
-      "color": "amarillo",
-      "icono": "🟡",
-      "label": "CIERRE PARCIAL / ACCIDENTES",
-      "col2": true,
+      "tipo": "bloqueo",
+      "color": "rojo",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
+      "col2": false,
       "alertas": [
         {
-          "id": "567ec83b",
-          "tipo": "cierre_parcial",
-          "ruta": "Deja a varios heridos accidente en la México-Pachuca…",
-          "descripcion": "Deja a varios heridos accidente en la México-Pachuca. TECÁMAC, Edomex., 31 de agosto de 2026.-Una unidad de transporte público de la empresa Transportes Victoria volcó la mañana de este lunes sobre la autopista México-Pachuca, dejando varios pasajeros lesionados, entre ellos una mujer que sufrió la amputación de una mano. El accidente ocurrió a la altura del kilómetro 24+500 de la vialidad de cuota, […]",
+          "id": "0c8e9b07",
+          "tipo": "bloqueo",
+          "ruta": "La desaparición de Ayline Guadalupe Gutiérrez de la Cruz, de…",
+          "descripcion": "La desaparición de Ayline Guadalupe Gutiérrez de la Cruz, de 13 años, derivó de un bloqueo en la México-Toluca; señalan a su novio como presunto responsable.\nhttps://lajornadaestadodemexico.com/familiares-de-ayline-guadalupe-exigen-localizacion-bloqueo-mexico-toluca/",
           "recomendacion": "",
-          "fecha": "31 agosto 2026 · 09:07 CST",
-          "fecha_iso": "2026-08-31T09:07:00-06:00",
-          "fuente": "Quadratin EdoMex",
-          "url": "https://edomex.quadratin.com.mx/deja-a-varios-heridos-accidente-en-la-mexico-pachuca/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.35,
-          "lon": -99.7
+          "fecha": "31 agosto 2026 · 13:44 CST",
+          "fecha_iso": "2026-08-31T13:44:00-06:00",
+          "fuente": "Telegram @jornadaedomex",
+          "url": "https://t.me/jornadaedomex/11885",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 19.29,
+          "lon": -99.66
+        },
+        {
+          "id": "118f7b94",
+          "tipo": "bloqueo",
+          "ruta": "🚧#AlertaVial | Bloqueo en la México-Toluca por menor desaparecida complica…",
+          "descripcion": "🚧#AlertaVial | Bloqueo en la México-Toluca por menor desaparecida complica la circulación 👇\nhttps://lajornadaestadodemexico.com/bloqueo-en-la-mexico-toluca-por-menor-desaparecida-complica-la-circulacion/",
+          "recomendacion": "",
+          "fecha": "31 agosto 2026 · 12:49 CST",
+          "fecha_iso": "2026-08-31T12:49:00-06:00",
+          "fuente": "Telegram @jornadaedomex",
+          "url": "https://t.me/jornadaedomex/11882",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 19.29,
+          "lon": -99.66
         }
       ]
     }
   ],
   "para_mapa": [
     {
-      "id": "567ec83b",
-      "tipo": "cierre_parcial",
-      "ruta": "Deja a varios heridos accidente en la México-Pachuca…",
-      "descripcion": "Deja a varios heridos accidente en la México-Pachuca. TECÁMAC, Edomex., 31 de agosto de 2026.-Una unidad de transporte público de la empresa Transportes Victoria volcó la mañana de este lunes sobre la autopista México-Pachuca, dejando varios pasajeros lesionados, entre ellos una mujer que sufrió la amputación de una mano. El accidente ocurrió a la altura del kilómetro 24+500 de la vialidad de cuota, […]",
-      "fecha": "31 agosto 2026 · 09:07 CST",
-      "fuente": "Quadratin EdoMex",
-      "url": "https://edomex.quadratin.com.mx/deja-a-varios-heridos-accidente-en-la-mexico-pachuca/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.35,
-      "lon": -99.7
+      "id": "0c8e9b07",
+      "tipo": "bloqueo",
+      "ruta": "La desaparición de Ayline Guadalupe Gutiérrez de la Cruz, de…",
+      "descripcion": "La desaparición de Ayline Guadalupe Gutiérrez de la Cruz, de 13 años, derivó de un bloqueo en la México-Toluca; señalan a su novio como presunto responsable.\nhttps://lajornadaestadodemexico.com/familiares-de-ayline-guadalupe-exigen-localizacion-bloqueo-mexico-toluca/",
+      "fecha": "31 agosto 2026 · 13:44 CST",
+      "fuente": "Telegram @jornadaedomex",
+      "url": "https://t.me/jornadaedomex/11885",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 19.29,
+      "lon": -99.66
+    },
+    {
+      "id": "118f7b94",
+      "tipo": "bloqueo",
+      "ruta": "🚧#AlertaVial | Bloqueo en la México-Toluca por menor desaparecida complica…",
+      "descripcion": "🚧#AlertaVial | Bloqueo en la México-Toluca por menor desaparecida complica la circulación 👇\nhttps://lajornadaestadodemexico.com/bloqueo-en-la-mexico-toluca-por-menor-desaparecida-complica-la-circulacion/",
+      "fecha": "31 agosto 2026 · 12:49 CST",
+      "fuente": "Telegram @jornadaedomex",
+      "url": "https://t.me/jornadaedomex/11882",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 19.29,
+      "lon": -99.66
     }
   ]
 }
