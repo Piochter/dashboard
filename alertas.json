@@ -1,10 +1,12 @@
 {
-  "ultima_actualizacion": "2026-09-01T04:03:33.771841-06:00",
-  "ultima_actualizacion_legible": "1 de septiembre de 2026 · 04:03 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-09-01T08:51:47.796340-06:00",
+  "ultima_actualizacion_legible": "1 de septiembre de 2026 · 08:51 CST",
+  "total": 3,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News"
+    "Google News",
+    "Quadratin + regionales",
+    "Telegram"
   ],
   "grupos": [
     {
@@ -15,21 +17,74 @@
       "col2": false,
       "alertas": [
         {
-          "id": "000e4d6d",
+          "id": "731aebb6",
+          "tipo": "cierre_total",
+          "ruta": "🚧Accidente en la #Chamapa-#Lechería, continúa cierre a la circulación tras…",
+          "descripcion": "🚧Accidente en la #Chamapa-#Lechería, continúa cierre a la circulación tras la volcadura de un tráiler durante la noche y madrugada 👇\nhttps://lajornadaestadodemexico.com/trailer-choca-vuelca-y-se-incendia-en-la-chamapa-lecheria",
+          "recomendacion": "",
+          "fecha": "1 septiembre 2026 · 07:25 CST",
+          "fecha_iso": "2026-09-01T07:25:00-06:00",
+          "fuente": "Telegram @jornadaedomex",
+          "url": "https://t.me/jornadaedomex/11893",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL"
+        },
+        {
+          "id": "0757277c",
           "tipo": "cierre_total",
           "ruta": "Volcadura e Incendio de Tráiler Provocan Cierre en Autopista Chamapa-Lechería…",
-          "descripcion": "Volcadura e Incendio de Tráiler Provocan Cierre en Autopista Chamapa-Lechería - N+. Volcadura e Incendio de Tráiler Provocan Cierre en Autopista Chamapa-Lechería N+",
+          "descripcion": "Volcadura e Incendio de Tráiler Provocan Cierre en Autopista Chamapa-Lechería - N+ Noticias. Volcadura e Incendio de Tráiler Provocan Cierre en Autopista Chamapa-Lechería N+ Noticias",
           "recomendacion": "",
           "fecha": "1 septiembre 2026 · 02:52 CST",
           "fecha_iso": "2026-09-01T02:52:00-06:00",
-          "fuente": "N+",
+          "fuente": "N+ Noticias",
           "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTUlUU3NXejFCUmt1dERpS29KRmw3bWFOQmFVUzhrM0JrdW9vZS1yX0ZJYzF0dUdJTGFvM0VaeTMwSmdGWHF0Y01TUFV5QVpCdTI1eUVlZVNaVy1qLTQ0ek9odm9za1h6RWZRZXRxZWp2YUo4R3g3N3FvcEF4cDJQM3BQdkgyaDdRRENEaUpKbnItZ0h0ZlVzSGNKUmJXYzh0eXFzTUotQTg4VWVnQTlPWmRRVTY3NUdqTk5RNEVSOUsyRnBRLUxyWFIwN2d1eFZkaGpjSkFR?oc=5",
           "dot_color": "#e74c3c",
           "badge": "badge-cierre-total",
           "badge_txt": "CIERRE TOTAL"
         }
       ]
+    },
+    {
+      "tipo": "cierre_parcial",
+      "color": "amarillo",
+      "icono": "🟡",
+      "label": "CIERRE PARCIAL / ACCIDENTES",
+      "col2": true,
+      "alertas": [
+        {
+          "id": "41d21ccf",
+          "tipo": "cierre_parcial",
+          "ruta": "Anuncian cierres en la México-Querétaro por montaje de estructuras…",
+          "descripcion": "Anuncian cierres en la México-Querétaro por montaje de estructuras. TEPOTZOTLÁN, Edomex., 1 de septiembre de 2026.- Caminos y Puentes Federales (Capufe) informó que se realizarán cierres parciales en ambos sentidos de la autopista México–Querétaro, a la altura del kilómetro 88, debido a trabajos de montaje de estructuras. Las restricciones a la circulación están programadas para iniciar a las 23 horas del miércoles 2 de […]",
+          "recomendacion": "",
+          "fecha": "1 septiembre 2026 · 07:15 CST",
+          "fecha_iso": "2026-09-01T07:15:00-06:00",
+          "fuente": "Quadratin EdoMex",
+          "url": "https://edomex.quadratin.com.mx/anuncian-cierres-en-la-mexico-queretaro-por-montaje-de-estructuras/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 20.1,
+          "lon": -99.5
+        }
+      ]
     }
   ],
-  "para_mapa": []
+  "para_mapa": [
+    {
+      "id": "41d21ccf",
+      "tipo": "cierre_parcial",
+      "ruta": "Anuncian cierres en la México-Querétaro por montaje de estructuras…",
+      "descripcion": "Anuncian cierres en la México-Querétaro por montaje de estructuras. TEPOTZOTLÁN, Edomex., 1 de septiembre de 2026.- Caminos y Puentes Federales (Capufe) informó que se realizarán cierres parciales en ambos sentidos de la autopista México–Querétaro, a la altura del kilómetro 88, debido a trabajos de montaje de estructuras. Las restricciones a la circulación están programadas para iniciar a las 23 horas del miércoles 2 de […]",
+      "fecha": "1 septiembre 2026 · 07:15 CST",
+      "fuente": "Quadratin EdoMex",
+      "url": "https://edomex.quadratin.com.mx/anuncian-cierres-en-la-mexico-queretaro-por-montaje-de-estructuras/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 20.1,
+      "lon": -99.5
+    }
+  ]
 }
