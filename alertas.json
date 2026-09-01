@@ -1,9 +1,10 @@
 {
-  "ultima_actualizacion": "2026-08-31T18:13:14.600656-06:00",
-  "ultima_actualizacion_legible": "31 de agosto de 2026 · 18:13 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-08-31T23:06:42.360125-06:00",
+  "ultima_actualizacion_legible": "31 de agosto de 2026 · 23:06 CST",
+  "total": 3,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
+    "Medios regionales",
     "Telegram"
   ],
   "grupos": [
@@ -45,6 +46,29 @@
           "badge_txt": "BLOQUEO",
           "lat": 19.29,
           "lon": -99.66
+        }
+      ]
+    },
+    {
+      "tipo": "clima",
+      "color": "azul",
+      "icono": "🌧",
+      "label": "ALERTA METEOROLOGICA",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "3685c5bb",
+          "tipo": "clima",
+          "ruta": "100",
+          "descripcion": "Lluvia ocasiona cierres viales e inundaciones en la ZMG; viento alcanza los 100 km/h. Hasta el momento no se reportan personas lesionadas ni vehículos varados por la tormenta de hoy, 31 de agosto",
+          "recomendacion": "",
+          "fecha": "31 agosto 2026 · 19:23 CST",
+          "fecha_iso": "2026-08-31T19:23:00-06:00",
+          "fuente": "El Informador Jalisco",
+          "url": "https://www.informador.mx/jalisco/lluvia-ocasiona-cierres-viales-e-inundaciones-en-la-zmg-con-rachas-de-viento-de-hasta-100-kmh-20260831-0173.html",
+          "dot_color": "#3498db",
+          "badge": "badge-clima",
+          "badge_txt": "ALERTA CLIMA"
         }
       ]
     }
