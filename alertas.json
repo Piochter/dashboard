@@ -1,10 +1,11 @@
 {
-  "ultima_actualizacion": "2026-09-01T15:00:46.375427-06:00",
-  "ultima_actualizacion_legible": "1 de septiembre de 2026 · 15:00 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-09-01T17:07:41.805714-06:00",
+  "ultima_actualizacion_legible": "1 de septiembre de 2026 · 17:07 CST",
+  "total": 5,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
+    "Medios regionales",
     "Telegram"
   ],
   "grupos": [
@@ -15,6 +16,20 @@
       "label": "CIERRE TOTAL",
       "col2": false,
       "alertas": [
+        {
+          "id": "d6db0f11",
+          "tipo": "cierre_total",
+          "ruta": "Dan minuto de silencio por muerte de trabajadora de limpia…",
+          "descripcion": "Dan minuto de silencio por muerte de trabajadora de limpia tras volcadura de camioneta en Periférico. En total van siete empleados de limpieza que han fallecido producto de siniestros viales a la fecha, así lo denuncia la diputada Patricia Urriza",
+          "recomendacion": "",
+          "fecha": "1 septiembre 2026 · 10:19 CST",
+          "fecha_iso": "2026-09-01T10:19:00-06:00",
+          "fuente": "El Sol de Mexico",
+          "url": "https://oem.com.mx/elsoldemexico/metropoli/dan-minuto-de-silencio-por-muerte-de-trabajadora-de-limpia-tras-volcadura-de-camioneta-en-periferico-31847938",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL"
+        },
         {
           "id": "731aebb6",
           "tipo": "cierre_total",
@@ -28,6 +43,29 @@
           "dot_color": "#e74c3c",
           "badge": "badge-cierre-total",
           "badge_txt": "CIERRE TOTAL"
+        }
+      ]
+    },
+    {
+      "tipo": "bloqueo",
+      "color": "rojo",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "563bfe87",
+          "tipo": "bloqueo",
+          "ruta": "Bloqueos carreteras HOY 1 de septiembre: Autopistas cerradas en México,…",
+          "descripcion": "Bloqueos carreteras HOY 1 de septiembre: Autopistas cerradas en México, accidentes viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 1 de septiembre: Autopistas cerradas en México, accidentes viales y rutas alternas según CAPUFE Eje Central",
+          "recomendacion": "",
+          "fecha": "1 septiembre 2026 · 07:05 CST",
+          "fecha_iso": "2026-09-01T07:05:00-06:00",
+          "fuente": "Eje Central",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOaEkxMTAyVnlubU0xWGtVcFhNaDNENEZjSkRfZXNieU82Q3c5ZTlFQ3I3bkxpR2cwRFRMZi14TFpsUVlyYjAzajZQTWZmSFc3ZHBBdDBtSlRPc0NqREZkQnJpejQ0U3VOdngyTHFEVDJxQUg2MVFuQlhfd2VrNnEwVm5OMlRBUXNYQ001aUhMcFNCMjNfREVyckxWdDlLTlV6UU5xVkxEUHBRVlhMZGdHTTFKT3RyZGFNcGxOUy1WbjU5NXlaX0ZrSTdDZlFZQjJPM3MxM0x0OUp6cHpLbk9VVEkyNWdWbk5QWGRkNFQ5dVY?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
         }
       ]
     },
