@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-09-01T08:51:47.796340-06:00",
-  "ultima_actualizacion_legible": "1 de septiembre de 2026 · 08:51 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-09-01T12:03:53.206979-06:00",
+  "ultima_actualizacion_legible": "1 de septiembre de 2026 · 12:03 CST",
+  "total": 6,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
@@ -31,18 +31,41 @@
           "badge_txt": "CIERRE TOTAL"
         },
         {
-          "id": "0757277c",
+          "id": "000e4d6d",
           "tipo": "cierre_total",
           "ruta": "Volcadura e Incendio de Tráiler Provocan Cierre en Autopista Chamapa-Lechería…",
-          "descripcion": "Volcadura e Incendio de Tráiler Provocan Cierre en Autopista Chamapa-Lechería - N+ Noticias. Volcadura e Incendio de Tráiler Provocan Cierre en Autopista Chamapa-Lechería N+ Noticias",
+          "descripcion": "Volcadura e Incendio de Tráiler Provocan Cierre en Autopista Chamapa-Lechería - N+. Volcadura e Incendio de Tráiler Provocan Cierre en Autopista Chamapa-Lechería N+",
           "recomendacion": "",
           "fecha": "1 septiembre 2026 · 02:52 CST",
           "fecha_iso": "2026-09-01T02:52:00-06:00",
-          "fuente": "N+ Noticias",
+          "fuente": "N+",
           "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTUlUU3NXejFCUmt1dERpS29KRmw3bWFOQmFVUzhrM0JrdW9vZS1yX0ZJYzF0dUdJTGFvM0VaeTMwSmdGWHF0Y01TUFV5QVpCdTI1eUVlZVNaVy1qLTQ0ek9odm9za1h6RWZRZXRxZWp2YUo4R3g3N3FvcEF4cDJQM3BQdkgyaDdRRENEaUpKbnItZ0h0ZlVzSGNKUmJXYzh0eXFzTUotQTg4VWVnQTlPWmRRVTY3NUdqTk5RNEVSOUsyRnBRLUxyWFIwN2d1eFZkaGpjSkFR?oc=5",
           "dot_color": "#e74c3c",
           "badge": "badge-cierre-total",
           "badge_txt": "CIERRE TOTAL"
+        }
+      ]
+    },
+    {
+      "tipo": "bloqueo",
+      "color": "rojo",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "228c26f1",
+          "tipo": "bloqueo",
+          "ruta": "Bloqueos carreteras HOY 1 de septiembre: Autopistas cerradas en México,…",
+          "descripcion": "Bloqueos carreteras HOY 1 de septiembre: Autopistas cerradas en México, accidentes viales y rutas alternas según CAPUFE - ejecentral.com.mx. Bloqueos carreteras HOY 1 de septiembre: Autopistas cerradas en México, accidentes viales y rutas alternas según CAPUFE ejecentral.com.mx",
+          "recomendacion": "",
+          "fecha": "1 septiembre 2026 · 07:05 CST",
+          "fecha_iso": "2026-09-01T07:05:00-06:00",
+          "fuente": "ejecentral.com.mx",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOaEkxMTAyVnlubU0xWGtVcFhNaDNENEZjSkRfZXNieU82Q3c5ZTlFQ3I3bkxpR2cwRFRMZi14TFpsUVlyYjAzajZQTWZmSFc3ZHBBdDBtSlRPc0NqREZkQnJpejQ0U3VOdngyTHFEVDJxQUg2MVFuQlhfd2VrNnEwVm5OMlRBUXNYQ001aUhMcFNCMjNfREVyckxWdDlLTlV6UU5xVkxEUHBRVlhMZGdHTTFKT3RyZGFNcGxOUy1WbjU5NXlaX0ZrSTdDZlFZQjJPM3MxM0x0OUp6cHpLbk9VVEkyNWdWbk5QWGRkNFQ5dVY?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
         }
       ]
     },
@@ -54,33 +77,76 @@
       "col2": true,
       "alertas": [
         {
-          "id": "41d21ccf",
+          "id": "87bc0083",
           "tipo": "cierre_parcial",
-          "ruta": "Anuncian cierres en la México-Querétaro por montaje de estructuras…",
-          "descripcion": "Anuncian cierres en la México-Querétaro por montaje de estructuras. TEPOTZOTLÁN, Edomex., 1 de septiembre de 2026.- Caminos y Puentes Federales (Capufe) informó que se realizarán cierres parciales en ambos sentidos de la autopista México–Querétaro, a la altura del kilómetro 88, debido a trabajos de montaje de estructuras. Las restricciones a la circulación están programadas para iniciar a las 23 horas del miércoles 2 de […]",
+          "ruta": "Anuncian cierres nocturnos en la libre México-Cuernavaca…",
+          "descripcion": "Anuncian cierres nocturnos en la libre México-Cuernavaca. Realizará la SICT obras de drenaje del 2 al 4 de septiembre a la altura de Parres; Se recomienda tomar la autopista.",
+          "recomendacion": "Se recomienda tomar la autopista",
+          "fecha": "1 septiembre 2026 · 11:09 CST",
+          "fecha_iso": "2026-09-01T11:09:00-06:00",
+          "fuente": "Quadratin Morelos",
+          "url": "https://morelos.quadratin.com.mx/anuncian-cierres-nocturnos-en-la-libre-mexico-cuernavaca/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 18.92,
+          "lon": -99.23
+        },
+        {
+          "id": "35bc973f",
+          "tipo": "cierre_parcial",
+          "ruta": "Accidente en Chamapa-Lechería provoca caos: Más de diez horas de…",
+          "descripcion": "Accidente en Chamapa-Lechería provoca caos: Más de diez horas de tráfico que alcanza la México-Querétaro - adn40.mx. Accidente en Chamapa-Lechería provoca caos: Más de diez horas de tráfico que alcanza la México-Querétaro adn40.mx",
           "recomendacion": "",
-          "fecha": "1 septiembre 2026 · 07:15 CST",
-          "fecha_iso": "2026-09-01T07:15:00-06:00",
-          "fuente": "Quadratin EdoMex",
-          "url": "https://edomex.quadratin.com.mx/anuncian-cierres-en-la-mexico-queretaro-por-montaje-de-estructuras/",
+          "fecha": "1 septiembre 2026 · 10:49 CST",
+          "fecha_iso": "2026-09-01T10:49:00-06:00",
+          "fuente": "adn40.mx",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZkFuYnpiZnljNy1jTDhoczBiTVJ0cWY0TXZMaGFfWnZqcTN5Tlh1Ujl3bzZsQnFpdTB5ODY0ekRLaTRfQU9haVRfcFFVbzlVYjh6Yl9NQWxid3gzYXlTakFoRzdCYU12TFF2Y3o3ZklHTHd1NDRFdHFhY1Q3NmxHbTVDWlJ4LXExY2xHTkVrTzRQWlphQ1VEOUlWMzM0Yk1xbjdWSmhTS0k2V2V4N0tieUtEQXFEdjhrVGNfQzNTV3VmS29LQ0NqQTYyU2ppRnlDNGt4aEZsVDBSYkU?oc=5",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL",
           "lat": 20.1,
           "lon": -99.5
+        },
+        {
+          "id": "978e42ca",
+          "tipo": "cierre_parcial",
+          "ruta": "Autopista Chamapa-Lechería: tráiler vuelca y se incendia; reportan cierre -…",
+          "descripcion": "Autopista Chamapa-Lechería: tráiler vuelca y se incendia; reportan cierre - mvsnoticias.com. Autopista Chamapa-Lechería: tráiler vuelca y se incendia; reportan cierre mvsnoticias.com",
+          "recomendacion": "",
+          "fecha": "1 septiembre 2026 · 10:15 CST",
+          "fecha_iso": "2026-09-01T10:15:00-06:00",
+          "fuente": "mvsnoticias.com",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUm9OeVB6bmpjUG50Q0pjSXd3TnZKblJpcWFIU2FnajVUUFJFVWVoUUJxbEJfdHJmaWFmdG9VUWF2N29EWG90SnhsMm16Q09oelpQSUZwX3RmYk9zaFFsZFhpZUxWY3JfT0NPZk50c0hBZ1I5M291c0FPcDJjeHFtMDE3MU9ZNnc4c01OSmVVNVU0NDlINDhxMk8yeXFxMy1BNjlhcW5zYktDT0NScjNsN0J4Q1dGZlEwWlVsMUwxQ0JFUWFia1RjVVJfQXBSQQ?oc=5",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
         }
       ]
     }
   ],
   "para_mapa": [
     {
-      "id": "41d21ccf",
+      "id": "87bc0083",
       "tipo": "cierre_parcial",
-      "ruta": "Anuncian cierres en la México-Querétaro por montaje de estructuras…",
-      "descripcion": "Anuncian cierres en la México-Querétaro por montaje de estructuras. TEPOTZOTLÁN, Edomex., 1 de septiembre de 2026.- Caminos y Puentes Federales (Capufe) informó que se realizarán cierres parciales en ambos sentidos de la autopista México–Querétaro, a la altura del kilómetro 88, debido a trabajos de montaje de estructuras. Las restricciones a la circulación están programadas para iniciar a las 23 horas del miércoles 2 de […]",
-      "fecha": "1 septiembre 2026 · 07:15 CST",
-      "fuente": "Quadratin EdoMex",
-      "url": "https://edomex.quadratin.com.mx/anuncian-cierres-en-la-mexico-queretaro-por-montaje-de-estructuras/",
+      "ruta": "Anuncian cierres nocturnos en la libre México-Cuernavaca…",
+      "descripcion": "Anuncian cierres nocturnos en la libre México-Cuernavaca. Realizará la SICT obras de drenaje del 2 al 4 de septiembre a la altura de Parres; Se recomienda tomar la autopista.",
+      "fecha": "1 septiembre 2026 · 11:09 CST",
+      "fuente": "Quadratin Morelos",
+      "url": "https://morelos.quadratin.com.mx/anuncian-cierres-nocturnos-en-la-libre-mexico-cuernavaca/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 18.92,
+      "lon": -99.23
+    },
+    {
+      "id": "35bc973f",
+      "tipo": "cierre_parcial",
+      "ruta": "Accidente en Chamapa-Lechería provoca caos: Más de diez horas de…",
+      "descripcion": "Accidente en Chamapa-Lechería provoca caos: Más de diez horas de tráfico que alcanza la México-Querétaro - adn40.mx. Accidente en Chamapa-Lechería provoca caos: Más de diez horas de tráfico que alcanza la México-Querétaro adn40.mx",
+      "fecha": "1 septiembre 2026 · 10:49 CST",
+      "fuente": "adn40.mx",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZkFuYnpiZnljNy1jTDhoczBiTVJ0cWY0TXZMaGFfWnZqcTN5Tlh1Ujl3bzZsQnFpdTB5ODY0ekRLaTRfQU9haVRfcFFVbzlVYjh6Yl9NQWxid3gzYXlTakFoRzdCYU12TFF2Y3o3ZklHTHd1NDRFdHFhY1Q3NmxHbTVDWlJ4LXExY2xHTkVrTzRQWlphQ1VEOUlWMzM0Yk1xbjdWSmhTS0k2V2V4N0tieUtEQXFEdjhrVGNfQzNTV3VmS29LQ0NqQTYyU2ppRnlDNGt4aEZsVDBSYkU?oc=5",
       "dot_color": "#e67e22",
       "badge_txt": "CIERRE PARCIAL",
       "lat": 20.1,
