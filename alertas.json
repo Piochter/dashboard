@@ -1,11 +1,10 @@
 {
-  "ultima_actualizacion": "2026-09-01T12:03:53.206979-06:00",
-  "ultima_actualizacion_legible": "1 de septiembre de 2026 · 12:03 CST",
-  "total": 6,
+  "ultima_actualizacion": "2026-09-01T15:00:46.375427-06:00",
+  "ultima_actualizacion_legible": "1 de septiembre de 2026 · 15:00 CST",
+  "total": 3,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
-    "Quadratin + regionales",
     "Telegram"
   ],
   "grupos": [
@@ -29,43 +28,6 @@
           "dot_color": "#e74c3c",
           "badge": "badge-cierre-total",
           "badge_txt": "CIERRE TOTAL"
-        },
-        {
-          "id": "000e4d6d",
-          "tipo": "cierre_total",
-          "ruta": "Volcadura e Incendio de Tráiler Provocan Cierre en Autopista Chamapa-Lechería…",
-          "descripcion": "Volcadura e Incendio de Tráiler Provocan Cierre en Autopista Chamapa-Lechería - N+. Volcadura e Incendio de Tráiler Provocan Cierre en Autopista Chamapa-Lechería N+",
-          "recomendacion": "",
-          "fecha": "1 septiembre 2026 · 02:52 CST",
-          "fecha_iso": "2026-09-01T02:52:00-06:00",
-          "fuente": "N+",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTUlUU3NXejFCUmt1dERpS29KRmw3bWFOQmFVUzhrM0JrdW9vZS1yX0ZJYzF0dUdJTGFvM0VaeTMwSmdGWHF0Y01TUFV5QVpCdTI1eUVlZVNaVy1qLTQ0ek9odm9za1h6RWZRZXRxZWp2YUo4R3g3N3FvcEF4cDJQM3BQdkgyaDdRRENEaUpKbnItZ0h0ZlVzSGNKUmJXYzh0eXFzTUotQTg4VWVnQTlPWmRRVTY3NUdqTk5RNEVSOUsyRnBRLUxyWFIwN2d1eFZkaGpjSkFR?oc=5",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL"
-        }
-      ]
-    },
-    {
-      "tipo": "bloqueo",
-      "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "228c26f1",
-          "tipo": "bloqueo",
-          "ruta": "Bloqueos carreteras HOY 1 de septiembre: Autopistas cerradas en México,…",
-          "descripcion": "Bloqueos carreteras HOY 1 de septiembre: Autopistas cerradas en México, accidentes viales y rutas alternas según CAPUFE - ejecentral.com.mx. Bloqueos carreteras HOY 1 de septiembre: Autopistas cerradas en México, accidentes viales y rutas alternas según CAPUFE ejecentral.com.mx",
-          "recomendacion": "",
-          "fecha": "1 septiembre 2026 · 07:05 CST",
-          "fecha_iso": "2026-09-01T07:05:00-06:00",
-          "fuente": "ejecentral.com.mx",
-          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOaEkxMTAyVnlubU0xWGtVcFhNaDNENEZjSkRfZXNieU82Q3c5ZTlFQ3I3bkxpR2cwRFRMZi14TFpsUVlyYjAzajZQTWZmSFc3ZHBBdDBtSlRPc0NqREZkQnJpejQ0U3VOdngyTHFEVDJxQUg2MVFuQlhfd2VrNnEwVm5OMlRBUXNYQ001aUhMcFNCMjNfREVyckxWdDlLTlV6UU5xVkxEUHBRVlhMZGdHTTFKT3RyZGFNcGxOUy1WbjU5NXlaX0ZrSTdDZlFZQjJPM3MxM0x0OUp6cHpLbk9VVEkyNWdWbk5QWGRkNFQ5dVY?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
         }
       ]
     },
@@ -76,22 +38,6 @@
       "label": "CIERRE PARCIAL / ACCIDENTES",
       "col2": true,
       "alertas": [
-        {
-          "id": "87bc0083",
-          "tipo": "cierre_parcial",
-          "ruta": "Anuncian cierres nocturnos en la libre México-Cuernavaca…",
-          "descripcion": "Anuncian cierres nocturnos en la libre México-Cuernavaca. Realizará la SICT obras de drenaje del 2 al 4 de septiembre a la altura de Parres; Se recomienda tomar la autopista.",
-          "recomendacion": "Se recomienda tomar la autopista",
-          "fecha": "1 septiembre 2026 · 11:09 CST",
-          "fecha_iso": "2026-09-01T11:09:00-06:00",
-          "fuente": "Quadratin Morelos",
-          "url": "https://morelos.quadratin.com.mx/anuncian-cierres-nocturnos-en-la-libre-mexico-cuernavaca/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 18.92,
-          "lon": -99.23
-        },
         {
           "id": "35bc973f",
           "tipo": "cierre_parcial",
@@ -109,14 +55,14 @@
           "lon": -99.5
         },
         {
-          "id": "978e42ca",
+          "id": "86f59cd7",
           "tipo": "cierre_parcial",
           "ruta": "Autopista Chamapa-Lechería: tráiler vuelca y se incendia; reportan cierre -…",
-          "descripcion": "Autopista Chamapa-Lechería: tráiler vuelca y se incendia; reportan cierre - mvsnoticias.com. Autopista Chamapa-Lechería: tráiler vuelca y se incendia; reportan cierre mvsnoticias.com",
+          "descripcion": "Autopista Chamapa-Lechería: tráiler vuelca y se incendia; reportan cierre - MVS Noticias. Autopista Chamapa-Lechería: tráiler vuelca y se incendia; reportan cierre MVS Noticias",
           "recomendacion": "",
           "fecha": "1 septiembre 2026 · 10:15 CST",
           "fecha_iso": "2026-09-01T10:15:00-06:00",
-          "fuente": "mvsnoticias.com",
+          "fuente": "MVS Noticias",
           "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUm9OeVB6bmpjUG50Q0pjSXd3TnZKblJpcWFIU2FnajVUUFJFVWVoUUJxbEJfdHJmaWFmdG9VUWF2N29EWG90SnhsMm16Q09oelpQSUZwX3RmYk9zaFFsZFhpZUxWY3JfT0NPZk50c0hBZ1I5M291c0FPcDJjeHFtMDE3MU9ZNnc4c01OSmVVNVU0NDlINDhxMk8yeXFxMy1BNjlhcW5zYktDT0NScjNsN0J4Q1dGZlEwWlVsMUwxQ0JFUWFia1RjVVJfQXBSQQ?oc=5",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
@@ -126,19 +72,6 @@
     }
   ],
   "para_mapa": [
-    {
-      "id": "87bc0083",
-      "tipo": "cierre_parcial",
-      "ruta": "Anuncian cierres nocturnos en la libre México-Cuernavaca…",
-      "descripcion": "Anuncian cierres nocturnos en la libre México-Cuernavaca. Realizará la SICT obras de drenaje del 2 al 4 de septiembre a la altura de Parres; Se recomienda tomar la autopista.",
-      "fecha": "1 septiembre 2026 · 11:09 CST",
-      "fuente": "Quadratin Morelos",
-      "url": "https://morelos.quadratin.com.mx/anuncian-cierres-nocturnos-en-la-libre-mexico-cuernavaca/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 18.92,
-      "lon": -99.23
-    },
     {
       "id": "35bc973f",
       "tipo": "cierre_parcial",
