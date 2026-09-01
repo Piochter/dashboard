@@ -1,104 +1,35 @@
 {
-  "ultima_actualizacion": "2026-08-31T23:06:42.360125-06:00",
-  "ultima_actualizacion_legible": "31 de agosto de 2026 · 23:06 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-09-01T04:03:33.771841-06:00",
+  "ultima_actualizacion_legible": "1 de septiembre de 2026 · 04:03 CST",
+  "total": 1,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Medios regionales",
-    "Telegram"
+    "Google News"
   ],
   "grupos": [
     {
-      "tipo": "bloqueo",
+      "tipo": "cierre_total",
       "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
+      "icono": "🔴",
+      "label": "CIERRE TOTAL",
       "col2": false,
       "alertas": [
         {
-          "id": "0c8e9b07",
-          "tipo": "bloqueo",
-          "ruta": "La desaparición de Ayline Guadalupe Gutiérrez de la Cruz, de…",
-          "descripcion": "La desaparición de Ayline Guadalupe Gutiérrez de la Cruz, de 13 años, derivó de un bloqueo en la México-Toluca; señalan a su novio como presunto responsable.\nhttps://lajornadaestadodemexico.com/familiares-de-ayline-guadalupe-exigen-localizacion-bloqueo-mexico-toluca/",
+          "id": "000e4d6d",
+          "tipo": "cierre_total",
+          "ruta": "Volcadura e Incendio de Tráiler Provocan Cierre en Autopista Chamapa-Lechería…",
+          "descripcion": "Volcadura e Incendio de Tráiler Provocan Cierre en Autopista Chamapa-Lechería - N+. Volcadura e Incendio de Tráiler Provocan Cierre en Autopista Chamapa-Lechería N+",
           "recomendacion": "",
-          "fecha": "31 agosto 2026 · 13:44 CST",
-          "fecha_iso": "2026-08-31T13:44:00-06:00",
-          "fuente": "Telegram @jornadaedomex",
-          "url": "https://t.me/jornadaedomex/11885",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 19.29,
-          "lon": -99.66
-        },
-        {
-          "id": "118f7b94",
-          "tipo": "bloqueo",
-          "ruta": "🚧#AlertaVial | Bloqueo en la México-Toluca por menor desaparecida complica…",
-          "descripcion": "🚧#AlertaVial | Bloqueo en la México-Toluca por menor desaparecida complica la circulación 👇\nhttps://lajornadaestadodemexico.com/bloqueo-en-la-mexico-toluca-por-menor-desaparecida-complica-la-circulacion/",
-          "recomendacion": "",
-          "fecha": "31 agosto 2026 · 12:49 CST",
-          "fecha_iso": "2026-08-31T12:49:00-06:00",
-          "fuente": "Telegram @jornadaedomex",
-          "url": "https://t.me/jornadaedomex/11882",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 19.29,
-          "lon": -99.66
-        }
-      ]
-    },
-    {
-      "tipo": "clima",
-      "color": "azul",
-      "icono": "🌧",
-      "label": "ALERTA METEOROLOGICA",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "3685c5bb",
-          "tipo": "clima",
-          "ruta": "100",
-          "descripcion": "Lluvia ocasiona cierres viales e inundaciones en la ZMG; viento alcanza los 100 km/h. Hasta el momento no se reportan personas lesionadas ni vehículos varados por la tormenta de hoy, 31 de agosto",
-          "recomendacion": "",
-          "fecha": "31 agosto 2026 · 19:23 CST",
-          "fecha_iso": "2026-08-31T19:23:00-06:00",
-          "fuente": "El Informador Jalisco",
-          "url": "https://www.informador.mx/jalisco/lluvia-ocasiona-cierres-viales-e-inundaciones-en-la-zmg-con-rachas-de-viento-de-hasta-100-kmh-20260831-0173.html",
-          "dot_color": "#3498db",
-          "badge": "badge-clima",
-          "badge_txt": "ALERTA CLIMA"
+          "fecha": "1 septiembre 2026 · 02:52 CST",
+          "fecha_iso": "2026-09-01T02:52:00-06:00",
+          "fuente": "N+",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTUlUU3NXejFCUmt1dERpS29KRmw3bWFOQmFVUzhrM0JrdW9vZS1yX0ZJYzF0dUdJTGFvM0VaeTMwSmdGWHF0Y01TUFV5QVpCdTI1eUVlZVNaVy1qLTQ0ek9odm9za1h6RWZRZXRxZWp2YUo4R3g3N3FvcEF4cDJQM3BQdkgyaDdRRENEaUpKbnItZ0h0ZlVzSGNKUmJXYzh0eXFzTUotQTg4VWVnQTlPWmRRVTY3NUdqTk5RNEVSOUsyRnBRLUxyWFIwN2d1eFZkaGpjSkFR?oc=5",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL"
         }
       ]
     }
   ],
-  "para_mapa": [
-    {
-      "id": "0c8e9b07",
-      "tipo": "bloqueo",
-      "ruta": "La desaparición de Ayline Guadalupe Gutiérrez de la Cruz, de…",
-      "descripcion": "La desaparición de Ayline Guadalupe Gutiérrez de la Cruz, de 13 años, derivó de un bloqueo en la México-Toluca; señalan a su novio como presunto responsable.\nhttps://lajornadaestadodemexico.com/familiares-de-ayline-guadalupe-exigen-localizacion-bloqueo-mexico-toluca/",
-      "fecha": "31 agosto 2026 · 13:44 CST",
-      "fuente": "Telegram @jornadaedomex",
-      "url": "https://t.me/jornadaedomex/11885",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 19.29,
-      "lon": -99.66
-    },
-    {
-      "id": "118f7b94",
-      "tipo": "bloqueo",
-      "ruta": "🚧#AlertaVial | Bloqueo en la México-Toluca por menor desaparecida complica…",
-      "descripcion": "🚧#AlertaVial | Bloqueo en la México-Toluca por menor desaparecida complica la circulación 👇\nhttps://lajornadaestadodemexico.com/bloqueo-en-la-mexico-toluca-por-menor-desaparecida-complica-la-circulacion/",
-      "fecha": "31 agosto 2026 · 12:49 CST",
-      "fuente": "Telegram @jornadaedomex",
-      "url": "https://t.me/jornadaedomex/11882",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 19.29,
-      "lon": -99.66
-    }
-  ]
+  "para_mapa": []
 }
