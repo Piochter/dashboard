@@ -1,10 +1,10 @@
 {
-  "ultima_actualizacion": "2026-09-02T14:06:57.279622-06:00",
-  "ultima_actualizacion_legible": "2 de septiembre de 2026 · 14:06 CST",
+  "ultima_actualizacion": "2026-09-02T16:36:56.746502-06:00",
+  "ultima_actualizacion_legible": "2 de septiembre de 2026 · 16:36 CST",
   "total": 5,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Medios regionales",
+    "Quadratin + regionales",
     "Telegram"
   ],
   "grupos": [
@@ -41,15 +41,15 @@
       "col2": true,
       "alertas": [
         {
-          "id": "8c3d7e69",
+          "id": "f23247af",
           "tipo": "cierre_parcial",
-          "ruta": "carretera a Zapotlanejo deja cinco personas lesionadas",
-          "descripcion": "Carambola en carretera a Zapotlanejo deja cinco personas lesionadas. Un choque múltiple ocurrido la mañana de este miércoles en la carretera a Zapotlanejo, a la altura de la colonia Rey Xolotl en Tonalá, dejó cinco personas lesionadas con heridas de leves a regulares",
+          "ruta": "carretera de Ciudad Serdán",
+          "descripcion": "Choque de motos deja 2 menores muertos en carretera de Ciudad Serdán. Fallecen dos menores tras choque de motos en Ciudad Serdán",
           "recomendacion": "",
-          "fecha": "2 septiembre 2026 · 11:53 CST",
-          "fecha_iso": "2026-09-02T11:53:00-06:00",
-          "fuente": "El Informador Jalisco",
-          "url": "https://www.informador.mx/jalisco/carambola-en-carretera-a-zapotlanejo-deja-cinco-personas-lesionadas-20260902-0088.html",
+          "fecha": "2 septiembre 2026 · 13:34 CST",
+          "fecha_iso": "2026-09-02T13:34:00-06:00",
+          "fuente": "Quadratin Puebla",
+          "url": "https://puebla.quadratin.com.mx/sucesos/choque-de-motos-deja-2-menores-muertos-en-carretera-de-ciudad-serdan/",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL"
