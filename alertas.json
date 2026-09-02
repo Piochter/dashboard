@@ -1,6 +1,6 @@
 {
-  "ultima_actualizacion": "2026-09-01T23:33:57.394566-06:00",
-  "ultima_actualizacion_legible": "1 de septiembre de 2026 · 23:33 CST",
+  "ultima_actualizacion": "2026-09-02T03:54:44.283559-06:00",
+  "ultima_actualizacion_legible": "2 de septiembre de 2026 · 03:54 CST",
   "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
@@ -16,14 +16,14 @@
       "col2": true,
       "alertas": [
         {
-          "id": "774ed6e5",
+          "id": "331ea4a0",
           "tipo": "cierre_parcial",
-          "ruta": "Tráiler Termina Volcado durante Accidente sobre Autopista Puebla-Orizaba - N+…",
-          "descripcion": "Tráiler Termina Volcado durante Accidente sobre Autopista Puebla-Orizaba - N+. Tráiler Termina Volcado durante Accidente sobre Autopista Puebla-Orizaba N+",
+          "ruta": "Autopista Puebla-Orizaba - nmas",
+          "descripcion": "Tráiler Termina Volcado durante Accidente sobre Autopista Puebla-Orizaba - nmas.com.mx. Tráiler Termina Volcado durante Accidente sobre Autopista Puebla-Orizaba nmas.com.mx",
           "recomendacion": "",
           "fecha": "1 septiembre 2026 · 19:19 CST",
           "fecha_iso": "2026-09-01T19:19:00-06:00",
-          "fuente": "N+",
+          "fuente": "nmas.com.mx",
           "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNTTgxTk9CWXNLRnhfb3dIajgtNHU2UHh2VHB2OERtbDduYzlkMkZvNm56N2h3TDM2S1JnSV9wM2lDaVZfM3hBbVBlVS1uakJqWTJoNWdRM01rbXh1UGdKWjF3MVA2aVVCZUlHTm5NaE9nUHA3cy05VjJrcFdJeEpsMHoyQm9DaUpJUEtUQlg2Y296TUJtOV91N0Vwd2hzRXNabXZFQV93YjJIYkpGYjY5RkZXUVNzUVhSSWRzNGwxWjdvNjZWMVhzZHBqUWpRZlh1Z2o2NmJrZk5Bdw?oc=5",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
@@ -74,12 +74,12 @@
       "lon": -98.2
     },
     {
-      "id": "774ed6e5",
+      "id": "331ea4a0",
       "tipo": "cierre_parcial",
-      "ruta": "Tráiler Termina Volcado durante Accidente sobre Autopista Puebla-Orizaba - N+…",
-      "descripcion": "Tráiler Termina Volcado durante Accidente sobre Autopista Puebla-Orizaba - N+. Tráiler Termina Volcado durante Accidente sobre Autopista Puebla-Orizaba N+",
+      "ruta": "Autopista Puebla-Orizaba - nmas",
+      "descripcion": "Tráiler Termina Volcado durante Accidente sobre Autopista Puebla-Orizaba - nmas.com.mx. Tráiler Termina Volcado durante Accidente sobre Autopista Puebla-Orizaba nmas.com.mx",
       "fecha": "1 septiembre 2026 · 19:19 CST",
-      "fuente": "N+",
+      "fuente": "nmas.com.mx",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNTTgxTk9CWXNLRnhfb3dIajgtNHU2UHh2VHB2OERtbDduYzlkMkZvNm56N2h3TDM2S1JnSV9wM2lDaVZfM3hBbVBlVS1uakJqWTJoNWdRM01rbXh1UGdKWjF3MVA2aVVCZUlHTm5NaE9nUHA3cy05VjJrcFdJeEpsMHoyQm9DaUpJUEtUQlg2Y296TUJtOV91N0Vwd2hzRXNabXZFQV93YjJIYkpGYjY5RkZXUVNzUVhSSWRzNGwxWjdvNjZWMVhzZHBqUWpRZlh1Z2o2NmJrZk5Bdw?oc=5",
       "dot_color": "#e67e22",
       "badge_txt": "CIERRE PARCIAL",
