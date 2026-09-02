@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-09-01T17:07:41.805714-06:00",
-  "ultima_actualizacion_legible": "1 de septiembre de 2026 · 17:07 CST",
-  "total": 5,
+  "ultima_actualizacion": "2026-09-01T19:01:04.943706-06:00",
+  "ultima_actualizacion_legible": "1 de septiembre de 2026 · 19:01 CST",
+  "total": 4,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
@@ -77,22 +77,6 @@
       "col2": true,
       "alertas": [
         {
-          "id": "35bc973f",
-          "tipo": "cierre_parcial",
-          "ruta": "Accidente en Chamapa-Lechería provoca caos: Más de diez horas de…",
-          "descripcion": "Accidente en Chamapa-Lechería provoca caos: Más de diez horas de tráfico que alcanza la México-Querétaro - adn40.mx. Accidente en Chamapa-Lechería provoca caos: Más de diez horas de tráfico que alcanza la México-Querétaro adn40.mx",
-          "recomendacion": "",
-          "fecha": "1 septiembre 2026 · 10:49 CST",
-          "fecha_iso": "2026-09-01T10:49:00-06:00",
-          "fuente": "adn40.mx",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZkFuYnpiZnljNy1jTDhoczBiTVJ0cWY0TXZMaGFfWnZqcTN5Tlh1Ujl3bzZsQnFpdTB5ODY0ekRLaTRfQU9haVRfcFFVbzlVYjh6Yl9NQWxid3gzYXlTakFoRzdCYU12TFF2Y3o3ZklHTHd1NDRFdHFhY1Q3NmxHbTVDWlJ4LXExY2xHTkVrTzRQWlphQ1VEOUlWMzM0Yk1xbjdWSmhTS0k2V2V4N0tieUtEQXFEdjhrVGNfQzNTV3VmS29LQ0NqQTYyU2ppRnlDNGt4aEZsVDBSYkU?oc=5",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 20.1,
-          "lon": -99.5
-        },
-        {
           "id": "86f59cd7",
           "tipo": "cierre_parcial",
           "ruta": "Autopista Chamapa-Lechería: tráiler vuelca y se incendia; reportan cierre -…",
@@ -109,19 +93,5 @@
       ]
     }
   ],
-  "para_mapa": [
-    {
-      "id": "35bc973f",
-      "tipo": "cierre_parcial",
-      "ruta": "Accidente en Chamapa-Lechería provoca caos: Más de diez horas de…",
-      "descripcion": "Accidente en Chamapa-Lechería provoca caos: Más de diez horas de tráfico que alcanza la México-Querétaro - adn40.mx. Accidente en Chamapa-Lechería provoca caos: Más de diez horas de tráfico que alcanza la México-Querétaro adn40.mx",
-      "fecha": "1 septiembre 2026 · 10:49 CST",
-      "fuente": "adn40.mx",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZkFuYnpiZnljNy1jTDhoczBiTVJ0cWY0TXZMaGFfWnZqcTN5Tlh1Ujl3bzZsQnFpdTB5ODY0ekRLaTRfQU9haVRfcFFVbzlVYjh6Yl9NQWxid3gzYXlTakFoRzdCYU12TFF2Y3o3ZklHTHd1NDRFdHFhY1Q3NmxHbTVDWlJ4LXExY2xHTkVrTzRQWlphQ1VEOUlWMzM0Yk1xbjdWSmhTS0k2V2V4N0tieUtEQXFEdjhrVGNfQzNTV3VmS29LQ0NqQTYyU2ppRnlDNGt4aEZsVDBSYkU?oc=5",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 20.1,
-      "lon": -99.5
-    }
-  ]
+  "para_mapa": []
 }
