@@ -1,74 +1,13 @@
 {
-  "ultima_actualizacion": "2026-09-01T19:01:04.943706-06:00",
-  "ultima_actualizacion_legible": "1 de septiembre de 2026 · 19:01 CST",
-  "total": 4,
+  "ultima_actualizacion": "2026-09-01T23:33:57.394566-06:00",
+  "ultima_actualizacion_legible": "1 de septiembre de 2026 · 23:33 CST",
+  "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
-    "Medios regionales",
-    "Telegram"
+    "Quadratin + regionales"
   ],
   "grupos": [
-    {
-      "tipo": "cierre_total",
-      "color": "rojo",
-      "icono": "🔴",
-      "label": "CIERRE TOTAL",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "d6db0f11",
-          "tipo": "cierre_total",
-          "ruta": "Dan minuto de silencio por muerte de trabajadora de limpia…",
-          "descripcion": "Dan minuto de silencio por muerte de trabajadora de limpia tras volcadura de camioneta en Periférico. En total van siete empleados de limpieza que han fallecido producto de siniestros viales a la fecha, así lo denuncia la diputada Patricia Urriza",
-          "recomendacion": "",
-          "fecha": "1 septiembre 2026 · 10:19 CST",
-          "fecha_iso": "2026-09-01T10:19:00-06:00",
-          "fuente": "El Sol de Mexico",
-          "url": "https://oem.com.mx/elsoldemexico/metropoli/dan-minuto-de-silencio-por-muerte-de-trabajadora-de-limpia-tras-volcadura-de-camioneta-en-periferico-31847938",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL"
-        },
-        {
-          "id": "731aebb6",
-          "tipo": "cierre_total",
-          "ruta": "🚧Accidente en la #Chamapa-#Lechería, continúa cierre a la circulación tras…",
-          "descripcion": "🚧Accidente en la #Chamapa-#Lechería, continúa cierre a la circulación tras la volcadura de un tráiler durante la noche y madrugada 👇\nhttps://lajornadaestadodemexico.com/trailer-choca-vuelca-y-se-incendia-en-la-chamapa-lecheria",
-          "recomendacion": "",
-          "fecha": "1 septiembre 2026 · 07:25 CST",
-          "fecha_iso": "2026-09-01T07:25:00-06:00",
-          "fuente": "Telegram @jornadaedomex",
-          "url": "https://t.me/jornadaedomex/11893",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL"
-        }
-      ]
-    },
-    {
-      "tipo": "bloqueo",
-      "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "563bfe87",
-          "tipo": "bloqueo",
-          "ruta": "Bloqueos carreteras HOY 1 de septiembre: Autopistas cerradas en México,…",
-          "descripcion": "Bloqueos carreteras HOY 1 de septiembre: Autopistas cerradas en México, accidentes viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 1 de septiembre: Autopistas cerradas en México, accidentes viales y rutas alternas según CAPUFE Eje Central",
-          "recomendacion": "",
-          "fecha": "1 septiembre 2026 · 07:05 CST",
-          "fecha_iso": "2026-09-01T07:05:00-06:00",
-          "fuente": "Eje Central",
-          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOaEkxMTAyVnlubU0xWGtVcFhNaDNENEZjSkRfZXNieU82Q3c5ZTlFQ3I3bkxpR2cwRFRMZi14TFpsUVlyYjAzajZQTWZmSFc3ZHBBdDBtSlRPc0NqREZkQnJpejQ0U3VOdngyTHFEVDJxQUg2MVFuQlhfd2VrNnEwVm5OMlRBUXNYQ001aUhMcFNCMjNfREVyckxWdDlLTlV6UU5xVkxEUHBRVlhMZGdHTTFKT3RyZGFNcGxOUy1WbjU5NXlaX0ZrSTdDZlFZQjJPM3MxM0x0OUp6cHpLbk9VVEkyNWdWbk5QWGRkNFQ5dVY?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        }
-      ]
-    },
     {
       "tipo": "cierre_parcial",
       "color": "amarillo",
@@ -77,21 +16,75 @@
       "col2": true,
       "alertas": [
         {
-          "id": "86f59cd7",
+          "id": "774ed6e5",
           "tipo": "cierre_parcial",
-          "ruta": "Autopista Chamapa-Lechería: tráiler vuelca y se incendia; reportan cierre -…",
-          "descripcion": "Autopista Chamapa-Lechería: tráiler vuelca y se incendia; reportan cierre - MVS Noticias. Autopista Chamapa-Lechería: tráiler vuelca y se incendia; reportan cierre MVS Noticias",
+          "ruta": "Tráiler Termina Volcado durante Accidente sobre Autopista Puebla-Orizaba - N+…",
+          "descripcion": "Tráiler Termina Volcado durante Accidente sobre Autopista Puebla-Orizaba - N+. Tráiler Termina Volcado durante Accidente sobre Autopista Puebla-Orizaba N+",
           "recomendacion": "",
-          "fecha": "1 septiembre 2026 · 10:15 CST",
-          "fecha_iso": "2026-09-01T10:15:00-06:00",
-          "fuente": "MVS Noticias",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUm9OeVB6bmpjUG50Q0pjSXd3TnZKblJpcWFIU2FnajVUUFJFVWVoUUJxbEJfdHJmaWFmdG9VUWF2N29EWG90SnhsMm16Q09oelpQSUZwX3RmYk9zaFFsZFhpZUxWY3JfT0NPZk50c0hBZ1I5M291c0FPcDJjeHFtMDE3MU9ZNnc4c01OSmVVNVU0NDlINDhxMk8yeXFxMy1BNjlhcW5zYktDT0NScjNsN0J4Q1dGZlEwWlVsMUwxQ0JFUWFia1RjVVJfQXBSQQ?oc=5",
+          "fecha": "1 septiembre 2026 · 19:19 CST",
+          "fecha_iso": "2026-09-01T19:19:00-06:00",
+          "fuente": "N+",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNTTgxTk9CWXNLRnhfb3dIajgtNHU2UHh2VHB2OERtbDduYzlkMkZvNm56N2h3TDM2S1JnSV9wM2lDaVZfM3hBbVBlVS1uakJqWTJoNWdRM01rbXh1UGdKWjF3MVA2aVVCZUlHTm5NaE9nUHA3cy05VjJrcFdJeEpsMHoyQm9DaUpJUEtUQlg2Y296TUJtOV91N0Vwd2hzRXNabXZFQV93YjJIYkpGYjY5RkZXUVNzUVhSSWRzNGwxWjdvNjZWMVhzZHBqUWpRZlh1Z2o2NmJrZk5Bdw?oc=5",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 19.04,
+          "lon": -98.2
+        }
+      ]
+    },
+    {
+      "tipo": "clima",
+      "color": "azul",
+      "icono": "🌧",
+      "label": "ALERTA METEOROLOGICA",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "8838814c",
+          "tipo": "clima",
+          "ruta": "Fuertes lluvias provocan inundaciones, cierres viales y apagones en Puebla…",
+          "descripcion": "Fuertes lluvias provocan inundaciones, cierres viales y apagones en Puebla. Caos por tormenta en Puebla: vialidades cerradas y sin luz",
+          "recomendacion": "",
+          "fecha": "1 septiembre 2026 · 19:48 CST",
+          "fecha_iso": "2026-09-01T19:48:00-06:00",
+          "fuente": "Quadratin Puebla",
+          "url": "https://puebla.quadratin.com.mx/sucesos/fuertes-lluvias-provocan-inundaciones-cierres-viales-y-apagones-en-puebla/",
+          "dot_color": "#3498db",
+          "badge": "badge-clima",
+          "badge_txt": "ALERTA CLIMA",
+          "lat": 19.04,
+          "lon": -98.2
         }
       ]
     }
   ],
-  "para_mapa": []
+  "para_mapa": [
+    {
+      "id": "8838814c",
+      "tipo": "clima",
+      "ruta": "Fuertes lluvias provocan inundaciones, cierres viales y apagones en Puebla…",
+      "descripcion": "Fuertes lluvias provocan inundaciones, cierres viales y apagones en Puebla. Caos por tormenta en Puebla: vialidades cerradas y sin luz",
+      "fecha": "1 septiembre 2026 · 19:48 CST",
+      "fuente": "Quadratin Puebla",
+      "url": "https://puebla.quadratin.com.mx/sucesos/fuertes-lluvias-provocan-inundaciones-cierres-viales-y-apagones-en-puebla/",
+      "dot_color": "#3498db",
+      "badge_txt": "ALERTA CLIMA",
+      "lat": 19.04,
+      "lon": -98.2
+    },
+    {
+      "id": "774ed6e5",
+      "tipo": "cierre_parcial",
+      "ruta": "Tráiler Termina Volcado durante Accidente sobre Autopista Puebla-Orizaba - N+…",
+      "descripcion": "Tráiler Termina Volcado durante Accidente sobre Autopista Puebla-Orizaba - N+. Tráiler Termina Volcado durante Accidente sobre Autopista Puebla-Orizaba N+",
+      "fecha": "1 septiembre 2026 · 19:19 CST",
+      "fuente": "N+",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNTTgxTk9CWXNLRnhfb3dIajgtNHU2UHh2VHB2OERtbDduYzlkMkZvNm56N2h3TDM2S1JnSV9wM2lDaVZfM3hBbVBlVS1uakJqWTJoNWdRM01rbXh1UGdKWjF3MVA2aVVCZUlHTm5NaE9nUHA3cy05VjJrcFdJeEpsMHoyQm9DaUpJUEtUQlg2Y296TUJtOV91N0Vwd2hzRXNabXZFQV93YjJIYkpGYjY5RkZXUVNzUVhSSWRzNGwxWjdvNjZWMVhzZHBqUWpRZlh1Z2o2NmJrZk5Bdw?oc=5",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 19.04,
+      "lon": -98.2
+    }
+  ]
 }
