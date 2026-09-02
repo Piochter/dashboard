@@ -1,11 +1,10 @@
 {
-  "ultima_actualizacion": "2026-09-02T03:54:44.283559-06:00",
-  "ultima_actualizacion_legible": "2 de septiembre de 2026 · 03:54 CST",
+  "ultima_actualizacion": "2026-09-02T07:58:15.977018-06:00",
+  "ultima_actualizacion_legible": "2 de septiembre de 2026 · 07:58 CST",
   "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News",
-    "Quadratin + regionales"
+    "Telegram"
   ],
   "grupos": [
     {
@@ -16,75 +15,66 @@
       "col2": true,
       "alertas": [
         {
-          "id": "331ea4a0",
+          "id": "1e9063e6",
           "tipo": "cierre_parcial",
-          "ruta": "Autopista Puebla-Orizaba - nmas",
-          "descripcion": "Tráiler Termina Volcado durante Accidente sobre Autopista Puebla-Orizaba - nmas.com.mx. Tráiler Termina Volcado durante Accidente sobre Autopista Puebla-Orizaba nmas.com.mx",
-          "recomendacion": "",
-          "fecha": "1 septiembre 2026 · 19:19 CST",
-          "fecha_iso": "2026-09-01T19:19:00-06:00",
-          "fuente": "nmas.com.mx",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNTTgxTk9CWXNLRnhfb3dIajgtNHU2UHh2VHB2OERtbDduYzlkMkZvNm56N2h3TDM2S1JnSV9wM2lDaVZfM3hBbVBlVS1uakJqWTJoNWdRM01rbXh1UGdKWjF3MVA2aVVCZUlHTm5NaE9nUHA3cy05VjJrcFdJeEpsMHoyQm9DaUpJUEtUQlg2Y296TUJtOV91N0Vwd2hzRXNabXZFQV93YjJIYkpGYjY5RkZXUVNzUVhSSWRzNGwxWjdvNjZWMVhzZHBqUWpRZlh1Z2o2NmJrZk5Bdw?oc=5",
+          "ruta": "🚧#ReporteVial | Reportan tránsito lento en la #México-#Toluca rumbo a…",
+          "descripcion": "🚧#ReporteVial | Reportan tránsito lento en la #México-#Toluca rumbo a #CDMX, debido a trabajos de obra que se realizan en distintos puntos del camino.\n\n⚠️Se recomienda salir con tiempo\n\nhttps://lajornadaestadodemexico.com/mexico-toluca-registra-fuerte-accidente-durante-la-madrugada-y-transito-lento-hacia-cdmx/",
+          "recomendacion": "Se recomienda salir con tiempo",
+          "fecha": "2 septiembre 2026 · 07:12 CST",
+          "fecha_iso": "2026-09-02T07:12:00-06:00",
+          "fuente": "Telegram @jornadaedomex",
+          "url": "https://t.me/jornadaedomex/11911",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.04,
-          "lon": -98.2
-        }
-      ]
-    },
-    {
-      "tipo": "clima",
-      "color": "azul",
-      "icono": "🌧",
-      "label": "ALERTA METEOROLOGICA",
-      "col2": false,
-      "alertas": [
+          "lat": 19.43,
+          "lon": -99.13
+        },
         {
-          "id": "8838814c",
-          "tipo": "clima",
-          "ruta": "Fuertes lluvias provocan inundaciones, cierres viales y apagones en Puebla…",
-          "descripcion": "Fuertes lluvias provocan inundaciones, cierres viales y apagones en Puebla. Caos por tormenta en Puebla: vialidades cerradas y sin luz",
+          "id": "f9366290",
+          "tipo": "cierre_parcial",
+          "ruta": "🚨Un fuerte accidente vehicular se registró la madrugada de este…",
+          "descripcion": "🚨Un fuerte accidente vehicular se registró la madrugada de este miércoles sobre los carriles centrales de la #México-#Toluca, en la zona de #SantaFe, una persona resultó herida.\nhttps://lajornadaestadodemexico.com/mexico-toluca-registra-fuerte-accidente-durante-la-madrugada-y-transito-lento-hacia-cdmx/",
           "recomendacion": "",
-          "fecha": "1 septiembre 2026 · 19:48 CST",
-          "fecha_iso": "2026-09-01T19:48:00-06:00",
-          "fuente": "Quadratin Puebla",
-          "url": "https://puebla.quadratin.com.mx/sucesos/fuertes-lluvias-provocan-inundaciones-cierres-viales-y-apagones-en-puebla/",
-          "dot_color": "#3498db",
-          "badge": "badge-clima",
-          "badge_txt": "ALERTA CLIMA",
-          "lat": 19.04,
-          "lon": -98.2
+          "fecha": "2 septiembre 2026 · 07:04 CST",
+          "fecha_iso": "2026-09-02T07:04:00-06:00",
+          "fuente": "Telegram @jornadaedomex",
+          "url": "https://t.me/jornadaedomex/11909",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 19.43,
+          "lon": -99.13
         }
       ]
     }
   ],
   "para_mapa": [
     {
-      "id": "8838814c",
-      "tipo": "clima",
-      "ruta": "Fuertes lluvias provocan inundaciones, cierres viales y apagones en Puebla…",
-      "descripcion": "Fuertes lluvias provocan inundaciones, cierres viales y apagones en Puebla. Caos por tormenta en Puebla: vialidades cerradas y sin luz",
-      "fecha": "1 septiembre 2026 · 19:48 CST",
-      "fuente": "Quadratin Puebla",
-      "url": "https://puebla.quadratin.com.mx/sucesos/fuertes-lluvias-provocan-inundaciones-cierres-viales-y-apagones-en-puebla/",
-      "dot_color": "#3498db",
-      "badge_txt": "ALERTA CLIMA",
-      "lat": 19.04,
-      "lon": -98.2
-    },
-    {
-      "id": "331ea4a0",
+      "id": "1e9063e6",
       "tipo": "cierre_parcial",
-      "ruta": "Autopista Puebla-Orizaba - nmas",
-      "descripcion": "Tráiler Termina Volcado durante Accidente sobre Autopista Puebla-Orizaba - nmas.com.mx. Tráiler Termina Volcado durante Accidente sobre Autopista Puebla-Orizaba nmas.com.mx",
-      "fecha": "1 septiembre 2026 · 19:19 CST",
-      "fuente": "nmas.com.mx",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNTTgxTk9CWXNLRnhfb3dIajgtNHU2UHh2VHB2OERtbDduYzlkMkZvNm56N2h3TDM2S1JnSV9wM2lDaVZfM3hBbVBlVS1uakJqWTJoNWdRM01rbXh1UGdKWjF3MVA2aVVCZUlHTm5NaE9nUHA3cy05VjJrcFdJeEpsMHoyQm9DaUpJUEtUQlg2Y296TUJtOV91N0Vwd2hzRXNabXZFQV93YjJIYkpGYjY5RkZXUVNzUVhSSWRzNGwxWjdvNjZWMVhzZHBqUWpRZlh1Z2o2NmJrZk5Bdw?oc=5",
+      "ruta": "🚧#ReporteVial | Reportan tránsito lento en la #México-#Toluca rumbo a…",
+      "descripcion": "🚧#ReporteVial | Reportan tránsito lento en la #México-#Toluca rumbo a #CDMX, debido a trabajos de obra que se realizan en distintos puntos del camino.\n\n⚠️Se recomienda salir con tiempo\n\nhttps://lajornadaestadodemexico.com/mexico-toluca-registra-fuerte-accidente-durante-la-madrugada-y-transito-lento-hacia-cdmx/",
+      "fecha": "2 septiembre 2026 · 07:12 CST",
+      "fuente": "Telegram @jornadaedomex",
+      "url": "https://t.me/jornadaedomex/11911",
       "dot_color": "#e67e22",
       "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.04,
-      "lon": -98.2
+      "lat": 19.43,
+      "lon": -99.13
+    },
+    {
+      "id": "f9366290",
+      "tipo": "cierre_parcial",
+      "ruta": "🚨Un fuerte accidente vehicular se registró la madrugada de este…",
+      "descripcion": "🚨Un fuerte accidente vehicular se registró la madrugada de este miércoles sobre los carriles centrales de la #México-#Toluca, en la zona de #SantaFe, una persona resultó herida.\nhttps://lajornadaestadodemexico.com/mexico-toluca-registra-fuerte-accidente-durante-la-madrugada-y-transito-lento-hacia-cdmx/",
+      "fecha": "2 septiembre 2026 · 07:04 CST",
+      "fuente": "Telegram @jornadaedomex",
+      "url": "https://t.me/jornadaedomex/11909",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 19.43,
+      "lon": -99.13
     }
   ]
 }
