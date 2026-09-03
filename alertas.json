@@ -1,9 +1,10 @@
 {
-  "ultima_actualizacion": "2026-09-03T11:24:12.174044-06:00",
-  "ultima_actualizacion_legible": "3 de septiembre de 2026 · 11:24 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-09-03T13:59:33.979948-06:00",
+  "ultima_actualizacion_legible": "3 de septiembre de 2026 · 13:59 CST",
+  "total": 6,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
+    "Google News",
     "Quadratin + regionales",
     "Telegram"
   ],
@@ -15,6 +16,52 @@
       "label": "BLOQUEOS / MANIFESTACIONES",
       "col2": false,
       "alertas": [
+        {
+          "id": "633a2dac",
+          "tipo": "bloqueo",
+          "ruta": "¡Precaución! Bloqueo colapsa circulación en ambos sentidos en la México-Toluca…",
+          "descripcion": "¡Precaución! Bloqueo colapsa circulación en ambos sentidos en la México-Toluca - DigitalMex Periodismo confiable. ¡Precaución! Bloqueo colapsa circulación en ambos sentidos en la México-Toluca DigitalMex Periodismo confiable",
+          "recomendacion": "",
+          "fecha": "3 septiembre 2026 · 13:37 CST",
+          "fecha_iso": "2026-09-03T13:37:00-06:00",
+          "fuente": "DigitalMex Periodismo confiable",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNemZyOW5yX2E5eEtBTUx6d2FOSWNoM3NualVrOEhLMXN2d2xZU3pZY0x5N2FsX1lTVE8zZGtlMm1HbVVKRGp3QVdrNEZqcFpidWN6Qkl3N0UtNlVNOHBoR1kwdUpYTkVZVUszXzlkOU9jdS1EV19NejI1YkFlNXhKd25US0M5N2RPVFBUSXYyN0xqWm5udXlkckRMR05Bbk0zRGFBeWRybDBWWmItbVdSVVZweVpjZw?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 19.29,
+          "lon": -99.66
+        },
+        {
+          "id": "1084b98b",
+          "tipo": "bloqueo",
+          "ruta": "Bloqueo en acceso al AIFA afecta a viajeros desde Hidalgo…",
+          "descripcion": "Bloqueo en acceso al AIFA afecta a viajeros desde Hidalgo. En uno de los accesos provenientes de la autopista México-Pachuca. The post Bloqueo en acceso al AIFA afecta a viajeros desde Hidalgo appeared first on Quadratin Hidalgo.",
+          "recomendacion": "",
+          "fecha": "3 septiembre 2026 · 13:01 CST",
+          "fecha_iso": "2026-09-03T13:01:00-06:00",
+          "fuente": "Quadratin Hidalgo",
+          "url": "https://hidalgo.quadratin.com.mx/sucesos/bloqueo-en-acceso-al-aifa-afecta-a-viajeros-desde-hidalgo/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 20.11,
+          "lon": -98.73
+        },
+        {
+          "id": "c53ea6c9",
+          "tipo": "bloqueo",
+          "ruta": "Reporte de Capufe y la Guardia Nacional por Bloqueos y…",
+          "descripcion": "Reporte de Capufe y la Guardia Nacional por Bloqueos y Accidentes en Carreteras de México - N+. Reporte de Capufe y la Guardia Nacional por Bloqueos y Accidentes en Carreteras de México N+",
+          "recomendacion": "",
+          "fecha": "3 septiembre 2026 · 10:47 CST",
+          "fecha_iso": "2026-09-03T10:47:00-06:00",
+          "fuente": "N+",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOb1otNmIzSUhzTkF1RDg2N3VpZjRua083TEg1anVMYTJtVWU3bFBhVWtUbU8yTnh3R0d4X0JlaHh6LWJUbDhjbkl0MjJuQVl2SGc3cnBWS0NWaFNrQ29sRGNLM3I3X01YcnEtQ2lERlhYb3VFSVpQM01fTkdHeUxISFhrVDFKTUctZ2ZBeTU1YXZuMWpLQ0pVallrWTNqQnBMU1hhWW9zS095OWFhbFNKM1hUdzZqWHdTc18tVVpn?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
         {
           "id": "8e3e3066",
           "tipo": "bloqueo",
@@ -63,6 +110,32 @@
     }
   ],
   "para_mapa": [
+    {
+      "id": "633a2dac",
+      "tipo": "bloqueo",
+      "ruta": "¡Precaución! Bloqueo colapsa circulación en ambos sentidos en la México-Toluca…",
+      "descripcion": "¡Precaución! Bloqueo colapsa circulación en ambos sentidos en la México-Toluca - DigitalMex Periodismo confiable. ¡Precaución! Bloqueo colapsa circulación en ambos sentidos en la México-Toluca DigitalMex Periodismo confiable",
+      "fecha": "3 septiembre 2026 · 13:37 CST",
+      "fuente": "DigitalMex Periodismo confiable",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNemZyOW5yX2E5eEtBTUx6d2FOSWNoM3NualVrOEhLMXN2d2xZU3pZY0x5N2FsX1lTVE8zZGtlMm1HbVVKRGp3QVdrNEZqcFpidWN6Qkl3N0UtNlVNOHBoR1kwdUpYTkVZVUszXzlkOU9jdS1EV19NejI1YkFlNXhKd25US0M5N2RPVFBUSXYyN0xqWm5udXlkckRMR05Bbk0zRGFBeWRybDBWWmItbVdSVVZweVpjZw?oc=5",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 19.29,
+      "lon": -99.66
+    },
+    {
+      "id": "1084b98b",
+      "tipo": "bloqueo",
+      "ruta": "Bloqueo en acceso al AIFA afecta a viajeros desde Hidalgo…",
+      "descripcion": "Bloqueo en acceso al AIFA afecta a viajeros desde Hidalgo. En uno de los accesos provenientes de la autopista México-Pachuca. The post Bloqueo en acceso al AIFA afecta a viajeros desde Hidalgo appeared first on Quadratin Hidalgo.",
+      "fecha": "3 septiembre 2026 · 13:01 CST",
+      "fuente": "Quadratin Hidalgo",
+      "url": "https://hidalgo.quadratin.com.mx/sucesos/bloqueo-en-acceso-al-aifa-afecta-a-viajeros-desde-hidalgo/",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 20.11,
+      "lon": -98.73
+    },
     {
       "id": "5bbf0410",
       "tipo": "bloqueo",
