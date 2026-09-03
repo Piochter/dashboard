@@ -1,6 +1,6 @@
 {
-  "ultima_actualizacion": "2026-09-03T13:59:33.979948-06:00",
-  "ultima_actualizacion_legible": "3 de septiembre de 2026 · 13:59 CST",
+  "ultima_actualizacion": "2026-09-03T16:20:18.444767-06:00",
+  "ultima_actualizacion_legible": "3 de septiembre de 2026 · 16:20 CST",
   "total": 6,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
@@ -49,6 +49,22 @@
           "lon": -98.73
         },
         {
+          "id": "205a446a",
+          "tipo": "bloqueo",
+          "ruta": "autopista y carretera México-Toluca hoy 3 de septiembre - estadodemexico",
+          "descripcion": "Reportan bloqueo total en la autopista y carretera México-Toluca hoy 3 de septiembre - estadodemexico.heraldodemexico.com.mx. Reportan bloqueo total en la autopista y carretera México-Toluca hoy 3 de septiembre estadodemexico.heraldodemexico.com.mx",
+          "recomendacion": "",
+          "fecha": "3 septiembre 2026 · 12:00 CST",
+          "fecha_iso": "2026-09-03T12:00:00-06:00",
+          "fuente": "estadodemexico.heraldodemexico.com.mx",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZHpVZmxPYnEzaFNSVUV1dDZNNmpVY002X3IxV1o3NlA0bkRGaFR1WlZpc2R6dURVa3JRdXE0d3dFWXRqSmo3RjNmWmRXY2NiZmNMbmpuNzd3T2lUZEVnaDhCT3BBT0RIbXdnLXhGNnhvRFN3V0N3R01yeERTajF1Mk5rTXJGbXpQazNHR0R4dFNYcGpYdjJEejViVmgwRGVkN1kxd3hGZVFPSU5RTTNpbjBqTkR0VDF2b0xNZkk3ZmNWc09FYTUzRmw2aWwwdFNYLThxcjhPTURSb1hjRmc?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 19.29,
+          "lon": -99.66
+        },
+        {
           "id": "c53ea6c9",
           "tipo": "bloqueo",
           "ruta": "Reporte de Capufe y la Guardia Nacional por Bloqueos y…",
@@ -58,20 +74,6 @@
           "fecha_iso": "2026-09-03T10:47:00-06:00",
           "fuente": "N+",
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOb1otNmIzSUhzTkF1RDg2N3VpZjRua083TEg1anVMYTJtVWU3bFBhVWtUbU8yTnh3R0d4X0JlaHh6LWJUbDhjbkl0MjJuQVl2SGc3cnBWS0NWaFNrQ29sRGNLM3I3X01YcnEtQ2lERlhYb3VFSVpQM01fTkdHeUxISFhrVDFKTUctZ2ZBeTU1YXZuMWpLQ0pVallrWTNqQnBMU1hhWW9zS095OWFhbFNKM1hUdzZqWHdTc18tVVpn?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        },
-        {
-          "id": "8e3e3066",
-          "tipo": "bloqueo",
-          "ruta": "Bloquean choferes garita de Mexicali en protesta por retiro de…",
-          "descripcion": "Bloquean choferes garita de Mexicali en protesta por retiro de visas. MEXICALI, BC, 3 de septiembre de 2026.- Un grupo de choferes de transporte de carga bloqueó este jueves la garita comercial entre Mexicali y Calexico, California, como parte de una manifestación pacífica para exigir una mesa de diálogo ante el retiro de visas B1 a operadores mexicanos. Los manifestantes señalaron que tan solo el miércoles fueron retiradas 17 visas […]",
-          "recomendacion": "",
-          "fecha": "3 septiembre 2026 · 10:15 CST",
-          "fecha_iso": "2026-09-03T10:15:00-06:00",
-          "fuente": "Quadratin Chiapas",
-          "url": "https://chiapas.quadratin.com.mx/sucesos/bloquean-choferes-garita-de-mexicali-en-protesta-por-retiro-de-visas/",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO"
@@ -135,6 +137,19 @@
       "badge_txt": "BLOQUEO",
       "lat": 20.11,
       "lon": -98.73
+    },
+    {
+      "id": "205a446a",
+      "tipo": "bloqueo",
+      "ruta": "autopista y carretera México-Toluca hoy 3 de septiembre - estadodemexico",
+      "descripcion": "Reportan bloqueo total en la autopista y carretera México-Toluca hoy 3 de septiembre - estadodemexico.heraldodemexico.com.mx. Reportan bloqueo total en la autopista y carretera México-Toluca hoy 3 de septiembre estadodemexico.heraldodemexico.com.mx",
+      "fecha": "3 septiembre 2026 · 12:00 CST",
+      "fuente": "estadodemexico.heraldodemexico.com.mx",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZHpVZmxPYnEzaFNSVUV1dDZNNmpVY002X3IxV1o3NlA0bkRGaFR1WlZpc2R6dURVa3JRdXE0d3dFWXRqSmo3RjNmWmRXY2NiZmNMbmpuNzd3T2lUZEVnaDhCT3BBT0RIbXdnLXhGNnhvRFN3V0N3R01yeERTajF1Mk5rTXJGbXpQazNHR0R4dFNYcGpYdjJEejViVmgwRGVkN1kxd3hGZVFPSU5RTTNpbjBqTkR0VDF2b0xNZkk3ZmNWc09FYTUzRmw2aWwwdFNYLThxcjhPTURSb1hjRmc?oc=5",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 19.29,
+      "lon": -99.66
     },
     {
       "id": "5bbf0410",
