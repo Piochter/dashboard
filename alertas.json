@@ -1,39 +1,12 @@
 {
-  "ultima_actualizacion": "2026-09-02T23:03:32.191832-06:00",
-  "ultima_actualizacion_legible": "2 de septiembre de 2026 · 23:03 CST",
-  "total": 4,
+  "ultima_actualizacion": "2026-09-03T03:45:14.973938-06:00",
+  "ultima_actualizacion_legible": "3 de septiembre de 2026 · 03:45 CST",
+  "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Medios regionales",
-    "Quadratin + regionales",
-    "Telegram"
+    "Quadratin + regionales"
   ],
   "grupos": [
-    {
-      "tipo": "bloqueo",
-      "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "4cb4417f",
-          "tipo": "bloqueo",
-          "ruta": "Bloqueo en la México-Toluca por personas desaparecidas en Sinaloa; familiares…",
-          "descripcion": "Bloqueo en la México-Toluca por personas desaparecidas en Sinaloa; familiares exigen respuestas 👇\n https://lajornadaestadodemexico.com/bloqueo-en-la-mexico-toluca-por-personas-desaparecidas-en-sinaloa/",
-          "recomendacion": "",
-          "fecha": "2 septiembre 2026 · 11:27 CST",
-          "fecha_iso": "2026-09-02T11:27:00-06:00",
-          "fuente": "Telegram @jornadaedomex",
-          "url": "https://t.me/jornadaedomex/11915",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 24.8,
-          "lon": -107.39
-        }
-      ]
-    },
     {
       "tipo": "cierre_parcial",
       "color": "amarillo",
@@ -56,22 +29,6 @@
           "badge_txt": "CIERRE PARCIAL",
           "lat": 20.1,
           "lon": -99.5
-        },
-        {
-          "id": "61621e8e",
-          "tipo": "cierre_parcial",
-          "ruta": "Derrame de 12 mil litros de ácido sulfúrico provoca emergencia…",
-          "descripcion": "Derrame de 12 mil litros de ácido sulfúrico provoca emergencia ambiental en Sonora. La contaminación ocurrió tras el accidente de un tractocamión con dos cisternas en el tramo carretero Ímuris-Cananea",
-          "recomendacion": "",
-          "fecha": "2 septiembre 2026 · 19:22 CST",
-          "fecha_iso": "2026-09-02T19:22:00-06:00",
-          "fuente": "El Informador Jalisco",
-          "url": "https://www.informador.mx/mexico/sonora-derrame-de-12-mil-litros-de-acido-sulfurico-provoca-emergencia-ambiental-en-cananea-20260902-0187.html",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 29.07,
-          "lon": -110.96
         },
         {
           "id": "42d368b9",
@@ -107,19 +64,6 @@
       "lon": -99.5
     },
     {
-      "id": "61621e8e",
-      "tipo": "cierre_parcial",
-      "ruta": "Derrame de 12 mil litros de ácido sulfúrico provoca emergencia…",
-      "descripcion": "Derrame de 12 mil litros de ácido sulfúrico provoca emergencia ambiental en Sonora. La contaminación ocurrió tras el accidente de un tractocamión con dos cisternas en el tramo carretero Ímuris-Cananea",
-      "fecha": "2 septiembre 2026 · 19:22 CST",
-      "fuente": "El Informador Jalisco",
-      "url": "https://www.informador.mx/mexico/sonora-derrame-de-12-mil-litros-de-acido-sulfurico-provoca-emergencia-ambiental-en-cananea-20260902-0187.html",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 29.07,
-      "lon": -110.96
-    },
-    {
       "id": "42d368b9",
       "tipo": "cierre_parcial",
       "ruta": "Accidente entre 3 camiones deja un herido en Atitalaquia…",
@@ -131,19 +75,6 @@
       "badge_txt": "CIERRE PARCIAL",
       "lat": 19.8,
       "lon": -99.1
-    },
-    {
-      "id": "4cb4417f",
-      "tipo": "bloqueo",
-      "ruta": "Bloqueo en la México-Toluca por personas desaparecidas en Sinaloa; familiares…",
-      "descripcion": "Bloqueo en la México-Toluca por personas desaparecidas en Sinaloa; familiares exigen respuestas 👇\n https://lajornadaestadodemexico.com/bloqueo-en-la-mexico-toluca-por-personas-desaparecidas-en-sinaloa/",
-      "fecha": "2 septiembre 2026 · 11:27 CST",
-      "fuente": "Telegram @jornadaedomex",
-      "url": "https://t.me/jornadaedomex/11915",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 24.8,
-      "lon": -107.39
     }
   ]
 }
