@@ -1,66 +1,80 @@
 {
-  "ultima_actualizacion": "2026-09-03T07:53:48.998763-06:00",
-  "ultima_actualizacion_legible": "3 de septiembre de 2026 · 07:53 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-09-03T11:24:12.174044-06:00",
+  "ultima_actualizacion_legible": "3 de septiembre de 2026 · 11:24 CST",
+  "total": 3,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Medios regionales",
-    "Quadratin + regionales"
+    "Quadratin + regionales",
+    "Telegram"
   ],
   "grupos": [
     {
-      "tipo": "cierre_parcial",
-      "color": "amarillo",
-      "icono": "🟡",
-      "label": "CIERRE PARCIAL / ACCIDENTES",
-      "col2": true,
+      "tipo": "bloqueo",
+      "color": "rojo",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
+      "col2": false,
       "alertas": [
         {
-          "id": "fbcbb31d",
-          "tipo": "cierre_parcial",
-          "ruta": "km 43",
-          "descripcion": "Choque por alcance dejó 2 heridos en la Siglo 21 en el km 43. Los conductores fueron atendidos por el servicio de emergencia",
+          "id": "8e3e3066",
+          "tipo": "bloqueo",
+          "ruta": "Bloquean choferes garita de Mexicali en protesta por retiro de…",
+          "descripcion": "Bloquean choferes garita de Mexicali en protesta por retiro de visas. MEXICALI, BC, 3 de septiembre de 2026.- Un grupo de choferes de transporte de carga bloqueó este jueves la garita comercial entre Mexicali y Calexico, California, como parte de una manifestación pacífica para exigir una mesa de diálogo ante el retiro de visas B1 a operadores mexicanos. Los manifestantes señalaron que tan solo el miércoles fueron retiradas 17 visas […]",
           "recomendacion": "",
-          "fecha": "3 septiembre 2026 · 07:31 CST",
-          "fecha_iso": "2026-09-03T07:31:00-06:00",
-          "fuente": "Quadratin Michoacan",
-          "url": "https://www.quadratin.com.mx/justicia/choque-por-alcance-dejo-2-heridos-en-la-siglo-21-en-el-km-43/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
+          "fecha": "3 septiembre 2026 · 10:15 CST",
+          "fecha_iso": "2026-09-03T10:15:00-06:00",
+          "fuente": "Quadratin Chiapas",
+          "url": "https://chiapas.quadratin.com.mx/sucesos/bloquean-choferes-garita-de-mexicali-en-protesta-por-retiro-de-visas/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
         },
         {
-          "id": "0a201cc8",
-          "tipo": "cierre_parcial",
-          "ruta": "Anuncia Capufe cierres nocturnos en la México-Querétaro…",
-          "descripcion": "Anuncia Capufe cierres nocturnos en la México-Querétaro. Entre las rutas alternativas para evitar el embotellamiento en el tramo de Jilotepec, se sugiere utilizar la carretera libre México-Querétaro",
-          "recomendacion": "evitar el embotellamiento en el tramo de Jilotepec, se sugiere utilizar la carretera libre México-Querétaro",
-          "fecha": "2 septiembre 2026 · 22:45 CST",
-          "fecha_iso": "2026-09-02T22:45:00-06:00",
-          "fuente": "Quadratin EdoMex",
-          "url": "https://edomex.quadratin.com.mx/anuncia-capufe-cierres-nocturnos-en-la-mexico-queretaro/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 20.1,
-          "lon": -99.5
+          "id": "89495f60",
+          "tipo": "bloqueo",
+          "ruta": "Mantienen bloqueo en tramo Barranca Larga-Ventanilla…",
+          "descripcion": "Mantienen bloqueo en tramo Barranca Larga-Ventanilla. El cierre afecta ambos sentidos de la vía y complica el traslado de automovilistas entre los Valles Centrales y la región de la Costa",
+          "recomendacion": "",
+          "fecha": "3 septiembre 2026 · 09:35 CST",
+          "fecha_iso": "2026-09-03T09:35:00-06:00",
+          "fuente": "Quadratin Oaxaca",
+          "url": "https://oaxaca.quadratin.com.mx/mantienen-bloqueo-en-tramo-barranca-larga-ventanilla/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
+        {
+          "id": "5bbf0410",
+          "tipo": "bloqueo",
+          "ruta": "📣 Bloqueo en la #México-#Pachuca afecta el paso hacia el…",
+          "descripcion": "📣 Bloqueo en la #México-#Pachuca afecta el paso hacia el #AIFA a la altura de #Tecámac 😱\nhttps://lajornadaestadodemexico.com/bloqueo-en-la-mexico-pachuca-afecta-el-paso-hacia-el-aifa-a-la-altura-de-tecamac/",
+          "recomendacion": "",
+          "fecha": "3 septiembre 2026 · 08:59 CST",
+          "fecha_iso": "2026-09-03T08:59:00-06:00",
+          "fuente": "Telegram @jornadaedomex",
+          "url": "https://t.me/jornadaedomex/11928",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 20.12,
+          "lon": -98.73
         }
       ]
     }
   ],
   "para_mapa": [
     {
-      "id": "0a201cc8",
-      "tipo": "cierre_parcial",
-      "ruta": "Anuncia Capufe cierres nocturnos en la México-Querétaro…",
-      "descripcion": "Anuncia Capufe cierres nocturnos en la México-Querétaro. Entre las rutas alternativas para evitar el embotellamiento en el tramo de Jilotepec, se sugiere utilizar la carretera libre México-Querétaro",
-      "fecha": "2 septiembre 2026 · 22:45 CST",
-      "fuente": "Quadratin EdoMex",
-      "url": "https://edomex.quadratin.com.mx/anuncia-capufe-cierres-nocturnos-en-la-mexico-queretaro/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 20.1,
-      "lon": -99.5
+      "id": "5bbf0410",
+      "tipo": "bloqueo",
+      "ruta": "📣 Bloqueo en la #México-#Pachuca afecta el paso hacia el…",
+      "descripcion": "📣 Bloqueo en la #México-#Pachuca afecta el paso hacia el #AIFA a la altura de #Tecámac 😱\nhttps://lajornadaestadodemexico.com/bloqueo-en-la-mexico-pachuca-afecta-el-paso-hacia-el-aifa-a-la-altura-de-tecamac/",
+      "fecha": "3 septiembre 2026 · 08:59 CST",
+      "fuente": "Telegram @jornadaedomex",
+      "url": "https://t.me/jornadaedomex/11928",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 20.12,
+      "lon": -98.73
     }
   ]
 }
