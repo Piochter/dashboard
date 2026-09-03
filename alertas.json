@@ -1,13 +1,37 @@
 {
-  "ultima_actualizacion": "2026-09-02T16:36:56.746502-06:00",
-  "ultima_actualizacion_legible": "2 de septiembre de 2026 · 16:36 CST",
-  "total": 5,
+  "ultima_actualizacion": "2026-09-02T18:39:32.281091-06:00",
+  "ultima_actualizacion_legible": "2 de septiembre de 2026 · 18:39 CST",
+  "total": 8,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
+    "Medios regionales",
     "Quadratin + regionales",
     "Telegram"
   ],
   "grupos": [
+    {
+      "tipo": "cierre_total",
+      "color": "rojo",
+      "icono": "🔴",
+      "label": "CIERRE TOTAL",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "97640c05",
+          "tipo": "cierre_total",
+          "ruta": "carretera Pátzcuaro-Morelia deja 2 heridos",
+          "descripcion": "Volcadura en la carretera Pátzcuaro-Morelia deja 2 heridos. Se trata de un vehículo Nissan tipo March",
+          "recomendacion": "",
+          "fecha": "2 septiembre 2026 · 17:45 CST",
+          "fecha_iso": "2026-09-02T17:45:00-06:00",
+          "fuente": "Quadratin Michoacan",
+          "url": "https://www.quadratin.com.mx/sucesos/volcadura-en-la-carretera-patzcuaro-morelia-deja-2-heridos/",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL"
+        }
+      ]
+    },
     {
       "tipo": "bloqueo",
       "color": "rojo",
@@ -40,6 +64,36 @@
       "label": "CIERRE PARCIAL / ACCIDENTES",
       "col2": true,
       "alertas": [
+        {
+          "id": "bdbd4cb7",
+          "tipo": "cierre_parcial",
+          "ruta": "Detienen en León a banda dedicada al robo de camiones…",
+          "descripcion": "Detienen en León a banda dedicada al robo de camiones de carga. Policías municipales localizaron un tractocamión con reporte de robo en una bodega de La Laborcita; también aseguraron mercancía, un inhibidor de señal y droga.",
+          "recomendacion": "",
+          "fecha": "2 septiembre 2026 · 18:15 CST",
+          "fecha_iso": "2026-09-02T18:15:00-06:00",
+          "fuente": "AM Guanajuato",
+          "url": "https://www.am.com.mx/leon/2026/09/02/detienen-en-leon-a-banda-dedicada-al-robo-de-camiones-de-carga-1839735.html",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        },
+        {
+          "id": "42d368b9",
+          "tipo": "cierre_parcial",
+          "ruta": "Accidente entre 3 camiones deja un herido en Atitalaquia…",
+          "descripcion": "Accidente entre 3 camiones deja un herido en Atitalaquia. ATITALAQUIA, Hgo. 2 de septiembre de 2026.- La tarde de este miércoles, un hombre resultó lesionado en un accidente múltiple que dejó cuantiosos daños materiales sobre el kilómetro 91 de la autopista Arco Norte, a la altura del municipio de Atitalaquia. ​El percance se registró en dirección poniente, cuando un tráiler que transportaba más de […] The post Accidente entre 3 camiones deja un herido en Atitalaquia appeared first on Quadratin ",
+          "recomendacion": "",
+          "fecha": "2 septiembre 2026 · 16:58 CST",
+          "fecha_iso": "2026-09-02T16:58:00-06:00",
+          "fuente": "Quadratin Hidalgo",
+          "url": "https://hidalgo.quadratin.com.mx/sucesos/accidente-entre-3-camiones-deja-un-herido-en-atitalaquia/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 19.8,
+          "lon": -99.1
+        },
         {
           "id": "f23247af",
           "tipo": "cierre_parcial",
@@ -106,6 +160,19 @@
     }
   ],
   "para_mapa": [
+    {
+      "id": "42d368b9",
+      "tipo": "cierre_parcial",
+      "ruta": "Accidente entre 3 camiones deja un herido en Atitalaquia…",
+      "descripcion": "Accidente entre 3 camiones deja un herido en Atitalaquia. ATITALAQUIA, Hgo. 2 de septiembre de 2026.- La tarde de este miércoles, un hombre resultó lesionado en un accidente múltiple que dejó cuantiosos daños materiales sobre el kilómetro 91 de la autopista Arco Norte, a la altura del municipio de Atitalaquia. ​El percance se registró en dirección poniente, cuando un tráiler que transportaba más de […] The post Accidente entre 3 camiones deja un herido en Atitalaquia appeared first on Quadratin ",
+      "fecha": "2 septiembre 2026 · 16:58 CST",
+      "fuente": "Quadratin Hidalgo",
+      "url": "https://hidalgo.quadratin.com.mx/sucesos/accidente-entre-3-camiones-deja-un-herido-en-atitalaquia/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 19.8,
+      "lon": -99.1
+    },
     {
       "id": "4cb4417f",
       "tipo": "bloqueo",
