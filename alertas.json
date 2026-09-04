@@ -1,10 +1,11 @@
 {
-  "ultima_actualizacion": "2026-09-03T16:20:18.444767-06:00",
-  "ultima_actualizacion_legible": "3 de septiembre de 2026 · 16:20 CST",
-  "total": 6,
+  "ultima_actualizacion": "2026-09-03T18:13:25.189917-06:00",
+  "ultima_actualizacion_legible": "3 de septiembre de 2026 · 18:13 CST",
+  "total": 8,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
+    "Medios nacionales",
     "Quadratin + regionales",
     "Telegram"
   ],
@@ -16,6 +17,38 @@
       "label": "BLOQUEOS / MANIFESTACIONES",
       "col2": false,
       "alertas": [
+        {
+          "id": "9f5b9824",
+          "tipo": "bloqueo",
+          "ruta": "Urea automotriz de baja calidad puede elevar costos de mantenimiento…",
+          "descripcion": "Urea automotriz de baja calidad puede elevar costos de mantenimiento en el autotransporte: Noxguard. CUAUTITLÁN, EDOMÉX.– Mantener una unidad en operación no depende únicamente de atender las fallas cuando aparecen; la calidad de los insumos, el mantenimiento preventivo y un diagnóstico adecuado de los sistemas también pueden marcar la diferencia entre continuar el recorrido o enfrentar un paro que termine elevando los costos para las empresas de autotransporte. Así […]",
+          "recomendacion": "",
+          "fecha": "3 septiembre 2026 · 17:00 CST",
+          "fecha_iso": "2026-09-03T17:00:00-06:00",
+          "fuente": "T21 Transporte",
+          "url": "https://t21.com.mx/urea-automotriz-de-baja-calidad-puede-elevar-costos-de-mantenimiento-en-el-autotransporte-noxguard/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 19.35,
+          "lon": -99.7
+        },
+        {
+          "id": "0abb1cf0",
+          "tipo": "bloqueo",
+          "ruta": "🔴 Continúa bloqueo en la México-Toluca este 3 de septiembre,…",
+          "descripcion": "🔴 Continúa bloqueo en la México-Toluca este 3 de septiembre, ésta es la razón\n\nhttps://lajornadaestadodemexico.com/continua-bloqueo-en-la-mexico-toluca-este-3-de-septiembre-esta-es-la-razon/",
+          "recomendacion": "",
+          "fecha": "3 septiembre 2026 · 16:27 CST",
+          "fecha_iso": "2026-09-03T16:27:00-06:00",
+          "fuente": "Telegram @jornadaedomex",
+          "url": "https://t.me/jornadaedomex/11937",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 19.29,
+          "lon": -99.66
+        },
         {
           "id": "633a2dac",
           "tipo": "bloqueo",
@@ -65,29 +98,15 @@
           "lon": -99.66
         },
         {
-          "id": "c53ea6c9",
+          "id": "a84e881f",
           "tipo": "bloqueo",
           "ruta": "Reporte de Capufe y la Guardia Nacional por Bloqueos y…",
-          "descripcion": "Reporte de Capufe y la Guardia Nacional por Bloqueos y Accidentes en Carreteras de México - N+. Reporte de Capufe y la Guardia Nacional por Bloqueos y Accidentes en Carreteras de México N+",
+          "descripcion": "Reporte de Capufe y la Guardia Nacional por Bloqueos y Accidentes en Carreteras de México - nmas.com.mx. Reporte de Capufe y la Guardia Nacional por Bloqueos y Accidentes en Carreteras de México nmas.com.mx",
           "recomendacion": "",
           "fecha": "3 septiembre 2026 · 10:47 CST",
           "fecha_iso": "2026-09-03T10:47:00-06:00",
-          "fuente": "N+",
+          "fuente": "nmas.com.mx",
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOb1otNmIzSUhzTkF1RDg2N3VpZjRua083TEg1anVMYTJtVWU3bFBhVWtUbU8yTnh3R0d4X0JlaHh6LWJUbDhjbkl0MjJuQVl2SGc3cnBWS0NWaFNrQ29sRGNLM3I3X01YcnEtQ2lERlhYb3VFSVpQM01fTkdHeUxISFhrVDFKTUctZ2ZBeTU1YXZuMWpLQ0pVallrWTNqQnBMU1hhWW9zS095OWFhbFNKM1hUdzZqWHdTc18tVVpn?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        },
-        {
-          "id": "89495f60",
-          "tipo": "bloqueo",
-          "ruta": "Mantienen bloqueo en tramo Barranca Larga-Ventanilla…",
-          "descripcion": "Mantienen bloqueo en tramo Barranca Larga-Ventanilla. El cierre afecta ambos sentidos de la vía y complica el traslado de automovilistas entre los Valles Centrales y la región de la Costa",
-          "recomendacion": "",
-          "fecha": "3 septiembre 2026 · 09:35 CST",
-          "fecha_iso": "2026-09-03T09:35:00-06:00",
-          "fuente": "Quadratin Oaxaca",
-          "url": "https://oaxaca.quadratin.com.mx/mantienen-bloqueo-en-tramo-barranca-larga-ventanilla/",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO"
@@ -107,11 +126,51 @@
           "badge_txt": "BLOQUEO",
           "lat": 20.12,
           "lon": -98.73
+        },
+        {
+          "id": "c71f6772",
+          "tipo": "bloqueo",
+          "ruta": "Bloqueos de carreteras HOY 3 de septiembre: Autopistas cerradas en…",
+          "descripcion": "Bloqueos de carreteras HOY 3 de septiembre: Autopistas cerradas en México, accidentes viales y rutas alternas según CAPUFE - Eje Central. Bloqueos de carreteras HOY 3 de septiembre: Autopistas cerradas en México, accidentes viales y rutas alternas según CAPUFE Eje Central",
+          "recomendacion": "",
+          "fecha": "3 septiembre 2026 · 07:11 CST",
+          "fecha_iso": "2026-09-03T07:11:00-06:00",
+          "fuente": "Eje Central",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQaEZlU0RoVktmdmhucFptcVlrbTlrRWFqd0lHRDZMZlRaWXpodUhiNnQ5NlJFT01GWlJmNld6MHdIRFI2VjVWNExNaDhVWU1vMmdpZVI5SHRmTG1BeXZrNTdXMGJKQXlwbXAtc2VIUy1KSHFRdlA3TjBFbDJpeGdYdEVWVGRfSjBfSTYxMmVySDBvSm80bHc4YXRYTEx6dXMyU1lkclhyNHdieDFnYTRRVHB0Wk82ek1SQ0ZSSUVMdTg1ME9IaUlLNVd0b0hTX0JwOWtEMHlQd3ZvZjBUYnRDNHV2Z3c3dEU0X3NLdXN5QU4zOUxX?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
         }
       ]
     }
   ],
   "para_mapa": [
+    {
+      "id": "9f5b9824",
+      "tipo": "bloqueo",
+      "ruta": "Urea automotriz de baja calidad puede elevar costos de mantenimiento…",
+      "descripcion": "Urea automotriz de baja calidad puede elevar costos de mantenimiento en el autotransporte: Noxguard. CUAUTITLÁN, EDOMÉX.– Mantener una unidad en operación no depende únicamente de atender las fallas cuando aparecen; la calidad de los insumos, el mantenimiento preventivo y un diagnóstico adecuado de los sistemas también pueden marcar la diferencia entre continuar el recorrido o enfrentar un paro que termine elevando los costos para las empresas de autotransporte. Así […]",
+      "fecha": "3 septiembre 2026 · 17:00 CST",
+      "fuente": "T21 Transporte",
+      "url": "https://t21.com.mx/urea-automotriz-de-baja-calidad-puede-elevar-costos-de-mantenimiento-en-el-autotransporte-noxguard/",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 19.35,
+      "lon": -99.7
+    },
+    {
+      "id": "0abb1cf0",
+      "tipo": "bloqueo",
+      "ruta": "🔴 Continúa bloqueo en la México-Toluca este 3 de septiembre,…",
+      "descripcion": "🔴 Continúa bloqueo en la México-Toluca este 3 de septiembre, ésta es la razón\n\nhttps://lajornadaestadodemexico.com/continua-bloqueo-en-la-mexico-toluca-este-3-de-septiembre-esta-es-la-razon/",
+      "fecha": "3 septiembre 2026 · 16:27 CST",
+      "fuente": "Telegram @jornadaedomex",
+      "url": "https://t.me/jornadaedomex/11937",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 19.29,
+      "lon": -99.66
+    },
     {
       "id": "633a2dac",
       "tipo": "bloqueo",
