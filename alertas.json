@@ -1,13 +1,37 @@
 {
-  "ultima_actualizacion": "2026-09-04T15:37:20.753824-06:00",
-  "ultima_actualizacion_legible": "4 de septiembre de 2026 · 15:37 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-09-04T17:19:49.649292-06:00",
+  "ultima_actualizacion_legible": "4 de septiembre de 2026 · 17:19 CST",
+  "total": 4,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
+    "Google News",
     "Quadratin + regionales",
     "Telegram"
   ],
   "grupos": [
+    {
+      "tipo": "cierre_total",
+      "color": "rojo",
+      "icono": "🔴",
+      "label": "CIERRE TOTAL",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "2c0d8650",
+          "tipo": "cierre_total",
+          "ruta": "Volcadura de tráiler con alambrón cierra la México-Tulancingo - El…",
+          "descripcion": "Volcadura de tráiler con alambrón cierra la México-Tulancingo - El Sol de México. Volcadura de tráiler con alambrón cierra la México-Tulancingo El Sol de México",
+          "recomendacion": "",
+          "fecha": "4 septiembre 2026 · 12:54 CST",
+          "fecha_iso": "2026-09-04T12:54:00-06:00",
+          "fuente": "El Sol de México",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPb29NTEp1RXV4RkE4WlpNUlI5MDFHYk5aTnd1WnYzcGwxX3oxb1FkTldaNkQ3YlVKLXBVVnMwMVozc293RjNVTGNIeDJQaE5UVTJiYVpFSXZnenFkLVU4S1JCQnloOWxNTkMtSlYxOGpydXBoNkN2NXk2U0dOdEd5RDV4VFNlNV9ab0l0QkdTWmpoZWhBa3ZBLUZxOXA3SHpnX2NpRGYzLUhvQ0tsa0ZVa3phOA?oc=5",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL"
+        }
+      ]
+    },
     {
       "tipo": "bloqueo",
       "color": "rojo",
@@ -25,6 +49,20 @@
           "fecha_iso": "2026-09-04T09:50:00-06:00",
           "fuente": "Telegram @NOTMEX",
           "url": "https://t.me/NOTMEX/185794",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
+        {
+          "id": "0ea58786",
+          "tipo": "bloqueo",
+          "ruta": "Bloqueos carreteras HOY 4 de septiembre: cierres y accidentes en…",
+          "descripcion": "Bloqueos carreteras HOY 4 de septiembre: cierres y accidentes en autopistas de México - Eje Central. Bloqueos carreteras HOY 4 de septiembre: cierres y accidentes en autopistas de México Eje Central",
+          "recomendacion": "",
+          "fecha": "4 septiembre 2026 · 07:54 CST",
+          "fecha_iso": "2026-09-04T07:54:00-06:00",
+          "fuente": "Eje Central",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWDdEbXB1WFZTYTdDRVkyb1RVaVY2ZXYxNGEzb0NWTnhOSmFiRW5HUTNpZjhHVkQ0WFhWZC0xR1lTazgzcVVtaF8zM013dlFISTU2ZHBDLVlDc0ZwWDJkSFNmQ0hrSUk3ajBsN3cySlZkX3NaU3c0MmFScVZ3LTA0WFQxVEdtVVJKZ0dGOTA5OUVnY2k0ZmVfMEFQTTlMUzFoaFRSNjB4endnYnV2bXUxM1dCdi1WemJSVUFzcHFXWjlwanFI?oc=5",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO"
