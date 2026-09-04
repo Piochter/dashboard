@@ -1,12 +1,11 @@
 {
-  "ultima_actualizacion": "2026-09-03T18:13:25.189917-06:00",
-  "ultima_actualizacion_legible": "3 de septiembre de 2026 · 18:13 CST",
-  "total": 8,
+  "ultima_actualizacion": "2026-09-03T22:31:50.905535-06:00",
+  "ultima_actualizacion_legible": "3 de septiembre de 2026 · 22:31 CST",
+  "total": 7,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
     "Medios nacionales",
-    "Quadratin + regionales",
     "Telegram"
   ],
   "grupos": [
@@ -50,6 +49,20 @@
           "lon": -99.66
         },
         {
+          "id": "ca1d54c4",
+          "tipo": "bloqueo",
+          "ruta": "Alertan por 4 BLOQUEOS en estas CARRETERAS y AUTOPISTAS para…",
+          "descripcion": "Alertan por 4 BLOQUEOS en estas CARRETERAS y AUTOPISTAS para hoy jueves 3 de septiembre | EN VIVO - El Heraldo de México. Alertan por 4 BLOQUEOS en estas CARRETERAS y AUTOPISTAS para hoy jueves 3 de septiembre | EN VIVO El Heraldo de México",
+          "recomendacion": "",
+          "fecha": "3 septiembre 2026 · 14:03 CST",
+          "fecha_iso": "2026-09-03T14:03:00-06:00",
+          "fuente": "El Heraldo de México",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNeW5IQ1RCRnMtaGtseDQ2bFdraEVRUlFVRnVTTkRINXJBR0k2V0QzMnA3ajJlRlpjZmtRZFVueHNudVZWb0JqcG5RQldVYWJOUjJZcmNKTEsxRXcxMHlnalR6WmtBRTNzTzdfbC02YnlSaVB2UnJwWDNtQVZla1hTcV9idjZlZHNZaEdCXzR3ZnpHOFNkTHFvRUNVV3NqV0Z6WUpwUnkyblBVWDgybDlZQkZuRlBSMHkxbzhwTUdLUlJKTXBjbnQxRHMyeTRzSm43bm1TS05FYU9uOElmUkFzWW9fWVM?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
+        {
           "id": "633a2dac",
           "tipo": "bloqueo",
           "ruta": "¡Precaución! Bloqueo colapsa circulación en ambos sentidos en la México-Toluca…",
@@ -64,22 +77,6 @@
           "badge_txt": "BLOQUEO",
           "lat": 19.29,
           "lon": -99.66
-        },
-        {
-          "id": "1084b98b",
-          "tipo": "bloqueo",
-          "ruta": "Bloqueo en acceso al AIFA afecta a viajeros desde Hidalgo…",
-          "descripcion": "Bloqueo en acceso al AIFA afecta a viajeros desde Hidalgo. En uno de los accesos provenientes de la autopista México-Pachuca. The post Bloqueo en acceso al AIFA afecta a viajeros desde Hidalgo appeared first on Quadratin Hidalgo.",
-          "recomendacion": "",
-          "fecha": "3 septiembre 2026 · 13:01 CST",
-          "fecha_iso": "2026-09-03T13:01:00-06:00",
-          "fuente": "Quadratin Hidalgo",
-          "url": "https://hidalgo.quadratin.com.mx/sucesos/bloqueo-en-acceso-al-aifa-afecta-a-viajeros-desde-hidalgo/",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 20.11,
-          "lon": -98.73
         },
         {
           "id": "205a446a",
@@ -98,53 +95,61 @@
           "lon": -99.66
         },
         {
-          "id": "a84e881f",
+          "id": "c53ea6c9",
           "tipo": "bloqueo",
           "ruta": "Reporte de Capufe y la Guardia Nacional por Bloqueos y…",
-          "descripcion": "Reporte de Capufe y la Guardia Nacional por Bloqueos y Accidentes en Carreteras de México - nmas.com.mx. Reporte de Capufe y la Guardia Nacional por Bloqueos y Accidentes en Carreteras de México nmas.com.mx",
+          "descripcion": "Reporte de Capufe y la Guardia Nacional por Bloqueos y Accidentes en Carreteras de México - N+. Reporte de Capufe y la Guardia Nacional por Bloqueos y Accidentes en Carreteras de México N+",
           "recomendacion": "",
           "fecha": "3 septiembre 2026 · 10:47 CST",
           "fecha_iso": "2026-09-03T10:47:00-06:00",
-          "fuente": "nmas.com.mx",
+          "fuente": "N+",
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOb1otNmIzSUhzTkF1RDg2N3VpZjRua083TEg1anVMYTJtVWU3bFBhVWtUbU8yTnh3R0d4X0JlaHh6LWJUbDhjbkl0MjJuQVl2SGc3cnBWS0NWaFNrQ29sRGNLM3I3X01YcnEtQ2lERlhYb3VFSVpQM01fTkdHeUxISFhrVDFKTUctZ2ZBeTU1YXZuMWpLQ0pVallrWTNqQnBMU1hhWW9zS095OWFhbFNKM1hUdzZqWHdTc18tVVpn?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        },
-        {
-          "id": "5bbf0410",
-          "tipo": "bloqueo",
-          "ruta": "📣 Bloqueo en la #México-#Pachuca afecta el paso hacia el…",
-          "descripcion": "📣 Bloqueo en la #México-#Pachuca afecta el paso hacia el #AIFA a la altura de #Tecámac 😱\nhttps://lajornadaestadodemexico.com/bloqueo-en-la-mexico-pachuca-afecta-el-paso-hacia-el-aifa-a-la-altura-de-tecamac/",
-          "recomendacion": "",
-          "fecha": "3 septiembre 2026 · 08:59 CST",
-          "fecha_iso": "2026-09-03T08:59:00-06:00",
-          "fuente": "Telegram @jornadaedomex",
-          "url": "https://t.me/jornadaedomex/11928",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 20.12,
-          "lon": -98.73
-        },
-        {
-          "id": "c71f6772",
-          "tipo": "bloqueo",
-          "ruta": "Bloqueos de carreteras HOY 3 de septiembre: Autopistas cerradas en…",
-          "descripcion": "Bloqueos de carreteras HOY 3 de septiembre: Autopistas cerradas en México, accidentes viales y rutas alternas según CAPUFE - Eje Central. Bloqueos de carreteras HOY 3 de septiembre: Autopistas cerradas en México, accidentes viales y rutas alternas según CAPUFE Eje Central",
-          "recomendacion": "",
-          "fecha": "3 septiembre 2026 · 07:11 CST",
-          "fecha_iso": "2026-09-03T07:11:00-06:00",
-          "fuente": "Eje Central",
-          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQaEZlU0RoVktmdmhucFptcVlrbTlrRWFqd0lHRDZMZlRaWXpodUhiNnQ5NlJFT01GWlJmNld6MHdIRFI2VjVWNExNaDhVWU1vMmdpZVI5SHRmTG1BeXZrNTdXMGJKQXlwbXAtc2VIUy1KSHFRdlA3TjBFbDJpeGdYdEVWVGRfSjBfSTYxMmVySDBvSm80bHc4YXRYTEx6dXMyU1lkclhyNHdieDFnYTRRVHB0Wk82ek1SQ0ZSSUVMdTg1ME9IaUlLNVd0b0hTX0JwOWtEMHlQd3ZvZjBUYnRDNHV2Z3c3dEU0X3NLdXN5QU4zOUxX?oc=5",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO"
         }
       ]
+    },
+    {
+      "tipo": "cierre_parcial",
+      "color": "amarillo",
+      "icono": "🟡",
+      "label": "CIERRE PARCIAL / ACCIDENTES",
+      "col2": true,
+      "alertas": [
+        {
+          "id": "2accd20d",
+          "tipo": "cierre_parcial",
+          "ruta": "carretera México-Pachuca Tras un operativo de vigilancia",
+          "descripcion": "🚨🔫 Caen 4 asaltantes de transportistas que operaban en la carretera México-Pachuca Tras un operativo de vigilancia, las autoridades identificaron a los sospechosos a bordo de una camioneta presuntamente relacionada con robos a transporte de carga en - facebook.com. 🚨🔫 Caen 4 asaltantes de transportistas que operaban en la carretera México-Pachuca Tras un operativo de vigilancia, las autoridades identificaron a los sospechosos a bordo de una camioneta presuntamente relacionada con robos a transpo",
+          "recomendacion": "",
+          "fecha": "3 septiembre 2026 · 19:22 CST",
+          "fecha_iso": "2026-09-03T19:22:00-06:00",
+          "fuente": "facebook.com",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPa3dHbUFNLVpJMjA1UlVxcU9hZ29GWkpZQnI3R2k2dzdTdkx3MTJNYXN2ZFNDdGVVTWZ5SDlEc0NhRy15QUVYdnJ0Z1l1MVpwMUFBdXQ1RWRFeFhDblg4QlR1MnkzdFZmMXVhV0F0cGQ0NEdpZ0VIb1FWR3UydDJsZ2pCUERSM1prYmdfcXN1ODFBMmF1Tm5jQ2VZWXM5RGlKZDJHUWJqLUt2bFVCZU11dWpGa3NiMTY4TTNBc0R5d3BvWlFEVzZKdEdOU2hwWk1IaHI5dmR1em5JWnkwcG9tNmR3?oc=5",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 20.12,
+          "lon": -98.73
+        }
+      ]
     }
   ],
   "para_mapa": [
+    {
+      "id": "2accd20d",
+      "tipo": "cierre_parcial",
+      "ruta": "carretera México-Pachuca Tras un operativo de vigilancia",
+      "descripcion": "🚨🔫 Caen 4 asaltantes de transportistas que operaban en la carretera México-Pachuca Tras un operativo de vigilancia, las autoridades identificaron a los sospechosos a bordo de una camioneta presuntamente relacionada con robos a transporte de carga en - facebook.com. 🚨🔫 Caen 4 asaltantes de transportistas que operaban en la carretera México-Pachuca Tras un operativo de vigilancia, las autoridades identificaron a los sospechosos a bordo de una camioneta presuntamente relacionada con robos a transpo",
+      "fecha": "3 septiembre 2026 · 19:22 CST",
+      "fuente": "facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPa3dHbUFNLVpJMjA1UlVxcU9hZ29GWkpZQnI3R2k2dzdTdkx3MTJNYXN2ZFNDdGVVTWZ5SDlEc0NhRy15QUVYdnJ0Z1l1MVpwMUFBdXQ1RWRFeFhDblg4QlR1MnkzdFZmMXVhV0F0cGQ0NEdpZ0VIb1FWR3UydDJsZ2pCUERSM1prYmdfcXN1ODFBMmF1Tm5jQ2VZWXM5RGlKZDJHUWJqLUt2bFVCZU11dWpGa3NiMTY4TTNBc0R5d3BvWlFEVzZKdEdOU2hwWk1IaHI5dmR1em5JWnkwcG9tNmR3?oc=5",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 20.12,
+      "lon": -98.73
+    },
     {
       "id": "9f5b9824",
       "tipo": "bloqueo",
@@ -185,19 +190,6 @@
       "lon": -99.66
     },
     {
-      "id": "1084b98b",
-      "tipo": "bloqueo",
-      "ruta": "Bloqueo en acceso al AIFA afecta a viajeros desde Hidalgo…",
-      "descripcion": "Bloqueo en acceso al AIFA afecta a viajeros desde Hidalgo. En uno de los accesos provenientes de la autopista México-Pachuca. The post Bloqueo en acceso al AIFA afecta a viajeros desde Hidalgo appeared first on Quadratin Hidalgo.",
-      "fecha": "3 septiembre 2026 · 13:01 CST",
-      "fuente": "Quadratin Hidalgo",
-      "url": "https://hidalgo.quadratin.com.mx/sucesos/bloqueo-en-acceso-al-aifa-afecta-a-viajeros-desde-hidalgo/",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 20.11,
-      "lon": -98.73
-    },
-    {
       "id": "205a446a",
       "tipo": "bloqueo",
       "ruta": "autopista y carretera México-Toluca hoy 3 de septiembre - estadodemexico",
@@ -209,19 +201,6 @@
       "badge_txt": "BLOQUEO",
       "lat": 19.29,
       "lon": -99.66
-    },
-    {
-      "id": "5bbf0410",
-      "tipo": "bloqueo",
-      "ruta": "📣 Bloqueo en la #México-#Pachuca afecta el paso hacia el…",
-      "descripcion": "📣 Bloqueo en la #México-#Pachuca afecta el paso hacia el #AIFA a la altura de #Tecámac 😱\nhttps://lajornadaestadodemexico.com/bloqueo-en-la-mexico-pachuca-afecta-el-paso-hacia-el-aifa-a-la-altura-de-tecamac/",
-      "fecha": "3 septiembre 2026 · 08:59 CST",
-      "fuente": "Telegram @jornadaedomex",
-      "url": "https://t.me/jornadaedomex/11928",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 20.12,
-      "lon": -98.73
     }
   ]
 }
