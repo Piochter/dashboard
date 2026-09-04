@@ -1,14 +1,37 @@
 {
-  "ultima_actualizacion": "2026-09-04T03:03:37.231569-06:00",
-  "ultima_actualizacion_legible": "4 de septiembre de 2026 · 03:03 CST",
-  "total": 4,
+  "ultima_actualizacion": "2026-09-04T07:30:36.153413-06:00",
+  "ultima_actualizacion_legible": "4 de septiembre de 2026 · 07:30 CST",
+  "total": 3,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
     "Medios nacionales",
-    "Telegram"
+    "Medios regionales"
   ],
   "grupos": [
+    {
+      "tipo": "cierre_total",
+      "color": "rojo",
+      "icono": "🔴",
+      "label": "CIERRE TOTAL",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "838fe11e",
+          "tipo": "cierre_total",
+          "ruta": "El colapso vial se avecina…",
+          "descripcion": "El colapso vial se avecina. Basta un pequeño choque para que una vialidad en León bloquee la circulación en varias arterias cercanas. Con el regreso a clases, sentimos de nuevo la reducción de la velocidad en cualquier traslado. Cada año será peor. En la ciudad hay unos 700 mil vehículos, entre ligeros, SUVs, camionetas y motocicletas. Este año habrá un […]",
+          "recomendacion": "",
+          "fecha": "4 septiembre 2026 · 06:04 CST",
+          "fecha_iso": "2026-09-04T06:04:00-06:00",
+          "fuente": "AM Guanajuato",
+          "url": "https://www.am.com.mx/opinion/2026/09/04/el-colapso-vial-se-avecina-1840376.html",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL"
+        }
+      ]
+    },
     {
       "tipo": "bloqueo",
       "color": "rojo",
@@ -29,38 +52,6 @@
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO"
-        },
-        {
-          "id": "9f5b9824",
-          "tipo": "bloqueo",
-          "ruta": "Urea automotriz de baja calidad puede elevar costos de mantenimiento…",
-          "descripcion": "Urea automotriz de baja calidad puede elevar costos de mantenimiento en el autotransporte: Noxguard. CUAUTITLÁN, EDOMÉX.– Mantener una unidad en operación no depende únicamente de atender las fallas cuando aparecen; la calidad de los insumos, el mantenimiento preventivo y un diagnóstico adecuado de los sistemas también pueden marcar la diferencia entre continuar el recorrido o enfrentar un paro que termine elevando los costos para las empresas de autotransporte. Así […]",
-          "recomendacion": "",
-          "fecha": "3 septiembre 2026 · 17:00 CST",
-          "fecha_iso": "2026-09-03T17:00:00-06:00",
-          "fuente": "T21 Transporte",
-          "url": "https://t21.com.mx/urea-automotriz-de-baja-calidad-puede-elevar-costos-de-mantenimiento-en-el-autotransporte-noxguard/",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 19.35,
-          "lon": -99.7
-        },
-        {
-          "id": "0abb1cf0",
-          "tipo": "bloqueo",
-          "ruta": "🔴 Continúa bloqueo en la México-Toluca este 3 de septiembre,…",
-          "descripcion": "🔴 Continúa bloqueo en la México-Toluca este 3 de septiembre, ésta es la razón\n\nhttps://lajornadaestadodemexico.com/continua-bloqueo-en-la-mexico-toluca-este-3-de-septiembre-esta-es-la-razon/",
-          "recomendacion": "",
-          "fecha": "3 septiembre 2026 · 16:27 CST",
-          "fecha_iso": "2026-09-03T16:27:00-06:00",
-          "fuente": "Telegram @jornadaedomex",
-          "url": "https://t.me/jornadaedomex/11937",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 19.29,
-          "lon": -99.66
         }
       ]
     },
@@ -72,63 +63,37 @@
       "col2": true,
       "alertas": [
         {
-          "id": "2accd20d",
+          "id": "44e7dbb4",
           "tipo": "cierre_parcial",
-          "ruta": "carretera México-Pachuca Tras un operativo de vigilancia",
-          "descripcion": "🚨🔫 Caen 4 asaltantes de transportistas que operaban en la carretera México-Pachuca Tras un operativo de vigilancia, las autoridades identificaron a los sospechosos a bordo de una camioneta presuntamente relacionada con robos a transporte de carga en - facebook.com. 🚨🔫 Caen 4 asaltantes de transportistas que operaban en la carretera México-Pachuca Tras un operativo de vigilancia, las autoridades identificaron a los sospechosos a bordo de una camioneta presuntamente relacionada con robos a transpo",
+          "ruta": "Tránsito en la Autopista México-Querétaro: Accidentes y Afectaciones Viales -…",
+          "descripcion": "Tránsito en la Autopista México-Querétaro: Accidentes y Afectaciones Viales - N+. Tránsito en la Autopista México-Querétaro: Accidentes y Afectaciones Viales N+",
           "recomendacion": "",
-          "fecha": "3 septiembre 2026 · 19:22 CST",
-          "fecha_iso": "2026-09-03T19:22:00-06:00",
-          "fuente": "facebook.com",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPa3dHbUFNLVpJMjA1UlVxcU9hZ29GWkpZQnI3R2k2dzdTdkx3MTJNYXN2ZFNDdGVVTWZ5SDlEc0NhRy15QUVYdnJ0Z1l1MVpwMUFBdXQ1RWRFeFhDblg4QlR1MnkzdFZmMXVhV0F0cGQ0NEdpZ0VIb1FWR3UydDJsZ2pCUERSM1prYmdfcXN1ODFBMmF1Tm5jQ2VZWXM5RGlKZDJHUWJqLUt2bFVCZU11dWpGa3NiMTY4TTNBc0R5d3BvWlFEVzZKdEdOU2hwWk1IaHI5dmR1em5JWnkwcG9tNmR3?oc=5",
+          "fecha": "4 septiembre 2026 · 00:44 CST",
+          "fecha_iso": "2026-09-04T00:44:00-06:00",
+          "fuente": "N+",
+          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNN2tOMmtPUWZ6VmZJSTZrakFtV3BIdFZOVnltemZSMlhKQW5NMmlsaUVnZ0FjUW5tZWFKU2pTaWNwNU1jQzl0eEF0dzA1c3czdC05S1RvVHBOM2wyNlF4WVdFanRTZy0wMDFDZWZzS0UxRUdWSzhaOWtOR3hUWml3cGUtTEl0eGpPLUJzaFUyZXowQWhwT0Q3SEE3emJjazh3Q0NKUlRuU19OS29LMFZSMUNvVHNCNkFtS3N4U292MGw1cHZUR0tmMTQ5Q2g5NWFPUTJBeS1QYVBhZnY0SjJLSU9hd0hGcGVDYld6MFRfUERmaWM0Q2c?oc=5",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL",
-          "lat": 20.12,
-          "lon": -98.73
+          "lat": 20.1,
+          "lon": -99.5
         }
       ]
     }
   ],
   "para_mapa": [
     {
-      "id": "2accd20d",
+      "id": "44e7dbb4",
       "tipo": "cierre_parcial",
-      "ruta": "carretera México-Pachuca Tras un operativo de vigilancia",
-      "descripcion": "🚨🔫 Caen 4 asaltantes de transportistas que operaban en la carretera México-Pachuca Tras un operativo de vigilancia, las autoridades identificaron a los sospechosos a bordo de una camioneta presuntamente relacionada con robos a transporte de carga en - facebook.com. 🚨🔫 Caen 4 asaltantes de transportistas que operaban en la carretera México-Pachuca Tras un operativo de vigilancia, las autoridades identificaron a los sospechosos a bordo de una camioneta presuntamente relacionada con robos a transpo",
-      "fecha": "3 septiembre 2026 · 19:22 CST",
-      "fuente": "facebook.com",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPa3dHbUFNLVpJMjA1UlVxcU9hZ29GWkpZQnI3R2k2dzdTdkx3MTJNYXN2ZFNDdGVVTWZ5SDlEc0NhRy15QUVYdnJ0Z1l1MVpwMUFBdXQ1RWRFeFhDblg4QlR1MnkzdFZmMXVhV0F0cGQ0NEdpZ0VIb1FWR3UydDJsZ2pCUERSM1prYmdfcXN1ODFBMmF1Tm5jQ2VZWXM5RGlKZDJHUWJqLUt2bFVCZU11dWpGa3NiMTY4TTNBc0R5d3BvWlFEVzZKdEdOU2hwWk1IaHI5dmR1em5JWnkwcG9tNmR3?oc=5",
+      "ruta": "Tránsito en la Autopista México-Querétaro: Accidentes y Afectaciones Viales -…",
+      "descripcion": "Tránsito en la Autopista México-Querétaro: Accidentes y Afectaciones Viales - N+. Tránsito en la Autopista México-Querétaro: Accidentes y Afectaciones Viales N+",
+      "fecha": "4 septiembre 2026 · 00:44 CST",
+      "fuente": "N+",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNN2tOMmtPUWZ6VmZJSTZrakFtV3BIdFZOVnltemZSMlhKQW5NMmlsaUVnZ0FjUW5tZWFKU2pTaWNwNU1jQzl0eEF0dzA1c3czdC05S1RvVHBOM2wyNlF4WVdFanRTZy0wMDFDZWZzS0UxRUdWSzhaOWtOR3hUWml3cGUtTEl0eGpPLUJzaFUyZXowQWhwT0Q3SEE3emJjazh3Q0NKUlRuU19OS29LMFZSMUNvVHNCNkFtS3N4U292MGw1cHZUR0tmMTQ5Q2g5NWFPUTJBeS1QYVBhZnY0SjJLSU9hd0hGcGVDYld6MFRfUERmaWM0Q2c?oc=5",
       "dot_color": "#e67e22",
       "badge_txt": "CIERRE PARCIAL",
-      "lat": 20.12,
-      "lon": -98.73
-    },
-    {
-      "id": "9f5b9824",
-      "tipo": "bloqueo",
-      "ruta": "Urea automotriz de baja calidad puede elevar costos de mantenimiento…",
-      "descripcion": "Urea automotriz de baja calidad puede elevar costos de mantenimiento en el autotransporte: Noxguard. CUAUTITLÁN, EDOMÉX.– Mantener una unidad en operación no depende únicamente de atender las fallas cuando aparecen; la calidad de los insumos, el mantenimiento preventivo y un diagnóstico adecuado de los sistemas también pueden marcar la diferencia entre continuar el recorrido o enfrentar un paro que termine elevando los costos para las empresas de autotransporte. Así […]",
-      "fecha": "3 septiembre 2026 · 17:00 CST",
-      "fuente": "T21 Transporte",
-      "url": "https://t21.com.mx/urea-automotriz-de-baja-calidad-puede-elevar-costos-de-mantenimiento-en-el-autotransporte-noxguard/",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 19.35,
-      "lon": -99.7
-    },
-    {
-      "id": "0abb1cf0",
-      "tipo": "bloqueo",
-      "ruta": "🔴 Continúa bloqueo en la México-Toluca este 3 de septiembre,…",
-      "descripcion": "🔴 Continúa bloqueo en la México-Toluca este 3 de septiembre, ésta es la razón\n\nhttps://lajornadaestadodemexico.com/continua-bloqueo-en-la-mexico-toluca-este-3-de-septiembre-esta-es-la-razon/",
-      "fecha": "3 septiembre 2026 · 16:27 CST",
-      "fuente": "Telegram @jornadaedomex",
-      "url": "https://t.me/jornadaedomex/11937",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 19.29,
-      "lon": -99.66
+      "lat": 20.1,
+      "lon": -99.5
     }
   ]
 }
