@@ -1,36 +1,13 @@
 {
-  "ultima_actualizacion": "2026-09-04T23:43:51.752953-06:00",
-  "ultima_actualizacion_legible": "4 de septiembre de 2026 · 23:43 CST",
+  "ultima_actualizacion": "2026-09-05T03:23:17.008657-06:00",
+  "ultima_actualizacion_legible": "5 de septiembre de 2026 · 03:23 CST",
   "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News",
+    "Medios nacionales",
     "Quadratin + regionales"
   ],
   "grupos": [
-    {
-      "tipo": "cierre_total",
-      "color": "rojo",
-      "icono": "🔴",
-      "label": "CIERRE TOTAL",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "2c0d8650",
-          "tipo": "cierre_total",
-          "ruta": "Volcadura de tráiler con alambrón cierra la México-Tulancingo - El…",
-          "descripcion": "Volcadura de tráiler con alambrón cierra la México-Tulancingo - El Sol de México. Volcadura de tráiler con alambrón cierra la México-Tulancingo El Sol de México",
-          "recomendacion": "",
-          "fecha": "4 septiembre 2026 · 12:54 CST",
-          "fecha_iso": "2026-09-04T12:54:00-06:00",
-          "fuente": "El Sol de México",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPb29NTEp1RXV4RkE4WlpNUlI5MDFHYk5aTnd1WnYzcGwxX3oxb1FkTldaNkQ3YlVKLXBVVnMwMVozc293RjNVTGNIeDJQaE5UVTJiYVpFSXZnenFkLVU4S1JCQnloOWxNTkMtSlYxOGpydXBoNkN2NXk2U0dOdEd5RDV4VFNlNV9ab0l0QkdTWmpoZWhBa3ZBLUZxOXA3SHpnX2NpRGYzLUhvQ0tsa0ZVa3phOA?oc=5",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL"
-        }
-      ]
-    },
     {
       "tipo": "bloqueo",
       "color": "rojo",
@@ -38,6 +15,22 @@
       "label": "BLOQUEOS / MANIFESTACIONES",
       "col2": false,
       "alertas": [
+        {
+          "id": "e17ddd21",
+          "tipo": "bloqueo",
+          "ruta": "Protesta de transportistas por visas se extiende a San Luis…",
+          "descripcion": "Protesta de transportistas por visas se extiende a San Luis Río Colorado. Mexicali, BC., Los choferes de transporte de carga, quienes bloquean desde la mañana del jueves la garita comercial Mexicali-Calexico, en California, ampliaron ayer su protesta al cruce fronterizo de San Luis Río Colorado, Sonora –frontera con Yuma, Arizona–, en espera de que autoridades de Estados Unidos les proporcionen reglas claras sobre el uso de sus visas B1.",
+          "recomendacion": "",
+          "fecha": "5 septiembre 2026 · 01:59 CST",
+          "fecha_iso": "2026-09-05T01:59:00-06:00",
+          "fuente": "La Jornada Estados",
+          "url": "https://www.jornada.com.mx/2026/09/05/estados/023n1est?partner=rss",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 29.07,
+          "lon": -110.96
+        },
         {
           "id": "e565663e",
           "tipo": "bloqueo",
@@ -55,5 +48,19 @@
       ]
     }
   ],
-  "para_mapa": []
+  "para_mapa": [
+    {
+      "id": "e17ddd21",
+      "tipo": "bloqueo",
+      "ruta": "Protesta de transportistas por visas se extiende a San Luis…",
+      "descripcion": "Protesta de transportistas por visas se extiende a San Luis Río Colorado. Mexicali, BC., Los choferes de transporte de carga, quienes bloquean desde la mañana del jueves la garita comercial Mexicali-Calexico, en California, ampliaron ayer su protesta al cruce fronterizo de San Luis Río Colorado, Sonora –frontera con Yuma, Arizona–, en espera de que autoridades de Estados Unidos les proporcionen reglas claras sobre el uso de sus visas B1.",
+      "fecha": "5 septiembre 2026 · 01:59 CST",
+      "fuente": "La Jornada Estados",
+      "url": "https://www.jornada.com.mx/2026/09/05/estados/023n1est?partner=rss",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 29.07,
+      "lon": -110.96
+    }
+  ]
 }
