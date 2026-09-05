@@ -1,10 +1,9 @@
 {
-  "ultima_actualizacion": "2026-09-05T13:29:08.792896-06:00",
-  "ultima_actualizacion_legible": "5 de septiembre de 2026 · 13:29 CST",
-  "total": 4,
+  "ultima_actualizacion": "2026-09-05T15:30:53.049036-06:00",
+  "ultima_actualizacion_legible": "5 de septiembre de 2026 · 15:30 CST",
+  "total": 3,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Medios nacionales",
     "Medios regionales",
     "Quadratin + regionales",
     "Telegram"
@@ -69,22 +68,6 @@
           "badge_txt": "BLOQUEO",
           "lat": 29.07,
           "lon": -110.96
-        },
-        {
-          "id": "e17ddd21",
-          "tipo": "bloqueo",
-          "ruta": "Protesta de transportistas por visas se extiende a San Luis…",
-          "descripcion": "Protesta de transportistas por visas se extiende a San Luis Río Colorado. Mexicali, BC., Los choferes de transporte de carga, quienes bloquean desde la mañana del jueves la garita comercial Mexicali-Calexico, en California, ampliaron ayer su protesta al cruce fronterizo de San Luis Río Colorado, Sonora –frontera con Yuma, Arizona–, en espera de que autoridades de Estados Unidos les proporcionen reglas claras sobre el uso de sus visas B1.",
-          "recomendacion": "",
-          "fecha": "5 septiembre 2026 · 01:59 CST",
-          "fecha_iso": "2026-09-05T01:59:00-06:00",
-          "fuente": "La Jornada Estados",
-          "url": "https://www.jornada.com.mx/2026/09/05/estados/023n1est?partner=rss",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 29.07,
-          "lon": -110.96
         }
       ]
     }
@@ -98,19 +81,6 @@
       "fecha": "5 septiembre 2026 · 05:17 CST",
       "fuente": "Telegram @NOTMEX",
       "url": "https://t.me/NOTMEX/185806",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 29.07,
-      "lon": -110.96
-    },
-    {
-      "id": "e17ddd21",
-      "tipo": "bloqueo",
-      "ruta": "Protesta de transportistas por visas se extiende a San Luis…",
-      "descripcion": "Protesta de transportistas por visas se extiende a San Luis Río Colorado. Mexicali, BC., Los choferes de transporte de carga, quienes bloquean desde la mañana del jueves la garita comercial Mexicali-Calexico, en California, ampliaron ayer su protesta al cruce fronterizo de San Luis Río Colorado, Sonora –frontera con Yuma, Arizona–, en espera de que autoridades de Estados Unidos les proporcionen reglas claras sobre el uso de sus visas B1.",
-      "fecha": "5 septiembre 2026 · 01:59 CST",
-      "fuente": "La Jornada Estados",
-      "url": "https://www.jornada.com.mx/2026/09/05/estados/023n1est?partner=rss",
       "dot_color": "#8e44ad",
       "badge_txt": "BLOQUEO",
       "lat": 29.07,
