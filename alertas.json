@@ -1,14 +1,38 @@
 {
-  "ultima_actualizacion": "2026-09-05T11:40:11.471511-06:00",
-  "ultima_actualizacion_legible": "5 de septiembre de 2026 · 11:40 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-09-05T13:29:08.792896-06:00",
+  "ultima_actualizacion_legible": "5 de septiembre de 2026 · 13:29 CST",
+  "total": 4,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Medios nacionales",
+    "Medios regionales",
     "Quadratin + regionales",
     "Telegram"
   ],
   "grupos": [
+    {
+      "tipo": "cierre_total",
+      "color": "rojo",
+      "icono": "🔴",
+      "label": "CIERRE TOTAL",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "1d860608",
+          "tipo": "cierre_total",
+          "ruta": "Volcadura de pipa activa a cuerpos de emergencia; cargaba 28…",
+          "descripcion": "Volcadura de pipa activa a cuerpos de emergencia; cargaba 28 mil litros de chapopote. El percance generó la movilización de elementos de la Guardia Nacional y cuerpos de emergencia",
+          "recomendacion": "",
+          "fecha": "5 septiembre 2026 · 07:57 CST",
+          "fecha_iso": "2026-09-05T07:57:00-06:00",
+          "fuente": "El Sol de Mexico",
+          "url": "https://oem.com.mx/elsoldemexico/mexico/volcadura-de-pipa-activa-a-cuerpos-de-emergencia-cargaba-28-mil-litros-de-chapopote-31915265",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL"
+        }
+      ]
+    },
     {
       "tipo": "bloqueo",
       "color": "rojo",
