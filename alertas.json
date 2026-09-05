@@ -1,11 +1,11 @@
 {
-  "ultima_actualizacion": "2026-09-04T19:10:21.739229-06:00",
-  "ultima_actualizacion_legible": "4 de septiembre de 2026 · 19:10 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-09-04T23:43:51.752953-06:00",
+  "ultima_actualizacion_legible": "4 de septiembre de 2026 · 23:43 CST",
+  "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
-    "Telegram"
+    "Quadratin + regionales"
   ],
   "grupos": [
     {
@@ -39,29 +39,15 @@
       "col2": false,
       "alertas": [
         {
-          "id": "c6aca369",
+          "id": "e565663e",
           "tipo": "bloqueo",
-          "ruta": "Choferes bloquean la garita Mexicali-Calexico; protestan por retiro de visas…",
-          "descripcion": "Choferes bloquean la garita Mexicali-Calexico; protestan por retiro de visas\nhttps://www.jornada.com.mx/2026/09/04/estados/024n1est?partner=rss\n\nMexicali, BC., Alrededor de 300 choferes de transporte de carga bloquearon con sus unidades la mañana de ayer el acceso a la garita internacional comercial Mexicali-Calexico, en California, en protesta porque el gobierno de Estados Unidos retiró la visa a 17 de ellos, antier; al cierre de esta edición la protesta continuaba.",
+          "ruta": "119",
+          "descripcion": "Obliga bloqueo a recorrer 119 km más para llegar a Puerto Escondido. El viaje puede extenderse de 2.5 horas hasta 7 por la vieja carretera 175",
           "recomendacion": "",
-          "fecha": "4 septiembre 2026 · 09:50 CST",
-          "fecha_iso": "2026-09-04T09:50:00-06:00",
-          "fuente": "Telegram @NOTMEX",
-          "url": "https://t.me/NOTMEX/185794",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        },
-        {
-          "id": "0ea58786",
-          "tipo": "bloqueo",
-          "ruta": "Bloqueos carreteras HOY 4 de septiembre: cierres y accidentes en…",
-          "descripcion": "Bloqueos carreteras HOY 4 de septiembre: cierres y accidentes en autopistas de México - Eje Central. Bloqueos carreteras HOY 4 de septiembre: cierres y accidentes en autopistas de México Eje Central",
-          "recomendacion": "",
-          "fecha": "4 septiembre 2026 · 07:54 CST",
-          "fecha_iso": "2026-09-04T07:54:00-06:00",
-          "fuente": "Eje Central",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWDdEbXB1WFZTYTdDRVkyb1RVaVY2ZXYxNGEzb0NWTnhOSmFiRW5HUTNpZjhHVkQ0WFhWZC0xR1lTazgzcVVtaF8zM013dlFISTU2ZHBDLVlDc0ZwWDJkSFNmQ0hrSUk3ajBsN3cySlZkX3NaU3c0MmFScVZ3LTA0WFQxVEdtVVJKZ0dGOTA5OUVnY2k0ZmVfMEFQTTlMUzFoaFRSNjB4endnYnV2bXUxM1dCdi1WemJSVUFzcHFXWjlwanFI?oc=5",
+          "fecha": "4 septiembre 2026 · 21:27 CST",
+          "fecha_iso": "2026-09-04T21:27:00-06:00",
+          "fuente": "Quadratin Oaxaca",
+          "url": "https://oaxaca.quadratin.com.mx/obliga-bloqueo-a-recorrer-119-km-mas-para-llegar-a-puerto-escondido/",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO"
