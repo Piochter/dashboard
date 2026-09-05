@@ -1,6 +1,6 @@
 {
-  "ultima_actualizacion": "2026-09-05T06:54:00.407050-06:00",
-  "ultima_actualizacion_legible": "5 de septiembre de 2026 · 06:54 CST",
+  "ultima_actualizacion": "2026-09-05T09:43:06.158237-06:00",
+  "ultima_actualizacion_legible": "5 de septiembre de 2026 · 09:43 CST",
   "total": 3,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
@@ -16,6 +16,20 @@
       "label": "BLOQUEOS / MANIFESTACIONES",
       "col2": false,
       "alertas": [
+        {
+          "id": "e804642a",
+          "tipo": "bloqueo",
+          "ruta": "autopista Barranca Larga-Ventanilla",
+          "descripcion": "Normalizan tránsito en autopista Barranca Larga-Ventanilla. Manifestantes se retiraron del km 63; la vía quedó libre en ambos sentidos",
+          "recomendacion": "",
+          "fecha": "5 septiembre 2026 · 08:07 CST",
+          "fecha_iso": "2026-09-05T08:07:00-06:00",
+          "fuente": "Quadratin Oaxaca",
+          "url": "https://oaxaca.quadratin.com.mx/normalizan-transito-en-autopista-barranca-larga-ventanilla/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
         {
           "id": "be107fc9",
           "tipo": "bloqueo",
@@ -47,20 +61,6 @@
           "badge_txt": "BLOQUEO",
           "lat": 29.07,
           "lon": -110.96
-        },
-        {
-          "id": "e565663e",
-          "tipo": "bloqueo",
-          "ruta": "119",
-          "descripcion": "Obliga bloqueo a recorrer 119 km más para llegar a Puerto Escondido. El viaje puede extenderse de 2.5 horas hasta 7 por la vieja carretera 175",
-          "recomendacion": "",
-          "fecha": "4 septiembre 2026 · 21:27 CST",
-          "fecha_iso": "2026-09-04T21:27:00-06:00",
-          "fuente": "Quadratin Oaxaca",
-          "url": "https://oaxaca.quadratin.com.mx/obliga-bloqueo-a-recorrer-119-km-mas-para-llegar-a-puerto-escondido/",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
         }
       ]
     }
