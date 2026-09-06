@@ -1,12 +1,11 @@
 {
-  "ultima_actualizacion": "2026-09-05T17:10:29.040515-06:00",
-  "ultima_actualizacion_legible": "5 de septiembre de 2026 · 17:10 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-09-05T18:54:53.005025-06:00",
+  "ultima_actualizacion_legible": "5 de septiembre de 2026 · 18:54 CST",
+  "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Medios regionales",
-    "Quadratin + regionales",
-    "Telegram"
+    "Quadratin + regionales"
   ],
   "grupos": [
     {
@@ -52,39 +51,9 @@
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO"
-        },
-        {
-          "id": "be107fc9",
-          "tipo": "bloqueo",
-          "ruta": "Protesta de transportistas por visas se extiende a San Luis…",
-          "descripcion": "Protesta de transportistas por visas se extiende a San Luis Río Colorado\nhttps://www.jornada.com.mx/2026/09/05/estados/023n1est?partner=rss\n\nMexicali, BC., Los choferes de transporte de carga, quienes bloquean desde la mañana del jueves la garita comercial Mexicali-Calexico, en California, ampliaron ayer su protesta al cruce fronterizo de San Luis Río Colorado, Sonora –frontera con Yuma, Arizona–, en espera de que autoridades de Estados Unidos les proporcionen reglas claras sobre el uso de sus v",
-          "recomendacion": "",
-          "fecha": "5 septiembre 2026 · 05:17 CST",
-          "fecha_iso": "2026-09-05T05:17:00-06:00",
-          "fuente": "Telegram @NOTMEX",
-          "url": "https://t.me/NOTMEX/185806",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 29.07,
-          "lon": -110.96
         }
       ]
     }
   ],
-  "para_mapa": [
-    {
-      "id": "be107fc9",
-      "tipo": "bloqueo",
-      "ruta": "Protesta de transportistas por visas se extiende a San Luis…",
-      "descripcion": "Protesta de transportistas por visas se extiende a San Luis Río Colorado\nhttps://www.jornada.com.mx/2026/09/05/estados/023n1est?partner=rss\n\nMexicali, BC., Los choferes de transporte de carga, quienes bloquean desde la mañana del jueves la garita comercial Mexicali-Calexico, en California, ampliaron ayer su protesta al cruce fronterizo de San Luis Río Colorado, Sonora –frontera con Yuma, Arizona–, en espera de que autoridades de Estados Unidos les proporcionen reglas claras sobre el uso de sus v",
-      "fecha": "5 septiembre 2026 · 05:17 CST",
-      "fuente": "Telegram @NOTMEX",
-      "url": "https://t.me/NOTMEX/185806",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 29.07,
-      "lon": -110.96
-    }
-  ]
+  "para_mapa": []
 }
