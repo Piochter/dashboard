@@ -1,51 +1,12 @@
 {
-  "ultima_actualizacion": "2026-09-06T07:08:13.922653-06:00",
-  "ultima_actualizacion_legible": "6 de septiembre de 2026 · 07:08 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-09-06T10:14:26.427165-06:00",
+  "ultima_actualizacion_legible": "6 de septiembre de 2026 · 10:14 CST",
+  "total": 0,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Quadratin + regionales"
+    "Google News"
   ],
-  "grupos": [
-    {
-      "tipo": "bloqueo",
-      "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "10e7cb3b",
-          "tipo": "bloqueo",
-          "ruta": "Cumple 24 horas bloqueo carretera Villahermosa-Frontera; hicieron carnitas…",
-          "descripcion": "Cumple 24 horas bloqueo carretera Villahermosa-Frontera; hicieron carnitas. Protestan por las constantes interrupciones en el suministro eléctrico y exigen la construcción de una subestación eléctrica",
-          "recomendacion": "",
-          "fecha": "5 septiembre 2026 · 20:11 CST",
-          "fecha_iso": "2026-09-05T20:11:00-06:00",
-          "fuente": "Quadratin Jalisco",
-          "url": "https://jalisco.quadratin.com.mx/Nacional/cumple-24-horas-bloqueo-carretera-villahermosa-frontera-hicieron-carnitas/",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 17.99,
-          "lon": -92.93
-        }
-      ]
-    }
-  ],
-  "para_mapa": [
-    {
-      "id": "10e7cb3b",
-      "tipo": "bloqueo",
-      "ruta": "Cumple 24 horas bloqueo carretera Villahermosa-Frontera; hicieron carnitas…",
-      "descripcion": "Cumple 24 horas bloqueo carretera Villahermosa-Frontera; hicieron carnitas. Protestan por las constantes interrupciones en el suministro eléctrico y exigen la construcción de una subestación eléctrica",
-      "fecha": "5 septiembre 2026 · 20:11 CST",
-      "fuente": "Quadratin Jalisco",
-      "url": "https://jalisco.quadratin.com.mx/Nacional/cumple-24-horas-bloqueo-carretera-villahermosa-frontera-hicieron-carnitas/",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 17.99,
-      "lon": -92.93
-    }
-  ]
+  "grupos": [],
+  "para_mapa": [],
+  "nota": "Sin alertas activas en la ventana de tiempo configurada."
 }
