@@ -1,12 +1,35 @@
 {
-  "ultima_actualizacion": "2026-09-06T14:35:33.396047-06:00",
-  "ultima_actualizacion_legible": "6 de septiembre de 2026 · 14:35 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-09-06T16:20:55.432151-06:00",
+  "ultima_actualizacion_legible": "6 de septiembre de 2026 · 16:20 CST",
+  "total": 3,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Quadratin + regionales"
   ],
   "grupos": [
+    {
+      "tipo": "cierre_total",
+      "color": "rojo",
+      "icono": "🔴",
+      "label": "CIERRE TOTAL",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "10439831",
+          "tipo": "cierre_total",
+          "ruta": "Megasocavón provoca el cierre total de Enrique Díaz de León…",
+          "descripcion": "Megasocavón provoca el cierre total de Enrique Díaz de León. El hundimiento se ubica en el tramo comprendido entre las calles La Condesa y La Perpetua.",
+          "recomendacion": "",
+          "fecha": "6 septiembre 2026 · 15:16 CST",
+          "fecha_iso": "2026-09-06T15:16:00-06:00",
+          "fuente": "Quadratin Jalisco",
+          "url": "https://jalisco.quadratin.com.mx/principal/megasocavon-provoca-el-cierre-total-de-enrique-diaz-de-leon/",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL"
+        }
+      ]
+    },
     {
       "tipo": "cierre_parcial",
       "color": "amarillo",
