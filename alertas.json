@@ -1,36 +1,12 @@
 {
-  "ultima_actualizacion": "2026-09-05T18:54:53.005025-06:00",
-  "ultima_actualizacion_legible": "5 de septiembre de 2026 · 18:54 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-09-05T23:19:19.667967-06:00",
+  "ultima_actualizacion_legible": "5 de septiembre de 2026 · 23:19 CST",
+  "total": 1,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Medios regionales",
     "Quadratin + regionales"
   ],
   "grupos": [
-    {
-      "tipo": "cierre_total",
-      "color": "rojo",
-      "icono": "🔴",
-      "label": "CIERRE TOTAL",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "1d860608",
-          "tipo": "cierre_total",
-          "ruta": "Volcadura de pipa activa a cuerpos de emergencia; cargaba 28…",
-          "descripcion": "Volcadura de pipa activa a cuerpos de emergencia; cargaba 28 mil litros de chapopote. El percance generó la movilización de elementos de la Guardia Nacional y cuerpos de emergencia",
-          "recomendacion": "",
-          "fecha": "5 septiembre 2026 · 07:57 CST",
-          "fecha_iso": "2026-09-05T07:57:00-06:00",
-          "fuente": "El Sol de Mexico",
-          "url": "https://oem.com.mx/elsoldemexico/mexico/volcadura-de-pipa-activa-a-cuerpos-de-emergencia-cargaba-28-mil-litros-de-chapopote-31915265",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL"
-        }
-      ]
-    },
     {
       "tipo": "bloqueo",
       "color": "rojo",
@@ -39,21 +15,37 @@
       "col2": false,
       "alertas": [
         {
-          "id": "e804642a",
+          "id": "10e7cb3b",
           "tipo": "bloqueo",
-          "ruta": "autopista Barranca Larga-Ventanilla",
-          "descripcion": "Normalizan tránsito en autopista Barranca Larga-Ventanilla. Manifestantes se retiraron del km 63; la vía quedó libre en ambos sentidos",
+          "ruta": "Cumple 24 horas bloqueo carretera Villahermosa-Frontera; hicieron carnitas…",
+          "descripcion": "Cumple 24 horas bloqueo carretera Villahermosa-Frontera; hicieron carnitas. Protestan por las constantes interrupciones en el suministro eléctrico y exigen la construcción de una subestación eléctrica",
           "recomendacion": "",
-          "fecha": "5 septiembre 2026 · 08:07 CST",
-          "fecha_iso": "2026-09-05T08:07:00-06:00",
-          "fuente": "Quadratin Oaxaca",
-          "url": "https://oaxaca.quadratin.com.mx/normalizan-transito-en-autopista-barranca-larga-ventanilla/",
+          "fecha": "5 septiembre 2026 · 20:11 CST",
+          "fecha_iso": "2026-09-05T20:11:00-06:00",
+          "fuente": "Quadratin Jalisco",
+          "url": "https://jalisco.quadratin.com.mx/Nacional/cumple-24-horas-bloqueo-carretera-villahermosa-frontera-hicieron-carnitas/",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
+          "badge_txt": "BLOQUEO",
+          "lat": 17.99,
+          "lon": -92.93
         }
       ]
     }
   ],
-  "para_mapa": []
+  "para_mapa": [
+    {
+      "id": "10e7cb3b",
+      "tipo": "bloqueo",
+      "ruta": "Cumple 24 horas bloqueo carretera Villahermosa-Frontera; hicieron carnitas…",
+      "descripcion": "Cumple 24 horas bloqueo carretera Villahermosa-Frontera; hicieron carnitas. Protestan por las constantes interrupciones en el suministro eléctrico y exigen la construcción de una subestación eléctrica",
+      "fecha": "5 septiembre 2026 · 20:11 CST",
+      "fuente": "Quadratin Jalisco",
+      "url": "https://jalisco.quadratin.com.mx/Nacional/cumple-24-horas-bloqueo-carretera-villahermosa-frontera-hicieron-carnitas/",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 17.99,
+      "lon": -92.93
+    }
+  ]
 }
