@@ -1,10 +1,9 @@
 {
-  "ultima_actualizacion": "2026-09-06T03:34:32.146736-06:00",
-  "ultima_actualizacion_legible": "6 de septiembre de 2026 · 03:34 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-09-06T07:08:13.922653-06:00",
+  "ultima_actualizacion_legible": "6 de septiembre de 2026 · 07:08 CST",
+  "total": 1,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Medios regionales",
     "Quadratin + regionales"
   ],
   "grupos": [
@@ -15,22 +14,6 @@
       "label": "BLOQUEOS / MANIFESTACIONES",
       "col2": false,
       "alertas": [
-        {
-          "id": "55786a5c",
-          "tipo": "bloqueo",
-          "ruta": "Matan a balazos a joven en camioneta sobre la carretera…",
-          "descripcion": "Matan a balazos a joven en camioneta sobre la carretera Guanajuato–Silao. Habitantes de Santa Teresa y de la zona de Ex Hacienda Santa Teresa llamaron a los números de emergencia tras escuchar una ráfaga de disparos en las inmediaciones.",
-          "recomendacion": "",
-          "fecha": "6 septiembre 2026 · 01:12 CST",
-          "fecha_iso": "2026-09-06T01:12:00-06:00",
-          "fuente": "AM Guanajuato",
-          "url": "https://www.am.com.mx/guanajuato-capital/2026/09/06/matan-a-balazos-a-joven-en-camioneta-sobre-la-carretera-guanajuato-silao-1841127.html",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 21.02,
-          "lon": -101.26
-        },
         {
           "id": "10e7cb3b",
           "tipo": "bloqueo",
@@ -51,19 +34,6 @@
     }
   ],
   "para_mapa": [
-    {
-      "id": "55786a5c",
-      "tipo": "bloqueo",
-      "ruta": "Matan a balazos a joven en camioneta sobre la carretera…",
-      "descripcion": "Matan a balazos a joven en camioneta sobre la carretera Guanajuato–Silao. Habitantes de Santa Teresa y de la zona de Ex Hacienda Santa Teresa llamaron a los números de emergencia tras escuchar una ráfaga de disparos en las inmediaciones.",
-      "fecha": "6 septiembre 2026 · 01:12 CST",
-      "fuente": "AM Guanajuato",
-      "url": "https://www.am.com.mx/guanajuato-capital/2026/09/06/matan-a-balazos-a-joven-en-camioneta-sobre-la-carretera-guanajuato-silao-1841127.html",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 21.02,
-      "lon": -101.26
-    },
     {
       "id": "10e7cb3b",
       "tipo": "bloqueo",
