@@ -1,12 +1,36 @@
 {
-  "ultima_actualizacion": "2026-09-07T03:43:18.794982-06:00",
-  "ultima_actualizacion_legible": "7 de septiembre de 2026 · 03:43 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-09-07T09:16:11.798655-06:00",
+  "ultima_actualizacion_legible": "7 de septiembre de 2026 · 09:16 CST",
+  "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Medios regionales"
+    "Google News",
+    "Telegram"
   ],
   "grupos": [
+    {
+      "tipo": "bloqueo",
+      "color": "rojo",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "1e567219",
+          "tipo": "bloqueo",
+          "ruta": "Bloqueos carreteras HOY 7 de septiembre: Autopistas cerradas en México,…",
+          "descripcion": "Bloqueos carreteras HOY 7 de septiembre: Autopistas cerradas en México, accidentes viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 7 de septiembre: Autopistas cerradas en México, accidentes viales y rutas alternas según CAPUFE Eje Central",
+          "recomendacion": "",
+          "fecha": "7 septiembre 2026 · 07:14 CST",
+          "fecha_iso": "2026-09-07T07:14:00-06:00",
+          "fuente": "Eje Central",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPZ29xSFdLcUJYN1NmN09CZW9zcmpVTmEzMWMzSHlMMU1WUlVGcTFJTGc4WFNySXgyZjU1c0l2ZWREalNHMG9mUmVkODRlQTdrSE9rSFNNb2ZKWm1Ieml0bEZyV2FyU0ROTlJYcWFMdlpQajU0eDVSWTFaZTB4akxNZmVOSllWUlhZWEIyMm9aVTc0eFR2R2ZKN2NuMms5Y05RTXhHcklyQTdDQlNJb0RKa3ZxSUpYeUNEUF9JMVpoTlFxQjdSRE9UU0FsUl9WRlNBX2R5LTFEZWtaa2NYOWlFOXptWkN6VVY3UldKek5PeWM?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        }
+      ]
+    },
     {
       "tipo": "cierre_parcial",
       "color": "amarillo",
@@ -15,15 +39,15 @@
       "col2": true,
       "alertas": [
         {
-          "id": "46fcd690",
+          "id": "fb387a86",
           "tipo": "cierre_parcial",
-          "ruta": "Choque en carretera Pénjamo–La Piedad deja tres heridos graves en…",
-          "descripcion": "Choque en carretera Pénjamo–La Piedad deja tres heridos graves en El Mármol. El percance vial tuvo lugar alrededor de las 9:00 de la noche del sábado 5 de septiembre a la altura del entronque que conduce a la comunidad de El Mármol.",
+          "ruta": "🚧 Reportan 4cc1d3nt3 antes de la caseta #ElDorado rumbo a…",
+          "descripcion": "🚧 Reportan 4cc1d3nt3 antes de la caseta #ElDorado rumbo a #Atlacomulco 👇🏻\nhttps://lajornadaestadodemexico.com/accidente-antes-de-la-caseta-el-dorado-rumbo-a-atlacomulco/",
           "recomendacion": "",
-          "fecha": "6 septiembre 2026 · 18:56 CST",
-          "fecha_iso": "2026-09-06T18:56:00-06:00",
-          "fuente": "AM Guanajuato",
-          "url": "https://www.am.com.mx/guanajuato-sur/2026/09/06/choque-en-carretera-penjamo-la-piedad-deja-tres-heridos-graves-en-el-marmol-1841293.html",
+          "fecha": "7 septiembre 2026 · 07:44 CST",
+          "fecha_iso": "2026-09-07T07:44:00-06:00",
+          "fuente": "Telegram @jornadaedomex",
+          "url": "https://t.me/jornadaedomex/11984",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL"
