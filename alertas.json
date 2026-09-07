@@ -1,35 +1,12 @@
 {
-  "ultima_actualizacion": "2026-09-06T18:07:12.955119-06:00",
-  "ultima_actualizacion_legible": "6 de septiembre de 2026 · 18:07 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-09-06T22:33:38.109204-06:00",
+  "ultima_actualizacion_legible": "6 de septiembre de 2026 · 22:33 CST",
+  "total": 1,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Quadratin + regionales"
+    "Medios regionales"
   ],
   "grupos": [
-    {
-      "tipo": "cierre_total",
-      "color": "rojo",
-      "icono": "🔴",
-      "label": "CIERRE TOTAL",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "10439831",
-          "tipo": "cierre_total",
-          "ruta": "Megasocavón provoca el cierre total de Enrique Díaz de León…",
-          "descripcion": "Megasocavón provoca el cierre total de Enrique Díaz de León. El hundimiento se ubica en el tramo comprendido entre las calles La Condesa y La Perpetua.",
-          "recomendacion": "",
-          "fecha": "6 septiembre 2026 · 15:16 CST",
-          "fecha_iso": "2026-09-06T15:16:00-06:00",
-          "fuente": "Quadratin Jalisco",
-          "url": "https://jalisco.quadratin.com.mx/principal/megasocavon-provoca-el-cierre-total-de-enrique-diaz-de-leon/",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL"
-        }
-      ]
-    },
     {
       "tipo": "cierre_parcial",
       "color": "amarillo",
@@ -38,37 +15,21 @@
       "col2": true,
       "alertas": [
         {
-          "id": "c7d89b7e",
+          "id": "46fcd690",
           "tipo": "cierre_parcial",
-          "ruta": "Marina brinda apoyo ante incendio de 2 tractocamiones…",
-          "descripcion": "Marina brinda apoyo ante incendio de 2 tractocamiones. En inmediaciones del Recinto Portuario de Veracruz",
+          "ruta": "Choque en carretera Pénjamo–La Piedad deja tres heridos graves en…",
+          "descripcion": "Choque en carretera Pénjamo–La Piedad deja tres heridos graves en El Mármol. El percance vial tuvo lugar alrededor de las 9:00 de la noche del sábado 5 de septiembre a la altura del entronque que conduce a la comunidad de El Mármol.",
           "recomendacion": "",
-          "fecha": "6 septiembre 2026 · 14:17 CST",
-          "fecha_iso": "2026-09-06T14:17:00-06:00",
-          "fuente": "Quadratin Veracruz",
-          "url": "https://veracruz.quadratin.com.mx/marina-brinda-apoyo-ante-incendio-de-2-tractocamiones/",
+          "fecha": "6 septiembre 2026 · 18:56 CST",
+          "fecha_iso": "2026-09-06T18:56:00-06:00",
+          "fuente": "AM Guanajuato",
+          "url": "https://www.am.com.mx/guanajuato-sur/2026/09/06/choque-en-carretera-penjamo-la-piedad-deja-tres-heridos-graves-en-el-marmol-1841293.html",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.18,
-          "lon": -96.14
+          "badge_txt": "CIERRE PARCIAL"
         }
       ]
     }
   ],
-  "para_mapa": [
-    {
-      "id": "c7d89b7e",
-      "tipo": "cierre_parcial",
-      "ruta": "Marina brinda apoyo ante incendio de 2 tractocamiones…",
-      "descripcion": "Marina brinda apoyo ante incendio de 2 tractocamiones. En inmediaciones del Recinto Portuario de Veracruz",
-      "fecha": "6 septiembre 2026 · 14:17 CST",
-      "fuente": "Quadratin Veracruz",
-      "url": "https://veracruz.quadratin.com.mx/marina-brinda-apoyo-ante-incendio-de-2-tractocamiones/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.18,
-      "lon": -96.14
-    }
-  ]
+  "para_mapa": []
 }
