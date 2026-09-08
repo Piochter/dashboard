@@ -1,13 +1,37 @@
 {
-  "ultima_actualizacion": "2026-09-08T07:39:59.503875-06:00",
-  "ultima_actualizacion_legible": "8 de septiembre de 2026 · 07:39 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-09-08T11:30:43.727568-06:00",
+  "ultima_actualizacion_legible": "8 de septiembre de 2026 · 11:30 CST",
+  "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Medios nacionales",
+    "Quadratin + regionales",
     "Telegram"
   ],
   "grupos": [
+    {
+      "tipo": "bloqueo",
+      "color": "rojo",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "8596a3d8",
+          "tipo": "bloqueo",
+          "ruta": "carretera en Tepotzotlán ante omisión de Gely Zuppa",
+          "descripcion": "Bachea vecino carretera en Tepotzotlán ante omisión de Gely Zuppa. Harto de las promesas incumplidas de la alcaldesa, un habitante reparó con recursos propios la ruta hacia los pueblos altos de Tepotzotlán",
+          "recomendacion": "",
+          "fecha": "8 septiembre 2026 · 10:30 CST",
+          "fecha_iso": "2026-09-08T10:30:00-06:00",
+          "fuente": "Quadratin EdoMex",
+          "url": "https://edomex.quadratin.com.mx/bachea-vecino-carretera-en-tepotzotlan-ante-omision-de-gely-zuppa/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        }
+      ]
+    },
     {
       "tipo": "obra",
       "color": "verde",
