@@ -1,12 +1,36 @@
 {
-  "ultima_actualizacion": "2026-09-08T03:15:44.861384-06:00",
-  "ultima_actualizacion_legible": "8 de septiembre de 2026 · 03:15 CST",
-  "total": 0,
+  "ultima_actualizacion": "2026-09-08T07:39:59.503875-06:00",
+  "ultima_actualizacion_legible": "8 de septiembre de 2026 · 07:39 CST",
+  "total": 1,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News"
+    "Medios nacionales",
+    "Telegram"
   ],
-  "grupos": [],
-  "para_mapa": [],
-  "nota": "Sin alertas activas en la ventana de tiempo configurada."
+  "grupos": [
+    {
+      "tipo": "obra",
+      "color": "verde",
+      "icono": "🚧",
+      "label": "OBRA CONTINUA",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "018bcacd",
+          "tipo": "obra",
+          "ruta": "Fallecieron seis personas dentro de una combi varada por inundación…",
+          "descripcion": "Fallecieron seis personas dentro de una combi varada por inundación en Tultitlán\nhttps://www.jornada.com.mx/2026/09/08/estados/025n1est?partner=rss\n\nTultitlán, Méx., Cuatro hombres y dos mujeres integrantes de una familia que regresaba de una reunión fallecieron antenoche, presumiblemente por inhalar gas que emanó de una combi de transporte público de la Ruta 30 en la cual viajaban, la cual se quedó atascada en un tramo de obras de pavimentación en la avenida Recursos Hidráulicos, colonia Cueyam",
+          "recomendacion": "",
+          "fecha": "8 septiembre 2026 · 05:26 CST",
+          "fecha_iso": "2026-09-08T05:26:00-06:00",
+          "fuente": "Telegram @NOTMEX",
+          "url": "https://t.me/NOTMEX/185866",
+          "dot_color": "#27ae60",
+          "badge": "badge-obra",
+          "badge_txt": "OBRA CONTINUA"
+        }
+      ]
+    }
+  ],
+  "para_mapa": []
 }
