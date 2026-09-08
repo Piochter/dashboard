@@ -1,35 +1,12 @@
 {
-  "ultima_actualizacion": "2026-09-07T22:56:25.026065-06:00",
-  "ultima_actualizacion_legible": "7 de septiembre de 2026 · 22:56 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-09-08T03:15:44.861384-06:00",
+  "ultima_actualizacion_legible": "8 de septiembre de 2026 · 03:15 CST",
+  "total": 0,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Medios regionales"
+    "Google News"
   ],
-  "grupos": [
-    {
-      "tipo": "cierre_parcial",
-      "color": "amarillo",
-      "icono": "🟡",
-      "label": "CIERRE PARCIAL / ACCIDENTES",
-      "col2": true,
-      "alertas": [
-        {
-          "id": "e49c6b5b",
-          "tipo": "cierre_parcial",
-          "ruta": "Joven muere en accidente carretero en Mascota tras caer con…",
-          "descripcion": "Joven muere en accidente carretero en Mascota tras caer con su camioneta a un barranco. El siniestro ocurrió la tarde de este lunes a la altura del kilómetro 95 de la carretera federal 70",
-          "recomendacion": "",
-          "fecha": "7 septiembre 2026 · 19:33 CST",
-          "fecha_iso": "2026-09-07T19:33:00-06:00",
-          "fuente": "El Informador Jalisco",
-          "url": "https://www.informador.mx/jalisco/seguridad-en-jalisco-joven-muere-en-accidente-carretero-en-mascota-tras-caer-con-su-camioneta-a-un-barranco-20260907-0194.html",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
-        }
-      ]
-    }
-  ],
-  "para_mapa": []
+  "grupos": [],
+  "para_mapa": [],
+  "nota": "Sin alertas activas en la ventana de tiempo configurada."
 }
