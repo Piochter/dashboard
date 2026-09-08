@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-09-07T16:09:14.386941-06:00",
-  "ultima_actualizacion_legible": "7 de septiembre de 2026 · 16:09 CST",
-  "total": 6,
+  "ultima_actualizacion": "2026-09-07T18:22:22.901511-06:00",
+  "ultima_actualizacion_legible": "7 de septiembre de 2026 · 18:22 CST",
+  "total": 5,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
@@ -71,22 +71,6 @@
           "lon": -103.35
         },
         {
-          "id": "b3ebe499",
-          "tipo": "cierre_parcial",
-          "ruta": "Estas son los señalamientos contra el alcalde de Esperanza, Puebla…",
-          "descripcion": "Estas son los señalamientos contra el alcalde de Esperanza, Puebla. El presidente municipal Isaac “N” fue detenido por autoridades federales y estatales bajo la acusación de encabezar, junto a funcionarios locales, una estructura criminal que facilitaba el asalto a transporte de carga",
-          "recomendacion": "",
-          "fecha": "7 septiembre 2026 · 14:05 CST",
-          "fecha_iso": "2026-09-07T14:05:00-06:00",
-          "fuente": "El Informador Jalisco",
-          "url": "https://www.informador.mx/mexico/los-senalamientos-contra-el-alcalde-de-esperanza-lo-acusan-de-integrar-red-de-robo-a-carga-extorsion-y-secuestro-20260907-0130.html",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.04,
-          "lon": -98.2
-        },
-        {
           "id": "9393eb49",
           "tipo": "cierre_parcial",
           "ruta": "Confirma García Harfuch detención del edil de Esperanza y 8…",
@@ -130,19 +114,6 @@
       "badge_txt": "CIERRE PARCIAL",
       "lat": 20.66,
       "lon": -103.35
-    },
-    {
-      "id": "b3ebe499",
-      "tipo": "cierre_parcial",
-      "ruta": "Estas son los señalamientos contra el alcalde de Esperanza, Puebla…",
-      "descripcion": "Estas son los señalamientos contra el alcalde de Esperanza, Puebla. El presidente municipal Isaac “N” fue detenido por autoridades federales y estatales bajo la acusación de encabezar, junto a funcionarios locales, una estructura criminal que facilitaba el asalto a transporte de carga",
-      "fecha": "7 septiembre 2026 · 14:05 CST",
-      "fuente": "El Informador Jalisco",
-      "url": "https://www.informador.mx/mexico/los-senalamientos-contra-el-alcalde-de-esperanza-lo-acusan-de-integrar-red-de-robo-a-carga-extorsion-y-secuestro-20260907-0130.html",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.04,
-      "lon": -98.2
     }
   ]
 }
