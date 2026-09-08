@@ -1,38 +1,14 @@
 {
-  "ultima_actualizacion": "2026-09-08T14:08:03.917825-06:00",
-  "ultima_actualizacion_legible": "8 de septiembre de 2026 · 14:08 CST",
-  "total": 5,
+  "ultima_actualizacion": "2026-09-08T16:38:42.496941-06:00",
+  "ultima_actualizacion_legible": "8 de septiembre de 2026 · 16:38 CST",
+  "total": 4,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
-    "Medios nacionales",
     "Quadratin + regionales",
     "Telegram"
   ],
   "grupos": [
-    {
-      "tipo": "cierre_total",
-      "color": "rojo",
-      "icono": "🔴",
-      "label": "CIERRE TOTAL",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "604eb9df",
-          "tipo": "cierre_total",
-          "ruta": "autopista Esperanza-Maltrata",
-          "descripcion": "Volcadura de tráiler provoca caos vial en autopista Esperanza-Maltrata. El operador de una unidad de carga perdió el control",
-          "recomendacion": "",
-          "fecha": "8 septiembre 2026 · 11:43 CST",
-          "fecha_iso": "2026-09-08T11:43:00-06:00",
-          "fuente": "Quadratin Veracruz",
-          "url": "https://veracruz.quadratin.com.mx/volcadura-de-trailer-provoca-caos-vial-en-autopista-esperanza-maltrata/",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL"
-        }
-      ]
-    },
     {
       "tipo": "bloqueo",
       "color": "rojo",
