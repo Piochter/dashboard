@@ -1,14 +1,38 @@
 {
-  "ultima_actualizacion": "2026-09-08T11:30:43.727568-06:00",
-  "ultima_actualizacion_legible": "8 de septiembre de 2026 · 11:30 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-09-08T14:08:03.917825-06:00",
+  "ultima_actualizacion_legible": "8 de septiembre de 2026 · 14:08 CST",
+  "total": 5,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
+    "Google News",
     "Medios nacionales",
     "Quadratin + regionales",
     "Telegram"
   ],
   "grupos": [
+    {
+      "tipo": "cierre_total",
+      "color": "rojo",
+      "icono": "🔴",
+      "label": "CIERRE TOTAL",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "604eb9df",
+          "tipo": "cierre_total",
+          "ruta": "autopista Esperanza-Maltrata",
+          "descripcion": "Volcadura de tráiler provoca caos vial en autopista Esperanza-Maltrata. El operador de una unidad de carga perdió el control",
+          "recomendacion": "",
+          "fecha": "8 septiembre 2026 · 11:43 CST",
+          "fecha_iso": "2026-09-08T11:43:00-06:00",
+          "fuente": "Quadratin Veracruz",
+          "url": "https://veracruz.quadratin.com.mx/volcadura-de-trailer-provoca-caos-vial-en-autopista-esperanza-maltrata/",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL"
+        }
+      ]
+    },
     {
       "tipo": "bloqueo",
       "color": "rojo",
@@ -17,18 +41,57 @@
       "col2": false,
       "alertas": [
         {
-          "id": "8596a3d8",
+          "id": "7db79533",
           "tipo": "bloqueo",
-          "ruta": "carretera en Tepotzotlán ante omisión de Gely Zuppa",
-          "descripcion": "Bachea vecino carretera en Tepotzotlán ante omisión de Gely Zuppa. Harto de las promesas incumplidas de la alcaldesa, un habitante reparó con recursos propios la ruta hacia los pueblos altos de Tepotzotlán",
+          "ruta": "Reporte de Carreteras Cerradas por Bloqueos o Accidentes, Según Reportes…",
+          "descripcion": "Reporte de Carreteras Cerradas por Bloqueos o Accidentes, Según Reportes de Capufe y GN - N+. Reporte de Carreteras Cerradas por Bloqueos o Accidentes, Según Reportes de Capufe y GN N+",
           "recomendacion": "",
-          "fecha": "8 septiembre 2026 · 10:30 CST",
-          "fecha_iso": "2026-09-08T10:30:00-06:00",
-          "fuente": "Quadratin EdoMex",
-          "url": "https://edomex.quadratin.com.mx/bachea-vecino-carretera-en-tepotzotlan-ante-omision-de-gely-zuppa/",
+          "fecha": "8 septiembre 2026 · 09:14 CST",
+          "fecha_iso": "2026-09-08T09:14:00-06:00",
+          "fuente": "N+",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORUdqdHNlTlBNWnZMd3lBUmw3VlRjM2dfc0w4SVlaTE9SMVhVNXVtbFdkallTaTUxSWFBTUJzOGhqZ2ltQ0ZJZDFidXhpV04xdUZMS0paZXdGRHo3UFg5WkRYYmZrd2NtMEl1b0xOY0xDN0ZscEo1SXB2bUxqazZaQjNTRXFoWTlPV2hVbk14c1ZYQmRIbzlReVRrVENMcG01YkpBbVRGZXVaZTVDY0dLT3dvWjl0ZVR2TElIZXU5WDVMcG9Sd0lVNUxwbw?oc=5",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO"
+        }
+      ]
+    },
+    {
+      "tipo": "cierre_parcial",
+      "color": "amarillo",
+      "icono": "🟡",
+      "label": "CIERRE PARCIAL / ACCIDENTES",
+      "col2": true,
+      "alertas": [
+        {
+          "id": "43564d94",
+          "tipo": "cierre_parcial",
+          "ruta": "Cierran carretera Real del Monte-Huasca; no hay fecha de reapertura…",
+          "descripcion": "Cierran carretera Real del Monte-Huasca; no hay fecha de reapertura. PACHUCA, Hgo., 8 de septiembre de 2026.- La carretera Real del Monte-Huasca continuará cerrada de manera temporal luego de que la Secretaría de Infraestructura, Comunicaciones y Transportes (SICT) detectó daños en un talud que terminaron deformando el pavimento. La afectación se concentra entre los kilómetros 18+900 y 19+140, en dirección Huasca-Real del Monte. La dependencia […] The post Cierran carretera Real del Monte-Huasca",
+          "recomendacion": "",
+          "fecha": "8 septiembre 2026 · 13:06 CST",
+          "fecha_iso": "2026-09-08T13:06:00-06:00",
+          "fuente": "Quadratin Hidalgo",
+          "url": "https://hidalgo.quadratin.com.mx/sucesos/cierran-carretera-real-del-monte-huasca-no-hay-fecha-de-reapertura/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 25.2,
+          "lon": -102.0
+        },
+        {
+          "id": "80b070a6",
+          "tipo": "cierre_parcial",
+          "ruta": "Accidente en Tlalmanalco paraliza la circulación hoy 8 de septiembre…",
+          "descripcion": "Accidente en Tlalmanalco paraliza la circulación hoy 8 de septiembre\n https://lajornadaestadodemexico.com/accidente-en-tlalmanalco-paraliza-la-circulacion-hoy-8-de-septiembre/",
+          "recomendacion": "",
+          "fecha": "8 septiembre 2026 · 11:37 CST",
+          "fecha_iso": "2026-09-08T11:37:00-06:00",
+          "fuente": "Telegram @jornadaedomex",
+          "url": "https://t.me/jornadaedomex/12000",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
         }
       ]
     },
@@ -56,5 +119,19 @@
       ]
     }
   ],
-  "para_mapa": []
+  "para_mapa": [
+    {
+      "id": "43564d94",
+      "tipo": "cierre_parcial",
+      "ruta": "Cierran carretera Real del Monte-Huasca; no hay fecha de reapertura…",
+      "descripcion": "Cierran carretera Real del Monte-Huasca; no hay fecha de reapertura. PACHUCA, Hgo., 8 de septiembre de 2026.- La carretera Real del Monte-Huasca continuará cerrada de manera temporal luego de que la Secretaría de Infraestructura, Comunicaciones y Transportes (SICT) detectó daños en un talud que terminaron deformando el pavimento. La afectación se concentra entre los kilómetros 18+900 y 19+140, en dirección Huasca-Real del Monte. La dependencia […] The post Cierran carretera Real del Monte-Huasca",
+      "fecha": "8 septiembre 2026 · 13:06 CST",
+      "fuente": "Quadratin Hidalgo",
+      "url": "https://hidalgo.quadratin.com.mx/sucesos/cierran-carretera-real-del-monte-huasca-no-hay-fecha-de-reapertura/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 25.2,
+      "lon": -102.0
+    }
+  ]
 }
