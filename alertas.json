@@ -1,11 +1,12 @@
 {
-  "ultima_actualizacion": "2026-09-09T14:12:36.731657-06:00",
-  "ultima_actualizacion_legible": "9 de septiembre de 2026 · 14:12 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-09-09T16:33:06.505194-06:00",
+  "ultima_actualizacion_legible": "9 de septiembre de 2026 · 16:33 CST",
+  "total": 7,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
-    "Quadratin + regionales"
+    "Quadratin + regionales",
+    "Telegram"
   ],
   "grupos": [
     {
@@ -41,13 +42,29 @@
       "col2": false,
       "alertas": [
         {
+          "id": "d473e129",
+          "tipo": "bloqueo",
+          "ruta": "carretera 120 en Landa de Matamoros",
+          "descripcion": "Pipa de gas bloqueó la carretera 120 en Landa de Matamoros. Un tractocamión acoplado con una pipa cargada con gas LP proveniente de San Luis Potosí The post Pipa de gas bloqueó la carretera 120 en Landa de Matamoros appeared first on Quadratin Querétaro.",
+          "recomendacion": "",
+          "fecha": "9 septiembre 2026 · 15:00 CST",
+          "fecha_iso": "2026-09-09T15:00:00-06:00",
+          "fuente": "Quadratin Queretaro",
+          "url": "https://queretaro.quadratin.com.mx/pipa-de-gas-bloqueo-la-carretera-120-en-landa-de-matamoros/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 22.15,
+          "lon": -100.97
+        },
+        {
           "id": "e8078ef0",
           "tipo": "bloqueo",
           "ruta": "Carreteras Cerradas por Bloqueos o Accidentes, Según Reportes de Capufe…",
           "descripcion": "Carreteras Cerradas por Bloqueos o Accidentes, Según Reportes de Capufe y GN - N+. Carreteras Cerradas por Bloqueos o Accidentes, Según Reportes de Capufe y GN N+",
           "recomendacion": "",
-          "fecha": "9 septiembre 2026 · 11:56 CST",
-          "fecha_iso": "2026-09-09T11:56:00-06:00",
+          "fecha": "9 septiembre 2026 · 13:13 CST",
+          "fecha_iso": "2026-09-09T13:13:00-06:00",
           "fuente": "N+",
           "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdmJQcmE3N1pjVjNPbjBYblU5Z0pZYzRCQ0FoZUtGdDF2TjhKUDVuako5dVNEN2VlZ0ZYdUhfMjhlN2ppWmoyUHQ1dGpfc3FwZVhldF9uVjZHbGI1VGZRT0R4VjFheUJYS09SaTk5WE9mWWIwdnlIRVg2REs2dExra1k2clNHbjFydmotZWJ2c3l5WkYxeklGMkdMcGh2OTlMRzZubXlfVldjSlFfOXRSMUxLWGlkMVo5NUZaRXBzUjBOdk1TZWFWaDRQMA?oc=5",
           "dot_color": "#8e44ad",
@@ -63,6 +80,54 @@
       "label": "CIERRE PARCIAL / ACCIDENTES",
       "col2": true,
       "alertas": [
+        {
+          "id": "84b74c45",
+          "tipo": "cierre_parcial",
+          "ruta": "Detienen a alcalde de Esperanza, Puebla, en operativo; acusan al…",
+          "descripcion": "Detienen a alcalde de Esperanza, Puebla, en operativo; acusan al morenista de robo de transporte de [carga](http://telegra.ph/Detienen-a-alcalde-de-Esperanza-Puebla-en-operativo-acusan-al-morenista-de-robo-de-transporte-de-carga-09-07)\n\n__via__ [www.elfinanciero.com.mx](https://www.elfinanciero.com.mx/estados/2026/09/07/detienen-a-alcalde-de-esperanza-puebla-en-operativo-acusan-al-morenista-de-robo-de-transporte-de-carga/)",
+          "recomendacion": "",
+          "fecha": "9 septiembre 2026 · 16:03 CST",
+          "fecha_iso": "2026-09-09T16:03:00-06:00",
+          "fuente": "Telegram @NOTMEX",
+          "url": "https://t.me/NOTMEX/185885",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 19.04,
+          "lon": -98.2
+        },
+        {
+          "id": "2c26d152",
+          "tipo": "cierre_parcial",
+          "ruta": "Lluvias dejan anegaciones y vehículos varados en la zona metropolitana…",
+          "descripcion": "Lluvias dejan anegaciones y vehículos varados en la zona metropolitana de Querétaro. Las lluvias registradas durante la tarde y noche de este martes 8 de septiembre dejaron escurrimientos, anegaciones en vialidades The post Lluvias dejan anegaciones y vehículos varados en la zona metropolitana de Querétaro appeared first on Quadratin Querétaro.",
+          "recomendacion": "",
+          "fecha": "9 septiembre 2026 · 16:00 CST",
+          "fecha_iso": "2026-09-09T16:00:00-06:00",
+          "fuente": "Quadratin Queretaro",
+          "url": "https://queretaro.quadratin.com.mx/lluvias-dejan-anegaciones-y-vehiculos-varados-en-la-zona-metropolitana-de-queretaro/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 20.59,
+          "lon": -100.39
+        },
+        {
+          "id": "63a99f97",
+          "tipo": "cierre_parcial",
+          "ruta": "🌧️🚗 #PrecauciónVial: ¡Pavimento mojado! Un vehículo derrapó y provocó choque…",
+          "descripcion": "🌧️🚗 #PrecauciónVial: ¡Pavimento mojado! Un vehículo derrapó y provocó choque sobre la carretera libre México–Toluca, pasando La Pila. 👇\n[http://lajornadaestadodemexico.com/accidente-en-la-libre-direccion-a-toluca-deja-danos-materiales-no-hay-heridos/](http://lajornadaestadodemexico.com/accidente-en-la-libre-direccion-a-toluca-deja-danos-materiales-no-hay-heridos/)",
+          "recomendacion": "",
+          "fecha": "9 septiembre 2026 · 14:49 CST",
+          "fecha_iso": "2026-09-09T14:49:00-06:00",
+          "fuente": "Telegram @jornadaedomex",
+          "url": "https://t.me/jornadaedomex/12015",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 19.29,
+          "lon": -99.66
+        },
         {
           "id": "3150455d",
           "tipo": "cierre_parcial",
@@ -83,6 +148,58 @@
     }
   ],
   "para_mapa": [
+    {
+      "id": "84b74c45",
+      "tipo": "cierre_parcial",
+      "ruta": "Detienen a alcalde de Esperanza, Puebla, en operativo; acusan al…",
+      "descripcion": "Detienen a alcalde de Esperanza, Puebla, en operativo; acusan al morenista de robo de transporte de [carga](http://telegra.ph/Detienen-a-alcalde-de-Esperanza-Puebla-en-operativo-acusan-al-morenista-de-robo-de-transporte-de-carga-09-07)\n\n__via__ [www.elfinanciero.com.mx](https://www.elfinanciero.com.mx/estados/2026/09/07/detienen-a-alcalde-de-esperanza-puebla-en-operativo-acusan-al-morenista-de-robo-de-transporte-de-carga/)",
+      "fecha": "9 septiembre 2026 · 16:03 CST",
+      "fuente": "Telegram @NOTMEX",
+      "url": "https://t.me/NOTMEX/185885",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 19.04,
+      "lon": -98.2
+    },
+    {
+      "id": "2c26d152",
+      "tipo": "cierre_parcial",
+      "ruta": "Lluvias dejan anegaciones y vehículos varados en la zona metropolitana…",
+      "descripcion": "Lluvias dejan anegaciones y vehículos varados en la zona metropolitana de Querétaro. Las lluvias registradas durante la tarde y noche de este martes 8 de septiembre dejaron escurrimientos, anegaciones en vialidades The post Lluvias dejan anegaciones y vehículos varados en la zona metropolitana de Querétaro appeared first on Quadratin Querétaro.",
+      "fecha": "9 septiembre 2026 · 16:00 CST",
+      "fuente": "Quadratin Queretaro",
+      "url": "https://queretaro.quadratin.com.mx/lluvias-dejan-anegaciones-y-vehiculos-varados-en-la-zona-metropolitana-de-queretaro/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 20.59,
+      "lon": -100.39
+    },
+    {
+      "id": "d473e129",
+      "tipo": "bloqueo",
+      "ruta": "carretera 120 en Landa de Matamoros",
+      "descripcion": "Pipa de gas bloqueó la carretera 120 en Landa de Matamoros. Un tractocamión acoplado con una pipa cargada con gas LP proveniente de San Luis Potosí The post Pipa de gas bloqueó la carretera 120 en Landa de Matamoros appeared first on Quadratin Querétaro.",
+      "fecha": "9 septiembre 2026 · 15:00 CST",
+      "fuente": "Quadratin Queretaro",
+      "url": "https://queretaro.quadratin.com.mx/pipa-de-gas-bloqueo-la-carretera-120-en-landa-de-matamoros/",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 22.15,
+      "lon": -100.97
+    },
+    {
+      "id": "63a99f97",
+      "tipo": "cierre_parcial",
+      "ruta": "🌧️🚗 #PrecauciónVial: ¡Pavimento mojado! Un vehículo derrapó y provocó choque…",
+      "descripcion": "🌧️🚗 #PrecauciónVial: ¡Pavimento mojado! Un vehículo derrapó y provocó choque sobre la carretera libre México–Toluca, pasando La Pila. 👇\n[http://lajornadaestadodemexico.com/accidente-en-la-libre-direccion-a-toluca-deja-danos-materiales-no-hay-heridos/](http://lajornadaestadodemexico.com/accidente-en-la-libre-direccion-a-toluca-deja-danos-materiales-no-hay-heridos/)",
+      "fecha": "9 septiembre 2026 · 14:49 CST",
+      "fuente": "Telegram @jornadaedomex",
+      "url": "https://t.me/jornadaedomex/12015",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 19.29,
+      "lon": -99.66
+    },
     {
       "id": "83f55032",
       "tipo": "cierre_total",
