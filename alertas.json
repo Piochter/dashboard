@@ -1,12 +1,38 @@
 {
-  "ultima_actualizacion": "2026-09-09T11:49:20.274246-06:00",
-  "ultima_actualizacion_legible": "9 de septiembre de 2026 · 11:49 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-09-09T14:12:36.731657-06:00",
+  "ultima_actualizacion_legible": "9 de septiembre de 2026 · 14:12 CST",
+  "total": 3,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News"
+    "Google News",
+    "Quadratin + regionales"
   ],
   "grupos": [
+    {
+      "tipo": "cierre_total",
+      "color": "rojo",
+      "icono": "🔴",
+      "label": "CIERRE TOTAL",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "83f55032",
+          "tipo": "cierre_total",
+          "ruta": "Tráiler Termina Destrozado tras Volcadura en la Autopista México-Puebla -…",
+          "descripcion": "Tráiler Termina Destrozado tras Volcadura en la Autopista México-Puebla - N+. Tráiler Termina Destrozado tras Volcadura en la Autopista México-Puebla N+",
+          "recomendacion": "",
+          "fecha": "9 septiembre 2026 · 13:24 CST",
+          "fecha_iso": "2026-09-09T13:24:00-06:00",
+          "fuente": "N+",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPclNnXzAwYWlwX3E0c0Z5UmwzYVFPWGFGTUdzM0JZLVZBbjhZZGNCQW5tRTRxMDJXbG1oek5oSURYNUZPM3ViZFlNWUtVY0FiYmZlRHRONTJqV2pmWVBzQld0Q2szb0xKa2ttYUFTQkliVnZKOVc1SXlVZUthYkJSSGg4YmJUUjY4V3JKbzc3UWtDelBzT2VQY2V1TDJCT0xONElpdHpKSnZ2YVFPa21Qb2twZml1Rk9LbHFkWnVDVGVqN0xPNlFUWnBBT19sUQ?oc=5",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL",
+          "lat": 19.35,
+          "lon": -98.4
+        }
+      ]
+    },
     {
       "tipo": "bloqueo",
       "color": "rojo",
@@ -20,8 +46,8 @@
           "ruta": "Carreteras Cerradas por Bloqueos o Accidentes, Según Reportes de Capufe…",
           "descripcion": "Carreteras Cerradas por Bloqueos o Accidentes, Según Reportes de Capufe y GN - N+. Carreteras Cerradas por Bloqueos o Accidentes, Según Reportes de Capufe y GN N+",
           "recomendacion": "",
-          "fecha": "9 septiembre 2026 · 09:06 CST",
-          "fecha_iso": "2026-09-09T09:06:00-06:00",
+          "fecha": "9 septiembre 2026 · 11:56 CST",
+          "fecha_iso": "2026-09-09T11:56:00-06:00",
           "fuente": "N+",
           "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdmJQcmE3N1pjVjNPbjBYblU5Z0pZYzRCQ0FoZUtGdDF2TjhKUDVuako5dVNEN2VlZ0ZYdUhfMjhlN2ppWmoyUHQ1dGpfc3FwZVhldF9uVjZHbGI1VGZRT0R4VjFheUJYS09SaTk5WE9mWWIwdnlIRVg2REs2dExra1k2clNHbjFydmotZWJ2c3l5WkYxeklGMkdMcGh2OTlMRzZubXlfVldjSlFfOXRSMUxLWGlkMVo5NUZaRXBzUjBOdk1TZWFWaDRQMA?oc=5",
           "dot_color": "#8e44ad",
@@ -29,7 +55,59 @@
           "badge_txt": "BLOQUEO"
         }
       ]
+    },
+    {
+      "tipo": "cierre_parcial",
+      "color": "amarillo",
+      "icono": "🟡",
+      "label": "CIERRE PARCIAL / ACCIDENTES",
+      "col2": true,
+      "alertas": [
+        {
+          "id": "3150455d",
+          "tipo": "cierre_parcial",
+          "ruta": "Denuncian intento de asalto en Huejotzingo…",
+          "descripcion": "Denuncian intento de asalto en Huejotzingo. Sujetos armados atacan a joven en carretera de Puebla",
+          "recomendacion": "",
+          "fecha": "9 septiembre 2026 · 11:02 CST",
+          "fecha_iso": "2026-09-09T11:02:00-06:00",
+          "fuente": "Quadratin Puebla",
+          "url": "https://puebla.quadratin.com.mx/sucesos/denuncian-intento-de-asalto-en-huejotzingo/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 19.04,
+          "lon": -98.2
+        }
+      ]
     }
   ],
-  "para_mapa": []
+  "para_mapa": [
+    {
+      "id": "83f55032",
+      "tipo": "cierre_total",
+      "ruta": "Tráiler Termina Destrozado tras Volcadura en la Autopista México-Puebla -…",
+      "descripcion": "Tráiler Termina Destrozado tras Volcadura en la Autopista México-Puebla - N+. Tráiler Termina Destrozado tras Volcadura en la Autopista México-Puebla N+",
+      "fecha": "9 septiembre 2026 · 13:24 CST",
+      "fuente": "N+",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPclNnXzAwYWlwX3E0c0Z5UmwzYVFPWGFGTUdzM0JZLVZBbjhZZGNCQW5tRTRxMDJXbG1oek5oSURYNUZPM3ViZFlNWUtVY0FiYmZlRHRONTJqV2pmWVBzQld0Q2szb0xKa2ttYUFTQkliVnZKOVc1SXlVZUthYkJSSGg4YmJUUjY4V3JKbzc3UWtDelBzT2VQY2V1TDJCT0xONElpdHpKSnZ2YVFPa21Qb2twZml1Rk9LbHFkWnVDVGVqN0xPNlFUWnBBT19sUQ?oc=5",
+      "dot_color": "#e74c3c",
+      "badge_txt": "CIERRE TOTAL",
+      "lat": 19.35,
+      "lon": -98.4
+    },
+    {
+      "id": "3150455d",
+      "tipo": "cierre_parcial",
+      "ruta": "Denuncian intento de asalto en Huejotzingo…",
+      "descripcion": "Denuncian intento de asalto en Huejotzingo. Sujetos armados atacan a joven en carretera de Puebla",
+      "fecha": "9 septiembre 2026 · 11:02 CST",
+      "fuente": "Quadratin Puebla",
+      "url": "https://puebla.quadratin.com.mx/sucesos/denuncian-intento-de-asalto-en-huejotzingo/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 19.04,
+      "lon": -98.2
+    }
+  ]
 }
