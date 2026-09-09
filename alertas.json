@@ -1,35 +1,51 @@
 {
-  "ultima_actualizacion": "2026-09-09T03:57:12.986844-06:00",
-  "ultima_actualizacion_legible": "9 de septiembre de 2026 · 03:57 CST",
+  "ultima_actualizacion": "2026-09-09T08:05:45.358063-06:00",
+  "ultima_actualizacion_legible": "9 de septiembre de 2026 · 08:05 CST",
   "total": 1,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Quadratin + regionales"
+    "Medios regionales"
   ],
   "grupos": [
     {
-      "tipo": "obra",
-      "color": "verde",
-      "icono": "🚧",
-      "label": "OBRA CONTINUA",
+      "tipo": "bloqueo",
+      "color": "rojo",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
       "col2": false,
       "alertas": [
         {
-          "id": "e65fd874",
-          "tipo": "obra",
-          "ruta": "Continúan trabajos de rehabilitación en avenida Vía Muerta de Boca…",
-          "descripcion": "Continúan trabajos de rehabilitación en avenida Vía Muerta de Boca del Río. Permanecerá cerrado el tramo de Av. Vía Muerta, entre Paseo Boca del Río y El Roble",
+          "id": "d10c8657",
+          "tipo": "bloqueo",
+          "ruta": "Maiceros alistan manifestaciones en accesos a Guadalajara HOY: puntos y…",
+          "descripcion": "Maiceros alistan manifestaciones en accesos a Guadalajara HOY: puntos y horarios clave. Campesinos de Jalisco exigen a las autoridades federales el pago de adeudos y frenar las importaciones del grano; se prevén afectaciones en cuatro carreteras clave",
           "recomendacion": "",
-          "fecha": "8 septiembre 2026 · 18:10 CST",
-          "fecha_iso": "2026-09-08T18:10:00-06:00",
-          "fuente": "Quadratin Veracruz",
-          "url": "https://veracruz.quadratin.com.mx/continuan-trabajos-de-rehabilitacion-en-avenida-via-muerta-de-boca-del-rio/",
-          "dot_color": "#27ae60",
-          "badge": "badge-obra",
-          "badge_txt": "OBRA CONTINUA"
+          "fecha": "9 septiembre 2026 · 07:55 CST",
+          "fecha_iso": "2026-09-09T07:55:00-06:00",
+          "fuente": "El Informador Jalisco",
+          "url": "https://www.informador.mx/jalisco/agricultores-de-maiz-alistan-manifestaciones-en-los-accesos-a-guadalajara-este-9-de-septiembre-puntos-y-horarios-clave-20260909-0050.html",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 20.66,
+          "lon": -103.35
         }
       ]
     }
   ],
-  "para_mapa": []
+  "para_mapa": [
+    {
+      "id": "d10c8657",
+      "tipo": "bloqueo",
+      "ruta": "Maiceros alistan manifestaciones en accesos a Guadalajara HOY: puntos y…",
+      "descripcion": "Maiceros alistan manifestaciones en accesos a Guadalajara HOY: puntos y horarios clave. Campesinos de Jalisco exigen a las autoridades federales el pago de adeudos y frenar las importaciones del grano; se prevén afectaciones en cuatro carreteras clave",
+      "fecha": "9 septiembre 2026 · 07:55 CST",
+      "fuente": "El Informador Jalisco",
+      "url": "https://www.informador.mx/jalisco/agricultores-de-maiz-alistan-manifestaciones-en-los-accesos-a-guadalajara-este-9-de-septiembre-puntos-y-horarios-clave-20260909-0050.html",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 20.66,
+      "lon": -103.35
+    }
+  ]
 }
