@@ -1,37 +1,13 @@
 {
-  "ultima_actualizacion": "2026-09-08T16:38:42.496941-06:00",
-  "ultima_actualizacion_legible": "8 de septiembre de 2026 · 16:38 CST",
+  "ultima_actualizacion": "2026-09-08T18:37:32.020948-06:00",
+  "ultima_actualizacion_legible": "8 de septiembre de 2026 · 18:37 CST",
   "total": 4,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News",
     "Quadratin + regionales",
     "Telegram"
   ],
   "grupos": [
-    {
-      "tipo": "bloqueo",
-      "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "7db79533",
-          "tipo": "bloqueo",
-          "ruta": "Reporte de Carreteras Cerradas por Bloqueos o Accidentes, Según Reportes…",
-          "descripcion": "Reporte de Carreteras Cerradas por Bloqueos o Accidentes, Según Reportes de Capufe y GN - N+. Reporte de Carreteras Cerradas por Bloqueos o Accidentes, Según Reportes de Capufe y GN N+",
-          "recomendacion": "",
-          "fecha": "8 septiembre 2026 · 09:14 CST",
-          "fecha_iso": "2026-09-08T09:14:00-06:00",
-          "fuente": "N+",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORUdqdHNlTlBNWnZMd3lBUmw3VlRjM2dfc0w4SVlaTE9SMVhVNXVtbFdkallTaTUxSWFBTUJzOGhqZ2ltQ0ZJZDFidXhpV04xdUZMS0paZXdGRHo3UFg5WkRYYmZrd2NtMEl1b0xOY0xDN0ZscEo1SXB2bUxqazZaQjNTRXFoWTlPV2hVbk14c1ZYQmRIbzlReVRrVENMcG01YkpBbVRGZXVaZTVDY0dLT3dvWjl0ZVR2TElIZXU5WDVMcG9Sd0lVNUxwbw?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        }
-      ]
-    },
     {
       "tipo": "cierre_parcial",
       "color": "amarillo",
@@ -39,6 +15,22 @@
       "label": "CIERRE PARCIAL / ACCIDENTES",
       "col2": true,
       "alertas": [
+        {
+          "id": "39e1d8c4",
+          "tipo": "cierre_parcial",
+          "ruta": "Grave tras accidente Reina de la Feria San Juan del…",
+          "descripcion": "Grave tras accidente Reina de la Feria San Juan del Río 2026. Viviana Landeras Cortés, de 20 años, permanece hospitalizada luego de que el automóvil en el que viajaba chocara contra un tráiler The post Grave tras accidente Reina de la Feria San Juan del Río 2026 appeared first on Quadratin Querétaro.",
+          "recomendacion": "",
+          "fecha": "8 septiembre 2026 · 18:00 CST",
+          "fecha_iso": "2026-09-08T18:00:00-06:00",
+          "fuente": "Quadratin Queretaro",
+          "url": "https://queretaro.quadratin.com.mx/grave-tras-accidente-reina-de-la-feria-san-juan-del-rio-2026/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 20.59,
+          "lon": -100.39
+        },
         {
           "id": "43564d94",
           "tipo": "cierre_parcial",
@@ -79,15 +71,15 @@
       "col2": false,
       "alertas": [
         {
-          "id": "018bcacd",
+          "id": "e65fd874",
           "tipo": "obra",
-          "ruta": "Fallecieron seis personas dentro de una combi varada por inundación…",
-          "descripcion": "Fallecieron seis personas dentro de una combi varada por inundación en Tultitlán\nhttps://www.jornada.com.mx/2026/09/08/estados/025n1est?partner=rss\n\nTultitlán, Méx., Cuatro hombres y dos mujeres integrantes de una familia que regresaba de una reunión fallecieron antenoche, presumiblemente por inhalar gas que emanó de una combi de transporte público de la Ruta 30 en la cual viajaban, la cual se quedó atascada en un tramo de obras de pavimentación en la avenida Recursos Hidráulicos, colonia Cueyam",
+          "ruta": "Continúan trabajos de rehabilitación en avenida Vía Muerta de Boca…",
+          "descripcion": "Continúan trabajos de rehabilitación en avenida Vía Muerta de Boca del Río. Permanecerá cerrado el tramo de Av. Vía Muerta, entre Paseo Boca del Río y El Roble",
           "recomendacion": "",
-          "fecha": "8 septiembre 2026 · 05:26 CST",
-          "fecha_iso": "2026-09-08T05:26:00-06:00",
-          "fuente": "Telegram @NOTMEX",
-          "url": "https://t.me/NOTMEX/185866",
+          "fecha": "8 septiembre 2026 · 18:10 CST",
+          "fecha_iso": "2026-09-08T18:10:00-06:00",
+          "fuente": "Quadratin Veracruz",
+          "url": "https://veracruz.quadratin.com.mx/continuan-trabajos-de-rehabilitacion-en-avenida-via-muerta-de-boca-del-rio/",
           "dot_color": "#27ae60",
           "badge": "badge-obra",
           "badge_txt": "OBRA CONTINUA"
@@ -96,6 +88,19 @@
     }
   ],
   "para_mapa": [
+    {
+      "id": "39e1d8c4",
+      "tipo": "cierre_parcial",
+      "ruta": "Grave tras accidente Reina de la Feria San Juan del…",
+      "descripcion": "Grave tras accidente Reina de la Feria San Juan del Río 2026. Viviana Landeras Cortés, de 20 años, permanece hospitalizada luego de que el automóvil en el que viajaba chocara contra un tráiler The post Grave tras accidente Reina de la Feria San Juan del Río 2026 appeared first on Quadratin Querétaro.",
+      "fecha": "8 septiembre 2026 · 18:00 CST",
+      "fuente": "Quadratin Queretaro",
+      "url": "https://queretaro.quadratin.com.mx/grave-tras-accidente-reina-de-la-feria-san-juan-del-rio-2026/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 20.59,
+      "lon": -100.39
+    },
     {
       "id": "43564d94",
       "tipo": "cierre_parcial",
