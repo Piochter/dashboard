@@ -1,13 +1,39 @@
 {
-  "ultima_actualizacion": "2026-09-08T18:37:32.020948-06:00",
-  "ultima_actualizacion_legible": "8 de septiembre de 2026 · 18:37 CST",
-  "total": 4,
+  "ultima_actualizacion": "2026-09-08T23:19:08.144723-06:00",
+  "ultima_actualizacion_legible": "8 de septiembre de 2026 · 23:19 CST",
+  "total": 3,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
+    "Medios regionales",
     "Quadratin + regionales",
     "Telegram"
   ],
   "grupos": [
+    {
+      "tipo": "bloqueo",
+      "color": "rojo",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "f7fe5718",
+          "tipo": "bloqueo",
+          "ruta": "Productores de maíz alistan manifestación este miércoles; prevén afectaciones en…",
+          "descripcion": "Productores de maíz alistan manifestación este miércoles; prevén afectaciones en vialidades de la ZMG. En Jalisco, hay alrededor de mil 500 agricultores quienes siguen a la espera de los recursos que prometió el Gobierno Federal",
+          "recomendacion": "",
+          "fecha": "8 septiembre 2026 · 22:16 CST",
+          "fecha_iso": "2026-09-08T22:16:00-06:00",
+          "fuente": "El Informador Jalisco",
+          "url": "https://www.informador.mx/jalisco/manifestacion-productores-de-maiz-alistan-marcha-este-miercoles-preven-afectaciones-en-vialidades-de-la-zmg-20260908-0195.html",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 20.66,
+          "lon": -103.35
+        }
+      ]
+    },
     {
       "tipo": "cierre_parcial",
       "color": "amarillo",
@@ -15,38 +41,6 @@
       "label": "CIERRE PARCIAL / ACCIDENTES",
       "col2": true,
       "alertas": [
-        {
-          "id": "39e1d8c4",
-          "tipo": "cierre_parcial",
-          "ruta": "Grave tras accidente Reina de la Feria San Juan del…",
-          "descripcion": "Grave tras accidente Reina de la Feria San Juan del Río 2026. Viviana Landeras Cortés, de 20 años, permanece hospitalizada luego de que el automóvil en el que viajaba chocara contra un tráiler The post Grave tras accidente Reina de la Feria San Juan del Río 2026 appeared first on Quadratin Querétaro.",
-          "recomendacion": "",
-          "fecha": "8 septiembre 2026 · 18:00 CST",
-          "fecha_iso": "2026-09-08T18:00:00-06:00",
-          "fuente": "Quadratin Queretaro",
-          "url": "https://queretaro.quadratin.com.mx/grave-tras-accidente-reina-de-la-feria-san-juan-del-rio-2026/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 20.59,
-          "lon": -100.39
-        },
-        {
-          "id": "43564d94",
-          "tipo": "cierre_parcial",
-          "ruta": "Cierran carretera Real del Monte-Huasca; no hay fecha de reapertura…",
-          "descripcion": "Cierran carretera Real del Monte-Huasca; no hay fecha de reapertura. PACHUCA, Hgo., 8 de septiembre de 2026.- La carretera Real del Monte-Huasca continuará cerrada de manera temporal luego de que la Secretaría de Infraestructura, Comunicaciones y Transportes (SICT) detectó daños en un talud que terminaron deformando el pavimento. La afectación se concentra entre los kilómetros 18+900 y 19+140, en dirección Huasca-Real del Monte. La dependencia […] The post Cierran carretera Real del Monte-Huasca",
-          "recomendacion": "",
-          "fecha": "8 septiembre 2026 · 13:06 CST",
-          "fecha_iso": "2026-09-08T13:06:00-06:00",
-          "fuente": "Quadratin Hidalgo",
-          "url": "https://hidalgo.quadratin.com.mx/sucesos/cierran-carretera-real-del-monte-huasca-no-hay-fecha-de-reapertura/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 25.2,
-          "lon": -102.0
-        },
         {
           "id": "80b070a6",
           "tipo": "cierre_parcial",
@@ -89,30 +83,17 @@
   ],
   "para_mapa": [
     {
-      "id": "39e1d8c4",
-      "tipo": "cierre_parcial",
-      "ruta": "Grave tras accidente Reina de la Feria San Juan del…",
-      "descripcion": "Grave tras accidente Reina de la Feria San Juan del Río 2026. Viviana Landeras Cortés, de 20 años, permanece hospitalizada luego de que el automóvil en el que viajaba chocara contra un tráiler The post Grave tras accidente Reina de la Feria San Juan del Río 2026 appeared first on Quadratin Querétaro.",
-      "fecha": "8 septiembre 2026 · 18:00 CST",
-      "fuente": "Quadratin Queretaro",
-      "url": "https://queretaro.quadratin.com.mx/grave-tras-accidente-reina-de-la-feria-san-juan-del-rio-2026/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 20.59,
-      "lon": -100.39
-    },
-    {
-      "id": "43564d94",
-      "tipo": "cierre_parcial",
-      "ruta": "Cierran carretera Real del Monte-Huasca; no hay fecha de reapertura…",
-      "descripcion": "Cierran carretera Real del Monte-Huasca; no hay fecha de reapertura. PACHUCA, Hgo., 8 de septiembre de 2026.- La carretera Real del Monte-Huasca continuará cerrada de manera temporal luego de que la Secretaría de Infraestructura, Comunicaciones y Transportes (SICT) detectó daños en un talud que terminaron deformando el pavimento. La afectación se concentra entre los kilómetros 18+900 y 19+140, en dirección Huasca-Real del Monte. La dependencia […] The post Cierran carretera Real del Monte-Huasca",
-      "fecha": "8 septiembre 2026 · 13:06 CST",
-      "fuente": "Quadratin Hidalgo",
-      "url": "https://hidalgo.quadratin.com.mx/sucesos/cierran-carretera-real-del-monte-huasca-no-hay-fecha-de-reapertura/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 25.2,
-      "lon": -102.0
+      "id": "f7fe5718",
+      "tipo": "bloqueo",
+      "ruta": "Productores de maíz alistan manifestación este miércoles; prevén afectaciones en…",
+      "descripcion": "Productores de maíz alistan manifestación este miércoles; prevén afectaciones en vialidades de la ZMG. En Jalisco, hay alrededor de mil 500 agricultores quienes siguen a la espera de los recursos que prometió el Gobierno Federal",
+      "fecha": "8 septiembre 2026 · 22:16 CST",
+      "fuente": "El Informador Jalisco",
+      "url": "https://www.informador.mx/jalisco/manifestacion-productores-de-maiz-alistan-marcha-este-miercoles-preven-afectaciones-en-vialidades-de-la-zmg-20260908-0195.html",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 20.66,
+      "lon": -103.35
     }
   ]
 }
