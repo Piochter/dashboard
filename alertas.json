@@ -1,12 +1,37 @@
 {
-  "ultima_actualizacion": "2026-09-10T03:54:34.208099-06:00",
-  "ultima_actualizacion_legible": "10 de septiembre de 2026 · 03:54 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-09-10T07:57:56.093718-06:00",
+  "ultima_actualizacion_legible": "10 de septiembre de 2026 · 07:57 CST",
+  "total": 3,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Telegram"
+    "Google News",
+    "Medios nacionales",
+    "Quadratin + regionales"
   ],
   "grupos": [
+    {
+      "tipo": "bloqueo",
+      "color": "rojo",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "df306895",
+          "tipo": "bloqueo",
+          "ruta": "Bloqueos carreteras HOY 10 de septiembre: Autopistas cerradas en México,…",
+          "descripcion": "Bloqueos carreteras HOY 10 de septiembre: Autopistas cerradas en México, accidentes viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 10 de septiembre: Autopistas cerradas en México, accidentes viales y rutas alternas según CAPUFE Eje Central",
+          "recomendacion": "",
+          "fecha": "10 septiembre 2026 · 07:15 CST",
+          "fecha_iso": "2026-09-10T07:15:00-06:00",
+          "fuente": "Eje Central",
+          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPTV9BYlZpQkRHQ1FkdTNrZnR2b0hNVXk2ajZkYy1zUzVVZExUekJFWWVuR0VoMUdwU2hSLWZ5Y3BiSWdGZkFrVlJRdEtWQmhpUkR3UmRWM3lqOV93SGtlWlJHblBGUEM2TUJGaEZvdjRPRExmX2l2SUZvVlpJbGU5Mmx0UFNXMWVhay1McmtDckdCS1d5U0wzNVcxUGJ5d3N3ajhERDBYRDRDblMyVmdWX21UOUl2ZjctWGVLbVdwRDFOcDBON1F1enJLWkJtU2RMWnhUVHBDTE85eXFERGJGM2cyV3BYUDduZHRxLXRZYmdxdw?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        }
+      ]
+    },
     {
       "tipo": "cierre_parcial",
       "color": "amarillo",
@@ -15,37 +40,51 @@
       "col2": true,
       "alertas": [
         {
-          "id": "84b74c45",
+          "id": "a697e818",
           "tipo": "cierre_parcial",
-          "ruta": "Detienen a alcalde de Esperanza, Puebla, en operativo; acusan al…",
-          "descripcion": "Detienen a alcalde de Esperanza, Puebla, en operativo; acusan al morenista de robo de transporte de [carga](http://telegra.ph/Detienen-a-alcalde-de-Esperanza-Puebla-en-operativo-acusan-al-morenista-de-robo-de-transporte-de-carga-09-07)\n\n__via__ [www.elfinanciero.com.mx](https://www.elfinanciero.com.mx/estados/2026/09/07/detienen-a-alcalde-de-esperanza-puebla-en-operativo-acusan-al-morenista-de-robo-de-transporte-de-carga/)",
+          "ruta": "Por cruzarse el alto motociclista provoca choque contra un auto…",
+          "descripcion": "Por cruzarse el alto motociclista provoca choque contra un auto en Iguala. El hecho, en el Periférico Sur",
           "recomendacion": "",
-          "fecha": "9 septiembre 2026 · 16:03 CST",
-          "fecha_iso": "2026-09-09T16:03:00-06:00",
-          "fuente": "Telegram @NOTMEX",
-          "url": "https://t.me/NOTMEX/185885",
+          "fecha": "10 septiembre 2026 · 07:43 CST",
+          "fecha_iso": "2026-09-10T07:43:00-06:00",
+          "fuente": "Quadratin Guerrero",
+          "url": "https://guerrero.quadratin.com.mx/por-cruzarse-el-alto-motociclista-provoca-choque-contra-un-auto-en-iguala/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        },
+        {
+          "id": "493d0862",
+          "tipo": "cierre_parcial",
+          "ruta": "Transportistas esperan freno a robos tras detención de alcalde de…",
+          "descripcion": "Transportistas esperan freno a robos tras detención de alcalde de Esperanza en Puebla. Apenas amanecía, cerca de las 06:30 horas, cuando un empresario del sector de autotransporte de hidrocarburos recibió el mensaje de uno de sus operadores: había sido víctima de un robo en la zona de la Esperanza–Amozoc, en Puebla. Lo que ocurrió después dimensionó el problema que enfrentaban quienes transitaban por ese corredor. “Sin duda fue […]",
+          "recomendacion": "",
+          "fecha": "10 septiembre 2026 · 07:32 CST",
+          "fecha_iso": "2026-09-10T07:32:00-06:00",
+          "fuente": "T21 Transporte",
+          "url": "https://t21.com.mx/transportistas-esperan-freno-a-robos-tras-detencion-de-alcalde-de-esperanza-en-puebla/",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.04,
-          "lon": -98.2
+          "lat": 19.1,
+          "lon": -98.0
         }
       ]
     }
   ],
   "para_mapa": [
     {
-      "id": "84b74c45",
+      "id": "493d0862",
       "tipo": "cierre_parcial",
-      "ruta": "Detienen a alcalde de Esperanza, Puebla, en operativo; acusan al…",
-      "descripcion": "Detienen a alcalde de Esperanza, Puebla, en operativo; acusan al morenista de robo de transporte de [carga](http://telegra.ph/Detienen-a-alcalde-de-Esperanza-Puebla-en-operativo-acusan-al-morenista-de-robo-de-transporte-de-carga-09-07)\n\n__via__ [www.elfinanciero.com.mx](https://www.elfinanciero.com.mx/estados/2026/09/07/detienen-a-alcalde-de-esperanza-puebla-en-operativo-acusan-al-morenista-de-robo-de-transporte-de-carga/)",
-      "fecha": "9 septiembre 2026 · 16:03 CST",
-      "fuente": "Telegram @NOTMEX",
-      "url": "https://t.me/NOTMEX/185885",
+      "ruta": "Transportistas esperan freno a robos tras detención de alcalde de…",
+      "descripcion": "Transportistas esperan freno a robos tras detención de alcalde de Esperanza en Puebla. Apenas amanecía, cerca de las 06:30 horas, cuando un empresario del sector de autotransporte de hidrocarburos recibió el mensaje de uno de sus operadores: había sido víctima de un robo en la zona de la Esperanza–Amozoc, en Puebla. Lo que ocurrió después dimensionó el problema que enfrentaban quienes transitaban por ese corredor. “Sin duda fue […]",
+      "fecha": "10 septiembre 2026 · 07:32 CST",
+      "fuente": "T21 Transporte",
+      "url": "https://t21.com.mx/transportistas-esperan-freno-a-robos-tras-detencion-de-alcalde-de-esperanza-en-puebla/",
       "dot_color": "#e67e22",
       "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.04,
-      "lon": -98.2
+      "lat": 19.1,
+      "lon": -98.0
     }
   ]
 }
