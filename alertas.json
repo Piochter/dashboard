@@ -1,11 +1,10 @@
 {
-  "ultima_actualizacion": "2026-09-09T18:35:32.700202-06:00",
-  "ultima_actualizacion_legible": "9 de septiembre de 2026 · 18:35 CST",
-  "total": 5,
+  "ultima_actualizacion": "2026-09-09T23:16:31.644710-06:00",
+  "ultima_actualizacion_legible": "9 de septiembre de 2026 · 23:16 CST",
+  "total": 3,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
-    "Quadratin + regionales",
     "Telegram"
   ],
   "grupos": [
@@ -35,29 +34,6 @@
       ]
     },
     {
-      "tipo": "bloqueo",
-      "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "e8078ef0",
-          "tipo": "bloqueo",
-          "ruta": "Carreteras Cerradas por Bloqueos o Accidentes, Según Reportes de Capufe…",
-          "descripcion": "Carreteras Cerradas por Bloqueos o Accidentes, Según Reportes de Capufe y GN - N+. Carreteras Cerradas por Bloqueos o Accidentes, Según Reportes de Capufe y GN N+",
-          "recomendacion": "",
-          "fecha": "9 septiembre 2026 · 13:13 CST",
-          "fecha_iso": "2026-09-09T13:13:00-06:00",
-          "fuente": "N+",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdmJQcmE3N1pjVjNPbjBYblU5Z0pZYzRCQ0FoZUtGdDF2TjhKUDVuako5dVNEN2VlZ0ZYdUhfMjhlN2ppWmoyUHQ1dGpfc3FwZVhldF9uVjZHbGI1VGZRT0R4VjFheUJYS09SaTk5WE9mWWIwdnlIRVg2REs2dExra1k2clNHbjFydmotZWJ2c3l5WkYxeklGMkdMcGh2OTlMRzZubXlfVldjSlFfOXRSMUxLWGlkMVo5NUZaRXBzUjBOdk1TZWFWaDRQMA?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        }
-      ]
-    },
-    {
       "tipo": "cierre_parcial",
       "color": "amarillo",
       "icono": "🟡",
@@ -79,22 +55,6 @@
           "badge_txt": "CIERRE PARCIAL",
           "lat": 19.04,
           "lon": -98.2
-        },
-        {
-          "id": "2c26d152",
-          "tipo": "cierre_parcial",
-          "ruta": "Lluvias dejan anegaciones y vehículos varados en la zona metropolitana…",
-          "descripcion": "Lluvias dejan anegaciones y vehículos varados en la zona metropolitana de Querétaro. Las lluvias registradas durante la tarde y noche de este martes 8 de septiembre dejaron escurrimientos, anegaciones en vialidades The post Lluvias dejan anegaciones y vehículos varados en la zona metropolitana de Querétaro appeared first on Quadratin Querétaro.",
-          "recomendacion": "",
-          "fecha": "9 septiembre 2026 · 16:00 CST",
-          "fecha_iso": "2026-09-09T16:00:00-06:00",
-          "fuente": "Quadratin Queretaro",
-          "url": "https://queretaro.quadratin.com.mx/lluvias-dejan-anegaciones-y-vehiculos-varados-en-la-zona-metropolitana-de-queretaro/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 20.59,
-          "lon": -100.39
         },
         {
           "id": "63a99f97",
@@ -128,19 +88,6 @@
       "badge_txt": "CIERRE PARCIAL",
       "lat": 19.04,
       "lon": -98.2
-    },
-    {
-      "id": "2c26d152",
-      "tipo": "cierre_parcial",
-      "ruta": "Lluvias dejan anegaciones y vehículos varados en la zona metropolitana…",
-      "descripcion": "Lluvias dejan anegaciones y vehículos varados en la zona metropolitana de Querétaro. Las lluvias registradas durante la tarde y noche de este martes 8 de septiembre dejaron escurrimientos, anegaciones en vialidades The post Lluvias dejan anegaciones y vehículos varados en la zona metropolitana de Querétaro appeared first on Quadratin Querétaro.",
-      "fecha": "9 septiembre 2026 · 16:00 CST",
-      "fuente": "Quadratin Queretaro",
-      "url": "https://queretaro.quadratin.com.mx/lluvias-dejan-anegaciones-y-vehiculos-varados-en-la-zona-metropolitana-de-queretaro/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 20.59,
-      "lon": -100.39
     },
     {
       "id": "63a99f97",
