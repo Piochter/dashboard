@@ -1,38 +1,12 @@
 {
-  "ultima_actualizacion": "2026-09-09T23:16:31.644710-06:00",
-  "ultima_actualizacion_legible": "9 de septiembre de 2026 · 23:16 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-09-10T03:54:34.208099-06:00",
+  "ultima_actualizacion_legible": "10 de septiembre de 2026 · 03:54 CST",
+  "total": 1,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News",
     "Telegram"
   ],
   "grupos": [
-    {
-      "tipo": "cierre_total",
-      "color": "rojo",
-      "icono": "🔴",
-      "label": "CIERRE TOTAL",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "156f3d61",
-          "tipo": "cierre_total",
-          "ruta": "Tráiler Destrozado y Cierre Parcial tras Volcadura en la Autopista…",
-          "descripcion": "Tráiler Destrozado y Cierre Parcial tras Volcadura en la Autopista México-Puebla - N+. Tráiler Destrozado y Cierre Parcial tras Volcadura en la Autopista México-Puebla N+",
-          "recomendacion": "",
-          "fecha": "9 septiembre 2026 · 13:43 CST",
-          "fecha_iso": "2026-09-09T13:43:00-06:00",
-          "fuente": "N+",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPclNnXzAwYWlwX3E0c0Z5UmwzYVFPWGFGTUdzM0JZLVZBbjhZZGNCQW5tRTRxMDJXbG1oek5oSURYNUZPM3ViZFlNWUtVY0FiYmZlRHRONTJqV2pmWVBzQld0Q2szb0xKa2ttYUFTQkliVnZKOVc1SXlVZUthYkJSSGg4YmJUUjY4V3JKbzc3UWtDelBzT2VQY2V1TDJCT0xONElpdHpKSnZ2YVFPa21Qb2twZml1Rk9LbHFkWnVDVGVqN0xPNlFUWnBBT19sUQ?oc=5",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL",
-          "lat": 19.35,
-          "lon": -98.4
-        }
-      ]
-    },
     {
       "tipo": "cierre_parcial",
       "color": "amarillo",
@@ -55,22 +29,6 @@
           "badge_txt": "CIERRE PARCIAL",
           "lat": 19.04,
           "lon": -98.2
-        },
-        {
-          "id": "63a99f97",
-          "tipo": "cierre_parcial",
-          "ruta": "🌧️🚗 #PrecauciónVial: ¡Pavimento mojado! Un vehículo derrapó y provocó choque…",
-          "descripcion": "🌧️🚗 #PrecauciónVial: ¡Pavimento mojado! Un vehículo derrapó y provocó choque sobre la carretera libre México–Toluca, pasando La Pila. 👇\n[http://lajornadaestadodemexico.com/accidente-en-la-libre-direccion-a-toluca-deja-danos-materiales-no-hay-heridos/](http://lajornadaestadodemexico.com/accidente-en-la-libre-direccion-a-toluca-deja-danos-materiales-no-hay-heridos/)",
-          "recomendacion": "",
-          "fecha": "9 septiembre 2026 · 14:49 CST",
-          "fecha_iso": "2026-09-09T14:49:00-06:00",
-          "fuente": "Telegram @jornadaedomex",
-          "url": "https://t.me/jornadaedomex/12015",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.29,
-          "lon": -99.66
         }
       ]
     }
@@ -88,32 +46,6 @@
       "badge_txt": "CIERRE PARCIAL",
       "lat": 19.04,
       "lon": -98.2
-    },
-    {
-      "id": "63a99f97",
-      "tipo": "cierre_parcial",
-      "ruta": "🌧️🚗 #PrecauciónVial: ¡Pavimento mojado! Un vehículo derrapó y provocó choque…",
-      "descripcion": "🌧️🚗 #PrecauciónVial: ¡Pavimento mojado! Un vehículo derrapó y provocó choque sobre la carretera libre México–Toluca, pasando La Pila. 👇\n[http://lajornadaestadodemexico.com/accidente-en-la-libre-direccion-a-toluca-deja-danos-materiales-no-hay-heridos/](http://lajornadaestadodemexico.com/accidente-en-la-libre-direccion-a-toluca-deja-danos-materiales-no-hay-heridos/)",
-      "fecha": "9 septiembre 2026 · 14:49 CST",
-      "fuente": "Telegram @jornadaedomex",
-      "url": "https://t.me/jornadaedomex/12015",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.29,
-      "lon": -99.66
-    },
-    {
-      "id": "156f3d61",
-      "tipo": "cierre_total",
-      "ruta": "Tráiler Destrozado y Cierre Parcial tras Volcadura en la Autopista…",
-      "descripcion": "Tráiler Destrozado y Cierre Parcial tras Volcadura en la Autopista México-Puebla - N+. Tráiler Destrozado y Cierre Parcial tras Volcadura en la Autopista México-Puebla N+",
-      "fecha": "9 septiembre 2026 · 13:43 CST",
-      "fuente": "N+",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPclNnXzAwYWlwX3E0c0Z5UmwzYVFPWGFGTUdzM0JZLVZBbjhZZGNCQW5tRTRxMDJXbG1oek5oSURYNUZPM3ViZFlNWUtVY0FiYmZlRHRONTJqV2pmWVBzQld0Q2szb0xKa2ttYUFTQkliVnZKOVc1SXlVZUthYkJSSGg4YmJUUjY4V3JKbzc3UWtDelBzT2VQY2V1TDJCT0xONElpdHpKSnZ2YVFPa21Qb2twZml1Rk9LbHFkWnVDVGVqN0xPNlFUWnBBT19sUQ?oc=5",
-      "dot_color": "#e74c3c",
-      "badge_txt": "CIERRE TOTAL",
-      "lat": 19.35,
-      "lon": -98.4
     }
   ]
 }
