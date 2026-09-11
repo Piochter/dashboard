@@ -1,10 +1,11 @@
 {
-  "ultima_actualizacion": "2026-09-11T11:13:40.206442-06:00",
-  "ultima_actualizacion_legible": "11 de septiembre de 2026 · 11:13 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-09-11T13:42:34.448752-06:00",
+  "ultima_actualizacion_legible": "11 de septiembre de 2026 · 13:42 CST",
+  "total": 4,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
+    "Medios regionales",
     "Quadratin + regionales",
     "Telegram"
   ],
@@ -42,6 +43,22 @@
       "col2": true,
       "alertas": [
         {
+          "id": "36d434b0",
+          "tipo": "cierre_parcial",
+          "ruta": "Dos heridos tras accidente de camioneta en la de Occidente…",
+          "descripcion": "Dos heridos tras accidente de camioneta en la de Occidente. En el tramo Ciudad de México-Guadalajara",
+          "recomendacion": "",
+          "fecha": "11 septiembre 2026 · 12:40 CST",
+          "fecha_iso": "2026-09-11T12:40:00-06:00",
+          "fuente": "Quadratin Michoacan",
+          "url": "https://www.quadratin.com.mx/sucesos/dos-heridos-tras-accidente-de-camioneta-en-la-de-occidente/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 20.4,
+          "lon": -103.35
+        },
+        {
           "id": "2cd8bc9d",
           "tipo": "cierre_parcial",
           "ruta": "carretera federal 190",
@@ -77,6 +94,19 @@
     }
   ],
   "para_mapa": [
+    {
+      "id": "36d434b0",
+      "tipo": "cierre_parcial",
+      "ruta": "Dos heridos tras accidente de camioneta en la de Occidente…",
+      "descripcion": "Dos heridos tras accidente de camioneta en la de Occidente. En el tramo Ciudad de México-Guadalajara",
+      "fecha": "11 septiembre 2026 · 12:40 CST",
+      "fuente": "Quadratin Michoacan",
+      "url": "https://www.quadratin.com.mx/sucesos/dos-heridos-tras-accidente-de-camioneta-en-la-de-occidente/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 20.4,
+      "lon": -103.35
+    },
     {
       "id": "2cd8bc9d",
       "tipo": "cierre_parcial",
