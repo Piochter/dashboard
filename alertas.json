@@ -1,12 +1,12 @@
 {
-  "ultima_actualizacion": "2026-09-10T16:05:48.429923-06:00",
-  "ultima_actualizacion_legible": "10 de septiembre de 2026 · 16:05 CST",
+  "ultima_actualizacion": "2026-09-10T18:08:08.160095-06:00",
+  "ultima_actualizacion_legible": "10 de septiembre de 2026 · 18:08 CST",
   "total": 3,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
     "Medios nacionales",
-    "Medios regionales"
+    "Quadratin + regionales"
   ],
   "grupos": [
     {
@@ -16,6 +16,22 @@
       "label": "BLOQUEOS / MANIFESTACIONES",
       "col2": false,
       "alertas": [
+        {
+          "id": "79d66442",
+          "tipo": "bloqueo",
+          "ruta": "CNTE vuelve a tomar caseta Tijuana-Tecate; siguen sin pago a…",
+          "descripcion": "CNTE vuelve a tomar caseta Tijuana-Tecate; siguen sin pago a interinos. TIJUANA, BC., 10 de septiembre de 2026.- Maestros de la Coordinadora Nacional de Trabajadores de la Educación (CNTE) en Baja California volvieron a liberar este jueves la caseta de cuota Tijuana-Tecate, como parte de las acciones de protesta para exigir el pago de salarios pendientes a maestros interinos del estado. La protesta ocurre a una semana de que […]",
+          "recomendacion": "",
+          "fecha": "10 septiembre 2026 · 17:07 CST",
+          "fecha_iso": "2026-09-10T17:07:00-06:00",
+          "fuente": "Quadratin Chiapas",
+          "url": "https://chiapas.quadratin.com.mx/sucesos/cnte-vuelve-a-tomar-caseta-tijuana-tecate-siguen-sin-pago-a-interinos/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 30.84,
+          "lon": -115.28
+        },
         {
           "id": "df306895",
           "tipo": "bloqueo",
@@ -40,20 +56,6 @@
       "col2": true,
       "alertas": [
         {
-          "id": "c76f4ce0",
-          "tipo": "cierre_parcial",
-          "ruta": "Choque en la Pátzcuaro-Cuitzeo deja un muerto y un herido…",
-          "descripcion": "Choque en la Pátzcuaro-Cuitzeo deja un muerto y un herido. Entre una camioneta y un tráiler tipo nodriza",
-          "recomendacion": "",
-          "fecha": "10 septiembre 2026 · 14:39 CST",
-          "fecha_iso": "2026-09-10T14:39:00-06:00",
-          "fuente": "Quadratin Michoacan",
-          "url": "https://www.quadratin.com.mx/sucesos/choque-en-la-patzcuaro-cuitzeo-deja-un-muerto-y-un-herido/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
-        },
-        {
           "id": "493d0862",
           "tipo": "cierre_parcial",
           "ruta": "Transportistas esperan freno a robos tras detención de alcalde de…",
@@ -73,6 +75,19 @@
     }
   ],
   "para_mapa": [
+    {
+      "id": "79d66442",
+      "tipo": "bloqueo",
+      "ruta": "CNTE vuelve a tomar caseta Tijuana-Tecate; siguen sin pago a…",
+      "descripcion": "CNTE vuelve a tomar caseta Tijuana-Tecate; siguen sin pago a interinos. TIJUANA, BC., 10 de septiembre de 2026.- Maestros de la Coordinadora Nacional de Trabajadores de la Educación (CNTE) en Baja California volvieron a liberar este jueves la caseta de cuota Tijuana-Tecate, como parte de las acciones de protesta para exigir el pago de salarios pendientes a maestros interinos del estado. La protesta ocurre a una semana de que […]",
+      "fecha": "10 septiembre 2026 · 17:07 CST",
+      "fuente": "Quadratin Chiapas",
+      "url": "https://chiapas.quadratin.com.mx/sucesos/cnte-vuelve-a-tomar-caseta-tijuana-tecate-siguen-sin-pago-a-interinos/",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 30.84,
+      "lon": -115.28
+    },
     {
       "id": "493d0862",
       "tipo": "cierre_parcial",
