@@ -1,51 +1,12 @@
 {
-  "ultima_actualizacion": "2026-09-11T03:08:38.856870-06:00",
-  "ultima_actualizacion_legible": "11 de septiembre de 2026 · 03:08 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-09-11T07:32:47.159821-06:00",
+  "ultima_actualizacion_legible": "11 de septiembre de 2026 · 07:32 CST",
+  "total": 0,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Quadratin + regionales"
+    "Google News"
   ],
-  "grupos": [
-    {
-      "tipo": "bloqueo",
-      "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "79d66442",
-          "tipo": "bloqueo",
-          "ruta": "CNTE vuelve a tomar caseta Tijuana-Tecate; siguen sin pago a…",
-          "descripcion": "CNTE vuelve a tomar caseta Tijuana-Tecate; siguen sin pago a interinos. TIJUANA, BC., 10 de septiembre de 2026.- Maestros de la Coordinadora Nacional de Trabajadores de la Educación (CNTE) en Baja California volvieron a liberar este jueves la caseta de cuota Tijuana-Tecate, como parte de las acciones de protesta para exigir el pago de salarios pendientes a maestros interinos del estado. La protesta ocurre a una semana de que […]",
-          "recomendacion": "",
-          "fecha": "10 septiembre 2026 · 17:07 CST",
-          "fecha_iso": "2026-09-10T17:07:00-06:00",
-          "fuente": "Quadratin Chiapas",
-          "url": "https://chiapas.quadratin.com.mx/sucesos/cnte-vuelve-a-tomar-caseta-tijuana-tecate-siguen-sin-pago-a-interinos/",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 30.84,
-          "lon": -115.28
-        }
-      ]
-    }
-  ],
-  "para_mapa": [
-    {
-      "id": "79d66442",
-      "tipo": "bloqueo",
-      "ruta": "CNTE vuelve a tomar caseta Tijuana-Tecate; siguen sin pago a…",
-      "descripcion": "CNTE vuelve a tomar caseta Tijuana-Tecate; siguen sin pago a interinos. TIJUANA, BC., 10 de septiembre de 2026.- Maestros de la Coordinadora Nacional de Trabajadores de la Educación (CNTE) en Baja California volvieron a liberar este jueves la caseta de cuota Tijuana-Tecate, como parte de las acciones de protesta para exigir el pago de salarios pendientes a maestros interinos del estado. La protesta ocurre a una semana de que […]",
-      "fecha": "10 septiembre 2026 · 17:07 CST",
-      "fuente": "Quadratin Chiapas",
-      "url": "https://chiapas.quadratin.com.mx/sucesos/cnte-vuelve-a-tomar-caseta-tijuana-tecate-siguen-sin-pago-a-interinos/",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 30.84,
-      "lon": -115.28
-    }
-  ]
+  "grupos": [],
+  "para_mapa": [],
+  "nota": "Sin alertas activas en la ventana de tiempo configurada."
 }
