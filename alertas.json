@@ -1,10 +1,9 @@
 {
-  "ultima_actualizacion": "2026-09-12T05:08:39.202936-06:00",
-  "ultima_actualizacion_legible": "12 de septiembre de 2026 · 05:08 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-09-12T08:06:02.931392-06:00",
+  "ultima_actualizacion_legible": "12 de septiembre de 2026 · 08:06 CST",
+  "total": 1,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Medios nacionales",
     "Quadratin + regionales"
   ],
   "grupos": [
@@ -30,22 +29,6 @@
           "badge_txt": "BLOQUEO",
           "lat": 20.11,
           "lon": -98.73
-        },
-        {
-          "id": "120c8233",
-          "tipo": "bloqueo",
-          "ruta": "Comunidad trans se manifiesta afuera de la Segob tras romper…",
-          "descripcion": "Comunidad trans se manifiesta afuera de la Segob tras romper mesa de diálogo. Integrantes de la comunidad trans realizan protestas en la zona centro de la CDMX con bloqueos a vialidades como Paseo de la Reforma.",
-          "recomendacion": "",
-          "fecha": "11 septiembre 2026 · 17:27 CST",
-          "fecha_iso": "2026-09-11T17:27:00-06:00",
-          "fuente": "24 Horas",
-          "url": "https://24-horas.mx/cdmx/comunidad-trans-se-manifiesta-afuera-de-la-segob-tras-romper-mesa-de-dialogo/",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 19.43,
-          "lon": -99.13
         }
       ]
     }
@@ -63,19 +46,6 @@
       "badge_txt": "BLOQUEO",
       "lat": 20.11,
       "lon": -98.73
-    },
-    {
-      "id": "120c8233",
-      "tipo": "bloqueo",
-      "ruta": "Comunidad trans se manifiesta afuera de la Segob tras romper…",
-      "descripcion": "Comunidad trans se manifiesta afuera de la Segob tras romper mesa de diálogo. Integrantes de la comunidad trans realizan protestas en la zona centro de la CDMX con bloqueos a vialidades como Paseo de la Reforma.",
-      "fecha": "11 septiembre 2026 · 17:27 CST",
-      "fuente": "24 Horas",
-      "url": "https://24-horas.mx/cdmx/comunidad-trans-se-manifiesta-afuera-de-la-segob-tras-romper-mesa-de-dialogo/",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 19.43,
-      "lon": -99.13
     }
   ]
 }
