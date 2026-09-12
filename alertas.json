@@ -1,12 +1,36 @@
 {
-  "ultima_actualizacion": "2026-09-12T15:31:36.143534-06:00",
-  "ultima_actualizacion_legible": "12 de septiembre de 2026 · 15:31 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-09-12T17:21:07.606424-06:00",
+  "ultima_actualizacion_legible": "12 de septiembre de 2026 · 17:21 CST",
+  "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
+    "Medios regionales",
     "Quadratin + regionales"
   ],
   "grupos": [
+    {
+      "tipo": "cierre_total",
+      "color": "rojo",
+      "icono": "🔴",
+      "label": "CIERRE TOTAL",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "a9181e02",
+          "tipo": "cierre_total",
+          "ruta": "Reportan choque y volcadura en periférico de Morelia…",
+          "descripcion": "Reportan choque y volcadura en periférico de Morelia. El vehículo quedó en pérdida total",
+          "recomendacion": "",
+          "fecha": "12 septiembre 2026 · 16:59 CST",
+          "fecha_iso": "2026-09-12T16:59:00-06:00",
+          "fuente": "Quadratin Michoacan",
+          "url": "https://www.quadratin.com.mx/sucesos/reportan-choque-y-volcadura-en-periferico-de-morelia/",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL"
+        }
+      ]
+    },
     {
       "tipo": "cierre_parcial",
       "color": "amarillo",
