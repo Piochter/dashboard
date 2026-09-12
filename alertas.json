@@ -1,10 +1,9 @@
 {
-  "ultima_actualizacion": "2026-09-12T13:18:01.506084-06:00",
-  "ultima_actualizacion_legible": "12 de septiembre de 2026 · 13:18 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-09-12T15:31:36.143534-06:00",
+  "ultima_actualizacion_legible": "12 de septiembre de 2026 · 15:31 CST",
+  "total": 1,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Medios regionales",
     "Quadratin + regionales"
   ],
   "grupos": [
@@ -16,29 +15,15 @@
       "col2": true,
       "alertas": [
         {
-          "id": "247c38cc",
+          "id": "5607c050",
           "tipo": "cierre_parcial",
-          "ruta": "carretera en Zihuatanejo",
-          "descripcion": "Conductor se queda dormido y se sale de la carretera en Zihuatanejo. El accidente ocurre frente a la colonia La Puerta",
+          "ruta": "Paraliza aparatoso choque de tráiler la Vía Corta en Nicolás…",
+          "descripcion": "Paraliza aparatoso choque de tráiler la Vía Corta en Nicolás Romero. Un aparatoso accidente vial provocó severas filas de autos y la paralización total del tráfico a la altura de Town Center",
           "recomendacion": "",
-          "fecha": "12 septiembre 2026 · 10:26 CST",
-          "fecha_iso": "2026-09-12T10:26:00-06:00",
-          "fuente": "Quadratin Guerrero",
-          "url": "https://guerrero.quadratin.com.mx/conductor-se-queda-dormido-y-se-sale-de-la-carretera-en-zihuatanejo/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
-        },
-        {
-          "id": "7dd06658",
-          "tipo": "cierre_parcial",
-          "ruta": "Choque múltiple paraliza el tráfico en la carretera Irapuato-Silao; reportan…",
-          "descripcion": "Choque múltiple paraliza el tráfico en la carretera Irapuato-Silao; reportan heridos. No se sabe con precisión qué fue lo que provocó la carambola y cómo ocurrió, sin embargo, trascendió que los vehículos siniestrados circulaban tanto en dirección de Irapuato hacia Silao como viceversa.",
-          "recomendacion": "",
-          "fecha": "12 septiembre 2026 · 08:47 CST",
-          "fecha_iso": "2026-09-12T08:47:00-06:00",
-          "fuente": "AM Guanajuato",
-          "url": "https://www.am.com.mx/irapuato/2026/09/12/choque-multiple-en-la-carretera-irapuato-silao-paraliza-el-trafico-1843451.html",
+          "fecha": "12 septiembre 2026 · 15:30 CST",
+          "fecha_iso": "2026-09-12T15:30:00-06:00",
+          "fuente": "Quadratin EdoMex",
+          "url": "https://edomex.quadratin.com.mx/paraliza-aparatoso-choque-de-trailer-la-via-corta-en-nicolas-romero/",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL"
