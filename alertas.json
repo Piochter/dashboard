@@ -1,12 +1,74 @@
 {
-  "ultima_actualizacion": "2026-09-13T05:48:18.861811-06:00",
-  "ultima_actualizacion_legible": "13 de septiembre de 2026 · 05:48 CST",
-  "total": 0,
+  "ultima_actualizacion": "2026-09-13T09:21:06.041994-06:00",
+  "ultima_actualizacion_legible": "13 de septiembre de 2026 · 09:21 CST",
+  "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News"
+    "Quadratin + regionales"
   ],
-  "grupos": [],
-  "para_mapa": [],
-  "nota": "Sin alertas activas en la ventana de tiempo configurada."
+  "grupos": [
+    {
+      "tipo": "cierre_total",
+      "color": "rojo",
+      "icono": "🔴",
+      "label": "CIERRE TOTAL",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "f9c94d38",
+          "tipo": "cierre_total",
+          "ruta": "Muere conductor en volcadura de camión en Teotitlán…",
+          "descripcion": "Muere conductor en volcadura de camión en Teotitlán. Transportaba bultos de cemento sobre la carretera federal 136.",
+          "recomendacion": "",
+          "fecha": "13 septiembre 2026 · 09:19 CST",
+          "fecha_iso": "2026-09-13T09:19:00-06:00",
+          "fuente": "Quadratin Oaxaca",
+          "url": "https://oaxaca.quadratin.com.mx/muere-conductor-en-volcadura-de-camion-en-teotitlan/",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL"
+        }
+      ]
+    },
+    {
+      "tipo": "cierre_parcial",
+      "color": "amarillo",
+      "icono": "🟡",
+      "label": "CIERRE PARCIAL / ACCIDENTES",
+      "col2": true,
+      "alertas": [
+        {
+          "id": "b8d14dc1",
+          "tipo": "cierre_parcial",
+          "ruta": "Vuelca tráiler en el Istmo, conductor resulta lesionado…",
+          "descripcion": "Vuelca tráiler en el Istmo, conductor resulta lesionado. El accidente ocurrió en el tramo Oaxaca-Tehuantepec, a la altura de Magdalena Tequisistlán",
+          "recomendacion": "",
+          "fecha": "13 septiembre 2026 · 09:17 CST",
+          "fecha_iso": "2026-09-13T09:17:00-06:00",
+          "fuente": "Quadratin Oaxaca",
+          "url": "https://oaxaca.quadratin.com.mx/vuelca-trailer-en-el-istmo-conductor-resulta-lesionado/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 17.06,
+          "lon": -96.72
+        }
+      ]
+    }
+  ],
+  "para_mapa": [
+    {
+      "id": "b8d14dc1",
+      "tipo": "cierre_parcial",
+      "ruta": "Vuelca tráiler en el Istmo, conductor resulta lesionado…",
+      "descripcion": "Vuelca tráiler en el Istmo, conductor resulta lesionado. El accidente ocurrió en el tramo Oaxaca-Tehuantepec, a la altura de Magdalena Tequisistlán",
+      "fecha": "13 septiembre 2026 · 09:17 CST",
+      "fuente": "Quadratin Oaxaca",
+      "url": "https://oaxaca.quadratin.com.mx/vuelca-trailer-en-el-istmo-conductor-resulta-lesionado/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 17.06,
+      "lon": -96.72
+    }
+  ]
 }
