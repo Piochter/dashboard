@@ -1,11 +1,10 @@
 {
-  "ultima_actualizacion": "2026-09-12T19:15:29.246877-06:00",
-  "ultima_actualizacion_legible": "12 de septiembre de 2026 · 19:15 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-09-13T00:12:12.753135-06:00",
+  "ultima_actualizacion_legible": "13 de septiembre de 2026 · 00:12 CST",
+  "total": 1,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Medios regionales",
-    "Quadratin + regionales"
+    "Medios regionales"
   ],
   "grupos": [
     {
@@ -16,41 +15,18 @@
       "col2": false,
       "alertas": [
         {
-          "id": "a9181e02",
+          "id": "0dc3a757",
           "tipo": "cierre_total",
-          "ruta": "Reportan choque y volcadura en periférico de Morelia…",
-          "descripcion": "Reportan choque y volcadura en periférico de Morelia. El vehículo quedó en pérdida total",
+          "ruta": "¿Qué pasó en la Silao-Irapuato? Choque y volcadura deja dos…",
+          "descripcion": "¿Qué pasó en la Silao-Irapuato? Choque y volcadura deja dos heridos en Taretan. No se sabe con precisión qué provocó el accidente, pero al tomar la curva cerrada, ambos vehículos se impactaron y salieron de la carretera.",
           "recomendacion": "",
-          "fecha": "12 septiembre 2026 · 16:59 CST",
-          "fecha_iso": "2026-09-12T16:59:00-06:00",
-          "fuente": "Quadratin Michoacan",
-          "url": "https://www.quadratin.com.mx/sucesos/reportan-choque-y-volcadura-en-periferico-de-morelia/",
+          "fecha": "12 septiembre 2026 · 19:56 CST",
+          "fecha_iso": "2026-09-12T19:56:00-06:00",
+          "fuente": "AM Guanajuato",
+          "url": "https://www.am.com.mx/irapuato/2026/09/12/que-paso-en-la-silao-irapuato-choque-y-volcadura-deja-dos-heridos-en-taretan-1843642.html",
           "dot_color": "#e74c3c",
           "badge": "badge-cierre-total",
           "badge_txt": "CIERRE TOTAL"
-        }
-      ]
-    },
-    {
-      "tipo": "cierre_parcial",
-      "color": "amarillo",
-      "icono": "🟡",
-      "label": "CIERRE PARCIAL / ACCIDENTES",
-      "col2": true,
-      "alertas": [
-        {
-          "id": "5607c050",
-          "tipo": "cierre_parcial",
-          "ruta": "Paraliza aparatoso choque de tráiler la Vía Corta en Nicolás…",
-          "descripcion": "Paraliza aparatoso choque de tráiler la Vía Corta en Nicolás Romero. Un aparatoso accidente vial provocó severas filas de autos y la paralización total del tráfico a la altura de Town Center",
-          "recomendacion": "",
-          "fecha": "12 septiembre 2026 · 15:30 CST",
-          "fecha_iso": "2026-09-12T15:30:00-06:00",
-          "fuente": "Quadratin EdoMex",
-          "url": "https://edomex.quadratin.com.mx/paraliza-aparatoso-choque-de-trailer-la-via-corta-en-nicolas-romero/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
         }
       ]
     }
