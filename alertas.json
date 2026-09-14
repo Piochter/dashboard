@@ -1,35 +1,12 @@
 {
-  "ultima_actualizacion": "2026-09-13T18:33:26.331280-06:00",
-  "ultima_actualizacion_legible": "13 de septiembre de 2026 · 18:33 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-09-13T23:27:27.109792-06:00",
+  "ultima_actualizacion_legible": "13 de septiembre de 2026 · 23:27 CST",
+  "total": 0,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News"
   ],
-  "grupos": [
-    {
-      "tipo": "bloqueo",
-      "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "db663989",
-          "tipo": "bloqueo",
-          "ruta": "Bloqueos carreteras HOY 13 de septiembre: Autopistas cerradas en México,…",
-          "descripcion": "Bloqueos carreteras HOY 13 de septiembre: Autopistas cerradas en México, accidentes viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 13 de septiembre: Autopistas cerradas en México, accidentes viales y rutas alternas según CAPUFE Eje Central",
-          "recomendacion": "",
-          "fecha": "13 septiembre 2026 · 08:53 CST",
-          "fecha_iso": "2026-09-13T08:53:00-06:00",
-          "fuente": "Eje Central",
-          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOOFhaeXdPTi1vektJdFVNbF9ZcEJ5aHJzWkpNUkNSNkpBbF8yV1Fyb3E3YkZNelk2SkNZVzlQWnlyUHJhTWhuSk5SYWx4dUl3bmg1aWtNR1dZcWRuQjhlNWlLRE80Q3ZjMVZ6T0dtUGVXQnFYbEp1blU5aERaUlAyWmFDWFRkYXFOd2JHU1U5WU8tRWFCbGgxb0RlRHM0Z2N2Z3dSRklUN2VHeUNVVVdXbklkVTFXYm0xUlhUUnRXWHN0WDloLUtQamZTOHpzcGU1M3JnTlh6MEkzME92WmZVTHNDMjB5ZlN4Y1NWb1gtNjRodw?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        }
-      ]
-    }
-  ],
-  "para_mapa": []
+  "grupos": [],
+  "para_mapa": [],
+  "nota": "Sin alertas activas en la ventana de tiempo configurada."
 }
