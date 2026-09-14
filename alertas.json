@@ -1,11 +1,10 @@
 {
-  "ultima_actualizacion": "2026-09-14T10:43:02.691014-06:00",
-  "ultima_actualizacion_legible": "14 de septiembre de 2026 · 10:43 CST",
-  "total": 7,
+  "ultima_actualizacion": "2026-09-14T14:36:08.434953-06:00",
+  "ultima_actualizacion_legible": "14 de septiembre de 2026 · 14:36 CST",
+  "total": 5,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
-    "Medios regionales",
     "Quadratin + regionales",
     "Telegram"
   ],
@@ -18,14 +17,14 @@
       "col2": false,
       "alertas": [
         {
-          "id": "0e3473be",
+          "id": "c393f2ce",
           "tipo": "bloqueo",
           "ruta": "Bloqueos carreteras HOY 14 de septiembre: Autopistas cerradas en México,…",
-          "descripcion": "Bloqueos carreteras HOY 14 de septiembre: Autopistas cerradas en México, accidentes viales y rutas alternas según CAPUFE - ejecentral.com.mx. Bloqueos carreteras HOY 14 de septiembre: Autopistas cerradas en México, accidentes viales y rutas alternas según CAPUFE ejecentral.com.mx",
+          "descripcion": "Bloqueos carreteras HOY 14 de septiembre: Autopistas cerradas en México, accidentes viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 14 de septiembre: Autopistas cerradas en México, accidentes viales y rutas alternas según CAPUFE Eje Central",
           "recomendacion": "",
           "fecha": "14 septiembre 2026 · 07:12 CST",
           "fecha_iso": "2026-09-14T07:12:00-06:00",
-          "fuente": "ejecentral.com.mx",
+          "fuente": "Eje Central",
           "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQVjByeWN2YkZUaHBpWUVreHJXY2JXRTNjQWRsTGJCT242cm12SjRldjNZa0VXT0NYSWlfUFVZN0VlYTBvVEo1NVlCTW1DcXdUTjFaRVd1VVM5WGxxWTRGWTFoMnB5TWk5ZHhMZFlqV1JOOUJ4OG5wSGVmT0pkOUVTc2liTnJkYXdxc216UDRVbXhRMGZHWG45MlJid3RJTFFpZTJFd25NdEF1dkdqWWltWkFDM05zMzQyMktFcEx1dG5BNWQ4eE1SRW9KVHlZa09CalFJa0JaX2hUS1l0R19Ock04TmxGbG1jUm1id19SeXZWUQ?oc=5",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
@@ -41,6 +40,22 @@
       "col2": true,
       "alertas": [
         {
+          "id": "9281747b",
+          "tipo": "cierre_parcial",
+          "ruta": "Se mantendrán cerradas calles del centro de Pachuca por festejos…",
+          "descripcion": "Se mantendrán cerradas calles del centro de Pachuca por festejos patrios. Cortes a la circulación comenzarán desde el lunes 14. The post Se mantendrán cerradas calles del centro de Pachuca por festejos patrios appeared first on Quadratin Hidalgo.",
+          "recomendacion": "",
+          "fecha": "14 septiembre 2026 · 11:24 CST",
+          "fecha_iso": "2026-09-14T11:24:00-06:00",
+          "fuente": "Quadratin Hidalgo",
+          "url": "https://hidalgo.quadratin.com.mx/sucesos/cerraran-calles-del-centro-de-pachuca-por-festejos-del-15-de-septiembre/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 20.11,
+          "lon": -98.73
+        },
+        {
           "id": "cb5dda42",
           "tipo": "cierre_parcial",
           "ruta": "💥🚘Choque en la #México–#Querétaroen provoca afectaciones hacia #Tepotzotlán https://lajornadaestadodemexico.com/accidente-en-la-mexico-queretaro-provoca-transito-en-cuautitlan-izcalli/…",
@@ -55,52 +70,6 @@
           "badge_txt": "CIERRE PARCIAL",
           "lat": 20.1,
           "lon": -99.5
-        },
-        {
-          "id": "91d22f23",
-          "tipo": "cierre_parcial",
-          "ruta": "Libramiento de Puerto Vallarta",
-          "descripcion": "Autobús se incendia en el Libramiento de Puerto Vallarta. La información proporcionada por las autoridades no precisa si hubo personas lesionadas ni las causas que originaron el incendio del autobús",
-          "recomendacion": "",
-          "fecha": "14 septiembre 2026 · 10:00 CST",
-          "fecha_iso": "2026-09-14T10:00:00-06:00",
-          "fuente": "Quadratin Jalisco",
-          "url": "https://jalisco.quadratin.com.mx/sucesos/autobus-se-incendia-en-el-libramiento-de-puerto-vallarta/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
-        },
-        {
-          "id": "f74f889b",
-          "tipo": "cierre_parcial",
-          "ruta": "autopista 45D hacia Aguascalientes",
-          "descripcion": "Pipa se accidenta en autopista 45D hacia Aguascalientes. El accidente ocurrió alrededor de las 05:44 horas de la madrugada a la altura del kilómetro 34+000 de la Autopista 45D, en el sentido hacia Aguascalientes",
-          "recomendacion": "",
-          "fecha": "14 septiembre 2026 · 09:58 CST",
-          "fecha_iso": "2026-09-14T09:58:00-06:00",
-          "fuente": "El Informador Jalisco",
-          "url": "https://www.informador.mx/jalisco/pipa-de-gasolina-se-accidenta-en-autopista-45d-hacia-aguascalientes-20260914-0064.html",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 21.2,
-          "lon": -102.5
-        },
-        {
-          "id": "b137afcf",
-          "tipo": "cierre_parcial",
-          "ruta": "Carretera a Chapala",
-          "descripcion": "Hombre muere tras ser atropellado en Carretera a Chapala. El incidente obligó al cierre parcial de la carretera en el sentido que va de Guadalajara hacia Chapala",
-          "recomendacion": "",
-          "fecha": "14 septiembre 2026 · 08:51 CST",
-          "fecha_iso": "2026-09-14T08:51:00-06:00",
-          "fuente": "El Informador Jalisco",
-          "url": "https://www.informador.mx/jalisco/hombre-muere-tras-ser-atropellado-en-carretera-a-chapala-20260914-0051.html",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 20.66,
-          "lon": -103.35
         },
         {
           "id": "f91e2f3a",
@@ -139,6 +108,19 @@
   ],
   "para_mapa": [
     {
+      "id": "9281747b",
+      "tipo": "cierre_parcial",
+      "ruta": "Se mantendrán cerradas calles del centro de Pachuca por festejos…",
+      "descripcion": "Se mantendrán cerradas calles del centro de Pachuca por festejos patrios. Cortes a la circulación comenzarán desde el lunes 14. The post Se mantendrán cerradas calles del centro de Pachuca por festejos patrios appeared first on Quadratin Hidalgo.",
+      "fecha": "14 septiembre 2026 · 11:24 CST",
+      "fuente": "Quadratin Hidalgo",
+      "url": "https://hidalgo.quadratin.com.mx/sucesos/cerraran-calles-del-centro-de-pachuca-por-festejos-del-15-de-septiembre/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 20.11,
+      "lon": -98.73
+    },
+    {
       "id": "cb5dda42",
       "tipo": "cierre_parcial",
       "ruta": "💥🚘Choque en la #México–#Querétaroen provoca afectaciones hacia #Tepotzotlán https://lajornadaestadodemexico.com/accidente-en-la-mexico-queretaro-provoca-transito-en-cuautitlan-izcalli/…",
@@ -150,32 +132,6 @@
       "badge_txt": "CIERRE PARCIAL",
       "lat": 20.1,
       "lon": -99.5
-    },
-    {
-      "id": "f74f889b",
-      "tipo": "cierre_parcial",
-      "ruta": "autopista 45D hacia Aguascalientes",
-      "descripcion": "Pipa se accidenta en autopista 45D hacia Aguascalientes. El accidente ocurrió alrededor de las 05:44 horas de la madrugada a la altura del kilómetro 34+000 de la Autopista 45D, en el sentido hacia Aguascalientes",
-      "fecha": "14 septiembre 2026 · 09:58 CST",
-      "fuente": "El Informador Jalisco",
-      "url": "https://www.informador.mx/jalisco/pipa-de-gasolina-se-accidenta-en-autopista-45d-hacia-aguascalientes-20260914-0064.html",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 21.2,
-      "lon": -102.5
-    },
-    {
-      "id": "b137afcf",
-      "tipo": "cierre_parcial",
-      "ruta": "Carretera a Chapala",
-      "descripcion": "Hombre muere tras ser atropellado en Carretera a Chapala. El incidente obligó al cierre parcial de la carretera en el sentido que va de Guadalajara hacia Chapala",
-      "fecha": "14 septiembre 2026 · 08:51 CST",
-      "fuente": "El Informador Jalisco",
-      "url": "https://www.informador.mx/jalisco/hombre-muere-tras-ser-atropellado-en-carretera-a-chapala-20260914-0051.html",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 20.66,
-      "lon": -103.35
     },
     {
       "id": "f91e2f3a",
