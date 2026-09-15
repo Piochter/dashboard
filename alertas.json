@@ -1,10 +1,12 @@
 {
-  "ultima_actualizacion": "2026-09-15T10:55:39.215418-06:00",
-  "ultima_actualizacion_legible": "15 de septiembre de 2026 · 10:55 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-09-15T13:55:58.246503-06:00",
+  "ultima_actualizacion_legible": "15 de septiembre de 2026 · 13:55 CST",
+  "total": 5,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News"
+    "Google News",
+    "Medios nacionales",
+    "Quadratin + regionales"
   ],
   "grupos": [
     {
@@ -31,9 +33,119 @@
           "lon": -104.0
         }
       ]
+    },
+    {
+      "tipo": "cierre_parcial",
+      "color": "amarillo",
+      "icono": "🟡",
+      "label": "CIERRE PARCIAL / ACCIDENTES",
+      "col2": true,
+      "alertas": [
+        {
+          "id": "838c78dd",
+          "tipo": "cierre_parcial",
+          "ruta": "Desfile militar 16 de septiembre 2026: horario, ruta y calles…",
+          "descripcion": "Desfile militar 16 de septiembre 2026: horario, ruta y calles cerradas en CDMX. Conoce detalles de horario, ruta y vialidad del desfile militar 16 de septiembre de 2026 en el que participaran diversos contingentes.",
+          "recomendacion": "",
+          "fecha": "15 septiembre 2026 · 13:14 CST",
+          "fecha_iso": "2026-09-15T13:14:00-06:00",
+          "fuente": "24 Horas",
+          "url": "https://24-horas.mx/cdmx/desfile-militar-16-de-septiembre-2026-horario-ruta-y-calles-cerradas-en-cdmx/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 19.43,
+          "lon": -99.13
+        },
+        {
+          "id": "17eb7f14",
+          "tipo": "cierre_parcial",
+          "ruta": "Libramiento Norte de Tuxtla Gutiérrez deja 3 lesionados",
+          "descripcion": "Accidente en el Libramiento Norte de Tuxtla Gutiérrez deja 3 lesionados. Un vehículo particular salió del carril de rodamiento y terminó incrustado en el camellón",
+          "recomendacion": "",
+          "fecha": "15 septiembre 2026 · 12:21 CST",
+          "fecha_iso": "2026-09-15T12:21:00-06:00",
+          "fuente": "Quadratin Chiapas",
+          "url": "https://chiapas.quadratin.com.mx/sucesos/accidente-en-el-libramiento-norte-de-tuxtla-gutierrez-deja-3-lesionados/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 16.75,
+          "lon": -93.12
+        },
+        {
+          "id": "83a5ff65",
+          "tipo": "cierre_parcial",
+          "ruta": "Autopista a Zapotlanejo",
+          "descripcion": "Camión de cerveza deja un muerto y 3 heridos en Autopista a Zapotlanejo. El percance vial se registró en los carriles con sentido hacia Zapotlanejo, justo en el cruce con el Nuevo Periférico",
+          "recomendacion": "",
+          "fecha": "15 septiembre 2026 · 11:41 CST",
+          "fecha_iso": "2026-09-15T11:41:00-06:00",
+          "fuente": "Quadratin Jalisco",
+          "url": "https://jalisco.quadratin.com.mx/sucesos/camion-de-cerveza-deja-un-muerto-y-3-heridos-en-autopista-a-zapotlanejo/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        },
+        {
+          "id": "cd29975d",
+          "tipo": "cierre_parcial",
+          "ruta": "carretera Pachuca-Sahagún",
+          "descripcion": "Reportan múltiples accidentes en la carretera Pachuca-Sahagún. Se observan automóviles con daños y unidades detenidas, The post Reportan múltiples accidentes en la carretera Pachuca-Sahagún appeared first on Quadratin Hidalgo.",
+          "recomendacion": "",
+          "fecha": "15 septiembre 2026 · 11:36 CST",
+          "fecha_iso": "2026-09-15T11:36:00-06:00",
+          "fuente": "Quadratin Hidalgo",
+          "url": "https://hidalgo.quadratin.com.mx/sucesos/reportan-multiples-accidentes-en-la-carretera-pachuca-sahagun/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 20.11,
+          "lon": -98.73
+        }
+      ]
     }
   ],
   "para_mapa": [
+    {
+      "id": "838c78dd",
+      "tipo": "cierre_parcial",
+      "ruta": "Desfile militar 16 de septiembre 2026: horario, ruta y calles…",
+      "descripcion": "Desfile militar 16 de septiembre 2026: horario, ruta y calles cerradas en CDMX. Conoce detalles de horario, ruta y vialidad del desfile militar 16 de septiembre de 2026 en el que participaran diversos contingentes.",
+      "fecha": "15 septiembre 2026 · 13:14 CST",
+      "fuente": "24 Horas",
+      "url": "https://24-horas.mx/cdmx/desfile-militar-16-de-septiembre-2026-horario-ruta-y-calles-cerradas-en-cdmx/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 19.43,
+      "lon": -99.13
+    },
+    {
+      "id": "17eb7f14",
+      "tipo": "cierre_parcial",
+      "ruta": "Libramiento Norte de Tuxtla Gutiérrez deja 3 lesionados",
+      "descripcion": "Accidente en el Libramiento Norte de Tuxtla Gutiérrez deja 3 lesionados. Un vehículo particular salió del carril de rodamiento y terminó incrustado en el camellón",
+      "fecha": "15 septiembre 2026 · 12:21 CST",
+      "fuente": "Quadratin Chiapas",
+      "url": "https://chiapas.quadratin.com.mx/sucesos/accidente-en-el-libramiento-norte-de-tuxtla-gutierrez-deja-3-lesionados/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 16.75,
+      "lon": -93.12
+    },
+    {
+      "id": "cd29975d",
+      "tipo": "cierre_parcial",
+      "ruta": "carretera Pachuca-Sahagún",
+      "descripcion": "Reportan múltiples accidentes en la carretera Pachuca-Sahagún. Se observan automóviles con daños y unidades detenidas, The post Reportan múltiples accidentes en la carretera Pachuca-Sahagún appeared first on Quadratin Hidalgo.",
+      "fecha": "15 septiembre 2026 · 11:36 CST",
+      "fuente": "Quadratin Hidalgo",
+      "url": "https://hidalgo.quadratin.com.mx/sucesos/reportan-multiples-accidentes-en-la-carretera-pachuca-sahagun/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 20.11,
+      "lon": -98.73
+    },
     {
       "id": "776004c8",
       "tipo": "bloqueo",
