@@ -1,12 +1,51 @@
 {
-  "ultima_actualizacion": "2026-09-15T06:08:37.419503-06:00",
-  "ultima_actualizacion_legible": "15 de septiembre de 2026 · 06:08 CST",
-  "total": 0,
+  "ultima_actualizacion": "2026-09-15T10:55:39.215418-06:00",
+  "ultima_actualizacion_legible": "15 de septiembre de 2026 · 10:55 CST",
+  "total": 1,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News"
   ],
-  "grupos": [],
-  "para_mapa": [],
-  "nota": "Sin alertas activas en la ventana de tiempo configurada."
+  "grupos": [
+    {
+      "tipo": "bloqueo",
+      "color": "rojo",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "776004c8",
+          "tipo": "bloqueo",
+          "ruta": "Alertan por BLOQUEOS en estas CARRETERAS y AUTOPISTAS hoy martes…",
+          "descripcion": "Alertan por BLOQUEOS en estas CARRETERAS y AUTOPISTAS hoy martes 15 de septiembre de 2026 | EN VIVO - El Heraldo de México. Alertan por BLOQUEOS en estas CARRETERAS y AUTOPISTAS hoy martes 15 de septiembre de 2026 | EN VIVO El Heraldo de México",
+          "recomendacion": "",
+          "fecha": "15 septiembre 2026 · 08:43 CST",
+          "fecha_iso": "2026-09-15T08:43:00-06:00",
+          "fuente": "El Heraldo de México",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxONHJBLVp1NVdKUXN1akdSOVFEclZUSTNsd0U3bHdrVW5iNjRyTy1VT0NjcUp3NFJOeFJtZDR1WkZXaFUtSlpFbWFTdnkxYmVvZUtwaDRjZ0hJSF9taEFtS29OeXJkUlo0eEt1TFRZZ0tUUTJja2JKLWZNbHZHYThHRVNPSXhFMHJhLXFOQ3ZhdTdxaDhiYlliZnJxZ0dWYVdpcXRRSDhJWGliMjNqTHNTRkYtYm8yVXlfQXE5MlJVajNfMklSVnFmY29JWHdRYzVsbXU0ZU5TelNxRVBrUzJHTzgxM1dXWnpGSWZla3ZR?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 21.0,
+          "lon": -104.0
+        }
+      ]
+    }
+  ],
+  "para_mapa": [
+    {
+      "id": "776004c8",
+      "tipo": "bloqueo",
+      "ruta": "Alertan por BLOQUEOS en estas CARRETERAS y AUTOPISTAS hoy martes…",
+      "descripcion": "Alertan por BLOQUEOS en estas CARRETERAS y AUTOPISTAS hoy martes 15 de septiembre de 2026 | EN VIVO - El Heraldo de México. Alertan por BLOQUEOS en estas CARRETERAS y AUTOPISTAS hoy martes 15 de septiembre de 2026 | EN VIVO El Heraldo de México",
+      "fecha": "15 septiembre 2026 · 08:43 CST",
+      "fuente": "El Heraldo de México",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxONHJBLVp1NVdKUXN1akdSOVFEclZUSTNsd0U3bHdrVW5iNjRyTy1VT0NjcUp3NFJOeFJtZDR1WkZXaFUtSlpFbWFTdnkxYmVvZUtwaDRjZ0hJSF9taEFtS29OeXJkUlo0eEt1TFRZZ0tUUTJja2JKLWZNbHZHYThHRVNPSXhFMHJhLXFOQ3ZhdTdxaDhiYlliZnJxZ0dWYVdpcXRRSDhJWGliMjNqTHNTRkYtYm8yVXlfQXE5MlJVajNfMklSVnFmY29JWHdRYzVsbXU0ZU5TelNxRVBrUzJHTzgxM1dXWnpGSWZla3ZR?oc=5",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 21.0,
+      "lon": -104.0
+    }
+  ]
 }
