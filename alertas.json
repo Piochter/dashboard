@@ -1,11 +1,9 @@
 {
-  "ultima_actualizacion": "2026-09-14T17:28:17.077955-06:00",
-  "ultima_actualizacion_legible": "14 de septiembre de 2026 · 17:28 CST",
-  "total": 8,
+  "ultima_actualizacion": "2026-09-14T19:45:03.411755-06:00",
+  "ultima_actualizacion_legible": "14 de septiembre de 2026 · 19:45 CST",
+  "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News",
-    "Medios regionales",
     "Quadratin + regionales",
     "Telegram"
   ],
@@ -30,45 +28,6 @@
           "dot_color": "#e74c3c",
           "badge": "badge-cierre-total",
           "badge_txt": "CIERRE TOTAL"
-        },
-        {
-          "id": "c54bcafe",
-          "tipo": "cierre_total",
-          "ruta": "Rapiña en autopista Celaya-Querétaro: Usan hasta cobija para robarse carne…",
-          "descripcion": "Rapiña en autopista Celaya-Querétaro: Usan hasta cobija para robarse carne tras volcadura. Fue por el kilómetro 38, cerca del Libramiento Norte, donde dos tráileres chocaron y volcaron, regando sobre la carretera grandes cantidades de carne como mercancía.",
-          "recomendacion": "",
-          "fecha": "14 septiembre 2026 · 13:34 CST",
-          "fecha_iso": "2026-09-14T13:34:00-06:00",
-          "fuente": "AM Guanajuato",
-          "url": "https://www.am.com.mx/celaya/2026/09/14/rapina-en-la-autopista-celaya-queretaro-tras-choque-y-volcadura-1844089.html",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL",
-          "lat": 20.55,
-          "lon": -100.6
-        }
-      ]
-    },
-    {
-      "tipo": "bloqueo",
-      "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "0e3473be",
-          "tipo": "bloqueo",
-          "ruta": "Bloqueos carreteras HOY 14 de septiembre: Autopistas cerradas en México,…",
-          "descripcion": "Bloqueos carreteras HOY 14 de septiembre: Autopistas cerradas en México, accidentes viales y rutas alternas según CAPUFE - ejecentral.com.mx. Bloqueos carreteras HOY 14 de septiembre: Autopistas cerradas en México, accidentes viales y rutas alternas según CAPUFE ejecentral.com.mx",
-          "recomendacion": "",
-          "fecha": "14 septiembre 2026 · 07:12 CST",
-          "fecha_iso": "2026-09-14T07:12:00-06:00",
-          "fuente": "ejecentral.com.mx",
-          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQVjByeWN2YkZUaHBpWUVreHJXY2JXRTNjQWRsTGJCT242cm12SjRldjNZa0VXT0NYSWlfUFVZN0VlYTBvVEo1NVlCTW1DcXdUTjFaRVd1VVM5WGxxWTRGWTFoMnB5TWk5ZHhMZFlqV1JOOUJ4OG5wSGVmT0pkOUVTc2liTnJkYXdxc216UDRVbXhRMGZHWG45MlJid3RJTFFpZTJFd25NdEF1dkdqWWltWkFDM05zMzQyMktFcEx1dG5BNWQ4eE1SRW9KVHlZa09CalFJa0JaX2hUS1l0R19Ock04TmxGbG1jUm1id19SeXZWUQ?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
         }
       ]
     },
@@ -79,38 +38,6 @@
       "label": "CIERRE PARCIAL / ACCIDENTES",
       "col2": true,
       "alertas": [
-        {
-          "id": "c838c08b",
-          "tipo": "cierre_parcial",
-          "ruta": "Alista Profeco revisión técnica a BYD tras percance en México-Toluca…",
-          "descripcion": "Alista Profeco revisión técnica a BYD tras percance en México-Toluca. Mientras la unidad SUV Audi resultó con daños físicos, el vehículo hibrido terminó incendiándose por completo tras el impacto",
-          "recomendacion": "",
-          "fecha": "14 septiembre 2026 · 16:00 CST",
-          "fecha_iso": "2026-09-14T16:00:00-06:00",
-          "fuente": "Quadratin EdoMex",
-          "url": "https://edomex.quadratin.com.mx/alista-profeco-revision-tecnica-a-byd-tras-percance-en-mexico-toluca/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.29,
-          "lon": -99.66
-        },
-        {
-          "id": "acfec6ff",
-          "tipo": "cierre_parcial",
-          "ruta": "Choque entre Tráiler y Auto Deportivo de Lujo en la…",
-          "descripcion": "Choque entre Tráiler y Auto Deportivo de Lujo en la Autopista México-Puebla - N+. Choque entre Tráiler y Auto Deportivo de Lujo en la Autopista México-Puebla N+",
-          "recomendacion": "",
-          "fecha": "14 septiembre 2026 · 14:35 CST",
-          "fecha_iso": "2026-09-14T14:35:00-06:00",
-          "fuente": "N+",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOExBdzlLLWVtenlMUm9XM3d6d01jOG1JZzFJdzVXbDI0ekYzSmwyM0lfMi1MWDcxUU4zcG9xUHMxQi1tNUVvQXAwS2ZyMExzWk1VTm0zazhVQXUwTVJ3UVNzZHpjOWh2clN3QmpyWkY2WkJNdmktZVJDclZZNloxaHFuRGlnMlRlWTNxRUhEM1lhckg1bVpMQXQxT0tmcUNoWC14c3RXMlI3XzYzUENVY1NCR0dUU1ZuQXk0RFh4TzF4UUlHWllSRHluRUw?oc=5",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.35,
-          "lon": -98.4
-        },
         {
           "id": "cb5dda42",
           "tipo": "cierre_parcial",
@@ -126,82 +53,11 @@
           "badge_txt": "CIERRE PARCIAL",
           "lat": 20.1,
           "lon": -99.5
-        },
-        {
-          "id": "f91e2f3a",
-          "tipo": "cierre_parcial",
-          "ruta": "Filas kilométricas en México-Querétaro y México-Puebla por accidentes; circulación paralizada…",
-          "descripcion": "Filas kilométricas en México-Querétaro y México-Puebla por accidentes; circulación paralizada en estos puntos carreteros - adn40.mx. Filas kilométricas en México-Querétaro y México-Puebla por accidentes; circulación paralizada en estos puntos carreteros adn40.mx",
-          "recomendacion": "",
-          "fecha": "14 septiembre 2026 · 07:46 CST",
-          "fecha_iso": "2026-09-14T07:46:00-06:00",
-          "fuente": "adn40.mx",
-          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOOVRRTXFONzJtR1ZFNUR3d1dKSVJmUFJYeUhrNGtwS2pVd2xBTDdTeUF3Q2ItZ0hOdEx2WFJiV0RYS0c0amo2aF9Sdzlid3lyNldFYWx4eGM2eDlGQUlLLU9ncGxKR1J5ZFNJWmhVMkxQZjh0aVdwZnpXLUtrZENCalZEa1VaOW9BV1lyV21hT2JmVDJzalVDRzV0V0ZQRGdnZW15MV9Pd25lekhmWUNlamxYQTVsSkd2VVBoS3poalJBVHhGeE95bncxRkNIUW9LRTJHSlY0aTAtTGdsN0hhNGdYWGFkWjNrQjE0ZVhPR2g?oc=5",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.35,
-          "lon": -98.4
-        },
-        {
-          "id": "de1bfcbe",
-          "tipo": "cierre_parcial",
-          "ruta": "🚧 Accidente en la #Toluca-#Tenango afecta la circulación [#VIDEO 😱]…",
-          "descripcion": "🚧 Accidente en la #Toluca-#Tenango afecta la circulación [#VIDEO 😱] 👇\n\nhttps://lajornadaestadodemexico.com/accidente-en-la-toluca-tenango-video/",
-          "recomendacion": "",
-          "fecha": "14 septiembre 2026 · 06:24 CST",
-          "fecha_iso": "2026-09-14T06:24:00-06:00",
-          "fuente": "Telegram @jornadaedomex",
-          "url": "https://t.me/jornadaedomex/12059",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.29,
-          "lon": -99.66
         }
       ]
     }
   ],
   "para_mapa": [
-    {
-      "id": "c838c08b",
-      "tipo": "cierre_parcial",
-      "ruta": "Alista Profeco revisión técnica a BYD tras percance en México-Toluca…",
-      "descripcion": "Alista Profeco revisión técnica a BYD tras percance en México-Toluca. Mientras la unidad SUV Audi resultó con daños físicos, el vehículo hibrido terminó incendiándose por completo tras el impacto",
-      "fecha": "14 septiembre 2026 · 16:00 CST",
-      "fuente": "Quadratin EdoMex",
-      "url": "https://edomex.quadratin.com.mx/alista-profeco-revision-tecnica-a-byd-tras-percance-en-mexico-toluca/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.29,
-      "lon": -99.66
-    },
-    {
-      "id": "acfec6ff",
-      "tipo": "cierre_parcial",
-      "ruta": "Choque entre Tráiler y Auto Deportivo de Lujo en la…",
-      "descripcion": "Choque entre Tráiler y Auto Deportivo de Lujo en la Autopista México-Puebla - N+. Choque entre Tráiler y Auto Deportivo de Lujo en la Autopista México-Puebla N+",
-      "fecha": "14 septiembre 2026 · 14:35 CST",
-      "fuente": "N+",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOExBdzlLLWVtenlMUm9XM3d6d01jOG1JZzFJdzVXbDI0ekYzSmwyM0lfMi1MWDcxUU4zcG9xUHMxQi1tNUVvQXAwS2ZyMExzWk1VTm0zazhVQXUwTVJ3UVNzZHpjOWh2clN3QmpyWkY2WkJNdmktZVJDclZZNloxaHFuRGlnMlRlWTNxRUhEM1lhckg1bVpMQXQxT0tmcUNoWC14c3RXMlI3XzYzUENVY1NCR0dUU1ZuQXk0RFh4TzF4UUlHWllSRHluRUw?oc=5",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.35,
-      "lon": -98.4
-    },
-    {
-      "id": "c54bcafe",
-      "tipo": "cierre_total",
-      "ruta": "Rapiña en autopista Celaya-Querétaro: Usan hasta cobija para robarse carne…",
-      "descripcion": "Rapiña en autopista Celaya-Querétaro: Usan hasta cobija para robarse carne tras volcadura. Fue por el kilómetro 38, cerca del Libramiento Norte, donde dos tráileres chocaron y volcaron, regando sobre la carretera grandes cantidades de carne como mercancía.",
-      "fecha": "14 septiembre 2026 · 13:34 CST",
-      "fuente": "AM Guanajuato",
-      "url": "https://www.am.com.mx/celaya/2026/09/14/rapina-en-la-autopista-celaya-queretaro-tras-choque-y-volcadura-1844089.html",
-      "dot_color": "#e74c3c",
-      "badge_txt": "CIERRE TOTAL",
-      "lat": 20.55,
-      "lon": -100.6
-    },
     {
       "id": "cb5dda42",
       "tipo": "cierre_parcial",
@@ -214,32 +70,6 @@
       "badge_txt": "CIERRE PARCIAL",
       "lat": 20.1,
       "lon": -99.5
-    },
-    {
-      "id": "f91e2f3a",
-      "tipo": "cierre_parcial",
-      "ruta": "Filas kilométricas en México-Querétaro y México-Puebla por accidentes; circulación paralizada…",
-      "descripcion": "Filas kilométricas en México-Querétaro y México-Puebla por accidentes; circulación paralizada en estos puntos carreteros - adn40.mx. Filas kilométricas en México-Querétaro y México-Puebla por accidentes; circulación paralizada en estos puntos carreteros adn40.mx",
-      "fecha": "14 septiembre 2026 · 07:46 CST",
-      "fuente": "adn40.mx",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOOVRRTXFONzJtR1ZFNUR3d1dKSVJmUFJYeUhrNGtwS2pVd2xBTDdTeUF3Q2ItZ0hOdEx2WFJiV0RYS0c0amo2aF9Sdzlid3lyNldFYWx4eGM2eDlGQUlLLU9ncGxKR1J5ZFNJWmhVMkxQZjh0aVdwZnpXLUtrZENCalZEa1VaOW9BV1lyV21hT2JmVDJzalVDRzV0V0ZQRGdnZW15MV9Pd25lekhmWUNlamxYQTVsSkd2VVBoS3poalJBVHhGeE95bncxRkNIUW9LRTJHSlY0aTAtTGdsN0hhNGdYWGFkWjNrQjE0ZVhPR2g?oc=5",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.35,
-      "lon": -98.4
-    },
-    {
-      "id": "de1bfcbe",
-      "tipo": "cierre_parcial",
-      "ruta": "🚧 Accidente en la #Toluca-#Tenango afecta la circulación [#VIDEO 😱]…",
-      "descripcion": "🚧 Accidente en la #Toluca-#Tenango afecta la circulación [#VIDEO 😱] 👇\n\nhttps://lajornadaestadodemexico.com/accidente-en-la-toluca-tenango-video/",
-      "fecha": "14 septiembre 2026 · 06:24 CST",
-      "fuente": "Telegram @jornadaedomex",
-      "url": "https://t.me/jornadaedomex/12059",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.29,
-      "lon": -99.66
     }
   ]
 }
