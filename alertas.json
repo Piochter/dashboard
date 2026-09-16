@@ -1,6 +1,6 @@
 {
-  "ultima_actualizacion": "2026-09-15T16:33:23.152110-06:00",
-  "ultima_actualizacion_legible": "15 de septiembre de 2026 · 16:33 CST",
+  "ultima_actualizacion": "2026-09-15T18:48:40.831725-06:00",
+  "ultima_actualizacion_legible": "15 de septiembre de 2026 · 18:48 CST",
   "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
@@ -9,37 +9,28 @@
   ],
   "grupos": [
     {
-      "tipo": "cierre_total",
-      "color": "rojo",
-      "icono": "🔴",
-      "label": "CIERRE TOTAL",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "5d324d56",
-          "tipo": "cierre_total",
-          "ruta": "Autopista a Zapotlanejo",
-          "descripcion": "Camión de cerveza deja un muerto y 3 heridos en Autopista a Zapotlanejo. TONALÁ, Jal., 15 de septiembre de 2026.- Un saldo fatal de un hombre sin vida y tres personas lesionadas, entre ellas una menor de edad, dejó la tarde de este martes la volcadura de un tráiler que transportaba cerveza sobre la Autopista a Zapotlanejo, en el municipio de Tonalá. El contenedor del vehículo pesado se […]",
-          "recomendacion": "",
-          "fecha": "15 septiembre 2026 · 13:57 CST",
-          "fecha_iso": "2026-09-15T13:57:00-06:00",
-          "fuente": "Quadratin Chiapas",
-          "url": "https://chiapas.quadratin.com.mx/sucesos/camion-de-cerveza-deja-un-muerto-y-3-heridos-en-autopista-a-zapotlanejo/",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL",
-          "lat": 21.0,
-          "lon": -104.0
-        }
-      ]
-    },
-    {
       "tipo": "cierre_parcial",
       "color": "amarillo",
       "icono": "🟡",
       "label": "CIERRE PARCIAL / ACCIDENTES",
       "col2": true,
       "alertas": [
+        {
+          "id": "0f11dd4d",
+          "tipo": "cierre_parcial",
+          "ruta": "Despliegan dispositivo especial por fiestas patrias en Guerrero…",
+          "descripcion": "Despliegan dispositivo especial por fiestas patrias en Guerrero. Se busca proteger a la población tras cierre de vialidades por festejos",
+          "recomendacion": "",
+          "fecha": "15 septiembre 2026 · 18:38 CST",
+          "fecha_iso": "2026-09-15T18:38:00-06:00",
+          "fuente": "Quadratin Guerrero",
+          "url": "https://guerrero.quadratin.com.mx/despliegan-dispositivo-especial-por-fiestas-patrias-en-guerrero/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 17.55,
+          "lon": -99.5
+        },
         {
           "id": "838c78dd",
           "tipo": "cierre_parcial",
@@ -61,17 +52,17 @@
   ],
   "para_mapa": [
     {
-      "id": "5d324d56",
-      "tipo": "cierre_total",
-      "ruta": "Autopista a Zapotlanejo",
-      "descripcion": "Camión de cerveza deja un muerto y 3 heridos en Autopista a Zapotlanejo. TONALÁ, Jal., 15 de septiembre de 2026.- Un saldo fatal de un hombre sin vida y tres personas lesionadas, entre ellas una menor de edad, dejó la tarde de este martes la volcadura de un tráiler que transportaba cerveza sobre la Autopista a Zapotlanejo, en el municipio de Tonalá. El contenedor del vehículo pesado se […]",
-      "fecha": "15 septiembre 2026 · 13:57 CST",
-      "fuente": "Quadratin Chiapas",
-      "url": "https://chiapas.quadratin.com.mx/sucesos/camion-de-cerveza-deja-un-muerto-y-3-heridos-en-autopista-a-zapotlanejo/",
-      "dot_color": "#e74c3c",
-      "badge_txt": "CIERRE TOTAL",
-      "lat": 21.0,
-      "lon": -104.0
+      "id": "0f11dd4d",
+      "tipo": "cierre_parcial",
+      "ruta": "Despliegan dispositivo especial por fiestas patrias en Guerrero…",
+      "descripcion": "Despliegan dispositivo especial por fiestas patrias en Guerrero. Se busca proteger a la población tras cierre de vialidades por festejos",
+      "fecha": "15 septiembre 2026 · 18:38 CST",
+      "fuente": "Quadratin Guerrero",
+      "url": "https://guerrero.quadratin.com.mx/despliegan-dispositivo-especial-por-fiestas-patrias-en-guerrero/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 17.55,
+      "lon": -99.5
     },
     {
       "id": "838c78dd",
