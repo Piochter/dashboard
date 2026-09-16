@@ -1,51 +1,12 @@
 {
-  "ultima_actualizacion": "2026-09-15T23:29:39.329027-06:00",
-  "ultima_actualizacion_legible": "15 de septiembre de 2026 · 23:29 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-09-16T04:12:17.791550-06:00",
+  "ultima_actualizacion_legible": "16 de septiembre de 2026 · 04:12 CST",
+  "total": 0,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Quadratin + regionales"
+    "Google News"
   ],
-  "grupos": [
-    {
-      "tipo": "cierre_parcial",
-      "color": "amarillo",
-      "icono": "🟡",
-      "label": "CIERRE PARCIAL / ACCIDENTES",
-      "col2": true,
-      "alertas": [
-        {
-          "id": "0f11dd4d",
-          "tipo": "cierre_parcial",
-          "ruta": "Despliegan dispositivo especial por fiestas patrias en Guerrero…",
-          "descripcion": "Despliegan dispositivo especial por fiestas patrias en Guerrero. Se busca proteger a la población tras cierre de vialidades por festejos",
-          "recomendacion": "",
-          "fecha": "15 septiembre 2026 · 18:38 CST",
-          "fecha_iso": "2026-09-15T18:38:00-06:00",
-          "fuente": "Quadratin Guerrero",
-          "url": "https://guerrero.quadratin.com.mx/despliegan-dispositivo-especial-por-fiestas-patrias-en-guerrero/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 17.55,
-          "lon": -99.5
-        }
-      ]
-    }
-  ],
-  "para_mapa": [
-    {
-      "id": "0f11dd4d",
-      "tipo": "cierre_parcial",
-      "ruta": "Despliegan dispositivo especial por fiestas patrias en Guerrero…",
-      "descripcion": "Despliegan dispositivo especial por fiestas patrias en Guerrero. Se busca proteger a la población tras cierre de vialidades por festejos",
-      "fecha": "15 septiembre 2026 · 18:38 CST",
-      "fuente": "Quadratin Guerrero",
-      "url": "https://guerrero.quadratin.com.mx/despliegan-dispositivo-especial-por-fiestas-patrias-en-guerrero/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 17.55,
-      "lon": -99.5
-    }
-  ]
+  "grupos": [],
+  "para_mapa": [],
+  "nota": "Sin alertas activas en la ventana de tiempo configurada."
 }
