@@ -1,35 +1,12 @@
 {
-  "ultima_actualizacion": "2026-09-16T17:51:22.042635-06:00",
-  "ultima_actualizacion_legible": "16 de septiembre de 2026 · 17:51 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-09-16T20:27:52.192660-06:00",
+  "ultima_actualizacion_legible": "16 de septiembre de 2026 · 20:27 CST",
+  "total": 0,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Medios regionales"
+    "Google News"
   ],
-  "grupos": [
-    {
-      "tipo": "bloqueo",
-      "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "45dab7cd",
-          "tipo": "bloqueo",
-          "ruta": "Liberan bloqueo en carretera de Madero; mantienen búsqueda de menor…",
-          "descripcion": "Liberan bloqueo en carretera de Madero; mantienen búsqueda de menor. Dsapareció desde el pasado domingo 13 de septiembre",
-          "recomendacion": "",
-          "fecha": "16 septiembre 2026 · 16:02 CST",
-          "fecha_iso": "2026-09-16T16:02:00-06:00",
-          "fuente": "Quadratin Michoacan",
-          "url": "https://www.quadratin.com.mx/justicia/liberan-bloqueo-en-carretera-de-madero-mantienen-busqueda-de-menor/",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        }
-      ]
-    }
-  ],
-  "para_mapa": []
+  "grupos": [],
+  "para_mapa": [],
+  "nota": "Sin alertas activas en la ventana de tiempo configurada."
 }
