@@ -1,10 +1,11 @@
 {
-  "ultima_actualizacion": "2026-09-17T11:22:58.048926-06:00",
-  "ultima_actualizacion_legible": "17 de septiembre de 2026 · 11:22 CST",
-  "total": 4,
+  "ultima_actualizacion": "2026-09-17T14:27:08.540478-06:00",
+  "ultima_actualizacion_legible": "17 de septiembre de 2026 · 14:27 CST",
+  "total": 5,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News"
+    "Google News",
+    "Quadratin + regionales"
   ],
   "grupos": [
     {
@@ -40,14 +41,28 @@
       "col2": false,
       "alertas": [
         {
-          "id": "cd265fa0",
+          "id": "9b336963",
+          "tipo": "bloqueo",
+          "ruta": "Denuncian ejidatarios represión de autoridades; cierran la Méx-Texcoco…",
+          "descripcion": "Denuncian ejidatarios represión de autoridades; cierran la Méx-Texcoco. Como medida de protesta para exigir atención a sus demandas, los ejidatarios colocaron una manta sobre la carretera y mantuvieron bloqueado...",
+          "recomendacion": "",
+          "fecha": "17 septiembre 2026 · 13:30 CST",
+          "fecha_iso": "2026-09-17T13:30:00-06:00",
+          "fuente": "Quadratin EdoMex",
+          "url": "https://edomex.quadratin.com.mx/denuncian-ejidatarios-represion-de-autoridades-cierran-la-mex-texcoco/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
+        {
+          "id": "f1e29376",
           "tipo": "bloqueo",
           "ruta": "Bloqueos carreteras HOY 17 de septiembre: Autopistas cerradas en México,…",
-          "descripcion": "Bloqueos carreteras HOY 17 de septiembre: Autopistas cerradas en México, accidentes viales y rutas alternas según CAPUFE - ejecentral.com.mx. Bloqueos carreteras HOY 17 de septiembre: Autopistas cerradas en México, accidentes viales y rutas alternas según CAPUFE ejecentral.com.mx",
+          "descripcion": "Bloqueos carreteras HOY 17 de septiembre: Autopistas cerradas en México, accidentes viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 17 de septiembre: Autopistas cerradas en México, accidentes viales y rutas alternas según CAPUFE Eje Central",
           "recomendacion": "",
           "fecha": "17 septiembre 2026 · 07:19 CST",
           "fecha_iso": "2026-09-17T07:19:00-06:00",
-          "fuente": "ejecentral.com.mx",
+          "fuente": "Eje Central",
           "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxORG5sY0RmQlpQLWhpTmtPUnNROF9lUXM3WGVlYzE1WFQ4YVhISlpUdWVrSzl2WUFHaVQ1akE2MmFFRHZfa2UtRGdESkhVa3djM1ZVbHpZdDY3NXRJWGM5VmNtTEhXYlRDb3JsQlFMTUUzVzlIMkkxRmt4NXcxb0hQSm5kNWJzSU1nRFVzemd3YjNSdzFXcUZ0V2tlMnF1eTI4bkNrbnp0MmdoNVBUNmp6V2hLbzNEQXhxQ3d2U05MNE1XTjNtMFUzdERWTWZIbjUyQmtZM3hqMHpJX3ZRa3pPV1pENGdBZ3MtQ3hjV1llVUNLZw?oc=5",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
