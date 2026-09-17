@@ -1,12 +1,117 @@
 {
-  "ultima_actualizacion": "2026-09-17T06:53:50.001576-06:00",
-  "ultima_actualizacion_legible": "17 de septiembre de 2026 · 06:53 CST",
-  "total": 0,
+  "ultima_actualizacion": "2026-09-17T11:22:58.048926-06:00",
+  "ultima_actualizacion_legible": "17 de septiembre de 2026 · 11:22 CST",
+  "total": 4,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News"
   ],
-  "grupos": [],
-  "para_mapa": [],
-  "nota": "Sin alertas activas en la ventana de tiempo configurada."
+  "grupos": [
+    {
+      "tipo": "cierre_total",
+      "color": "rojo",
+      "icono": "🔴",
+      "label": "CIERRE TOTAL",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "892f97b4",
+          "tipo": "cierre_total",
+          "ruta": "carretera México-Querétaro a la altura de Ojo de Agua - TV Azteca",
+          "descripcion": "Volcadura de camioneta provoca cierre parcial en la carretera México-Querétaro a la altura de Ojo de Agua - TV Azteca. Volcadura de camioneta provoca cierre parcial en la carretera México-Querétaro a la altura de Ojo de Agua TV Azteca",
+          "recomendacion": "",
+          "fecha": "17 septiembre 2026 · 08:34 CST",
+          "fecha_iso": "2026-09-17T08:34:00-06:00",
+          "fuente": "TV Azteca",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTkhOTFloUkNfWW02a3VORUhrcW5WR2stRHhUQ05lVzdCSWtvaVFpU1J5aU1aY2tXb2EySFFqUUgyNzB1RlY4WUxsR0RjU0lmUUhFWjEtSFEza3pFdzVldnpxOWdpTEtKUHNBeG1sVGN6Mjl0TkNIa2ZheExsd0ZYcVFMQmJheVoxcEFuMFUyYy1McldCVXhfbUNtMmViRWdZZ1lNTVNNRHl1NkpLRHdvaFhXVlVweVpTdVIxd2hsTTRCSGRYOW9hZ1hVdGtVVmVU0gHeAUFVX3lxTFBadXRLekYtbllQWUZOS01wNzh0TWtEakRWbUwwNWlob0t5OXdBTWNHZjVJeEhwdWxWS3N5REhNRUluaHY1Mkc0OXVSN2J1MlJWbDJ1QnBsak05MlNtOHJ0ZHd4VjZ5Ti02X3VRNkp0YUUzQmZMckVrOUVWU1FzX1prOThhdXNDaTZwT0xhSmg2VndCaEV5UVp2ZnBlLUU5NExBMjA5RlVTc21TU2xNRmlxUzBodXV3UXI3VWZFdE9hYzNtQzRBRG5hcXBrcDhwLTdWWTY0UTZESzlMSDBDZw?oc=5",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL",
+          "lat": 20.1,
+          "lon": -99.5
+        }
+      ]
+    },
+    {
+      "tipo": "bloqueo",
+      "color": "rojo",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "cd265fa0",
+          "tipo": "bloqueo",
+          "ruta": "Bloqueos carreteras HOY 17 de septiembre: Autopistas cerradas en México,…",
+          "descripcion": "Bloqueos carreteras HOY 17 de septiembre: Autopistas cerradas en México, accidentes viales y rutas alternas según CAPUFE - ejecentral.com.mx. Bloqueos carreteras HOY 17 de septiembre: Autopistas cerradas en México, accidentes viales y rutas alternas según CAPUFE ejecentral.com.mx",
+          "recomendacion": "",
+          "fecha": "17 septiembre 2026 · 07:19 CST",
+          "fecha_iso": "2026-09-17T07:19:00-06:00",
+          "fuente": "ejecentral.com.mx",
+          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxORG5sY0RmQlpQLWhpTmtPUnNROF9lUXM3WGVlYzE1WFQ4YVhISlpUdWVrSzl2WUFHaVQ1akE2MmFFRHZfa2UtRGdESkhVa3djM1ZVbHpZdDY3NXRJWGM5VmNtTEhXYlRDb3JsQlFMTUUzVzlIMkkxRmt4NXcxb0hQSm5kNWJzSU1nRFVzemd3YjNSdzFXcUZ0V2tlMnF1eTI4bkNrbnp0MmdoNVBUNmp6V2hLbzNEQXhxQ3d2U05MNE1XTjNtMFUzdERWTWZIbjUyQmtZM3hqMHpJX3ZRa3pPV1pENGdBZ3MtQ3hjV1llVUNLZw?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
+        {
+          "id": "d027dae7",
+          "tipo": "bloqueo",
+          "ruta": "Alertan por BLOQUEOS en estas CARRETERAS y AUTOPISTAS para hoy…",
+          "descripcion": "Alertan por BLOQUEOS en estas CARRETERAS y AUTOPISTAS para hoy jueves 17 de septiembre de 2026 | EN VIVO - El Heraldo de México. Alertan por BLOQUEOS en estas CARRETERAS y AUTOPISTAS para hoy jueves 17 de septiembre de 2026 | EN VIVO El Heraldo de México",
+          "recomendacion": "",
+          "fecha": "17 septiembre 2026 · 07:19 CST",
+          "fecha_iso": "2026-09-17T07:19:00-06:00",
+          "fuente": "El Heraldo de México",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOYkd3a08yUFhCal8ySURGTmtPZUtzY29DWHpsQmU0MjBPaDYycENjZlpHaWlydUFodDlsbGY3dHJGWXVBQ0E0R2xWOHRCQVA3UlVCLXVuaGNwai1pWWZiMFB4Q0xkd1lzUnZDVGV5VTAyYXNqVkU5TUdvMHJGQk1xTGpkTmlGWWZRalhEcl9YcFVNU1dtNEt1Um9xR1dhd29acUdxS01PaVRzbEZGa1huV2psZGtDQkVfbnA2WUpwdzJMOHJId2czOGl4LWZvc3o1cXZMbkNfSmlrNlk3Y2RNZmk0OXdxNW1nSXBqZ1FHdUprZVpt?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
+        {
+          "id": "180d7965",
+          "tipo": "bloqueo",
+          "ruta": "Bloqueos hoy 17 de septiembre: Autopistas y carreteras cerradas -…",
+          "descripcion": "Bloqueos hoy 17 de septiembre: Autopistas y carreteras cerradas - adn40.mx. Bloqueos hoy 17 de septiembre: Autopistas y carreteras cerradas adn40.mx",
+          "recomendacion": "",
+          "fecha": "17 septiembre 2026 · 06:56 CST",
+          "fecha_iso": "2026-09-17T06:56:00-06:00",
+          "fuente": "adn40.mx",
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNUG9Xc0RSOVhiaWEwbUo2bXFheUgyeTI0cHNWWVpKZm1WaUlXRWRyUTJDV2I5OTlBdjQzaE90cEtKS2dYT1VtcFJaMXczVUp2bmxwZ1NfbUdwLXlrWXZMdmdtbF92c3BaLWN0RWpLZkZPN0ZJY3VtaVl1ZVIzYTVNcDA1djdhdmVSUzZXYWIycHlZX3BhODRMYTRFLVdtSVFkdnRfbzh0amdXS19XV3pmNVRhZ1JzWE4xLTh0UktBQXNYVGxyTVlQSlI4dGg1LTE3UF9xOG5Kc2xXS3ZPejhIVnBLNWQtUnBhS28tVXRrYzRiUUE?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 25.2,
+          "lon": -102.0
+        }
+      ]
+    }
+  ],
+  "para_mapa": [
+    {
+      "id": "892f97b4",
+      "tipo": "cierre_total",
+      "ruta": "carretera México-Querétaro a la altura de Ojo de Agua - TV Azteca",
+      "descripcion": "Volcadura de camioneta provoca cierre parcial en la carretera México-Querétaro a la altura de Ojo de Agua - TV Azteca. Volcadura de camioneta provoca cierre parcial en la carretera México-Querétaro a la altura de Ojo de Agua TV Azteca",
+      "fecha": "17 septiembre 2026 · 08:34 CST",
+      "fuente": "TV Azteca",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTkhOTFloUkNfWW02a3VORUhrcW5WR2stRHhUQ05lVzdCSWtvaVFpU1J5aU1aY2tXb2EySFFqUUgyNzB1RlY4WUxsR0RjU0lmUUhFWjEtSFEza3pFdzVldnpxOWdpTEtKUHNBeG1sVGN6Mjl0TkNIa2ZheExsd0ZYcVFMQmJheVoxcEFuMFUyYy1McldCVXhfbUNtMmViRWdZZ1lNTVNNRHl1NkpLRHdvaFhXVlVweVpTdVIxd2hsTTRCSGRYOW9hZ1hVdGtVVmVU0gHeAUFVX3lxTFBadXRLekYtbllQWUZOS01wNzh0TWtEakRWbUwwNWlob0t5OXdBTWNHZjVJeEhwdWxWS3N5REhNRUluaHY1Mkc0OXVSN2J1MlJWbDJ1QnBsak05MlNtOHJ0ZHd4VjZ5Ti02X3VRNkp0YUUzQmZMckVrOUVWU1FzX1prOThhdXNDaTZwT0xhSmg2VndCaEV5UVp2ZnBlLUU5NExBMjA5RlVTc21TU2xNRmlxUzBodXV3UXI3VWZFdE9hYzNtQzRBRG5hcXBrcDhwLTdWWTY0UTZESzlMSDBDZw?oc=5",
+      "dot_color": "#e74c3c",
+      "badge_txt": "CIERRE TOTAL",
+      "lat": 20.1,
+      "lon": -99.5
+    },
+    {
+      "id": "180d7965",
+      "tipo": "bloqueo",
+      "ruta": "Bloqueos hoy 17 de septiembre: Autopistas y carreteras cerradas -…",
+      "descripcion": "Bloqueos hoy 17 de septiembre: Autopistas y carreteras cerradas - adn40.mx. Bloqueos hoy 17 de septiembre: Autopistas y carreteras cerradas adn40.mx",
+      "fecha": "17 septiembre 2026 · 06:56 CST",
+      "fuente": "adn40.mx",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNUG9Xc0RSOVhiaWEwbUo2bXFheUgyeTI0cHNWWVpKZm1WaUlXRWRyUTJDV2I5OTlBdjQzaE90cEtKS2dYT1VtcFJaMXczVUp2bmxwZ1NfbUdwLXlrWXZMdmdtbF92c3BaLWN0RWpLZkZPN0ZJY3VtaVl1ZVIzYTVNcDA1djdhdmVSUzZXYWIycHlZX3BhODRMYTRFLVdtSVFkdnRfbzh0amdXS19XV3pmNVRhZ1JzWE4xLTh0UktBQXNYVGxyTVlQSlI4dGg1LTE3UF9xOG5Kc2xXS3ZPejhIVnBLNWQtUnBhS28tVXRrYzRiUUE?oc=5",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 25.2,
+      "lon": -102.0
+    }
+  ]
 }
