@@ -1,11 +1,10 @@
 {
-  "ultima_actualizacion": "2026-09-17T14:27:08.540478-06:00",
-  "ultima_actualizacion_legible": "17 de septiembre de 2026 · 14:27 CST",
-  "total": 5,
+  "ultima_actualizacion": "2026-09-17T16:58:38.023387-06:00",
+  "ultima_actualizacion_legible": "17 de septiembre de 2026 · 16:58 CST",
+  "total": 4,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News",
-    "Quadratin + regionales"
+    "Google News"
   ],
   "grupos": [
     {
@@ -40,20 +39,6 @@
       "label": "BLOQUEOS / MANIFESTACIONES",
       "col2": false,
       "alertas": [
-        {
-          "id": "9b336963",
-          "tipo": "bloqueo",
-          "ruta": "Denuncian ejidatarios represión de autoridades; cierran la Méx-Texcoco…",
-          "descripcion": "Denuncian ejidatarios represión de autoridades; cierran la Méx-Texcoco. Como medida de protesta para exigir atención a sus demandas, los ejidatarios colocaron una manta sobre la carretera y mantuvieron bloqueado...",
-          "recomendacion": "",
-          "fecha": "17 septiembre 2026 · 13:30 CST",
-          "fecha_iso": "2026-09-17T13:30:00-06:00",
-          "fuente": "Quadratin EdoMex",
-          "url": "https://edomex.quadratin.com.mx/denuncian-ejidatarios-represion-de-autoridades-cierran-la-mex-texcoco/",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        },
         {
           "id": "f1e29376",
           "tipo": "bloqueo",
