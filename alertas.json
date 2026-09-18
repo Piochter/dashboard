@@ -1,37 +1,13 @@
 {
-  "ultima_actualizacion": "2026-09-17T16:58:38.023387-06:00",
-  "ultima_actualizacion_legible": "17 de septiembre de 2026 · 16:58 CST",
+  "ultima_actualizacion": "2026-09-17T19:00:13.454085-06:00",
+  "ultima_actualizacion_legible": "17 de septiembre de 2026 · 19:00 CST",
   "total": 4,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News"
+    "Google News",
+    "Quadratin + regionales"
   ],
   "grupos": [
-    {
-      "tipo": "cierre_total",
-      "color": "rojo",
-      "icono": "🔴",
-      "label": "CIERRE TOTAL",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "892f97b4",
-          "tipo": "cierre_total",
-          "ruta": "carretera México-Querétaro a la altura de Ojo de Agua - TV Azteca",
-          "descripcion": "Volcadura de camioneta provoca cierre parcial en la carretera México-Querétaro a la altura de Ojo de Agua - TV Azteca. Volcadura de camioneta provoca cierre parcial en la carretera México-Querétaro a la altura de Ojo de Agua TV Azteca",
-          "recomendacion": "",
-          "fecha": "17 septiembre 2026 · 08:34 CST",
-          "fecha_iso": "2026-09-17T08:34:00-06:00",
-          "fuente": "TV Azteca",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTkhOTFloUkNfWW02a3VORUhrcW5WR2stRHhUQ05lVzdCSWtvaVFpU1J5aU1aY2tXb2EySFFqUUgyNzB1RlY4WUxsR0RjU0lmUUhFWjEtSFEza3pFdzVldnpxOWdpTEtKUHNBeG1sVGN6Mjl0TkNIa2ZheExsd0ZYcVFMQmJheVoxcEFuMFUyYy1McldCVXhfbUNtMmViRWdZZ1lNTVNNRHl1NkpLRHdvaFhXVlVweVpTdVIxd2hsTTRCSGRYOW9hZ1hVdGtVVmVU0gHeAUFVX3lxTFBadXRLekYtbllQWUZOS01wNzh0TWtEakRWbUwwNWlob0t5OXdBTWNHZjVJeEhwdWxWS3N5REhNRUluaHY1Mkc0OXVSN2J1MlJWbDJ1QnBsak05MlNtOHJ0ZHd4VjZ5Ti02X3VRNkp0YUUzQmZMckVrOUVWU1FzX1prOThhdXNDaTZwT0xhSmg2VndCaEV5UVp2ZnBlLUU5NExBMjA5RlVTc21TU2xNRmlxUzBodXV3UXI3VWZFdE9hYzNtQzRBRG5hcXBrcDhwLTdWWTY0UTZESzlMSDBDZw?oc=5",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL",
-          "lat": 20.1,
-          "lon": -99.5
-        }
-      ]
-    },
     {
       "tipo": "bloqueo",
       "color": "rojo",
@@ -39,6 +15,36 @@
       "label": "BLOQUEOS / MANIFESTACIONES",
       "col2": false,
       "alertas": [
+        {
+          "id": "a8052d31",
+          "tipo": "bloqueo",
+          "ruta": "Toman federales la Policía de Coyuca y detienen a 7…",
+          "descripcion": "Toman federales la Policía de Coyuca y detienen a 7 agentes. ACAPULCO, Gro., 17 de septiembre de 2026.- Fuerzas federales tomaron las instalaciones de la Secretaría de Seguridad Pública de Coyuca de Benítez, Guerrero, donde detuvieron a siete policías municipales acusados de desaparición forzada. En un boletín de prensa, la Fiscalía General del Estado (FGE) informó que en la operación participaron el Ejército Mexicano, Guardia Nacional, […]",
+          "recomendacion": "",
+          "fecha": "17 septiembre 2026 · 17:32 CST",
+          "fecha_iso": "2026-09-17T17:32:00-06:00",
+          "fuente": "Quadratin Jalisco",
+          "url": "https://jalisco.quadratin.com.mx/principal/toman-federales-la-policia-de-coyuca-y-detienen-a-7-agentes/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 17.55,
+          "lon": -99.5
+        },
+        {
+          "id": "a9f66fa1",
+          "tipo": "bloqueo",
+          "ruta": "Lista de carreteras de México cerradas hoy por accidentes y…",
+          "descripcion": "Lista de carreteras de México cerradas hoy por accidentes y bloqueos - TV Azteca. Lista de carreteras de México cerradas hoy por accidentes y bloqueos TV Azteca",
+          "recomendacion": "",
+          "fecha": "17 septiembre 2026 · 13:49 CST",
+          "fecha_iso": "2026-09-17T13:49:00-06:00",
+          "fuente": "TV Azteca",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTkhOTFloUkNfWW02a3VORUhrcW5WR2stRHhUQ05lVzdCSWtvaVFpU1J5aU1aY2tXb2EySFFqUUgyNzB1RlY4WUxsR0RjU0lmUUhFWjEtSFEza3pFdzVldnpxOWdpTEtKUHNBeG1sVGN6Mjl0TkNIa2ZheExsd0ZYcVFMQmJheVoxcEFuMFUyYy1McldCVXhfbUNtMmViRWdZZ1lNTVNNRHl1NkpLRHdvaFhXVlVweVpTdVIxd2hsTTRCSGRYOW9hZ1hVdGtVVmVU0gHeAUFVX3lxTFBadXRLekYtbllQWUZOS01wNzh0TWtEakRWbUwwNWlob0t5OXdBTWNHZjVJeEhwdWxWS3N5REhNRUluaHY1Mkc0OXVSN2J1MlJWbDJ1QnBsak05MlNtOHJ0ZHd4VjZ5Ti02X3VRNkp0YUUzQmZMckVrOUVWU1FzX1prOThhdXNDaTZwT0xhSmg2VndCaEV5UVp2ZnBlLUU5NExBMjA5RlVTc21TU2xNRmlxUzBodXV3UXI3VWZFdE9hYzNtQzRBRG5hcXBrcDhwLTdWWTY0UTZESzlMSDBDZw?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
         {
           "id": "f1e29376",
           "tipo": "bloqueo",
@@ -66,52 +72,23 @@
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO"
-        },
-        {
-          "id": "180d7965",
-          "tipo": "bloqueo",
-          "ruta": "Bloqueos hoy 17 de septiembre: Autopistas y carreteras cerradas -…",
-          "descripcion": "Bloqueos hoy 17 de septiembre: Autopistas y carreteras cerradas - adn40.mx. Bloqueos hoy 17 de septiembre: Autopistas y carreteras cerradas adn40.mx",
-          "recomendacion": "",
-          "fecha": "17 septiembre 2026 · 06:56 CST",
-          "fecha_iso": "2026-09-17T06:56:00-06:00",
-          "fuente": "adn40.mx",
-          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNUG9Xc0RSOVhiaWEwbUo2bXFheUgyeTI0cHNWWVpKZm1WaUlXRWRyUTJDV2I5OTlBdjQzaE90cEtKS2dYT1VtcFJaMXczVUp2bmxwZ1NfbUdwLXlrWXZMdmdtbF92c3BaLWN0RWpLZkZPN0ZJY3VtaVl1ZVIzYTVNcDA1djdhdmVSUzZXYWIycHlZX3BhODRMYTRFLVdtSVFkdnRfbzh0amdXS19XV3pmNVRhZ1JzWE4xLTh0UktBQXNYVGxyTVlQSlI4dGg1LTE3UF9xOG5Kc2xXS3ZPejhIVnBLNWQtUnBhS28tVXRrYzRiUUE?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 25.2,
-          "lon": -102.0
         }
       ]
     }
   ],
   "para_mapa": [
     {
-      "id": "892f97b4",
-      "tipo": "cierre_total",
-      "ruta": "carretera México-Querétaro a la altura de Ojo de Agua - TV Azteca",
-      "descripcion": "Volcadura de camioneta provoca cierre parcial en la carretera México-Querétaro a la altura de Ojo de Agua - TV Azteca. Volcadura de camioneta provoca cierre parcial en la carretera México-Querétaro a la altura de Ojo de Agua TV Azteca",
-      "fecha": "17 septiembre 2026 · 08:34 CST",
-      "fuente": "TV Azteca",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTkhOTFloUkNfWW02a3VORUhrcW5WR2stRHhUQ05lVzdCSWtvaVFpU1J5aU1aY2tXb2EySFFqUUgyNzB1RlY4WUxsR0RjU0lmUUhFWjEtSFEza3pFdzVldnpxOWdpTEtKUHNBeG1sVGN6Mjl0TkNIa2ZheExsd0ZYcVFMQmJheVoxcEFuMFUyYy1McldCVXhfbUNtMmViRWdZZ1lNTVNNRHl1NkpLRHdvaFhXVlVweVpTdVIxd2hsTTRCSGRYOW9hZ1hVdGtVVmVU0gHeAUFVX3lxTFBadXRLekYtbllQWUZOS01wNzh0TWtEakRWbUwwNWlob0t5OXdBTWNHZjVJeEhwdWxWS3N5REhNRUluaHY1Mkc0OXVSN2J1MlJWbDJ1QnBsak05MlNtOHJ0ZHd4VjZ5Ti02X3VRNkp0YUUzQmZMckVrOUVWU1FzX1prOThhdXNDaTZwT0xhSmg2VndCaEV5UVp2ZnBlLUU5NExBMjA5RlVTc21TU2xNRmlxUzBodXV3UXI3VWZFdE9hYzNtQzRBRG5hcXBrcDhwLTdWWTY0UTZESzlMSDBDZw?oc=5",
-      "dot_color": "#e74c3c",
-      "badge_txt": "CIERRE TOTAL",
-      "lat": 20.1,
-      "lon": -99.5
-    },
-    {
-      "id": "180d7965",
+      "id": "a8052d31",
       "tipo": "bloqueo",
-      "ruta": "Bloqueos hoy 17 de septiembre: Autopistas y carreteras cerradas -…",
-      "descripcion": "Bloqueos hoy 17 de septiembre: Autopistas y carreteras cerradas - adn40.mx. Bloqueos hoy 17 de septiembre: Autopistas y carreteras cerradas adn40.mx",
-      "fecha": "17 septiembre 2026 · 06:56 CST",
-      "fuente": "adn40.mx",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNUG9Xc0RSOVhiaWEwbUo2bXFheUgyeTI0cHNWWVpKZm1WaUlXRWRyUTJDV2I5OTlBdjQzaE90cEtKS2dYT1VtcFJaMXczVUp2bmxwZ1NfbUdwLXlrWXZMdmdtbF92c3BaLWN0RWpLZkZPN0ZJY3VtaVl1ZVIzYTVNcDA1djdhdmVSUzZXYWIycHlZX3BhODRMYTRFLVdtSVFkdnRfbzh0amdXS19XV3pmNVRhZ1JzWE4xLTh0UktBQXNYVGxyTVlQSlI4dGg1LTE3UF9xOG5Kc2xXS3ZPejhIVnBLNWQtUnBhS28tVXRrYzRiUUE?oc=5",
+      "ruta": "Toman federales la Policía de Coyuca y detienen a 7…",
+      "descripcion": "Toman federales la Policía de Coyuca y detienen a 7 agentes. ACAPULCO, Gro., 17 de septiembre de 2026.- Fuerzas federales tomaron las instalaciones de la Secretaría de Seguridad Pública de Coyuca de Benítez, Guerrero, donde detuvieron a siete policías municipales acusados de desaparición forzada. En un boletín de prensa, la Fiscalía General del Estado (FGE) informó que en la operación participaron el Ejército Mexicano, Guardia Nacional, […]",
+      "fecha": "17 septiembre 2026 · 17:32 CST",
+      "fuente": "Quadratin Jalisco",
+      "url": "https://jalisco.quadratin.com.mx/principal/toman-federales-la-policia-de-coyuca-y-detienen-a-7-agentes/",
       "dot_color": "#8e44ad",
       "badge_txt": "BLOQUEO",
-      "lat": 25.2,
-      "lon": -102.0
+      "lat": 17.55,
+      "lon": -99.5
     }
   ]
 }
