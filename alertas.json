@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-09-17T19:00:13.454085-06:00",
-  "ultima_actualizacion_legible": "17 de septiembre de 2026 · 19:00 CST",
-  "total": 4,
+  "ultima_actualizacion": "2026-09-17T23:37:38.364197-06:00",
+  "ultima_actualizacion_legible": "17 de septiembre de 2026 · 23:37 CST",
+  "total": 3,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
@@ -44,39 +44,49 @@
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO"
-        },
+        }
+      ]
+    },
+    {
+      "tipo": "robo",
+      "color": "rojo",
+      "icono": "🚨",
+      "label": "ROBOS EN CARRETERA",
+      "col2": true,
+      "alertas": [
         {
-          "id": "f1e29376",
-          "tipo": "bloqueo",
-          "ruta": "Bloqueos carreteras HOY 17 de septiembre: Autopistas cerradas en México,…",
-          "descripcion": "Bloqueos carreteras HOY 17 de septiembre: Autopistas cerradas en México, accidentes viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY 17 de septiembre: Autopistas cerradas en México, accidentes viales y rutas alternas según CAPUFE Eje Central",
+          "id": "a17cba57",
+          "tipo": "robo",
+          "ruta": "Investigará SSP a Capufe por robo de carga en Puebla…",
+          "descripcion": "Investigará SSP a Capufe por robo de carga en Puebla. Investigan a personal de CAPUFE por robo de carga en carreteras",
           "recomendacion": "",
-          "fecha": "17 septiembre 2026 · 07:19 CST",
-          "fecha_iso": "2026-09-17T07:19:00-06:00",
-          "fuente": "Eje Central",
-          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxORG5sY0RmQlpQLWhpTmtPUnNROF9lUXM3WGVlYzE1WFQ4YVhISlpUdWVrSzl2WUFHaVQ1akE2MmFFRHZfa2UtRGdESkhVa3djM1ZVbHpZdDY3NXRJWGM5VmNtTEhXYlRDb3JsQlFMTUUzVzlIMkkxRmt4NXcxb0hQSm5kNWJzSU1nRFVzemd3YjNSdzFXcUZ0V2tlMnF1eTI4bkNrbnp0MmdoNVBUNmp6V2hLbzNEQXhxQ3d2U05MNE1XTjNtMFUzdERWTWZIbjUyQmtZM3hqMHpJX3ZRa3pPV1pENGdBZ3MtQ3hjV1llVUNLZw?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        },
-        {
-          "id": "d027dae7",
-          "tipo": "bloqueo",
-          "ruta": "Alertan por BLOQUEOS en estas CARRETERAS y AUTOPISTAS para hoy…",
-          "descripcion": "Alertan por BLOQUEOS en estas CARRETERAS y AUTOPISTAS para hoy jueves 17 de septiembre de 2026 | EN VIVO - El Heraldo de México. Alertan por BLOQUEOS en estas CARRETERAS y AUTOPISTAS para hoy jueves 17 de septiembre de 2026 | EN VIVO El Heraldo de México",
-          "recomendacion": "",
-          "fecha": "17 septiembre 2026 · 07:19 CST",
-          "fecha_iso": "2026-09-17T07:19:00-06:00",
-          "fuente": "El Heraldo de México",
-          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOYkd3a08yUFhCal8ySURGTmtPZUtzY29DWHpsQmU0MjBPaDYycENjZlpHaWlydUFodDlsbGY3dHJGWXVBQ0E0R2xWOHRCQVA3UlVCLXVuaGNwai1pWWZiMFB4Q0xkd1lzUnZDVGV5VTAyYXNqVkU5TUdvMHJGQk1xTGpkTmlGWWZRalhEcl9YcFVNU1dtNEt1Um9xR1dhd29acUdxS01PaVRzbEZGa1huV2psZGtDQkVfbnA2WUpwdzJMOHJId2czOGl4LWZvc3o1cXZMbkNfSmlrNlk3Y2RNZmk0OXdxNW1nSXBqZ1FHdUprZVpt?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
+          "fecha": "17 septiembre 2026 · 19:37 CST",
+          "fecha_iso": "2026-09-17T19:37:00-06:00",
+          "fuente": "Quadratin Puebla",
+          "url": "https://puebla.quadratin.com.mx/sucesos/investigara-ssp-a-capufe-por-robo-de-carga-en-puebla/",
+          "dot_color": "#c0392b",
+          "badge": "badge-robo",
+          "badge_txt": "ROBO",
+          "lat": 19.04,
+          "lon": -98.2
         }
       ]
     }
   ],
   "para_mapa": [
+    {
+      "id": "a17cba57",
+      "tipo": "robo",
+      "ruta": "Investigará SSP a Capufe por robo de carga en Puebla…",
+      "descripcion": "Investigará SSP a Capufe por robo de carga en Puebla. Investigan a personal de CAPUFE por robo de carga en carreteras",
+      "fecha": "17 septiembre 2026 · 19:37 CST",
+      "fuente": "Quadratin Puebla",
+      "url": "https://puebla.quadratin.com.mx/sucesos/investigara-ssp-a-capufe-por-robo-de-carga-en-puebla/",
+      "dot_color": "#c0392b",
+      "badge_txt": "ROBO",
+      "lat": 19.04,
+      "lon": -98.2
+    },
     {
       "id": "a8052d31",
       "tipo": "bloqueo",
