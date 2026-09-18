@@ -1,6 +1,6 @@
 {
-  "ultima_actualizacion": "2026-09-18T14:09:56.624432-06:00",
-  "ultima_actualizacion_legible": "18 de septiembre de 2026 · 14:09 CST",
+  "ultima_actualizacion": "2026-09-18T16:34:02.527179-06:00",
+  "ultima_actualizacion_legible": "18 de septiembre de 2026 · 16:34 CST",
   "total": 4,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
@@ -29,20 +29,6 @@
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO"
-        },
-        {
-          "id": "54352b81",
-          "tipo": "bloqueo",
-          "ruta": "Cancelan manifestación en carretera a Chapala; acuerdan mesa de trabajo…",
-          "descripcion": "Cancelan manifestación en carretera a Chapala; acuerdan mesa de trabajo con SIOP. El grupo de vecinos se concentró afuera del Mercado Las Pintitas debido a los problemas de agua y drenaje derivados de los trabajos en la carretera",
-          "recomendacion": "",
-          "fecha": "18 septiembre 2026 · 11:53 CST",
-          "fecha_iso": "2026-09-18T11:53:00-06:00",
-          "fuente": "El Informador Jalisco",
-          "url": "https://www.informador.mx/jalisco/cancelan-manifestacion-en-carretera-a-chapala-acuerdan-mesa-de-trabajo-con-siop-20260918-0094.html",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
         }
       ]
     },
@@ -54,20 +40,36 @@
       "col2": true,
       "alertas": [
         {
-          "id": "a6c28720",
+          "id": "566a8f67",
           "tipo": "cierre_parcial",
-          "ruta": "Atiende Gobierno de Izcalli concentración y apoya para liberar vialidad…",
-          "descripcion": "Atiende Gobierno de Izcalli concentración y apoya para liberar vialidad. Alrededor de 150 personas mantienen cerrada la circulación sobre avenida Hidalgo",
+          "ruta": "Choque frontal en la 500 deja un muerto y dos…",
+          "descripcion": "Choque frontal en la 500 deja un muerto y dos heridos graves. Un aparatoso choque frontal cobró la vida de un hombre y dejó dos lesionados graves en la carretera estatal 500 The post Choque frontal en la 500 deja un muerto y dos heridos graves appeared first on Quadratin Querétaro.",
           "recomendacion": "",
-          "fecha": "18 septiembre 2026 · 11:30 CST",
-          "fecha_iso": "2026-09-18T11:30:00-06:00",
-          "fuente": "Quadratin EdoMex",
-          "url": "https://edomex.quadratin.com.mx/atiende-gobierno-de-izcalli-concentracion-y-apoya-para-liberar-vialidad/",
+          "fecha": "18 septiembre 2026 · 16:00 CST",
+          "fecha_iso": "2026-09-18T16:00:00-06:00",
+          "fuente": "Quadratin Queretaro",
+          "url": "https://queretaro.quadratin.com.mx/choque-frontal-en-la-500-deja-un-muerto-y-dos-heridos-graves/",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL",
-          "lat": 21.0,
-          "lon": -104.0
+          "lat": 20.59,
+          "lon": -100.39
+        },
+        {
+          "id": "f03472b1",
+          "tipo": "cierre_parcial",
+          "ruta": "Carretera a Chapala",
+          "descripcion": "Choque entre tres autos y un tráiler complica la circulación en Carretera a Chapala. El accidente dejó seis personas lesionadas y obligó a cerrar el carril de alta velocidad en sentido hacia Guadalajara",
+          "recomendacion": "",
+          "fecha": "18 septiembre 2026 · 14:23 CST",
+          "fecha_iso": "2026-09-18T14:23:00-06:00",
+          "fuente": "El Informador Jalisco",
+          "url": "https://www.informador.mx/jalisco/choque-entre-tres-autos-y-un-trailer-complica-la-circulacion-en-carretera-a-chapala-20260918-0134.html",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 20.66,
+          "lon": -103.35
         },
         {
           "id": "4645b8c8",
@@ -90,17 +92,30 @@
   ],
   "para_mapa": [
     {
-      "id": "a6c28720",
+      "id": "566a8f67",
       "tipo": "cierre_parcial",
-      "ruta": "Atiende Gobierno de Izcalli concentración y apoya para liberar vialidad…",
-      "descripcion": "Atiende Gobierno de Izcalli concentración y apoya para liberar vialidad. Alrededor de 150 personas mantienen cerrada la circulación sobre avenida Hidalgo",
-      "fecha": "18 septiembre 2026 · 11:30 CST",
-      "fuente": "Quadratin EdoMex",
-      "url": "https://edomex.quadratin.com.mx/atiende-gobierno-de-izcalli-concentracion-y-apoya-para-liberar-vialidad/",
+      "ruta": "Choque frontal en la 500 deja un muerto y dos…",
+      "descripcion": "Choque frontal en la 500 deja un muerto y dos heridos graves. Un aparatoso choque frontal cobró la vida de un hombre y dejó dos lesionados graves en la carretera estatal 500 The post Choque frontal en la 500 deja un muerto y dos heridos graves appeared first on Quadratin Querétaro.",
+      "fecha": "18 septiembre 2026 · 16:00 CST",
+      "fuente": "Quadratin Queretaro",
+      "url": "https://queretaro.quadratin.com.mx/choque-frontal-en-la-500-deja-un-muerto-y-dos-heridos-graves/",
       "dot_color": "#e67e22",
       "badge_txt": "CIERRE PARCIAL",
-      "lat": 21.0,
-      "lon": -104.0
+      "lat": 20.59,
+      "lon": -100.39
+    },
+    {
+      "id": "f03472b1",
+      "tipo": "cierre_parcial",
+      "ruta": "Carretera a Chapala",
+      "descripcion": "Choque entre tres autos y un tráiler complica la circulación en Carretera a Chapala. El accidente dejó seis personas lesionadas y obligó a cerrar el carril de alta velocidad en sentido hacia Guadalajara",
+      "fecha": "18 septiembre 2026 · 14:23 CST",
+      "fuente": "El Informador Jalisco",
+      "url": "https://www.informador.mx/jalisco/choque-entre-tres-autos-y-un-trailer-complica-la-circulacion-en-carretera-a-chapala-20260918-0134.html",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 20.66,
+      "lon": -103.35
     },
     {
       "id": "4645b8c8",
