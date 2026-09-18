@@ -1,10 +1,9 @@
 {
-  "ultima_actualizacion": "2026-09-17T23:37:38.364197-06:00",
-  "ultima_actualizacion_legible": "17 de septiembre de 2026 · 23:37 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-09-18T04:03:16.308698-06:00",
+  "ultima_actualizacion_legible": "18 de septiembre de 2026 · 04:03 CST",
+  "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News",
     "Quadratin + regionales"
   ],
   "grupos": [
@@ -30,20 +29,6 @@
           "badge_txt": "BLOQUEO",
           "lat": 17.55,
           "lon": -99.5
-        },
-        {
-          "id": "a9f66fa1",
-          "tipo": "bloqueo",
-          "ruta": "Lista de carreteras de México cerradas hoy por accidentes y…",
-          "descripcion": "Lista de carreteras de México cerradas hoy por accidentes y bloqueos - TV Azteca. Lista de carreteras de México cerradas hoy por accidentes y bloqueos TV Azteca",
-          "recomendacion": "",
-          "fecha": "17 septiembre 2026 · 13:49 CST",
-          "fecha_iso": "2026-09-17T13:49:00-06:00",
-          "fuente": "TV Azteca",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTkhOTFloUkNfWW02a3VORUhrcW5WR2stRHhUQ05lVzdCSWtvaVFpU1J5aU1aY2tXb2EySFFqUUgyNzB1RlY4WUxsR0RjU0lmUUhFWjEtSFEza3pFdzVldnpxOWdpTEtKUHNBeG1sVGN6Mjl0TkNIa2ZheExsd0ZYcVFMQmJheVoxcEFuMFUyYy1McldCVXhfbUNtMmViRWdZZ1lNTVNNRHl1NkpLRHdvaFhXVlVweVpTdVIxd2hsTTRCSGRYOW9hZ1hVdGtVVmVU0gHeAUFVX3lxTFBadXRLekYtbllQWUZOS01wNzh0TWtEakRWbUwwNWlob0t5OXdBTWNHZjVJeEhwdWxWS3N5REhNRUluaHY1Mkc0OXVSN2J1MlJWbDJ1QnBsak05MlNtOHJ0ZHd4VjZ5Ti02X3VRNkp0YUUzQmZMckVrOUVWU1FzX1prOThhdXNDaTZwT0xhSmg2VndCaEV5UVp2ZnBlLUU5NExBMjA5RlVTc21TU2xNRmlxUzBodXV3UXI3VWZFdE9hYzNtQzRBRG5hcXBrcDhwLTdWWTY0UTZESzlMSDBDZw?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
         }
       ]
     },
