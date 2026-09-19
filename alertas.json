@@ -1,6 +1,6 @@
 {
-  "ultima_actualizacion": "2026-09-19T10:38:08.005066-06:00",
-  "ultima_actualizacion_legible": "19 de septiembre de 2026 · 10:38 CST",
+  "ultima_actualizacion": "2026-09-19T12:54:16.771037-06:00",
+  "ultima_actualizacion_legible": "19 de septiembre de 2026 · 12:54 CST",
   "total": 1,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
@@ -15,14 +15,14 @@
       "col2": false,
       "alertas": [
         {
-          "id": "68d497c0",
+          "id": "f7f48117",
           "tipo": "bloqueo",
           "ruta": "Alertan por BLOQUEOS en CARRETERAS y AUTOPISTAS hoy sábado 19…",
-          "descripcion": "Alertan por BLOQUEOS en CARRETERAS y AUTOPISTAS hoy sábado 19 de septiembre de 2026 | EN VIVO - El Heraldo de México. Alertan por BLOQUEOS en CARRETERAS y AUTOPISTAS hoy sábado 19 de septiembre de 2026 | EN VIVO El Heraldo de México",
+          "descripcion": "Alertan por BLOQUEOS en CARRETERAS y AUTOPISTAS hoy sábado 19 de septiembre de 2026 | EN VIVO - heraldodemexico.com.mx. Alertan por BLOQUEOS en CARRETERAS y AUTOPISTAS hoy sábado 19 de septiembre de 2026 | EN VIVO heraldodemexico.com.mx",
           "recomendacion": "",
           "fecha": "19 septiembre 2026 · 06:04 CST",
           "fecha_iso": "2026-09-19T06:04:00-06:00",
-          "fuente": "El Heraldo de México",
+          "fuente": "heraldodemexico.com.mx",
           "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbWtCSmdLVmpSUkE1QXZ4T3VBWkoyLVUtR0ctaVh0c2YxUjlLZTZ1VVdsRXBoQUM2Y0w5dU9aV2VQdUhUbzhKVGhmUnBWejJTYTl5T2l2Rkd4XzlQczZ4NXlDY3EzdzVnN2tsS2UtY2pXanBQbnM0dkUwQU1MVGFHdUpxZzdYU1htUURqZlNZZkhENWMxV0JrLUItNjgxSHNDQmVYNEJWYlEtNE9tN0VWSEpGeXNQV3l4YnJtVWhUdXQ0dkYxeGo4aXBuOUQ1R3VTYjFOa19tRy1mOUlxVVJ6dm13aTFSdw?oc=5",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
