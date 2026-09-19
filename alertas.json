@@ -1,6 +1,6 @@
 {
-  "ultima_actualizacion": "2026-09-18T23:03:08.834325-06:00",
-  "ultima_actualizacion_legible": "18 de septiembre de 2026 · 23:03 CST",
+  "ultima_actualizacion": "2026-09-19T03:28:25.055389-06:00",
+  "ultima_actualizacion_legible": "19 de septiembre de 2026 · 03:28 CST",
   "total": 1,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
@@ -15,15 +15,15 @@
       "col2": false,
       "alertas": [
         {
-          "id": "a3a036c7",
+          "id": "602c0efa",
           "tipo": "bloqueo",
-          "ruta": "Bloquean las México-Puebla, piden localizar a operador de pipa que…",
-          "descripcion": "Bloquean las México-Puebla, piden localizar a operador de pipa que agredió a conductor de Uber. Manifestantes mantienen bloqueada la carretera México-Puebla en el kilómetro 28.5, a la altura de Puente Blanco, por agresión a un conductor.",
+          "ruta": "Bloquean la México-Puebla, piden localizar a operador de pipa que…",
+          "descripcion": "Bloquean la México-Puebla, piden localizar a operador de pipa que agredió a conductor de Uber. Manifestantes mantienen bloqueada la carretera México-Puebla en el kilómetro 28.5, a la altura de Puente Blanco, por agresión a un conductor.",
           "recomendacion": "",
           "fecha": "18 septiembre 2026 · 22:18 CST",
           "fecha_iso": "2026-09-18T22:18:00-06:00",
           "fuente": "24 Horas",
-          "url": "https://24-horas.mx/estados/bloquean-las-mexico-puebla-piden-localizar-a-operador-de-pipa-que-agredio-a-conductor-de-uber/",
+          "url": "https://24-horas.mx/estados/bloquean-la-mexico-puebla-piden-localizar-a-operador-de-pipa-que-agredio-a-conductor-de-uber/",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO",
@@ -35,13 +35,13 @@
   ],
   "para_mapa": [
     {
-      "id": "a3a036c7",
+      "id": "602c0efa",
       "tipo": "bloqueo",
-      "ruta": "Bloquean las México-Puebla, piden localizar a operador de pipa que…",
-      "descripcion": "Bloquean las México-Puebla, piden localizar a operador de pipa que agredió a conductor de Uber. Manifestantes mantienen bloqueada la carretera México-Puebla en el kilómetro 28.5, a la altura de Puente Blanco, por agresión a un conductor.",
+      "ruta": "Bloquean la México-Puebla, piden localizar a operador de pipa que…",
+      "descripcion": "Bloquean la México-Puebla, piden localizar a operador de pipa que agredió a conductor de Uber. Manifestantes mantienen bloqueada la carretera México-Puebla en el kilómetro 28.5, a la altura de Puente Blanco, por agresión a un conductor.",
       "fecha": "18 septiembre 2026 · 22:18 CST",
       "fuente": "24 Horas",
-      "url": "https://24-horas.mx/estados/bloquean-las-mexico-puebla-piden-localizar-a-operador-de-pipa-que-agredio-a-conductor-de-uber/",
+      "url": "https://24-horas.mx/estados/bloquean-la-mexico-puebla-piden-localizar-a-operador-de-pipa-que-agredio-a-conductor-de-uber/",
       "dot_color": "#8e44ad",
       "badge_txt": "BLOQUEO",
       "lat": 19.35,
