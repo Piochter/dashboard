@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-09-18T16:34:02.527179-06:00",
-  "ultima_actualizacion_legible": "18 de septiembre de 2026 · 16:34 CST",
-  "total": 4,
+  "ultima_actualizacion": "2026-09-18T18:37:56.373485-06:00",
+  "ultima_actualizacion_legible": "18 de septiembre de 2026 · 18:37 CST",
+  "total": 3,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Medios regionales",
@@ -10,25 +10,27 @@
   ],
   "grupos": [
     {
-      "tipo": "bloqueo",
+      "tipo": "cierre_total",
       "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
+      "icono": "🔴",
+      "label": "CIERRE TOTAL",
       "col2": false,
       "alertas": [
         {
-          "id": "8926d108",
-          "tipo": "bloqueo",
-          "ruta": "carretera en Coatzacoalcos",
-          "descripcion": "Neutralizan a asaltantes de carretera en Coatzacoalcos. Elementos policiacos se enfrentaron a disparos con los delincuentes",
+          "id": "4045f589",
+          "tipo": "cierre_total",
+          "ruta": "autopista México-Querétaro",
+          "descripcion": "Paraliza volcadura de tráiler la autopista México-Querétaro. La circulación se mantiene a vuelta de rueda por la reducción de carriles derivada de los trabajos en la vía.",
           "recomendacion": "",
-          "fecha": "18 septiembre 2026 · 13:51 CST",
-          "fecha_iso": "2026-09-18T13:51:00-06:00",
-          "fuente": "Quadratin Veracruz",
-          "url": "https://veracruz.quadratin.com.mx/neutralizan-a-asaltantes-de-carretera-en-coatzacoalcos/",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
+          "fecha": "18 septiembre 2026 · 18:34 CST",
+          "fecha_iso": "2026-09-18T18:34:00-06:00",
+          "fuente": "Quadratin EdoMex",
+          "url": "https://edomex.quadratin.com.mx/paraliza-volcadura-de-trailer-la-autopista-mexico-queretaro/",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL",
+          "lat": 20.1,
+          "lon": -99.5
         }
       ]
     },
@@ -39,22 +41,6 @@
       "label": "CIERRE PARCIAL / ACCIDENTES",
       "col2": true,
       "alertas": [
-        {
-          "id": "566a8f67",
-          "tipo": "cierre_parcial",
-          "ruta": "Choque frontal en la 500 deja un muerto y dos…",
-          "descripcion": "Choque frontal en la 500 deja un muerto y dos heridos graves. Un aparatoso choque frontal cobró la vida de un hombre y dejó dos lesionados graves en la carretera estatal 500 The post Choque frontal en la 500 deja un muerto y dos heridos graves appeared first on Quadratin Querétaro.",
-          "recomendacion": "",
-          "fecha": "18 septiembre 2026 · 16:00 CST",
-          "fecha_iso": "2026-09-18T16:00:00-06:00",
-          "fuente": "Quadratin Queretaro",
-          "url": "https://queretaro.quadratin.com.mx/choque-frontal-en-la-500-deja-un-muerto-y-dos-heridos-graves/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 20.59,
-          "lon": -100.39
-        },
         {
           "id": "f03472b1",
           "tipo": "cierre_parcial",
@@ -92,17 +78,17 @@
   ],
   "para_mapa": [
     {
-      "id": "566a8f67",
-      "tipo": "cierre_parcial",
-      "ruta": "Choque frontal en la 500 deja un muerto y dos…",
-      "descripcion": "Choque frontal en la 500 deja un muerto y dos heridos graves. Un aparatoso choque frontal cobró la vida de un hombre y dejó dos lesionados graves en la carretera estatal 500 The post Choque frontal en la 500 deja un muerto y dos heridos graves appeared first on Quadratin Querétaro.",
-      "fecha": "18 septiembre 2026 · 16:00 CST",
-      "fuente": "Quadratin Queretaro",
-      "url": "https://queretaro.quadratin.com.mx/choque-frontal-en-la-500-deja-un-muerto-y-dos-heridos-graves/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 20.59,
-      "lon": -100.39
+      "id": "4045f589",
+      "tipo": "cierre_total",
+      "ruta": "autopista México-Querétaro",
+      "descripcion": "Paraliza volcadura de tráiler la autopista México-Querétaro. La circulación se mantiene a vuelta de rueda por la reducción de carriles derivada de los trabajos en la vía.",
+      "fecha": "18 septiembre 2026 · 18:34 CST",
+      "fuente": "Quadratin EdoMex",
+      "url": "https://edomex.quadratin.com.mx/paraliza-volcadura-de-trailer-la-autopista-mexico-queretaro/",
+      "dot_color": "#e74c3c",
+      "badge_txt": "CIERRE TOTAL",
+      "lat": 20.1,
+      "lon": -99.5
     },
     {
       "id": "f03472b1",
