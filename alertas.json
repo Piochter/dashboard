@@ -1,6 +1,6 @@
 {
-  "ultima_actualizacion": "2026-09-19T12:54:16.771037-06:00",
-  "ultima_actualizacion_legible": "19 de septiembre de 2026 · 12:54 CST",
+  "ultima_actualizacion": "2026-09-19T15:11:38.174344-06:00",
+  "ultima_actualizacion_legible": "19 de septiembre de 2026 · 15:11 CST",
   "total": 1,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
@@ -15,14 +15,14 @@
       "col2": false,
       "alertas": [
         {
-          "id": "f7f48117",
+          "id": "6ba1bd3c",
           "tipo": "bloqueo",
-          "ruta": "Alertan por BLOQUEOS en CARRETERAS y AUTOPISTAS hoy sábado 19…",
-          "descripcion": "Alertan por BLOQUEOS en CARRETERAS y AUTOPISTAS hoy sábado 19 de septiembre de 2026 | EN VIVO - heraldodemexico.com.mx. Alertan por BLOQUEOS en CARRETERAS y AUTOPISTAS hoy sábado 19 de septiembre de 2026 | EN VIVO heraldodemexico.com.mx",
+          "ruta": "Alertan por 8 BLOQUEOS en CARRETERAS y AUTOPISTAS hoy sábado…",
+          "descripcion": "Alertan por 8 BLOQUEOS en CARRETERAS y AUTOPISTAS hoy sábado 19 de septiembre de 2026 | EN VIVO - El Heraldo de México. Alertan por 8 BLOQUEOS en CARRETERAS y AUTOPISTAS hoy sábado 19 de septiembre de 2026 | EN VIVO El Heraldo de México",
           "recomendacion": "",
-          "fecha": "19 septiembre 2026 · 06:04 CST",
-          "fecha_iso": "2026-09-19T06:04:00-06:00",
-          "fuente": "heraldodemexico.com.mx",
+          "fecha": "19 septiembre 2026 · 13:19 CST",
+          "fecha_iso": "2026-09-19T13:19:00-06:00",
+          "fuente": "El Heraldo de México",
           "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbWtCSmdLVmpSUkE1QXZ4T3VBWkoyLVUtR0ctaVh0c2YxUjlLZTZ1VVdsRXBoQUM2Y0w5dU9aV2VQdUhUbzhKVGhmUnBWejJTYTl5T2l2Rkd4XzlQczZ4NXlDY3EzdzVnN2tsS2UtY2pXanBQbnM0dkUwQU1MVGFHdUpxZzdYU1htUURqZlNZZkhENWMxV0JrLUItNjgxSHNDQmVYNEJWYlEtNE9tN0VWSEpGeXNQV3l4YnJtVWhUdXQ0dkYxeGo4aXBuOUQ1R3VTYjFOa19tRy1mOUlxVVJ6dm13aTFSdw?oc=5",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
