@@ -1,32 +1,32 @@
 {
-  "ultima_actualizacion": "2026-09-20T04:06:23.302749-06:00",
-  "ultima_actualizacion_legible": "20 de septiembre de 2026 · 04:06 CST",
+  "ultima_actualizacion": "2026-09-20T08:12:56.854474-06:00",
+  "ultima_actualizacion_legible": "20 de septiembre de 2026 · 08:12 CST",
   "total": 1,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Medios regionales"
+    "Telegram"
   ],
   "grupos": [
     {
-      "tipo": "cierre_total",
-      "color": "rojo",
-      "icono": "🔴",
-      "label": "CIERRE TOTAL",
-      "col2": false,
+      "tipo": "cierre_parcial",
+      "color": "amarillo",
+      "icono": "🟡",
+      "label": "CIERRE PARCIAL / ACCIDENTES",
+      "col2": true,
       "alertas": [
         {
-          "id": "7011d747",
-          "tipo": "cierre_total",
-          "ruta": "Volcadura de autobús en tramo carretero de Ecuador deja 2…",
-          "descripcion": "Volcadura de autobús en tramo carretero de Ecuador deja 2 muertos y 6 heridos. El accidente ocurrió en la vía San Jacinto del Búa del municipio de Santo Domingo, confirmaron autoridades",
+          "id": "2dddb19e",
+          "tipo": "cierre_parcial",
+          "ruta": "Accidente en la Tenango-La Marquesa complica la circulación hoy 20…",
+          "descripcion": "Accidente en la Tenango-La Marquesa complica la circulación hoy 20 de septiembre 👇\n https://lajornadaestadodemexico.com/accidente-en-la-tenango-la-marquesa-complica-la-circulacion-hoy-20-de-septiembre/",
           "recomendacion": "",
-          "fecha": "19 septiembre 2026 · 21:17 CST",
-          "fecha_iso": "2026-09-19T21:17:00-06:00",
-          "fuente": "El Informador Jalisco",
-          "url": "https://www.informador.mx/internacional/ecuador-volcadura-de-autobus-en-tramo-carretero-deja-2-muertos-y-6-heridos-20260919-0099.html",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL"
+          "fecha": "20 septiembre 2026 · 07:55 CST",
+          "fecha_iso": "2026-09-20T07:55:00-06:00",
+          "fuente": "Telegram @jornadaedomex",
+          "url": "https://t.me/jornadaedomex/12126",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
         }
       ]
     }
