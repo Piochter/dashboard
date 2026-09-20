@@ -1,12 +1,38 @@
 {
-  "ultima_actualizacion": "2026-09-20T11:28:26.013459-06:00",
-  "ultima_actualizacion_legible": "20 de septiembre de 2026 · 11:28 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-09-20T13:38:47.624042-06:00",
+  "ultima_actualizacion_legible": "20 de septiembre de 2026 · 13:38 CST",
+  "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
+    "Google News",
     "Telegram"
   ],
   "grupos": [
+    {
+      "tipo": "cierre_total",
+      "color": "rojo",
+      "icono": "🔴",
+      "label": "CIERRE TOTAL",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "4b337f25",
+          "tipo": "cierre_total",
+          "ruta": "Accidente con Volcadura de un Tráiler Deja una Persona Muerta…",
+          "descripcion": "Accidente con Volcadura de un Tráiler Deja una Persona Muerta en Puebla - N+. Accidente con Volcadura de un Tráiler Deja una Persona Muerta en Puebla N+",
+          "recomendacion": "",
+          "fecha": "20 septiembre 2026 · 12:27 CST",
+          "fecha_iso": "2026-09-20T12:27:00-06:00",
+          "fuente": "N+",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOS1BKZjF3LTBpc08xVVVFU1dGTnNRTVhacHA1emN1anM4Zk4wdjNwXzFPUkh3RU1kdHNqZ1VvYmp0RWlxeUxuUmlfQzJxbUltUlVFRUJLVHkwd2cxSGdOZXhkSVhOYXNLQkxwSFZidXVkRGg1WkM1ZHNYR1hNM1prMWtWS0hKUjFsdGZIYklfeXNyV3pXNkVyY1hKTGZYSzNaVjZHYll5Sl9sY1YxQ1k3SUlFQ2lqMXR2cVFXcDRHTG9TVGIzT3QyMnFoZG9Gc0trc252c1dKOURla0IwcW9XOQ?oc=5",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL",
+          "lat": 19.04,
+          "lon": -98.2
+        }
+      ]
+    },
     {
       "tipo": "cierre_parcial",
       "color": "amarillo",
@@ -31,5 +57,19 @@
       ]
     }
   ],
-  "para_mapa": []
+  "para_mapa": [
+    {
+      "id": "4b337f25",
+      "tipo": "cierre_total",
+      "ruta": "Accidente con Volcadura de un Tráiler Deja una Persona Muerta…",
+      "descripcion": "Accidente con Volcadura de un Tráiler Deja una Persona Muerta en Puebla - N+. Accidente con Volcadura de un Tráiler Deja una Persona Muerta en Puebla N+",
+      "fecha": "20 septiembre 2026 · 12:27 CST",
+      "fuente": "N+",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOS1BKZjF3LTBpc08xVVVFU1dGTnNRTVhacHA1emN1anM4Zk4wdjNwXzFPUkh3RU1kdHNqZ1VvYmp0RWlxeUxuUmlfQzJxbUltUlVFRUJLVHkwd2cxSGdOZXhkSVhOYXNLQkxwSFZidXVkRGg1WkM1ZHNYR1hNM1prMWtWS0hKUjFsdGZIYklfeXNyV3pXNkVyY1hKTGZYSzNaVjZHYll5Sl9sY1YxQ1k3SUlFQ2lqMXR2cVFXcDRHTG9TVGIzT3QyMnFoZG9Gc0trc252c1dKOURla0IwcW9XOQ?oc=5",
+      "dot_color": "#e74c3c",
+      "badge_txt": "CIERRE TOTAL",
+      "lat": 19.04,
+      "lon": -98.2
+    }
+  ]
 }
