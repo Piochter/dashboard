@@ -1,6 +1,6 @@
 {
-  "ultima_actualizacion": "2026-09-19T18:47:47.716395-06:00",
-  "ultima_actualizacion_legible": "19 de septiembre de 2026 · 18:47 CST",
+  "ultima_actualizacion": "2026-09-19T23:33:23.134118-06:00",
+  "ultima_actualizacion_legible": "19 de septiembre de 2026 · 23:33 CST",
   "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
@@ -8,6 +8,29 @@
     "Medios regionales"
   ],
   "grupos": [
+    {
+      "tipo": "cierre_total",
+      "color": "rojo",
+      "icono": "🔴",
+      "label": "CIERRE TOTAL",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "7011d747",
+          "tipo": "cierre_total",
+          "ruta": "Volcadura de autobús en tramo carretero de Ecuador deja 2…",
+          "descripcion": "Volcadura de autobús en tramo carretero de Ecuador deja 2 muertos y 6 heridos. El accidente ocurrió en la vía San Jacinto del Búa del municipio de Santo Domingo, confirmaron autoridades",
+          "recomendacion": "",
+          "fecha": "19 septiembre 2026 · 21:17 CST",
+          "fecha_iso": "2026-09-19T21:17:00-06:00",
+          "fuente": "El Informador Jalisco",
+          "url": "https://www.informador.mx/internacional/ecuador-volcadura-de-autobus-en-tramo-carretero-deja-2-muertos-y-6-heridos-20260919-0099.html",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL"
+        }
+      ]
+    },
     {
       "tipo": "bloqueo",
       "color": "rojo",
@@ -28,29 +51,6 @@
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO"
-        }
-      ]
-    },
-    {
-      "tipo": "cierre_parcial",
-      "color": "amarillo",
-      "icono": "🟡",
-      "label": "CIERRE PARCIAL / ACCIDENTES",
-      "col2": true,
-      "alertas": [
-        {
-          "id": "aa932fdf",
-          "tipo": "cierre_parcial",
-          "ruta": "Libramiento genera tráfico lento",
-          "descripcion": "Morelia: encharcamiento en Libramiento genera tráfico lento. Adelante de donde se ubica la Macroplaza Estadio",
-          "recomendacion": "",
-          "fecha": "19 septiembre 2026 · 17:25 CST",
-          "fecha_iso": "2026-09-19T17:25:00-06:00",
-          "fuente": "Quadratin Michoacan",
-          "url": "https://www.quadratin.com.mx/morelia/morelia-encharcamiento-en-libramiento-genera-trafico-lento/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
         }
       ]
     }
