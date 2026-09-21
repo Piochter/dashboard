@@ -1,38 +1,12 @@
 {
-  "ultima_actualizacion": "2026-09-20T19:42:04.713878-06:00",
-  "ultima_actualizacion_legible": "20 de septiembre de 2026 · 19:42 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-09-21T01:10:42.105903-06:00",
+  "ultima_actualizacion_legible": "21 de septiembre de 2026 · 01:10 CST",
+  "total": 1,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News",
     "Telegram"
   ],
   "grupos": [
-    {
-      "tipo": "cierre_total",
-      "color": "rojo",
-      "icono": "🔴",
-      "label": "CIERRE TOTAL",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "4b337f25",
-          "tipo": "cierre_total",
-          "ruta": "Accidente con Volcadura de un Tráiler Deja una Persona Muerta…",
-          "descripcion": "Accidente con Volcadura de un Tráiler Deja una Persona Muerta en Puebla - N+. Accidente con Volcadura de un Tráiler Deja una Persona Muerta en Puebla N+",
-          "recomendacion": "",
-          "fecha": "20 septiembre 2026 · 12:27 CST",
-          "fecha_iso": "2026-09-20T12:27:00-06:00",
-          "fuente": "N+",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOS1BKZjF3LTBpc08xVVVFU1dGTnNRTVhacHA1emN1anM4Zk4wdjNwXzFPUkh3RU1kdHNqZ1VvYmp0RWlxeUxuUmlfQzJxbUltUlVFRUJLVHkwd2cxSGdOZXhkSVhOYXNLQkxwSFZidXVkRGg1WkM1ZHNYR1hNM1prMWtWS0hKUjFsdGZIYklfeXNyV3pXNkVyY1hKTGZYSzNaVjZHYll5Sl9sY1YxQ1k3SUlFQ2lqMXR2cVFXcDRHTG9TVGIzT3QyMnFoZG9Gc0trc252c1dKOURla0IwcW9XOQ?oc=5",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL",
-          "lat": 19.04,
-          "lon": -98.2
-        }
-      ]
-    },
     {
       "tipo": "cierre_parcial",
       "color": "amarillo",
@@ -53,37 +27,9 @@
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL"
-        },
-        {
-          "id": "2dddb19e",
-          "tipo": "cierre_parcial",
-          "ruta": "Accidente en la Tenango-La Marquesa complica la circulación hoy 20…",
-          "descripcion": "Accidente en la Tenango-La Marquesa complica la circulación hoy 20 de septiembre 👇\n https://lajornadaestadodemexico.com/accidente-en-la-tenango-la-marquesa-complica-la-circulacion-hoy-20-de-septiembre/",
-          "recomendacion": "",
-          "fecha": "20 septiembre 2026 · 07:55 CST",
-          "fecha_iso": "2026-09-20T07:55:00-06:00",
-          "fuente": "Telegram @jornadaedomex",
-          "url": "https://t.me/jornadaedomex/12126",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
         }
       ]
     }
   ],
-  "para_mapa": [
-    {
-      "id": "4b337f25",
-      "tipo": "cierre_total",
-      "ruta": "Accidente con Volcadura de un Tráiler Deja una Persona Muerta…",
-      "descripcion": "Accidente con Volcadura de un Tráiler Deja una Persona Muerta en Puebla - N+. Accidente con Volcadura de un Tráiler Deja una Persona Muerta en Puebla N+",
-      "fecha": "20 septiembre 2026 · 12:27 CST",
-      "fuente": "N+",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOS1BKZjF3LTBpc08xVVVFU1dGTnNRTVhacHA1emN1anM4Zk4wdjNwXzFPUkh3RU1kdHNqZ1VvYmp0RWlxeUxuUmlfQzJxbUltUlVFRUJLVHkwd2cxSGdOZXhkSVhOYXNLQkxwSFZidXVkRGg1WkM1ZHNYR1hNM1prMWtWS0hKUjFsdGZIYklfeXNyV3pXNkVyY1hKTGZYSzNaVjZHYll5Sl9sY1YxQ1k3SUlFQ2lqMXR2cVFXcDRHTG9TVGIzT3QyMnFoZG9Gc0trc252c1dKOURla0IwcW9XOQ?oc=5",
-      "dot_color": "#e74c3c",
-      "badge_txt": "CIERRE TOTAL",
-      "lat": 19.04,
-      "lon": -98.2
-    }
-  ]
+  "para_mapa": []
 }
