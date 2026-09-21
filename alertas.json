@@ -1,6 +1,6 @@
 {
-  "ultima_actualizacion": "2026-09-21T13:24:37.564087-06:00",
-  "ultima_actualizacion_legible": "21 de septiembre de 2026 · 13:24 CST",
+  "ultima_actualizacion": "2026-09-21T16:41:20.861751-06:00",
+  "ultima_actualizacion_legible": "21 de septiembre de 2026 · 16:41 CST",
   "total": 3,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
@@ -8,6 +8,29 @@
     "Telegram"
   ],
   "grupos": [
+    {
+      "tipo": "cierre_total",
+      "color": "rojo",
+      "icono": "🔴",
+      "label": "CIERRE TOTAL",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "4441167c",
+          "tipo": "cierre_total",
+          "ruta": "Mantienen maquinaria pesada en Vallarta ante posibles derrumbes en carreteras…",
+          "descripcion": "Mantienen maquinaria pesada en Vallarta ante posibles derrumbes en carreteras. Ya se tienen identificadas zonas consideradas de riesgo",
+          "recomendacion": "",
+          "fecha": "21 septiembre 2026 · 16:14 CST",
+          "fecha_iso": "2026-09-21T16:14:00-06:00",
+          "fuente": "Quadratin Jalisco",
+          "url": "https://jalisco.quadratin.com.mx/principal/mantienen-maquinaria-pesada-en-vallarta-ante-posibles-derrumbes-en-carreteras/",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL"
+        }
+      ]
+    },
     {
       "tipo": "bloqueo",
       "color": "rojo",
@@ -41,37 +64,38 @@
       "col2": true,
       "alertas": [
         {
-          "id": "49d04b9a",
+          "id": "58346a40",
           "tipo": "cierre_parcial",
-          "ruta": "Hallan a hombre sin vida en auto en La Paz;…",
-          "descripcion": "Hallan a hombre sin vida en auto en La Paz; presumen de ataque directo. Debido al cierre parcial de la carretera, unidades de transporte público y automovilistas tuvieron que utilizar vías alternas, generando afectaciones",
+          "ruta": "Matrimonio poblano denuncia asalto con ponchallantas en la México-Puebla…",
+          "descripcion": "Matrimonio poblano denuncia asalto con ponchallantas en la México-Puebla. Sujetos armados asaltan a matrimonio tras poncharles las llantas en la autopista México-Puebla",
           "recomendacion": "",
-          "fecha": "21 septiembre 2026 · 13:00 CST",
-          "fecha_iso": "2026-09-21T13:00:00-06:00",
-          "fuente": "Quadratin EdoMex",
-          "url": "https://edomex.quadratin.com.mx/hallan-a-hombre-sin-vida-en-auto-en-la-paz-presumen-de-ataque-directo/",
+          "fecha": "21 septiembre 2026 · 12:01 CST",
+          "fecha_iso": "2026-09-21T12:01:00-06:00",
+          "fuente": "Quadratin Puebla",
+          "url": "https://puebla.quadratin.com.mx/sucesos/matrimonio-poblano-denuncia-asalto-con-ponchallantas-en-la-mexico-puebla/",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
-        },
-        {
-          "id": "0000c1c9",
-          "tipo": "cierre_parcial",
-          "ruta": "carretera Juchitán-Matías Romero",
-          "descripcion": "Provoca fuga de gas cierre en carretera Juchitán-Matías Romero. La emergencia fue atendida inicialmente por el Cuerpo de Bomberos",
-          "recomendacion": "",
-          "fecha": "21 septiembre 2026 · 08:47 CST",
-          "fecha_iso": "2026-09-21T08:47:00-06:00",
-          "fuente": "Quadratin Oaxaca",
-          "url": "https://oaxaca.quadratin.com.mx/provoca-fuga-de-gas-cierre-en-carretera-juchitan-matias-romero/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 19.35,
+          "lon": -98.4
         }
       ]
     }
   ],
   "para_mapa": [
+    {
+      "id": "58346a40",
+      "tipo": "cierre_parcial",
+      "ruta": "Matrimonio poblano denuncia asalto con ponchallantas en la México-Puebla…",
+      "descripcion": "Matrimonio poblano denuncia asalto con ponchallantas en la México-Puebla. Sujetos armados asaltan a matrimonio tras poncharles las llantas en la autopista México-Puebla",
+      "fecha": "21 septiembre 2026 · 12:01 CST",
+      "fuente": "Quadratin Puebla",
+      "url": "https://puebla.quadratin.com.mx/sucesos/matrimonio-poblano-denuncia-asalto-con-ponchallantas-en-la-mexico-puebla/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 19.35,
+      "lon": -98.4
+    },
     {
       "id": "d8742068",
       "tipo": "bloqueo",
