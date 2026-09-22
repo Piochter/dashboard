@@ -1,12 +1,126 @@
 {
-  "ultima_actualizacion": "2026-09-22T09:41:53.981902-06:00",
-  "ultima_actualizacion_legible": "22 de septiembre de 2026 · 09:41 CST",
-  "total": 0,
+  "ultima_actualizacion": "2026-09-22T13:10:15.365468-06:00",
+  "ultima_actualizacion_legible": "22 de septiembre de 2026 · 13:10 CST",
+  "total": 4,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News"
+    "Quadratin + regionales"
   ],
-  "grupos": [],
-  "para_mapa": [],
-  "nota": "Sin alertas activas en la ventana de tiempo configurada."
+  "grupos": [
+    {
+      "tipo": "cierre_total",
+      "color": "rojo",
+      "icono": "🔴",
+      "label": "CIERRE TOTAL",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "a2d6869c",
+          "tipo": "cierre_total",
+          "ruta": "autopista Córdoba-Veracruz por incendio de pipa",
+          "descripcion": "Cierre total de autopista Córdoba-Veracruz por incendio de pipa. Se pide utilizar rutas alternas para continuar recorrido a Veracruz o Córdoba",
+          "recomendacion": "",
+          "fecha": "22 septiembre 2026 · 11:28 CST",
+          "fecha_iso": "2026-09-22T11:28:00-06:00",
+          "fuente": "Quadratin Veracruz",
+          "url": "https://veracruz.quadratin.com.mx/cierre-total-de-autopista-cordoba-veracruz-por-incendio-de-pipa/",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL",
+          "lat": 19.18,
+          "lon": -96.14
+        }
+      ]
+    },
+    {
+      "tipo": "bloqueo",
+      "color": "rojo",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "f0180634",
+          "tipo": "bloqueo",
+          "ruta": "Bloqueos en Tonalá: exigen solución definitiva a aguas residuales…",
+          "descripcion": "Bloqueos en Tonalá: exigen solución definitiva a aguas residuales. Habitantes de Paredón cierran dos carreteras para presionar a las autoridades por la contaminación que afecta la pesca y la comunidad",
+          "recomendacion": "",
+          "fecha": "22 septiembre 2026 · 12:53 CST",
+          "fecha_iso": "2026-09-22T12:53:00-06:00",
+          "fuente": "Quadratin Chiapas",
+          "url": "https://chiapas.quadratin.com.mx/medio-ambiente/bloqueos-en-tonala-exigen-solucion-definitiva-a-aguas-residuales/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
+        {
+          "id": "605c5d4b",
+          "tipo": "bloqueo",
+          "ruta": "Mantienen bloqueo en la México-Puebla por fallas en hemodiálisis…",
+          "descripcion": "Mantienen bloqueo en la México-Puebla por fallas en hemodiálisis. Pacientes y familiares protestan por falta de insumos y reparación de máquinas en el Hospital General de Ixtapaluca",
+          "recomendacion": "",
+          "fecha": "22 septiembre 2026 · 12:15 CST",
+          "fecha_iso": "2026-09-22T12:15:00-06:00",
+          "fuente": "Quadratin EdoMex",
+          "url": "https://edomex.quadratin.com.mx/mantienen-bloqueo-en-la-mexico-puebla-por-fallas-en-hemodialisis/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 19.35,
+          "lon": -98.4
+        }
+      ]
+    },
+    {
+      "tipo": "cierre_parcial",
+      "color": "amarillo",
+      "icono": "🟡",
+      "label": "CIERRE PARCIAL / ACCIDENTES",
+      "col2": true,
+      "alertas": [
+        {
+          "id": "35a0fd68",
+          "tipo": "cierre_parcial",
+          "ruta": "carretera en Chalco",
+          "descripcion": "Bloquean alumnos del Tecnológico carretera en Chalco, piden seguridad. Estudiantes del Tecnológico de Estudios Superiores de Chalco denuncian constantes asaltos",
+          "recomendacion": "",
+          "fecha": "22 septiembre 2026 · 12:45 CST",
+          "fecha_iso": "2026-09-22T12:45:00-06:00",
+          "fuente": "Quadratin EdoMex",
+          "url": "https://edomex.quadratin.com.mx/bloquean-alumnos-del-tecnologico-carretera-en-chalco-piden-seguridad/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        }
+      ]
+    }
+  ],
+  "para_mapa": [
+    {
+      "id": "605c5d4b",
+      "tipo": "bloqueo",
+      "ruta": "Mantienen bloqueo en la México-Puebla por fallas en hemodiálisis…",
+      "descripcion": "Mantienen bloqueo en la México-Puebla por fallas en hemodiálisis. Pacientes y familiares protestan por falta de insumos y reparación de máquinas en el Hospital General de Ixtapaluca",
+      "fecha": "22 septiembre 2026 · 12:15 CST",
+      "fuente": "Quadratin EdoMex",
+      "url": "https://edomex.quadratin.com.mx/mantienen-bloqueo-en-la-mexico-puebla-por-fallas-en-hemodialisis/",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 19.35,
+      "lon": -98.4
+    },
+    {
+      "id": "a2d6869c",
+      "tipo": "cierre_total",
+      "ruta": "autopista Córdoba-Veracruz por incendio de pipa",
+      "descripcion": "Cierre total de autopista Córdoba-Veracruz por incendio de pipa. Se pide utilizar rutas alternas para continuar recorrido a Veracruz o Córdoba",
+      "fecha": "22 septiembre 2026 · 11:28 CST",
+      "fuente": "Quadratin Veracruz",
+      "url": "https://veracruz.quadratin.com.mx/cierre-total-de-autopista-cordoba-veracruz-por-incendio-de-pipa/",
+      "dot_color": "#e74c3c",
+      "badge_txt": "CIERRE TOTAL",
+      "lat": 19.18,
+      "lon": -96.14
+    }
+  ]
 }
