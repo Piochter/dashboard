@@ -1,35 +1,12 @@
 {
-  "ultima_actualizacion": "2026-09-22T00:11:08.149413-06:00",
-  "ultima_actualizacion_legible": "22 de septiembre de 2026 · 00:11 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-09-22T05:33:12.227199-06:00",
+  "ultima_actualizacion_legible": "22 de septiembre de 2026 · 05:33 CST",
+  "total": 0,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Quadratin + regionales"
+    "Google News"
   ],
-  "grupos": [
-    {
-      "tipo": "bloqueo",
-      "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "b1777548",
-          "tipo": "bloqueo",
-          "ruta": "Antimotines llegan a Palacio de Gobierno durante protesta…",
-          "descripcion": "Antimotines llegan a Palacio de Gobierno durante protesta. La circulación en la calle Enríquez permanece abierta",
-          "recomendacion": "",
-          "fecha": "21 septiembre 2026 · 17:16 CST",
-          "fecha_iso": "2026-09-21T17:16:00-06:00",
-          "fuente": "Quadratin Veracruz",
-          "url": "https://veracruz.quadratin.com.mx/antimotines-llegan-a-palacio-de-gobierno-durante-protesta/",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        }
-      ]
-    }
-  ],
-  "para_mapa": []
+  "grupos": [],
+  "para_mapa": [],
+  "nota": "Sin alertas activas en la ventana de tiempo configurada."
 }
