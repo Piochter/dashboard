@@ -1,37 +1,12 @@
 {
-  "ultima_actualizacion": "2026-09-22T13:10:15.365468-06:00",
-  "ultima_actualizacion_legible": "22 de septiembre de 2026 · 13:10 CST",
-  "total": 4,
+  "ultima_actualizacion": "2026-09-22T16:05:52.347334-06:00",
+  "ultima_actualizacion_legible": "22 de septiembre de 2026 · 16:05 CST",
+  "total": 3,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Quadratin + regionales"
   ],
   "grupos": [
-    {
-      "tipo": "cierre_total",
-      "color": "rojo",
-      "icono": "🔴",
-      "label": "CIERRE TOTAL",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "a2d6869c",
-          "tipo": "cierre_total",
-          "ruta": "autopista Córdoba-Veracruz por incendio de pipa",
-          "descripcion": "Cierre total de autopista Córdoba-Veracruz por incendio de pipa. Se pide utilizar rutas alternas para continuar recorrido a Veracruz o Córdoba",
-          "recomendacion": "",
-          "fecha": "22 septiembre 2026 · 11:28 CST",
-          "fecha_iso": "2026-09-22T11:28:00-06:00",
-          "fuente": "Quadratin Veracruz",
-          "url": "https://veracruz.quadratin.com.mx/cierre-total-de-autopista-cordoba-veracruz-por-incendio-de-pipa/",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL",
-          "lat": 19.18,
-          "lon": -96.14
-        }
-      ]
-    },
     {
       "tipo": "bloqueo",
       "color": "rojo",
@@ -39,6 +14,38 @@
       "label": "BLOQUEOS / MANIFESTACIONES",
       "col2": false,
       "alertas": [
+        {
+          "id": "dd2370ec",
+          "tipo": "bloqueo",
+          "ruta": "Acribillan camioneta con 40 disparos dejando dos muertos en Acolman…",
+          "descripcion": "Acribillan camioneta con 40 disparos dejando dos muertos en Acolman. Dejan dos personas sin vida y dos lesionadas tras violento atentado a balazos en la carretera Lechería-Texcoco",
+          "recomendacion": "",
+          "fecha": "22 septiembre 2026 · 14:51 CST",
+          "fecha_iso": "2026-09-22T14:51:00-06:00",
+          "fuente": "Quadratin EdoMex",
+          "url": "https://edomex.quadratin.com.mx/acribillan-camioneta-con-40-disparos-dejando-dos-muertos-en-acolman/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 25.2,
+          "lon": -102.0
+        },
+        {
+          "id": "56c60341",
+          "tipo": "bloqueo",
+          "ruta": "Libramiento Sur en Tuxtla Gutiérrez",
+          "descripcion": "Colectivas de madres en resistencia bloquean Libramiento Sur en Tuxtla Gutiérrez. La protesta, que se desarrolla de manera pacífica, mantiene cerrada la circulación en uno de los carriles de esta importante vía",
+          "recomendacion": "",
+          "fecha": "22 septiembre 2026 · 14:27 CST",
+          "fecha_iso": "2026-09-22T14:27:00-06:00",
+          "fuente": "Quadratin Chiapas",
+          "url": "https://chiapas.quadratin.com.mx/sucesos/colectivas-de-madres-en-resistencia-bloquean-libramiento-sur-en-tuxtla-gutierrez/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 16.75,
+          "lon": -93.12
+        },
         {
           "id": "f0180634",
           "tipo": "bloqueo",
@@ -52,75 +59,36 @@
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO"
-        },
-        {
-          "id": "605c5d4b",
-          "tipo": "bloqueo",
-          "ruta": "Mantienen bloqueo en la México-Puebla por fallas en hemodiálisis…",
-          "descripcion": "Mantienen bloqueo en la México-Puebla por fallas en hemodiálisis. Pacientes y familiares protestan por falta de insumos y reparación de máquinas en el Hospital General de Ixtapaluca",
-          "recomendacion": "",
-          "fecha": "22 septiembre 2026 · 12:15 CST",
-          "fecha_iso": "2026-09-22T12:15:00-06:00",
-          "fuente": "Quadratin EdoMex",
-          "url": "https://edomex.quadratin.com.mx/mantienen-bloqueo-en-la-mexico-puebla-por-fallas-en-hemodialisis/",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 19.35,
-          "lon": -98.4
-        }
-      ]
-    },
-    {
-      "tipo": "cierre_parcial",
-      "color": "amarillo",
-      "icono": "🟡",
-      "label": "CIERRE PARCIAL / ACCIDENTES",
-      "col2": true,
-      "alertas": [
-        {
-          "id": "35a0fd68",
-          "tipo": "cierre_parcial",
-          "ruta": "carretera en Chalco",
-          "descripcion": "Bloquean alumnos del Tecnológico carretera en Chalco, piden seguridad. Estudiantes del Tecnológico de Estudios Superiores de Chalco denuncian constantes asaltos",
-          "recomendacion": "",
-          "fecha": "22 septiembre 2026 · 12:45 CST",
-          "fecha_iso": "2026-09-22T12:45:00-06:00",
-          "fuente": "Quadratin EdoMex",
-          "url": "https://edomex.quadratin.com.mx/bloquean-alumnos-del-tecnologico-carretera-en-chalco-piden-seguridad/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
         }
       ]
     }
   ],
   "para_mapa": [
     {
-      "id": "605c5d4b",
+      "id": "dd2370ec",
       "tipo": "bloqueo",
-      "ruta": "Mantienen bloqueo en la México-Puebla por fallas en hemodiálisis…",
-      "descripcion": "Mantienen bloqueo en la México-Puebla por fallas en hemodiálisis. Pacientes y familiares protestan por falta de insumos y reparación de máquinas en el Hospital General de Ixtapaluca",
-      "fecha": "22 septiembre 2026 · 12:15 CST",
+      "ruta": "Acribillan camioneta con 40 disparos dejando dos muertos en Acolman…",
+      "descripcion": "Acribillan camioneta con 40 disparos dejando dos muertos en Acolman. Dejan dos personas sin vida y dos lesionadas tras violento atentado a balazos en la carretera Lechería-Texcoco",
+      "fecha": "22 septiembre 2026 · 14:51 CST",
       "fuente": "Quadratin EdoMex",
-      "url": "https://edomex.quadratin.com.mx/mantienen-bloqueo-en-la-mexico-puebla-por-fallas-en-hemodialisis/",
+      "url": "https://edomex.quadratin.com.mx/acribillan-camioneta-con-40-disparos-dejando-dos-muertos-en-acolman/",
       "dot_color": "#8e44ad",
       "badge_txt": "BLOQUEO",
-      "lat": 19.35,
-      "lon": -98.4
+      "lat": 25.2,
+      "lon": -102.0
     },
     {
-      "id": "a2d6869c",
-      "tipo": "cierre_total",
-      "ruta": "autopista Córdoba-Veracruz por incendio de pipa",
-      "descripcion": "Cierre total de autopista Córdoba-Veracruz por incendio de pipa. Se pide utilizar rutas alternas para continuar recorrido a Veracruz o Córdoba",
-      "fecha": "22 septiembre 2026 · 11:28 CST",
-      "fuente": "Quadratin Veracruz",
-      "url": "https://veracruz.quadratin.com.mx/cierre-total-de-autopista-cordoba-veracruz-por-incendio-de-pipa/",
-      "dot_color": "#e74c3c",
-      "badge_txt": "CIERRE TOTAL",
-      "lat": 19.18,
-      "lon": -96.14
+      "id": "56c60341",
+      "tipo": "bloqueo",
+      "ruta": "Libramiento Sur en Tuxtla Gutiérrez",
+      "descripcion": "Colectivas de madres en resistencia bloquean Libramiento Sur en Tuxtla Gutiérrez. La protesta, que se desarrolla de manera pacífica, mantiene cerrada la circulación en uno de los carriles de esta importante vía",
+      "fecha": "22 septiembre 2026 · 14:27 CST",
+      "fuente": "Quadratin Chiapas",
+      "url": "https://chiapas.quadratin.com.mx/sucesos/colectivas-de-madres-en-resistencia-bloquean-libramiento-sur-en-tuxtla-gutierrez/",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 16.75,
+      "lon": -93.12
     }
   ]
 }
