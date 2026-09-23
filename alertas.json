@@ -1,12 +1,38 @@
 {
-  "ultima_actualizacion": "2026-09-22T18:29:11.822021-06:00",
-  "ultima_actualizacion_legible": "22 de septiembre de 2026 · 18:29 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-09-22T23:00:07.249914-06:00",
+  "ultima_actualizacion_legible": "22 de septiembre de 2026 · 23:00 CST",
+  "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
+    "Google News",
     "Telegram"
   ],
   "grupos": [
+    {
+      "tipo": "bloqueo",
+      "color": "rojo",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "cd3fb49b",
+          "tipo": "bloqueo",
+          "ruta": "Mantienen bloqueo en la México-Puebla por falta de insumos para…",
+          "descripcion": "Mantienen bloqueo en la México-Puebla por falta de insumos para hemodiálisis - Amexi. Mantienen bloqueo en la México-Puebla por falta de insumos para hemodiálisis Amexi",
+          "recomendacion": "",
+          "fecha": "22 septiembre 2026 · 12:31 CST",
+          "fecha_iso": "2026-09-22T12:31:00-06:00",
+          "fuente": "Amexi",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOc0ozQWc1UVI1ZnhQNkhTVXlxdmpEeXZzNkJfcXFNckVkWkZZbWZzMC1uZVFoOWl5bjdQZzUtM1FjMXFXYmVTTVM5cmYtaVJqSGtvUVZzcHlEWXYxN3NiWnBFLUtvV2F0dzZieWp4VmV3dVFMT3Z6Q2dLZ3lTXzB2VlV6NWE?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 19.35,
+          "lon": -98.4
+        }
+      ]
+    },
     {
       "tipo": "cierre_parcial",
       "color": "amarillo",
@@ -46,6 +72,19 @@
       "badge_txt": "CIERRE PARCIAL",
       "lat": 19.29,
       "lon": -99.66
+    },
+    {
+      "id": "cd3fb49b",
+      "tipo": "bloqueo",
+      "ruta": "Mantienen bloqueo en la México-Puebla por falta de insumos para…",
+      "descripcion": "Mantienen bloqueo en la México-Puebla por falta de insumos para hemodiálisis - Amexi. Mantienen bloqueo en la México-Puebla por falta de insumos para hemodiálisis Amexi",
+      "fecha": "22 septiembre 2026 · 12:31 CST",
+      "fuente": "Amexi",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOc0ozQWc1UVI1ZnhQNkhTVXlxdmpEeXZzNkJfcXFNckVkWkZZbWZzMC1uZVFoOWl5bjdQZzUtM1FjMXFXYmVTTVM5cmYtaVJqSGtvUVZzcHlEWXYxN3NiWnBFLUtvV2F0dzZieWp4VmV3dVFMT3Z6Q2dLZ3lTXzB2VlV6NWE?oc=5",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 19.35,
+      "lon": -98.4
     }
   ]
 }
