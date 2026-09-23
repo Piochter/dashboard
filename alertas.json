@@ -1,9 +1,10 @@
 {
-  "ultima_actualizacion": "2026-09-23T03:47:53.929407-06:00",
-  "ultima_actualizacion_legible": "23 de septiembre de 2026 · 03:47 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-09-23T08:33:00.431009-06:00",
+  "ultima_actualizacion_legible": "23 de septiembre de 2026 · 08:33 CST",
+  "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
+    "Quadratin + regionales",
     "Telegram"
   ],
   "grupos": [
@@ -15,37 +16,51 @@
       "col2": true,
       "alertas": [
         {
-          "id": "bc9d7f08",
+          "id": "ee3059e9",
           "tipo": "cierre_parcial",
-          "ruta": "Motociclista se accidenta en la México-Toluca; hay tráfico lento https://lajornadaestadodemexico.com/motociclista-se-accidenta-en-la-mexico-toluca-hay-trafico-lento/…",
-          "descripcion": "Motociclista se accidenta en la México-Toluca; hay tráfico lento\n  https://lajornadaestadodemexico.com/motociclista-se-accidenta-en-la-mexico-toluca-hay-trafico-lento/",
+          "ruta": "Bajan 40% robos al transporte de carga en carreteras de…",
+          "descripcion": "Bajan 40% robos al transporte de carga en carreteras de Querétaro. Guardia Nacional refuerza vigilancia en tramos de riesgo The post Bajan 40% robos al transporte de carga en carreteras de Querétaro appeared first on Quadratin Querétaro.",
           "recomendacion": "",
-          "fecha": "22 septiembre 2026 · 16:56 CST",
-          "fecha_iso": "2026-09-22T16:56:00-06:00",
-          "fuente": "Telegram @jornadaedomex",
-          "url": "https://t.me/jornadaedomex/12160",
+          "fecha": "23 septiembre 2026 · 08:30 CST",
+          "fecha_iso": "2026-09-23T08:30:00-06:00",
+          "fuente": "Quadratin Queretaro",
+          "url": "https://queretaro.quadratin.com.mx/bajan-40-robos-al-transporte-de-carga-en-carreteras-de-queretaro/",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.29,
-          "lon": -99.66
+          "lat": 25.2,
+          "lon": -102.0
+        },
+        {
+          "id": "e91ab0aa",
+          "tipo": "cierre_parcial",
+          "ruta": "🚧Tráiler y autobús prensan a automóvil sobre #PaseoTollocan 😱 https://lajornadaestadodemexico.com/trafico-en-paseo-tollocan-por-percance-vial-video/…",
+          "descripcion": "🚧Tráiler y autobús prensan a automóvil sobre #PaseoTollocan 😱\nhttps://lajornadaestadodemexico.com/trafico-en-paseo-tollocan-por-percance-vial-video/",
+          "recomendacion": "",
+          "fecha": "23 septiembre 2026 · 07:49 CST",
+          "fecha_iso": "2026-09-23T07:49:00-06:00",
+          "fuente": "Telegram @jornadaedomex",
+          "url": "https://t.me/jornadaedomex/12162",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
         }
       ]
     }
   ],
   "para_mapa": [
     {
-      "id": "bc9d7f08",
+      "id": "ee3059e9",
       "tipo": "cierre_parcial",
-      "ruta": "Motociclista se accidenta en la México-Toluca; hay tráfico lento https://lajornadaestadodemexico.com/motociclista-se-accidenta-en-la-mexico-toluca-hay-trafico-lento/…",
-      "descripcion": "Motociclista se accidenta en la México-Toluca; hay tráfico lento\n  https://lajornadaestadodemexico.com/motociclista-se-accidenta-en-la-mexico-toluca-hay-trafico-lento/",
-      "fecha": "22 septiembre 2026 · 16:56 CST",
-      "fuente": "Telegram @jornadaedomex",
-      "url": "https://t.me/jornadaedomex/12160",
+      "ruta": "Bajan 40% robos al transporte de carga en carreteras de…",
+      "descripcion": "Bajan 40% robos al transporte de carga en carreteras de Querétaro. Guardia Nacional refuerza vigilancia en tramos de riesgo The post Bajan 40% robos al transporte de carga en carreteras de Querétaro appeared first on Quadratin Querétaro.",
+      "fecha": "23 septiembre 2026 · 08:30 CST",
+      "fuente": "Quadratin Queretaro",
+      "url": "https://queretaro.quadratin.com.mx/bajan-40-robos-al-transporte-de-carga-en-carreteras-de-queretaro/",
       "dot_color": "#e67e22",
       "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.29,
-      "lon": -99.66
+      "lat": 25.2,
+      "lon": -102.0
     }
   ]
 }
