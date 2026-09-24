@@ -1,12 +1,110 @@
 {
-  "ultima_actualizacion": "2026-09-24T03:34:06.860074-06:00",
-  "ultima_actualizacion_legible": "24 de septiembre de 2026 · 03:34 CST",
-  "total": 0,
+  "ultima_actualizacion": "2026-09-24T08:26:44.580645-06:00",
+  "ultima_actualizacion_legible": "24 de septiembre de 2026 · 08:26 CST",
+  "total": 3,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News"
+    "Quadratin + regionales",
+    "Telegram"
   ],
-  "grupos": [],
-  "para_mapa": [],
-  "nota": "Sin alertas activas en la ventana de tiempo configurada."
+  "grupos": [
+    {
+      "tipo": "cierre_parcial",
+      "color": "amarillo",
+      "icono": "🟡",
+      "label": "CIERRE PARCIAL / ACCIDENTES",
+      "col2": true,
+      "alertas": [
+        {
+          "id": "c9e6b627",
+          "tipo": "cierre_parcial",
+          "ruta": "🚨Accidente en la México-Toluca deja dos personas lesionadas [Actualización] 👇…",
+          "descripcion": "🚨Accidente en la México-Toluca deja dos personas lesionadas [Actualización] 👇\n https://lajornadaestadodemexico.com/accidente-en-la-mexico-toluca-deja-dos-personas-lesionadas-actualizacion/",
+          "recomendacion": "",
+          "fecha": "24 septiembre 2026 · 08:10 CST",
+          "fecha_iso": "2026-09-24T08:10:00-06:00",
+          "fuente": "Telegram @jornadaedomex",
+          "url": "https://t.me/jornadaedomex/12176",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 19.29,
+          "lon": -99.66
+        },
+        {
+          "id": "74fcd998",
+          "tipo": "cierre_parcial",
+          "ruta": "🚧#AlertaVial | Accidente en la México-Toluca provoca reducción de carriles…",
+          "descripcion": "🚧#AlertaVial | Accidente en la México-Toluca provoca reducción de carriles hoy 24 de septiembre 👇\n https://lajornadaestadodemexico.com/accidente-en-la-mexico-toluca-hoy-24-de-septiembre/",
+          "recomendacion": "",
+          "fecha": "24 septiembre 2026 · 07:00 CST",
+          "fecha_iso": "2026-09-24T07:00:00-06:00",
+          "fuente": "Telegram @jornadaedomex",
+          "url": "https://t.me/jornadaedomex/12174",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 19.29,
+          "lon": -99.66
+        },
+        {
+          "id": "0b8c18d5",
+          "tipo": "cierre_parcial",
+          "ruta": "autopista Guadalajara-Tepic",
+          "descripcion": "Chocan y se incendian tráileres en la autopista Guadalajara-Tepic. La autopista tuvo que ser totalmente bloqueada en ambas direcciones",
+          "recomendacion": "",
+          "fecha": "24 septiembre 2026 · 06:53 CST",
+          "fecha_iso": "2026-09-24T06:53:00-06:00",
+          "fuente": "Quadratin Jalisco",
+          "url": "https://jalisco.quadratin.com.mx/sucesos/chocan-y-se-incendian-traileres-en-la-autopista-guadalajara-tepic/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 20.66,
+          "lon": -103.35
+        }
+      ]
+    }
+  ],
+  "para_mapa": [
+    {
+      "id": "c9e6b627",
+      "tipo": "cierre_parcial",
+      "ruta": "🚨Accidente en la México-Toluca deja dos personas lesionadas [Actualización] 👇…",
+      "descripcion": "🚨Accidente en la México-Toluca deja dos personas lesionadas [Actualización] 👇\n https://lajornadaestadodemexico.com/accidente-en-la-mexico-toluca-deja-dos-personas-lesionadas-actualizacion/",
+      "fecha": "24 septiembre 2026 · 08:10 CST",
+      "fuente": "Telegram @jornadaedomex",
+      "url": "https://t.me/jornadaedomex/12176",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 19.29,
+      "lon": -99.66
+    },
+    {
+      "id": "74fcd998",
+      "tipo": "cierre_parcial",
+      "ruta": "🚧#AlertaVial | Accidente en la México-Toluca provoca reducción de carriles…",
+      "descripcion": "🚧#AlertaVial | Accidente en la México-Toluca provoca reducción de carriles hoy 24 de septiembre 👇\n https://lajornadaestadodemexico.com/accidente-en-la-mexico-toluca-hoy-24-de-septiembre/",
+      "fecha": "24 septiembre 2026 · 07:00 CST",
+      "fuente": "Telegram @jornadaedomex",
+      "url": "https://t.me/jornadaedomex/12174",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 19.29,
+      "lon": -99.66
+    },
+    {
+      "id": "0b8c18d5",
+      "tipo": "cierre_parcial",
+      "ruta": "autopista Guadalajara-Tepic",
+      "descripcion": "Chocan y se incendian tráileres en la autopista Guadalajara-Tepic. La autopista tuvo que ser totalmente bloqueada en ambas direcciones",
+      "fecha": "24 septiembre 2026 · 06:53 CST",
+      "fuente": "Quadratin Jalisco",
+      "url": "https://jalisco.quadratin.com.mx/sucesos/chocan-y-se-incendian-traileres-en-la-autopista-guadalajara-tepic/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 20.66,
+      "lon": -103.35
+    }
+  ]
 }
