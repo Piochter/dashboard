@@ -1,35 +1,12 @@
 {
-  "ultima_actualizacion": "2026-09-23T22:44:04.647835-06:00",
-  "ultima_actualizacion_legible": "23 de septiembre de 2026 · 22:44 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-09-24T03:34:06.860074-06:00",
+  "ultima_actualizacion_legible": "24 de septiembre de 2026 · 03:34 CST",
+  "total": 0,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Quadratin + regionales"
+    "Google News"
   ],
-  "grupos": [
-    {
-      "tipo": "bloqueo",
-      "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "8af63f80",
-          "tipo": "bloqueo",
-          "ruta": "Protestan en Juchitán por detención de edil; bloquean Canal 33…",
-          "descripcion": "Protestan en Juchitán por detención de edil; bloquean Canal 33. Los manifestantes colocaron obstáculos sobre la vialidad y comenzaron a quemar llantas",
-          "recomendacion": "",
-          "fecha": "23 septiembre 2026 · 12:19 CST",
-          "fecha_iso": "2026-09-23T12:19:00-06:00",
-          "fuente": "Quadratin Oaxaca",
-          "url": "https://oaxaca.quadratin.com.mx/protestan-en-juchitan-por-detencion-de-edil-bloquean-canal-33/",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        }
-      ]
-    }
-  ],
-  "para_mapa": []
+  "grupos": [],
+  "para_mapa": [],
+  "nota": "Sin alertas activas en la ventana de tiempo configurada."
 }
