@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-09-24T08:26:44.580645-06:00",
-  "ultima_actualizacion_legible": "24 de septiembre de 2026 · 08:26 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-09-24T12:31:25.942912-06:00",
+  "ultima_actualizacion_legible": "24 de septiembre de 2026 · 12:31 CST",
+  "total": 5,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Quadratin + regionales",
@@ -9,12 +9,53 @@
   ],
   "grupos": [
     {
+      "tipo": "bloqueo",
+      "color": "rojo",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "23982d49",
+          "tipo": "bloqueo",
+          "ruta": "\"Irresponsables\" e \"inaceptables\" las protestas del PT: Gobierno…",
+          "descripcion": "\"Irresponsables\" e \"inaceptables\" las protestas del PT: Gobierno. Cuernavaca, Morelos 24 de septiembre de 2026.- El secretario de Gobierno, Edgar Maldonado Ceballos, calificó como “irresponsables e inaceptables” las acciones de presión realizadas por integrantes del Partido del Trabajo (PT) durante la jornada del martes, las cuales incluyeron bloqueos en distintas vialidades, incluso de carácter federal, así como la colocación de cadenas y candados […]",
+          "recomendacion": "",
+          "fecha": "24 septiembre 2026 · 09:23 CST",
+          "fecha_iso": "2026-09-24T09:23:00-06:00",
+          "fuente": "Quadratin Morelos",
+          "url": "https://morelos.quadratin.com.mx/irresponsables-e-inaceptables-las-protestas-del-pt-gobierno/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 18.67,
+          "lon": -99.1
+        }
+      ]
+    },
+    {
       "tipo": "cierre_parcial",
       "color": "amarillo",
       "icono": "🟡",
       "label": "CIERRE PARCIAL / ACCIDENTES",
       "col2": true,
       "alertas": [
+        {
+          "id": "8b56300b",
+          "tipo": "cierre_parcial",
+          "ruta": "🚧#AlertaVial | Accidentes en la México-Toluca paralizan la circulación👇 https://lajornadaestadodemexico.com/accidentes-en-la-mexico-toluca-paralizan-la-circulacion/…",
+          "descripcion": "🚧#AlertaVial | Accidentes en la México-Toluca paralizan la circulación👇\n https://lajornadaestadodemexico.com/accidentes-en-la-mexico-toluca-paralizan-la-circulacion/",
+          "recomendacion": "",
+          "fecha": "24 septiembre 2026 · 09:32 CST",
+          "fecha_iso": "2026-09-24T09:32:00-06:00",
+          "fuente": "Telegram @jornadaedomex",
+          "url": "https://t.me/jornadaedomex/12177",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 19.29,
+          "lon": -99.66
+        },
         {
           "id": "c9e6b627",
           "tipo": "cierre_parcial",
@@ -46,27 +87,60 @@
           "badge_txt": "CIERRE PARCIAL",
           "lat": 19.29,
           "lon": -99.66
-        },
+        }
+      ]
+    },
+    {
+      "tipo": "clima",
+      "color": "azul",
+      "icono": "🌧",
+      "label": "ALERTA METEOROLOGICA",
+      "col2": false,
+      "alertas": [
         {
-          "id": "0b8c18d5",
-          "tipo": "cierre_parcial",
-          "ruta": "autopista Guadalajara-Tepic",
-          "descripcion": "Chocan y se incendian tráileres en la autopista Guadalajara-Tepic. La autopista tuvo que ser totalmente bloqueada en ambas direcciones",
+          "id": "75a94a60",
+          "tipo": "clima",
+          "ruta": "Marina mantiene cierre de puertos en el Pacífico excepto en…",
+          "descripcion": "Marina mantiene cierre de puertos en el Pacífico excepto en Puerto Vallarta. Debido a su máxima categoría de intensidad, su amplia circulación genera lluvias, chubascos, cielo de nublado a cerrado, tormentas eléctricas",
           "recomendacion": "",
-          "fecha": "24 septiembre 2026 · 06:53 CST",
-          "fecha_iso": "2026-09-24T06:53:00-06:00",
+          "fecha": "24 septiembre 2026 · 10:08 CST",
+          "fecha_iso": "2026-09-24T10:08:00-06:00",
           "fuente": "Quadratin Jalisco",
-          "url": "https://jalisco.quadratin.com.mx/sucesos/chocan-y-se-incendian-traileres-en-la-autopista-guadalajara-tepic/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 20.66,
-          "lon": -103.35
+          "url": "https://jalisco.quadratin.com.mx/sucesos/marina-mantiene-cierre-de-puertos-en-el-pacifico-excepto-en-puerto-vallarta/",
+          "dot_color": "#3498db",
+          "badge": "badge-clima",
+          "badge_txt": "ALERTA CLIMA"
         }
       ]
     }
   ],
   "para_mapa": [
+    {
+      "id": "8b56300b",
+      "tipo": "cierre_parcial",
+      "ruta": "🚧#AlertaVial | Accidentes en la México-Toluca paralizan la circulación👇 https://lajornadaestadodemexico.com/accidentes-en-la-mexico-toluca-paralizan-la-circulacion/…",
+      "descripcion": "🚧#AlertaVial | Accidentes en la México-Toluca paralizan la circulación👇\n https://lajornadaestadodemexico.com/accidentes-en-la-mexico-toluca-paralizan-la-circulacion/",
+      "fecha": "24 septiembre 2026 · 09:32 CST",
+      "fuente": "Telegram @jornadaedomex",
+      "url": "https://t.me/jornadaedomex/12177",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 19.29,
+      "lon": -99.66
+    },
+    {
+      "id": "23982d49",
+      "tipo": "bloqueo",
+      "ruta": "\"Irresponsables\" e \"inaceptables\" las protestas del PT: Gobierno…",
+      "descripcion": "\"Irresponsables\" e \"inaceptables\" las protestas del PT: Gobierno. Cuernavaca, Morelos 24 de septiembre de 2026.- El secretario de Gobierno, Edgar Maldonado Ceballos, calificó como “irresponsables e inaceptables” las acciones de presión realizadas por integrantes del Partido del Trabajo (PT) durante la jornada del martes, las cuales incluyeron bloqueos en distintas vialidades, incluso de carácter federal, así como la colocación de cadenas y candados […]",
+      "fecha": "24 septiembre 2026 · 09:23 CST",
+      "fuente": "Quadratin Morelos",
+      "url": "https://morelos.quadratin.com.mx/irresponsables-e-inaceptables-las-protestas-del-pt-gobierno/",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 18.67,
+      "lon": -99.1
+    },
     {
       "id": "c9e6b627",
       "tipo": "cierre_parcial",
@@ -92,19 +166,6 @@
       "badge_txt": "CIERRE PARCIAL",
       "lat": 19.29,
       "lon": -99.66
-    },
-    {
-      "id": "0b8c18d5",
-      "tipo": "cierre_parcial",
-      "ruta": "autopista Guadalajara-Tepic",
-      "descripcion": "Chocan y se incendian tráileres en la autopista Guadalajara-Tepic. La autopista tuvo que ser totalmente bloqueada en ambas direcciones",
-      "fecha": "24 septiembre 2026 · 06:53 CST",
-      "fuente": "Quadratin Jalisco",
-      "url": "https://jalisco.quadratin.com.mx/sucesos/chocan-y-se-incendian-traileres-en-la-autopista-guadalajara-tepic/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 20.66,
-      "lon": -103.35
     }
   ]
 }
