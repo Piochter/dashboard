@@ -1,12 +1,81 @@
 {
-  "ultima_actualizacion": "2026-09-25T08:52:24.388018-06:00",
-  "ultima_actualizacion_legible": "25 de septiembre de 2026 · 08:52 CST",
-  "total": 0,
+  "ultima_actualizacion": "2026-09-25T13:02:51.510939-06:00",
+  "ultima_actualizacion_legible": "25 de septiembre de 2026 · 13:02 CST",
+  "total": 3,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News"
+    "Google News",
+    "Medios regionales",
+    "Quadratin + regionales"
   ],
-  "grupos": [],
-  "para_mapa": [],
-  "nota": "Sin alertas activas en la ventana de tiempo configurada."
+  "grupos": [
+    {
+      "tipo": "cierre_parcial",
+      "color": "amarillo",
+      "icono": "🟡",
+      "label": "CIERRE PARCIAL / ACCIDENTES",
+      "col2": true,
+      "alertas": [
+        {
+          "id": "80f68d4a",
+          "tipo": "cierre_parcial",
+          "ruta": "Asumen fuerzas estatales y federales seguridad de Juchitán…",
+          "descripcion": "Asumen fuerzas estatales y federales seguridad de Juchitán. Operativo se concentra en la comandancia municipal; carretera federal permanece cerrada",
+          "recomendacion": "",
+          "fecha": "25 septiembre 2026 · 12:48 CST",
+          "fecha_iso": "2026-09-25T12:48:00-06:00",
+          "fuente": "Quadratin Oaxaca",
+          "url": "https://oaxaca.quadratin.com.mx/asumen-fuerzas-estatales-y-federales-seguridad-de-juchitan/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        },
+        {
+          "id": "a78843bc",
+          "tipo": "cierre_parcial",
+          "ruta": "Aparatoso accidente paraliza carretera Querétaro-Celaya; hay tres heridos…",
+          "descripcion": "Aparatoso accidente paraliza carretera Querétaro-Celaya; hay tres heridos. Un percance múltiple involucró a un tractocamión, vehículo agrícola y automóvil particular, obligando al cierre de la vialidad por horas.",
+          "recomendacion": "",
+          "fecha": "25 septiembre 2026 · 12:17 CST",
+          "fecha_iso": "2026-09-25T12:17:00-06:00",
+          "fuente": "AM Guanajuato",
+          "url": "https://www.am.com.mx/guanajuato-sur/2026/09/25/aparatoso-accidente-paraliza-carretera-queretaro-celaya-hay-tres-heridos-1848359.html",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 20.59,
+          "lon": -100.39
+        },
+        {
+          "id": "0e588c7b",
+          "tipo": "cierre_parcial",
+          "ruta": "¿Carreteras Cerradas Hoy? Así Está el Tránsito en Autopistas este…",
+          "descripcion": "¿Carreteras Cerradas Hoy? Así Está el Tránsito en Autopistas este 25 de Septiembre 2026 - N+. ¿Carreteras Cerradas Hoy? Así Está el Tránsito en Autopistas este 25 de Septiembre 2026 N+",
+          "recomendacion": "",
+          "fecha": "25 septiembre 2026 · 07:01 CST",
+          "fecha_iso": "2026-09-25T07:01:00-06:00",
+          "fuente": "N+",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOGFjRWdmN19pb0xlUkZvSXptalJmVFRicmVwMGsySTcyWjlKWWdMUFVDZzJGaEs4MUtHTWQ5LXFvbXJ6UTNqdFk2b1U1NVFlUC1tblMzQ1ZubjFHa3JPalBxQXNjenB1enR1U3RjY1FZNDN3RGhCQXlrakFzeUc4akFESW94QVJ1eWEzTUIydG1USzV0RF9RT2I5OWFxX2YzUzFhSDdTNkZFY2FBRWNnODJnNkUtQ3BzbnVzM0ZGX1hrNGpad0ZZ?oc=5",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        }
+      ]
+    }
+  ],
+  "para_mapa": [
+    {
+      "id": "a78843bc",
+      "tipo": "cierre_parcial",
+      "ruta": "Aparatoso accidente paraliza carretera Querétaro-Celaya; hay tres heridos…",
+      "descripcion": "Aparatoso accidente paraliza carretera Querétaro-Celaya; hay tres heridos. Un percance múltiple involucró a un tractocamión, vehículo agrícola y automóvil particular, obligando al cierre de la vialidad por horas.",
+      "fecha": "25 septiembre 2026 · 12:17 CST",
+      "fuente": "AM Guanajuato",
+      "url": "https://www.am.com.mx/guanajuato-sur/2026/09/25/aparatoso-accidente-paraliza-carretera-queretaro-celaya-hay-tres-heridos-1848359.html",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 20.59,
+      "lon": -100.39
+    }
+  ]
 }
