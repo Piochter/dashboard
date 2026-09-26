@@ -1,10 +1,10 @@
 {
-  "ultima_actualizacion": "2026-09-25T18:47:20.876028-06:00",
-  "ultima_actualizacion_legible": "25 de septiembre de 2026 · 18:47 CST",
+  "ultima_actualizacion": "2026-09-25T23:30:51.867962-06:00",
+  "ultima_actualizacion_legible": "25 de septiembre de 2026 · 23:30 CST",
   "total": 3,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News",
+    "Medios regionales",
     "Quadratin + regionales"
   ],
   "grupos": [
@@ -16,58 +16,95 @@
       "col2": false,
       "alertas": [
         {
-          "id": "a50ddf50",
+          "id": "6d447ab8",
           "tipo": "bloqueo",
-          "ruta": "Bloqueos carreteras HOY viernes 25 de septiembre: Autopistas cerradas en…",
-          "descripcion": "Bloqueos carreteras HOY viernes 25 de septiembre: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY viernes 25 de septiembre: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
+          "ruta": "carretera 57",
+          "descripcion": "Desaparece universitaria en SLP; su familia bloqueó carretera 57. Tiene una semana sin localizarla",
           "recomendacion": "",
-          "fecha": "25 septiembre 2026 · 07:47 CST",
-          "fecha_iso": "2026-09-25T07:47:00-06:00",
-          "fuente": "Eje Central",
-          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOaHFKemtXLTV6eTdVbzhKTnhSWGFzcjU2V21OdXJyN2hXeEZTRTJhdjZSMHhHMFppZUdIYndzQklJLU5iZks1N0NOY2dXT1ZWRDQ1MDk2YTJhMG04bFViNzh1elZRbzZiVDgzV2Q2NXFoWktIaGdKSHd3SE8yaklJQVR4bFVKTjN1N3pxQTRHMjlTMGUwUjBQM2V5dlN0eVloT1V5bnIxU1B3VE1iZ1pXbmtFSTNET2QzTWNONUV2Zlo1LVItVUJhVjhmbTVsT1phbWZGbGpfV2ZRYXUyRG44SVE2WlJaZUgtbzZTc2FRTDNGa3o1ZERydw?oc=5",
+          "fecha": "25 septiembre 2026 · 22:21 CST",
+          "fecha_iso": "2026-09-25T22:21:00-06:00",
+          "fuente": "Quadratin Michoacan",
+          "url": "https://www.quadratin.com.mx/nacionales/desaparece-universitaria-en-slp-su-familia-bloqueo-carretera-57/",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        }
-      ]
-    },
-    {
-      "tipo": "cierre_parcial",
-      "color": "amarillo",
-      "icono": "🟡",
-      "label": "CIERRE PARCIAL / ACCIDENTES",
-      "col2": true,
-      "alertas": [
-        {
-          "id": "80f68d4a",
-          "tipo": "cierre_parcial",
-          "ruta": "Asumen fuerzas estatales y federales seguridad de Juchitán…",
-          "descripcion": "Asumen fuerzas estatales y federales seguridad de Juchitán. Operativo se concentra en la comandancia municipal; carretera federal permanece cerrada",
-          "recomendacion": "",
-          "fecha": "25 septiembre 2026 · 12:48 CST",
-          "fecha_iso": "2026-09-25T12:48:00-06:00",
-          "fuente": "Quadratin Oaxaca",
-          "url": "https://oaxaca.quadratin.com.mx/asumen-fuerzas-estatales-y-federales-seguridad-de-juchitan/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
+          "badge_txt": "BLOQUEO",
+          "lat": 21.5,
+          "lon": -100.0
         },
         {
-          "id": "4ffc7cf0",
-          "tipo": "cierre_parcial",
-          "ruta": "¿Carreteras Cerradas Hoy? Así Está el Tránsito en Autopistas este…",
-          "descripcion": "¿Carreteras Cerradas Hoy? Así Está el Tránsito en Autopistas este 25 de Septiembre 2026 - nmas.com.mx. ¿Carreteras Cerradas Hoy? Así Está el Tránsito en Autopistas este 25 de Septiembre 2026 nmas.com.mx",
+          "id": "2df6dc98",
+          "tipo": "bloqueo",
+          "ruta": "carretera 57",
+          "descripcion": "Desaparece universitaria en SLP; su familia bloqueó carretera 57. La joven no ha sido localizada desde hace una semana.",
           "recomendacion": "",
-          "fecha": "25 septiembre 2026 · 07:01 CST",
-          "fecha_iso": "2026-09-25T07:01:00-06:00",
-          "fuente": "nmas.com.mx",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOGFjRWdmN19pb0xlUkZvSXptalJmVFRicmVwMGsySTcyWjlKWWdMUFVDZzJGaEs4MUtHTWQ5LXFvbXJ6UTNqdFk2b1U1NVFlUC1tblMzQ1ZubjFHa3JPalBxQXNjenB1enR1U3RjY1FZNDN3RGhCQXlrakFzeUc4akFESW94QVJ1eWEzTUIydG1USzV0RF9RT2I5OWFxX2YzUzFhSDdTNkZFY2FBRWNnODJnNkUtQ3BzbnVzM0ZGX1hrNGpad0ZZ?oc=5",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
+          "fecha": "25 septiembre 2026 · 22:15 CST",
+          "fecha_iso": "2026-09-25T22:15:00-06:00",
+          "fuente": "Quadratin Oaxaca",
+          "url": "https://oaxaca.quadratin.com.mx/desaparece-universitaria-en-slp-su-familia-bloqueo-carretera-57/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 21.5,
+          "lon": -100.0
+        },
+        {
+          "id": "6c8590eb",
+          "tipo": "bloqueo",
+          "ruta": "The New York Times elige las 100 mejores series del…",
+          "descripcion": "The New York Times elige las 100 mejores series del siglo XXI con una polémica ausencia. El diario publicó su listado a través de un entretenido ranking interactivo; participaron más de 500 profesionales de la industria televisiva",
+          "recomendacion": "",
+          "fecha": "25 septiembre 2026 · 16:41 CST",
+          "fecha_iso": "2026-09-25T16:41:00-06:00",
+          "fuente": "El Sol de Mexico",
+          "url": "https://oem.com.mx/elsoldemexico/gossip/the-new-york-times-elige-las-100-mejores-series-del-siglo-xxi-con-una-polemica-ausencia-32275695",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 19.3,
+          "lon": -104.0
         }
       ]
     }
   ],
-  "para_mapa": []
+  "para_mapa": [
+    {
+      "id": "6d447ab8",
+      "tipo": "bloqueo",
+      "ruta": "carretera 57",
+      "descripcion": "Desaparece universitaria en SLP; su familia bloqueó carretera 57. Tiene una semana sin localizarla",
+      "fecha": "25 septiembre 2026 · 22:21 CST",
+      "fuente": "Quadratin Michoacan",
+      "url": "https://www.quadratin.com.mx/nacionales/desaparece-universitaria-en-slp-su-familia-bloqueo-carretera-57/",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 21.5,
+      "lon": -100.0
+    },
+    {
+      "id": "2df6dc98",
+      "tipo": "bloqueo",
+      "ruta": "carretera 57",
+      "descripcion": "Desaparece universitaria en SLP; su familia bloqueó carretera 57. La joven no ha sido localizada desde hace una semana.",
+      "fecha": "25 septiembre 2026 · 22:15 CST",
+      "fuente": "Quadratin Oaxaca",
+      "url": "https://oaxaca.quadratin.com.mx/desaparece-universitaria-en-slp-su-familia-bloqueo-carretera-57/",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 21.5,
+      "lon": -100.0
+    },
+    {
+      "id": "6c8590eb",
+      "tipo": "bloqueo",
+      "ruta": "The New York Times elige las 100 mejores series del…",
+      "descripcion": "The New York Times elige las 100 mejores series del siglo XXI con una polémica ausencia. El diario publicó su listado a través de un entretenido ranking interactivo; participaron más de 500 profesionales de la industria televisiva",
+      "fecha": "25 septiembre 2026 · 16:41 CST",
+      "fuente": "El Sol de Mexico",
+      "url": "https://oem.com.mx/elsoldemexico/gossip/the-new-york-times-elige-las-100-mejores-series-del-siglo-xxi-con-una-polemica-ausencia-32275695",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 19.3,
+      "lon": -104.0
+    }
+  ]
 }
