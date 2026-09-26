@@ -1,10 +1,11 @@
 {
-  "ultima_actualizacion": "2026-09-26T11:53:54.637976-06:00",
-  "ultima_actualizacion_legible": "26 de septiembre de 2026 · 11:53 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-09-26T14:23:06.581978-06:00",
+  "ultima_actualizacion_legible": "26 de septiembre de 2026 · 14:23 CST",
+  "total": 3,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
+    "Medios regionales",
     "Quadratin + regionales"
   ],
   "grupos": [
@@ -30,15 +31,15 @@
           "badge_txt": "BLOQUEO"
         },
         {
-          "id": "4a53f615",
+          "id": "97d262ab",
           "tipo": "bloqueo",
           "ruta": "carretera 57",
-          "descripcion": "Desaparece universitaria en SLP; su familia bloqueó carretera 57. La joven no ha sido localizada desde hace una semana",
+          "descripcion": "Desaparece universitaria en SLP; su familia bloqueó carretera 57. SAN LUIS POTOSÍ, SLP., 25 de septiembre de 2026.- La desaparición de una estudiante universitaria de 19 años movilizó a familiares y ciudadanos en San Luis Potosí, quienes llegaron al bloqueo de la carretera federal 57 para exigir a las autoridades acelerar la búsqueda de Luz Odette Loera Molina, vista por última vez el pasado […] The post Desaparece universitaria en SLP; su familia bloqueó carretera 57 appeared first on Quadratin",
           "recomendacion": "",
-          "fecha": "26 septiembre 2026 · 09:18 CST",
-          "fecha_iso": "2026-09-26T09:18:00-06:00",
-          "fuente": "Quadratin Jalisco",
-          "url": "https://jalisco.quadratin.com.mx/Nacional/desaparece-universitaria-en-slp-su-familia-bloqueo-carretera-57-2/",
+          "fecha": "26 septiembre 2026 · 08:55 CST",
+          "fecha_iso": "2026-09-26T08:55:00-06:00",
+          "fuente": "Quadratin Hidalgo",
+          "url": "https://hidalgo.quadratin.com.mx/Nacionales-2/desaparece-universitaria-en-slp-su-familia-bloqueo-carretera-57/",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO",
@@ -46,17 +47,40 @@
           "lon": -100.0
         }
       ]
+    },
+    {
+      "tipo": "cierre_parcial",
+      "color": "amarillo",
+      "icono": "🟡",
+      "label": "CIERRE PARCIAL / ACCIDENTES",
+      "col2": true,
+      "alertas": [
+        {
+          "id": "fec7204f",
+          "tipo": "cierre_parcial",
+          "ruta": "Tragedia en la carretera Irapuato-Silao: Se les poncha llanta y…",
+          "descripcion": "Tragedia en la carretera Irapuato-Silao: Se les poncha llanta y tráiler choca su camioneta. Una falla mecánica dejó varados a varios trabajadores sobre la vialidad federal antes de ser embestidos por una pesada unidad a la altura de El Espejo.",
+          "recomendacion": "",
+          "fecha": "26 septiembre 2026 · 12:12 CST",
+          "fecha_iso": "2026-09-26T12:12:00-06:00",
+          "fuente": "AM Guanajuato",
+          "url": "https://www.am.com.mx/guanajuato/2026/09/26/tragedia-en-la-carretera-irapuato-silao-se-les-poncha-llanta-y-trailer-choca-su-camioneta-1848813.html",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        }
+      ]
     }
   ],
   "para_mapa": [
     {
-      "id": "4a53f615",
+      "id": "97d262ab",
       "tipo": "bloqueo",
       "ruta": "carretera 57",
-      "descripcion": "Desaparece universitaria en SLP; su familia bloqueó carretera 57. La joven no ha sido localizada desde hace una semana",
-      "fecha": "26 septiembre 2026 · 09:18 CST",
-      "fuente": "Quadratin Jalisco",
-      "url": "https://jalisco.quadratin.com.mx/Nacional/desaparece-universitaria-en-slp-su-familia-bloqueo-carretera-57-2/",
+      "descripcion": "Desaparece universitaria en SLP; su familia bloqueó carretera 57. SAN LUIS POTOSÍ, SLP., 25 de septiembre de 2026.- La desaparición de una estudiante universitaria de 19 años movilizó a familiares y ciudadanos en San Luis Potosí, quienes llegaron al bloqueo de la carretera federal 57 para exigir a las autoridades acelerar la búsqueda de Luz Odette Loera Molina, vista por última vez el pasado […] The post Desaparece universitaria en SLP; su familia bloqueó carretera 57 appeared first on Quadratin",
+      "fecha": "26 septiembre 2026 · 08:55 CST",
+      "fuente": "Quadratin Hidalgo",
+      "url": "https://hidalgo.quadratin.com.mx/Nacionales-2/desaparece-universitaria-en-slp-su-familia-bloqueo-carretera-57/",
       "dot_color": "#8e44ad",
       "badge_txt": "BLOQUEO",
       "lat": 21.5,
