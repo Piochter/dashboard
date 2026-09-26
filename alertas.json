@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-09-26T04:07:04.268910-06:00",
-  "ultima_actualizacion_legible": "26 de septiembre de 2026 · 04:07 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-09-26T08:28:10.284531-06:00",
+  "ultima_actualizacion_legible": "26 de septiembre de 2026 · 08:28 CST",
+  "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Medios regionales",
@@ -46,22 +46,6 @@
           "badge_txt": "BLOQUEO",
           "lat": 21.5,
           "lon": -100.0
-        },
-        {
-          "id": "6c8590eb",
-          "tipo": "bloqueo",
-          "ruta": "The New York Times elige las 100 mejores series del…",
-          "descripcion": "The New York Times elige las 100 mejores series del siglo XXI con una polémica ausencia. El diario publicó su listado a través de un entretenido ranking interactivo; participaron más de 500 profesionales de la industria televisiva",
-          "recomendacion": "",
-          "fecha": "25 septiembre 2026 · 16:41 CST",
-          "fecha_iso": "2026-09-25T16:41:00-06:00",
-          "fuente": "El Sol de Mexico",
-          "url": "https://oem.com.mx/elsoldemexico/gossip/the-new-york-times-elige-las-100-mejores-series-del-siglo-xxi-con-una-polemica-ausencia-32275695",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 19.3,
-          "lon": -104.0
         }
       ]
     }
@@ -92,19 +76,6 @@
       "badge_txt": "BLOQUEO",
       "lat": 21.5,
       "lon": -100.0
-    },
-    {
-      "id": "6c8590eb",
-      "tipo": "bloqueo",
-      "ruta": "The New York Times elige las 100 mejores series del…",
-      "descripcion": "The New York Times elige las 100 mejores series del siglo XXI con una polémica ausencia. El diario publicó su listado a través de un entretenido ranking interactivo; participaron más de 500 profesionales de la industria televisiva",
-      "fecha": "25 septiembre 2026 · 16:41 CST",
-      "fuente": "El Sol de Mexico",
-      "url": "https://oem.com.mx/elsoldemexico/gossip/the-new-york-times-elige-las-100-mejores-series-del-siglo-xxi-con-una-polemica-ausencia-32275695",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 19.3,
-      "lon": -104.0
     }
   ]
 }
