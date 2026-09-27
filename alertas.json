@@ -1,38 +1,12 @@
 {
-  "ultima_actualizacion": "2026-09-27T14:08:46.456323-06:00",
-  "ultima_actualizacion_legible": "27 de septiembre de 2026 · 14:08 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-09-27T17:01:25.590695-06:00",
+  "ultima_actualizacion_legible": "27 de septiembre de 2026 · 17:01 CST",
+  "total": 1,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Medios regionales",
-    "Quadratin + regionales"
+    "Medios regionales"
   ],
   "grupos": [
-    {
-      "tipo": "cierre_parcial",
-      "color": "amarillo",
-      "icono": "🟡",
-      "label": "CIERRE PARCIAL / ACCIDENTES",
-      "col2": true,
-      "alertas": [
-        {
-          "id": "d148bc5e",
-          "tipo": "cierre_parcial",
-          "ruta": "carretera de Atoyac",
-          "descripcion": "Conductor pierde el control y vuelca su camioneta en carretera de Atoyac. El accidente, sobre la Acapulco-Zihuatanejo",
-          "recomendacion": "",
-          "fecha": "27 septiembre 2026 · 11:25 CST",
-          "fecha_iso": "2026-09-27T11:25:00-06:00",
-          "fuente": "Quadratin Guerrero",
-          "url": "https://guerrero.quadratin.com.mx/conductor-pierde-el-control-y-vuelca-su-camioneta-en-carretera-de-atoyac/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 16.86,
-          "lon": -99.88
-        }
-      ]
-    },
     {
       "tipo": "clima",
       "color": "azul",
@@ -60,19 +34,6 @@
     }
   ],
   "para_mapa": [
-    {
-      "id": "d148bc5e",
-      "tipo": "cierre_parcial",
-      "ruta": "carretera de Atoyac",
-      "descripcion": "Conductor pierde el control y vuelca su camioneta en carretera de Atoyac. El accidente, sobre la Acapulco-Zihuatanejo",
-      "fecha": "27 septiembre 2026 · 11:25 CST",
-      "fuente": "Quadratin Guerrero",
-      "url": "https://guerrero.quadratin.com.mx/conductor-pierde-el-control-y-vuelca-su-camioneta-en-carretera-de-atoyac/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 16.86,
-      "lon": -99.88
-    },
     {
       "id": "f611078e",
       "tipo": "clima",
