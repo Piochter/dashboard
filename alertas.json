@@ -1,10 +1,9 @@
 {
-  "ultima_actualizacion": "2026-09-26T19:24:28.201569-06:00",
-  "ultima_actualizacion_legible": "26 de septiembre de 2026 · 19:24 CST",
+  "ultima_actualizacion": "2026-09-27T00:44:49.805986-06:00",
+  "ultima_actualizacion_legible": "27 de septiembre de 2026 · 00:44 CST",
   "total": 3,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News",
     "Quadratin + regionales"
   ],
   "grupos": [
@@ -24,7 +23,7 @@
           "fecha": "26 septiembre 2026 · 18:36 CST",
           "fecha_iso": "2026-09-26T18:36:00-06:00",
           "fuente": "Quadratin Puebla",
-          "url": "https://puebla.quadratin.com.mx/?p=1236796",
+          "url": "https://puebla.quadratin.com.mx/sucesos/lluvias-provocan-deslaves-y-bloqueos-en-la-sierra-norte-de-puebla/",
           "dot_color": "#e74c3c",
           "badge": "badge-cierre-total",
           "badge_txt": "CIERRE TOTAL",
@@ -41,18 +40,20 @@
       "col2": false,
       "alertas": [
         {
-          "id": "8cda7348",
+          "id": "bc053e58",
           "tipo": "bloqueo",
-          "ruta": "Bloqueos carreteras HOY sábado 26 de septiembre: Autopistas cerradas en…",
-          "descripcion": "Bloqueos carreteras HOY sábado 26 de septiembre: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY sábado 26 de septiembre: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
+          "ruta": "autopista 57",
+          "descripcion": "Muere automovilista durante persecución en la autopista 57. Sergio N. perdió la vida durante el intercambio de disparos The post Muere automovilista durante persecución en la autopista 57 appeared first on Quadratin Querétaro.",
           "recomendacion": "",
-          "fecha": "26 septiembre 2026 · 09:52 CST",
-          "fecha_iso": "2026-09-26T09:52:00-06:00",
-          "fuente": "Eje Central",
-          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNVWZIbVk2Qi1aVU9vMG5lVUpVaEFnRHJrNmJKMUJhMnU5aWpib0xqeHdfeU43NHMwWm9kelhCQmo2QnR1dHB2dGpDbzJPQk5QMlF2Q1ZuZEZhV3JNR09Id0phZjdYOEFqR0E3Q0U5X2J0cXBtQjhFU1ZSUG40dG1MTDlfUHRTNUhVeDVTbVRuemFFUmtQSVZ5NkdRYnhSeldKdDBfcXFYWUIzeV8ycHA3dWcyQXhIeDc5RXc4QTJJeW9mdGV0cDdjSmJZNmpxWktpRXpFWWpZR28yaFdzR2NOT2hNLWpualNEVHhsb3pPVUZTZW5YNmJZ?oc=5",
+          "fecha": "26 septiembre 2026 · 19:50 CST",
+          "fecha_iso": "2026-09-26T19:50:00-06:00",
+          "fuente": "Quadratin Queretaro",
+          "url": "https://queretaro.quadratin.com.mx/muere-automovilista-durante-persecucion-en-la-autopista-57/",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
+          "badge_txt": "BLOQUEO",
+          "lat": 21.5,
+          "lon": -100.0
         }
       ]
     },
@@ -82,13 +83,26 @@
   ],
   "para_mapa": [
     {
+      "id": "bc053e58",
+      "tipo": "bloqueo",
+      "ruta": "autopista 57",
+      "descripcion": "Muere automovilista durante persecución en la autopista 57. Sergio N. perdió la vida durante el intercambio de disparos The post Muere automovilista durante persecución en la autopista 57 appeared first on Quadratin Querétaro.",
+      "fecha": "26 septiembre 2026 · 19:50 CST",
+      "fuente": "Quadratin Queretaro",
+      "url": "https://queretaro.quadratin.com.mx/muere-automovilista-durante-persecucion-en-la-autopista-57/",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 21.5,
+      "lon": -100.0
+    },
+    {
       "id": "387155d7",
       "tipo": "cierre_total",
       "ruta": "Lluvias provocan deslaves y bloqueos en la Sierra Norte de…",
       "descripcion": "Lluvias provocan deslaves y bloqueos en la Sierra Norte de Puebla. Afectan derrumbes vialidades en Hermenegildo Galeana, Amixtlán y Tepatlán",
       "fecha": "26 septiembre 2026 · 18:36 CST",
       "fuente": "Quadratin Puebla",
-      "url": "https://puebla.quadratin.com.mx/?p=1236796",
+      "url": "https://puebla.quadratin.com.mx/sucesos/lluvias-provocan-deslaves-y-bloqueos-en-la-sierra-norte-de-puebla/",
       "dot_color": "#e74c3c",
       "badge_txt": "CIERRE TOTAL",
       "lat": 19.04,
