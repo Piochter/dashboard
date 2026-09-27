@@ -1,112 +1,12 @@
 {
-  "ultima_actualizacion": "2026-09-27T06:29:23.757985-06:00",
-  "ultima_actualizacion_legible": "27 de septiembre de 2026 · 06:29 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-09-27T11:09:49.804247-06:00",
+  "ultima_actualizacion_legible": "27 de septiembre de 2026 · 11:09 CST",
+  "total": 0,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Quadratin + regionales"
+    "Google News"
   ],
-  "grupos": [
-    {
-      "tipo": "cierre_total",
-      "color": "rojo",
-      "icono": "🔴",
-      "label": "CIERRE TOTAL",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "387155d7",
-          "tipo": "cierre_total",
-          "ruta": "Lluvias provocan deslaves y bloqueos en la Sierra Norte de…",
-          "descripcion": "Lluvias provocan deslaves y bloqueos en la Sierra Norte de Puebla. Afectan derrumbes vialidades en Hermenegildo Galeana, Amixtlán y Tepatlán",
-          "recomendacion": "",
-          "fecha": "26 septiembre 2026 · 18:36 CST",
-          "fecha_iso": "2026-09-26T18:36:00-06:00",
-          "fuente": "Quadratin Puebla",
-          "url": "https://puebla.quadratin.com.mx/sucesos/lluvias-provocan-deslaves-y-bloqueos-en-la-sierra-norte-de-puebla/",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL",
-          "lat": 19.04,
-          "lon": -98.2
-        }
-      ]
-    },
-    {
-      "tipo": "bloqueo",
-      "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "bc053e58",
-          "tipo": "bloqueo",
-          "ruta": "autopista 57",
-          "descripcion": "Muere automovilista durante persecución en la autopista 57. Sergio N. perdió la vida durante el intercambio de disparos The post Muere automovilista durante persecución en la autopista 57 appeared first on Quadratin Querétaro.",
-          "recomendacion": "",
-          "fecha": "26 septiembre 2026 · 19:50 CST",
-          "fecha_iso": "2026-09-26T19:50:00-06:00",
-          "fuente": "Quadratin Queretaro",
-          "url": "https://queretaro.quadratin.com.mx/muere-automovilista-durante-persecucion-en-la-autopista-57/",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 21.5,
-          "lon": -100.0
-        }
-      ]
-    },
-    {
-      "tipo": "cierre_parcial",
-      "color": "amarillo",
-      "icono": "🟡",
-      "label": "CIERRE PARCIAL / ACCIDENTES",
-      "col2": true,
-      "alertas": [
-        {
-          "id": "baff95ba",
-          "tipo": "cierre_parcial",
-          "ruta": "Refuerza Ecatepec operativos contra obstrucciones en la vía pública…",
-          "descripcion": "Refuerza Ecatepec operativos contra obstrucciones en la vía pública. El Rastrillo Social retiró llantas, basura, anuncios, cascajo y otros objetos de 1.5 kilómetros de la avenida.",
-          "recomendacion": "",
-          "fecha": "26 septiembre 2026 · 19:05 CST",
-          "fecha_iso": "2026-09-26T19:05:00-06:00",
-          "fuente": "Quadratin EdoMex",
-          "url": "https://edomex.quadratin.com.mx/refuerza-ecatepec-operativos-contra-obstrucciones-en-la-via-publica/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
-        }
-      ]
-    }
-  ],
-  "para_mapa": [
-    {
-      "id": "bc053e58",
-      "tipo": "bloqueo",
-      "ruta": "autopista 57",
-      "descripcion": "Muere automovilista durante persecución en la autopista 57. Sergio N. perdió la vida durante el intercambio de disparos The post Muere automovilista durante persecución en la autopista 57 appeared first on Quadratin Querétaro.",
-      "fecha": "26 septiembre 2026 · 19:50 CST",
-      "fuente": "Quadratin Queretaro",
-      "url": "https://queretaro.quadratin.com.mx/muere-automovilista-durante-persecucion-en-la-autopista-57/",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 21.5,
-      "lon": -100.0
-    },
-    {
-      "id": "387155d7",
-      "tipo": "cierre_total",
-      "ruta": "Lluvias provocan deslaves y bloqueos en la Sierra Norte de…",
-      "descripcion": "Lluvias provocan deslaves y bloqueos en la Sierra Norte de Puebla. Afectan derrumbes vialidades en Hermenegildo Galeana, Amixtlán y Tepatlán",
-      "fecha": "26 septiembre 2026 · 18:36 CST",
-      "fuente": "Quadratin Puebla",
-      "url": "https://puebla.quadratin.com.mx/sucesos/lluvias-provocan-deslaves-y-bloqueos-en-la-sierra-norte-de-puebla/",
-      "dot_color": "#e74c3c",
-      "badge_txt": "CIERRE TOTAL",
-      "lat": 19.04,
-      "lon": -98.2
-    }
-  ]
+  "grupos": [],
+  "para_mapa": [],
+  "nota": "Sin alertas activas en la ventana de tiempo configurada."
 }
