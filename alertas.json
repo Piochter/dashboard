@@ -1,51 +1,12 @@
 {
-  "ultima_actualizacion": "2026-09-27T19:38:08.357738-06:00",
-  "ultima_actualizacion_legible": "27 de septiembre de 2026 · 19:38 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-09-28T01:37:49.240243-06:00",
+  "ultima_actualizacion_legible": "28 de septiembre de 2026 · 01:37 CST",
+  "total": 0,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Medios regionales"
+    "Google News"
   ],
-  "grupos": [
-    {
-      "tipo": "clima",
-      "color": "azul",
-      "icono": "🌧",
-      "label": "ALERTA METEOROLOGICA",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "f611078e",
-          "tipo": "clima",
-          "ruta": "Polo tocará tierra en BCS el lunes como categoría 2;…",
-          "descripcion": "Polo tocará tierra en BCS el lunes como categoría 2; Semar mantiene cierre de puertos. El huracán, que actualmente mantiene categoría 3, se ubica a 445 km de Cabo San Lucas; el instituto armado mantiene restricciones a la navegación en Baja California Sue, Nayarit, Michoacán y Sonora",
-          "recomendacion": "",
-          "fecha": "27 septiembre 2026 · 08:50 CST",
-          "fecha_iso": "2026-09-27T08:50:00-06:00",
-          "fuente": "El Sol de Mexico",
-          "url": "https://oem.com.mx/elsoldemexico/mexico/polo-tocara-tierra-en-bcs-el-lunes-como-categoria-2-semar-mantiene-cierre-de-puertos-32303402",
-          "dot_color": "#3498db",
-          "badge": "badge-clima",
-          "badge_txt": "ALERTA CLIMA",
-          "lat": 19.7,
-          "lon": -101.19
-        }
-      ]
-    }
-  ],
-  "para_mapa": [
-    {
-      "id": "f611078e",
-      "tipo": "clima",
-      "ruta": "Polo tocará tierra en BCS el lunes como categoría 2;…",
-      "descripcion": "Polo tocará tierra en BCS el lunes como categoría 2; Semar mantiene cierre de puertos. El huracán, que actualmente mantiene categoría 3, se ubica a 445 km de Cabo San Lucas; el instituto armado mantiene restricciones a la navegación en Baja California Sue, Nayarit, Michoacán y Sonora",
-      "fecha": "27 septiembre 2026 · 08:50 CST",
-      "fuente": "El Sol de Mexico",
-      "url": "https://oem.com.mx/elsoldemexico/mexico/polo-tocara-tierra-en-bcs-el-lunes-como-categoria-2-semar-mantiene-cierre-de-puertos-32303402",
-      "dot_color": "#3498db",
-      "badge_txt": "ALERTA CLIMA",
-      "lat": 19.7,
-      "lon": -101.19
-    }
-  ]
+  "grupos": [],
+  "para_mapa": [],
+  "nota": "Sin alertas activas en la ventana de tiempo configurada."
 }
