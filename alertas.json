@@ -1,51 +1,51 @@
 {
-  "ultima_actualizacion": "2026-09-29T00:57:20.271222-06:00",
-  "ultima_actualizacion_legible": "29 de septiembre de 2026 · 00:57 CST",
+  "ultima_actualizacion": "2026-09-29T07:40:10.165728-06:00",
+  "ultima_actualizacion_legible": "29 de septiembre de 2026 · 07:40 CST",
   "total": 1,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Quadratin + regionales"
+    "Medios nacionales"
   ],
   "grupos": [
     {
-      "tipo": "cierre_total",
-      "color": "rojo",
-      "icono": "🔴",
-      "label": "CIERRE TOTAL",
+      "tipo": "clima",
+      "color": "azul",
+      "icono": "🌧",
+      "label": "ALERTA METEOROLOGICA",
       "col2": false,
       "alertas": [
         {
-          "id": "9d6bca40",
-          "tipo": "cierre_total",
-          "ruta": "Supervisa Armenta atención y rehabilitación de caminos en Sierra Norte…",
-          "descripcion": "Supervisa Armenta atención y rehabilitación de caminos en Sierra Norte. Puebla atiende deslaves carreteras en la Sierra Norte.",
+          "id": "8ed02853",
+          "tipo": "clima",
+          "ruta": "Tormenta tropical Rachel causa severas inundaciones y caos vial en…",
+          "descripcion": "Tormenta tropical Rachel causa severas inundaciones y caos vial en Manzanillo. La tormenta tropical Rachel, que se localizaba anoche 400 kilómetros al suroeste de Acapulco, Guerrero, y a 555 kilómetros al sur-sureste de Manzanillo, Colima, causó severas inundaciones en ese segundo municipio –donde fueron rescatadas seis personas de anegamientos–, y sobre la autopista que lleva a la capital colimense.",
           "recomendacion": "",
-          "fecha": "28 septiembre 2026 · 21:03 CST",
-          "fecha_iso": "2026-09-28T21:03:00-06:00",
-          "fuente": "Quadratin Puebla",
-          "url": "https://puebla.quadratin.com.mx/politica/supervisa-armenta-atencion-y-rehabilitacion-de-caminos-en-sierra-norte/",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL",
-          "lat": 19.04,
-          "lon": -98.2
+          "fecha": "29 septiembre 2026 · 03:07 CST",
+          "fecha_iso": "2026-09-29T03:07:00-06:00",
+          "fuente": "La Jornada Estados",
+          "url": "https://www.jornada.com.mx/2026/09/29/estados/024n2est?partner=rss",
+          "dot_color": "#3498db",
+          "badge": "badge-clima",
+          "badge_txt": "ALERTA CLIMA",
+          "lat": 25.2,
+          "lon": -102.0
         }
       ]
     }
   ],
   "para_mapa": [
     {
-      "id": "9d6bca40",
-      "tipo": "cierre_total",
-      "ruta": "Supervisa Armenta atención y rehabilitación de caminos en Sierra Norte…",
-      "descripcion": "Supervisa Armenta atención y rehabilitación de caminos en Sierra Norte. Puebla atiende deslaves carreteras en la Sierra Norte.",
-      "fecha": "28 septiembre 2026 · 21:03 CST",
-      "fuente": "Quadratin Puebla",
-      "url": "https://puebla.quadratin.com.mx/politica/supervisa-armenta-atencion-y-rehabilitacion-de-caminos-en-sierra-norte/",
-      "dot_color": "#e74c3c",
-      "badge_txt": "CIERRE TOTAL",
-      "lat": 19.04,
-      "lon": -98.2
+      "id": "8ed02853",
+      "tipo": "clima",
+      "ruta": "Tormenta tropical Rachel causa severas inundaciones y caos vial en…",
+      "descripcion": "Tormenta tropical Rachel causa severas inundaciones y caos vial en Manzanillo. La tormenta tropical Rachel, que se localizaba anoche 400 kilómetros al suroeste de Acapulco, Guerrero, y a 555 kilómetros al sur-sureste de Manzanillo, Colima, causó severas inundaciones en ese segundo municipio –donde fueron rescatadas seis personas de anegamientos–, y sobre la autopista que lleva a la capital colimense.",
+      "fecha": "29 septiembre 2026 · 03:07 CST",
+      "fuente": "La Jornada Estados",
+      "url": "https://www.jornada.com.mx/2026/09/29/estados/024n2est?partner=rss",
+      "dot_color": "#3498db",
+      "badge_txt": "ALERTA CLIMA",
+      "lat": 25.2,
+      "lon": -102.0
     }
   ]
 }
