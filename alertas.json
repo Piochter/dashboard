@@ -1,35 +1,51 @@
 {
-  "ultima_actualizacion": "2026-09-28T19:15:58.660135-06:00",
-  "ultima_actualizacion_legible": "28 de septiembre de 2026 · 19:15 CST",
+  "ultima_actualizacion": "2026-09-29T00:57:20.271222-06:00",
+  "ultima_actualizacion_legible": "29 de septiembre de 2026 · 00:57 CST",
   "total": 1,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Medios regionales"
+    "Quadratin + regionales"
   ],
   "grupos": [
     {
-      "tipo": "cierre_parcial",
-      "color": "amarillo",
-      "icono": "🟡",
-      "label": "CIERRE PARCIAL / ACCIDENTES",
-      "col2": true,
+      "tipo": "cierre_total",
+      "color": "rojo",
+      "icono": "🔴",
+      "label": "CIERRE TOTAL",
+      "col2": false,
       "alertas": [
         {
-          "id": "a324a4ae",
-          "tipo": "cierre_parcial",
-          "ruta": "Choque en la Valle de Santiago-Salamanca deja un muerto y…",
-          "descripcion": "Choque en la Valle de Santiago-Salamanca deja un muerto y 9 heridos en Rancho Seco. Un choque múltiple entre seis vehículos en la carretera Valle de Santiago-Salamanca, a la altura de Rancho Seco, dejó un saldo de un fallecido y nueve lesionados la noche del domingo.",
+          "id": "9d6bca40",
+          "tipo": "cierre_total",
+          "ruta": "Supervisa Armenta atención y rehabilitación de caminos en Sierra Norte…",
+          "descripcion": "Supervisa Armenta atención y rehabilitación de caminos en Sierra Norte. Puebla atiende deslaves carreteras en la Sierra Norte.",
           "recomendacion": "",
-          "fecha": "28 septiembre 2026 · 18:16 CST",
-          "fecha_iso": "2026-09-28T18:16:00-06:00",
-          "fuente": "AM Guanajuato",
-          "url": "https://www.am.com.mx/guanajuato-sur/2026/09/28/choque-en-la-valle-de-santiago-salamanca-deja-un-muerto-y-9-heridos-en-rancho-seco-1849542.html",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
+          "fecha": "28 septiembre 2026 · 21:03 CST",
+          "fecha_iso": "2026-09-28T21:03:00-06:00",
+          "fuente": "Quadratin Puebla",
+          "url": "https://puebla.quadratin.com.mx/politica/supervisa-armenta-atencion-y-rehabilitacion-de-caminos-en-sierra-norte/",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL",
+          "lat": 19.04,
+          "lon": -98.2
         }
       ]
     }
   ],
-  "para_mapa": []
+  "para_mapa": [
+    {
+      "id": "9d6bca40",
+      "tipo": "cierre_total",
+      "ruta": "Supervisa Armenta atención y rehabilitación de caminos en Sierra Norte…",
+      "descripcion": "Supervisa Armenta atención y rehabilitación de caminos en Sierra Norte. Puebla atiende deslaves carreteras en la Sierra Norte.",
+      "fecha": "28 septiembre 2026 · 21:03 CST",
+      "fuente": "Quadratin Puebla",
+      "url": "https://puebla.quadratin.com.mx/politica/supervisa-armenta-atencion-y-rehabilitacion-de-caminos-en-sierra-norte/",
+      "dot_color": "#e74c3c",
+      "badge_txt": "CIERRE TOTAL",
+      "lat": 19.04,
+      "lon": -98.2
+    }
+  ]
 }
