@@ -1,51 +1,51 @@
 {
-  "ultima_actualizacion": "2026-09-30T08:06:56.529670-06:00",
-  "ultima_actualizacion_legible": "30 de septiembre de 2026 · 08:06 CST",
+  "ultima_actualizacion": "2026-09-30T13:16:06.681832-06:00",
+  "ultima_actualizacion_legible": "30 de septiembre de 2026 · 13:16 CST",
   "total": 1,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Quadratin + regionales"
+    "Google News"
   ],
   "grupos": [
     {
-      "tipo": "bloqueo",
-      "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
-      "col2": false,
+      "tipo": "cierre_parcial",
+      "color": "amarillo",
+      "icono": "🟡",
+      "label": "CIERRE PARCIAL / ACCIDENTES",
+      "col2": true,
       "alertas": [
         {
-          "id": "8b2b8b78",
-          "tipo": "bloqueo",
-          "ruta": "carretera Oaxaca-México tras bloqueo en Catano",
-          "descripcion": "Liberan carretera Oaxaca-México tras bloqueo en Catano. Habitantes se retiraron del crucero de Catano; quedó restablecido el tránsito vehicular",
+          "id": "0e156eaa",
+          "tipo": "cierre_parcial",
+          "ruta": "EN VIVO: Fuerte choque en la México-Querétaro y más accidentes…",
+          "descripcion": "EN VIVO: Fuerte choque en la México-Querétaro y más accidentes en las carreteras HOY 30 de septiembre - TV Azteca. EN VIVO: Fuerte choque en la México-Querétaro y más accidentes en las carreteras HOY 30 de septiembre TV Azteca",
           "recomendacion": "",
-          "fecha": "30 septiembre 2026 · 07:29 CST",
-          "fecha_iso": "2026-09-30T07:29:00-06:00",
-          "fuente": "Quadratin Oaxaca",
-          "url": "https://oaxaca.quadratin.com.mx/liberan-carretera-oaxaca-mexico-tras-bloqueo-en-catano/",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 17.06,
-          "lon": -96.72
+          "fecha": "30 septiembre 2026 · 08:52 CST",
+          "fecha_iso": "2026-09-30T08:52:00-06:00",
+          "fuente": "TV Azteca",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZDMwd3ozYmdKWWdXWkk1VjVLMlBCeFJ5SWRqVlpCUjViczBSdGFjOThtQmVRaW1RbWFwbGNoemJ5cUFHUFRkZkVlV1RxSy1LSmJKcVJrcGpfZERsTERjN0I3Z2h4Sk5XOFV5eTRKOXoyVEl0ajNMQTdaVTZKdU9MQ0k5TG12X2Fqc1ozU0tqRDdxYkdxemZfM05VenE4eTVUdTR2b21OSnlwZ1YxOVhIZld1aXNEMFJBM0dwOEdQSE_SAcABQVVfeXFMTWQzMHd6M2JnSllnV1pJNVY1SzJQQnhSeUlkalZaQlI1YnMwUnRhYzk4bUJlUWltUW1hcGxjaHpieXFBR1BUZGZFZVdUcUstS0piSnFSa3BqX2REbExEYzdCN2doeEpOVzhVeXk0Sjl6MlRJdGozTEE3WlU2SnVPTENJOUxtdl9hanNaM1NLakQ3cWJHcXpmXzNOVXpxOHk1VHU0dm9tTkp5cGdWMTlYSGZXdWlzRDBSQTNHcDhHUEhP?oc=5",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 20.1,
+          "lon": -99.5
         }
       ]
     }
   ],
   "para_mapa": [
     {
-      "id": "8b2b8b78",
-      "tipo": "bloqueo",
-      "ruta": "carretera Oaxaca-México tras bloqueo en Catano",
-      "descripcion": "Liberan carretera Oaxaca-México tras bloqueo en Catano. Habitantes se retiraron del crucero de Catano; quedó restablecido el tránsito vehicular",
-      "fecha": "30 septiembre 2026 · 07:29 CST",
-      "fuente": "Quadratin Oaxaca",
-      "url": "https://oaxaca.quadratin.com.mx/liberan-carretera-oaxaca-mexico-tras-bloqueo-en-catano/",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 17.06,
-      "lon": -96.72
+      "id": "0e156eaa",
+      "tipo": "cierre_parcial",
+      "ruta": "EN VIVO: Fuerte choque en la México-Querétaro y más accidentes…",
+      "descripcion": "EN VIVO: Fuerte choque en la México-Querétaro y más accidentes en las carreteras HOY 30 de septiembre - TV Azteca. EN VIVO: Fuerte choque en la México-Querétaro y más accidentes en las carreteras HOY 30 de septiembre TV Azteca",
+      "fecha": "30 septiembre 2026 · 08:52 CST",
+      "fuente": "TV Azteca",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZDMwd3ozYmdKWWdXWkk1VjVLMlBCeFJ5SWRqVlpCUjViczBSdGFjOThtQmVRaW1RbWFwbGNoemJ5cUFHUFRkZkVlV1RxSy1LSmJKcVJrcGpfZERsTERjN0I3Z2h4Sk5XOFV5eTRKOXoyVEl0ajNMQTdaVTZKdU9MQ0k5TG12X2Fqc1ozU0tqRDdxYkdxemZfM05VenE4eTVUdTR2b21OSnlwZ1YxOVhIZld1aXNEMFJBM0dwOEdQSE_SAcABQVVfeXFMTWQzMHd6M2JnSllnV1pJNVY1SzJQQnhSeUlkalZaQlI1YnMwUnRhYzk4bUJlUWltUW1hcGxjaHpieXFBR1BUZGZFZVdUcUstS0piSnFSa3BqX2REbExEYzdCN2doeEpOVzhVeXk0Sjl6MlRJdGozTEE3WlU2SnVPTENJOUxtdl9hanNaM1NLakQ3cWJHcXpmXzNOVXpxOHk1VHU0dm9tTkp5cGdWMTlYSGZXdWlzRDBSQTNHcDhHUEhP?oc=5",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 20.1,
+      "lon": -99.5
     }
   ]
 }
