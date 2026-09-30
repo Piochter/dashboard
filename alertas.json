@@ -1,51 +1,12 @@
 {
-  "ultima_actualizacion": "2026-09-29T19:45:22.771676-06:00",
-  "ultima_actualizacion_legible": "29 de septiembre de 2026 · 19:45 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-09-30T01:30:13.700091-06:00",
+  "ultima_actualizacion_legible": "30 de septiembre de 2026 · 01:30 CST",
+  "total": 0,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Telegram"
+    "Google News"
   ],
-  "grupos": [
-    {
-      "tipo": "cierre_parcial",
-      "color": "amarillo",
-      "icono": "🟡",
-      "label": "CIERRE PARCIAL / ACCIDENTES",
-      "col2": true,
-      "alertas": [
-        {
-          "id": "5fd419d0",
-          "tipo": "cierre_parcial",
-          "ruta": "🚨¿Qué pasó ayer en Arco Norte? Así ocurrió el incendio…",
-          "descripcion": "🚨¿Qué pasó ayer en Arco Norte? Así ocurrió el incendio 👇\n https://lajornadaestadodemexico.com/que-esta-pasando-en-arco-norte-y-por-que-hay-caos-vial-esto-sabemos/",
-          "recomendacion": "",
-          "fecha": "29 septiembre 2026 · 11:18 CST",
-          "fecha_iso": "2026-09-29T11:18:00-06:00",
-          "fuente": "Telegram @jornadaedomex",
-          "url": "https://t.me/jornadaedomex/12224",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.8,
-          "lon": -99.1
-        }
-      ]
-    }
-  ],
-  "para_mapa": [
-    {
-      "id": "5fd419d0",
-      "tipo": "cierre_parcial",
-      "ruta": "🚨¿Qué pasó ayer en Arco Norte? Así ocurrió el incendio…",
-      "descripcion": "🚨¿Qué pasó ayer en Arco Norte? Así ocurrió el incendio 👇\n https://lajornadaestadodemexico.com/que-esta-pasando-en-arco-norte-y-por-que-hay-caos-vial-esto-sabemos/",
-      "fecha": "29 septiembre 2026 · 11:18 CST",
-      "fuente": "Telegram @jornadaedomex",
-      "url": "https://t.me/jornadaedomex/12224",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.8,
-      "lon": -99.1
-    }
-  ]
+  "grupos": [],
+  "para_mapa": [],
+  "nota": "Sin alertas activas en la ventana de tiempo configurada."
 }
