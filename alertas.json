@@ -1,119 +1,12 @@
 {
-  "ultima_actualizacion": "2026-09-30T20:07:25.403692-06:00",
-  "ultima_actualizacion_legible": "30 de septiembre de 2026 · 20:07 CST",
-  "total": 4,
+  "ultima_actualizacion": "2026-10-01T02:52:32.291874-06:00",
+  "ultima_actualizacion_legible": "1 de octubre de 2026 · 02:52 CST",
+  "total": 0,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News",
-    "Medios regionales",
-    "Quadratin + regionales"
+    "Google News"
   ],
-  "grupos": [
-    {
-      "tipo": "cierre_total",
-      "color": "rojo",
-      "icono": "🔴",
-      "label": "CIERRE TOTAL",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "315f3120",
-          "tipo": "cierre_total",
-          "ruta": "carretera Abasolo-Irapuato",
-          "descripcion": "Dejan dos volcaduras un muerto y rapiña de rines en la carretera Abasolo-Irapuato. Por otra parte, minutos antes de las 3 de la tarde, un tráiler que transportaba varios rines para tráileres y camiones pesados volcó a un costado de la carretera federal.",
-          "recomendacion": "",
-          "fecha": "30 septiembre 2026 · 19:21 CST",
-          "fecha_iso": "2026-09-30T19:21:00-06:00",
-          "fuente": "AM Guanajuato",
-          "url": "https://www.am.com.mx/irapuato/2026/09/30/dejan-dos-volcaduras-un-muerto-y-rapina-de-rines-en-la-carretera-abasolo-irapuato-1850180.html",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL"
-        },
-        {
-          "id": "ca395325",
-          "tipo": "cierre_total",
-          "ruta": "Temem barrancada por escurrimiento y deslaves en Nogales…",
-          "descripcion": "Temem barrancada por escurrimiento y deslaves en Nogales. La afectación a la altura del km 219, en las inmediaciones de la caseta de Esperanza",
-          "recomendacion": "",
-          "fecha": "30 septiembre 2026 · 17:27 CST",
-          "fecha_iso": "2026-09-30T17:27:00-06:00",
-          "fuente": "Quadratin Veracruz",
-          "url": "https://veracruz.quadratin.com.mx/temem-barrancada-por-escurrimiento-y-deslaves-en-nogales/",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL"
-        }
-      ]
-    },
-    {
-      "tipo": "cierre_parcial",
-      "color": "amarillo",
-      "icono": "🟡",
-      "label": "CIERRE PARCIAL / ACCIDENTES",
-      "col2": true,
-      "alertas": [
-        {
-          "id": "4e0e2392",
-          "tipo": "cierre_parcial",
-          "ruta": "autopista México-Qro tras choque de camión en Huehuetoca",
-          "descripcion": "Cierran autopista México-Qro tras choque de camión en Huehuetoca. Se reportaron filas de vehículos de más de 7 kilómetros, con afectaciones que se extendieron hasta la zona limítrofe con Tepeji del Río, Hidalgo.",
-          "recomendacion": "",
-          "fecha": "30 septiembre 2026 · 19:15 CST",
-          "fecha_iso": "2026-09-30T19:15:00-06:00",
-          "fuente": "Quadratin EdoMex",
-          "url": "https://edomex.quadratin.com.mx/cierran-autopista-mexico-qro-tras-choque-de-camion-en-huehuetoca/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 20.11,
-          "lon": -98.73
-        },
-        {
-          "id": "0e156eaa",
-          "tipo": "cierre_parcial",
-          "ruta": "EN VIVO: Fuerte choque en la México-Querétaro y más accidentes…",
-          "descripcion": "EN VIVO: Fuerte choque en la México-Querétaro y más accidentes en las carreteras HOY 30 de septiembre - TV Azteca. EN VIVO: Fuerte choque en la México-Querétaro y más accidentes en las carreteras HOY 30 de septiembre TV Azteca",
-          "recomendacion": "",
-          "fecha": "30 septiembre 2026 · 08:52 CST",
-          "fecha_iso": "2026-09-30T08:52:00-06:00",
-          "fuente": "TV Azteca",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZDMwd3ozYmdKWWdXWkk1VjVLMlBCeFJ5SWRqVlpCUjViczBSdGFjOThtQmVRaW1RbWFwbGNoemJ5cUFHUFRkZkVlV1RxSy1LSmJKcVJrcGpfZERsTERjN0I3Z2h4Sk5XOFV5eTRKOXoyVEl0ajNMQTdaVTZKdU9MQ0k5TG12X2Fqc1ozU0tqRDdxYkdxemZfM05VenE4eTVUdTR2b21OSnlwZ1YxOVhIZld1aXNEMFJBM0dwOEdQSE_SAcABQVVfeXFMTWQzMHd6M2JnSllnV1pJNVY1SzJQQnhSeUlkalZaQlI1YnMwUnRhYzk4bUJlUWltUW1hcGxjaHpieXFBR1BUZGZFZVdUcUstS0piSnFSa3BqX2REbExEYzdCN2doeEpOVzhVeXk0Sjl6MlRJdGozTEE3WlU2SnVPTENJOUxtdl9hanNaM1NLakQ3cWJHcXpmXzNOVXpxOHk1VHU0dm9tTkp5cGdWMTlYSGZXdWlzRDBSQTNHcDhHUEhP?oc=5",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 20.1,
-          "lon": -99.5
-        }
-      ]
-    }
-  ],
-  "para_mapa": [
-    {
-      "id": "4e0e2392",
-      "tipo": "cierre_parcial",
-      "ruta": "autopista México-Qro tras choque de camión en Huehuetoca",
-      "descripcion": "Cierran autopista México-Qro tras choque de camión en Huehuetoca. Se reportaron filas de vehículos de más de 7 kilómetros, con afectaciones que se extendieron hasta la zona limítrofe con Tepeji del Río, Hidalgo.",
-      "fecha": "30 septiembre 2026 · 19:15 CST",
-      "fuente": "Quadratin EdoMex",
-      "url": "https://edomex.quadratin.com.mx/cierran-autopista-mexico-qro-tras-choque-de-camion-en-huehuetoca/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 20.11,
-      "lon": -98.73
-    },
-    {
-      "id": "0e156eaa",
-      "tipo": "cierre_parcial",
-      "ruta": "EN VIVO: Fuerte choque en la México-Querétaro y más accidentes…",
-      "descripcion": "EN VIVO: Fuerte choque en la México-Querétaro y más accidentes en las carreteras HOY 30 de septiembre - TV Azteca. EN VIVO: Fuerte choque en la México-Querétaro y más accidentes en las carreteras HOY 30 de septiembre TV Azteca",
-      "fecha": "30 septiembre 2026 · 08:52 CST",
-      "fuente": "TV Azteca",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZDMwd3ozYmdKWWdXWkk1VjVLMlBCeFJ5SWRqVlpCUjViczBSdGFjOThtQmVRaW1RbWFwbGNoemJ5cUFHUFRkZkVlV1RxSy1LSmJKcVJrcGpfZERsTERjN0I3Z2h4Sk5XOFV5eTRKOXoyVEl0ajNMQTdaVTZKdU9MQ0k5TG12X2Fqc1ozU0tqRDdxYkdxemZfM05VenE4eTVUdTR2b21OSnlwZ1YxOVhIZld1aXNEMFJBM0dwOEdQSE_SAcABQVVfeXFMTWQzMHd6M2JnSllnV1pJNVY1SzJQQnhSeUlkalZaQlI1YnMwUnRhYzk4bUJlUWltUW1hcGxjaHpieXFBR1BUZGZFZVdUcUstS0piSnFSa3BqX2REbExEYzdCN2doeEpOVzhVeXk0Sjl6MlRJdGozTEE3WlU2SnVPTENJOUxtdl9hanNaM1NLakQ3cWJHcXpmXzNOVXpxOHk1VHU0dm9tTkp5cGdWMTlYSGZXdWlzRDBSQTNHcDhHUEhP?oc=5",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 20.1,
-      "lon": -99.5
-    }
-  ]
+  "grupos": [],
+  "para_mapa": [],
+  "nota": "Sin alertas activas en la ventana de tiempo configurada."
 }
