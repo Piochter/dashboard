@@ -1,80 +1,12 @@
 {
-  "ultima_actualizacion": "2026-10-01T14:41:48.565700-06:00",
-  "ultima_actualizacion_legible": "1 de octubre de 2026 · 14:41 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-10-01T18:14:05.086917-06:00",
+  "ultima_actualizacion_legible": "1 de octubre de 2026 · 18:14 CST",
+  "total": 0,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Quadratin + regionales"
+    "Google News"
   ],
-  "grupos": [
-    {
-      "tipo": "cierre_parcial",
-      "color": "amarillo",
-      "icono": "🟡",
-      "label": "CIERRE PARCIAL / ACCIDENTES",
-      "col2": true,
-      "alertas": [
-        {
-          "id": "566b4ad9",
-          "tipo": "cierre_parcial",
-          "ruta": "Policías han extorsionado a 20 transportistas en Tabasco: Canacar…",
-          "descripcion": "Policías han extorsionado a 20 transportistas en Tabasco: Canacar. Denunció que corporaciones policiacas fabrican escenas del crimen y reportes de robo inexistentes",
-          "recomendacion": "",
-          "fecha": "1 octubre 2026 · 12:40 CST",
-          "fecha_iso": "2026-10-01T12:40:00-06:00",
-          "fuente": "Quadratin Tabasco",
-          "url": "https://tabasco.quadratin.com.mx/justicia/policias-han-extorsionado-a-20-transportistas-en-tabasco-canacar/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 17.99,
-          "lon": -92.93
-        },
-        {
-          "id": "d516d3b4",
-          "tipo": "cierre_parcial",
-          "ruta": "Camión con obreros del Tren México-Querétaro cae a canal en…",
-          "descripcion": "Camión con obreros del Tren México-Querétaro cae a canal en Atotonilco. Pasajeros presentaron crisis nerviosa a consecuencia del percance. The post Camión con obreros del Tren México-Querétaro cae a canal en Atotonilco appeared first on Quadratin Hidalgo.",
-          "recomendacion": "",
-          "fecha": "1 octubre 2026 · 08:49 CST",
-          "fecha_iso": "2026-10-01T08:49:00-06:00",
-          "fuente": "Quadratin Hidalgo",
-          "url": "https://hidalgo.quadratin.com.mx/sucesos/camion-con-obreros-del-tren-mexico-queretaro-cae-a-canal-en-atotonilco/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 20.1,
-          "lon": -99.5
-        }
-      ]
-    }
-  ],
-  "para_mapa": [
-    {
-      "id": "566b4ad9",
-      "tipo": "cierre_parcial",
-      "ruta": "Policías han extorsionado a 20 transportistas en Tabasco: Canacar…",
-      "descripcion": "Policías han extorsionado a 20 transportistas en Tabasco: Canacar. Denunció que corporaciones policiacas fabrican escenas del crimen y reportes de robo inexistentes",
-      "fecha": "1 octubre 2026 · 12:40 CST",
-      "fuente": "Quadratin Tabasco",
-      "url": "https://tabasco.quadratin.com.mx/justicia/policias-han-extorsionado-a-20-transportistas-en-tabasco-canacar/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 17.99,
-      "lon": -92.93
-    },
-    {
-      "id": "d516d3b4",
-      "tipo": "cierre_parcial",
-      "ruta": "Camión con obreros del Tren México-Querétaro cae a canal en…",
-      "descripcion": "Camión con obreros del Tren México-Querétaro cae a canal en Atotonilco. Pasajeros presentaron crisis nerviosa a consecuencia del percance. The post Camión con obreros del Tren México-Querétaro cae a canal en Atotonilco appeared first on Quadratin Hidalgo.",
-      "fecha": "1 octubre 2026 · 08:49 CST",
-      "fuente": "Quadratin Hidalgo",
-      "url": "https://hidalgo.quadratin.com.mx/sucesos/camion-con-obreros-del-tren-mexico-queretaro-cae-a-canal-en-atotonilco/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 20.1,
-      "lon": -99.5
-    }
-  ]
+  "grupos": [],
+  "para_mapa": [],
+  "nota": "Sin alertas activas en la ventana de tiempo configurada."
 }
