@@ -1,11 +1,10 @@
 {
-  "ultima_actualizacion": "2026-10-02T18:16:06.684305-06:00",
-  "ultima_actualizacion_legible": "2 de octubre de 2026 · 18:16 CST",
-  "total": 5,
+  "ultima_actualizacion": "2026-10-02T23:31:42.148293-06:00",
+  "ultima_actualizacion_legible": "2 de octubre de 2026 · 23:31 CST",
+  "total": 4,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
-    "Quadratin + regionales",
     "Telegram"
   ],
   "grupos": [
@@ -22,8 +21,8 @@
           "ruta": "Volcadura de tráiler provoca caos vial en Lechería, Cuautitlán Izcalli…",
           "descripcion": "Volcadura de tráiler provoca caos vial en Lechería, Cuautitlán Izcalli - El Sol de Toluca - El Sol de México. Volcadura de tráiler provoca caos vial en Lechería, Cuautitlán Izcalli - El Sol de Toluca El Sol de México",
           "recomendacion": "",
-          "fecha": "2 octubre 2026 · 14:26 CST",
-          "fecha_iso": "2026-10-02T14:26:00-06:00",
+          "fecha": "2 octubre 2026 · 17:48 CST",
+          "fecha_iso": "2026-10-02T17:48:00-06:00",
           "fuente": "El Sol de México",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVlV4QmxiODVoUXRxMEwxRndiRzRLb0JnSnQ1Y1dQdTJKM2VvQlZxSTRaYnUwdVJGeHNMYi1Ib3RKRG5NcS1HYzhrRThJbHhlWkU0RnJFSTZ1QmJ2a2dzSl9CTGZ2UnRmMFV0bFNYQ0dhWV9pYmFadTRhUU1WbC1sZFBTUzFLMlJLUEF6UjQ3YVpfbHFjdkhiUmFwc0FNRVhkQU54WmFGVkd5Slk4NUZzT1hhV1Y0Y3Zu?oc=5",
           "dot_color": "#e74c3c",
@@ -31,6 +30,22 @@
           "badge_txt": "CIERRE TOTAL",
           "lat": 19.29,
           "lon": -99.66
+        },
+        {
+          "id": "bda8e03c",
+          "tipo": "cierre_total",
+          "ruta": "Dos personas resultan lesionadas tras la volcadura de tráiler en…",
+          "descripcion": "Dos personas resultan lesionadas tras la volcadura de tráiler en la México-Querétaro https://mile.io/4z4Ve8i - facebook.com. Dos personas resultan lesionadas tras la volcadura de tráiler en la México-Querétaro https://mile.io/4z4Ve8i facebook.com",
+          "recomendacion": "",
+          "fecha": "2 octubre 2026 · 16:26 CST",
+          "fecha_iso": "2026-10-02T16:26:00-06:00",
+          "fuente": "facebook.com",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQMEU2b3QxNWJYNDNKZTVQS296MUdWRE9iU1ZrYUVSWTVnOWljcW94emNkeW9teUs5amUzd0UtNERRMERkYzhmdUw1UFd3a0xIZDJwZGVTOFVwUUtWeHpjTW82amYycUswcmoxN1Btcm5zMFVNRTI5T0lUVDF1cHc3eVkyU2tTc0Z6LWZxZXdDMXVXSWdUVWhnZDlPZEdYNFQ3VElEbnZkbUNGNk01UWJCdW9najhrSGcxLXBGZU1vZFM0VzNCSE1NQnRWSVFzRGhUUEhwOGpoQ2g0a2g0NU4yZHRTeHBwN19XWF96UlFTYw?oc=5",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL",
+          "lat": 20.1,
+          "lon": -99.5
         }
       ]
     },
@@ -67,22 +82,6 @@
       "col2": true,
       "alertas": [
         {
-          "id": "e82e5ce8",
-          "tipo": "cierre_parcial",
-          "ruta": "carretera 400 deja 11 lesionados",
-          "descripcion": "Aparatoso choque frontal en la carretera 400 deja 11 lesionados. Un total de 11 personas lesionadas fue el saldo de un aparatoso choque frontal entre una camioneta de transporte de personal y un auto tipo sedán The post Aparatoso choque frontal en la carretera 400 deja 11 lesionados appeared first on Quadratin Querétaro.",
-          "recomendacion": "",
-          "fecha": "2 octubre 2026 · 17:45 CST",
-          "fecha_iso": "2026-10-02T17:45:00-06:00",
-          "fuente": "Quadratin Queretaro",
-          "url": "https://queretaro.quadratin.com.mx/aparatoso-choque-frontal-en-la-carretera-400-deja-11-lesionados/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 25.2,
-          "lon": -102.0
-        },
-        {
           "id": "16242052",
           "tipo": "cierre_parcial",
           "ruta": "autopista Mexico-Cuernavaca - RTv Noticias Morelos",
@@ -97,52 +96,36 @@
           "badge_txt": "CIERRE PARCIAL",
           "lat": 18.67,
           "lon": -99.1
-        },
-        {
-          "id": "5162558a",
-          "tipo": "cierre_parcial",
-          "ruta": "🚘 💥 ¿Vas a #TenangoDelValle ? Accid3nt3 complica la circulación…",
-          "descripcion": "🚘 💥 ¿Vas a #TenangoDelValle ? Accid3nt3 complica la circulación desde #Mexicalzingo 👇\n\nhttps://lajornadaestadodemexico.com/accidente-en-la-toluca-tenango-2-octubre/",
-          "recomendacion": "",
-          "fecha": "2 octubre 2026 · 07:54 CST",
-          "fecha_iso": "2026-10-02T07:54:00-06:00",
-          "fuente": "Telegram @jornadaedomex",
-          "url": "https://t.me/jornadaedomex/12260",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.29,
-          "lon": -99.66
         }
       ]
     }
   ],
   "para_mapa": [
     {
-      "id": "e82e5ce8",
-      "tipo": "cierre_parcial",
-      "ruta": "carretera 400 deja 11 lesionados",
-      "descripcion": "Aparatoso choque frontal en la carretera 400 deja 11 lesionados. Un total de 11 personas lesionadas fue el saldo de un aparatoso choque frontal entre una camioneta de transporte de personal y un auto tipo sedán The post Aparatoso choque frontal en la carretera 400 deja 11 lesionados appeared first on Quadratin Querétaro.",
-      "fecha": "2 octubre 2026 · 17:45 CST",
-      "fuente": "Quadratin Queretaro",
-      "url": "https://queretaro.quadratin.com.mx/aparatoso-choque-frontal-en-la-carretera-400-deja-11-lesionados/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 25.2,
-      "lon": -102.0
-    },
-    {
       "id": "93e11f69",
       "tipo": "cierre_total",
       "ruta": "Volcadura de tráiler provoca caos vial en Lechería, Cuautitlán Izcalli…",
       "descripcion": "Volcadura de tráiler provoca caos vial en Lechería, Cuautitlán Izcalli - El Sol de Toluca - El Sol de México. Volcadura de tráiler provoca caos vial en Lechería, Cuautitlán Izcalli - El Sol de Toluca El Sol de México",
-      "fecha": "2 octubre 2026 · 14:26 CST",
+      "fecha": "2 octubre 2026 · 17:48 CST",
       "fuente": "El Sol de México",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVlV4QmxiODVoUXRxMEwxRndiRzRLb0JnSnQ1Y1dQdTJKM2VvQlZxSTRaYnUwdVJGeHNMYi1Ib3RKRG5NcS1HYzhrRThJbHhlWkU0RnJFSTZ1QmJ2a2dzSl9CTGZ2UnRmMFV0bFNYQ0dhWV9pYmFadTRhUU1WbC1sZFBTUzFLMlJLUEF6UjQ3YVpfbHFjdkhiUmFwc0FNRVhkQU54WmFGVkd5Slk4NUZzT1hhV1Y0Y3Zu?oc=5",
       "dot_color": "#e74c3c",
       "badge_txt": "CIERRE TOTAL",
       "lat": 19.29,
       "lon": -99.66
+    },
+    {
+      "id": "bda8e03c",
+      "tipo": "cierre_total",
+      "ruta": "Dos personas resultan lesionadas tras la volcadura de tráiler en…",
+      "descripcion": "Dos personas resultan lesionadas tras la volcadura de tráiler en la México-Querétaro https://mile.io/4z4Ve8i - facebook.com. Dos personas resultan lesionadas tras la volcadura de tráiler en la México-Querétaro https://mile.io/4z4Ve8i facebook.com",
+      "fecha": "2 octubre 2026 · 16:26 CST",
+      "fuente": "facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQMEU2b3QxNWJYNDNKZTVQS296MUdWRE9iU1ZrYUVSWTVnOWljcW94emNkeW9teUs5amUzd0UtNERRMERkYzhmdUw1UFd3a0xIZDJwZGVTOFVwUUtWeHpjTW82amYycUswcmoxN1Btcm5zMFVNRTI5T0lUVDF1cHc3eVkyU2tTc0Z6LWZxZXdDMXVXSWdUVWhnZDlPZEdYNFQ3VElEbnZkbUNGNk01UWJCdW9najhrSGcxLXBGZU1vZFM0VzNCSE1NQnRWSVFzRGhUUEhwOGpoQ2g0a2g0NU4yZHRTeHBwN19XWF96UlFTYw?oc=5",
+      "dot_color": "#e74c3c",
+      "badge_txt": "CIERRE TOTAL",
+      "lat": 20.1,
+      "lon": -99.5
     },
     {
       "id": "16242052",
@@ -169,19 +152,6 @@
       "badge_txt": "BLOQUEO",
       "lat": 19.35,
       "lon": -98.4
-    },
-    {
-      "id": "5162558a",
-      "tipo": "cierre_parcial",
-      "ruta": "🚘 💥 ¿Vas a #TenangoDelValle ? Accid3nt3 complica la circulación…",
-      "descripcion": "🚘 💥 ¿Vas a #TenangoDelValle ? Accid3nt3 complica la circulación desde #Mexicalzingo 👇\n\nhttps://lajornadaestadodemexico.com/accidente-en-la-toluca-tenango-2-octubre/",
-      "fecha": "2 octubre 2026 · 07:54 CST",
-      "fuente": "Telegram @jornadaedomex",
-      "url": "https://t.me/jornadaedomex/12260",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.29,
-      "lon": -99.66
     }
   ]
 }
