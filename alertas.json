@@ -1,12 +1,39 @@
 {
-  "ultima_actualizacion": "2026-10-04T13:14:28.564635-06:00",
-  "ultima_actualizacion_legible": "4 de octubre de 2026 · 13:14 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-10-04T16:20:46.028999-06:00",
+  "ultima_actualizacion_legible": "4 de octubre de 2026 · 16:20 CST",
+  "total": 3,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
+    "Medios regionales",
+    "Quadratin + regionales",
     "Telegram"
   ],
   "grupos": [
+    {
+      "tipo": "cierre_total",
+      "color": "rojo",
+      "icono": "🔴",
+      "label": "CIERRE TOTAL",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "db416217",
+          "tipo": "cierre_total",
+          "ruta": "Muere hombre tras choque y volcadura en la México-Toluca…",
+          "descripcion": "Muere hombre tras choque y volcadura en la México-Toluca. Un Mazda 3 y una camioneta Ford Ranger estuvieron involucrados en el accidente ocurrido sobre la carretera libre, a la altura de la Hacienda del Pariá",
+          "recomendacion": "",
+          "fecha": "4 octubre 2026 · 14:00 CST",
+          "fecha_iso": "2026-10-04T14:00:00-06:00",
+          "fuente": "Quadratin EdoMex",
+          "url": "https://edomex.quadratin.com.mx/muere-hombre-tras-choque-y-volcadura-en-la-mexico-toluca/",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL",
+          "lat": 19.29,
+          "lon": -99.66
+        }
+      ]
+    },
     {
       "tipo": "cierre_parcial",
       "color": "amarillo",
@@ -14,6 +41,20 @@
       "label": "CIERRE PARCIAL / ACCIDENTES",
       "col2": true,
       "alertas": [
+        {
+          "id": "97ac6acb",
+          "tipo": "cierre_parcial",
+          "ruta": "carretera Pénjamo-Viborillas",
+          "descripcion": "Mueren dos jóvenes tras choque de motocicletas en carretera Pénjamo-Viborillas. Choque frontal entre dos motos en Pénjamo deja dos muertos sobre la carretera a Viborillas. Fiscalía investiga la mecánica del accidente.",
+          "recomendacion": "",
+          "fecha": "4 octubre 2026 · 13:46 CST",
+          "fecha_iso": "2026-10-04T13:46:00-06:00",
+          "fuente": "AM Guanajuato",
+          "url": "https://www.am.com.mx/guanajuato-sur/2026/10/04/mueren-dos-jovenes-tras-choque-de-motocicletas-en-carretera-penjamo-viborillas-1851536.html",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        },
         {
           "id": "001f86db",
           "tipo": "cierre_parcial",
@@ -34,6 +75,19 @@
     }
   ],
   "para_mapa": [
+    {
+      "id": "db416217",
+      "tipo": "cierre_total",
+      "ruta": "Muere hombre tras choque y volcadura en la México-Toluca…",
+      "descripcion": "Muere hombre tras choque y volcadura en la México-Toluca. Un Mazda 3 y una camioneta Ford Ranger estuvieron involucrados en el accidente ocurrido sobre la carretera libre, a la altura de la Hacienda del Pariá",
+      "fecha": "4 octubre 2026 · 14:00 CST",
+      "fuente": "Quadratin EdoMex",
+      "url": "https://edomex.quadratin.com.mx/muere-hombre-tras-choque-y-volcadura-en-la-mexico-toluca/",
+      "dot_color": "#e74c3c",
+      "badge_txt": "CIERRE TOTAL",
+      "lat": 19.29,
+      "lon": -99.66
+    },
     {
       "id": "001f86db",
       "tipo": "cierre_parcial",
