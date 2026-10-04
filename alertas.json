@@ -1,13 +1,37 @@
 {
-  "ultima_actualizacion": "2026-10-03T18:02:31.253139-06:00",
-  "ultima_actualizacion_legible": "3 de octubre de 2026 · 18:02 CST",
+  "ultima_actualizacion": "2026-10-03T23:47:23.432149-06:00",
+  "ultima_actualizacion_legible": "3 de octubre de 2026 · 23:47 CST",
   "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Medios regionales",
     "Quadratin + regionales"
   ],
   "grupos": [
+    {
+      "tipo": "bloqueo",
+      "color": "rojo",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "306c3c87",
+          "tipo": "bloqueo",
+          "ruta": "carretera en Atotonilco",
+          "descripcion": "Exhuman 2 cuerpos para Casas del Bienestar y vecinos bloquean carretera en Atotonilco. ATOTONILCO DE TULA, Hgo. 3 de octubre de 2026.- La exhumación de dos cuerpos, realizada por disposición del gobierno municipal para dar paso al proyecto de Casas del Bienestar, generó el rechazo de habitantes de Cañada, quienes realizaron un bloqueo en la carretera Tula-Jorobas para exigir explicaciones sobre una intervención que, además, involucra un proyecto […] The post Exhuman 2 cuerpos para Casas del Bien",
+          "recomendacion": "",
+          "fecha": "3 octubre 2026 · 20:59 CST",
+          "fecha_iso": "2026-10-03T20:59:00-06:00",
+          "fuente": "Quadratin Hidalgo",
+          "url": "https://hidalgo.quadratin.com.mx/principal/exhuman-2-cuerpos-para-casas-del-bienestar-y-vecinos-bloquean-carretera-en-atotonilco/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 20.11,
+          "lon": -98.73
+        }
+      ]
+    },
     {
       "tipo": "cierre_parcial",
       "color": "amarillo",
@@ -15,22 +39,6 @@
       "label": "CIERRE PARCIAL / ACCIDENTES",
       "col2": true,
       "alertas": [
-        {
-          "id": "cace7e2f",
-          "tipo": "cierre_parcial",
-          "ruta": "Cierres viales en Guadalajara este domingo: consulta las calles afectadas…",
-          "descripcion": "Cierres viales en Guadalajara este domingo: consulta las calles afectadas. Un evento deportivo provocará restricciones a la circulación en la zona poniente de la ciudad",
-          "recomendacion": "",
-          "fecha": "3 octubre 2026 · 14:15 CST",
-          "fecha_iso": "2026-10-03T14:15:00-06:00",
-          "fuente": "El Informador Jalisco",
-          "url": "https://www.informador.mx/jalisco/cierres-viales-en-guadalajara-este-domingo-4-de-octubre-consulta-las-calles-afectadas-20261003-0075.html",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 20.66,
-          "lon": -103.35
-        },
         {
           "id": "f8802c24",
           "tipo": "cierre_parcial",
@@ -50,17 +58,17 @@
   ],
   "para_mapa": [
     {
-      "id": "cace7e2f",
-      "tipo": "cierre_parcial",
-      "ruta": "Cierres viales en Guadalajara este domingo: consulta las calles afectadas…",
-      "descripcion": "Cierres viales en Guadalajara este domingo: consulta las calles afectadas. Un evento deportivo provocará restricciones a la circulación en la zona poniente de la ciudad",
-      "fecha": "3 octubre 2026 · 14:15 CST",
-      "fuente": "El Informador Jalisco",
-      "url": "https://www.informador.mx/jalisco/cierres-viales-en-guadalajara-este-domingo-4-de-octubre-consulta-las-calles-afectadas-20261003-0075.html",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 20.66,
-      "lon": -103.35
+      "id": "306c3c87",
+      "tipo": "bloqueo",
+      "ruta": "carretera en Atotonilco",
+      "descripcion": "Exhuman 2 cuerpos para Casas del Bienestar y vecinos bloquean carretera en Atotonilco. ATOTONILCO DE TULA, Hgo. 3 de octubre de 2026.- La exhumación de dos cuerpos, realizada por disposición del gobierno municipal para dar paso al proyecto de Casas del Bienestar, generó el rechazo de habitantes de Cañada, quienes realizaron un bloqueo en la carretera Tula-Jorobas para exigir explicaciones sobre una intervención que, además, involucra un proyecto […] The post Exhuman 2 cuerpos para Casas del Bien",
+      "fecha": "3 octubre 2026 · 20:59 CST",
+      "fuente": "Quadratin Hidalgo",
+      "url": "https://hidalgo.quadratin.com.mx/principal/exhuman-2-cuerpos-para-casas-del-bienestar-y-vecinos-bloquean-carretera-en-atotonilco/",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 20.11,
+      "lon": -98.73
     }
   ]
 }
