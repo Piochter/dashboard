@@ -1,9 +1,11 @@
 {
-  "ultima_actualizacion": "2026-10-05T00:59:38.516643-06:00",
-  "ultima_actualizacion_legible": "5 de octubre de 2026 · 00:59 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-10-05T09:36:33.977653-06:00",
+  "ultima_actualizacion_legible": "5 de octubre de 2026 · 09:36 CST",
+  "total": 7,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
+    "Medios nacionales",
+    "Medios regionales",
     "Quadratin + regionales"
   ],
   "grupos": [
@@ -15,37 +17,184 @@
       "col2": false,
       "alertas": [
         {
-          "id": "3b53da85",
+          "id": "c4955d8b",
           "tipo": "cierre_total",
-          "ruta": "Deja daños materiales volcadura de camioneta en Putla…",
-          "descripcion": "Deja daños materiales volcadura de camioneta en Putla. El hecho ocurrió en el kilómetro 158 de la carretera federal 125, en La Muralla.",
+          "ruta": "carretera Salvatierra-Celaya",
+          "descripcion": "Fallece el médico Ángel Iván Aguillón en accidente en la carretera Salvatierra-Celaya. Un médico de Tarimoro murió tras sufrir una volcadura en la carretera Salvatierra-Celaya. Autoridades investigan las causas del accidente.",
           "recomendacion": "",
-          "fecha": "4 octubre 2026 · 16:53 CST",
-          "fecha_iso": "2026-10-04T16:53:00-06:00",
-          "fuente": "Quadratin Oaxaca",
-          "url": "https://oaxaca.quadratin.com.mx/deja-danos-materiales-volcadura-de-camioneta-en-putla/",
+          "fecha": "5 octubre 2026 · 09:22 CST",
+          "fecha_iso": "2026-10-05T09:22:00-06:00",
+          "fuente": "AM Guanajuato",
+          "url": "https://www.am.com.mx/guanajuato-sur/2026/10/05/fallece-el-medico-angel-ivan-aguillon-en-accidente-en-la-carretera-salvatierra-celaya-1851763.html",
           "dot_color": "#e74c3c",
           "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL",
-          "lat": 21.0,
-          "lon": -104.0
+          "badge_txt": "CIERRE TOTAL"
+        }
+      ]
+    },
+    {
+      "tipo": "bloqueo",
+      "color": "rojo",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "f42aa98a",
+          "tipo": "bloqueo",
+          "ruta": "Embajador de EU reporta \"disparos\" contra elementos de Guardia Costera…",
+          "descripcion": "Embajador de EU reporta \"disparos\" contra elementos de Guardia Costera en la frontera. La Defensa indicó que desplegó 500 efectivos del Ejército y Guardia Nacional para apoyar en la frontera de Tamaulipas",
+          "recomendacion": "",
+          "fecha": "5 octubre 2026 · 08:09 CST",
+          "fecha_iso": "2026-10-05T08:09:00-06:00",
+          "fuente": "24 Horas",
+          "url": "https://24-horas.mx/mexico/embajador-de-eu-reporta-disparos-contra-elementos-de-guardia-costera-en-la-frontera/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 24.26,
+          "lon": -98.84
+        },
+        {
+          "id": "eed4329d",
+          "tipo": "bloqueo",
+          "ruta": "Transporte de hidrocarburos: mantener la ruta segura, el desafío para…",
+          "descripcion": "Transporte de hidrocarburos: mantener la ruta segura, el desafío para evitar siniestros. Es de madrugada en una carretera mexicana. Un tractocamión transporta combustible. De pronto, el operador nota una falla, un bloqueo, una vibración extraña. Lo que haga en los siguientes minutos puede marcar la diferencia entre un contratiempo y una tragedia. Esta escena hipotética es reconocible para quien vive el sector y muestra que en el […]",
+          "recomendacion": "evitar siniestros",
+          "fecha": "5 octubre 2026 · 07:10 CST",
+          "fecha_iso": "2026-10-05T07:10:00-06:00",
+          "fuente": "T21 Transporte",
+          "url": "https://t21.com.mx/transporte-de-hidrocarburos-mantener-la-ruta-segura-el-desafio-para-evitar-siniestros/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        }
+      ]
+    },
+    {
+      "tipo": "cierre_parcial",
+      "color": "amarillo",
+      "icono": "🟡",
+      "label": "CIERRE PARCIAL / ACCIDENTES",
+      "col2": true,
+      "alertas": [
+        {
+          "id": "f7123eb2",
+          "tipo": "cierre_parcial",
+          "ruta": "Provoca accidente reducción de carriles en la Lerma-Tenango…",
+          "descripcion": "Provoca accidente reducción de carriles en la Lerma-Tenango. Servicios de emergencia acudieron al inicio de la autopista; se reportó circulación lenta durante las maniobras de atención.",
+          "recomendacion": "",
+          "fecha": "5 octubre 2026 · 09:00 CST",
+          "fecha_iso": "2026-10-05T09:00:00-06:00",
+          "fuente": "Quadratin EdoMex",
+          "url": "https://edomex.quadratin.com.mx/provoca-accidente-reduccion-de-carriles-en-la-lerma-tenango/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        },
+        {
+          "id": "40530af5",
+          "tipo": "cierre_parcial",
+          "ruta": "Cateo en San Luis Potosí: aseguran inhibidores, vehículos y mercancía…",
+          "descripcion": "Cateo en San Luis Potosí: aseguran inhibidores, vehículos y mercancía vinculada al robo a transportistas. Aseguran inhibidores, armas, vehículos y mercancía en operativo contra el robo a transportistas en San Luis Potosí.",
+          "recomendacion": "",
+          "fecha": "5 octubre 2026 · 08:45 CST",
+          "fecha_iso": "2026-10-05T08:45:00-06:00",
+          "fuente": "24 Horas",
+          "url": "https://24-horas.mx/mexico/cateo-en-san-luis-potosi-aseguran-inhibidores-vehiculos-y-mercancia-vinculada-al-robo-a-transportistas/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 22.15,
+          "lon": -100.97
+        },
+        {
+          "id": "eb8a4dfe",
+          "tipo": "cierre_parcial",
+          "ruta": "Reportan cateo en inmueble presuntamente dedicado al robo del autotransporte…",
+          "descripcion": "Reportan cateo en inmueble presuntamente dedicado al robo del autotransporte. García Harfuch detalló que los presuntos operadores mantendrían actividades ilegales en la Carretera Federal 57",
+          "recomendacion": "",
+          "fecha": "5 octubre 2026 · 08:22 CST",
+          "fecha_iso": "2026-10-05T08:22:00-06:00",
+          "fuente": "El Informador Jalisco",
+          "url": "https://www.informador.mx/mexico/harfuch-reporta-cateo-en-inmueble-de-san-luis-potosi-presuntamente-dedicado-al-robo-del-autotransporte-20261005-0041.html",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 21.5,
+          "lon": -100.0
+        },
+        {
+          "id": "ffe4a2c3",
+          "tipo": "cierre_parcial",
+          "ruta": "Caen 9 vinculados a robo al autotransporte federal en la…",
+          "descripcion": "Caen 9 vinculados a robo al autotransporte federal en la 57. Se aseguraron 30 inhibidores de señal, 359 antenas inhibidoras, un arma larga",
+          "recomendacion": "",
+          "fecha": "5 octubre 2026 · 08:06 CST",
+          "fecha_iso": "2026-10-05T08:06:00-06:00",
+          "fuente": "Quadratin Tabasco",
+          "url": "https://tabasco.quadratin.com.mx/justicia/caen-9-vinculados-a-robo-al-autotransporte-federal-en-la-57/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 21.5,
+          "lon": -100.0
         }
       ]
     }
   ],
   "para_mapa": [
     {
-      "id": "3b53da85",
-      "tipo": "cierre_total",
-      "ruta": "Deja daños materiales volcadura de camioneta en Putla…",
-      "descripcion": "Deja daños materiales volcadura de camioneta en Putla. El hecho ocurrió en el kilómetro 158 de la carretera federal 125, en La Muralla.",
-      "fecha": "4 octubre 2026 · 16:53 CST",
-      "fuente": "Quadratin Oaxaca",
-      "url": "https://oaxaca.quadratin.com.mx/deja-danos-materiales-volcadura-de-camioneta-en-putla/",
-      "dot_color": "#e74c3c",
-      "badge_txt": "CIERRE TOTAL",
-      "lat": 21.0,
-      "lon": -104.0
+      "id": "40530af5",
+      "tipo": "cierre_parcial",
+      "ruta": "Cateo en San Luis Potosí: aseguran inhibidores, vehículos y mercancía…",
+      "descripcion": "Cateo en San Luis Potosí: aseguran inhibidores, vehículos y mercancía vinculada al robo a transportistas. Aseguran inhibidores, armas, vehículos y mercancía en operativo contra el robo a transportistas en San Luis Potosí.",
+      "fecha": "5 octubre 2026 · 08:45 CST",
+      "fuente": "24 Horas",
+      "url": "https://24-horas.mx/mexico/cateo-en-san-luis-potosi-aseguran-inhibidores-vehiculos-y-mercancia-vinculada-al-robo-a-transportistas/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 22.15,
+      "lon": -100.97
+    },
+    {
+      "id": "eb8a4dfe",
+      "tipo": "cierre_parcial",
+      "ruta": "Reportan cateo en inmueble presuntamente dedicado al robo del autotransporte…",
+      "descripcion": "Reportan cateo en inmueble presuntamente dedicado al robo del autotransporte. García Harfuch detalló que los presuntos operadores mantendrían actividades ilegales en la Carretera Federal 57",
+      "fecha": "5 octubre 2026 · 08:22 CST",
+      "fuente": "El Informador Jalisco",
+      "url": "https://www.informador.mx/mexico/harfuch-reporta-cateo-en-inmueble-de-san-luis-potosi-presuntamente-dedicado-al-robo-del-autotransporte-20261005-0041.html",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 21.5,
+      "lon": -100.0
+    },
+    {
+      "id": "f42aa98a",
+      "tipo": "bloqueo",
+      "ruta": "Embajador de EU reporta \"disparos\" contra elementos de Guardia Costera…",
+      "descripcion": "Embajador de EU reporta \"disparos\" contra elementos de Guardia Costera en la frontera. La Defensa indicó que desplegó 500 efectivos del Ejército y Guardia Nacional para apoyar en la frontera de Tamaulipas",
+      "fecha": "5 octubre 2026 · 08:09 CST",
+      "fuente": "24 Horas",
+      "url": "https://24-horas.mx/mexico/embajador-de-eu-reporta-disparos-contra-elementos-de-guardia-costera-en-la-frontera/",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 24.26,
+      "lon": -98.84
+    },
+    {
+      "id": "ffe4a2c3",
+      "tipo": "cierre_parcial",
+      "ruta": "Caen 9 vinculados a robo al autotransporte federal en la…",
+      "descripcion": "Caen 9 vinculados a robo al autotransporte federal en la 57. Se aseguraron 30 inhibidores de señal, 359 antenas inhibidoras, un arma larga",
+      "fecha": "5 octubre 2026 · 08:06 CST",
+      "fuente": "Quadratin Tabasco",
+      "url": "https://tabasco.quadratin.com.mx/justicia/caen-9-vinculados-a-robo-al-autotransporte-federal-en-la-57/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 21.5,
+      "lon": -100.0
     }
   ]
 }
