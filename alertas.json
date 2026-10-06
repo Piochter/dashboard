@@ -1,10 +1,11 @@
 {
-  "ultima_actualizacion": "2026-10-06T09:55:19.233274-06:00",
-  "ultima_actualizacion_legible": "6 de octubre de 2026 · 09:55 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-10-06T14:40:22.161604-06:00",
+  "ultima_actualizacion_legible": "6 de octubre de 2026 · 14:40 CST",
+  "total": 3,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Medios nacionales",
+    "Quadratin + regionales",
     "Telegram"
   ],
   "grupos": [
@@ -15,6 +16,20 @@
       "label": "BLOQUEOS / MANIFESTACIONES",
       "col2": false,
       "alertas": [
+        {
+          "id": "cccae045",
+          "tipo": "bloqueo",
+          "ruta": "Maestros de La Concordia redoblan protesta con bloqueo de la…",
+          "descripcion": "Maestros de La Concordia redoblan protesta con bloqueo de la carretera. Mientras el bloqueo continúa, las niñas y los niños de la zona siguen sin recibir clases.",
+          "recomendacion": "",
+          "fecha": "6 octubre 2026 · 14:35 CST",
+          "fecha_iso": "2026-10-06T14:35:00-06:00",
+          "fuente": "Quadratin Chiapas",
+          "url": "https://chiapas.quadratin.com.mx/sucesos/maestros-de-la-concordia-redoblan-protesta-con-bloqueo-de-la-carretera/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
         {
           "id": "8593cc7c",
           "tipo": "bloqueo",
