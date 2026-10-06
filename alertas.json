@@ -1,51 +1,50 @@
 {
-  "ultima_actualizacion": "2026-10-06T03:10:06.524034-06:00",
-  "ultima_actualizacion_legible": "6 de octubre de 2026 · 03:10 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-10-06T09:55:19.233274-06:00",
+  "ultima_actualizacion_legible": "6 de octubre de 2026 · 09:55 CST",
+  "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Medios nacionales"
+    "Medios nacionales",
+    "Telegram"
   ],
   "grupos": [
     {
-      "tipo": "cierre_parcial",
-      "color": "amarillo",
-      "icono": "🟡",
-      "label": "CIERRE PARCIAL / ACCIDENTES",
-      "col2": true,
+      "tipo": "bloqueo",
+      "color": "rojo",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
+      "col2": false,
       "alertas": [
         {
-          "id": "5de16f6d",
-          "tipo": "cierre_parcial",
-          "ruta": "Otro “golpe” al robo de autotransporte de carga; caen 9…",
-          "descripcion": "Otro “golpe” al robo de autotransporte de carga; caen 9 personas con inhibidores de señal en SLP. El robo al autotransporte de carga volvió a colocarse este lunes 5 de octubre en el centro de un operativo federal, ahora en San Luis Potosí, donde nueve personas fueron detenidas y las autoridades aseguraron armas, vehículos, mercancía y equipo utilizado para inhibir señales. El operativo adquiere relevancia para el sector porque ocurrió en torno […]",
+          "id": "8593cc7c",
+          "tipo": "bloqueo",
+          "ruta": "Corte no atraerá amparos por calles cerradas en Avándaro https://www.jornada.com.mx/2026/10/06/estados/024n4est?partner=rss…",
+          "descripcion": "Corte no atraerá amparos por calles cerradas en Avándaro\nhttps://www.jornada.com.mx/2026/10/06/estados/024n4est?partner=rss\n\nLa Suprema Corte de Justicia de la Nación (SCJN) rechazó ayer atraer un caso relacionado con el libre tránsito en una vialidad pública de la zona residencial de Avándaro, en Valle de Bravo, cerrada por particulares, luego de que la ministra Loretta Ortiz Ahlf cambió su voto de último momento.",
           "recomendacion": "",
-          "fecha": "5 octubre 2026 · 16:53 CST",
-          "fecha_iso": "2026-10-05T16:53:00-06:00",
-          "fuente": "T21 Transporte",
-          "url": "https://t21.com.mx/otro-golpe-al-robo-de-autotransporte-de-carga-caen-9-personas-con-inhibidores-de-senal-en-slp/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 22.15,
-          "lon": -100.97
+          "fecha": "6 octubre 2026 · 08:37 CST",
+          "fecha_iso": "2026-10-06T08:37:00-06:00",
+          "fuente": "Telegram @NOTMEX",
+          "url": "https://t.me/NOTMEX/186422",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
+        {
+          "id": "89b5407b",
+          "tipo": "bloqueo",
+          "ruta": "Corte no atraerá amparos por calles cerradas en Avándaro…",
+          "descripcion": "Corte no atraerá amparos por calles cerradas en Avándaro. La Suprema Corte de Justicia de la Nación (SCJN) rechazó ayer atraer un caso relacionado con el libre tránsito en una vialidad pública de la zona residencial de Avándaro, en Valle de Bravo, cerrada por particulares, luego de que la ministra Loretta Ortiz Ahlf cambió su voto de último momento.",
+          "recomendacion": "",
+          "fecha": "6 octubre 2026 · 02:49 CST",
+          "fecha_iso": "2026-10-06T02:49:00-06:00",
+          "fuente": "La Jornada Estados",
+          "url": "https://www.jornada.com.mx/2026/10/06/estados/024n4est?partner=rss",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
         }
       ]
     }
   ],
-  "para_mapa": [
-    {
-      "id": "5de16f6d",
-      "tipo": "cierre_parcial",
-      "ruta": "Otro “golpe” al robo de autotransporte de carga; caen 9…",
-      "descripcion": "Otro “golpe” al robo de autotransporte de carga; caen 9 personas con inhibidores de señal en SLP. El robo al autotransporte de carga volvió a colocarse este lunes 5 de octubre en el centro de un operativo federal, ahora en San Luis Potosí, donde nueve personas fueron detenidas y las autoridades aseguraron armas, vehículos, mercancía y equipo utilizado para inhibir señales. El operativo adquiere relevancia para el sector porque ocurrió en torno […]",
-      "fecha": "5 octubre 2026 · 16:53 CST",
-      "fuente": "T21 Transporte",
-      "url": "https://t21.com.mx/otro-golpe-al-robo-de-autotransporte-de-carga-caen-9-personas-con-inhibidores-de-senal-en-slp/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 22.15,
-      "lon": -100.97
-    }
-  ]
+  "para_mapa": []
 }
