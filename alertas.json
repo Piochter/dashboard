@@ -1,53 +1,12 @@
 {
-  "ultima_actualizacion": "2026-10-05T20:17:23.214728-06:00",
-  "ultima_actualizacion_legible": "5 de octubre de 2026 · 20:17 CST",
-  "total": 4,
+  "ultima_actualizacion": "2026-10-06T03:10:06.524034-06:00",
+  "ultima_actualizacion_legible": "6 de octubre de 2026 · 03:10 CST",
+  "total": 1,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Medios nacionales",
-    "Medios regionales",
-    "Quadratin + regionales"
+    "Medios nacionales"
   ],
   "grupos": [
-    {
-      "tipo": "bloqueo",
-      "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "ac470630",
-          "tipo": "bloqueo",
-          "ruta": "Protestan por mala calidad del agua; cierran vialidades en el…",
-          "descripcion": "Protestan por mala calidad del agua; cierran vialidades en el AMG. La mañana de este lunes se llevaron a cado tres manifestaciones debido a que el agua potable sale con color turbio, residuos y malos olores",
-          "recomendacion": "",
-          "fecha": "5 octubre 2026 · 18:55 CST",
-          "fecha_iso": "2026-10-05T18:55:00-06:00",
-          "fuente": "El Informador Jalisco",
-          "url": "https://www.informador.mx/jalisco/siap-protestan-por-mala-calidad-del-agua-cierran-vialidades-en-el-amg-20261005-0155.html",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        },
-        {
-          "id": "82a99a68",
-          "tipo": "bloqueo",
-          "ruta": "Desquician maestros tránsito en Oaxaca con bloqueos…",
-          "descripcion": "Desquician maestros tránsito en Oaxaca con bloqueos. De acuerdo con el reporte de la corporación, después de la marcha los manifestantes cerraron la carretera",
-          "recomendacion": "",
-          "fecha": "5 octubre 2026 · 12:09 CST",
-          "fecha_iso": "2026-10-05T12:09:00-06:00",
-          "fuente": "Quadratin Oaxaca",
-          "url": "https://oaxaca.quadratin.com.mx/desquician-maestros-transito-en-oaxaca-con-bloqueos/",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 17.06,
-          "lon": -96.72
-        }
-      ]
-    },
     {
       "tipo": "cierre_parcial",
       "color": "amarillo",
@@ -70,22 +29,6 @@
           "badge_txt": "CIERRE PARCIAL",
           "lat": 22.15,
           "lon": -100.97
-        },
-        {
-          "id": "bd1e5110",
-          "tipo": "cierre_parcial",
-          "ruta": "Fuertes lluvias afectan carreteras y viviendas en 10 municipios de…",
-          "descripcion": "Fuertes lluvias afectan carreteras y viviendas en 10 municipios de Puebla. Inundaciones provocaron cierre parcial de avenidas en la entidad.",
-          "recomendacion": "",
-          "fecha": "5 octubre 2026 · 12:22 CST",
-          "fecha_iso": "2026-10-05T12:22:00-06:00",
-          "fuente": "24 Horas",
-          "url": "https://24-horas.mx/mexico/politica/gobernadores/puebla/fuertes-lluvias-afectan-carreteras-y-viviendas-en-10-municipios-de-puebla/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.04,
-          "lon": -98.2
         }
       ]
     }
@@ -103,32 +46,6 @@
       "badge_txt": "CIERRE PARCIAL",
       "lat": 22.15,
       "lon": -100.97
-    },
-    {
-      "id": "bd1e5110",
-      "tipo": "cierre_parcial",
-      "ruta": "Fuertes lluvias afectan carreteras y viviendas en 10 municipios de…",
-      "descripcion": "Fuertes lluvias afectan carreteras y viviendas en 10 municipios de Puebla. Inundaciones provocaron cierre parcial de avenidas en la entidad.",
-      "fecha": "5 octubre 2026 · 12:22 CST",
-      "fuente": "24 Horas",
-      "url": "https://24-horas.mx/mexico/politica/gobernadores/puebla/fuertes-lluvias-afectan-carreteras-y-viviendas-en-10-municipios-de-puebla/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.04,
-      "lon": -98.2
-    },
-    {
-      "id": "82a99a68",
-      "tipo": "bloqueo",
-      "ruta": "Desquician maestros tránsito en Oaxaca con bloqueos…",
-      "descripcion": "Desquician maestros tránsito en Oaxaca con bloqueos. De acuerdo con el reporte de la corporación, después de la marcha los manifestantes cerraron la carretera",
-      "fecha": "5 octubre 2026 · 12:09 CST",
-      "fuente": "Quadratin Oaxaca",
-      "url": "https://oaxaca.quadratin.com.mx/desquician-maestros-transito-en-oaxaca-con-bloqueos/",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 17.06,
-      "lon": -96.72
     }
   ]
 }
