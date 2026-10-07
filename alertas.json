@@ -1,9 +1,11 @@
 {
-  "ultima_actualizacion": "2026-10-07T06:19:38.157405-06:00",
-  "ultima_actualizacion_legible": "7 de octubre de 2026 · 06:19 CST",
+  "ultima_actualizacion": "2026-10-07T13:01:20.692426-06:00",
+  "ultima_actualizacion_legible": "7 de octubre de 2026 · 13:01 CST",
   "total": 3,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
+    "Medios nacionales",
+    "Medios regionales",
     "Quadratin + regionales"
   ],
   "grupos": [
@@ -15,20 +17,18 @@
       "col2": false,
       "alertas": [
         {
-          "id": "e395cf03",
+          "id": "66649d17",
           "tipo": "bloqueo",
-          "ruta": "Liberan vialidades después de más de 11 horas de bloqueos…",
-          "descripcion": "Liberan vialidades después de más de 11 horas de bloqueos en Oaxaca. Educación Indígena cerrará este miércoles su paro de 72 horas en Oaxaca",
+          "ruta": "Marchas y manifestaciones este miércoles 7 de octubre: calles y…",
+          "descripcion": "Marchas y manifestaciones este miércoles 7 de octubre: calles y vialidades cerradas. Este miércoles 7 de octubre diversos colectivos y organizaciones prevén realizar una marcha en pro del pueblo palestino y diversas concentraciones que se llevarán a cabo diversos puntos de la Ciudad de México con el objetivo de exigir que se cumplan sus demandas. Se trata de alrededor de 8 concentraciones, 1 marcha, 8 citas de […]",
           "recomendacion": "",
-          "fecha": "6 octubre 2026 · 21:50 CST",
-          "fecha_iso": "2026-10-06T21:50:00-06:00",
-          "fuente": "Quadratin Oaxaca",
-          "url": "https://oaxaca.quadratin.com.mx/liberan-vialidades-despues-de-mas-de-11-horas-de-bloqueos-en-oaxaca/",
+          "fecha": "7 octubre 2026 · 07:33 CST",
+          "fecha_iso": "2026-10-07T07:33:00-06:00",
+          "fuente": "24 Horas",
+          "url": "https://24-horas.mx/cdmx/marchas-y-manifestaciones-este-miercoles-7-de-octubre/",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 17.06,
-          "lon": -96.72
+          "badge_txt": "BLOQUEO"
         }
       ]
     },
@@ -40,31 +40,29 @@
       "col2": true,
       "alertas": [
         {
-          "id": "6e2de1e6",
+          "id": "71d3f78d",
           "tipo": "cierre_parcial",
-          "ruta": "Alcaldía de Xalapa informa de cierre del puente peatonal de…",
-          "descripcion": "Alcaldía de Xalapa informa de cierre del puente peatonal de Los Lagos. Exhortan a usuarios a tomar vías alternas por cierre temporal de la circulación peatonal",
+          "ruta": "Muere agente municipal de Xocotla en accidente…",
+          "descripcion": "Muere agente municipal de Xocotla en accidente. Su camioneta salió de la carretera Chocamán-Xocotla y cayó a un barranco",
           "recomendacion": "",
-          "fecha": "6 octubre 2026 · 21:52 CST",
-          "fecha_iso": "2026-10-06T21:52:00-06:00",
+          "fecha": "7 octubre 2026 · 11:31 CST",
+          "fecha_iso": "2026-10-07T11:31:00-06:00",
           "fuente": "Quadratin Veracruz",
-          "url": "https://veracruz.quadratin.com.mx/alcaldia-de-xalapa-informa-de-cierre-del-puente-peatonal-de-los-lagos/",
+          "url": "https://veracruz.quadratin.com.mx/muere-agente-municipal-de-xocotla-en-accidente/",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.53,
-          "lon": -96.91
+          "badge_txt": "CIERRE PARCIAL"
         },
         {
-          "id": "9c189051",
+          "id": "b94d5504",
           "tipo": "cierre_parcial",
-          "ruta": "Fuerte choque entre camión de volteo y auto deja 3…",
-          "descripcion": "Fuerte choque entre camión de volteo y auto deja 3 lesionados en Petatlán. El hecho ocurre en el tramo carretero Miyagua-Palos Blancos",
+          "ruta": "carretera a El Derramadero",
+          "descripcion": "Uriangato: Motociclista pierde la vida al derrapar en la carretera a El Derramadero. Un motociclista de entre 30 y 35 años murió tras derrapar en la carretera Uriangato-El Derramadero. Fiscalía investiga las causas del percance.",
           "recomendacion": "",
-          "fecha": "6 octubre 2026 · 21:21 CST",
-          "fecha_iso": "2026-10-06T21:21:00-06:00",
-          "fuente": "Quadratin Guerrero",
-          "url": "https://guerrero.quadratin.com.mx/fuerte-choque-entre-camion-de-volteo-y-auto-deja-3-lesionados-en-petatlan/",
+          "fecha": "7 octubre 2026 · 08:28 CST",
+          "fecha_iso": "2026-10-07T08:28:00-06:00",
+          "fuente": "AM Guanajuato",
+          "url": "https://www.am.com.mx/guanajuato-sur/2026/10/07/uriangato-motociclista-pierde-la-vida-al-derrapar-en-la-carretera-a-el-derramadero-1852386.html",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL"
@@ -72,32 +70,5 @@
       ]
     }
   ],
-  "para_mapa": [
-    {
-      "id": "6e2de1e6",
-      "tipo": "cierre_parcial",
-      "ruta": "Alcaldía de Xalapa informa de cierre del puente peatonal de…",
-      "descripcion": "Alcaldía de Xalapa informa de cierre del puente peatonal de Los Lagos. Exhortan a usuarios a tomar vías alternas por cierre temporal de la circulación peatonal",
-      "fecha": "6 octubre 2026 · 21:52 CST",
-      "fuente": "Quadratin Veracruz",
-      "url": "https://veracruz.quadratin.com.mx/alcaldia-de-xalapa-informa-de-cierre-del-puente-peatonal-de-los-lagos/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.53,
-      "lon": -96.91
-    },
-    {
-      "id": "e395cf03",
-      "tipo": "bloqueo",
-      "ruta": "Liberan vialidades después de más de 11 horas de bloqueos…",
-      "descripcion": "Liberan vialidades después de más de 11 horas de bloqueos en Oaxaca. Educación Indígena cerrará este miércoles su paro de 72 horas en Oaxaca",
-      "fecha": "6 octubre 2026 · 21:50 CST",
-      "fuente": "Quadratin Oaxaca",
-      "url": "https://oaxaca.quadratin.com.mx/liberan-vialidades-despues-de-mas-de-11-horas-de-bloqueos-en-oaxaca/",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 17.06,
-      "lon": -96.72
-    }
-  ]
+  "para_mapa": []
 }
