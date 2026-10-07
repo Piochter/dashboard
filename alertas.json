@@ -1,10 +1,10 @@
 {
-  "ultima_actualizacion": "2026-10-06T18:08:12.016500-06:00",
-  "ultima_actualizacion_legible": "6 de octubre de 2026 · 18:08 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-10-06T23:53:10.616901-06:00",
+  "ultima_actualizacion_legible": "6 de octubre de 2026 · 23:53 CST",
+  "total": 3,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Telegram"
+    "Quadratin + regionales"
   ],
   "grupos": [
     {
@@ -15,21 +15,89 @@
       "col2": false,
       "alertas": [
         {
-          "id": "8593cc7c",
+          "id": "e395cf03",
           "tipo": "bloqueo",
-          "ruta": "Corte no atraerá amparos por calles cerradas en Avándaro https://www.jornada.com.mx/2026/10/06/estados/024n4est?partner=rss…",
-          "descripcion": "Corte no atraerá amparos por calles cerradas en Avándaro\nhttps://www.jornada.com.mx/2026/10/06/estados/024n4est?partner=rss\n\nLa Suprema Corte de Justicia de la Nación (SCJN) rechazó ayer atraer un caso relacionado con el libre tránsito en una vialidad pública de la zona residencial de Avándaro, en Valle de Bravo, cerrada por particulares, luego de que la ministra Loretta Ortiz Ahlf cambió su voto de último momento.",
+          "ruta": "Liberan vialidades después de más de 11 horas de bloqueos…",
+          "descripcion": "Liberan vialidades después de más de 11 horas de bloqueos en Oaxaca. Educación Indígena cerrará este miércoles su paro de 72 horas en Oaxaca",
           "recomendacion": "",
-          "fecha": "6 octubre 2026 · 08:37 CST",
-          "fecha_iso": "2026-10-06T08:37:00-06:00",
-          "fuente": "Telegram @NOTMEX",
-          "url": "https://t.me/NOTMEX/186422",
+          "fecha": "6 octubre 2026 · 21:50 CST",
+          "fecha_iso": "2026-10-06T21:50:00-06:00",
+          "fuente": "Quadratin Oaxaca",
+          "url": "https://oaxaca.quadratin.com.mx/liberan-vialidades-despues-de-mas-de-11-horas-de-bloqueos-en-oaxaca/",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
+          "badge_txt": "BLOQUEO",
+          "lat": 17.06,
+          "lon": -96.72
+        }
+      ]
+    },
+    {
+      "tipo": "cierre_parcial",
+      "color": "amarillo",
+      "icono": "🟡",
+      "label": "CIERRE PARCIAL / ACCIDENTES",
+      "col2": true,
+      "alertas": [
+        {
+          "id": "6e2de1e6",
+          "tipo": "cierre_parcial",
+          "ruta": "Alcaldía de Xalapa informa de cierre del puente peatonal de…",
+          "descripcion": "Alcaldía de Xalapa informa de cierre del puente peatonal de Los Lagos. Exhortan a usuarios a tomar vías alternas por cierre temporal de la circulación peatonal",
+          "recomendacion": "",
+          "fecha": "6 octubre 2026 · 21:52 CST",
+          "fecha_iso": "2026-10-06T21:52:00-06:00",
+          "fuente": "Quadratin Veracruz",
+          "url": "https://veracruz.quadratin.com.mx/alcaldia-de-xalapa-informa-de-cierre-del-puente-peatonal-de-los-lagos/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 19.53,
+          "lon": -96.91
+        },
+        {
+          "id": "9c189051",
+          "tipo": "cierre_parcial",
+          "ruta": "Fuerte choque entre camión de volteo y auto deja 3…",
+          "descripcion": "Fuerte choque entre camión de volteo y auto deja 3 lesionados en Petatlán. El hecho ocurre en el tramo carretero Miyagua-Palos Blancos",
+          "recomendacion": "",
+          "fecha": "6 octubre 2026 · 21:21 CST",
+          "fecha_iso": "2026-10-06T21:21:00-06:00",
+          "fuente": "Quadratin Guerrero",
+          "url": "https://guerrero.quadratin.com.mx/fuerte-choque-entre-camion-de-volteo-y-auto-deja-3-lesionados-en-petatlan/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
         }
       ]
     }
   ],
-  "para_mapa": []
+  "para_mapa": [
+    {
+      "id": "6e2de1e6",
+      "tipo": "cierre_parcial",
+      "ruta": "Alcaldía de Xalapa informa de cierre del puente peatonal de…",
+      "descripcion": "Alcaldía de Xalapa informa de cierre del puente peatonal de Los Lagos. Exhortan a usuarios a tomar vías alternas por cierre temporal de la circulación peatonal",
+      "fecha": "6 octubre 2026 · 21:52 CST",
+      "fuente": "Quadratin Veracruz",
+      "url": "https://veracruz.quadratin.com.mx/alcaldia-de-xalapa-informa-de-cierre-del-puente-peatonal-de-los-lagos/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 19.53,
+      "lon": -96.91
+    },
+    {
+      "id": "e395cf03",
+      "tipo": "bloqueo",
+      "ruta": "Liberan vialidades después de más de 11 horas de bloqueos…",
+      "descripcion": "Liberan vialidades después de más de 11 horas de bloqueos en Oaxaca. Educación Indígena cerrará este miércoles su paro de 72 horas en Oaxaca",
+      "fecha": "6 octubre 2026 · 21:50 CST",
+      "fuente": "Quadratin Oaxaca",
+      "url": "https://oaxaca.quadratin.com.mx/liberan-vialidades-despues-de-mas-de-11-horas-de-bloqueos-en-oaxaca/",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 17.06,
+      "lon": -96.72
+    }
+  ]
 }
