@@ -1,34 +1,32 @@
 {
-  "ultima_actualizacion": "2026-10-07T13:01:20.692426-06:00",
-  "ultima_actualizacion_legible": "7 de octubre de 2026 · 13:01 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-10-07T17:34:37.524950-06:00",
+  "ultima_actualizacion_legible": "7 de octubre de 2026 · 17:34 CST",
+  "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Medios nacionales",
-    "Medios regionales",
     "Quadratin + regionales"
   ],
   "grupos": [
     {
-      "tipo": "bloqueo",
+      "tipo": "cierre_total",
       "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
+      "icono": "🔴",
+      "label": "CIERRE TOTAL",
       "col2": false,
       "alertas": [
         {
-          "id": "66649d17",
-          "tipo": "bloqueo",
-          "ruta": "Marchas y manifestaciones este miércoles 7 de octubre: calles y…",
-          "descripcion": "Marchas y manifestaciones este miércoles 7 de octubre: calles y vialidades cerradas. Este miércoles 7 de octubre diversos colectivos y organizaciones prevén realizar una marcha en pro del pueblo palestino y diversas concentraciones que se llevarán a cabo diversos puntos de la Ciudad de México con el objetivo de exigir que se cumplan sus demandas. Se trata de alrededor de 8 concentraciones, 1 marcha, 8 citas de […]",
+          "id": "bc78813a",
+          "tipo": "cierre_total",
+          "ruta": "Atiende CICAEG derrumbes en la Tlapa-Marquelia…",
+          "descripcion": "Atiende CICAEG derrumbes en la Tlapa-Marquelia. Despliega maquinaria pesada para liberar tramos afectados",
           "recomendacion": "",
-          "fecha": "7 octubre 2026 · 07:33 CST",
-          "fecha_iso": "2026-10-07T07:33:00-06:00",
-          "fuente": "24 Horas",
-          "url": "https://24-horas.mx/cdmx/marchas-y-manifestaciones-este-miercoles-7-de-octubre/",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
+          "fecha": "7 octubre 2026 · 14:40 CST",
+          "fecha_iso": "2026-10-07T14:40:00-06:00",
+          "fuente": "Quadratin Guerrero",
+          "url": "https://guerrero.quadratin.com.mx/atiende-cicaeg-derrumbes-en-la-tlapa-marquelia/",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL"
         }
       ]
     },
@@ -40,29 +38,15 @@
       "col2": true,
       "alertas": [
         {
-          "id": "71d3f78d",
+          "id": "7dba886f",
           "tipo": "cierre_parcial",
-          "ruta": "Muere agente municipal de Xocotla en accidente…",
-          "descripcion": "Muere agente municipal de Xocotla en accidente. Su camioneta salió de la carretera Chocamán-Xocotla y cayó a un barranco",
+          "ruta": "Choca Urvan contra muro en la carretera en Taxco; 9…",
+          "descripcion": "Choca Urvan contra muro en la carretera en Taxco; 9 pasajeros lesionados. El accidente ocurre tras una falla mecánica",
           "recomendacion": "",
-          "fecha": "7 octubre 2026 · 11:31 CST",
-          "fecha_iso": "2026-10-07T11:31:00-06:00",
-          "fuente": "Quadratin Veracruz",
-          "url": "https://veracruz.quadratin.com.mx/muere-agente-municipal-de-xocotla-en-accidente/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
-        },
-        {
-          "id": "b94d5504",
-          "tipo": "cierre_parcial",
-          "ruta": "carretera a El Derramadero",
-          "descripcion": "Uriangato: Motociclista pierde la vida al derrapar en la carretera a El Derramadero. Un motociclista de entre 30 y 35 años murió tras derrapar en la carretera Uriangato-El Derramadero. Fiscalía investiga las causas del percance.",
-          "recomendacion": "",
-          "fecha": "7 octubre 2026 · 08:28 CST",
-          "fecha_iso": "2026-10-07T08:28:00-06:00",
-          "fuente": "AM Guanajuato",
-          "url": "https://www.am.com.mx/guanajuato-sur/2026/10/07/uriangato-motociclista-pierde-la-vida-al-derrapar-en-la-carretera-a-el-derramadero-1852386.html",
+          "fecha": "7 octubre 2026 · 17:26 CST",
+          "fecha_iso": "2026-10-07T17:26:00-06:00",
+          "fuente": "Quadratin Guerrero",
+          "url": "https://guerrero.quadratin.com.mx/choca-urvan-contra-muro-en-la-carretera-en-taxco-9-pasajeros-lesionados/",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL"
