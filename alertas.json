@@ -1,11 +1,9 @@
 {
-  "ultima_actualizacion": "2026-10-06T14:40:22.161604-06:00",
-  "ultima_actualizacion_legible": "6 de octubre de 2026 · 14:40 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-10-06T18:08:12.016500-06:00",
+  "ultima_actualizacion_legible": "6 de octubre de 2026 · 18:08 CST",
+  "total": 1,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Medios nacionales",
-    "Quadratin + regionales",
     "Telegram"
   ],
   "grupos": [
@@ -17,20 +15,6 @@
       "col2": false,
       "alertas": [
         {
-          "id": "cccae045",
-          "tipo": "bloqueo",
-          "ruta": "Maestros de La Concordia redoblan protesta con bloqueo de la…",
-          "descripcion": "Maestros de La Concordia redoblan protesta con bloqueo de la carretera. Mientras el bloqueo continúa, las niñas y los niños de la zona siguen sin recibir clases.",
-          "recomendacion": "",
-          "fecha": "6 octubre 2026 · 14:35 CST",
-          "fecha_iso": "2026-10-06T14:35:00-06:00",
-          "fuente": "Quadratin Chiapas",
-          "url": "https://chiapas.quadratin.com.mx/sucesos/maestros-de-la-concordia-redoblan-protesta-con-bloqueo-de-la-carretera/",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        },
-        {
           "id": "8593cc7c",
           "tipo": "bloqueo",
           "ruta": "Corte no atraerá amparos por calles cerradas en Avándaro https://www.jornada.com.mx/2026/10/06/estados/024n4est?partner=rss…",
@@ -40,20 +24,6 @@
           "fecha_iso": "2026-10-06T08:37:00-06:00",
           "fuente": "Telegram @NOTMEX",
           "url": "https://t.me/NOTMEX/186422",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        },
-        {
-          "id": "89b5407b",
-          "tipo": "bloqueo",
-          "ruta": "Corte no atraerá amparos por calles cerradas en Avándaro…",
-          "descripcion": "Corte no atraerá amparos por calles cerradas en Avándaro. La Suprema Corte de Justicia de la Nación (SCJN) rechazó ayer atraer un caso relacionado con el libre tránsito en una vialidad pública de la zona residencial de Avándaro, en Valle de Bravo, cerrada por particulares, luego de que la ministra Loretta Ortiz Ahlf cambió su voto de último momento.",
-          "recomendacion": "",
-          "fecha": "6 octubre 2026 · 02:49 CST",
-          "fecha_iso": "2026-10-06T02:49:00-06:00",
-          "fuente": "La Jornada Estados",
-          "url": "https://www.jornada.com.mx/2026/10/06/estados/024n4est?partner=rss",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO"
