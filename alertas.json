@@ -1,36 +1,12 @@
 {
-  "ultima_actualizacion": "2026-10-07T20:55:06.558912-06:00",
-  "ultima_actualizacion_legible": "7 de octubre de 2026 · 20:55 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-10-08T03:43:48.531610-06:00",
+  "ultima_actualizacion_legible": "8 de octubre de 2026 · 03:43 CST",
+  "total": 1,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Medios regionales",
     "Quadratin + regionales"
   ],
   "grupos": [
-    {
-      "tipo": "bloqueo",
-      "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "98fd1f09",
-          "tipo": "bloqueo",
-          "ruta": "Vecinos protestan por tercer día en avenida Colón por calidad…",
-          "descripcion": "Vecinos protestan por tercer día en avenida Colón por calidad del agua; Tren Ligero opera con recortes. Las manifestaciones han afectado la circulación de la Línea 1, mientras se preparan medidas para reducir el problema",
-          "recomendacion": "",
-          "fecha": "7 octubre 2026 · 17:35 CST",
-          "fecha_iso": "2026-10-07T17:35:00-06:00",
-          "fuente": "El Informador Jalisco",
-          "url": "https://www.informador.mx/jalisco/vecinos-se-manifiestan-por-tercer-dia-consecutivo-en-la-avenida-colon-para-exigir-mejor-calidad-del-agua-tren-ligero-opera-con-recortes-20261007-0175.html",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        }
-      ]
-    },
     {
       "tipo": "cierre_parcial",
       "color": "amarillo",
@@ -39,66 +15,37 @@
       "col2": true,
       "alertas": [
         {
-          "id": "364ae885",
+          "id": "042b9a18",
           "tipo": "cierre_parcial",
-          "ruta": "autopista Guadalajara-Zapotlanejo deja un muerto y carga vehicular",
-          "descripcion": "Choque múltiple en autopista Guadalajara-Zapotlanejo deja un muerto y carga vehicular. Dos vehículos pesados y varios automotores particulares estuvieron involucrados en el aparatoso accidente ocurrido a la altura del Nuevo Periférico",
+          "ruta": "Autopista en Acapulco",
+          "descripcion": "Fuerte accidente deja 3 lesionados en la Autopista en Acapulco. El hecho ocurre a unos metros de la caseta de La Venta",
           "recomendacion": "",
-          "fecha": "7 octubre 2026 · 19:27 CST",
-          "fecha_iso": "2026-10-07T19:27:00-06:00",
-          "fuente": "El Informador Jalisco",
-          "url": "https://www.informador.mx/jalisco/seguridad-en-jalisco-choque-multiple-en-autopista-guadalajara-zapotlanejo-deja-un-muerto-y-gran-carga-vehicular-20261007-0199.html",
+          "fecha": "7 octubre 2026 · 22:03 CST",
+          "fecha_iso": "2026-10-07T22:03:00-06:00",
+          "fuente": "Quadratin Guerrero",
+          "url": "https://guerrero.quadratin.com.mx/fuerte-accidente-deja-3-lesionados-en-la-autopista-en-acapulco/",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL",
-          "lat": 20.66,
-          "lon": -103.35
-        },
-        {
-          "id": "602169d4",
-          "tipo": "cierre_parcial",
-          "ruta": "Daños y caos vial por carambola en La Cañada…",
-          "descripcion": "Daños y caos vial por carambola en La Cañada. Daños materiales y cierre a la circulación en la carretera estatal 200 fue lo que se registró a la altura del barrio de El Cerrito en La Cañada The post Daños y caos vial por carambola en La Cañada appeared first on Quadratin Querétaro.",
-          "recomendacion": "",
-          "fecha": "7 octubre 2026 · 18:00 CST",
-          "fecha_iso": "2026-10-07T18:00:00-06:00",
-          "fuente": "Quadratin Queretaro",
-          "url": "https://queretaro.quadratin.com.mx/danos-y-caos-vial-por-carambola-en-la-canada/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.1,
-          "lon": -104.3
+          "lat": 16.86,
+          "lon": -99.88
         }
       ]
     }
   ],
   "para_mapa": [
     {
-      "id": "364ae885",
+      "id": "042b9a18",
       "tipo": "cierre_parcial",
-      "ruta": "autopista Guadalajara-Zapotlanejo deja un muerto y carga vehicular",
-      "descripcion": "Choque múltiple en autopista Guadalajara-Zapotlanejo deja un muerto y carga vehicular. Dos vehículos pesados y varios automotores particulares estuvieron involucrados en el aparatoso accidente ocurrido a la altura del Nuevo Periférico",
-      "fecha": "7 octubre 2026 · 19:27 CST",
-      "fuente": "El Informador Jalisco",
-      "url": "https://www.informador.mx/jalisco/seguridad-en-jalisco-choque-multiple-en-autopista-guadalajara-zapotlanejo-deja-un-muerto-y-gran-carga-vehicular-20261007-0199.html",
+      "ruta": "Autopista en Acapulco",
+      "descripcion": "Fuerte accidente deja 3 lesionados en la Autopista en Acapulco. El hecho ocurre a unos metros de la caseta de La Venta",
+      "fecha": "7 octubre 2026 · 22:03 CST",
+      "fuente": "Quadratin Guerrero",
+      "url": "https://guerrero.quadratin.com.mx/fuerte-accidente-deja-3-lesionados-en-la-autopista-en-acapulco/",
       "dot_color": "#e67e22",
       "badge_txt": "CIERRE PARCIAL",
-      "lat": 20.66,
-      "lon": -103.35
-    },
-    {
-      "id": "602169d4",
-      "tipo": "cierre_parcial",
-      "ruta": "Daños y caos vial por carambola en La Cañada…",
-      "descripcion": "Daños y caos vial por carambola en La Cañada. Daños materiales y cierre a la circulación en la carretera estatal 200 fue lo que se registró a la altura del barrio de El Cerrito en La Cañada The post Daños y caos vial por carambola en La Cañada appeared first on Quadratin Querétaro.",
-      "fecha": "7 octubre 2026 · 18:00 CST",
-      "fuente": "Quadratin Queretaro",
-      "url": "https://queretaro.quadratin.com.mx/danos-y-caos-vial-por-carambola-en-la-canada/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.1,
-      "lon": -104.3
+      "lat": 16.86,
+      "lon": -99.88
     }
   ]
 }
