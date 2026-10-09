@@ -1,12 +1,38 @@
 {
-  "ultima_actualizacion": "2026-10-09T09:03:08.340294-06:00",
-  "ultima_actualizacion_legible": "9 de octubre de 2026 · 09:03 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-10-09T14:06:24.020369-06:00",
+  "ultima_actualizacion_legible": "9 de octubre de 2026 · 14:06 CST",
+  "total": 6,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
+    "Google News",
     "Quadratin + regionales"
   ],
   "grupos": [
+    {
+      "tipo": "cierre_total",
+      "color": "rojo",
+      "icono": "🔴",
+      "label": "CIERRE TOTAL",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "845e85cd",
+          "tipo": "cierre_total",
+          "ruta": "carretera Xalapa-Huatusco",
+          "descripcion": "Deslave bloquea el tránsito vehicular en la carretera Xalapa-Huatusco,. Personal de SIOP se encuentra en el sitio para despejar la cinta asfáltica",
+          "recomendacion": "",
+          "fecha": "9 octubre 2026 · 12:10 CST",
+          "fecha_iso": "2026-10-09T12:10:00-06:00",
+          "fuente": "Quadratin Veracruz",
+          "url": "https://veracruz.quadratin.com.mx/deslave-bloquea-el-transito-vehicular-en-la-carretera-xalapa-huatusco/",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL",
+          "lat": 19.53,
+          "lon": -96.91
+        }
+      ]
+    },
     {
       "tipo": "bloqueo",
       "color": "rojo",
@@ -15,20 +41,73 @@
       "col2": false,
       "alertas": [
         {
-          "id": "767c1d00",
+          "id": "c0a3efe1",
           "tipo": "bloqueo",
-          "ruta": "Querétaro se une a manifestación del IMSS por demandas laborales…",
-          "descripcion": "Querétaro se une a manifestación del IMSS por demandas laborales. Bloquearon vialidades a nivel nacional The post Querétaro se une a manifestación del IMSS por demandas laborales appeared first on Quadratin Querétaro.",
+          "ruta": "Protestas del IMSS afectan Paseo Tollocan y la México-Pachuca -…",
+          "descripcion": "Protestas del IMSS afectan Paseo Tollocan y la México-Pachuca - El Sol de México. Protestas del IMSS afectan Paseo Tollocan y la México-Pachuca El Sol de México",
           "recomendacion": "",
-          "fecha": "9 octubre 2026 · 07:26 CST",
-          "fecha_iso": "2026-10-09T07:26:00-06:00",
-          "fuente": "Quadratin Queretaro",
-          "url": "https://queretaro.quadratin.com.mx/queretaro-se-une-a-manifestacion-del-imss-por-demandas-laborales/",
+          "fecha": "9 octubre 2026 · 12:22 CST",
+          "fecha_iso": "2026-10-09T12:22:00-06:00",
+          "fuente": "El Sol de México",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaDhYam9JdmdUWXdRMjRQbnowQlJEWUMtZVVmSTFJeTlyRFF2UndCWTJ5aFA1TkstVnpSWWtjVTFtUWFzRzN3UDYzdHZ4X3JNMmZRUUp6ZXROdEk0WFNTYmNoZjg2d0RySzR4SUJNZmRnTlpwdjBrZWNxVUVrMWd0MjZxd3dBMjAxZi1TNkhWS0FoWThVTTBuaUo4OFVDb3BUM1g3WC1HMUhGNmYtekE?oc=5",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO",
-          "lat": 20.59,
-          "lon": -100.39
+          "lat": 20.12,
+          "lon": -98.73
+        },
+        {
+          "id": "e5657752",
+          "tipo": "bloqueo",
+          "ruta": "Bloquean enfermeros del IMSS Periférico Norte; demandan mayores salarios…",
+          "descripcion": "Bloquean enfermeros del IMSS Periférico Norte; demandan mayores salarios. Automovilistas documentaron largas filas de vehículos y tractocamiones que permanecían detenidos varios kilómetros antes del punto del bloqueo",
+          "recomendacion": "",
+          "fecha": "9 octubre 2026 · 11:15 CST",
+          "fecha_iso": "2026-10-09T11:15:00-06:00",
+          "fuente": "Quadratin EdoMex",
+          "url": "https://edomex.quadratin.com.mx/bloquean-enfermeros-del-imss-periferico-norte-demandan-mayores-salarios/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
+        {
+          "id": "e319fc54",
+          "tipo": "bloqueo",
+          "ruta": "Amanece Edomex con protestas del sector salud; bloquean México-Pachuca…",
+          "descripcion": "Amanece Edomex con protestas del sector salud; bloquean México-Pachuca. Carretera federal México-Pachuca, frente al Hospital General Regional. The post Amanece Edomex con protestas del sector salud; bloquean México-Pachuca appeared first on Quadratin Hidalgo.",
+          "recomendacion": "",
+          "fecha": "9 octubre 2026 · 10:42 CST",
+          "fecha_iso": "2026-10-09T10:42:00-06:00",
+          "fuente": "Quadratin Hidalgo",
+          "url": "https://hidalgo.quadratin.com.mx/Salud-2/amanece-edomex-con-protestas-del-sector-salud-bloquean-mexico-pachuca/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 20.11,
+          "lon": -98.73
+        }
+      ]
+    },
+    {
+      "tipo": "robo",
+      "color": "rojo",
+      "icono": "🚨",
+      "label": "ROBOS EN CARRETERA",
+      "col2": true,
+      "alertas": [
+        {
+          "id": "00f7f214",
+          "tipo": "robo",
+          "ruta": "Policía de Coatzacoalcos fortalece la prevención del robo en carretera…",
+          "descripcion": "Policía de Coatzacoalcos fortalece la prevención del robo en carretera. Con personas del sector empresarial",
+          "recomendacion": "",
+          "fecha": "9 octubre 2026 · 11:42 CST",
+          "fecha_iso": "2026-10-09T11:42:00-06:00",
+          "fuente": "Quadratin Veracruz",
+          "url": "https://veracruz.quadratin.com.mx/policia-de-coatzacoalcos-fortalece-la-prevencion-del-robo-en-carretera/",
+          "dot_color": "#c0392b",
+          "badge": "badge-robo",
+          "badge_txt": "ROBO"
         }
       ]
     },
@@ -40,50 +119,61 @@
       "col2": true,
       "alertas": [
         {
-          "id": "9852741a",
+          "id": "5ebce0fc",
           "tipo": "cierre_parcial",
-          "ruta": "Bloquean trabajadores del IMSS la México-Pachuca en Tecámac, Estado de…",
-          "descripcion": "Bloquean trabajadores del IMSS la México-Pachuca en Tecámac, Estado de México. El Gobierno Municipal de Tecámac informó sobre el cierre de la circulación en la carretera México-Pachuca, a la altura del Hospital Regional 200 The post Bloquean trabajadores del IMSS la México-Pachuca en Tecámac, Estado de México appeared first on Quadratin Hidalgo.",
+          "ruta": "Catean pensión de tráileres de José Abella en Amatlán…",
+          "descripcion": "Catean pensión de tráileres de José Abella en Amatlán. Únicamente se aseguró la caja seca con reporte de robo",
           "recomendacion": "",
-          "fecha": "8 octubre 2026 · 22:34 CST",
-          "fecha_iso": "2026-10-08T22:34:00-06:00",
-          "fuente": "Quadratin Hidalgo",
-          "url": "https://hidalgo.quadratin.com.mx/municipios/bloquean-trabajadores-del-imss-la-mexico-pachuca-en-tecamac-estado-de-mexico/",
+          "fecha": "9 octubre 2026 · 11:46 CST",
+          "fecha_iso": "2026-10-09T11:46:00-06:00",
+          "fuente": "Quadratin Veracruz",
+          "url": "https://veracruz.quadratin.com.mx/catean-pension-de-traileres-de-jose-abella-en-amatlan/",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.1,
-          "lon": -104.3
+          "badge_txt": "CIERRE PARCIAL"
         }
       ]
     }
   ],
   "para_mapa": [
     {
-      "id": "767c1d00",
+      "id": "c0a3efe1",
       "tipo": "bloqueo",
-      "ruta": "Querétaro se une a manifestación del IMSS por demandas laborales…",
-      "descripcion": "Querétaro se une a manifestación del IMSS por demandas laborales. Bloquearon vialidades a nivel nacional The post Querétaro se une a manifestación del IMSS por demandas laborales appeared first on Quadratin Querétaro.",
-      "fecha": "9 octubre 2026 · 07:26 CST",
-      "fuente": "Quadratin Queretaro",
-      "url": "https://queretaro.quadratin.com.mx/queretaro-se-une-a-manifestacion-del-imss-por-demandas-laborales/",
+      "ruta": "Protestas del IMSS afectan Paseo Tollocan y la México-Pachuca -…",
+      "descripcion": "Protestas del IMSS afectan Paseo Tollocan y la México-Pachuca - El Sol de México. Protestas del IMSS afectan Paseo Tollocan y la México-Pachuca El Sol de México",
+      "fecha": "9 octubre 2026 · 12:22 CST",
+      "fuente": "El Sol de México",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaDhYam9JdmdUWXdRMjRQbnowQlJEWUMtZVVmSTFJeTlyRFF2UndCWTJ5aFA1TkstVnpSWWtjVTFtUWFzRzN3UDYzdHZ4X3JNMmZRUUp6ZXROdEk0WFNTYmNoZjg2d0RySzR4SUJNZmRnTlpwdjBrZWNxVUVrMWd0MjZxd3dBMjAxZi1TNkhWS0FoWThVTTBuaUo4OFVDb3BUM1g3WC1HMUhGNmYtekE?oc=5",
       "dot_color": "#8e44ad",
       "badge_txt": "BLOQUEO",
-      "lat": 20.59,
-      "lon": -100.39
+      "lat": 20.12,
+      "lon": -98.73
     },
     {
-      "id": "9852741a",
-      "tipo": "cierre_parcial",
-      "ruta": "Bloquean trabajadores del IMSS la México-Pachuca en Tecámac, Estado de…",
-      "descripcion": "Bloquean trabajadores del IMSS la México-Pachuca en Tecámac, Estado de México. El Gobierno Municipal de Tecámac informó sobre el cierre de la circulación en la carretera México-Pachuca, a la altura del Hospital Regional 200 The post Bloquean trabajadores del IMSS la México-Pachuca en Tecámac, Estado de México appeared first on Quadratin Hidalgo.",
-      "fecha": "8 octubre 2026 · 22:34 CST",
+      "id": "845e85cd",
+      "tipo": "cierre_total",
+      "ruta": "carretera Xalapa-Huatusco",
+      "descripcion": "Deslave bloquea el tránsito vehicular en la carretera Xalapa-Huatusco,. Personal de SIOP se encuentra en el sitio para despejar la cinta asfáltica",
+      "fecha": "9 octubre 2026 · 12:10 CST",
+      "fuente": "Quadratin Veracruz",
+      "url": "https://veracruz.quadratin.com.mx/deslave-bloquea-el-transito-vehicular-en-la-carretera-xalapa-huatusco/",
+      "dot_color": "#e74c3c",
+      "badge_txt": "CIERRE TOTAL",
+      "lat": 19.53,
+      "lon": -96.91
+    },
+    {
+      "id": "e319fc54",
+      "tipo": "bloqueo",
+      "ruta": "Amanece Edomex con protestas del sector salud; bloquean México-Pachuca…",
+      "descripcion": "Amanece Edomex con protestas del sector salud; bloquean México-Pachuca. Carretera federal México-Pachuca, frente al Hospital General Regional. The post Amanece Edomex con protestas del sector salud; bloquean México-Pachuca appeared first on Quadratin Hidalgo.",
+      "fecha": "9 octubre 2026 · 10:42 CST",
       "fuente": "Quadratin Hidalgo",
-      "url": "https://hidalgo.quadratin.com.mx/municipios/bloquean-trabajadores-del-imss-la-mexico-pachuca-en-tecamac-estado-de-mexico/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.1,
-      "lon": -104.3
+      "url": "https://hidalgo.quadratin.com.mx/Salud-2/amanece-edomex-con-protestas-del-sector-salud-bloquean-mexico-pachuca/",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 20.11,
+      "lon": -98.73
     }
   ]
 }
