@@ -1,36 +1,12 @@
 {
-  "ultima_actualizacion": "2026-10-08T19:34:17.943165-06:00",
-  "ultima_actualizacion_legible": "8 de octubre de 2026 · 19:34 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-10-09T02:00:03.994738-06:00",
+  "ultima_actualizacion_legible": "9 de octubre de 2026 · 02:00 CST",
+  "total": 1,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Quadratin + regionales",
-    "Telegram"
+    "Quadratin + regionales"
   ],
   "grupos": [
-    {
-      "tipo": "bloqueo",
-      "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "92bd9ba2",
-          "tipo": "bloqueo",
-          "ruta": "Paro en la UTN: Estudiantes cierran la escuela y bloquean…",
-          "descripcion": "Paro en la UTN: Estudiantes cierran la escuela y bloquean vialidades de Neza 👇\n https://lajornadaestadodemexico.com/paro-en-la-utn-estudiantes-de-neza-cierran-la-escuela-y-bloquean-vialidades/",
-          "recomendacion": "",
-          "fecha": "8 octubre 2026 · 10:18 CST",
-          "fecha_iso": "2026-10-08T10:18:00-06:00",
-          "fuente": "Telegram @jornadaedomex",
-          "url": "https://t.me/jornadaedomex/12309",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        }
-      ]
-    },
     {
       "tipo": "cierre_parcial",
       "color": "amarillo",
@@ -39,37 +15,37 @@
       "col2": true,
       "alertas": [
         {
-          "id": "73481252",
+          "id": "9852741a",
           "tipo": "cierre_parcial",
-          "ruta": "Transportistas de Chiapas denuncian robo de 246 toneladas de maíz…",
-          "descripcion": "Transportistas de Chiapas denuncian robo de 246 toneladas de maíz. Sergio Rayo, vicepresidente de CONATRAM en el sureste, informó que se han presentado 16 denuncias ante la FGR",
+          "ruta": "Bloquean trabajadores del IMSS la México-Pachuca en Tecámac, Estado de…",
+          "descripcion": "Bloquean trabajadores del IMSS la México-Pachuca en Tecámac, Estado de México. El Gobierno Municipal de Tecámac informó sobre el cierre de la circulación en la carretera México-Pachuca, a la altura del Hospital Regional 200 The post Bloquean trabajadores del IMSS la México-Pachuca en Tecámac, Estado de México appeared first on Quadratin Hidalgo.",
           "recomendacion": "",
-          "fecha": "8 octubre 2026 · 12:59 CST",
-          "fecha_iso": "2026-10-08T12:59:00-06:00",
-          "fuente": "Quadratin Chiapas",
-          "url": "https://chiapas.quadratin.com.mx/sucesos/transportistas-de-chiapas-denuncian-robo-de-246-toneladas-de-maiz/",
+          "fecha": "8 octubre 2026 · 22:34 CST",
+          "fecha_iso": "2026-10-08T22:34:00-06:00",
+          "fuente": "Quadratin Hidalgo",
+          "url": "https://hidalgo.quadratin.com.mx/municipios/bloquean-trabajadores-del-imss-la-mexico-pachuca-en-tecamac-estado-de-mexico/",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL",
-          "lat": 16.75,
-          "lon": -93.12
+          "lat": 19.1,
+          "lon": -104.3
         }
       ]
     }
   ],
   "para_mapa": [
     {
-      "id": "73481252",
+      "id": "9852741a",
       "tipo": "cierre_parcial",
-      "ruta": "Transportistas de Chiapas denuncian robo de 246 toneladas de maíz…",
-      "descripcion": "Transportistas de Chiapas denuncian robo de 246 toneladas de maíz. Sergio Rayo, vicepresidente de CONATRAM en el sureste, informó que se han presentado 16 denuncias ante la FGR",
-      "fecha": "8 octubre 2026 · 12:59 CST",
-      "fuente": "Quadratin Chiapas",
-      "url": "https://chiapas.quadratin.com.mx/sucesos/transportistas-de-chiapas-denuncian-robo-de-246-toneladas-de-maiz/",
+      "ruta": "Bloquean trabajadores del IMSS la México-Pachuca en Tecámac, Estado de…",
+      "descripcion": "Bloquean trabajadores del IMSS la México-Pachuca en Tecámac, Estado de México. El Gobierno Municipal de Tecámac informó sobre el cierre de la circulación en la carretera México-Pachuca, a la altura del Hospital Regional 200 The post Bloquean trabajadores del IMSS la México-Pachuca en Tecámac, Estado de México appeared first on Quadratin Hidalgo.",
+      "fecha": "8 octubre 2026 · 22:34 CST",
+      "fuente": "Quadratin Hidalgo",
+      "url": "https://hidalgo.quadratin.com.mx/municipios/bloquean-trabajadores-del-imss-la-mexico-pachuca-en-tecamac-estado-de-mexico/",
       "dot_color": "#e67e22",
       "badge_txt": "CIERRE PARCIAL",
-      "lat": 16.75,
-      "lon": -93.12
+      "lat": 19.1,
+      "lon": -104.3
     }
   ]
 }
