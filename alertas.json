@@ -1,12 +1,37 @@
 {
-  "ultima_actualizacion": "2026-10-09T02:00:03.994738-06:00",
-  "ultima_actualizacion_legible": "9 de octubre de 2026 · 02:00 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-10-09T09:03:08.340294-06:00",
+  "ultima_actualizacion_legible": "9 de octubre de 2026 · 09:03 CST",
+  "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Quadratin + regionales"
   ],
   "grupos": [
+    {
+      "tipo": "bloqueo",
+      "color": "rojo",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "767c1d00",
+          "tipo": "bloqueo",
+          "ruta": "Querétaro se une a manifestación del IMSS por demandas laborales…",
+          "descripcion": "Querétaro se une a manifestación del IMSS por demandas laborales. Bloquearon vialidades a nivel nacional The post Querétaro se une a manifestación del IMSS por demandas laborales appeared first on Quadratin Querétaro.",
+          "recomendacion": "",
+          "fecha": "9 octubre 2026 · 07:26 CST",
+          "fecha_iso": "2026-10-09T07:26:00-06:00",
+          "fuente": "Quadratin Queretaro",
+          "url": "https://queretaro.quadratin.com.mx/queretaro-se-une-a-manifestacion-del-imss-por-demandas-laborales/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 20.59,
+          "lon": -100.39
+        }
+      ]
+    },
     {
       "tipo": "cierre_parcial",
       "color": "amarillo",
@@ -34,6 +59,19 @@
     }
   ],
   "para_mapa": [
+    {
+      "id": "767c1d00",
+      "tipo": "bloqueo",
+      "ruta": "Querétaro se une a manifestación del IMSS por demandas laborales…",
+      "descripcion": "Querétaro se une a manifestación del IMSS por demandas laborales. Bloquearon vialidades a nivel nacional The post Querétaro se une a manifestación del IMSS por demandas laborales appeared first on Quadratin Querétaro.",
+      "fecha": "9 octubre 2026 · 07:26 CST",
+      "fuente": "Quadratin Queretaro",
+      "url": "https://queretaro.quadratin.com.mx/queretaro-se-une-a-manifestacion-del-imss-por-demandas-laborales/",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 20.59,
+      "lon": -100.39
+    },
     {
       "id": "9852741a",
       "tipo": "cierre_parcial",
