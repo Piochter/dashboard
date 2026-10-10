@@ -1,12 +1,36 @@
 {
-  "ultima_actualizacion": "2026-10-10T05:36:00.131629-06:00",
-  "ultima_actualizacion_legible": "10 de octubre de 2026 · 05:36 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-10-10T10:23:14.993856-06:00",
+  "ultima_actualizacion_legible": "10 de octubre de 2026 · 10:23 CST",
+  "total": 3,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
+    "Google News",
     "Medios regionales"
   ],
   "grupos": [
+    {
+      "tipo": "bloqueo",
+      "color": "rojo",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "9775bc71",
+          "tipo": "bloqueo",
+          "ruta": "Trabajadores del IMSS extienden protesta a 37 secciones sindicales y…",
+          "descripcion": "Trabajadores del IMSS extienden protesta a 37 secciones sindicales y bloquean vialidades. Las manifestaciones se produjeron por inconformidades con el incremento salarial negociado por su dirigencia sindical y con las condiciones laborales.",
+          "recomendacion": "",
+          "fecha": "10 octubre 2026 · 06:05 CST",
+          "fecha_iso": "2026-10-10T06:05:00-06:00",
+          "fuente": "AM Guanajuato",
+          "url": "https://www.am.com.mx/nacional/2026/10/10/trabajadores-del-imss-extienden-protesta-a-37-secciones-sindicales-y-bloquean-vialidades-1853551.html",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        }
+      ]
+    },
     {
       "tipo": "cierre_parcial",
       "color": "amarillo",
@@ -15,15 +39,29 @@
       "col2": true,
       "alertas": [
         {
-          "id": "98039c78",
+          "id": "d12541c3",
           "tipo": "cierre_parcial",
-          "ruta": "Desarman célula dedicada al robo de autotransporte…",
-          "descripcion": "Desarman célula dedicada al robo de autotransporte. Los diez detenidos fueron puestos a disposición del agente del Ministerio Público, quien determinará su situación jurídica",
+          "ruta": "Reportan accidente en la Siglo 21, cerca de caseta de…",
+          "descripcion": "Reportan accidente en la Siglo 21, cerca de caseta de Zirahuén. El sitio se encuentra bajo resguardo de las autoridades",
           "recomendacion": "",
-          "fecha": "10 octubre 2026 · 02:25 CST",
-          "fecha_iso": "2026-10-10T02:25:00-06:00",
-          "fuente": "El Informador Jalisco",
-          "url": "https://www.informador.mx/mexico/seguridad-desarman-celula-dedicada-al-robo-de-autotransporte-20261010-0029.html",
+          "fecha": "10 octubre 2026 · 09:49 CST",
+          "fecha_iso": "2026-10-10T09:49:00-06:00",
+          "fuente": "Quadratin Michoacan",
+          "url": "https://www.quadratin.com.mx/sucesos/reportan-accidente-en-la-siglo-21-cerca-de-caseta-de-zirahuen/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        },
+        {
+          "id": "8f4f6ebf",
+          "tipo": "cierre_parcial",
+          "ruta": "Carreteras Bloqueadas en México Hoy, Sábado 10 de Octubre 2026…",
+          "descripcion": "Carreteras Bloqueadas en México Hoy, Sábado 10 de Octubre 2026 - N+. Carreteras Bloqueadas en México Hoy, Sábado 10 de Octubre 2026 N+",
+          "recomendacion": "",
+          "fecha": "10 octubre 2026 · 06:59 CST",
+          "fecha_iso": "2026-10-10T06:59:00-06:00",
+          "fuente": "N+",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQzllcnNBV0Uwc3gtRG9PU0lKRWVFOG9RakVkYUlYbnlXRHR3YnRMU1NNemN4c3lTd2poSWh0dzdpRUZELWNaSk5ZNU5KeHZQZFlGNE9PLUtDWVktRG9lUm84c0t6OXhJdEc5WjRxazhXd2F0RHR5T3lpV2l1clFSbThza1lENl9fQ19WeVlLMG85NVp5VmZRckdvOTQ?oc=5",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL"
