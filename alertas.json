@@ -1,92 +1,12 @@
 {
-  "ultima_actualizacion": "2026-10-09T18:01:35.562724-06:00",
-  "ultima_actualizacion_legible": "9 de octubre de 2026 · 18:01 CST",
-  "total": 6,
+  "ultima_actualizacion": "2026-10-09T23:46:19.137930-06:00",
+  "ultima_actualizacion_legible": "9 de octubre de 2026 · 23:46 CST",
+  "total": 1,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News",
-    "Medios nacionales",
-    "Quadratin + regionales"
+    "Medios nacionales"
   ],
   "grupos": [
-    {
-      "tipo": "cierre_total",
-      "color": "rojo",
-      "icono": "🔴",
-      "label": "CIERRE TOTAL",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "845e85cd",
-          "tipo": "cierre_total",
-          "ruta": "carretera Xalapa-Huatusco",
-          "descripcion": "Deslave bloquea el tránsito vehicular en la carretera Xalapa-Huatusco,. Personal de SIOP se encuentra en el sitio para despejar la cinta asfáltica",
-          "recomendacion": "",
-          "fecha": "9 octubre 2026 · 12:10 CST",
-          "fecha_iso": "2026-10-09T12:10:00-06:00",
-          "fuente": "Quadratin Veracruz",
-          "url": "https://veracruz.quadratin.com.mx/deslave-bloquea-el-transito-vehicular-en-la-carretera-xalapa-huatusco/",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL",
-          "lat": 19.53,
-          "lon": -96.91
-        }
-      ]
-    },
-    {
-      "tipo": "bloqueo",
-      "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "500105f2",
-          "tipo": "bloqueo",
-          "ruta": "Despliegan a Policía Metropolitana por bloqueos de trabajadores del IMSS…",
-          "descripcion": "Despliegan a Policía Metropolitana por bloqueos de trabajadores del IMSS. Para liberar algunas de las vialidades, como son el Eje 3 Oriente y Viaducto",
-          "recomendacion": "",
-          "fecha": "9 octubre 2026 · 18:00 CST",
-          "fecha_iso": "2026-10-09T18:00:00-06:00",
-          "fuente": "Quadratin Tabasco",
-          "url": "https://tabasco.quadratin.com.mx/nacionales/despliegan-a-policia-metropolitana-por-bloqueos-de-trabajadores-del-imss/",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        },
-        {
-          "id": "757d1441",
-          "tipo": "bloqueo",
-          "ruta": "Van 248 días sin saber de ellos; viajaron a Mazatlán…",
-          "descripcion": "Van 248 días sin saber de ellos; viajaron a Mazatlán y no volvieron. Como medida de presión, este viernes los manifestantes permitieron el paso de automovilistas sin el pago de peaje en la caseta de cobro El Dorado",
-          "recomendacion": "",
-          "fecha": "9 octubre 2026 · 17:15 CST",
-          "fecha_iso": "2026-10-09T17:15:00-06:00",
-          "fuente": "Quadratin EdoMex",
-          "url": "https://edomex.quadratin.com.mx/van-248-dias-sin-saber-de-ellos-viajaron-a-mazatlan-y-no-volvieron/",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 23.24,
-          "lon": -106.41
-        },
-        {
-          "id": "f0a2c520",
-          "tipo": "bloqueo",
-          "ruta": "Bloqueos carreteras HOY viernes 9 de octubre: autopistas cerradas en…",
-          "descripcion": "Bloqueos carreteras HOY viernes 9 de octubre: autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY viernes 9 de octubre: autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
-          "recomendacion": "",
-          "fecha": "9 octubre 2026 · 07:42 CST",
-          "fecha_iso": "2026-10-09T07:42:00-06:00",
-          "fuente": "Eje Central",
-          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQaERXWnRrRUZqR3paWE5keDllcWdVRkFRWXdwSXJ1Q1c2UjQ1WURZOFRDR1N1T2ozWDEwMFFod3k1Qk9QVF80bEM2b3A0SXkweUdvQ21QbWhUSUR5VzRRSmg4Nk1iRWRST2xWbnNPUDBuMG1QQkZoNlNub05KQkRYVmtxc1BfQk9od21WMXpZQ0FtTjVRc3I0dG54TkVpT25hd3hBVURZanJZcXJFNmlGOG0wLWtxdzl2WDR1cUZDQXI1bm5tZE5fTml4NGQ4cWJSY2lOYk5EZWZ6eWZhSEF0bEVDb0xHZ3YwVzRHU1dzbDNrM1E?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        }
-      ]
-    },
     {
       "tipo": "robo",
       "color": "rojo",
@@ -111,60 +31,9 @@
           "lon": -101.19
         }
       ]
-    },
-    {
-      "tipo": "cierre_parcial",
-      "color": "amarillo",
-      "icono": "🟡",
-      "label": "CIERRE PARCIAL / ACCIDENTES",
-      "col2": true,
-      "alertas": [
-        {
-          "id": "416f24e3",
-          "tipo": "cierre_parcial",
-          "ruta": "carretera 200",
-          "descripcion": "Choque entre dos autos y un Flecha Azul cierra carretera 200. A la altura del Barrio del Cerrito, en La Cañada, municipio de El Marqués The post Choque entre dos autos y un Flecha Azul cierra carretera 200 appeared first on Quadratin Querétaro.",
-          "recomendacion": "",
-          "fecha": "9 octubre 2026 · 18:00 CST",
-          "fecha_iso": "2026-10-09T18:00:00-06:00",
-          "fuente": "Quadratin Queretaro",
-          "url": "https://queretaro.quadratin.com.mx/choque-entre-dos-autos-y-un-flecha-azul-cierra-carretera-200/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.1,
-          "lon": -104.3
-        }
-      ]
     }
   ],
   "para_mapa": [
-    {
-      "id": "416f24e3",
-      "tipo": "cierre_parcial",
-      "ruta": "carretera 200",
-      "descripcion": "Choque entre dos autos y un Flecha Azul cierra carretera 200. A la altura del Barrio del Cerrito, en La Cañada, municipio de El Marqués The post Choque entre dos autos y un Flecha Azul cierra carretera 200 appeared first on Quadratin Querétaro.",
-      "fecha": "9 octubre 2026 · 18:00 CST",
-      "fuente": "Quadratin Queretaro",
-      "url": "https://queretaro.quadratin.com.mx/choque-entre-dos-autos-y-un-flecha-azul-cierra-carretera-200/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.1,
-      "lon": -104.3
-    },
-    {
-      "id": "757d1441",
-      "tipo": "bloqueo",
-      "ruta": "Van 248 días sin saber de ellos; viajaron a Mazatlán…",
-      "descripcion": "Van 248 días sin saber de ellos; viajaron a Mazatlán y no volvieron. Como medida de presión, este viernes los manifestantes permitieron el paso de automovilistas sin el pago de peaje en la caseta de cobro El Dorado",
-      "fecha": "9 octubre 2026 · 17:15 CST",
-      "fuente": "Quadratin EdoMex",
-      "url": "https://edomex.quadratin.com.mx/van-248-dias-sin-saber-de-ellos-viajaron-a-mazatlan-y-no-volvieron/",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 23.24,
-      "lon": -106.41
-    },
     {
       "id": "13ad8b7d",
       "tipo": "robo",
@@ -177,19 +46,6 @@
       "badge_txt": "ROBO",
       "lat": 19.7,
       "lon": -101.19
-    },
-    {
-      "id": "845e85cd",
-      "tipo": "cierre_total",
-      "ruta": "carretera Xalapa-Huatusco",
-      "descripcion": "Deslave bloquea el tránsito vehicular en la carretera Xalapa-Huatusco,. Personal de SIOP se encuentra en el sitio para despejar la cinta asfáltica",
-      "fecha": "9 octubre 2026 · 12:10 CST",
-      "fuente": "Quadratin Veracruz",
-      "url": "https://veracruz.quadratin.com.mx/deslave-bloquea-el-transito-vehicular-en-la-carretera-xalapa-huatusco/",
-      "dot_color": "#e74c3c",
-      "badge_txt": "CIERRE TOTAL",
-      "lat": 19.53,
-      "lon": -96.91
     }
   ]
 }
