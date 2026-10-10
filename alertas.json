@@ -1,51 +1,35 @@
 {
-  "ultima_actualizacion": "2026-10-09T23:46:19.137930-06:00",
-  "ultima_actualizacion_legible": "9 de octubre de 2026 · 23:46 CST",
+  "ultima_actualizacion": "2026-10-10T05:36:00.131629-06:00",
+  "ultima_actualizacion_legible": "10 de octubre de 2026 · 05:36 CST",
   "total": 1,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Medios nacionales"
+    "Medios regionales"
   ],
   "grupos": [
     {
-      "tipo": "robo",
-      "color": "rojo",
-      "icono": "🚨",
-      "label": "ROBOS EN CARRETERA",
+      "tipo": "cierre_parcial",
+      "color": "amarillo",
+      "icono": "🟡",
+      "label": "CIERRE PARCIAL / ACCIDENTES",
       "col2": true,
       "alertas": [
         {
-          "id": "13ad8b7d",
-          "tipo": "robo",
-          "ruta": "Golpe al robo de autotransporte en Michoacán: Detienen a 10…",
-          "descripcion": "Golpe al robo de autotransporte en Michoacán: Detienen a 10 integrantes de célula dedicada al secuestro y robo de carga. Autoridades federales arrestaron a 10 personas de forma simultánea en municipios de Michoacán. Se trata de ocho hombres y dos mujeres quienes forman parte de una célula criminal dedicada al robo de transporte de carga y al secuestro.",
+          "id": "98039c78",
+          "tipo": "cierre_parcial",
+          "ruta": "Desarman célula dedicada al robo de autotransporte…",
+          "descripcion": "Desarman célula dedicada al robo de autotransporte. Los diez detenidos fueron puestos a disposición del agente del Ministerio Público, quien determinará su situación jurídica",
           "recomendacion": "",
-          "fecha": "9 octubre 2026 · 15:30 CST",
-          "fecha_iso": "2026-10-09T15:30:00-06:00",
-          "fuente": "24 Horas",
-          "url": "https://24-horas.mx/estados/robo-de-autotransporte-en-michoacan-detienen-a-10/",
-          "dot_color": "#c0392b",
-          "badge": "badge-robo",
-          "badge_txt": "ROBO",
-          "lat": 19.7,
-          "lon": -101.19
+          "fecha": "10 octubre 2026 · 02:25 CST",
+          "fecha_iso": "2026-10-10T02:25:00-06:00",
+          "fuente": "El Informador Jalisco",
+          "url": "https://www.informador.mx/mexico/seguridad-desarman-celula-dedicada-al-robo-de-autotransporte-20261010-0029.html",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
         }
       ]
     }
   ],
-  "para_mapa": [
-    {
-      "id": "13ad8b7d",
-      "tipo": "robo",
-      "ruta": "Golpe al robo de autotransporte en Michoacán: Detienen a 10…",
-      "descripcion": "Golpe al robo de autotransporte en Michoacán: Detienen a 10 integrantes de célula dedicada al secuestro y robo de carga. Autoridades federales arrestaron a 10 personas de forma simultánea en municipios de Michoacán. Se trata de ocho hombres y dos mujeres quienes forman parte de una célula criminal dedicada al robo de transporte de carga y al secuestro.",
-      "fecha": "9 octubre 2026 · 15:30 CST",
-      "fuente": "24 Horas",
-      "url": "https://24-horas.mx/estados/robo-de-autotransporte-en-michoacan-detienen-a-10/",
-      "dot_color": "#c0392b",
-      "badge_txt": "ROBO",
-      "lat": 19.7,
-      "lon": -101.19
-    }
-  ]
+  "para_mapa": []
 }
