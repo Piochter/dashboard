@@ -1,12 +1,38 @@
 {
-  "ultima_actualizacion": "2026-10-11T09:06:37.219136-06:00",
-  "ultima_actualizacion_legible": "11 de octubre de 2026 · 09:06 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-10-11T13:32:29.265677-06:00",
+  "ultima_actualizacion_legible": "11 de octubre de 2026 · 13:32 CST",
+  "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News"
+    "Google News",
+    "Medios regionales"
   ],
   "grupos": [
+    {
+      "tipo": "cierre_total",
+      "color": "rojo",
+      "icono": "🔴",
+      "label": "CIERRE TOTAL",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "3ebcb0b2",
+          "tipo": "cierre_total",
+          "ruta": "40",
+          "descripcion": "Huracán \"Simon\", a 40 km de Jalisco; mantienen alerta por lluvias extraordinarias. El meteoro bordea la costa jalisciense, manteniendo en máxima alerta a las autoridades ante el riesgo de deslaves, inundaciones y oleaje de hasta 10 metros",
+          "recomendacion": "",
+          "fecha": "11 octubre 2026 · 13:15 CST",
+          "fecha_iso": "2026-10-11T13:15:00-06:00",
+          "fuente": "El Informador Jalisco",
+          "url": "https://www.informador.mx/jalisco/huracan-simon-a-40-km-de-jalisco-mantienen-alerta-por-lluvias-extraordinarias-20261011-0059.html",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL",
+          "lat": 25.2,
+          "lon": -102.0
+        }
+      ]
+    },
     {
       "tipo": "cierre_parcial",
       "color": "amarillo",
@@ -34,6 +60,19 @@
     }
   ],
   "para_mapa": [
+    {
+      "id": "3ebcb0b2",
+      "tipo": "cierre_total",
+      "ruta": "40",
+      "descripcion": "Huracán \"Simon\", a 40 km de Jalisco; mantienen alerta por lluvias extraordinarias. El meteoro bordea la costa jalisciense, manteniendo en máxima alerta a las autoridades ante el riesgo de deslaves, inundaciones y oleaje de hasta 10 metros",
+      "fecha": "11 octubre 2026 · 13:15 CST",
+      "fuente": "El Informador Jalisco",
+      "url": "https://www.informador.mx/jalisco/huracan-simon-a-40-km-de-jalisco-mantienen-alerta-por-lluvias-extraordinarias-20261011-0059.html",
+      "dot_color": "#e74c3c",
+      "badge_txt": "CIERRE TOTAL",
+      "lat": 25.2,
+      "lon": -102.0
+    },
     {
       "id": "5f187acd",
       "tipo": "cierre_parcial",
