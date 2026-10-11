@@ -1,11 +1,12 @@
 {
-  "ultima_actualizacion": "2026-10-11T13:32:29.265677-06:00",
-  "ultima_actualizacion_legible": "11 de octubre de 2026 · 13:32 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-10-11T17:09:22.537192-06:00",
+  "ultima_actualizacion_legible": "11 de octubre de 2026 · 17:09 CST",
+  "total": 4,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
-    "Medios regionales"
+    "Medios regionales",
+    "Quadratin + regionales"
   ],
   "grupos": [
     {
@@ -15,6 +16,22 @@
       "label": "CIERRE TOTAL",
       "col2": false,
       "alertas": [
+        {
+          "id": "b86e47af",
+          "tipo": "cierre_total",
+          "ruta": "Lluvias dejan 65 derrumbes y 26 deslaves en Hidalgo; rehabilitan…",
+          "descripcion": "Lluvias dejan 65 derrumbes y 26 deslaves en Hidalgo; rehabilitan carreteras. En caminos y carreteras de la Sierra y la Huasteca. The post Lluvias dejan 65 derrumbes y 26 deslaves en Hidalgo; rehabilitan carreteras appeared first on Quadratin Hidalgo.",
+          "recomendacion": "",
+          "fecha": "11 octubre 2026 · 14:32 CST",
+          "fecha_iso": "2026-10-11T14:32:00-06:00",
+          "fuente": "Quadratin Hidalgo",
+          "url": "https://hidalgo.quadratin.com.mx/sucesos/lluvias-dejan-65-derrumbes-y-26-deslaves-en-hidalgo-rehabilitan-carreteras/",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL",
+          "lat": 20.11,
+          "lon": -98.73
+        },
         {
           "id": "3ebcb0b2",
           "tipo": "cierre_total",
@@ -46,8 +63,8 @@
           "ruta": "Automovilista graba asalto a transporte de carga en la México-Cuautla:…",
           "descripcion": "Automovilista graba asalto a transporte de carga en la México-Cuautla: conductora retrocede para evitar ser víctima en el tramo del Edomex - Infobae. Automovilista graba asalto a transporte de carga en la México-Cuautla: conductora retrocede para evitar ser víctima en el tramo del Edomex Infobae",
           "recomendacion": "evitar ser víctima en el tramo del Edomex - Infobae",
-          "fecha": "11 octubre 2026 · 06:02 CST",
-          "fecha_iso": "2026-10-11T06:02:00-06:00",
+          "fecha": "11 octubre 2026 · 06:51 CST",
+          "fecha_iso": "2026-10-11T06:51:00-06:00",
           "fuente": "Infobae",
           "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQVmszZjVrUXpleXp5SW1QNEx0aGZ4aDFfQXFnbXlXU0MxVUJNcnN1VXh6WER6dGROTHU3UTV4ckxQblVSanhzRjZLTklaS2JHdlJ1T3lpb3lwdzB2TVJBcWZxMW9EQXNlTU5SV3A2TVdCdmJwNjc4WTY2ZkI4WWhfNHZqcDk0Z0FSWm52UmNBZ3FicGhNaDN4dk1fWmtZMXgwNlA5MWRmbGl2MFVYUjNNN0dmUjhrM2R1TDROSkRHYWdmUDQ4WUJfb0tJVC05cmVCT1lWYXlPTkVZU0p3N09fX2phc1JlVEc1QVdocksxRE1EMkozNDVoN0dkeS1VT29mZkJaMXd0UllLcXJq0gGnAkFVX3lxTE1JUUFvNWg4RERPdkVkQmNTR0xZYUVNTG56ZE1rV19xODJLcWFMVW9ESndWanUzNDJJZDJ5eEthWFFsSzFPd3VsNEcwNGkxbS1SY3dHU2pHbWg4LXE3dUNzX1pnay1FdEppVDFvbWxhdjMyMFBOWXc5d0FMSmthTmV1NnNTZUtmUHpQVkJPeXNwc1U5eWpTelNBV0x0QVVDTWVJZEt2RFJRa2RwOWdzZVRVWi1tNG5XOUY0eVhYX3VfdktQZnNKelRVZHFLckxsSmQzbGtyMU5DakphUlhUam91NHJrZ2Z5Mlotd2lwcWlHREhOd1FsYnQxZTAzb1YxSFpYRlkxTDloMmpyOVY1M25LUjA2Qm12X2E0bXR3bmpOWUpfNjFMQ0k?oc=5",
           "dot_color": "#e67e22",
@@ -57,9 +74,60 @@
           "lon": -99.7
         }
       ]
+    },
+    {
+      "tipo": "clima",
+      "color": "azul",
+      "icono": "🌧",
+      "label": "ALERTA METEOROLOGICA",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "7d54ec2d",
+          "tipo": "clima",
+          "ruta": "Saldo blanco preliminar en Colima por Huracán Simón…",
+          "descripcion": "Saldo blanco preliminar en Colima por Huracán Simón. Hasta el momento, los daños reportados de manera oficial se limitan a árboles caídos, encharcamientos severos y obstrucciones en diversas vialidades",
+          "recomendacion": "",
+          "fecha": "11 octubre 2026 · 17:06 CST",
+          "fecha_iso": "2026-10-11T17:06:00-06:00",
+          "fuente": "Quadratin Jalisco",
+          "url": "https://jalisco.quadratin.com.mx/sucesos/saldo-blanco-preliminar-en-colima-por-huracan-simon/",
+          "dot_color": "#3498db",
+          "badge": "badge-clima",
+          "badge_txt": "ALERTA CLIMA",
+          "lat": 19.24,
+          "lon": -103.72
+        }
+      ]
     }
   ],
   "para_mapa": [
+    {
+      "id": "7d54ec2d",
+      "tipo": "clima",
+      "ruta": "Saldo blanco preliminar en Colima por Huracán Simón…",
+      "descripcion": "Saldo blanco preliminar en Colima por Huracán Simón. Hasta el momento, los daños reportados de manera oficial se limitan a árboles caídos, encharcamientos severos y obstrucciones en diversas vialidades",
+      "fecha": "11 octubre 2026 · 17:06 CST",
+      "fuente": "Quadratin Jalisco",
+      "url": "https://jalisco.quadratin.com.mx/sucesos/saldo-blanco-preliminar-en-colima-por-huracan-simon/",
+      "dot_color": "#3498db",
+      "badge_txt": "ALERTA CLIMA",
+      "lat": 19.24,
+      "lon": -103.72
+    },
+    {
+      "id": "b86e47af",
+      "tipo": "cierre_total",
+      "ruta": "Lluvias dejan 65 derrumbes y 26 deslaves en Hidalgo; rehabilitan…",
+      "descripcion": "Lluvias dejan 65 derrumbes y 26 deslaves en Hidalgo; rehabilitan carreteras. En caminos y carreteras de la Sierra y la Huasteca. The post Lluvias dejan 65 derrumbes y 26 deslaves en Hidalgo; rehabilitan carreteras appeared first on Quadratin Hidalgo.",
+      "fecha": "11 octubre 2026 · 14:32 CST",
+      "fuente": "Quadratin Hidalgo",
+      "url": "https://hidalgo.quadratin.com.mx/sucesos/lluvias-dejan-65-derrumbes-y-26-deslaves-en-hidalgo-rehabilitan-carreteras/",
+      "dot_color": "#e74c3c",
+      "badge_txt": "CIERRE TOTAL",
+      "lat": 20.11,
+      "lon": -98.73
+    },
     {
       "id": "3ebcb0b2",
       "tipo": "cierre_total",
@@ -78,7 +146,7 @@
       "tipo": "cierre_parcial",
       "ruta": "Automovilista graba asalto a transporte de carga en la México-Cuautla:…",
       "descripcion": "Automovilista graba asalto a transporte de carga en la México-Cuautla: conductora retrocede para evitar ser víctima en el tramo del Edomex - Infobae. Automovilista graba asalto a transporte de carga en la México-Cuautla: conductora retrocede para evitar ser víctima en el tramo del Edomex Infobae",
-      "fecha": "11 octubre 2026 · 06:02 CST",
+      "fecha": "11 octubre 2026 · 06:51 CST",
       "fuente": "Infobae",
       "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQVmszZjVrUXpleXp5SW1QNEx0aGZ4aDFfQXFnbXlXU0MxVUJNcnN1VXh6WER6dGROTHU3UTV4ckxQblVSanhzRjZLTklaS2JHdlJ1T3lpb3lwdzB2TVJBcWZxMW9EQXNlTU5SV3A2TVdCdmJwNjc4WTY2ZkI4WWhfNHZqcDk0Z0FSWm52UmNBZ3FicGhNaDN4dk1fWmtZMXgwNlA5MWRmbGl2MFVYUjNNN0dmUjhrM2R1TDROSkRHYWdmUDQ4WUJfb0tJVC05cmVCT1lWYXlPTkVZU0p3N09fX2phc1JlVEc1QVdocksxRE1EMkozNDVoN0dkeS1VT29mZkJaMXd0UllLcXJq0gGnAkFVX3lxTE1JUUFvNWg4RERPdkVkQmNTR0xZYUVNTG56ZE1rV19xODJLcWFMVW9ESndWanUzNDJJZDJ5eEthWFFsSzFPd3VsNEcwNGkxbS1SY3dHU2pHbWg4LXE3dUNzX1pnay1FdEppVDFvbWxhdjMyMFBOWXc5d0FMSmthTmV1NnNTZUtmUHpQVkJPeXNwc1U5eWpTelNBV0x0QVVDTWVJZEt2RFJRa2RwOWdzZVRVWi1tNG5XOUY0eVhYX3VfdktQZnNKelRVZHFLckxsSmQzbGtyMU5DakphUlhUam91NHJrZ2Z5Mlotd2lwcWlHREhOd1FsYnQxZTAzb1YxSFpYRlkxTDloMmpyOVY1M25LUjA2Qm12X2E0bXR3bmpOWUpfNjFMQ0k?oc=5",
       "dot_color": "#e67e22",
