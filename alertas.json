@@ -1,12 +1,51 @@
 {
-  "ultima_actualizacion": "2026-10-11T02:45:56.235249-06:00",
-  "ultima_actualizacion_legible": "11 de octubre de 2026 · 02:45 CST",
-  "total": 0,
+  "ultima_actualizacion": "2026-10-11T09:06:37.219136-06:00",
+  "ultima_actualizacion_legible": "11 de octubre de 2026 · 09:06 CST",
+  "total": 1,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News"
   ],
-  "grupos": [],
-  "para_mapa": [],
-  "nota": "Sin alertas activas en la ventana de tiempo configurada."
+  "grupos": [
+    {
+      "tipo": "cierre_parcial",
+      "color": "amarillo",
+      "icono": "🟡",
+      "label": "CIERRE PARCIAL / ACCIDENTES",
+      "col2": true,
+      "alertas": [
+        {
+          "id": "5f187acd",
+          "tipo": "cierre_parcial",
+          "ruta": "Automovilista graba asalto a transporte de carga en la México-Cuautla:…",
+          "descripcion": "Automovilista graba asalto a transporte de carga en la México-Cuautla: conductora retrocede para evitar ser víctima en el tramo del Edomex - Infobae. Automovilista graba asalto a transporte de carga en la México-Cuautla: conductora retrocede para evitar ser víctima en el tramo del Edomex Infobae",
+          "recomendacion": "evitar ser víctima en el tramo del Edomex - Infobae",
+          "fecha": "11 octubre 2026 · 06:02 CST",
+          "fecha_iso": "2026-10-11T06:02:00-06:00",
+          "fuente": "Infobae",
+          "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQVmszZjVrUXpleXp5SW1QNEx0aGZ4aDFfQXFnbXlXU0MxVUJNcnN1VXh6WER6dGROTHU3UTV4ckxQblVSanhzRjZLTklaS2JHdlJ1T3lpb3lwdzB2TVJBcWZxMW9EQXNlTU5SV3A2TVdCdmJwNjc4WTY2ZkI4WWhfNHZqcDk0Z0FSWm52UmNBZ3FicGhNaDN4dk1fWmtZMXgwNlA5MWRmbGl2MFVYUjNNN0dmUjhrM2R1TDROSkRHYWdmUDQ4WUJfb0tJVC05cmVCT1lWYXlPTkVZU0p3N09fX2phc1JlVEc1QVdocksxRE1EMkozNDVoN0dkeS1VT29mZkJaMXd0UllLcXJq0gGnAkFVX3lxTE1JUUFvNWg4RERPdkVkQmNTR0xZYUVNTG56ZE1rV19xODJLcWFMVW9ESndWanUzNDJJZDJ5eEthWFFsSzFPd3VsNEcwNGkxbS1SY3dHU2pHbWg4LXE3dUNzX1pnay1FdEppVDFvbWxhdjMyMFBOWXc5d0FMSmthTmV1NnNTZUtmUHpQVkJPeXNwc1U5eWpTelNBV0x0QVVDTWVJZEt2RFJRa2RwOWdzZVRVWi1tNG5XOUY0eVhYX3VfdktQZnNKelRVZHFLckxsSmQzbGtyMU5DakphUlhUam91NHJrZ2Z5Mlotd2lwcWlHREhOd1FsYnQxZTAzb1YxSFpYRlkxTDloMmpyOVY1M25LUjA2Qm12X2E0bXR3bmpOWUpfNjFMQ0k?oc=5",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 19.35,
+          "lon": -99.7
+        }
+      ]
+    }
+  ],
+  "para_mapa": [
+    {
+      "id": "5f187acd",
+      "tipo": "cierre_parcial",
+      "ruta": "Automovilista graba asalto a transporte de carga en la México-Cuautla:…",
+      "descripcion": "Automovilista graba asalto a transporte de carga en la México-Cuautla: conductora retrocede para evitar ser víctima en el tramo del Edomex - Infobae. Automovilista graba asalto a transporte de carga en la México-Cuautla: conductora retrocede para evitar ser víctima en el tramo del Edomex Infobae",
+      "fecha": "11 octubre 2026 · 06:02 CST",
+      "fuente": "Infobae",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQVmszZjVrUXpleXp5SW1QNEx0aGZ4aDFfQXFnbXlXU0MxVUJNcnN1VXh6WER6dGROTHU3UTV4ckxQblVSanhzRjZLTklaS2JHdlJ1T3lpb3lwdzB2TVJBcWZxMW9EQXNlTU5SV3A2TVdCdmJwNjc4WTY2ZkI4WWhfNHZqcDk0Z0FSWm52UmNBZ3FicGhNaDN4dk1fWmtZMXgwNlA5MWRmbGl2MFVYUjNNN0dmUjhrM2R1TDROSkRHYWdmUDQ4WUJfb0tJVC05cmVCT1lWYXlPTkVZU0p3N09fX2phc1JlVEc1QVdocksxRE1EMkozNDVoN0dkeS1VT29mZkJaMXd0UllLcXJq0gGnAkFVX3lxTE1JUUFvNWg4RERPdkVkQmNTR0xZYUVNTG56ZE1rV19xODJLcWFMVW9ESndWanUzNDJJZDJ5eEthWFFsSzFPd3VsNEcwNGkxbS1SY3dHU2pHbWg4LXE3dUNzX1pnay1FdEppVDFvbWxhdjMyMFBOWXc5d0FMSmthTmV1NnNTZUtmUHpQVkJPeXNwc1U5eWpTelNBV0x0QVVDTWVJZEt2RFJRa2RwOWdzZVRVWi1tNG5XOUY0eVhYX3VfdktQZnNKelRVZHFLckxsSmQzbGtyMU5DakphUlhUam91NHJrZ2Z5Mlotd2lwcWlHREhOd1FsYnQxZTAzb1YxSFpYRlkxTDloMmpyOVY1M25LUjA2Qm12X2E0bXR3bmpOWUpfNjFMQ0k?oc=5",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 19.35,
+      "lon": -99.7
+    }
+  ]
 }
