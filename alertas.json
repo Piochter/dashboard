@@ -1,13 +1,38 @@
 {
-  "ultima_actualizacion": "2026-10-12T03:31:01.790265-06:00",
-  "ultima_actualizacion_legible": "12 de octubre de 2026 · 03:31 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-10-12T13:15:19.114425-06:00",
+  "ultima_actualizacion_legible": "12 de octubre de 2026 · 13:15 CST",
+  "total": 4,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Medios regionales",
-    "Quadratin + regionales"
+    "Google News",
+    "Medios nacionales",
+    "Quadratin + regionales",
+    "Telegram"
   ],
   "grupos": [
+    {
+      "tipo": "bloqueo",
+      "color": "rojo",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "b662b549",
+          "tipo": "bloqueo",
+          "ruta": "Manifestantes bloquean carretera Orizaba-Tehuacán; piden rehabilitación de la vía -…",
+          "descripcion": "Manifestantes bloquean carretera Orizaba-Tehuacán; piden rehabilitación de la vía - La Silla Rota. Manifestantes bloquean carretera Orizaba-Tehuacán; piden rehabilitación de la vía La Silla Rota",
+          "recomendacion": "",
+          "fecha": "12 octubre 2026 · 10:29 CST",
+          "fecha_iso": "2026-10-12T10:29:00-06:00",
+          "fuente": "La Silla Rota",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUmtZU3ZPSzdJVWsxc0k4Q3JvY1Z2cEZlNi1WcEFGX0pzWXVUeVVJd244aUhXajJDQl9kbEZrUEZmRjJGWWdwVjhiSm04N3lEbTVzY3dxc0FwOTdkWUF5ckE3QUNJN3N1QS1mQ2JIZmQ1MjN3Wl9yczRaOGpTaFhsR2VSNGZCanlUaHVxUUl3c0ZqSXdNazNpUG8zM3NWanJKVDNONkQzeFhqWVRkZUU5UXRrOGNVWGZPLTBHdkNyUWlTRG41enEyUHJxemp5Nmk5cmQ4Si1YNEZVcFU?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        }
+      ]
+    },
     {
       "tipo": "cierre_parcial",
       "color": "amarillo",
@@ -16,15 +41,31 @@
       "col2": true,
       "alertas": [
         {
-          "id": "68aa5831",
+          "id": "ea2416cc",
           "tipo": "cierre_parcial",
-          "ruta": "Brutal choque en Irapuato deja 5 heridos en el bulevar…",
-          "descripcion": "Brutal choque en Irapuato deja 5 heridos en el bulevar Solidaridad. De acuerdo con los testigos, el choque fue tan fuerte que ambas unidades giraron y quedaron en lados opuestos a la circulación.",
+          "ruta": "🚘 Ch0qu3 de tráiler provoca intenso tráfico en la #Toluca-#Atlacomulco…",
+          "descripcion": "🚘 Ch0qu3 de tráiler provoca intenso tráfico en la #Toluca-#Atlacomulco\n\nhttps://lajornadaestadodemexico.com/choque-de-trailer-provoca-intenso-trafico-en-la-toluca-atlacomulco/",
           "recomendacion": "",
-          "fecha": "11 octubre 2026 · 20:35 CST",
-          "fecha_iso": "2026-10-11T20:35:00-06:00",
-          "fuente": "AM Guanajuato",
-          "url": "https://www.am.com.mx/irapuato/2026/10/11/brutal-choque-en-irapuato-deja-5-heridos-en-el-bulevar-solidaridad-1854097.html",
+          "fecha": "12 octubre 2026 · 10:48 CST",
+          "fecha_iso": "2026-10-12T10:48:00-06:00",
+          "fuente": "Telegram @jornadaedomex",
+          "url": "https://t.me/jornadaedomex/12339",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 19.29,
+          "lon": -99.66
+        },
+        {
+          "id": "d8734708",
+          "tipo": "cierre_parcial",
+          "ruta": "Muere menor por desplome de barda en la Mixteca; hay…",
+          "descripcion": "Muere menor por desplome de barda en la Mixteca; hay otro herido. También hubo obstrucciones carreteras por caída de rocas.",
+          "recomendacion": "",
+          "fecha": "12 octubre 2026 · 09:20 CST",
+          "fecha_iso": "2026-10-12T09:20:00-06:00",
+          "fuente": "Quadratin Oaxaca",
+          "url": "https://oaxaca.quadratin.com.mx/muere-menor-por-desplome-de-barda-en-la-mixteca-hay-otro-herido/",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL"
@@ -39,66 +80,50 @@
       "col2": false,
       "alertas": [
         {
-          "id": "1876240b",
+          "id": "14b0592a",
           "tipo": "clima",
-          "ruta": "Lluvia intensa provoca inundaciones y complica circulación en Puebla…",
-          "descripcion": "Lluvia intensa provoca inundaciones y complica circulación en Puebla. Lluvia intensa provoca inundaciones en Puebla capital",
+          "ruta": "Huracán Simon se degrada a categoría 3; cambia de ruta…",
+          "descripcion": "Huracán Simon se degrada a categoría 3; cambia de ruta y afecta costas del Pacífico. El huracán Simon, que se previó que ayer tocara tierra, cambió de curso y al cierre de esta edición se desplazaba lentamente, paralelo al litoral del Pacífico mexicano, en la categoría 3 de la escala Saffir-Simpson, con vientos sostenidos de 195 kilómetros por hora (km/h) y rachas hasta de 240 km/h. No obstante, persistieron vientos, oleaje y lluvias extraordinarias en municipios costeros.",
           "recomendacion": "",
-          "fecha": "11 octubre 2026 · 19:52 CST",
-          "fecha_iso": "2026-10-11T19:52:00-06:00",
-          "fuente": "Quadratin Puebla",
-          "url": "https://puebla.quadratin.com.mx/sucesos/lluvia-intensa-provoca-inundaciones-y-complica-circulacion-en-puebla/",
+          "fecha": "12 octubre 2026 · 02:04 CST",
+          "fecha_iso": "2026-10-12T02:04:00-06:00",
+          "fuente": "La Jornada Estados",
+          "url": "https://www.jornada.com.mx/2026/10/12/estados/026n1est?partner=rss",
           "dot_color": "#3498db",
           "badge": "badge-clima",
           "badge_txt": "ALERTA CLIMA",
-          "lat": 19.04,
-          "lon": -98.2
-        },
-        {
-          "id": "7d54ec2d",
-          "tipo": "clima",
-          "ruta": "Saldo blanco preliminar en Colima por Huracán Simón…",
-          "descripcion": "Saldo blanco preliminar en Colima por Huracán Simón. Hasta el momento, los daños reportados de manera oficial se limitan a árboles caídos, encharcamientos severos y obstrucciones en diversas vialidades",
-          "recomendacion": "",
-          "fecha": "11 octubre 2026 · 17:06 CST",
-          "fecha_iso": "2026-10-11T17:06:00-06:00",
-          "fuente": "Quadratin Jalisco",
-          "url": "https://jalisco.quadratin.com.mx/sucesos/saldo-blanco-preliminar-en-colima-por-huracan-simon/",
-          "dot_color": "#3498db",
-          "badge": "badge-clima",
-          "badge_txt": "ALERTA CLIMA",
-          "lat": 19.24,
-          "lon": -103.72
+          "lat": 25.2,
+          "lon": -102.0
         }
       ]
     }
   ],
   "para_mapa": [
     {
-      "id": "1876240b",
-      "tipo": "clima",
-      "ruta": "Lluvia intensa provoca inundaciones y complica circulación en Puebla…",
-      "descripcion": "Lluvia intensa provoca inundaciones y complica circulación en Puebla. Lluvia intensa provoca inundaciones en Puebla capital",
-      "fecha": "11 octubre 2026 · 19:52 CST",
-      "fuente": "Quadratin Puebla",
-      "url": "https://puebla.quadratin.com.mx/sucesos/lluvia-intensa-provoca-inundaciones-y-complica-circulacion-en-puebla/",
-      "dot_color": "#3498db",
-      "badge_txt": "ALERTA CLIMA",
-      "lat": 19.04,
-      "lon": -98.2
+      "id": "ea2416cc",
+      "tipo": "cierre_parcial",
+      "ruta": "🚘 Ch0qu3 de tráiler provoca intenso tráfico en la #Toluca-#Atlacomulco…",
+      "descripcion": "🚘 Ch0qu3 de tráiler provoca intenso tráfico en la #Toluca-#Atlacomulco\n\nhttps://lajornadaestadodemexico.com/choque-de-trailer-provoca-intenso-trafico-en-la-toluca-atlacomulco/",
+      "fecha": "12 octubre 2026 · 10:48 CST",
+      "fuente": "Telegram @jornadaedomex",
+      "url": "https://t.me/jornadaedomex/12339",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 19.29,
+      "lon": -99.66
     },
     {
-      "id": "7d54ec2d",
+      "id": "14b0592a",
       "tipo": "clima",
-      "ruta": "Saldo blanco preliminar en Colima por Huracán Simón…",
-      "descripcion": "Saldo blanco preliminar en Colima por Huracán Simón. Hasta el momento, los daños reportados de manera oficial se limitan a árboles caídos, encharcamientos severos y obstrucciones en diversas vialidades",
-      "fecha": "11 octubre 2026 · 17:06 CST",
-      "fuente": "Quadratin Jalisco",
-      "url": "https://jalisco.quadratin.com.mx/sucesos/saldo-blanco-preliminar-en-colima-por-huracan-simon/",
+      "ruta": "Huracán Simon se degrada a categoría 3; cambia de ruta…",
+      "descripcion": "Huracán Simon se degrada a categoría 3; cambia de ruta y afecta costas del Pacífico. El huracán Simon, que se previó que ayer tocara tierra, cambió de curso y al cierre de esta edición se desplazaba lentamente, paralelo al litoral del Pacífico mexicano, en la categoría 3 de la escala Saffir-Simpson, con vientos sostenidos de 195 kilómetros por hora (km/h) y rachas hasta de 240 km/h. No obstante, persistieron vientos, oleaje y lluvias extraordinarias en municipios costeros.",
+      "fecha": "12 octubre 2026 · 02:04 CST",
+      "fuente": "La Jornada Estados",
+      "url": "https://www.jornada.com.mx/2026/10/12/estados/026n1est?partner=rss",
       "dot_color": "#3498db",
       "badge_txt": "ALERTA CLIMA",
-      "lat": 19.24,
-      "lon": -103.72
+      "lat": 25.2,
+      "lon": -102.0
     }
   ]
 }
