@@ -1,34 +1,33 @@
 {
-  "ultima_actualizacion": "2026-10-11T20:21:09.528197-06:00",
-  "ultima_actualizacion_legible": "11 de octubre de 2026 · 20:21 CST",
+  "ultima_actualizacion": "2026-10-12T03:31:01.790265-06:00",
+  "ultima_actualizacion_legible": "12 de octubre de 2026 · 03:31 CST",
   "total": 3,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
+    "Medios regionales",
     "Quadratin + regionales"
   ],
   "grupos": [
     {
-      "tipo": "cierre_total",
-      "color": "rojo",
-      "icono": "🔴",
-      "label": "CIERRE TOTAL",
-      "col2": false,
+      "tipo": "cierre_parcial",
+      "color": "amarillo",
+      "icono": "🟡",
+      "label": "CIERRE PARCIAL / ACCIDENTES",
+      "col2": true,
       "alertas": [
         {
-          "id": "b86e47af",
-          "tipo": "cierre_total",
-          "ruta": "Lluvias dejan 65 derrumbes y 26 deslaves en Hidalgo; rehabilitan…",
-          "descripcion": "Lluvias dejan 65 derrumbes y 26 deslaves en Hidalgo; rehabilitan carreteras. En caminos y carreteras de la Sierra y la Huasteca. The post Lluvias dejan 65 derrumbes y 26 deslaves en Hidalgo; rehabilitan carreteras appeared first on Quadratin Hidalgo.",
+          "id": "68aa5831",
+          "tipo": "cierre_parcial",
+          "ruta": "Brutal choque en Irapuato deja 5 heridos en el bulevar…",
+          "descripcion": "Brutal choque en Irapuato deja 5 heridos en el bulevar Solidaridad. De acuerdo con los testigos, el choque fue tan fuerte que ambas unidades giraron y quedaron en lados opuestos a la circulación.",
           "recomendacion": "",
-          "fecha": "11 octubre 2026 · 14:32 CST",
-          "fecha_iso": "2026-10-11T14:32:00-06:00",
-          "fuente": "Quadratin Hidalgo",
-          "url": "https://hidalgo.quadratin.com.mx/sucesos/lluvias-dejan-65-derrumbes-y-26-deslaves-en-hidalgo-rehabilitan-carreteras/",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL",
-          "lat": 20.11,
-          "lon": -98.73
+          "fecha": "11 octubre 2026 · 20:35 CST",
+          "fecha_iso": "2026-10-11T20:35:00-06:00",
+          "fuente": "AM Guanajuato",
+          "url": "https://www.am.com.mx/irapuato/2026/10/11/brutal-choque-en-irapuato-deja-5-heridos-en-el-bulevar-solidaridad-1854097.html",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
         }
       ]
     },
@@ -100,19 +99,6 @@
       "badge_txt": "ALERTA CLIMA",
       "lat": 19.24,
       "lon": -103.72
-    },
-    {
-      "id": "b86e47af",
-      "tipo": "cierre_total",
-      "ruta": "Lluvias dejan 65 derrumbes y 26 deslaves en Hidalgo; rehabilitan…",
-      "descripcion": "Lluvias dejan 65 derrumbes y 26 deslaves en Hidalgo; rehabilitan carreteras. En caminos y carreteras de la Sierra y la Huasteca. The post Lluvias dejan 65 derrumbes y 26 deslaves en Hidalgo; rehabilitan carreteras appeared first on Quadratin Hidalgo.",
-      "fecha": "11 octubre 2026 · 14:32 CST",
-      "fuente": "Quadratin Hidalgo",
-      "url": "https://hidalgo.quadratin.com.mx/sucesos/lluvias-dejan-65-derrumbes-y-26-deslaves-en-hidalgo-rehabilitan-carreteras/",
-      "dot_color": "#e74c3c",
-      "badge_txt": "CIERRE TOTAL",
-      "lat": 20.11,
-      "lon": -98.73
     }
   ]
 }
