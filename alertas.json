@@ -1,38 +1,12 @@
 {
-  "ultima_actualizacion": "2026-10-12T19:22:56.491343-06:00",
-  "ultima_actualizacion_legible": "12 de octubre de 2026 · 19:22 CST",
-  "total": 4,
+  "ultima_actualizacion": "2026-10-13T01:58:20.250372-06:00",
+  "ultima_actualizacion_legible": "13 de octubre de 2026 · 01:58 CST",
+  "total": 1,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News",
-    "Medios regionales",
-    "Quadratin + regionales",
-    "Telegram"
+    "Quadratin + regionales"
   ],
   "grupos": [
-    {
-      "tipo": "bloqueo",
-      "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "b662b549",
-          "tipo": "bloqueo",
-          "ruta": "Manifestantes bloquean carretera Orizaba-Tehuacán; piden rehabilitación de la vía -…",
-          "descripcion": "Manifestantes bloquean carretera Orizaba-Tehuacán; piden rehabilitación de la vía - La Silla Rota. Manifestantes bloquean carretera Orizaba-Tehuacán; piden rehabilitación de la vía La Silla Rota",
-          "recomendacion": "",
-          "fecha": "12 octubre 2026 · 10:29 CST",
-          "fecha_iso": "2026-10-12T10:29:00-06:00",
-          "fuente": "La Silla Rota",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUmtZU3ZPSzdJVWsxc0k4Q3JvY1Z2cEZlNi1WcEFGX0pzWXVUeVVJd244aUhXajJDQl9kbEZrUEZmRjJGWWdwVjhiSm04N3lEbTVzY3dxc0FwOTdkWUF5ckE3QUNJN3N1QS1mQ2JIZmQ1MjN3Wl9yczRaOGpTaFhsR2VSNGZCanlUaHVxUUl3c0ZqSXdNazNpUG8zM3NWanJKVDNONkQzeFhqWVRkZUU5UXRrOGNVWGZPLTBHdkNyUWlTRG41enEyUHJxemp5Nmk5cmQ4Si1YNEZVcFU?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        }
-      ]
-    },
     {
       "tipo": "cierre_parcial",
       "color": "amarillo",
@@ -40,20 +14,6 @@
       "label": "CIERRE PARCIAL / ACCIDENTES",
       "col2": true,
       "alertas": [
-        {
-          "id": "30ce1326",
-          "tipo": "cierre_parcial",
-          "ruta": "carretera a Saltillo deja dos personas lesionadas",
-          "descripcion": "Accidente en carretera a Saltillo deja dos personas lesionadas. Luego del choque en el que se vieron involucrados tres vehículos se registró el incendio de un camión de carga",
-          "recomendacion": "",
-          "fecha": "12 octubre 2026 · 18:03 CST",
-          "fecha_iso": "2026-10-12T18:03:00-06:00",
-          "fuente": "El Informador Jalisco",
-          "url": "https://www.informador.mx/jalisco/seguridad-en-jalisco-accidente-en-carretera-a-saltillo-deja-dos-personas-lesionadas-20261012-0171.html",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
-        },
         {
           "id": "1e301e58",
           "tipo": "cierre_parcial",
@@ -69,22 +29,6 @@
           "badge_txt": "CIERRE PARCIAL",
           "lat": 19.35,
           "lon": -98.4
-        },
-        {
-          "id": "ea2416cc",
-          "tipo": "cierre_parcial",
-          "ruta": "🚘 Ch0qu3 de tráiler provoca intenso tráfico en la #Toluca-#Atlacomulco…",
-          "descripcion": "🚘 Ch0qu3 de tráiler provoca intenso tráfico en la #Toluca-#Atlacomulco\n\nhttps://lajornadaestadodemexico.com/choque-de-trailer-provoca-intenso-trafico-en-la-toluca-atlacomulco/",
-          "recomendacion": "",
-          "fecha": "12 octubre 2026 · 10:48 CST",
-          "fecha_iso": "2026-10-12T10:48:00-06:00",
-          "fuente": "Telegram @jornadaedomex",
-          "url": "https://t.me/jornadaedomex/12339",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.29,
-          "lon": -99.66
         }
       ]
     }
@@ -102,19 +46,6 @@
       "badge_txt": "CIERRE PARCIAL",
       "lat": 19.35,
       "lon": -98.4
-    },
-    {
-      "id": "ea2416cc",
-      "tipo": "cierre_parcial",
-      "ruta": "🚘 Ch0qu3 de tráiler provoca intenso tráfico en la #Toluca-#Atlacomulco…",
-      "descripcion": "🚘 Ch0qu3 de tráiler provoca intenso tráfico en la #Toluca-#Atlacomulco\n\nhttps://lajornadaestadodemexico.com/choque-de-trailer-provoca-intenso-trafico-en-la-toluca-atlacomulco/",
-      "fecha": "12 octubre 2026 · 10:48 CST",
-      "fuente": "Telegram @jornadaedomex",
-      "url": "https://t.me/jornadaedomex/12339",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.29,
-      "lon": -99.66
     }
   ]
 }
