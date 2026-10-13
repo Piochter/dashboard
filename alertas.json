@@ -1,10 +1,11 @@
 {
-  "ultima_actualizacion": "2026-10-13T14:45:48.179968-06:00",
-  "ultima_actualizacion_legible": "13 de octubre de 2026 · 14:45 CST",
-  "total": 4,
+  "ultima_actualizacion": "2026-10-13T17:57:17.728825-06:00",
+  "ultima_actualizacion_legible": "13 de octubre de 2026 · 17:57 CST",
+  "total": 5,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
+    "Medios regionales",
     "Quadratin + regionales",
     "Telegram"
   ],
@@ -16,6 +17,38 @@
       "label": "BLOQUEOS / MANIFESTACIONES",
       "col2": false,
       "alertas": [
+        {
+          "id": "f6ffdb67",
+          "tipo": "bloqueo",
+          "ruta": "Protestan por agua limpia y liberación de detenidos en Periférico…",
+          "descripcion": "Protestan por agua limpia y liberación de detenidos en Periférico Norte, CUCEI y el Centro de Guadalajara. Estudiantes y ciudadanos bloquearon vialidades en Guadalajara para exigir agua limpia y la liberación de los detenidos durante la protesta en Casa Jalisco",
+          "recomendacion": "",
+          "fecha": "13 octubre 2026 · 17:05 CST",
+          "fecha_iso": "2026-10-13T17:05:00-06:00",
+          "fuente": "El Informador Jalisco",
+          "url": "https://www.informador.mx/jalisco/protestan-por-agua-limpia-y-liberacion-de-detenidos-en-periferico-norte-cucei-y-el-centro-de-guadalajara-20261013-0124.html",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 20.66,
+          "lon": -103.35
+        },
+        {
+          "id": "989be4db",
+          "tipo": "bloqueo",
+          "ruta": "Marchan trabajadores y jubilados del IMSS por salarios y pensiones…",
+          "descripcion": "Marchan trabajadores y jubilados del IMSS por salarios y pensiones en Ciudad de México. Desde el Centro México Siglo XXI, en la Colonia Doctores, trabajadores de la salud y jubilados comenzaron una manifestación rumbo a las oficinas The post Marchan trabajadores y jubilados del IMSS por salarios y pensiones en Ciudad de México appeared first on Quadratin Hidalgo.",
+          "recomendacion": "",
+          "fecha": "13 octubre 2026 · 17:01 CST",
+          "fecha_iso": "2026-10-13T17:01:00-06:00",
+          "fuente": "Quadratin Hidalgo",
+          "url": "https://hidalgo.quadratin.com.mx/Salud-2/marchan-trabajadores-y-jubilados-del-imss-por-salarios-y-pensiones-en-ciudad-de-mexico/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 19.3,
+          "lon": -104.0
+        },
         {
           "id": "cc723e8b",
           "tipo": "bloqueo",
@@ -39,22 +72,6 @@
       "label": "CIERRE PARCIAL / ACCIDENTES",
       "col2": true,
       "alertas": [
-        {
-          "id": "7cfae14d",
-          "tipo": "cierre_parcial",
-          "ruta": "Choque múltiple en la México-Pachuca deja 6 lesionados en Ecatepec…",
-          "descripcion": "Choque múltiple en la México-Pachuca deja 6 lesionados en Ecatepec. Maniobras para retirar las unidades involucradas y restablecer la circulación. The post Choque múltiple en la México-Pachuca deja 6 lesionados en Ecatepec appeared first on Quadratin Hidalgo.",
-          "recomendacion": "",
-          "fecha": "13 octubre 2026 · 12:05 CST",
-          "fecha_iso": "2026-10-13T12:05:00-06:00",
-          "fuente": "Quadratin Hidalgo",
-          "url": "https://hidalgo.quadratin.com.mx/sucesos/choque-multiple-en-la-mexico-pachuca-deja-seis-lesionados-en-ecatepec/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 20.11,
-          "lon": -98.73
-        },
         {
           "id": "2509de22",
           "tipo": "cierre_parcial",
@@ -90,17 +107,30 @@
   ],
   "para_mapa": [
     {
-      "id": "7cfae14d",
-      "tipo": "cierre_parcial",
-      "ruta": "Choque múltiple en la México-Pachuca deja 6 lesionados en Ecatepec…",
-      "descripcion": "Choque múltiple en la México-Pachuca deja 6 lesionados en Ecatepec. Maniobras para retirar las unidades involucradas y restablecer la circulación. The post Choque múltiple en la México-Pachuca deja 6 lesionados en Ecatepec appeared first on Quadratin Hidalgo.",
-      "fecha": "13 octubre 2026 · 12:05 CST",
+      "id": "f6ffdb67",
+      "tipo": "bloqueo",
+      "ruta": "Protestan por agua limpia y liberación de detenidos en Periférico…",
+      "descripcion": "Protestan por agua limpia y liberación de detenidos en Periférico Norte, CUCEI y el Centro de Guadalajara. Estudiantes y ciudadanos bloquearon vialidades en Guadalajara para exigir agua limpia y la liberación de los detenidos durante la protesta en Casa Jalisco",
+      "fecha": "13 octubre 2026 · 17:05 CST",
+      "fuente": "El Informador Jalisco",
+      "url": "https://www.informador.mx/jalisco/protestan-por-agua-limpia-y-liberacion-de-detenidos-en-periferico-norte-cucei-y-el-centro-de-guadalajara-20261013-0124.html",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 20.66,
+      "lon": -103.35
+    },
+    {
+      "id": "989be4db",
+      "tipo": "bloqueo",
+      "ruta": "Marchan trabajadores y jubilados del IMSS por salarios y pensiones…",
+      "descripcion": "Marchan trabajadores y jubilados del IMSS por salarios y pensiones en Ciudad de México. Desde el Centro México Siglo XXI, en la Colonia Doctores, trabajadores de la salud y jubilados comenzaron una manifestación rumbo a las oficinas The post Marchan trabajadores y jubilados del IMSS por salarios y pensiones en Ciudad de México appeared first on Quadratin Hidalgo.",
+      "fecha": "13 octubre 2026 · 17:01 CST",
       "fuente": "Quadratin Hidalgo",
-      "url": "https://hidalgo.quadratin.com.mx/sucesos/choque-multiple-en-la-mexico-pachuca-deja-seis-lesionados-en-ecatepec/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 20.11,
-      "lon": -98.73
+      "url": "https://hidalgo.quadratin.com.mx/Salud-2/marchan-trabajadores-y-jubilados-del-imss-por-salarios-y-pensiones-en-ciudad-de-mexico/",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 19.3,
+      "lon": -104.0
     },
     {
       "id": "2509de22",
