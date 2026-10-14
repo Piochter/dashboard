@@ -1,10 +1,9 @@
 {
-  "ultima_actualizacion": "2026-10-14T12:34:25.712304-06:00",
-  "ultima_actualizacion_legible": "14 de octubre de 2026 · 12:34 CST",
-  "total": 6,
+  "ultima_actualizacion": "2026-10-14T15:56:39.514941-06:00",
+  "ultima_actualizacion_legible": "14 de octubre de 2026 · 15:56 CST",
+  "total": 5,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News",
     "Medios nacionales",
     "Telegram"
   ],
@@ -31,20 +30,6 @@
           "badge_txt": "BLOQUEO",
           "lat": 20.66,
           "lon": -103.35
-        },
-        {
-          "id": "88db57a1",
-          "tipo": "bloqueo",
-          "ruta": "Bloqueos carreteras HOY MIÉRCOLES 14 de octubre: autopistas cerradas en…",
-          "descripcion": "Bloqueos carreteras HOY MIÉRCOLES 14 de octubre: autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY MIÉRCOLES 14 de octubre: autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
-          "recomendacion": "",
-          "fecha": "14 octubre 2026 · 07:25 CST",
-          "fecha_iso": "2026-10-14T07:25:00-06:00",
-          "fuente": "Eje Central",
-          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQcUU4Z0FhYUhSSWowaFVaT2lyeGh1QnNFd0pPYVBhOFJ2bnpjVFVacUlGby0tdFJwQldzWGRacDliei1vZVJmLU1VZ3E4R1hpc2Zfcm5NRkhndzNLaVRDcWFldTJwNEdVb2VkVjR6czgxRXVmZzNhMXZOQmZmRkNoVnRneXZVdzBKNTd6LTIwb0FaM2VJajk3WnlMZmZTV3l3LWRuU1VzRUVGS2xKQ0piQjJ6cy01WVdLdUFscV93UmVHM1BSVS1RaUVDVHpuWF8tYU1TYkF0dkdHZTMwUVh4M0tzbEY5RlZycmluSmF5dDh0MnY2VEpB?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
         },
         {
           "id": "6847e4cc",
