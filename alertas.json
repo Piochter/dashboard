@@ -1,11 +1,9 @@
 {
-  "ultima_actualizacion": "2026-10-13T17:57:17.728825-06:00",
-  "ultima_actualizacion_legible": "13 de octubre de 2026 · 17:57 CST",
-  "total": 5,
+  "ultima_actualizacion": "2026-10-13T21:04:21.441243-06:00",
+  "ultima_actualizacion_legible": "13 de octubre de 2026 · 21:04 CST",
+  "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News",
-    "Medios regionales",
     "Quadratin + regionales",
     "Telegram"
   ],
@@ -17,22 +15,6 @@
       "label": "BLOQUEOS / MANIFESTACIONES",
       "col2": false,
       "alertas": [
-        {
-          "id": "f6ffdb67",
-          "tipo": "bloqueo",
-          "ruta": "Protestan por agua limpia y liberación de detenidos en Periférico…",
-          "descripcion": "Protestan por agua limpia y liberación de detenidos en Periférico Norte, CUCEI y el Centro de Guadalajara. Estudiantes y ciudadanos bloquearon vialidades en Guadalajara para exigir agua limpia y la liberación de los detenidos durante la protesta en Casa Jalisco",
-          "recomendacion": "",
-          "fecha": "13 octubre 2026 · 17:05 CST",
-          "fecha_iso": "2026-10-13T17:05:00-06:00",
-          "fuente": "El Informador Jalisco",
-          "url": "https://www.informador.mx/jalisco/protestan-por-agua-limpia-y-liberacion-de-detenidos-en-periferico-norte-cucei-y-el-centro-de-guadalajara-20261013-0124.html",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 20.66,
-          "lon": -103.35
-        },
         {
           "id": "989be4db",
           "tipo": "bloqueo",
@@ -48,20 +30,6 @@
           "badge_txt": "BLOQUEO",
           "lat": 19.3,
           "lon": -104.0
-        },
-        {
-          "id": "cc723e8b",
-          "tipo": "bloqueo",
-          "ruta": "Bloqueos carreteras HOY MARTES 13 de octubre: autopistas cerradas en…",
-          "descripcion": "Bloqueos carreteras HOY MARTES 13 de octubre: autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY MARTES 13 de octubre: autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
-          "recomendacion": "",
-          "fecha": "13 octubre 2026 · 07:36 CST",
-          "fecha_iso": "2026-10-13T07:36:00-06:00",
-          "fuente": "Eje Central",
-          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNYmRSZUhtNWk4eUdmaS1JaXRYOWtWMG1ZcjgxejBZQzJ0MmZMWWgzeEkyclZ6MHlhekFUX1FpNEJmeTdoU19ILWcyakVvaXdTSWxxbFZtaE5VRXkyYkNUSnByRFd3cE13Nk1qaEE2TTdVQkpMZC1NYXY4ZGFOZERXNXM4U1hCbFB0b0FmRE8xNkt2SXVyS0RQLVJYVWs1eVV5RUxlNkVhMlo0SDFhdkcyOHUzOHZFZUN5NU55Ym9MbFZFRndjVkVRcDE2LVA4cmZtOHYtWHVGZ0VNVmdpWUswNlRpZDYwUjY3VGEtZ28xcVJScFk?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
         }
       ]
     },
@@ -87,38 +55,11 @@
           "badge_txt": "CIERRE PARCIAL",
           "lat": 20.12,
           "lon": -98.73
-        },
-        {
-          "id": "dc7185c4",
-          "tipo": "cierre_parcial",
-          "ruta": "🚨 Ch0qu3 entre auto y tráiler cierra calle en #SanLorenzoTepaltitlán…",
-          "descripcion": "🚨 Ch0qu3 entre auto y tráiler cierra calle en #SanLorenzoTepaltitlán\n\nhttps://lajornadaestadodemexico.com/choque-entre-auto-y-trailer-cierra-calle-en-san-lorenzo-tepaltitlan/",
-          "recomendacion": "",
-          "fecha": "13 octubre 2026 · 08:03 CST",
-          "fecha_iso": "2026-10-13T08:03:00-06:00",
-          "fuente": "Telegram @jornadaedomex",
-          "url": "https://t.me/jornadaedomex/12351",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
         }
       ]
     }
   ],
   "para_mapa": [
-    {
-      "id": "f6ffdb67",
-      "tipo": "bloqueo",
-      "ruta": "Protestan por agua limpia y liberación de detenidos en Periférico…",
-      "descripcion": "Protestan por agua limpia y liberación de detenidos en Periférico Norte, CUCEI y el Centro de Guadalajara. Estudiantes y ciudadanos bloquearon vialidades en Guadalajara para exigir agua limpia y la liberación de los detenidos durante la protesta en Casa Jalisco",
-      "fecha": "13 octubre 2026 · 17:05 CST",
-      "fuente": "El Informador Jalisco",
-      "url": "https://www.informador.mx/jalisco/protestan-por-agua-limpia-y-liberacion-de-detenidos-en-periferico-norte-cucei-y-el-centro-de-guadalajara-20261013-0124.html",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 20.66,
-      "lon": -103.35
-    },
     {
       "id": "989be4db",
       "tipo": "bloqueo",
