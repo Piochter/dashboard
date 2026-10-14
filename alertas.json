@@ -1,10 +1,12 @@
 {
-  "ultima_actualizacion": "2026-10-14T02:38:26.780061-06:00",
-  "ultima_actualizacion_legible": "14 de octubre de 2026 · 02:38 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-10-14T08:02:13.448213-06:00",
+  "ultima_actualizacion_legible": "14 de octubre de 2026 · 08:02 CST",
+  "total": 5,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Quadratin + regionales"
+    "Google News",
+    "Medios nacionales",
+    "Telegram"
   ],
   "grupos": [
     {
@@ -15,37 +17,147 @@
       "col2": false,
       "alertas": [
         {
-          "id": "989be4db",
+          "id": "6d01aa01",
           "tipo": "bloqueo",
-          "ruta": "Marchan trabajadores y jubilados del IMSS por salarios y pensiones…",
-          "descripcion": "Marchan trabajadores y jubilados del IMSS por salarios y pensiones en Ciudad de México. Desde el Centro México Siglo XXI, en la Colonia Doctores, trabajadores de la salud y jubilados comenzaron una manifestación rumbo a las oficinas The post Marchan trabajadores y jubilados del IMSS por salarios y pensiones en Ciudad de México appeared first on Quadratin Hidalgo.",
+          "ruta": "Liberan a los últimos 7 detenidos en protesta por agua…",
+          "descripcion": "Liberan a los últimos 7 detenidos en protesta por agua en Guadalajara\nhttps://www.jornada.com.mx/2026/10/14/estados/025n1est?partner=rss\n\nGuadalajara, Jal., Luego de la presión social ejercida con bloqueos de estudiantes en el Periférico Norte, un plantón de ciudadanos y colectivos frente al palacio de gobierno y un enérgico repudio en redes sociales, el gobernador emecista Pablo Lemus anunció la liberación de los últimos siete de 39 detenidos el pasado domingo, durante la represión de policías ",
           "recomendacion": "",
-          "fecha": "13 octubre 2026 · 17:01 CST",
-          "fecha_iso": "2026-10-13T17:01:00-06:00",
-          "fuente": "Quadratin Hidalgo",
-          "url": "https://hidalgo.quadratin.com.mx/Salud-2/marchan-trabajadores-y-jubilados-del-imss-por-salarios-y-pensiones-en-ciudad-de-mexico/",
+          "fecha": "14 octubre 2026 · 07:43 CST",
+          "fecha_iso": "2026-10-14T07:43:00-06:00",
+          "fuente": "Telegram @NOTMEX",
+          "url": "https://t.me/NOTMEX/186585",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO",
-          "lat": 19.3,
-          "lon": -104.0
+          "lat": 20.66,
+          "lon": -103.35
+        },
+        {
+          "id": "88db57a1",
+          "tipo": "bloqueo",
+          "ruta": "Bloqueos carreteras HOY MIÉRCOLES 14 de octubre: autopistas cerradas en…",
+          "descripcion": "Bloqueos carreteras HOY MIÉRCOLES 14 de octubre: autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY MIÉRCOLES 14 de octubre: autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
+          "recomendacion": "",
+          "fecha": "14 octubre 2026 · 07:25 CST",
+          "fecha_iso": "2026-10-14T07:25:00-06:00",
+          "fuente": "Eje Central",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQcUU4Z0FhYUhSSWowaFVaT2lyeGh1QnNFd0pPYVBhOFJ2bnpjVFVacUlGby0tdFJwQldzWGRacDliei1vZVJmLU1VZ3E4R1hpc2Zfcm5NRkhndzNLaVRDcWFldTJwNEdVb2VkVjR6czgxRXVmZzNhMXZOQmZmRkNoVnRneXZVdzBKNTd6LTIwb0FaM2VJajk3WnlMZmZTV3l3LWRuU1VzRUVGS2xKQ0piQjJ6cy01WVdLdUFscV93UmVHM1BSVS1RaUVDVHpuWF8tYU1TYkF0dkdHZTMwUVh4M0tzbEY5RlZycmluSmF5dDh0MnY2VEpB?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
+        {
+          "id": "6847e4cc",
+          "tipo": "bloqueo",
+          "ruta": "Liberan a los últimos 7 detenidos en protesta por agua…",
+          "descripcion": "Liberan a los últimos 7 detenidos en protesta por agua en Guadalajara. Guadalajara, Jal., Luego de la presión social ejercida con bloqueos de estudiantes en el Periférico Norte, un plantón de ciudadanos y colectivos frente al palacio de gobierno y un enérgico repudio en redes sociales, el gobernador emecista Pablo Lemus anunció la liberación de los últimos siete de 39 detenidos el pasado domingo, durante la represión de policías estatales contra civiles que protestaban por el suministro de agua ",
+          "recomendacion": "",
+          "fecha": "14 octubre 2026 · 04:21 CST",
+          "fecha_iso": "2026-10-14T04:21:00-06:00",
+          "fuente": "La Jornada Estados",
+          "url": "https://www.jornada.com.mx/2026/10/14/estados/025n1est?partner=rss",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 20.66,
+          "lon": -103.35
+        }
+      ]
+    },
+    {
+      "tipo": "clima",
+      "color": "azul",
+      "icono": "🌧",
+      "label": "ALERTA METEOROLOGICA",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "88a29545",
+          "tipo": "clima",
+          "ruta": "85",
+          "descripcion": "Se forma la tormenta Trudy en el Pacifico\nhttps://www.jornada.com.mx/2026/10/14/estados/026n3est?partner=rss\n\nLa tormenta tropical Trudy se formó ayer en el Pacífico mexicano a partir de la depresión tropical Veintiuno-E. Al cierre de esta edición su centro se localizó a 560 kilómetros al sur de Puerto Ángel, Oaxaca, y a 790 kilómetros al sur-sureste de Acapulco, Guerrero. Fabián Vazquez, coordinador del Servicio Meteorológico Nacional, informó que este meteoro comenzará a acercarse a costas nac",
+          "recomendacion": "",
+          "fecha": "14 octubre 2026 · 07:44 CST",
+          "fecha_iso": "2026-10-14T07:44:00-06:00",
+          "fuente": "Telegram @NOTMEX",
+          "url": "https://t.me/NOTMEX/186586",
+          "dot_color": "#3498db",
+          "badge": "badge-clima",
+          "badge_txt": "ALERTA CLIMA",
+          "lat": 26.5,
+          "lon": -99.5
+        },
+        {
+          "id": "7a693c5a",
+          "tipo": "clima",
+          "ruta": "Se forma la tormenta Trudy en el Pacifico…",
+          "descripcion": "Se forma la tormenta Trudy en el Pacifico. La tormenta tropical Trudy se formó ayer en el Pacífico mexicano a partir de la depresión tropical Veintiuno-E. Al cierre de esta edición su centro se localizó a 560 kilómetros al sur de Puerto Ángel, Oaxaca, y a 790 kilómetros al sur-sureste de Acapulco, Guerrero. Fabián Vazquez, coordinador del Servicio Meteorológico Nacional, informó que este meteoro comenzará a acercarse a costas nacionales durante el fin de semana, y según pronósticos se convertirá",
+          "recomendacion": "",
+          "fecha": "14 octubre 2026 · 04:21 CST",
+          "fecha_iso": "2026-10-14T04:21:00-06:00",
+          "fuente": "La Jornada Estados",
+          "url": "https://www.jornada.com.mx/2026/10/14/estados/026n3est?partner=rss",
+          "dot_color": "#3498db",
+          "badge": "badge-clima",
+          "badge_txt": "ALERTA CLIMA",
+          "lat": 26.5,
+          "lon": -99.5
         }
       ]
     }
   ],
   "para_mapa": [
     {
-      "id": "989be4db",
+      "id": "88a29545",
+      "tipo": "clima",
+      "ruta": "85",
+      "descripcion": "Se forma la tormenta Trudy en el Pacifico\nhttps://www.jornada.com.mx/2026/10/14/estados/026n3est?partner=rss\n\nLa tormenta tropical Trudy se formó ayer en el Pacífico mexicano a partir de la depresión tropical Veintiuno-E. Al cierre de esta edición su centro se localizó a 560 kilómetros al sur de Puerto Ángel, Oaxaca, y a 790 kilómetros al sur-sureste de Acapulco, Guerrero. Fabián Vazquez, coordinador del Servicio Meteorológico Nacional, informó que este meteoro comenzará a acercarse a costas nac",
+      "fecha": "14 octubre 2026 · 07:44 CST",
+      "fuente": "Telegram @NOTMEX",
+      "url": "https://t.me/NOTMEX/186586",
+      "dot_color": "#3498db",
+      "badge_txt": "ALERTA CLIMA",
+      "lat": 26.5,
+      "lon": -99.5
+    },
+    {
+      "id": "6d01aa01",
       "tipo": "bloqueo",
-      "ruta": "Marchan trabajadores y jubilados del IMSS por salarios y pensiones…",
-      "descripcion": "Marchan trabajadores y jubilados del IMSS por salarios y pensiones en Ciudad de México. Desde el Centro México Siglo XXI, en la Colonia Doctores, trabajadores de la salud y jubilados comenzaron una manifestación rumbo a las oficinas The post Marchan trabajadores y jubilados del IMSS por salarios y pensiones en Ciudad de México appeared first on Quadratin Hidalgo.",
-      "fecha": "13 octubre 2026 · 17:01 CST",
-      "fuente": "Quadratin Hidalgo",
-      "url": "https://hidalgo.quadratin.com.mx/Salud-2/marchan-trabajadores-y-jubilados-del-imss-por-salarios-y-pensiones-en-ciudad-de-mexico/",
+      "ruta": "Liberan a los últimos 7 detenidos en protesta por agua…",
+      "descripcion": "Liberan a los últimos 7 detenidos en protesta por agua en Guadalajara\nhttps://www.jornada.com.mx/2026/10/14/estados/025n1est?partner=rss\n\nGuadalajara, Jal., Luego de la presión social ejercida con bloqueos de estudiantes en el Periférico Norte, un plantón de ciudadanos y colectivos frente al palacio de gobierno y un enérgico repudio en redes sociales, el gobernador emecista Pablo Lemus anunció la liberación de los últimos siete de 39 detenidos el pasado domingo, durante la represión de policías ",
+      "fecha": "14 octubre 2026 · 07:43 CST",
+      "fuente": "Telegram @NOTMEX",
+      "url": "https://t.me/NOTMEX/186585",
       "dot_color": "#8e44ad",
       "badge_txt": "BLOQUEO",
-      "lat": 19.3,
-      "lon": -104.0
+      "lat": 20.66,
+      "lon": -103.35
+    },
+    {
+      "id": "6847e4cc",
+      "tipo": "bloqueo",
+      "ruta": "Liberan a los últimos 7 detenidos en protesta por agua…",
+      "descripcion": "Liberan a los últimos 7 detenidos en protesta por agua en Guadalajara. Guadalajara, Jal., Luego de la presión social ejercida con bloqueos de estudiantes en el Periférico Norte, un plantón de ciudadanos y colectivos frente al palacio de gobierno y un enérgico repudio en redes sociales, el gobernador emecista Pablo Lemus anunció la liberación de los últimos siete de 39 detenidos el pasado domingo, durante la represión de policías estatales contra civiles que protestaban por el suministro de agua ",
+      "fecha": "14 octubre 2026 · 04:21 CST",
+      "fuente": "La Jornada Estados",
+      "url": "https://www.jornada.com.mx/2026/10/14/estados/025n1est?partner=rss",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 20.66,
+      "lon": -103.35
+    },
+    {
+      "id": "7a693c5a",
+      "tipo": "clima",
+      "ruta": "Se forma la tormenta Trudy en el Pacifico…",
+      "descripcion": "Se forma la tormenta Trudy en el Pacifico. La tormenta tropical Trudy se formó ayer en el Pacífico mexicano a partir de la depresión tropical Veintiuno-E. Al cierre de esta edición su centro se localizó a 560 kilómetros al sur de Puerto Ángel, Oaxaca, y a 790 kilómetros al sur-sureste de Acapulco, Guerrero. Fabián Vazquez, coordinador del Servicio Meteorológico Nacional, informó que este meteoro comenzará a acercarse a costas nacionales durante el fin de semana, y según pronósticos se convertirá",
+      "fecha": "14 octubre 2026 · 04:21 CST",
+      "fuente": "La Jornada Estados",
+      "url": "https://www.jornada.com.mx/2026/10/14/estados/026n3est?partner=rss",
+      "dot_color": "#3498db",
+      "badge_txt": "ALERTA CLIMA",
+      "lat": 26.5,
+      "lon": -99.5
     }
   ]
 }
