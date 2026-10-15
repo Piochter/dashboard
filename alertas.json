@@ -1,10 +1,10 @@
 {
-  "ultima_actualizacion": "2026-10-14T18:12:59.810039-06:00",
-  "ultima_actualizacion_legible": "14 de octubre de 2026 · 18:12 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-10-14T22:36:12.441278-06:00",
+  "ultima_actualizacion_legible": "14 de octubre de 2026 · 22:36 CST",
+  "total": 1,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Telegram"
+    "Medios regionales"
   ],
   "grupos": [
     {
@@ -15,75 +15,21 @@
       "col2": false,
       "alertas": [
         {
-          "id": "6d01aa01",
+          "id": "6cd18bce",
           "tipo": "bloqueo",
-          "ruta": "Liberan a los últimos 7 detenidos en protesta por agua…",
-          "descripcion": "Liberan a los últimos 7 detenidos en protesta por agua en Guadalajara\nhttps://www.jornada.com.mx/2026/10/14/estados/025n1est?partner=rss\n\nGuadalajara, Jal., Luego de la presión social ejercida con bloqueos de estudiantes en el Periférico Norte, un plantón de ciudadanos y colectivos frente al palacio de gobierno y un enérgico repudio en redes sociales, el gobernador emecista Pablo Lemus anunció la liberación de los últimos siete de 39 detenidos el pasado domingo, durante la represión de policías ",
+          "ruta": "Denuncian irregularidades tras consulta salarial en el IMSS; siguen las…",
+          "descripcion": "Denuncian irregularidades tras consulta salarial en el IMSS; siguen las protestas. Contingentes del IMSS-Bienestar y de organizaciones sindicales independientes colapsaron la circulación en arterias estratégicas en los estados.",
           "recomendacion": "",
-          "fecha": "14 octubre 2026 · 07:43 CST",
-          "fecha_iso": "2026-10-14T07:43:00-06:00",
-          "fuente": "Telegram @NOTMEX",
-          "url": "https://t.me/NOTMEX/186585",
+          "fecha": "14 octubre 2026 · 18:54 CST",
+          "fecha_iso": "2026-10-14T18:54:00-06:00",
+          "fuente": "AM Guanajuato",
+          "url": "https://www.am.com.mx/nacional/2026/10/14/denuncian-irregularidades-tras-consulta-salarial-en-el-imss-siguen-las-protestas-1855046.html",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 20.66,
-          "lon": -103.35
-        }
-      ]
-    },
-    {
-      "tipo": "clima",
-      "color": "azul",
-      "icono": "🌧",
-      "label": "ALERTA METEOROLOGICA",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "88a29545",
-          "tipo": "clima",
-          "ruta": "85",
-          "descripcion": "Se forma la tormenta Trudy en el Pacifico\nhttps://www.jornada.com.mx/2026/10/14/estados/026n3est?partner=rss\n\nLa tormenta tropical Trudy se formó ayer en el Pacífico mexicano a partir de la depresión tropical Veintiuno-E. Al cierre de esta edición su centro se localizó a 560 kilómetros al sur de Puerto Ángel, Oaxaca, y a 790 kilómetros al sur-sureste de Acapulco, Guerrero. Fabián Vazquez, coordinador del Servicio Meteorológico Nacional, informó que este meteoro comenzará a acercarse a costas nac",
-          "recomendacion": "",
-          "fecha": "14 octubre 2026 · 07:44 CST",
-          "fecha_iso": "2026-10-14T07:44:00-06:00",
-          "fuente": "Telegram @NOTMEX",
-          "url": "https://t.me/NOTMEX/186586",
-          "dot_color": "#3498db",
-          "badge": "badge-clima",
-          "badge_txt": "ALERTA CLIMA",
-          "lat": 26.5,
-          "lon": -99.5
+          "badge_txt": "BLOQUEO"
         }
       ]
     }
   ],
-  "para_mapa": [
-    {
-      "id": "88a29545",
-      "tipo": "clima",
-      "ruta": "85",
-      "descripcion": "Se forma la tormenta Trudy en el Pacifico\nhttps://www.jornada.com.mx/2026/10/14/estados/026n3est?partner=rss\n\nLa tormenta tropical Trudy se formó ayer en el Pacífico mexicano a partir de la depresión tropical Veintiuno-E. Al cierre de esta edición su centro se localizó a 560 kilómetros al sur de Puerto Ángel, Oaxaca, y a 790 kilómetros al sur-sureste de Acapulco, Guerrero. Fabián Vazquez, coordinador del Servicio Meteorológico Nacional, informó que este meteoro comenzará a acercarse a costas nac",
-      "fecha": "14 octubre 2026 · 07:44 CST",
-      "fuente": "Telegram @NOTMEX",
-      "url": "https://t.me/NOTMEX/186586",
-      "dot_color": "#3498db",
-      "badge_txt": "ALERTA CLIMA",
-      "lat": 26.5,
-      "lon": -99.5
-    },
-    {
-      "id": "6d01aa01",
-      "tipo": "bloqueo",
-      "ruta": "Liberan a los últimos 7 detenidos en protesta por agua…",
-      "descripcion": "Liberan a los últimos 7 detenidos en protesta por agua en Guadalajara\nhttps://www.jornada.com.mx/2026/10/14/estados/025n1est?partner=rss\n\nGuadalajara, Jal., Luego de la presión social ejercida con bloqueos de estudiantes en el Periférico Norte, un plantón de ciudadanos y colectivos frente al palacio de gobierno y un enérgico repudio en redes sociales, el gobernador emecista Pablo Lemus anunció la liberación de los últimos siete de 39 detenidos el pasado domingo, durante la represión de policías ",
-      "fecha": "14 octubre 2026 · 07:43 CST",
-      "fuente": "Telegram @NOTMEX",
-      "url": "https://t.me/NOTMEX/186585",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 20.66,
-      "lon": -103.35
-    }
-  ]
+  "para_mapa": []
 }
