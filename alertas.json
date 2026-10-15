@@ -1,35 +1,12 @@
 {
-  "ultima_actualizacion": "2026-10-15T03:25:18.137879-06:00",
-  "ultima_actualizacion_legible": "15 de octubre de 2026 · 03:25 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-10-15T08:16:24.717931-06:00",
+  "ultima_actualizacion_legible": "15 de octubre de 2026 · 08:16 CST",
+  "total": 0,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Medios regionales"
+    "Google News"
   ],
-  "grupos": [
-    {
-      "tipo": "bloqueo",
-      "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "6cd18bce",
-          "tipo": "bloqueo",
-          "ruta": "Denuncian irregularidades tras consulta salarial en el IMSS; siguen las…",
-          "descripcion": "Denuncian irregularidades tras consulta salarial en el IMSS; siguen las protestas. Contingentes del IMSS-Bienestar y de organizaciones sindicales independientes colapsaron la circulación en arterias estratégicas en los estados.",
-          "recomendacion": "",
-          "fecha": "14 octubre 2026 · 18:54 CST",
-          "fecha_iso": "2026-10-14T18:54:00-06:00",
-          "fuente": "AM Guanajuato",
-          "url": "https://www.am.com.mx/nacional/2026/10/14/denuncian-irregularidades-tras-consulta-salarial-en-el-imss-siguen-las-protestas-1855046.html",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        }
-      ]
-    }
-  ],
-  "para_mapa": []
+  "grupos": [],
+  "para_mapa": [],
+  "nota": "Sin alertas activas en la ventana de tiempo configurada."
 }
