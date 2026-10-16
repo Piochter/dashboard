@@ -1,9 +1,10 @@
 {
-  "ultima_actualizacion": "2026-10-16T01:23:37.813490-06:00",
-  "ultima_actualizacion_legible": "16 de octubre de 2026 · 01:23 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-10-16T06:36:21.378615-06:00",
+  "ultima_actualizacion_legible": "16 de octubre de 2026 · 06:36 CST",
+  "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
+    "Medios nacionales",
     "Quadratin + regionales"
   ],
   "grupos": [
@@ -14,6 +15,22 @@
       "label": "BLOQUEOS / MANIFESTACIONES",
       "col2": false,
       "alertas": [
+        {
+          "id": "24d6173e",
+          "tipo": "bloqueo",
+          "ruta": "Protestan pescadores de San Felipe por acuerdo con el gobierno…",
+          "descripcion": "Protestan pescadores de San Felipe por acuerdo con el gobierno federal. Tijuana, BC., Decenas de pescadores de San Felipe, Baja California, bloquearon ayer desde el mediodía la carretera Mexicali-San Felipe en rechazo al nuevo acuerdo entre las secretarías de Medio Ambiente y Recursos Naturales, Agricultura y Desarrollo Rural y de Marina que se publicó en el Diario Oficial de la Federación sobre las artes de pesca que pueden ser utilizadas en la zona del polígono de cero tolerancia en el Golfo d",
+          "recomendacion": "",
+          "fecha": "16 octubre 2026 · 01:36 CST",
+          "fecha_iso": "2026-10-16T01:36:00-06:00",
+          "fuente": "La Jornada Estados",
+          "url": "https://www.jornada.com.mx/2026/10/16/estados/025n3est?partner=rss",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 30.84,
+          "lon": -115.28
+        },
         {
           "id": "391bf593",
           "tipo": "bloqueo",
@@ -34,6 +51,19 @@
     }
   ],
   "para_mapa": [
+    {
+      "id": "24d6173e",
+      "tipo": "bloqueo",
+      "ruta": "Protestan pescadores de San Felipe por acuerdo con el gobierno…",
+      "descripcion": "Protestan pescadores de San Felipe por acuerdo con el gobierno federal. Tijuana, BC., Decenas de pescadores de San Felipe, Baja California, bloquearon ayer desde el mediodía la carretera Mexicali-San Felipe en rechazo al nuevo acuerdo entre las secretarías de Medio Ambiente y Recursos Naturales, Agricultura y Desarrollo Rural y de Marina que se publicó en el Diario Oficial de la Federación sobre las artes de pesca que pueden ser utilizadas en la zona del polígono de cero tolerancia en el Golfo d",
+      "fecha": "16 octubre 2026 · 01:36 CST",
+      "fuente": "La Jornada Estados",
+      "url": "https://www.jornada.com.mx/2026/10/16/estados/025n3est?partner=rss",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 30.84,
+      "lon": -115.28
+    },
     {
       "id": "391bf593",
       "tipo": "bloqueo",
