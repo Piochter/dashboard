@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-10-16T13:47:21.000066-06:00",
-  "ultima_actualizacion_legible": "16 de octubre de 2026 · 13:47 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-10-16T16:20:33.182705-06:00",
+  "ultima_actualizacion_legible": "16 de octubre de 2026 · 16:20 CST",
+  "total": 3,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
@@ -30,6 +30,20 @@
           "badge_txt": "BLOQUEO",
           "lat": 20.12,
           "lon": -98.73
+        },
+        {
+          "id": "f66fe5f2",
+          "tipo": "bloqueo",
+          "ruta": "Bloqueos carreteras HOY viernes 16 de octubre: autopistas cerradas en…",
+          "descripcion": "Bloqueos carreteras HOY viernes 16 de octubre: autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY viernes 16 de octubre: autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
+          "recomendacion": "",
+          "fecha": "16 octubre 2026 · 08:07 CST",
+          "fecha_iso": "2026-10-16T08:07:00-06:00",
+          "fuente": "Eje Central",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOU1RSX0lRRWptQVcwNU96TVZOVE5VbHpORl9IOGFYd0M4N2pBcWJ1LXAxY2cyMHRvU3lZWFBvNkhQWEh4UXltYzh3Vy1YSmVQMjI2MjlLWWUxNUlWY0lTRXlTUjE0ZWg3WEpFUWNOanYwVDFyWnJ3WTZYSEZUdGZxc1NtVXdXSU5XME9TNF94aE1XUjltbDRKeHBFdzBVOG1sNVZfd0tUR3pacUtpOEdzQlpyd2JXQWdqNHVsY2doaEwyRm9CcWtzM0R6VHRVVnJob0xnQm9PdXZIUHN3ZDUxTjRiQjlQd0Y4QlN4eHJKRDlIYjV6?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
         },
         {
           "id": "82d89507",
