@@ -1,13 +1,38 @@
 {
-  "ultima_actualizacion": "2026-10-15T17:51:29.439803-06:00",
-  "ultima_actualizacion_legible": "15 de octubre de 2026 · 17:51 CST",
+  "ultima_actualizacion": "2026-10-15T20:17:04.500822-06:00",
+  "ultima_actualizacion_legible": "15 de octubre de 2026 · 20:17 CST",
   "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Medios regionales",
+    "Quadratin + regionales",
     "Telegram"
   ],
   "grupos": [
+    {
+      "tipo": "bloqueo",
+      "color": "rojo",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "391bf593",
+          "tipo": "bloqueo",
+          "ruta": "Liberan bloqueos en el Istmo y la ciudad de Oaxaca…",
+          "descripcion": "Liberan bloqueos en el Istmo y la ciudad de Oaxaca. Se restableció el tránsito en la carretera 190, en El Caracol e Ixcotel, informó la Policía Vial",
+          "recomendacion": "",
+          "fecha": "15 octubre 2026 · 18:52 CST",
+          "fecha_iso": "2026-10-15T18:52:00-06:00",
+          "fuente": "Quadratin Oaxaca",
+          "url": "https://oaxaca.quadratin.com.mx/liberan-bloqueos-en-el-istmo-y-la-ciudad-de-oaxaca/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 16.75,
+          "lon": -93.12
+        }
+      ]
+    },
     {
       "tipo": "cierre_parcial",
       "color": "amarillo",
@@ -15,20 +40,6 @@
       "label": "CIERRE PARCIAL / ACCIDENTES",
       "col2": true,
       "alertas": [
-        {
-          "id": "a8b70582",
-          "tipo": "cierre_parcial",
-          "ruta": "Choque entre tráiler y Torton en la Abasolo-Irapuato deja 2…",
-          "descripcion": "Choque entre tráiler y Torton en la Abasolo-Irapuato deja 2 heridos y caos vial. Un choque entre un camión Torton cargado con diez toneladas de maíz y un tráiler con contenedor provocó el vuelco de ambos vehículos sobre la carretera federal Abasolo-Irapuato.",
-          "recomendacion": "",
-          "fecha": "15 octubre 2026 · 16:12 CST",
-          "fecha_iso": "2026-10-15T16:12:00-06:00",
-          "fuente": "AM Guanajuato",
-          "url": "https://www.am.com.mx/guanajuato-sur/2026/10/15/choque-entre-trailer-y-torton-en-la-abasolo-irapuato-deja-2-heridos-y-caos-vial-1855398.html",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
-        },
         {
           "id": "92feb066",
           "tipo": "cierre_parcial",
@@ -49,6 +60,19 @@
     }
   ],
   "para_mapa": [
+    {
+      "id": "391bf593",
+      "tipo": "bloqueo",
+      "ruta": "Liberan bloqueos en el Istmo y la ciudad de Oaxaca…",
+      "descripcion": "Liberan bloqueos en el Istmo y la ciudad de Oaxaca. Se restableció el tránsito en la carretera 190, en El Caracol e Ixcotel, informó la Policía Vial",
+      "fecha": "15 octubre 2026 · 18:52 CST",
+      "fuente": "Quadratin Oaxaca",
+      "url": "https://oaxaca.quadratin.com.mx/liberan-bloqueos-en-el-istmo-y-la-ciudad-de-oaxaca/",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 16.75,
+      "lon": -93.12
+    },
     {
       "id": "92feb066",
       "tipo": "cierre_parcial",
