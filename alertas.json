@@ -1,12 +1,10 @@
 {
-  "ultima_actualizacion": "2026-10-16T10:59:41.740605-06:00",
-  "ultima_actualizacion_legible": "16 de octubre de 2026 · 10:59 CST",
-  "total": 4,
+  "ultima_actualizacion": "2026-10-16T13:47:21.000066-06:00",
+  "ultima_actualizacion_legible": "16 de octubre de 2026 · 13:47 CST",
+  "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Medios nacionales",
-    "Medios regionales",
-    "Quadratin + regionales",
+    "Google News",
     "Telegram"
   ],
   "grupos": [
@@ -18,15 +16,15 @@
       "col2": false,
       "alertas": [
         {
-          "id": "14a25196",
+          "id": "b905e723",
           "tipo": "bloqueo",
-          "ruta": "autopista México-Pachuca",
-          "descripcion": "Alternativas viales ante el bloqueo de la autopista México-Pachuca. Trabajadores del sector salud mantienen cerrada la circulación a la altura de Tecámac; conoce las rutas alternas para evitar el tránsito detenido",
-          "recomendacion": "evitar el tránsito detenido",
-          "fecha": "16 octubre 2026 · 09:41 CST",
-          "fecha_iso": "2026-10-16T09:41:00-06:00",
-          "fuente": "El Informador Jalisco",
-          "url": "https://www.informador.mx/mexico/alternativas-viales-ante-el-bloqueo-de-la-autopista-mexico-pachuca-20261016-0060.html",
+          "ruta": "Trabajadores del IMSS bloquean la México-Pachuca hoy 16 de octubre:…",
+          "descripcion": "Trabajadores del IMSS bloquean la México-Pachuca hoy 16 de octubre: cierres, rutas alternas y próximas protestas - Eje Central. Trabajadores del IMSS bloquean la México-Pachuca hoy 16 de octubre: cierres, rutas alternas y próximas protestas Eje Central",
+          "recomendacion": "",
+          "fecha": "16 octubre 2026 · 09:18 CST",
+          "fecha_iso": "2026-10-16T09:18:00-06:00",
+          "fuente": "Eje Central",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNN2t4c1RUSFJ2YjNHVm1GckhfY3JzVGR6amY2M3VlVEVUOVJqN2JKUWV4YWxIMUVIR2Nzc2FrRC1TSjd3QXRYQmxvWHRSXzQ1RDF6OHpBb3JyeWVfV2xPblRWTmMtN1lkRDM2SEdNSlg5ME9ra1A0NGU2TEZHYVdqMlF5TmpDOWt3WmlyOVFUZXFmUDJ0VTF4N1lYV3IyM2dyMDZ0VWtXdGhtTmpuRnEyS2lncXdFZHVCTm55UkVQLUJRdlVMN3BxazJQbDNxSkxPRGkxZ3ZhUGpBV1MybFV1dy1IMk5wbEE?oc=5",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO",
@@ -48,58 +46,19 @@
           "badge_txt": "BLOQUEO",
           "lat": 20.12,
           "lon": -98.73
-        },
-        {
-          "id": "24d6173e",
-          "tipo": "bloqueo",
-          "ruta": "Protestan pescadores de San Felipe por acuerdo con el gobierno…",
-          "descripcion": "Protestan pescadores de San Felipe por acuerdo con el gobierno federal. Tijuana, BC., Decenas de pescadores de San Felipe, Baja California, bloquearon ayer desde el mediodía la carretera Mexicali-San Felipe en rechazo al nuevo acuerdo entre las secretarías de Medio Ambiente y Recursos Naturales, Agricultura y Desarrollo Rural y de Marina que se publicó en el Diario Oficial de la Federación sobre las artes de pesca que pueden ser utilizadas en la zona del polígono de cero tolerancia en el Golfo d",
-          "recomendacion": "",
-          "fecha": "16 octubre 2026 · 01:36 CST",
-          "fecha_iso": "2026-10-16T01:36:00-06:00",
-          "fuente": "La Jornada Estados",
-          "url": "https://www.jornada.com.mx/2026/10/16/estados/025n3est?partner=rss",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 30.84,
-          "lon": -115.28
-        }
-      ]
-    },
-    {
-      "tipo": "cierre_parcial",
-      "color": "amarillo",
-      "icono": "🟡",
-      "label": "CIERRE PARCIAL / ACCIDENTES",
-      "col2": true,
-      "alertas": [
-        {
-          "id": "5f2eb9cb",
-          "tipo": "cierre_parcial",
-          "ruta": "Chocan camión de carga y transporte público en Chalco-Tláhuac…",
-          "descripcion": "Chocan camión de carga y transporte público en Chalco-Tláhuac. El accidente provoca tráfico intenso en ambos sentidos de la carretera, a la altura de Las Lagunas",
-          "recomendacion": "",
-          "fecha": "16 octubre 2026 · 08:30 CST",
-          "fecha_iso": "2026-10-16T08:30:00-06:00",
-          "fuente": "Quadratin EdoMex",
-          "url": "https://edomex.quadratin.com.mx/chocan-camion-de-carga-y-transporte-publico-en-chalco-tlahuac/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
         }
       ]
     }
   ],
   "para_mapa": [
     {
-      "id": "14a25196",
+      "id": "b905e723",
       "tipo": "bloqueo",
-      "ruta": "autopista México-Pachuca",
-      "descripcion": "Alternativas viales ante el bloqueo de la autopista México-Pachuca. Trabajadores del sector salud mantienen cerrada la circulación a la altura de Tecámac; conoce las rutas alternas para evitar el tránsito detenido",
-      "fecha": "16 octubre 2026 · 09:41 CST",
-      "fuente": "El Informador Jalisco",
-      "url": "https://www.informador.mx/mexico/alternativas-viales-ante-el-bloqueo-de-la-autopista-mexico-pachuca-20261016-0060.html",
+      "ruta": "Trabajadores del IMSS bloquean la México-Pachuca hoy 16 de octubre:…",
+      "descripcion": "Trabajadores del IMSS bloquean la México-Pachuca hoy 16 de octubre: cierres, rutas alternas y próximas protestas - Eje Central. Trabajadores del IMSS bloquean la México-Pachuca hoy 16 de octubre: cierres, rutas alternas y próximas protestas Eje Central",
+      "fecha": "16 octubre 2026 · 09:18 CST",
+      "fuente": "Eje Central",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNN2t4c1RUSFJ2YjNHVm1GckhfY3JzVGR6amY2M3VlVEVUOVJqN2JKUWV4YWxIMUVIR2Nzc2FrRC1TSjd3QXRYQmxvWHRSXzQ1RDF6OHpBb3JyeWVfV2xPblRWTmMtN1lkRDM2SEdNSlg5ME9ra1A0NGU2TEZHYVdqMlF5TmpDOWt3WmlyOVFUZXFmUDJ0VTF4N1lYV3IyM2dyMDZ0VWtXdGhtTmpuRnEyS2lncXdFZHVCTm55UkVQLUJRdlVMN3BxazJQbDNxSkxPRGkxZ3ZhUGpBV1MybFV1dy1IMk5wbEE?oc=5",
       "dot_color": "#8e44ad",
       "badge_txt": "BLOQUEO",
       "lat": 20.12,
@@ -117,19 +76,6 @@
       "badge_txt": "BLOQUEO",
       "lat": 20.12,
       "lon": -98.73
-    },
-    {
-      "id": "24d6173e",
-      "tipo": "bloqueo",
-      "ruta": "Protestan pescadores de San Felipe por acuerdo con el gobierno…",
-      "descripcion": "Protestan pescadores de San Felipe por acuerdo con el gobierno federal. Tijuana, BC., Decenas de pescadores de San Felipe, Baja California, bloquearon ayer desde el mediodía la carretera Mexicali-San Felipe en rechazo al nuevo acuerdo entre las secretarías de Medio Ambiente y Recursos Naturales, Agricultura y Desarrollo Rural y de Marina que se publicó en el Diario Oficial de la Federación sobre las artes de pesca que pueden ser utilizadas en la zona del polígono de cero tolerancia en el Golfo d",
-      "fecha": "16 octubre 2026 · 01:36 CST",
-      "fuente": "La Jornada Estados",
-      "url": "https://www.jornada.com.mx/2026/10/16/estados/025n3est?partner=rss",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 30.84,
-      "lon": -115.28
     }
   ]
 }
