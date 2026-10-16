@@ -1,11 +1,10 @@
 {
-  "ultima_actualizacion": "2026-10-15T20:17:04.500822-06:00",
-  "ultima_actualizacion_legible": "15 de octubre de 2026 · 20:17 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-10-16T01:23:37.813490-06:00",
+  "ultima_actualizacion_legible": "16 de octubre de 2026 · 01:23 CST",
+  "total": 1,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Quadratin + regionales",
-    "Telegram"
+    "Quadratin + regionales"
   ],
   "grupos": [
     {
@@ -32,31 +31,6 @@
           "lon": -93.12
         }
       ]
-    },
-    {
-      "tipo": "cierre_parcial",
-      "color": "amarillo",
-      "icono": "🟡",
-      "label": "CIERRE PARCIAL / ACCIDENTES",
-      "col2": true,
-      "alertas": [
-        {
-          "id": "92feb066",
-          "tipo": "cierre_parcial",
-          "ruta": "🚨¿Qué paso en la #México-#Toluca hoy 15 de octubre? Reportan…",
-          "descripcion": "🚨¿Qué paso en la #México-#Toluca hoy 15 de octubre? Reportan percance frente a #PlazasOutlet #Lerma 👇😱\n\nhttps://lajornadaestadodemexico.com/que-paso-en-la-mexico-toluca-hoy-15-de-octubre-reportan-percance-frente-a-plazas-outlet-lerma/",
-          "recomendacion": "",
-          "fecha": "15 octubre 2026 · 09:15 CST",
-          "fecha_iso": "2026-10-15T09:15:00-06:00",
-          "fuente": "Telegram @jornadaedomex",
-          "url": "https://t.me/jornadaedomex/12371",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 21.0,
-          "lon": -104.0
-        }
-      ]
     }
   ],
   "para_mapa": [
@@ -72,19 +46,6 @@
       "badge_txt": "BLOQUEO",
       "lat": 16.75,
       "lon": -93.12
-    },
-    {
-      "id": "92feb066",
-      "tipo": "cierre_parcial",
-      "ruta": "🚨¿Qué paso en la #México-#Toluca hoy 15 de octubre? Reportan…",
-      "descripcion": "🚨¿Qué paso en la #México-#Toluca hoy 15 de octubre? Reportan percance frente a #PlazasOutlet #Lerma 👇😱\n\nhttps://lajornadaestadodemexico.com/que-paso-en-la-mexico-toluca-hoy-15-de-octubre-reportan-percance-frente-a-plazas-outlet-lerma/",
-      "fecha": "15 octubre 2026 · 09:15 CST",
-      "fuente": "Telegram @jornadaedomex",
-      "url": "https://t.me/jornadaedomex/12371",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 21.0,
-      "lon": -104.0
     }
   ]
 }
