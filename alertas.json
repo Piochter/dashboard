@@ -1,12 +1,13 @@
 {
-  "ultima_actualizacion": "2026-10-17T12:27:45.554461-06:00",
-  "ultima_actualizacion_legible": "17 de octubre de 2026 · 12:27 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-10-17T14:48:33.321221-06:00",
+  "ultima_actualizacion_legible": "17 de octubre de 2026 · 14:48 CST",
+  "total": 5,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
     "Medios nacionales",
-    "Quadratin + regionales"
+    "Quadratin + regionales",
+    "Telegram"
   ],
   "grupos": [
     {
@@ -16,6 +17,52 @@
       "label": "CIERRE PARCIAL / ACCIDENTES",
       "col2": true,
       "alertas": [
+        {
+          "id": "5cab06ec",
+          "tipo": "cierre_parcial",
+          "ruta": "autopista SCLC",
+          "descripcion": "Tráiler provoca choque múltiple al impactar autos detenidos en la autopista SCLC. Se desconoce el número de víctimas",
+          "recomendacion": "",
+          "fecha": "17 octubre 2026 · 14:02 CST",
+          "fecha_iso": "2026-10-17T14:02:00-06:00",
+          "fuente": "Quadratin Chiapas",
+          "url": "https://chiapas.quadratin.com.mx/principal/trailer-provoca-choque-multiple-al-impactar-autos-detenidos-en-la-autopista-sclc/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        },
+        {
+          "id": "f0817a21",
+          "tipo": "cierre_parcial",
+          "ruta": "Muere bombero de San Cristóbal tras accidente múltiple en la…",
+          "descripcion": "Muere bombero de San Cristóbal tras accidente múltiple en la autopista\nhttps://alertachiapas.com/c/5mj3mfz",
+          "recomendacion": "",
+          "fecha": "17 octubre 2026 · 13:30 CST",
+          "fecha_iso": "2026-10-17T13:30:00-06:00",
+          "fuente": "Telegram @AlertaChiapas",
+          "url": "https://t.me/AlertaChiapas/2918",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 16.75,
+          "lon": -93.12
+        },
+        {
+          "id": "13a787dc",
+          "tipo": "cierre_parcial",
+          "ruta": "Cierres viales por el Medio Maratón 2026 en Puebla…",
+          "descripcion": "Cierres viales por el Medio Maratón 2026 en Puebla. La competencia reunirá a 4 mil 500 corredores; las restricciones comenzarán a las 6:00 horas y se suspenderá un tramo del paseo ciclista dominical",
+          "recomendacion": "",
+          "fecha": "17 octubre 2026 · 13:27 CST",
+          "fecha_iso": "2026-10-17T13:27:00-06:00",
+          "fuente": "24 Horas",
+          "url": "https://24-horas.mx/estados/cierres-viales-por-el-medio-maraton-2026-en-puebla/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 19.04,
+          "lon": -98.2
+        },
         {
           "id": "bae2ec8f",
           "tipo": "cierre_parcial",
@@ -47,34 +94,35 @@
           "badge_txt": "CIERRE PARCIAL"
         }
       ]
-    },
-    {
-      "tipo": "clima",
-      "color": "azul",
-      "icono": "🌧",
-      "label": "ALERTA METEOROLOGICA",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "810e908b",
-          "tipo": "clima",
-          "ruta": "Lluvias por frente frío número 2 dejan inundaciones en 4…",
-          "descripcion": "Lluvias por frente frío número 2 dejan inundaciones en 4 estados. Las lluvias originadas por el frente frío número 2, la madrugada de ayer en Nuevo León, Chihuahua, Coahuila y Tamaulipas ocasionaron inundaciones en viviendas, negocios y vialidades, arrastre de automóviles, cortes de electricidad, cierre de carreteras, rachas de viento que derribaron postes y árboles, así como el rescate de varias personas atrapadas en sus vehículos, reportaron autoridades de Protección civil estatales.",
-          "recomendacion": "",
-          "fecha": "17 octubre 2026 · 02:02 CST",
-          "fecha_iso": "2026-10-17T02:02:00-06:00",
-          "fuente": "La Jornada Estados",
-          "url": "https://www.jornada.com.mx/2026/10/17/estados/022n2est?partner=rss",
-          "dot_color": "#3498db",
-          "badge": "badge-clima",
-          "badge_txt": "ALERTA CLIMA",
-          "lat": 24.26,
-          "lon": -98.84
-        }
-      ]
     }
   ],
   "para_mapa": [
+    {
+      "id": "f0817a21",
+      "tipo": "cierre_parcial",
+      "ruta": "Muere bombero de San Cristóbal tras accidente múltiple en la…",
+      "descripcion": "Muere bombero de San Cristóbal tras accidente múltiple en la autopista\nhttps://alertachiapas.com/c/5mj3mfz",
+      "fecha": "17 octubre 2026 · 13:30 CST",
+      "fuente": "Telegram @AlertaChiapas",
+      "url": "https://t.me/AlertaChiapas/2918",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 16.75,
+      "lon": -93.12
+    },
+    {
+      "id": "13a787dc",
+      "tipo": "cierre_parcial",
+      "ruta": "Cierres viales por el Medio Maratón 2026 en Puebla…",
+      "descripcion": "Cierres viales por el Medio Maratón 2026 en Puebla. La competencia reunirá a 4 mil 500 corredores; las restricciones comenzarán a las 6:00 horas y se suspenderá un tramo del paseo ciclista dominical",
+      "fecha": "17 octubre 2026 · 13:27 CST",
+      "fuente": "24 Horas",
+      "url": "https://24-horas.mx/estados/cierres-viales-por-el-medio-maraton-2026-en-puebla/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 19.04,
+      "lon": -98.2
+    },
     {
       "id": "bae2ec8f",
       "tipo": "cierre_parcial",
@@ -87,19 +135,6 @@
       "badge_txt": "CIERRE PARCIAL",
       "lat": 20.1,
       "lon": -99.5
-    },
-    {
-      "id": "810e908b",
-      "tipo": "clima",
-      "ruta": "Lluvias por frente frío número 2 dejan inundaciones en 4…",
-      "descripcion": "Lluvias por frente frío número 2 dejan inundaciones en 4 estados. Las lluvias originadas por el frente frío número 2, la madrugada de ayer en Nuevo León, Chihuahua, Coahuila y Tamaulipas ocasionaron inundaciones en viviendas, negocios y vialidades, arrastre de automóviles, cortes de electricidad, cierre de carreteras, rachas de viento que derribaron postes y árboles, así como el rescate de varias personas atrapadas en sus vehículos, reportaron autoridades de Protección civil estatales.",
-      "fecha": "17 octubre 2026 · 02:02 CST",
-      "fuente": "La Jornada Estados",
-      "url": "https://www.jornada.com.mx/2026/10/17/estados/022n2est?partner=rss",
-      "dot_color": "#3498db",
-      "badge_txt": "ALERTA CLIMA",
-      "lat": 24.26,
-      "lon": -98.84
     }
   ]
 }
