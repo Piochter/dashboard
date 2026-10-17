@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-10-17T14:48:33.321221-06:00",
-  "ultima_actualizacion_legible": "17 de octubre de 2026 · 14:48 CST",
-  "total": 5,
+  "ultima_actualizacion": "2026-10-17T16:47:12.131947-06:00",
+  "ultima_actualizacion_legible": "17 de octubre de 2026 · 16:47 CST",
+  "total": 7,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
@@ -10,6 +10,47 @@
     "Telegram"
   ],
   "grupos": [
+    {
+      "tipo": "cierre_total",
+      "color": "rojo",
+      "icono": "🔴",
+      "label": "CIERRE TOTAL",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "45f56e7a",
+          "tipo": "cierre_total",
+          "ruta": "Volcadura en las obras del tren México-Querétaro dejan 2 muertos…",
+          "descripcion": "Volcadura en las obras del tren México-Querétaro dejan 2 muertos y 22 heridos. Un saldo de dos muertos y 22 heridos dejó la volcadura de un camión de transporte de personal que llevaba a varios trabajadores de las obras The post Volcadura en las obras del tren México-Querétaro dejan 2 muertos y 22 heridos appeared first on Quadratin Querétaro.",
+          "recomendacion": "",
+          "fecha": "17 octubre 2026 · 15:35 CST",
+          "fecha_iso": "2026-10-17T15:35:00-06:00",
+          "fuente": "Quadratin Queretaro",
+          "url": "https://queretaro.quadratin.com.mx/volcadura-en-las-obras-del-tren-mexico-queretaro-dejan-2-muertos-y-22-heridos/",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL",
+          "lat": 20.1,
+          "lon": -99.5
+        },
+        {
+          "id": "1ba8b1c2",
+          "tipo": "cierre_total",
+          "ruta": "Reportan derrumbes y cierres viales por lluvias en Tenango de…",
+          "descripcion": "Reportan derrumbes y cierres viales por lluvias en Tenango de Doria. El ayuntamiento de Tenango de Doria exhortó a transportistas y automovilistas a extremar precauciones al circular por las carreteras estatales The post Reportan derrumbes y cierres viales por lluvias en Tenango de Doria appeared first on Quadratin Hidalgo.",
+          "recomendacion": "",
+          "fecha": "17 octubre 2026 · 14:50 CST",
+          "fecha_iso": "2026-10-17T14:50:00-06:00",
+          "fuente": "Quadratin Hidalgo",
+          "url": "https://hidalgo.quadratin.com.mx/municipios/reportan-derrumbes-y-cierres-viales-por-lluvias-en-tenango-de-doria/",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL",
+          "lat": 20.11,
+          "lon": -98.73
+        }
+      ]
+    },
     {
       "tipo": "cierre_parcial",
       "color": "amarillo",
@@ -97,6 +138,32 @@
     }
   ],
   "para_mapa": [
+    {
+      "id": "45f56e7a",
+      "tipo": "cierre_total",
+      "ruta": "Volcadura en las obras del tren México-Querétaro dejan 2 muertos…",
+      "descripcion": "Volcadura en las obras del tren México-Querétaro dejan 2 muertos y 22 heridos. Un saldo de dos muertos y 22 heridos dejó la volcadura de un camión de transporte de personal que llevaba a varios trabajadores de las obras The post Volcadura en las obras del tren México-Querétaro dejan 2 muertos y 22 heridos appeared first on Quadratin Querétaro.",
+      "fecha": "17 octubre 2026 · 15:35 CST",
+      "fuente": "Quadratin Queretaro",
+      "url": "https://queretaro.quadratin.com.mx/volcadura-en-las-obras-del-tren-mexico-queretaro-dejan-2-muertos-y-22-heridos/",
+      "dot_color": "#e74c3c",
+      "badge_txt": "CIERRE TOTAL",
+      "lat": 20.1,
+      "lon": -99.5
+    },
+    {
+      "id": "1ba8b1c2",
+      "tipo": "cierre_total",
+      "ruta": "Reportan derrumbes y cierres viales por lluvias en Tenango de…",
+      "descripcion": "Reportan derrumbes y cierres viales por lluvias en Tenango de Doria. El ayuntamiento de Tenango de Doria exhortó a transportistas y automovilistas a extremar precauciones al circular por las carreteras estatales The post Reportan derrumbes y cierres viales por lluvias en Tenango de Doria appeared first on Quadratin Hidalgo.",
+      "fecha": "17 octubre 2026 · 14:50 CST",
+      "fuente": "Quadratin Hidalgo",
+      "url": "https://hidalgo.quadratin.com.mx/municipios/reportan-derrumbes-y-cierres-viales-por-lluvias-en-tenango-de-doria/",
+      "dot_color": "#e74c3c",
+      "badge_txt": "CIERRE TOTAL",
+      "lat": 20.11,
+      "lon": -98.73
+    },
     {
       "id": "f0817a21",
       "tipo": "cierre_parcial",
