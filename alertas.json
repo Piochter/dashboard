@@ -1,38 +1,12 @@
 {
-  "ultima_actualizacion": "2026-10-17T06:57:05.062181-06:00",
-  "ultima_actualizacion_legible": "17 de octubre de 2026 · 06:57 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-10-17T10:04:34.723218-06:00",
+  "ultima_actualizacion_legible": "17 de octubre de 2026 · 10:04 CST",
+  "total": 1,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Medios nacionales",
-    "Quadratin + regionales"
+    "Medios nacionales"
   ],
   "grupos": [
-    {
-      "tipo": "bloqueo",
-      "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "b5d81daf",
-          "tipo": "bloqueo",
-          "ruta": "Liberan 4 puntos carreteros de Oaxaca luego de protestas de…",
-          "descripcion": "Liberan 4 puntos carreteros de Oaxaca luego de protestas de la CNTE. Policía Vial confirmó el restablecimiento del tránsito en carreteras de los Valles Centrales.",
-          "recomendacion": "",
-          "fecha": "16 octubre 2026 · 20:18 CST",
-          "fecha_iso": "2026-10-16T20:18:00-06:00",
-          "fuente": "Quadratin Oaxaca",
-          "url": "https://oaxaca.quadratin.com.mx/liberan-4-puntos-carreteros-de-oaxaca-luego-de-protestas-de-la-cnte/",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 17.06,
-          "lon": -96.72
-        }
-      ]
-    },
     {
       "tipo": "clima",
       "color": "azul",
@@ -72,19 +46,6 @@
       "badge_txt": "ALERTA CLIMA",
       "lat": 24.26,
       "lon": -98.84
-    },
-    {
-      "id": "b5d81daf",
-      "tipo": "bloqueo",
-      "ruta": "Liberan 4 puntos carreteros de Oaxaca luego de protestas de…",
-      "descripcion": "Liberan 4 puntos carreteros de Oaxaca luego de protestas de la CNTE. Policía Vial confirmó el restablecimiento del tránsito en carreteras de los Valles Centrales.",
-      "fecha": "16 octubre 2026 · 20:18 CST",
-      "fuente": "Quadratin Oaxaca",
-      "url": "https://oaxaca.quadratin.com.mx/liberan-4-puntos-carreteros-de-oaxaca-luego-de-protestas-de-la-cnte/",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 17.06,
-      "lon": -96.72
     }
   ]
 }
