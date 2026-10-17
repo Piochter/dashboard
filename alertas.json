@@ -1,9 +1,10 @@
 {
-  "ultima_actualizacion": "2026-10-17T03:02:12.740484-06:00",
-  "ultima_actualizacion_legible": "17 de octubre de 2026 · 03:02 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-10-17T06:57:05.062181-06:00",
+  "ultima_actualizacion_legible": "17 de octubre de 2026 · 06:57 CST",
+  "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
+    "Medios nacionales",
     "Quadratin + regionales"
   ],
   "grupos": [
@@ -31,9 +32,47 @@
           "lon": -96.72
         }
       ]
+    },
+    {
+      "tipo": "clima",
+      "color": "azul",
+      "icono": "🌧",
+      "label": "ALERTA METEOROLOGICA",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "810e908b",
+          "tipo": "clima",
+          "ruta": "Lluvias por frente frío número 2 dejan inundaciones en 4…",
+          "descripcion": "Lluvias por frente frío número 2 dejan inundaciones en 4 estados. Las lluvias originadas por el frente frío número 2, la madrugada de ayer en Nuevo León, Chihuahua, Coahuila y Tamaulipas ocasionaron inundaciones en viviendas, negocios y vialidades, arrastre de automóviles, cortes de electricidad, cierre de carreteras, rachas de viento que derribaron postes y árboles, así como el rescate de varias personas atrapadas en sus vehículos, reportaron autoridades de Protección civil estatales.",
+          "recomendacion": "",
+          "fecha": "17 octubre 2026 · 02:02 CST",
+          "fecha_iso": "2026-10-17T02:02:00-06:00",
+          "fuente": "La Jornada Estados",
+          "url": "https://www.jornada.com.mx/2026/10/17/estados/022n2est?partner=rss",
+          "dot_color": "#3498db",
+          "badge": "badge-clima",
+          "badge_txt": "ALERTA CLIMA",
+          "lat": 24.26,
+          "lon": -98.84
+        }
+      ]
     }
   ],
   "para_mapa": [
+    {
+      "id": "810e908b",
+      "tipo": "clima",
+      "ruta": "Lluvias por frente frío número 2 dejan inundaciones en 4…",
+      "descripcion": "Lluvias por frente frío número 2 dejan inundaciones en 4 estados. Las lluvias originadas por el frente frío número 2, la madrugada de ayer en Nuevo León, Chihuahua, Coahuila y Tamaulipas ocasionaron inundaciones en viviendas, negocios y vialidades, arrastre de automóviles, cortes de electricidad, cierre de carreteras, rachas de viento que derribaron postes y árboles, así como el rescate de varias personas atrapadas en sus vehículos, reportaron autoridades de Protección civil estatales.",
+      "fecha": "17 octubre 2026 · 02:02 CST",
+      "fuente": "La Jornada Estados",
+      "url": "https://www.jornada.com.mx/2026/10/17/estados/022n2est?partner=rss",
+      "dot_color": "#3498db",
+      "badge_txt": "ALERTA CLIMA",
+      "lat": 24.26,
+      "lon": -98.84
+    },
     {
       "id": "b5d81daf",
       "tipo": "bloqueo",
