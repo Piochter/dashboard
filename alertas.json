@@ -1,11 +1,10 @@
 {
-  "ultima_actualizacion": "2026-10-16T18:38:38.491604-06:00",
-  "ultima_actualizacion_legible": "16 de octubre de 2026 · 18:38 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-10-16T22:59:17.814654-06:00",
+  "ultima_actualizacion_legible": "16 de octubre de 2026 · 22:59 CST",
+  "total": 1,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News",
-    "Telegram"
+    "Quadratin + regionales"
   ],
   "grupos": [
     {
@@ -16,80 +15,37 @@
       "col2": false,
       "alertas": [
         {
-          "id": "b905e723",
+          "id": "b5d81daf",
           "tipo": "bloqueo",
-          "ruta": "Trabajadores del IMSS bloquean la México-Pachuca hoy 16 de octubre:…",
-          "descripcion": "Trabajadores del IMSS bloquean la México-Pachuca hoy 16 de octubre: cierres, rutas alternas y próximas protestas - Eje Central. Trabajadores del IMSS bloquean la México-Pachuca hoy 16 de octubre: cierres, rutas alternas y próximas protestas Eje Central",
+          "ruta": "Liberan 4 puntos carreteros de Oaxaca luego de protestas de…",
+          "descripcion": "Liberan 4 puntos carreteros de Oaxaca luego de protestas de la CNTE. Policía Vial confirmó el restablecimiento del tránsito en carreteras de los Valles Centrales.",
           "recomendacion": "",
-          "fecha": "16 octubre 2026 · 09:18 CST",
-          "fecha_iso": "2026-10-16T09:18:00-06:00",
-          "fuente": "Eje Central",
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNN2t4c1RUSFJ2YjNHVm1GckhfY3JzVGR6amY2M3VlVEVUOVJqN2JKUWV4YWxIMUVIR2Nzc2FrRC1TSjd3QXRYQmxvWHRSXzQ1RDF6OHpBb3JyeWVfV2xPblRWTmMtN1lkRDM2SEdNSlg5ME9ra1A0NGU2TEZHYVdqMlF5TmpDOWt3WmlyOVFUZXFmUDJ0VTF4N1lYV3IyM2dyMDZ0VWtXdGhtTmpuRnEyS2lncXdFZHVCTm55UkVQLUJRdlVMN3BxazJQbDNxSkxPRGkxZ3ZhUGpBV1MybFV1dy1IMk5wbEE?oc=5",
+          "fecha": "16 octubre 2026 · 20:18 CST",
+          "fecha_iso": "2026-10-16T20:18:00-06:00",
+          "fuente": "Quadratin Oaxaca",
+          "url": "https://oaxaca.quadratin.com.mx/liberan-4-puntos-carreteros-de-oaxaca-luego-de-protestas-de-la-cnte/",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO",
-          "lat": 20.12,
-          "lon": -98.73
-        },
-        {
-          "id": "f66fe5f2",
-          "tipo": "bloqueo",
-          "ruta": "Bloqueos carreteras HOY viernes 16 de octubre: autopistas cerradas en…",
-          "descripcion": "Bloqueos carreteras HOY viernes 16 de octubre: autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY viernes 16 de octubre: autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
-          "recomendacion": "",
-          "fecha": "16 octubre 2026 · 08:07 CST",
-          "fecha_iso": "2026-10-16T08:07:00-06:00",
-          "fuente": "Eje Central",
-          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOU1RSX0lRRWptQVcwNU96TVZOVE5VbHpORl9IOGFYd0M4N2pBcWJ1LXAxY2cyMHRvU3lZWFBvNkhQWEh4UXltYzh3Vy1YSmVQMjI2MjlLWWUxNUlWY0lTRXlTUjE0ZWg3WEpFUWNOanYwVDFyWnJ3WTZYSEZUdGZxc1NtVXdXSU5XME9TNF94aE1XUjltbDRKeHBFdzBVOG1sNVZfd0tUR3pacUtpOEdzQlpyd2JXQWdqNHVsY2doaEwyRm9CcWtzM0R6VHRVVnJob0xnQm9PdXZIUHN3ZDUxTjRiQjlQd0Y4QlN4eHJKRDlIYjV6?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        },
-        {
-          "id": "82d89507",
-          "tipo": "bloqueo",
-          "ruta": "🚧Bloqueo en la #México-#Pachuca por protesta de trabajadores del #IMSS…",
-          "descripcion": "🚧Bloqueo en la #México-#Pachuca por protesta de trabajadores del #IMSS afecta al #Mexibús 😱👇\nhttps://lajornadaestadodemexico.com/bloqueo-en-la-mexico-pachuca-por-protesta-de-trabajadores-del-imss-afecta-al-mexibus/",
-          "recomendacion": "",
-          "fecha": "16 octubre 2026 · 08:02 CST",
-          "fecha_iso": "2026-10-16T08:02:00-06:00",
-          "fuente": "Telegram @jornadaedomex",
-          "url": "https://t.me/jornadaedomex/12385",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 20.12,
-          "lon": -98.73
+          "lat": 17.06,
+          "lon": -96.72
         }
       ]
     }
   ],
   "para_mapa": [
     {
-      "id": "b905e723",
+      "id": "b5d81daf",
       "tipo": "bloqueo",
-      "ruta": "Trabajadores del IMSS bloquean la México-Pachuca hoy 16 de octubre:…",
-      "descripcion": "Trabajadores del IMSS bloquean la México-Pachuca hoy 16 de octubre: cierres, rutas alternas y próximas protestas - Eje Central. Trabajadores del IMSS bloquean la México-Pachuca hoy 16 de octubre: cierres, rutas alternas y próximas protestas Eje Central",
-      "fecha": "16 octubre 2026 · 09:18 CST",
-      "fuente": "Eje Central",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNN2t4c1RUSFJ2YjNHVm1GckhfY3JzVGR6amY2M3VlVEVUOVJqN2JKUWV4YWxIMUVIR2Nzc2FrRC1TSjd3QXRYQmxvWHRSXzQ1RDF6OHpBb3JyeWVfV2xPblRWTmMtN1lkRDM2SEdNSlg5ME9ra1A0NGU2TEZHYVdqMlF5TmpDOWt3WmlyOVFUZXFmUDJ0VTF4N1lYV3IyM2dyMDZ0VWtXdGhtTmpuRnEyS2lncXdFZHVCTm55UkVQLUJRdlVMN3BxazJQbDNxSkxPRGkxZ3ZhUGpBV1MybFV1dy1IMk5wbEE?oc=5",
+      "ruta": "Liberan 4 puntos carreteros de Oaxaca luego de protestas de…",
+      "descripcion": "Liberan 4 puntos carreteros de Oaxaca luego de protestas de la CNTE. Policía Vial confirmó el restablecimiento del tránsito en carreteras de los Valles Centrales.",
+      "fecha": "16 octubre 2026 · 20:18 CST",
+      "fuente": "Quadratin Oaxaca",
+      "url": "https://oaxaca.quadratin.com.mx/liberan-4-puntos-carreteros-de-oaxaca-luego-de-protestas-de-la-cnte/",
       "dot_color": "#8e44ad",
       "badge_txt": "BLOQUEO",
-      "lat": 20.12,
-      "lon": -98.73
-    },
-    {
-      "id": "82d89507",
-      "tipo": "bloqueo",
-      "ruta": "🚧Bloqueo en la #México-#Pachuca por protesta de trabajadores del #IMSS…",
-      "descripcion": "🚧Bloqueo en la #México-#Pachuca por protesta de trabajadores del #IMSS afecta al #Mexibús 😱👇\nhttps://lajornadaestadodemexico.com/bloqueo-en-la-mexico-pachuca-por-protesta-de-trabajadores-del-imss-afecta-al-mexibus/",
-      "fecha": "16 octubre 2026 · 08:02 CST",
-      "fuente": "Telegram @jornadaedomex",
-      "url": "https://t.me/jornadaedomex/12385",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 20.12,
-      "lon": -98.73
+      "lat": 17.06,
+      "lon": -96.72
     }
   ]
 }
