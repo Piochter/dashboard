@@ -1,12 +1,36 @@
 {
-  "ultima_actualizacion": "2026-10-18T07:24:27.017469-06:00",
-  "ultima_actualizacion_legible": "18 de octubre de 2026 · 07:24 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-10-18T10:39:38.713409-06:00",
+  "ultima_actualizacion_legible": "18 de octubre de 2026 · 10:39 CST",
+  "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
+    "Medios regionales",
     "Quadratin + regionales"
   ],
   "grupos": [
+    {
+      "tipo": "cierre_total",
+      "color": "rojo",
+      "icono": "🔴",
+      "label": "CIERRE TOTAL",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "0069a9c3",
+          "tipo": "cierre_total",
+          "ruta": "Volcadura de soldados deja un muerto y 7 heridos en…",
+          "descripcion": "Volcadura de soldados deja un muerto y 7 heridos en Valle de Santiago-Jaral del Progreso. El percance se reportó a las corporaciones de emergencia alrededor de las 9:45 de la noche, lo que generó la inmediata movilización de socorristas de la Cruz Roja Mexicana y elementos de Protección Civil de Valle de Santiago hacia el tramo intermunicipal para atender el siniestro.",
+          "recomendacion": "",
+          "fecha": "18 octubre 2026 · 09:48 CST",
+          "fecha_iso": "2026-10-18T09:48:00-06:00",
+          "fuente": "AM Guanajuato",
+          "url": "https://www.am.com.mx/guanajuato-sur/2026/10/18/volcadura-de-soldados-deja-un-muerto-en-valle-de-santiago-1856398.html",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL"
+        }
+      ]
+    },
     {
       "tipo": "cierre_parcial",
       "color": "amarillo",
