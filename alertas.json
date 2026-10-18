@@ -1,11 +1,10 @@
 {
-  "ultima_actualizacion": "2026-10-18T10:39:38.713409-06:00",
-  "ultima_actualizacion_legible": "18 de octubre de 2026 · 10:39 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-10-18T12:56:17.793369-06:00",
+  "ultima_actualizacion_legible": "18 de octubre de 2026 · 12:56 CST",
+  "total": 1,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Medios regionales",
-    "Quadratin + regionales"
+    "Medios regionales"
   ],
   "grupos": [
     {
@@ -30,46 +29,7 @@
           "badge_txt": "CIERRE TOTAL"
         }
       ]
-    },
-    {
-      "tipo": "cierre_parcial",
-      "color": "amarillo",
-      "icono": "🟡",
-      "label": "CIERRE PARCIAL / ACCIDENTES",
-      "col2": true,
-      "alertas": [
-        {
-          "id": "30845fc7",
-          "tipo": "cierre_parcial",
-          "ruta": "Vuelca taxi foráneo en Huitzo; reportan 2 personas atrapadas…",
-          "descripcion": "Vuelca taxi foráneo en Huitzo; reportan 2 personas atrapadas. El accidente ocurrió sobre la carretera federal 190, en dirección a Oaxaca de Juárez",
-          "recomendacion": "",
-          "fecha": "17 octubre 2026 · 23:08 CST",
-          "fecha_iso": "2026-10-17T23:08:00-06:00",
-          "fuente": "Quadratin Oaxaca",
-          "url": "https://oaxaca.quadratin.com.mx/vuelca-taxi-foraneo-en-huitzo-reportan-2-personas-atrapadas/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 16.75,
-          "lon": -93.12
-        }
-      ]
     }
   ],
-  "para_mapa": [
-    {
-      "id": "30845fc7",
-      "tipo": "cierre_parcial",
-      "ruta": "Vuelca taxi foráneo en Huitzo; reportan 2 personas atrapadas…",
-      "descripcion": "Vuelca taxi foráneo en Huitzo; reportan 2 personas atrapadas. El accidente ocurrió sobre la carretera federal 190, en dirección a Oaxaca de Juárez",
-      "fecha": "17 octubre 2026 · 23:08 CST",
-      "fuente": "Quadratin Oaxaca",
-      "url": "https://oaxaca.quadratin.com.mx/vuelca-taxi-foraneo-en-huitzo-reportan-2-personas-atrapadas/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 16.75,
-      "lon": -93.12
-    }
-  ]
+  "para_mapa": []
 }
