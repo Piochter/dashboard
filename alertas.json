@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-10-17T18:30:48.659949-06:00",
-  "ultima_actualizacion_legible": "17 de octubre de 2026 · 18:30 CST",
-  "total": 7,
+  "ultima_actualizacion": "2026-10-17T22:59:48.611929-06:00",
+  "ultima_actualizacion_legible": "17 de octubre de 2026 · 22:59 CST",
+  "total": 6,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
@@ -116,34 +116,20 @@
           "lon": -98.2
         },
         {
-          "id": "bae2ec8f",
+          "id": "5581ab3d",
           "tipo": "cierre_parcial",
-          "ruta": "autopista México-Querétaro en Tepeji del Río",
-          "descripcion": "Reportan accidente de tráiler en la autopista México-Querétaro en Tepeji del Río. Un accidente se suscitó esta mañana de este sábado en el kilómetro 69 de la autopista México-Querétaro, a la altura del acceso a Tepeji del Río The post Reportan accidente de tráiler en la autopista México-Querétaro en Tepeji del Río appeared first on Quadratin Hidalgo.",
+          "ruta": "Tepeji: accidente de tráiler en la México–Querétaro causa tráfico rumbo…",
+          "descripcion": "Tepeji: accidente de tráiler en la México–Querétaro causa tráfico rumbo a la CDMX - La Jornada Hidalgo. Tepeji: accidente de tráiler en la México–Querétaro causa tráfico rumbo a la CDMX La Jornada Hidalgo",
           "recomendacion": "",
-          "fecha": "17 octubre 2026 · 11:43 CST",
-          "fecha_iso": "2026-10-17T11:43:00-06:00",
-          "fuente": "Quadratin Hidalgo",
-          "url": "https://hidalgo.quadratin.com.mx/municipios/reportan-accidente-de-trailer-en-la-autopista-mexico-queretaro-en-tepeji-del-rio/",
+          "fecha": "17 octubre 2026 · 12:34 CST",
+          "fecha_iso": "2026-10-17T12:34:00-06:00",
+          "fuente": "La Jornada Hidalgo",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQXhCbFNhelhzSmlOaEhlNDNVWjdEMmVVazNHSFE5cEowVFlkWHZzNXduY29lODlnY1BBVnlkaFVvZ01YMlFhbVFjMkdIc1gxNXFYcWRhUTVlSDZ4WjJfbWZXenJIRDBwTkVuX0x5YkUteF90QldkMkRreVBjXzRzNXNIN1kzMHVuUHppSXRPWlFDeUJMT3pwa3VPQmlycUFKTVlMRklZTHBOR3hma1BR?oc=5",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL",
           "lat": 20.1,
           "lon": -99.5
-        },
-        {
-          "id": "0fab390f",
-          "tipo": "cierre_parcial",
-          "ruta": "Carreteras Bloqueadas en México Hoy Sábado 17 de Octubre 2026…",
-          "descripcion": "Carreteras Bloqueadas en México Hoy Sábado 17 de Octubre 2026 En Vivo: Últimas Noticias por Vías Cerradas - N+. Carreteras Bloqueadas en México Hoy Sábado 17 de Octubre 2026 En Vivo: Últimas Noticias por Vías Cerradas N+",
-          "recomendacion": "",
-          "fecha": "17 octubre 2026 · 07:14 CST",
-          "fecha_iso": "2026-10-17T07:14:00-06:00",
-          "fuente": "N+",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQXzluaWdILTMwdGUtZTdTZmFLODdQa2s5Z2MwQmt0eW1CdVJyVUVDWkVrRy12ZUx1TnRZc1k5MVV2TThwSVhSZHlUbXlPMmNPYnlOajlEQWxpa3RGMHN1UFNTbm9TNnhLX3RZOE9QZU1KTWVBazdfYnczWlljTy1BLWtVU2ozRXhybFA3X3NGTW1kNzNpVl9JdUlEeENzNE9KQ21oM3lISkVFRll2TEFRODdycnlGY3BGZkdFUm8zYko?oc=5",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
         }
       ]
     }
@@ -215,13 +201,13 @@
       "lon": -98.2
     },
     {
-      "id": "bae2ec8f",
+      "id": "5581ab3d",
       "tipo": "cierre_parcial",
-      "ruta": "autopista México-Querétaro en Tepeji del Río",
-      "descripcion": "Reportan accidente de tráiler en la autopista México-Querétaro en Tepeji del Río. Un accidente se suscitó esta mañana de este sábado en el kilómetro 69 de la autopista México-Querétaro, a la altura del acceso a Tepeji del Río The post Reportan accidente de tráiler en la autopista México-Querétaro en Tepeji del Río appeared first on Quadratin Hidalgo.",
-      "fecha": "17 octubre 2026 · 11:43 CST",
-      "fuente": "Quadratin Hidalgo",
-      "url": "https://hidalgo.quadratin.com.mx/municipios/reportan-accidente-de-trailer-en-la-autopista-mexico-queretaro-en-tepeji-del-rio/",
+      "ruta": "Tepeji: accidente de tráiler en la México–Querétaro causa tráfico rumbo…",
+      "descripcion": "Tepeji: accidente de tráiler en la México–Querétaro causa tráfico rumbo a la CDMX - La Jornada Hidalgo. Tepeji: accidente de tráiler en la México–Querétaro causa tráfico rumbo a la CDMX La Jornada Hidalgo",
+      "fecha": "17 octubre 2026 · 12:34 CST",
+      "fuente": "La Jornada Hidalgo",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQXhCbFNhelhzSmlOaEhlNDNVWjdEMmVVazNHSFE5cEowVFlkWHZzNXduY29lODlnY1BBVnlkaFVvZ01YMlFhbVFjMkdIc1gxNXFYcWRhUTVlSDZ4WjJfbWZXenJIRDBwTkVuX0x5YkUteF90QldkMkRreVBjXzRzNXNIN1kzMHVuUHppSXRPWlFDeUJMT3pwa3VPQmlycUFKTVlMRklZTHBOR3hma1BR?oc=5",
       "dot_color": "#e67e22",
       "badge_txt": "CIERRE PARCIAL",
       "lat": 20.1,
