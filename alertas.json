@@ -1,62 +1,12 @@
 {
-  "ultima_actualizacion": "2026-10-18T03:22:01.479977-06:00",
-  "ultima_actualizacion_legible": "18 de octubre de 2026 · 03:22 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-10-18T07:24:27.017469-06:00",
+  "ultima_actualizacion_legible": "18 de octubre de 2026 · 07:24 CST",
+  "total": 1,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Quadratin + regionales"
   ],
   "grupos": [
-    {
-      "tipo": "cierre_total",
-      "color": "rojo",
-      "icono": "🔴",
-      "label": "CIERRE TOTAL",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "45f56e7a",
-          "tipo": "cierre_total",
-          "ruta": "Volcadura en las obras del tren México-Querétaro dejan 2 muertos…",
-          "descripcion": "Volcadura en las obras del tren México-Querétaro dejan 2 muertos y 22 heridos. Un saldo de dos muertos y 22 heridos dejó la volcadura de un camión de transporte de personal que llevaba a varios trabajadores de las obras The post Volcadura en las obras del tren México-Querétaro dejan 2 muertos y 22 heridos appeared first on Quadratin Querétaro.",
-          "recomendacion": "",
-          "fecha": "17 octubre 2026 · 15:35 CST",
-          "fecha_iso": "2026-10-17T15:35:00-06:00",
-          "fuente": "Quadratin Queretaro",
-          "url": "https://queretaro.quadratin.com.mx/volcadura-en-las-obras-del-tren-mexico-queretaro-dejan-2-muertos-y-22-heridos/",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL",
-          "lat": 20.1,
-          "lon": -99.5
-        }
-      ]
-    },
-    {
-      "tipo": "robo",
-      "color": "rojo",
-      "icono": "🚨",
-      "label": "ROBOS EN CARRETERA",
-      "col2": true,
-      "alertas": [
-        {
-          "id": "c162f56d",
-          "tipo": "robo",
-          "ruta": "Detienen en Tepeji del Río a presunto implicado en asalto…",
-          "descripcion": "Detienen en Tepeji del Río a presunto implicado en asalto a tráiler. TEPEJI DEL RÍO, Hgo. 17 de octubre de 2026. Un hombre de 36 años, identificado con las iniciales J.V.A. y vecino del Estado de México, fue detenido en Tepeji del Río tras un operativo desplegado por un reporte de asalto a transporte de carga sobre la autopista México-Querétaro. Durante la intervención, policías le aseguraron un […] The post Detienen en Tepeji del Río a presunto implicado en asalto a tráiler appeared first on Qu",
-          "recomendacion": "",
-          "fecha": "17 octubre 2026 · 18:23 CST",
-          "fecha_iso": "2026-10-17T18:23:00-06:00",
-          "fuente": "Quadratin Hidalgo",
-          "url": "https://hidalgo.quadratin.com.mx/municipios/detienen-en-tepeji-del-rio-a-presunto-implicado-en-asalto-a-trailer/",
-          "dot_color": "#c0392b",
-          "badge": "badge-robo",
-          "badge_txt": "ROBO",
-          "lat": 20.1,
-          "lon": -99.5
-        }
-      ]
-    },
     {
       "tipo": "cierre_parcial",
       "color": "amarillo",
@@ -96,32 +46,6 @@
       "badge_txt": "CIERRE PARCIAL",
       "lat": 16.75,
       "lon": -93.12
-    },
-    {
-      "id": "c162f56d",
-      "tipo": "robo",
-      "ruta": "Detienen en Tepeji del Río a presunto implicado en asalto…",
-      "descripcion": "Detienen en Tepeji del Río a presunto implicado en asalto a tráiler. TEPEJI DEL RÍO, Hgo. 17 de octubre de 2026. Un hombre de 36 años, identificado con las iniciales J.V.A. y vecino del Estado de México, fue detenido en Tepeji del Río tras un operativo desplegado por un reporte de asalto a transporte de carga sobre la autopista México-Querétaro. Durante la intervención, policías le aseguraron un […] The post Detienen en Tepeji del Río a presunto implicado en asalto a tráiler appeared first on Qu",
-      "fecha": "17 octubre 2026 · 18:23 CST",
-      "fuente": "Quadratin Hidalgo",
-      "url": "https://hidalgo.quadratin.com.mx/municipios/detienen-en-tepeji-del-rio-a-presunto-implicado-en-asalto-a-trailer/",
-      "dot_color": "#c0392b",
-      "badge_txt": "ROBO",
-      "lat": 20.1,
-      "lon": -99.5
-    },
-    {
-      "id": "45f56e7a",
-      "tipo": "cierre_total",
-      "ruta": "Volcadura en las obras del tren México-Querétaro dejan 2 muertos…",
-      "descripcion": "Volcadura en las obras del tren México-Querétaro dejan 2 muertos y 22 heridos. Un saldo de dos muertos y 22 heridos dejó la volcadura de un camión de transporte de personal que llevaba a varios trabajadores de las obras The post Volcadura en las obras del tren México-Querétaro dejan 2 muertos y 22 heridos appeared first on Quadratin Querétaro.",
-      "fecha": "17 octubre 2026 · 15:35 CST",
-      "fuente": "Quadratin Queretaro",
-      "url": "https://queretaro.quadratin.com.mx/volcadura-en-las-obras-del-tren-mexico-queretaro-dejan-2-muertos-y-22-heridos/",
-      "dot_color": "#e74c3c",
-      "badge_txt": "CIERRE TOTAL",
-      "lat": 20.1,
-      "lon": -99.5
     }
   ]
 }
