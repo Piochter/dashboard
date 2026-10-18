@@ -1,10 +1,10 @@
 {
-  "ultima_actualizacion": "2026-10-18T12:56:17.793369-06:00",
-  "ultima_actualizacion_legible": "18 de octubre de 2026 · 12:56 CST",
+  "ultima_actualizacion": "2026-10-18T15:11:29.342298-06:00",
+  "ultima_actualizacion_legible": "18 de octubre de 2026 · 15:11 CST",
   "total": 1,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Medios regionales"
+    "Quadratin + regionales"
   ],
   "grupos": [
     {
@@ -15,21 +15,37 @@
       "col2": false,
       "alertas": [
         {
-          "id": "0069a9c3",
+          "id": "bdcea098",
           "tipo": "cierre_total",
-          "ruta": "Volcadura de soldados deja un muerto y 7 heridos en…",
-          "descripcion": "Volcadura de soldados deja un muerto y 7 heridos en Valle de Santiago-Jaral del Progreso. El percance se reportó a las corporaciones de emergencia alrededor de las 9:45 de la noche, lo que generó la inmediata movilización de socorristas de la Cruz Roja Mexicana y elementos de Protección Civil de Valle de Santiago hacia el tramo intermunicipal para atender el siniestro.",
+          "ruta": "Semar mantiene activo Plan Marina ante Trudy en el Pacífico…",
+          "descripcion": "Semar mantiene activo Plan Marina ante Trudy en el Pacífico. En Jalisco personal naval ha realizado la liberación de vialidades por deslaves",
           "recomendacion": "",
-          "fecha": "18 octubre 2026 · 09:48 CST",
-          "fecha_iso": "2026-10-18T09:48:00-06:00",
-          "fuente": "AM Guanajuato",
-          "url": "https://www.am.com.mx/guanajuato-sur/2026/10/18/volcadura-de-soldados-deja-un-muerto-en-valle-de-santiago-1856398.html",
+          "fecha": "18 octubre 2026 · 13:30 CST",
+          "fecha_iso": "2026-10-18T13:30:00-06:00",
+          "fuente": "Quadratin Tabasco",
+          "url": "https://tabasco.quadratin.com.mx/medio-ambiente/semar-mantiene-activo-plan-marina-ante-trudy-en-el-pacifico/",
           "dot_color": "#e74c3c",
           "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL"
+          "badge_txt": "CIERRE TOTAL",
+          "lat": 20.66,
+          "lon": -103.35
         }
       ]
     }
   ],
-  "para_mapa": []
+  "para_mapa": [
+    {
+      "id": "bdcea098",
+      "tipo": "cierre_total",
+      "ruta": "Semar mantiene activo Plan Marina ante Trudy en el Pacífico…",
+      "descripcion": "Semar mantiene activo Plan Marina ante Trudy en el Pacífico. En Jalisco personal naval ha realizado la liberación de vialidades por deslaves",
+      "fecha": "18 octubre 2026 · 13:30 CST",
+      "fuente": "Quadratin Tabasco",
+      "url": "https://tabasco.quadratin.com.mx/medio-ambiente/semar-mantiene-activo-plan-marina-ante-trudy-en-el-pacifico/",
+      "dot_color": "#e74c3c",
+      "badge_txt": "CIERRE TOTAL",
+      "lat": 20.66,
+      "lon": -103.35
+    }
+  ]
 }
