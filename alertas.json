@@ -1,6 +1,6 @@
 {
-  "ultima_actualizacion": "2026-10-17T16:47:12.131947-06:00",
-  "ultima_actualizacion_legible": "17 de octubre de 2026 · 16:47 CST",
+  "ultima_actualizacion": "2026-10-17T18:30:48.659949-06:00",
+  "ultima_actualizacion_legible": "17 de octubre de 2026 · 18:30 CST",
   "total": 7,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
@@ -52,26 +52,37 @@
       ]
     },
     {
+      "tipo": "robo",
+      "color": "rojo",
+      "icono": "🚨",
+      "label": "ROBOS EN CARRETERA",
+      "col2": true,
+      "alertas": [
+        {
+          "id": "c162f56d",
+          "tipo": "robo",
+          "ruta": "Detienen en Tepeji del Río a presunto implicado en asalto…",
+          "descripcion": "Detienen en Tepeji del Río a presunto implicado en asalto a tráiler. TEPEJI DEL RÍO, Hgo. 17 de octubre de 2026. Un hombre de 36 años, identificado con las iniciales J.V.A. y vecino del Estado de México, fue detenido en Tepeji del Río tras un operativo desplegado por un reporte de asalto a transporte de carga sobre la autopista México-Querétaro. Durante la intervención, policías le aseguraron un […] The post Detienen en Tepeji del Río a presunto implicado en asalto a tráiler appeared first on Qu",
+          "recomendacion": "",
+          "fecha": "17 octubre 2026 · 18:23 CST",
+          "fecha_iso": "2026-10-17T18:23:00-06:00",
+          "fuente": "Quadratin Hidalgo",
+          "url": "https://hidalgo.quadratin.com.mx/municipios/detienen-en-tepeji-del-rio-a-presunto-implicado-en-asalto-a-trailer/",
+          "dot_color": "#c0392b",
+          "badge": "badge-robo",
+          "badge_txt": "ROBO",
+          "lat": 20.1,
+          "lon": -99.5
+        }
+      ]
+    },
+    {
       "tipo": "cierre_parcial",
       "color": "amarillo",
       "icono": "🟡",
       "label": "CIERRE PARCIAL / ACCIDENTES",
       "col2": true,
       "alertas": [
-        {
-          "id": "5cab06ec",
-          "tipo": "cierre_parcial",
-          "ruta": "autopista SCLC",
-          "descripcion": "Tráiler provoca choque múltiple al impactar autos detenidos en la autopista SCLC. Se desconoce el número de víctimas",
-          "recomendacion": "",
-          "fecha": "17 octubre 2026 · 14:02 CST",
-          "fecha_iso": "2026-10-17T14:02:00-06:00",
-          "fuente": "Quadratin Chiapas",
-          "url": "https://chiapas.quadratin.com.mx/principal/trailer-provoca-choque-multiple-al-impactar-autos-detenidos-en-la-autopista-sclc/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
-        },
         {
           "id": "f0817a21",
           "tipo": "cierre_parcial",
@@ -138,6 +149,19 @@
     }
   ],
   "para_mapa": [
+    {
+      "id": "c162f56d",
+      "tipo": "robo",
+      "ruta": "Detienen en Tepeji del Río a presunto implicado en asalto…",
+      "descripcion": "Detienen en Tepeji del Río a presunto implicado en asalto a tráiler. TEPEJI DEL RÍO, Hgo. 17 de octubre de 2026. Un hombre de 36 años, identificado con las iniciales J.V.A. y vecino del Estado de México, fue detenido en Tepeji del Río tras un operativo desplegado por un reporte de asalto a transporte de carga sobre la autopista México-Querétaro. Durante la intervención, policías le aseguraron un […] The post Detienen en Tepeji del Río a presunto implicado en asalto a tráiler appeared first on Qu",
+      "fecha": "17 octubre 2026 · 18:23 CST",
+      "fuente": "Quadratin Hidalgo",
+      "url": "https://hidalgo.quadratin.com.mx/municipios/detienen-en-tepeji-del-rio-a-presunto-implicado-en-asalto-a-trailer/",
+      "dot_color": "#c0392b",
+      "badge_txt": "ROBO",
+      "lat": 20.1,
+      "lon": -99.5
+    },
     {
       "id": "45f56e7a",
       "tipo": "cierre_total",
