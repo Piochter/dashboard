@@ -1,12 +1,11 @@
 {
-  "ultima_actualizacion": "2026-10-19T13:18:32.173602-06:00",
-  "ultima_actualizacion_legible": "19 de octubre de 2026 · 13:18 CST",
-  "total": 5,
+  "ultima_actualizacion": "2026-10-19T16:58:35.344520-06:00",
+  "ultima_actualizacion_legible": "19 de octubre de 2026 · 16:58 CST",
+  "total": 8,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
     "Medios regionales",
-    "Quadratin + regionales",
     "Telegram"
   ],
   "grupos": [
@@ -18,20 +17,66 @@
       "col2": false,
       "alertas": [
         {
-          "id": "292a8b57",
+          "id": "0356548b",
           "tipo": "cierre_total",
-          "ruta": "Paul Aguilar sufre accidente en Michoacán, exjugador del América permanece…",
-          "descripcion": "Paul Aguilar sufre accidente en Michoacán, exjugador del América permanece hospitalizado. El exjugador del América sufrió una volcadura mientras conducía por una carretera de Michoacán. Fue rescatado por cuerpos de emergencia y trasladado a un hospital, donde permanece fuera de peligro.",
+          "ruta": "Muere sargento de la Sedena tras volcadura en la carretera…",
+          "descripcion": "Muere sargento de la Sedena tras volcadura en la carretera Valle–Jaral del Progreso. El sargento segundo de Infantería de la Sedena, Alberto Daniel López Sánchez, falleció la noche del sábado 17 de octubre tras volcar la camioneta Hummer en la que viajaba sobre la carretera Valle de Santiago–Jaral del Progreso.",
           "recomendacion": "",
-          "fecha": "19 octubre 2026 · 10:58 CST",
-          "fecha_iso": "2026-10-19T10:58:00-06:00",
+          "fecha": "19 octubre 2026 · 16:24 CST",
+          "fecha_iso": "2026-10-19T16:24:00-06:00",
           "fuente": "AM Guanajuato",
-          "url": "https://www.am.com.mx/superdeportivo/2026/10/19/paul-aguilar-sufre-accidente-en-michoacan-exjugador-del-america-permanece-hospitalizado-1856693.html",
+          "url": "https://www.am.com.mx/guanajuato-sur/2026/10/19/muere-sargento-de-la-sedena-tras-volcadura-en-la-carretera-valle-jaral-del-progreso-1856760.html",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL"
+        },
+        {
+          "id": "f4f25304",
+          "tipo": "cierre_total",
+          "ruta": "Choque Múltiple y Volcadura de Tráiler en la Autopista México-Puebla…",
+          "descripcion": "Choque Múltiple y Volcadura de Tráiler en la Autopista México-Puebla Deja 2 Muertos - N+. Choque Múltiple y Volcadura de Tráiler en la Autopista México-Puebla Deja 2 Muertos N+",
+          "recomendacion": "",
+          "fecha": "19 octubre 2026 · 16:15 CST",
+          "fecha_iso": "2026-10-19T16:15:00-06:00",
+          "fuente": "N+",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdnR2bmswNkpXaGNrM1lLN2VIdEtkZHFuTmJXcnRYWVhBRzlUc28tM0NnRExyRFkwdy1yVkZHU0ljcm1jYzFLeXBQZmxHOVJjZkxKSW5IcnVFSm1VT1lsRzhTMk01Z2pJdkxHS09lMURidWZZMmZlVXVZeVVfYnBGdmsxb2pUTDU5T3Q1SEJUXzV1RnVoTEF4Y2kxQXFETGdJQW5FM2MzQl8weUVlNmxCbnhNUmNHbUxTTlRCdjZpdzBoS282RkJfSlFB?oc=5",
           "dot_color": "#e74c3c",
           "badge": "badge-cierre-total",
           "badge_txt": "CIERRE TOTAL",
-          "lat": 19.7,
-          "lon": -101.19
+          "lat": 19.35,
+          "lon": -98.4
+        },
+        {
+          "id": "fdd4c0a1",
+          "tipo": "cierre_total",
+          "ruta": "Volcadura de tráiler deja dos lesionados y cinco horas de…",
+          "descripcion": "Volcadura de tráiler deja dos lesionados y cinco horas de tráfico en la México-Pachuca\n https://lajornadaestadodemexico.com/volcadura-de-trailer-deja-dos-lesionados-y-cinco-horas-de-trafico-en-la-mexico-pachuca/",
+          "recomendacion": "",
+          "fecha": "19 octubre 2026 · 16:14 CST",
+          "fecha_iso": "2026-10-19T16:14:00-06:00",
+          "fuente": "Telegram @jornadaedomex",
+          "url": "https://t.me/jornadaedomex/12416",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL",
+          "lat": 20.12,
+          "lon": -98.73
+        },
+        {
+          "id": "8e40ef09",
+          "tipo": "cierre_total",
+          "ruta": "Atienden bomberos volcadura de tráiler sobre la México-Pachuca - Agencia…",
+          "descripcion": "Atienden bomberos volcadura de tráiler sobre la México-Pachuca - Agencia de Noticias NVM. Atienden bomberos volcadura de tráiler sobre la México-Pachuca Agencia de Noticias NVM",
+          "recomendacion": "",
+          "fecha": "19 octubre 2026 · 11:45 CST",
+          "fecha_iso": "2026-10-19T11:45:00-06:00",
+          "fuente": "Agencia de Noticias NVM",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSXRjSlA3X05sWVBweG1mRkNVbHhVLS0tMVpKWVFJX08xd1pXTkVLUklESC00Qk53ZzFFWDV3MnFSR2dDQlRfT1A4NS1UQ2h6X0hYcGR4YWlZeWp2ZlBxUzdKamlVMWhtWnM3YnEzLWI0ckFsSFNGTDJUdGtvSF9mNFV3UjNLckpScFVOM0NVdHlfNlJvYmZfZnhFZUZGUzExbkNadg?oc=5",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL",
+          "lat": 20.12,
+          "lon": -98.73
         }
       ]
     },
@@ -80,18 +125,20 @@
       "col2": true,
       "alertas": [
         {
-          "id": "401f1e38",
+          "id": "85b356b5",
           "tipo": "cierre_parcial",
-          "ruta": "Choca camioneta contra poste de luz en Puerto Escondido…",
-          "descripcion": "Choca camioneta contra poste de luz en Puerto Escondido. Choque contra un poste de luz afecta la vialidad en la carretera estatal 131, en Puerto Escondido; personal de la CFE trabaja en el lugar.",
+          "ruta": "Muere conductor de automóvil tras fuerte choque con una tolva…",
+          "descripcion": "Muere conductor de automóvil tras fuerte choque con una tolva en Abasolo. El accidente ocurrió sobre la carretera estatal Irapuato-Cuéramaro, a la altura de la colonia Hermosillo. El conductor del automóvil quedó prensado entre los fierros retorcidos de la unidad.",
           "recomendacion": "",
-          "fecha": "19 octubre 2026 · 11:20 CST",
-          "fecha_iso": "2026-10-19T11:20:00-06:00",
-          "fuente": "Quadratin Oaxaca",
-          "url": "https://oaxaca.quadratin.com.mx/choca-camioneta-contra-poste-de-luz-en-puerto-escondido/",
+          "fecha": "19 octubre 2026 · 16:28 CST",
+          "fecha_iso": "2026-10-19T16:28:00-06:00",
+          "fuente": "AM Guanajuato",
+          "url": "https://www.am.com.mx/guanajuato-sur/2026/10/19/muere-conductor-de-automovil-tras-fuerte-choque-con-una-tolva-en-abasolo-1856789.html",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 29.07,
+          "lon": -110.96
         },
         {
           "id": "bdbe387b",
@@ -112,17 +159,56 @@
   ],
   "para_mapa": [
     {
-      "id": "292a8b57",
-      "tipo": "cierre_total",
-      "ruta": "Paul Aguilar sufre accidente en Michoacán, exjugador del América permanece…",
-      "descripcion": "Paul Aguilar sufre accidente en Michoacán, exjugador del América permanece hospitalizado. El exjugador del América sufrió una volcadura mientras conducía por una carretera de Michoacán. Fue rescatado por cuerpos de emergencia y trasladado a un hospital, donde permanece fuera de peligro.",
-      "fecha": "19 octubre 2026 · 10:58 CST",
+      "id": "85b356b5",
+      "tipo": "cierre_parcial",
+      "ruta": "Muere conductor de automóvil tras fuerte choque con una tolva…",
+      "descripcion": "Muere conductor de automóvil tras fuerte choque con una tolva en Abasolo. El accidente ocurrió sobre la carretera estatal Irapuato-Cuéramaro, a la altura de la colonia Hermosillo. El conductor del automóvil quedó prensado entre los fierros retorcidos de la unidad.",
+      "fecha": "19 octubre 2026 · 16:28 CST",
       "fuente": "AM Guanajuato",
-      "url": "https://www.am.com.mx/superdeportivo/2026/10/19/paul-aguilar-sufre-accidente-en-michoacan-exjugador-del-america-permanece-hospitalizado-1856693.html",
+      "url": "https://www.am.com.mx/guanajuato-sur/2026/10/19/muere-conductor-de-automovil-tras-fuerte-choque-con-una-tolva-en-abasolo-1856789.html",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 29.07,
+      "lon": -110.96
+    },
+    {
+      "id": "f4f25304",
+      "tipo": "cierre_total",
+      "ruta": "Choque Múltiple y Volcadura de Tráiler en la Autopista México-Puebla…",
+      "descripcion": "Choque Múltiple y Volcadura de Tráiler en la Autopista México-Puebla Deja 2 Muertos - N+. Choque Múltiple y Volcadura de Tráiler en la Autopista México-Puebla Deja 2 Muertos N+",
+      "fecha": "19 octubre 2026 · 16:15 CST",
+      "fuente": "N+",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdnR2bmswNkpXaGNrM1lLN2VIdEtkZHFuTmJXcnRYWVhBRzlUc28tM0NnRExyRFkwdy1yVkZHU0ljcm1jYzFLeXBQZmxHOVJjZkxKSW5IcnVFSm1VT1lsRzhTMk01Z2pJdkxHS09lMURidWZZMmZlVXVZeVVfYnBGdmsxb2pUTDU5T3Q1SEJUXzV1RnVoTEF4Y2kxQXFETGdJQW5FM2MzQl8weUVlNmxCbnhNUmNHbUxTTlRCdjZpdzBoS282RkJfSlFB?oc=5",
       "dot_color": "#e74c3c",
       "badge_txt": "CIERRE TOTAL",
-      "lat": 19.7,
-      "lon": -101.19
+      "lat": 19.35,
+      "lon": -98.4
+    },
+    {
+      "id": "fdd4c0a1",
+      "tipo": "cierre_total",
+      "ruta": "Volcadura de tráiler deja dos lesionados y cinco horas de…",
+      "descripcion": "Volcadura de tráiler deja dos lesionados y cinco horas de tráfico en la México-Pachuca\n https://lajornadaestadodemexico.com/volcadura-de-trailer-deja-dos-lesionados-y-cinco-horas-de-trafico-en-la-mexico-pachuca/",
+      "fecha": "19 octubre 2026 · 16:14 CST",
+      "fuente": "Telegram @jornadaedomex",
+      "url": "https://t.me/jornadaedomex/12416",
+      "dot_color": "#e74c3c",
+      "badge_txt": "CIERRE TOTAL",
+      "lat": 20.12,
+      "lon": -98.73
+    },
+    {
+      "id": "8e40ef09",
+      "tipo": "cierre_total",
+      "ruta": "Atienden bomberos volcadura de tráiler sobre la México-Pachuca - Agencia…",
+      "descripcion": "Atienden bomberos volcadura de tráiler sobre la México-Pachuca - Agencia de Noticias NVM. Atienden bomberos volcadura de tráiler sobre la México-Pachuca Agencia de Noticias NVM",
+      "fecha": "19 octubre 2026 · 11:45 CST",
+      "fuente": "Agencia de Noticias NVM",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSXRjSlA3X05sWVBweG1mRkNVbHhVLS0tMVpKWVFJX08xd1pXTkVLUklESC00Qk53ZzFFWDV3MnFSR2dDQlRfT1A4NS1UQ2h6X0hYcGR4YWlZeWp2ZlBxUzdKamlVMWhtWnM3YnEzLWI0ckFsSFNGTDJUdGtvSF9mNFV3UjNLckpScFVOM0NVdHlfNlJvYmZfZnhFZUZGUzExbkNadg?oc=5",
+      "dot_color": "#e74c3c",
+      "badge_txt": "CIERRE TOTAL",
+      "lat": 20.12,
+      "lon": -98.73
     }
   ]
 }
