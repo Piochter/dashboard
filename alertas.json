@@ -1,13 +1,12 @@
 {
-  "ultima_actualizacion": "2026-10-20T00:36:04.272299-06:00",
-  "ultima_actualizacion_legible": "20 de octubre de 2026 · 00:36 CST",
-  "total": 10,
+  "ultima_actualizacion": "2026-10-20T06:11:04.250452-06:00",
+  "ultima_actualizacion_legible": "20 de octubre de 2026 · 06:11 CST",
+  "total": 7,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
-    "Medios regionales",
-    "Quadratin + regionales",
-    "Telegram"
+    "Medios nacionales",
+    "Quadratin + regionales"
   ],
   "grupos": [
     {
@@ -17,6 +16,22 @@
       "label": "CIERRE TOTAL",
       "col2": false,
       "alertas": [
+        {
+          "id": "ce88c347",
+          "tipo": "cierre_total",
+          "ruta": "Lluvias e inundaciones en la zona del Golfo de México…",
+          "descripcion": "Lluvias e inundaciones en la zona del Golfo de México dejan 10 fallecidos. Diez personas murieron en el sur de Veracruz por las torrenciales lluvias e inundaciones, así como crecida de ríos y arroyos que dejó el frente frío 2. El meteoro generó deslaves en carreteras de Campeche, entidad donde hubo oleaje elevado y un evento de pleamar que inundaron decenas de colonias ubicadas en las partes bajas de la cabecera municipal de Ciudad del Carmen, así como en las poblaciones Isla Aguada y Atasta.",
+          "recomendacion": "",
+          "fecha": "20 octubre 2026 · 02:45 CST",
+          "fecha_iso": "2026-10-20T02:45:00-06:00",
+          "fuente": "La Jornada Estados",
+          "url": "https://www.jornada.com.mx/2026/10/20/estados/026n1est?partner=rss",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL",
+          "lat": 19.18,
+          "lon": -96.14
+        },
         {
           "id": "c2cdab09",
           "tipo": "cierre_total",
@@ -34,52 +49,20 @@
           "lon": -98.34
         },
         {
-          "id": "827d0ce0",
+          "id": "dd4debb3",
           "tipo": "cierre_total",
-          "ruta": "VIDEO: Accidente en la México-Puebla hoy deja dos muertos y…",
-          "descripcion": "VIDEO: Accidente en la México-Puebla hoy deja dos muertos y tres heridos tras volcadura de tráiler - Récord. VIDEO: Accidente en la México-Puebla hoy deja dos muertos y tres heridos tras volcadura de tráiler Récord",
+          "ruta": "autopista en Ixtapaluca - El Universal Edomex",
+          "descripcion": "Volcadura de tráiler deja dos muertos y colapsa la autopista en Ixtapaluca - El Universal Edomex. Volcadura de tráiler deja dos muertos y colapsa la autopista en Ixtapaluca El Universal Edomex",
           "recomendacion": "",
-          "fecha": "19 octubre 2026 · 17:22 CST",
-          "fecha_iso": "2026-10-19T17:22:00-06:00",
-          "fuente": "Récord",
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQLWlET0xhSUd2aFZLU19lcUIwVzFud0lMbXM4eDJ2blEzbTA2RU91d3NUekkzUUVETjRtQjZ6SHBfeXFobXc2MWtjZXpyNUpmUUJUSEE3amFrMy1taFR5MXBYRHc4QmJrRHY0TDZoQnVqT09ZNXdnemlqLW1KVDdNLXE1QVVPUWhMd2Fla2xwNDBDOGdBTk1zYjJkRjJydkRjSzN0V1dtVGU5OEdBeFVaUVJKclQ4R0hDTzhrN2tTVUd1cDdWaVpJeUpkWXIzOFhwc3F3Ykp4dzRMVnJUN09KM0NVYmRwbEE?oc=5",
+          "fecha": "19 octubre 2026 · 18:39 CST",
+          "fecha_iso": "2026-10-19T18:39:00-06:00",
+          "fuente": "El Universal Edomex",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQbmV1YVhibWVHZzVrXzNaVmhKZ05rZWxhVmNMZG1NWHBsdUQ0algzbGJPLWZOYS0zX3dfdjhNOEdlck9zZF9NaHdFY0k1Xzd3QnhCZWM3TlYyS3B5alo3dUtWeVJwSDRJZ2pGbkt4TUNTbVZRdS1IMU9xRWd1TjNXWVhZTnVfUHpXT19pTFB6RkFqeFEwTlhpbDljN1BtS09RMUMyZEtpZ0pBTUN4SFhFcnJIcmJuMGc2Y05ZSjNzbjNKWElUMFlyTU5Ld21NZWdfeVUwTnFYSHdTTDTSAdsBQVVfeXFMUG5ldWFYYm1lR2c1a18zWlZoSmdOa2VsYVZjTGRtTVhwbHVENGpYM2xiTy1mTmEtM193X3Y4TThHZXJPc2RfTWh3RWNJNV83d0J4QmVjN05WMktweWpaN3VLVnlScEg0SWdqRm5LeE1DU21WUXUtSDFPcUVndU4zV1lYWU51X1B6V09faUxQekZBanhRME5YaWw5YzdQbUtPUTFDMmRLaWdKQU1DeEhYRXJySHJibjBnNmNOWUozc24zSlhJVDBZck1OS3dtTWVnX3lVME5xWEh3U0w0?oc=5",
           "dot_color": "#e74c3c",
           "badge": "badge-cierre-total",
           "badge_txt": "CIERRE TOTAL",
           "lat": 19.35,
-          "lon": -98.4
-        },
-        {
-          "id": "f4f25304",
-          "tipo": "cierre_total",
-          "ruta": "Choque Múltiple y Volcadura de Tráiler en la Autopista México-Puebla…",
-          "descripcion": "Choque Múltiple y Volcadura de Tráiler en la Autopista México-Puebla Deja 2 Muertos - N+. Choque Múltiple y Volcadura de Tráiler en la Autopista México-Puebla Deja 2 Muertos N+",
-          "recomendacion": "",
-          "fecha": "19 octubre 2026 · 16:48 CST",
-          "fecha_iso": "2026-10-19T16:48:00-06:00",
-          "fuente": "N+",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdnR2bmswNkpXaGNrM1lLN2VIdEtkZHFuTmJXcnRYWVhBRzlUc28tM0NnRExyRFkwdy1yVkZHU0ljcm1jYzFLeXBQZmxHOVJjZkxKSW5IcnVFSm1VT1lsRzhTMk01Z2pJdkxHS09lMURidWZZMmZlVXVZeVVfYnBGdmsxb2pUTDU5T3Q1SEJUXzV1RnVoTEF4Y2kxQXFETGdJQW5FM2MzQl8weUVlNmxCbnhNUmNHbUxTTlRCdjZpdzBoS282RkJfSlFB?oc=5",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL",
-          "lat": 19.35,
-          "lon": -98.4
-        },
-        {
-          "id": "fdd4c0a1",
-          "tipo": "cierre_total",
-          "ruta": "Volcadura de tráiler deja dos lesionados y cinco horas de…",
-          "descripcion": "Volcadura de tráiler deja dos lesionados y cinco horas de tráfico en la México-Pachuca\n https://lajornadaestadodemexico.com/volcadura-de-trailer-deja-dos-lesionados-y-cinco-horas-de-trafico-en-la-mexico-pachuca/",
-          "recomendacion": "",
-          "fecha": "19 octubre 2026 · 16:14 CST",
-          "fecha_iso": "2026-10-19T16:14:00-06:00",
-          "fuente": "Telegram @jornadaedomex",
-          "url": "https://t.me/jornadaedomex/12416",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL",
-          "lat": 20.12,
-          "lon": -98.73
+          "lon": -99.7
         }
       ]
     },
@@ -137,20 +120,6 @@
           "lon": -98.4
         },
         {
-          "id": "01d60def",
-          "tipo": "cierre_parcial",
-          "ruta": "¿Cuál es el estado de Paul Aguilar tras sufrir accidente…",
-          "descripcion": "¿Cuál es el estado de Paul Aguilar tras sufrir accidente automovilístico?. El analista de deportes sufrió un aparatoso accidente en carretera, en el que el uso del cinturón de seguridad fue clave para amortiguar las lesiones",
-          "recomendacion": "",
-          "fecha": "19 octubre 2026 · 19:56 CST",
-          "fecha_iso": "2026-10-19T19:56:00-06:00",
-          "fuente": "El Informador Jalisco",
-          "url": "https://www.informador.mx/deportes/cual-es-el-estado-de-paul-aguilar-tras-sufrir-accidente-automovilistico-20261019-0185.html",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
-        },
-        {
           "id": "9d4e88ec",
           "tipo": "cierre_parcial",
           "ruta": "Se incendia plataforma petrolera de Pemex en el golfo de…",
@@ -163,27 +132,24 @@
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL"
-        },
-        {
-          "id": "a7cbe3b6",
-          "tipo": "cierre_parcial",
-          "ruta": "Accidente en la México-Puebla hoy: ¿qué pasó en el kilómetro…",
-          "descripcion": "Accidente en la México-Puebla hoy: ¿qué pasó en el kilómetro 46? - sdpnoticias. Accidente en la México-Puebla hoy: ¿qué pasó en el kilómetro 46? sdpnoticias",
-          "recomendacion": "",
-          "fecha": "19 octubre 2026 · 16:29 CST",
-          "fecha_iso": "2026-10-19T16:29:00-06:00",
-          "fuente": "sdpnoticias",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbFpEYncyXzVKM2c1T01kQzFVeTBDdlk5bGJRTkxSazlydmdOeXRxbl84ZkJuVWNZeU1qTkVsWTgtTDJXNGpfUlBhSUFfNzdnWm5HNDdhQ2s0MHprWTZWb2l4MHM2M1NWZW1NMHppNG83LWxLWVpfWHUxd2RnVVVqSHBMa1lBR282QVRNLS0tTUlKUnBLdnRvVzFLSVhqdw?oc=5",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.35,
-          "lon": -98.4
         }
       ]
     }
   ],
   "para_mapa": [
+    {
+      "id": "ce88c347",
+      "tipo": "cierre_total",
+      "ruta": "Lluvias e inundaciones en la zona del Golfo de México…",
+      "descripcion": "Lluvias e inundaciones en la zona del Golfo de México dejan 10 fallecidos. Diez personas murieron en el sur de Veracruz por las torrenciales lluvias e inundaciones, así como crecida de ríos y arroyos que dejó el frente frío 2. El meteoro generó deslaves en carreteras de Campeche, entidad donde hubo oleaje elevado y un evento de pleamar que inundaron decenas de colonias ubicadas en las partes bajas de la cabecera municipal de Ciudad del Carmen, así como en las poblaciones Isla Aguada y Atasta.",
+      "fecha": "20 octubre 2026 · 02:45 CST",
+      "fuente": "La Jornada Estados",
+      "url": "https://www.jornada.com.mx/2026/10/20/estados/026n1est?partner=rss",
+      "dot_color": "#e74c3c",
+      "badge_txt": "CIERRE TOTAL",
+      "lat": 19.18,
+      "lon": -96.14
+    },
     {
       "id": "900ec2c5",
       "tipo": "cierre_parcial",
@@ -224,56 +190,17 @@
       "lon": -98.4
     },
     {
-      "id": "827d0ce0",
+      "id": "dd4debb3",
       "tipo": "cierre_total",
-      "ruta": "VIDEO: Accidente en la México-Puebla hoy deja dos muertos y…",
-      "descripcion": "VIDEO: Accidente en la México-Puebla hoy deja dos muertos y tres heridos tras volcadura de tráiler - Récord. VIDEO: Accidente en la México-Puebla hoy deja dos muertos y tres heridos tras volcadura de tráiler Récord",
-      "fecha": "19 octubre 2026 · 17:22 CST",
-      "fuente": "Récord",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQLWlET0xhSUd2aFZLU19lcUIwVzFud0lMbXM4eDJ2blEzbTA2RU91d3NUekkzUUVETjRtQjZ6SHBfeXFobXc2MWtjZXpyNUpmUUJUSEE3amFrMy1taFR5MXBYRHc4QmJrRHY0TDZoQnVqT09ZNXdnemlqLW1KVDdNLXE1QVVPUWhMd2Fla2xwNDBDOGdBTk1zYjJkRjJydkRjSzN0V1dtVGU5OEdBeFVaUVJKclQ4R0hDTzhrN2tTVUd1cDdWaVpJeUpkWXIzOFhwc3F3Ykp4dzRMVnJUN09KM0NVYmRwbEE?oc=5",
+      "ruta": "autopista en Ixtapaluca - El Universal Edomex",
+      "descripcion": "Volcadura de tráiler deja dos muertos y colapsa la autopista en Ixtapaluca - El Universal Edomex. Volcadura de tráiler deja dos muertos y colapsa la autopista en Ixtapaluca El Universal Edomex",
+      "fecha": "19 octubre 2026 · 18:39 CST",
+      "fuente": "El Universal Edomex",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQbmV1YVhibWVHZzVrXzNaVmhKZ05rZWxhVmNMZG1NWHBsdUQ0algzbGJPLWZOYS0zX3dfdjhNOEdlck9zZF9NaHdFY0k1Xzd3QnhCZWM3TlYyS3B5alo3dUtWeVJwSDRJZ2pGbkt4TUNTbVZRdS1IMU9xRWd1TjNXWVhZTnVfUHpXT19pTFB6RkFqeFEwTlhpbDljN1BtS09RMUMyZEtpZ0pBTUN4SFhFcnJIcmJuMGc2Y05ZSjNzbjNKWElUMFlyTU5Ld21NZWdfeVUwTnFYSHdTTDTSAdsBQVVfeXFMUG5ldWFYYm1lR2c1a18zWlZoSmdOa2VsYVZjTGRtTVhwbHVENGpYM2xiTy1mTmEtM193X3Y4TThHZXJPc2RfTWh3RWNJNV83d0J4QmVjN05WMktweWpaN3VLVnlScEg0SWdqRm5LeE1DU21WUXUtSDFPcUVndU4zV1lYWU51X1B6V09faUxQekZBanhRME5YaWw5YzdQbUtPUTFDMmRLaWdKQU1DeEhYRXJySHJibjBnNmNOWUozc24zSlhJVDBZck1OS3dtTWVnX3lVME5xWEh3U0w0?oc=5",
       "dot_color": "#e74c3c",
       "badge_txt": "CIERRE TOTAL",
       "lat": 19.35,
-      "lon": -98.4
-    },
-    {
-      "id": "f4f25304",
-      "tipo": "cierre_total",
-      "ruta": "Choque Múltiple y Volcadura de Tráiler en la Autopista México-Puebla…",
-      "descripcion": "Choque Múltiple y Volcadura de Tráiler en la Autopista México-Puebla Deja 2 Muertos - N+. Choque Múltiple y Volcadura de Tráiler en la Autopista México-Puebla Deja 2 Muertos N+",
-      "fecha": "19 octubre 2026 · 16:48 CST",
-      "fuente": "N+",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdnR2bmswNkpXaGNrM1lLN2VIdEtkZHFuTmJXcnRYWVhBRzlUc28tM0NnRExyRFkwdy1yVkZHU0ljcm1jYzFLeXBQZmxHOVJjZkxKSW5IcnVFSm1VT1lsRzhTMk01Z2pJdkxHS09lMURidWZZMmZlVXVZeVVfYnBGdmsxb2pUTDU5T3Q1SEJUXzV1RnVoTEF4Y2kxQXFETGdJQW5FM2MzQl8weUVlNmxCbnhNUmNHbUxTTlRCdjZpdzBoS282RkJfSlFB?oc=5",
-      "dot_color": "#e74c3c",
-      "badge_txt": "CIERRE TOTAL",
-      "lat": 19.35,
-      "lon": -98.4
-    },
-    {
-      "id": "a7cbe3b6",
-      "tipo": "cierre_parcial",
-      "ruta": "Accidente en la México-Puebla hoy: ¿qué pasó en el kilómetro…",
-      "descripcion": "Accidente en la México-Puebla hoy: ¿qué pasó en el kilómetro 46? - sdpnoticias. Accidente en la México-Puebla hoy: ¿qué pasó en el kilómetro 46? sdpnoticias",
-      "fecha": "19 octubre 2026 · 16:29 CST",
-      "fuente": "sdpnoticias",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbFpEYncyXzVKM2c1T01kQzFVeTBDdlk5bGJRTkxSazlydmdOeXRxbl84ZkJuVWNZeU1qTkVsWTgtTDJXNGpfUlBhSUFfNzdnWm5HNDdhQ2s0MHprWTZWb2l4MHM2M1NWZW1NMHppNG83LWxLWVpfWHUxd2RnVVVqSHBMa1lBR282QVRNLS0tTUlKUnBLdnRvVzFLSVhqdw?oc=5",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.35,
-      "lon": -98.4
-    },
-    {
-      "id": "fdd4c0a1",
-      "tipo": "cierre_total",
-      "ruta": "Volcadura de tráiler deja dos lesionados y cinco horas de…",
-      "descripcion": "Volcadura de tráiler deja dos lesionados y cinco horas de tráfico en la México-Pachuca\n https://lajornadaestadodemexico.com/volcadura-de-trailer-deja-dos-lesionados-y-cinco-horas-de-trafico-en-la-mexico-pachuca/",
-      "fecha": "19 octubre 2026 · 16:14 CST",
-      "fuente": "Telegram @jornadaedomex",
-      "url": "https://t.me/jornadaedomex/12416",
-      "dot_color": "#e74c3c",
-      "badge_txt": "CIERRE TOTAL",
-      "lat": 20.12,
-      "lon": -98.73
+      "lon": -99.7
     }
   ]
 }
