@@ -1,55 +1,13 @@
 {
-  "ultima_actualizacion": "2026-10-20T14:17:09.948795-06:00",
-  "ultima_actualizacion_legible": "20 de octubre de 2026 · 14:17 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-10-20T17:16:00.421195-06:00",
+  "ultima_actualizacion_legible": "20 de octubre de 2026 · 17:16 CST",
+  "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Medios nacionales",
     "Quadratin + regionales",
     "Telegram"
   ],
   "grupos": [
-    {
-      "tipo": "cierre_total",
-      "color": "rojo",
-      "icono": "🔴",
-      "label": "CIERRE TOTAL",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "f3018fcd",
-          "tipo": "cierre_total",
-          "ruta": "Irrumpen en la México-Toluca manifestantes por sus desaparecidos…",
-          "descripcion": "Irrumpen en la México-Toluca manifestantes por sus desaparecidos. El bloqueo a la altura de Plazas Outlet desató el colapso vial hacia la capital tras la inacción de autoridades",
-          "recomendacion": "",
-          "fecha": "20 octubre 2026 · 13:30 CST",
-          "fecha_iso": "2026-10-20T13:30:00-06:00",
-          "fuente": "Quadratin EdoMex",
-          "url": "https://edomex.quadratin.com.mx/irrumpen-en-la-mexico-toluca-manifestantes-por-sus-desaparecidos/",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL",
-          "lat": 19.29,
-          "lon": -99.66
-        },
-        {
-          "id": "ce88c347",
-          "tipo": "cierre_total",
-          "ruta": "Lluvias e inundaciones en la zona del Golfo de México…",
-          "descripcion": "Lluvias e inundaciones en la zona del Golfo de México dejan 10 fallecidos. Diez personas murieron en el sur de Veracruz por las torrenciales lluvias e inundaciones, así como crecida de ríos y arroyos que dejó el frente frío 2. El meteoro generó deslaves en carreteras de Campeche, entidad donde hubo oleaje elevado y un evento de pleamar que inundaron decenas de colonias ubicadas en las partes bajas de la cabecera municipal de Ciudad del Carmen, así como en las poblaciones Isla Aguada y Atasta.",
-          "recomendacion": "",
-          "fecha": "20 octubre 2026 · 02:45 CST",
-          "fecha_iso": "2026-10-20T02:45:00-06:00",
-          "fuente": "La Jornada Estados",
-          "url": "https://www.jornada.com.mx/2026/10/20/estados/026n1est?partner=rss",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL",
-          "lat": 19.18,
-          "lon": -96.14
-        }
-      ]
-    },
     {
       "tipo": "bloqueo",
       "color": "rojo",
@@ -74,21 +32,46 @@
           "lon": -99.66
         }
       ]
+    },
+    {
+      "tipo": "cierre_parcial",
+      "color": "amarillo",
+      "icono": "🟡",
+      "label": "CIERRE PARCIAL / ACCIDENTES",
+      "col2": true,
+      "alertas": [
+        {
+          "id": "99da9ccb",
+          "tipo": "cierre_parcial",
+          "ruta": "libramiento surponiente",
+          "descripcion": "Auto vuelca en el libramiento surponiente. Un auto compacto terminó volcando, luego de haber ocasionado un aparatoso choque contra una camioneta y una patrulla en el libramiento surponiente The post Auto vuelca en el libramiento surponiente appeared first on Quadratin Querétaro.",
+          "recomendacion": "",
+          "fecha": "20 octubre 2026 · 17:00 CST",
+          "fecha_iso": "2026-10-20T17:00:00-06:00",
+          "fuente": "Quadratin Queretaro",
+          "url": "https://queretaro.quadratin.com.mx/auto-vuelca-en-el-libramiento-surponiente/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 20.59,
+          "lon": -100.39
+        }
+      ]
     }
   ],
   "para_mapa": [
     {
-      "id": "f3018fcd",
-      "tipo": "cierre_total",
-      "ruta": "Irrumpen en la México-Toluca manifestantes por sus desaparecidos…",
-      "descripcion": "Irrumpen en la México-Toluca manifestantes por sus desaparecidos. El bloqueo a la altura de Plazas Outlet desató el colapso vial hacia la capital tras la inacción de autoridades",
-      "fecha": "20 octubre 2026 · 13:30 CST",
-      "fuente": "Quadratin EdoMex",
-      "url": "https://edomex.quadratin.com.mx/irrumpen-en-la-mexico-toluca-manifestantes-por-sus-desaparecidos/",
-      "dot_color": "#e74c3c",
-      "badge_txt": "CIERRE TOTAL",
-      "lat": 19.29,
-      "lon": -99.66
+      "id": "99da9ccb",
+      "tipo": "cierre_parcial",
+      "ruta": "libramiento surponiente",
+      "descripcion": "Auto vuelca en el libramiento surponiente. Un auto compacto terminó volcando, luego de haber ocasionado un aparatoso choque contra una camioneta y una patrulla en el libramiento surponiente The post Auto vuelca en el libramiento surponiente appeared first on Quadratin Querétaro.",
+      "fecha": "20 octubre 2026 · 17:00 CST",
+      "fuente": "Quadratin Queretaro",
+      "url": "https://queretaro.quadratin.com.mx/auto-vuelca-en-el-libramiento-surponiente/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 20.59,
+      "lon": -100.39
     },
     {
       "id": "31f3044f",
@@ -102,19 +85,6 @@
       "badge_txt": "BLOQUEO",
       "lat": 19.29,
       "lon": -99.66
-    },
-    {
-      "id": "ce88c347",
-      "tipo": "cierre_total",
-      "ruta": "Lluvias e inundaciones en la zona del Golfo de México…",
-      "descripcion": "Lluvias e inundaciones en la zona del Golfo de México dejan 10 fallecidos. Diez personas murieron en el sur de Veracruz por las torrenciales lluvias e inundaciones, así como crecida de ríos y arroyos que dejó el frente frío 2. El meteoro generó deslaves en carreteras de Campeche, entidad donde hubo oleaje elevado y un evento de pleamar que inundaron decenas de colonias ubicadas en las partes bajas de la cabecera municipal de Ciudad del Carmen, así como en las poblaciones Isla Aguada y Atasta.",
-      "fecha": "20 octubre 2026 · 02:45 CST",
-      "fuente": "La Jornada Estados",
-      "url": "https://www.jornada.com.mx/2026/10/20/estados/026n1est?partner=rss",
-      "dot_color": "#e74c3c",
-      "badge_txt": "CIERRE TOTAL",
-      "lat": 19.18,
-      "lon": -96.14
     }
   ]
 }
