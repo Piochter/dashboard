@@ -1,10 +1,9 @@
 {
-  "ultima_actualizacion": "2026-10-20T06:11:04.250452-06:00",
-  "ultima_actualizacion_legible": "20 de octubre de 2026 · 06:11 CST",
-  "total": 7,
+  "ultima_actualizacion": "2026-10-20T10:58:30.347428-06:00",
+  "ultima_actualizacion_legible": "20 de octubre de 2026 · 10:58 CST",
+  "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News",
     "Medios nacionales",
     "Quadratin + regionales"
   ],
@@ -16,6 +15,22 @@
       "label": "CIERRE TOTAL",
       "col2": false,
       "alertas": [
+        {
+          "id": "97bf1d9e",
+          "tipo": "cierre_total",
+          "ruta": "Atienden deslaves y caída de árboles en carreteras de la…",
+          "descripcion": "Atienden deslaves y caída de árboles en carreteras de la Sierra Gorda. Continúan las zonas de riesgo The post Atienden deslaves y caída de árboles en carreteras de la Sierra Gorda appeared first on Quadratin Querétaro.",
+          "recomendacion": "",
+          "fecha": "20 octubre 2026 · 08:00 CST",
+          "fecha_iso": "2026-10-20T08:00:00-06:00",
+          "fuente": "Quadratin Queretaro",
+          "url": "https://queretaro.quadratin.com.mx/atienden-deslaves-y-caida-de-arboles-en-carreteras-de-la-sierra-gorda/",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL",
+          "lat": 20.59,
+          "lon": -100.39
+        },
         {
           "id": "ce88c347",
           "tipo": "cierre_total",
@@ -31,112 +46,24 @@
           "badge_txt": "CIERRE TOTAL",
           "lat": 19.18,
           "lon": -96.14
-        },
-        {
-          "id": "c2cdab09",
-          "tipo": "cierre_total",
-          "ruta": "km 46",
-          "descripcion": "Accidente en la autopista México-Puebla: Volcadura de tráiler provoca colapso en el km 46 - Crónica de Xalapa. Accidente en la autopista México-Puebla: Volcadura de tráiler provoca colapso en el km 46 Crónica de Xalapa",
-          "recomendacion": "",
-          "fecha": "19 octubre 2026 · 21:32 CST",
-          "fecha_iso": "2026-10-19T21:32:00-06:00",
-          "fuente": "Crónica de Xalapa",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVS1yQU9GdUM3YWNEYWR2Vk5yUFp4RFBGdGhMRWozMXh4eUp3RjllNl8xT1pwTzg4cnRNRkJ2V01ueTBRUDBnZ1p1QjFiamRJQ0NoWEJuQXJWR2NjNF9VSC1LMkxJUFJPd21jeDlmU3FCcktJQ2VaSmcxTWZsY3hTMnF0dEJVaHhWamg3ajQ5YlpSSFN4M2hyOEo5X0dhXzRrOUg2MmtOcUxfaUprX0w2T0Z0NGVzLXRDT29uOQ?oc=5",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL",
-          "lat": 19.41,
-          "lon": -98.34
-        },
-        {
-          "id": "dd4debb3",
-          "tipo": "cierre_total",
-          "ruta": "autopista en Ixtapaluca - El Universal Edomex",
-          "descripcion": "Volcadura de tráiler deja dos muertos y colapsa la autopista en Ixtapaluca - El Universal Edomex. Volcadura de tráiler deja dos muertos y colapsa la autopista en Ixtapaluca El Universal Edomex",
-          "recomendacion": "",
-          "fecha": "19 octubre 2026 · 18:39 CST",
-          "fecha_iso": "2026-10-19T18:39:00-06:00",
-          "fuente": "El Universal Edomex",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQbmV1YVhibWVHZzVrXzNaVmhKZ05rZWxhVmNMZG1NWHBsdUQ0algzbGJPLWZOYS0zX3dfdjhNOEdlck9zZF9NaHdFY0k1Xzd3QnhCZWM3TlYyS3B5alo3dUtWeVJwSDRJZ2pGbkt4TUNTbVZRdS1IMU9xRWd1TjNXWVhZTnVfUHpXT19pTFB6RkFqeFEwTlhpbDljN1BtS09RMUMyZEtpZ0pBTUN4SFhFcnJIcmJuMGc2Y05ZSjNzbjNKWElUMFlyTU5Ld21NZWdfeVUwTnFYSHdTTDTSAdsBQVVfeXFMUG5ldWFYYm1lR2c1a18zWlZoSmdOa2VsYVZjTGRtTVhwbHVENGpYM2xiTy1mTmEtM193X3Y4TThHZXJPc2RfTWh3RWNJNV83d0J4QmVjN05WMktweWpaN3VLVnlScEg0SWdqRm5LeE1DU21WUXUtSDFPcUVndU4zV1lYWU51X1B6V09faUxQekZBanhRME5YaWw5YzdQbUtPUTFDMmRLaWdKQU1DeEhYRXJySHJibjBnNmNOWUozc24zSlhJVDBZck1OS3dtTWVnX3lVME5xWEh3U0w0?oc=5",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL",
-          "lat": 19.35,
-          "lon": -99.7
-        }
-      ]
-    },
-    {
-      "tipo": "cierre_parcial",
-      "color": "amarillo",
-      "icono": "🟡",
-      "label": "CIERRE PARCIAL / ACCIDENTES",
-      "col2": true,
-      "alertas": [
-        {
-          "id": "ebd3ea31",
-          "tipo": "cierre_parcial",
-          "ruta": "Deja un muerto y 17 lesionados choque en Tlacolula…",
-          "descripcion": "Deja un muerto y 17 lesionados choque en Tlacolula. Una camioneta y un autobús de pasajeros chocaron en la carretera hacia Díaz Ordaz",
-          "recomendacion": "",
-          "fecha": "19 octubre 2026 · 22:38 CST",
-          "fecha_iso": "2026-10-19T22:38:00-06:00",
-          "fuente": "Quadratin Oaxaca",
-          "url": "https://oaxaca.quadratin.com.mx/deja-un-muerto-y-17-lesionados-choque-en-tlacolula/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
-        },
-        {
-          "id": "900ec2c5",
-          "tipo": "cierre_parcial",
-          "ruta": "Continúan labores tras choque que dejó dos muertos en la…",
-          "descripcion": "Continúan labores tras choque que dejó dos muertos en la México-Puebla. CAPUFE reportó afectaciones viales por los trabajos en la barrera central dañada durante el accidente múltiple.",
-          "recomendacion": "",
-          "fecha": "19 octubre 2026 · 22:15 CST",
-          "fecha_iso": "2026-10-19T22:15:00-06:00",
-          "fuente": "Quadratin EdoMex",
-          "url": "https://edomex.quadratin.com.mx/continuan-labores-tras-choque-que-dejo-dos-muertos-en-la-mexico-puebla/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.35,
-          "lon": -98.4
-        },
-        {
-          "id": "ac439764",
-          "tipo": "cierre_parcial",
-          "ruta": "Trágico accidente en la autopista México-Puebla: Tráiler sin frenos embiste…",
-          "descripcion": "Trágico accidente en la autopista México-Puebla: Tráiler sin frenos embiste a 10 vehículos y deja dos muertos - tribunanoticias.mx. Trágico accidente en la autopista México-Puebla: Tráiler sin frenos embiste a 10 vehículos y deja dos muertos tribunanoticias.mx",
-          "recomendacion": "",
-          "fecha": "19 octubre 2026 · 20:52 CST",
-          "fecha_iso": "2026-10-19T20:52:00-06:00",
-          "fuente": "tribunanoticias.mx",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPR0UwWk5yMkZqelBYTmxxa29lZmMtWnV2NDZySS0ya0F6SXFZLXBxV1dBWndGV1hLVVNqVmpKSzNSYUVvMnhrXzlZRkdEVWtvQjVIWkJjUm5oMmlINW1TWEs2QnYyRTY4aU9lem91Q0JCNDJyVG9jVDhYQjZhVHRPdEF2WTBmYWFPQ29YMmFFNHZWWEw3WDF4Q2xYWm80VTJWLTdBZFM0U2MxVzl0aXI1dnNidVFpTFZXbDBzMVE0ZVo2RWJVTUJEbUpiS0I3T0JBMEE?oc=5",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.35,
-          "lon": -98.4
-        },
-        {
-          "id": "9d4e88ec",
-          "tipo": "cierre_parcial",
-          "ruta": "Se incendia plataforma petrolera de Pemex en el golfo de…",
-          "descripcion": "Se incendia plataforma petrolera de Pemex en el golfo de México. Se incendió la plataforma satélite no tripulada Abkatún-H, localizada a 73 kilómetros de la isla del Carmen y a 132 al noreste del puerto de Dos Bocas",
-          "recomendacion": "",
-          "fecha": "19 octubre 2026 · 18:53 CST",
-          "fecha_iso": "2026-10-19T18:53:00-06:00",
-          "fuente": "Quadratin Jalisco",
-          "url": "https://jalisco.quadratin.com.mx/sucesos/se-incendia-plataforma-petrolera-de-pemex-en-el-golfo-de-mexico/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
         }
       ]
     }
   ],
   "para_mapa": [
+    {
+      "id": "97bf1d9e",
+      "tipo": "cierre_total",
+      "ruta": "Atienden deslaves y caída de árboles en carreteras de la…",
+      "descripcion": "Atienden deslaves y caída de árboles en carreteras de la Sierra Gorda. Continúan las zonas de riesgo The post Atienden deslaves y caída de árboles en carreteras de la Sierra Gorda appeared first on Quadratin Querétaro.",
+      "fecha": "20 octubre 2026 · 08:00 CST",
+      "fuente": "Quadratin Queretaro",
+      "url": "https://queretaro.quadratin.com.mx/atienden-deslaves-y-caida-de-arboles-en-carreteras-de-la-sierra-gorda/",
+      "dot_color": "#e74c3c",
+      "badge_txt": "CIERRE TOTAL",
+      "lat": 20.59,
+      "lon": -100.39
+    },
     {
       "id": "ce88c347",
       "tipo": "cierre_total",
@@ -149,58 +76,6 @@
       "badge_txt": "CIERRE TOTAL",
       "lat": 19.18,
       "lon": -96.14
-    },
-    {
-      "id": "900ec2c5",
-      "tipo": "cierre_parcial",
-      "ruta": "Continúan labores tras choque que dejó dos muertos en la…",
-      "descripcion": "Continúan labores tras choque que dejó dos muertos en la México-Puebla. CAPUFE reportó afectaciones viales por los trabajos en la barrera central dañada durante el accidente múltiple.",
-      "fecha": "19 octubre 2026 · 22:15 CST",
-      "fuente": "Quadratin EdoMex",
-      "url": "https://edomex.quadratin.com.mx/continuan-labores-tras-choque-que-dejo-dos-muertos-en-la-mexico-puebla/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.35,
-      "lon": -98.4
-    },
-    {
-      "id": "c2cdab09",
-      "tipo": "cierre_total",
-      "ruta": "km 46",
-      "descripcion": "Accidente en la autopista México-Puebla: Volcadura de tráiler provoca colapso en el km 46 - Crónica de Xalapa. Accidente en la autopista México-Puebla: Volcadura de tráiler provoca colapso en el km 46 Crónica de Xalapa",
-      "fecha": "19 octubre 2026 · 21:32 CST",
-      "fuente": "Crónica de Xalapa",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVS1yQU9GdUM3YWNEYWR2Vk5yUFp4RFBGdGhMRWozMXh4eUp3RjllNl8xT1pwTzg4cnRNRkJ2V01ueTBRUDBnZ1p1QjFiamRJQ0NoWEJuQXJWR2NjNF9VSC1LMkxJUFJPd21jeDlmU3FCcktJQ2VaSmcxTWZsY3hTMnF0dEJVaHhWamg3ajQ5YlpSSFN4M2hyOEo5X0dhXzRrOUg2MmtOcUxfaUprX0w2T0Z0NGVzLXRDT29uOQ?oc=5",
-      "dot_color": "#e74c3c",
-      "badge_txt": "CIERRE TOTAL",
-      "lat": 19.41,
-      "lon": -98.34
-    },
-    {
-      "id": "ac439764",
-      "tipo": "cierre_parcial",
-      "ruta": "Trágico accidente en la autopista México-Puebla: Tráiler sin frenos embiste…",
-      "descripcion": "Trágico accidente en la autopista México-Puebla: Tráiler sin frenos embiste a 10 vehículos y deja dos muertos - tribunanoticias.mx. Trágico accidente en la autopista México-Puebla: Tráiler sin frenos embiste a 10 vehículos y deja dos muertos tribunanoticias.mx",
-      "fecha": "19 octubre 2026 · 20:52 CST",
-      "fuente": "tribunanoticias.mx",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPR0UwWk5yMkZqelBYTmxxa29lZmMtWnV2NDZySS0ya0F6SXFZLXBxV1dBWndGV1hLVVNqVmpKSzNSYUVvMnhrXzlZRkdEVWtvQjVIWkJjUm5oMmlINW1TWEs2QnYyRTY4aU9lem91Q0JCNDJyVG9jVDhYQjZhVHRPdEF2WTBmYWFPQ29YMmFFNHZWWEw3WDF4Q2xYWm80VTJWLTdBZFM0U2MxVzl0aXI1dnNidVFpTFZXbDBzMVE0ZVo2RWJVTUJEbUpiS0I3T0JBMEE?oc=5",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.35,
-      "lon": -98.4
-    },
-    {
-      "id": "dd4debb3",
-      "tipo": "cierre_total",
-      "ruta": "autopista en Ixtapaluca - El Universal Edomex",
-      "descripcion": "Volcadura de tráiler deja dos muertos y colapsa la autopista en Ixtapaluca - El Universal Edomex. Volcadura de tráiler deja dos muertos y colapsa la autopista en Ixtapaluca El Universal Edomex",
-      "fecha": "19 octubre 2026 · 18:39 CST",
-      "fuente": "El Universal Edomex",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQbmV1YVhibWVHZzVrXzNaVmhKZ05rZWxhVmNMZG1NWHBsdUQ0algzbGJPLWZOYS0zX3dfdjhNOEdlck9zZF9NaHdFY0k1Xzd3QnhCZWM3TlYyS3B5alo3dUtWeVJwSDRJZ2pGbkt4TUNTbVZRdS1IMU9xRWd1TjNXWVhZTnVfUHpXT19pTFB6RkFqeFEwTlhpbDljN1BtS09RMUMyZEtpZ0pBTUN4SFhFcnJIcmJuMGc2Y05ZSjNzbjNKWElUMFlyTU5Ld21NZWdfeVUwTnFYSHdTTDTSAdsBQVVfeXFMUG5ldWFYYm1lR2c1a18zWlZoSmdOa2VsYVZjTGRtTVhwbHVENGpYM2xiTy1mTmEtM193X3Y4TThHZXJPc2RfTWh3RWNJNV83d0J4QmVjN05WMktweWpaN3VLVnlScEg0SWdqRm5LeE1DU21WUXUtSDFPcUVndU4zV1lYWU51X1B6V09faUxQekZBanhRME5YaWw5YzdQbUtPUTFDMmRLaWdKQU1DeEhYRXJySHJibjBnNmNOWUozc24zSlhJVDBZck1OS3dtTWVnX3lVME5xWEh3U0w0?oc=5",
-      "dot_color": "#e74c3c",
-      "badge_txt": "CIERRE TOTAL",
-      "lat": 19.35,
-      "lon": -99.7
     }
   ]
 }
