@@ -1,11 +1,12 @@
 {
-  "ultima_actualizacion": "2026-10-20T10:58:30.347428-06:00",
-  "ultima_actualizacion_legible": "20 de octubre de 2026 · 10:58 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-10-20T14:17:09.948795-06:00",
+  "ultima_actualizacion_legible": "20 de octubre de 2026 · 14:17 CST",
+  "total": 3,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Medios nacionales",
-    "Quadratin + regionales"
+    "Quadratin + regionales",
+    "Telegram"
   ],
   "grupos": [
     {
@@ -16,20 +17,20 @@
       "col2": false,
       "alertas": [
         {
-          "id": "97bf1d9e",
+          "id": "f3018fcd",
           "tipo": "cierre_total",
-          "ruta": "Atienden deslaves y caída de árboles en carreteras de la…",
-          "descripcion": "Atienden deslaves y caída de árboles en carreteras de la Sierra Gorda. Continúan las zonas de riesgo The post Atienden deslaves y caída de árboles en carreteras de la Sierra Gorda appeared first on Quadratin Querétaro.",
+          "ruta": "Irrumpen en la México-Toluca manifestantes por sus desaparecidos…",
+          "descripcion": "Irrumpen en la México-Toluca manifestantes por sus desaparecidos. El bloqueo a la altura de Plazas Outlet desató el colapso vial hacia la capital tras la inacción de autoridades",
           "recomendacion": "",
-          "fecha": "20 octubre 2026 · 08:00 CST",
-          "fecha_iso": "2026-10-20T08:00:00-06:00",
-          "fuente": "Quadratin Queretaro",
-          "url": "https://queretaro.quadratin.com.mx/atienden-deslaves-y-caida-de-arboles-en-carreteras-de-la-sierra-gorda/",
+          "fecha": "20 octubre 2026 · 13:30 CST",
+          "fecha_iso": "2026-10-20T13:30:00-06:00",
+          "fuente": "Quadratin EdoMex",
+          "url": "https://edomex.quadratin.com.mx/irrumpen-en-la-mexico-toluca-manifestantes-por-sus-desaparecidos/",
           "dot_color": "#e74c3c",
           "badge": "badge-cierre-total",
           "badge_txt": "CIERRE TOTAL",
-          "lat": 20.59,
-          "lon": -100.39
+          "lat": 19.29,
+          "lon": -99.66
         },
         {
           "id": "ce88c347",
@@ -48,21 +49,59 @@
           "lon": -96.14
         }
       ]
+    },
+    {
+      "tipo": "bloqueo",
+      "color": "rojo",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "31f3044f",
+          "tipo": "bloqueo",
+          "ruta": "🚨#ÚltimaHora | Bloqueo se extiende en la México-Toluca y colapsa…",
+          "descripcion": "🚨#ÚltimaHora | Bloqueo se extiende en la México-Toluca y colapsa la circulación en ambos sentidos 👇\n https://lajornadaestadodemexico.com/habitantes-cierran-la-mexico-toluca-hoy-20-de-octubre/",
+          "recomendacion": "",
+          "fecha": "20 octubre 2026 · 12:44 CST",
+          "fecha_iso": "2026-10-20T12:44:00-06:00",
+          "fuente": "Telegram @jornadaedomex",
+          "url": "https://t.me/jornadaedomex/12425",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 19.29,
+          "lon": -99.66
+        }
+      ]
     }
   ],
   "para_mapa": [
     {
-      "id": "97bf1d9e",
+      "id": "f3018fcd",
       "tipo": "cierre_total",
-      "ruta": "Atienden deslaves y caída de árboles en carreteras de la…",
-      "descripcion": "Atienden deslaves y caída de árboles en carreteras de la Sierra Gorda. Continúan las zonas de riesgo The post Atienden deslaves y caída de árboles en carreteras de la Sierra Gorda appeared first on Quadratin Querétaro.",
-      "fecha": "20 octubre 2026 · 08:00 CST",
-      "fuente": "Quadratin Queretaro",
-      "url": "https://queretaro.quadratin.com.mx/atienden-deslaves-y-caida-de-arboles-en-carreteras-de-la-sierra-gorda/",
+      "ruta": "Irrumpen en la México-Toluca manifestantes por sus desaparecidos…",
+      "descripcion": "Irrumpen en la México-Toluca manifestantes por sus desaparecidos. El bloqueo a la altura de Plazas Outlet desató el colapso vial hacia la capital tras la inacción de autoridades",
+      "fecha": "20 octubre 2026 · 13:30 CST",
+      "fuente": "Quadratin EdoMex",
+      "url": "https://edomex.quadratin.com.mx/irrumpen-en-la-mexico-toluca-manifestantes-por-sus-desaparecidos/",
       "dot_color": "#e74c3c",
       "badge_txt": "CIERRE TOTAL",
-      "lat": 20.59,
-      "lon": -100.39
+      "lat": 19.29,
+      "lon": -99.66
+    },
+    {
+      "id": "31f3044f",
+      "tipo": "bloqueo",
+      "ruta": "🚨#ÚltimaHora | Bloqueo se extiende en la México-Toluca y colapsa…",
+      "descripcion": "🚨#ÚltimaHora | Bloqueo se extiende en la México-Toluca y colapsa la circulación en ambos sentidos 👇\n https://lajornadaestadodemexico.com/habitantes-cierran-la-mexico-toluca-hoy-20-de-octubre/",
+      "fecha": "20 octubre 2026 · 12:44 CST",
+      "fuente": "Telegram @jornadaedomex",
+      "url": "https://t.me/jornadaedomex/12425",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 19.29,
+      "lon": -99.66
     },
     {
       "id": "ce88c347",
