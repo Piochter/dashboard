@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-10-21T11:27:31.305019-06:00",
-  "ultima_actualizacion_legible": "21 de octubre de 2026 · 11:27 CST",
-  "total": 7,
+  "ultima_actualizacion": "2026-10-21T14:47:02.825651-06:00",
+  "ultima_actualizacion_legible": "21 de octubre de 2026 · 14:47 CST",
+  "total": 8,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
@@ -18,15 +18,15 @@
       "col2": false,
       "alertas": [
         {
-          "id": "ebeeeb29",
+          "id": "7fd66d79",
           "tipo": "bloqueo",
-          "ruta": "Hacen largas filas en El Insurgente por bloqueo en la…",
-          "descripcion": "Hacen largas filas en El Insurgente por bloqueo en la Méx-Toluca. Algunos usuarios reportaron filas que superaron, según ellos, varios kilómetros de espera mientras esperaban su turno para abordar uno de los vagones",
+          "ruta": "Llevan tortas y agua a manifestantes y afectados en la…",
+          "descripcion": "Llevan tortas y agua a manifestantes y afectados en la México-Toluca. El gesto fue calificado como una muestra de cariño y fraternidad para quienes han resultado afectados tras largas horas de cierres viales en ambos sen",
           "recomendacion": "",
-          "fecha": "21 octubre 2026 · 11:02 CST",
-          "fecha_iso": "2026-10-21T11:02:00-06:00",
+          "fecha": "21 octubre 2026 · 14:01 CST",
+          "fecha_iso": "2026-10-21T14:01:00-06:00",
           "fuente": "Quadratin EdoMex",
-          "url": "https://edomex.quadratin.com.mx/hacen-largas-filas-en-el-insurgente-por-bloqueo-en-la-mex-toluca/",
+          "url": "https://edomex.quadratin.com.mx/llevan-tortas-y-agua-a-manifestantes-y-afectados-en-la-mexico-toluca/",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO",
@@ -66,6 +66,22 @@
           "lon": -99.66
         },
         {
+          "id": "4b9e06cf",
+          "tipo": "bloqueo",
+          "ruta": "Bloqueo México-Toluca cumple más de 20 horas: reportan filas de…",
+          "descripcion": "Bloqueo México-Toluca cumple más de 20 horas: reportan filas de kilómetros; qué pasó, dónde está el cierre y cómo evitar el tráfico - Eje Central. Bloqueo México-Toluca cumple más de 20 horas: reportan filas de kilómetros; qué pasó, dónde está el cierre y cómo evitar el tráfico Eje Central",
+          "recomendacion": "evitar el tráfico - Eje Central",
+          "fecha": "21 octubre 2026 · 08:36 CST",
+          "fecha_iso": "2026-10-21T08:36:00-06:00",
+          "fuente": "Eje Central",
+          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNcXVFalFLVnI5bmZOOGNEYjhXVU51Z0NmWEUtVWlQQ05kY2kzVmJtdVRlTFZLc2kyNTJMUmJKdXZNRFFrUk9MdnhHOHdMYXFxa1NLbmN5S0dUY01BZ1lSQl8wZEE0Y0ozcWdTSTZIMTdfTG5rTWxLbXZRMGEwVFhNN2FxZk9BSlY0NjBmQW5fTzUzZFRTQzBWN0J4NmhKSzVtNXZUSHp6UnpHaEVtYmFlYjV4VlFCd2xCcTdDeGotTllJNEhYYk8yb2FGaGp0M1k5d2JEUExOeXhlbmxxWGtqTEI0Nmt2c1ZXS2x4RktGcnJxSkdMS3dEOTVKRE5JUkU?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 19.29,
+          "lon": -99.66
+        },
+        {
           "id": "9ac21907",
           "tipo": "bloqueo",
           "ruta": "📢 Liberan un carril en la #México-#Toluca tras bloqueo de…",
@@ -82,26 +98,10 @@
           "lon": -99.66
         },
         {
-          "id": "89170c9c",
-          "tipo": "bloqueo",
-          "ruta": "Mantienen madres buscadoras bloqueo en la México-Toluca…",
-          "descripcion": "Mantienen madres buscadoras bloqueo en la México-Toluca. Continúan los cierres en Lerma y Xonacatlán, con severas afectaciones viales hacia la Ciudad de México",
-          "recomendacion": "",
-          "fecha": "21 octubre 2026 · 07:45 CST",
-          "fecha_iso": "2026-10-21T07:45:00-06:00",
-          "fuente": "Quadratin EdoMex",
-          "url": "https://edomex.quadratin.com.mx/mantienen-madres-buscadoras-bloqueo-en-la-mexico-toluca/",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 19.29,
-          "lon": -99.66
-        },
-        {
-          "id": "cfd37d4a",
+          "id": "344a9ac3",
           "tipo": "bloqueo",
           "ruta": "Bloqueo en la México-Toluca hacia la CDMX cumple más de…",
-          "descripcion": "Bloqueo en la México-Toluca hacia la CDMX cumple más de 18 horas - UnoTV. Bloqueo en la México-Toluca hacia la CDMX cumple más de 18 horas UnoTV",
+          "descripcion": "Bloqueo en la México-Toluca hacia la CDMX cumple más de un día - UnoTV. Bloqueo en la México-Toluca hacia la CDMX cumple más de un día UnoTV",
           "recomendacion": "",
           "fecha": "21 octubre 2026 · 07:30 CST",
           "fecha_iso": "2026-10-21T07:30:00-06:00",
@@ -130,17 +130,40 @@
           "lon": -99.66
         }
       ]
+    },
+    {
+      "tipo": "cierre_parcial",
+      "color": "amarillo",
+      "icono": "🟡",
+      "label": "CIERRE PARCIAL / ACCIDENTES",
+      "col2": true,
+      "alertas": [
+        {
+          "id": "819237cb",
+          "tipo": "cierre_parcial",
+          "ruta": "Incendio en plataforma de Pemex: Agencia de Seguridad, Energía y…",
+          "descripcion": "Incendio en plataforma de Pemex: Agencia de Seguridad, Energía y Ambiente inicia investigación de causas. El incendio se registró a 73 kilómetros de Ciudad del Carmen",
+          "recomendacion": "",
+          "fecha": "21 octubre 2026 · 14:01 CST",
+          "fecha_iso": "2026-10-21T14:01:00-06:00",
+          "fuente": "24 Horas",
+          "url": "https://24-horas.mx/estados/incendio-plataforma-pemex-abkatun-h-asea-investigacion/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        }
+      ]
     }
   ],
   "para_mapa": [
     {
-      "id": "ebeeeb29",
+      "id": "7fd66d79",
       "tipo": "bloqueo",
-      "ruta": "Hacen largas filas en El Insurgente por bloqueo en la…",
-      "descripcion": "Hacen largas filas en El Insurgente por bloqueo en la Méx-Toluca. Algunos usuarios reportaron filas que superaron, según ellos, varios kilómetros de espera mientras esperaban su turno para abordar uno de los vagones",
-      "fecha": "21 octubre 2026 · 11:02 CST",
+      "ruta": "Llevan tortas y agua a manifestantes y afectados en la…",
+      "descripcion": "Llevan tortas y agua a manifestantes y afectados en la México-Toluca. El gesto fue calificado como una muestra de cariño y fraternidad para quienes han resultado afectados tras largas horas de cierres viales en ambos sen",
+      "fecha": "21 octubre 2026 · 14:01 CST",
       "fuente": "Quadratin EdoMex",
-      "url": "https://edomex.quadratin.com.mx/hacen-largas-filas-en-el-insurgente-por-bloqueo-en-la-mex-toluca/",
+      "url": "https://edomex.quadratin.com.mx/llevan-tortas-y-agua-a-manifestantes-y-afectados-en-la-mexico-toluca/",
       "dot_color": "#8e44ad",
       "badge_txt": "BLOQUEO",
       "lat": 19.29,
@@ -173,6 +196,19 @@
       "lon": -99.66
     },
     {
+      "id": "4b9e06cf",
+      "tipo": "bloqueo",
+      "ruta": "Bloqueo México-Toluca cumple más de 20 horas: reportan filas de…",
+      "descripcion": "Bloqueo México-Toluca cumple más de 20 horas: reportan filas de kilómetros; qué pasó, dónde está el cierre y cómo evitar el tráfico - Eje Central. Bloqueo México-Toluca cumple más de 20 horas: reportan filas de kilómetros; qué pasó, dónde está el cierre y cómo evitar el tráfico Eje Central",
+      "fecha": "21 octubre 2026 · 08:36 CST",
+      "fuente": "Eje Central",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNcXVFalFLVnI5bmZOOGNEYjhXVU51Z0NmWEUtVWlQQ05kY2kzVmJtdVRlTFZLc2kyNTJMUmJKdXZNRFFrUk9MdnhHOHdMYXFxa1NLbmN5S0dUY01BZ1lSQl8wZEE0Y0ozcWdTSTZIMTdfTG5rTWxLbXZRMGEwVFhNN2FxZk9BSlY0NjBmQW5fTzUzZFRTQzBWN0J4NmhKSzVtNXZUSHp6UnpHaEVtYmFlYjV4VlFCd2xCcTdDeGotTllJNEhYYk8yb2FGaGp0M1k5d2JEUExOeXhlbmxxWGtqTEI0Nmt2c1ZXS2x4RktGcnJxSkdMS3dEOTVKRE5JUkU?oc=5",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 19.29,
+      "lon": -99.66
+    },
+    {
       "id": "9ac21907",
       "tipo": "bloqueo",
       "ruta": "📢 Liberan un carril en la #México-#Toluca tras bloqueo de…",
@@ -186,23 +222,10 @@
       "lon": -99.66
     },
     {
-      "id": "89170c9c",
-      "tipo": "bloqueo",
-      "ruta": "Mantienen madres buscadoras bloqueo en la México-Toluca…",
-      "descripcion": "Mantienen madres buscadoras bloqueo en la México-Toluca. Continúan los cierres en Lerma y Xonacatlán, con severas afectaciones viales hacia la Ciudad de México",
-      "fecha": "21 octubre 2026 · 07:45 CST",
-      "fuente": "Quadratin EdoMex",
-      "url": "https://edomex.quadratin.com.mx/mantienen-madres-buscadoras-bloqueo-en-la-mexico-toluca/",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 19.29,
-      "lon": -99.66
-    },
-    {
-      "id": "cfd37d4a",
+      "id": "344a9ac3",
       "tipo": "bloqueo",
       "ruta": "Bloqueo en la México-Toluca hacia la CDMX cumple más de…",
-      "descripcion": "Bloqueo en la México-Toluca hacia la CDMX cumple más de 18 horas - UnoTV. Bloqueo en la México-Toluca hacia la CDMX cumple más de 18 horas UnoTV",
+      "descripcion": "Bloqueo en la México-Toluca hacia la CDMX cumple más de un día - UnoTV. Bloqueo en la México-Toluca hacia la CDMX cumple más de un día UnoTV",
       "fecha": "21 octubre 2026 · 07:30 CST",
       "fuente": "UnoTV",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSktIT256TFc4cEtxOVJkTHU4UVpVSGdZUHVSODk2ekhPZXBhOG5CSXgzakU3QTNuWnBtcllocEdCbjJhX09BaHVTX0t3cUx4MTd0aGZfb0RHNzlmbVpHUmdadVRubFpsak1TMEJsZ1FEemV3ZngzTUtrR3NUdUtTLTVmOVlseFZDcklrTjNDYnliTmNzWV9fMUxUZnpndE11eno4d2ZiYm5OYWRaSUJfUi1R?oc=5",
