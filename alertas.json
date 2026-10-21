@@ -1,12 +1,11 @@
 {
-  "ultima_actualizacion": "2026-10-21T00:34:30.869015-06:00",
-  "ultima_actualizacion_legible": "21 de octubre de 2026 · 00:34 CST",
-  "total": 5,
+  "ultima_actualizacion": "2026-10-21T06:24:43.369204-06:00",
+  "ultima_actualizacion_legible": "21 de octubre de 2026 · 06:24 CST",
+  "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
-    "Quadratin + regionales",
-    "Telegram"
+    "Quadratin + regionales"
   ],
   "grupos": [
     {
@@ -47,54 +46,6 @@
           "badge_txt": "BLOQUEO",
           "lat": 18.92,
           "lon": -99.23
-        },
-        {
-          "id": "e33d580d",
-          "tipo": "bloqueo",
-          "ruta": "Bloqueo en la México-Toluca hoy 20 de octubre: ¿dónde está…",
-          "descripcion": "Bloqueo en la México-Toluca hoy 20 de octubre: ¿dónde está cerrada y qué rutas alternas hay? - Eje Central. Bloqueo en la México-Toluca hoy 20 de octubre: ¿dónde está cerrada y qué rutas alternas hay? Eje Central",
-          "recomendacion": "",
-          "fecha": "20 octubre 2026 · 17:20 CST",
-          "fecha_iso": "2026-10-20T17:20:00-06:00",
-          "fuente": "Eje Central",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbEVqQnUzWXhqSEJWSzRLYmt4eE9ra2JqS1NQeGtDX2dlR3FuRzY5NlR0Qml6YUd5RzI3ejlmRTk5R0hGcnRWUVBCMzlyb1dHRzlCR0xxSzVBQWdfWmZPemE1MVBXN0JqSEMwemxiQ3BqZlZjRVZVNy01czNPdGgwcEJobEl2VHFXbWtwLXp0dkFpeUxWNzZqUC1BLTBBakQxRldhQjZqVUhselZKSVFKeFp4VkFTcE1xQ3RpMVZwSGRwNVh1SklZNVgxdw?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 19.29,
-          "lon": -99.66
-        },
-        {
-          "id": "19e08a6e",
-          "tipo": "bloqueo",
-          "ruta": "carretera México-Toluca - José Cárdenas",
-          "descripcion": "Manifestantes bloquean la carretera México-Toluca - José Cárdenas. Manifestantes bloquean la carretera México-Toluca José Cárdenas",
-          "recomendacion": "",
-          "fecha": "20 octubre 2026 · 13:39 CST",
-          "fecha_iso": "2026-10-20T13:39:00-06:00",
-          "fuente": "José Cárdenas",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPV05wclg1Mzg1cGNjbUdBYzZ5SWl0SXlaOXU3bTJqS0VmdW5KWE45dHRILXkyZ0IxUDY5MFBuZk9LclZYNFB3bEl5M1hVWWl6LWM0QkhxY2wwcndsZUpacTFyM3VneFZsVUFac1ZzOGhmV3o0SGNQU3MtYkJJQ2NJQmpIb1dNWUZGTmpB?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 19.29,
-          "lon": -99.66
-        },
-        {
-          "id": "31f3044f",
-          "tipo": "bloqueo",
-          "ruta": "🚨#ÚltimaHora | Bloqueo se extiende en la México-Toluca y colapsa…",
-          "descripcion": "🚨#ÚltimaHora | Bloqueo se extiende en la México-Toluca y colapsa la circulación en ambos sentidos 👇\n https://lajornadaestadodemexico.com/habitantes-cierran-la-mexico-toluca-hoy-20-de-octubre/",
-          "recomendacion": "",
-          "fecha": "20 octubre 2026 · 12:44 CST",
-          "fecha_iso": "2026-10-20T12:44:00-06:00",
-          "fuente": "Telegram @jornadaedomex",
-          "url": "https://t.me/jornadaedomex/12425",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 19.29,
-          "lon": -99.66
         }
       ]
     }
@@ -125,45 +76,6 @@
       "badge_txt": "BLOQUEO",
       "lat": 18.92,
       "lon": -99.23
-    },
-    {
-      "id": "e33d580d",
-      "tipo": "bloqueo",
-      "ruta": "Bloqueo en la México-Toluca hoy 20 de octubre: ¿dónde está…",
-      "descripcion": "Bloqueo en la México-Toluca hoy 20 de octubre: ¿dónde está cerrada y qué rutas alternas hay? - Eje Central. Bloqueo en la México-Toluca hoy 20 de octubre: ¿dónde está cerrada y qué rutas alternas hay? Eje Central",
-      "fecha": "20 octubre 2026 · 17:20 CST",
-      "fuente": "Eje Central",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbEVqQnUzWXhqSEJWSzRLYmt4eE9ra2JqS1NQeGtDX2dlR3FuRzY5NlR0Qml6YUd5RzI3ejlmRTk5R0hGcnRWUVBCMzlyb1dHRzlCR0xxSzVBQWdfWmZPemE1MVBXN0JqSEMwemxiQ3BqZlZjRVZVNy01czNPdGgwcEJobEl2VHFXbWtwLXp0dkFpeUxWNzZqUC1BLTBBakQxRldhQjZqVUhselZKSVFKeFp4VkFTcE1xQ3RpMVZwSGRwNVh1SklZNVgxdw?oc=5",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 19.29,
-      "lon": -99.66
-    },
-    {
-      "id": "19e08a6e",
-      "tipo": "bloqueo",
-      "ruta": "carretera México-Toluca - José Cárdenas",
-      "descripcion": "Manifestantes bloquean la carretera México-Toluca - José Cárdenas. Manifestantes bloquean la carretera México-Toluca José Cárdenas",
-      "fecha": "20 octubre 2026 · 13:39 CST",
-      "fuente": "José Cárdenas",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPV05wclg1Mzg1cGNjbUdBYzZ5SWl0SXlaOXU3bTJqS0VmdW5KWE45dHRILXkyZ0IxUDY5MFBuZk9LclZYNFB3bEl5M1hVWWl6LWM0QkhxY2wwcndsZUpacTFyM3VneFZsVUFac1ZzOGhmV3o0SGNQU3MtYkJJQ2NJQmpIb1dNWUZGTmpB?oc=5",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 19.29,
-      "lon": -99.66
-    },
-    {
-      "id": "31f3044f",
-      "tipo": "bloqueo",
-      "ruta": "🚨#ÚltimaHora | Bloqueo se extiende en la México-Toluca y colapsa…",
-      "descripcion": "🚨#ÚltimaHora | Bloqueo se extiende en la México-Toluca y colapsa la circulación en ambos sentidos 👇\n https://lajornadaestadodemexico.com/habitantes-cierran-la-mexico-toluca-hoy-20-de-octubre/",
-      "fecha": "20 octubre 2026 · 12:44 CST",
-      "fuente": "Telegram @jornadaedomex",
-      "url": "https://t.me/jornadaedomex/12425",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 19.29,
-      "lon": -99.66
     }
   ]
 }
