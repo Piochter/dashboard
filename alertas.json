@@ -1,10 +1,9 @@
 {
-  "ultima_actualizacion": "2026-10-22T01:51:45.289387-06:00",
-  "ultima_actualizacion_legible": "22 de octubre de 2026 · 01:51 CST",
-  "total": 8,
+  "ultima_actualizacion": "2026-10-22T07:19:18.393888-06:00",
+  "ultima_actualizacion_legible": "22 de octubre de 2026 · 07:19 CST",
+  "total": 3,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News",
     "Medios nacionales",
     "Quadratin + regionales",
     "Telegram"
@@ -17,6 +16,22 @@
       "label": "BLOQUEOS / MANIFESTACIONES",
       "col2": false,
       "alertas": [
+        {
+          "id": "e978cef9",
+          "tipo": "bloqueo",
+          "ruta": "Bloqueo en la México-Toluca concluye luego de 36 horas…",
+          "descripcion": "Bloqueo en la México-Toluca concluye luego de 36 horas. Lerma, Méx., Justo al cumplirse 36 horas de protesta, las madres buscadoras y los colectivos de familiares de personas desaparecidas llegaron a un acuerdo con el fiscal general de Justicia del estado de México, José Luis Cervantes Martínez, por lo que liberaron la vialidad que se encontraba cerrada a la circulación desde el martes a las 11 de la mañana.",
+          "recomendacion": "",
+          "fecha": "22 octubre 2026 · 04:12 CST",
+          "fecha_iso": "2026-10-22T04:12:00-06:00",
+          "fuente": "La Jornada Estados",
+          "url": "https://www.jornada.com.mx/2026/10/22/estados/026n1est?partner=rss",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 19.29,
+          "lon": -99.66
+        },
         {
           "id": "93325876",
           "tipo": "bloqueo",
@@ -32,86 +47,6 @@
           "badge_txt": "BLOQUEO",
           "lat": 19.35,
           "lon": -99.7
-        },
-        {
-          "id": "abfc9829",
-          "tipo": "bloqueo",
-          "ruta": "Madres buscadoras acuerdan entablar mesa de trabajo directa con el…",
-          "descripcion": "Madres buscadoras acuerdan entablar mesa de trabajo directa con el titular de la FGJEM ¿Retirarán bloqueo en la México-Toluca? 👇\n https://lajornadaestadodemexico.com/madres-buscadoras-acuerdan-entablar-mesa-de-trabajo-directa-con-el-titular-de-la-fgjem/",
-          "recomendacion": "",
-          "fecha": "21 octubre 2026 · 17:39 CST",
-          "fecha_iso": "2026-10-21T17:39:00-06:00",
-          "fuente": "Telegram @jornadaedomex",
-          "url": "https://t.me/jornadaedomex/12442",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 19.29,
-          "lon": -99.66
-        },
-        {
-          "id": "976fa11e",
-          "tipo": "bloqueo",
-          "ruta": "Madres buscadoras rechazan acuerdo; mantienen bloqueo en la México-Toluca. Estas…",
-          "descripcion": "Madres buscadoras rechazan acuerdo; mantienen bloqueo en la México-Toluca. Estas son las razones 👇\n https://lajornadaestadodemexico.com/madres-buscadoras-rechazan-acuerdo-mantienen-bloqueo-mexico-toluca/",
-          "recomendacion": "",
-          "fecha": "21 octubre 2026 · 16:28 CST",
-          "fecha_iso": "2026-10-21T16:28:00-06:00",
-          "fuente": "Telegram @jornadaedomex",
-          "url": "https://t.me/jornadaedomex/12441",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 19.29,
-          "lon": -99.66
-        },
-        {
-          "id": "646422a8",
-          "tipo": "bloqueo",
-          "ruta": "¿Sigue cerrada la México-Toluca? Reporte del bloqueo y protesta de…",
-          "descripcion": "¿Sigue cerrada la México-Toluca? Reporte del bloqueo y protesta de madres buscadoras - La Crónica de Hoy. ¿Sigue cerrada la México-Toluca? Reporte del bloqueo y protesta de madres buscadoras La Crónica de Hoy",
-          "recomendacion": "",
-          "fecha": "21 octubre 2026 · 15:58 CST",
-          "fecha_iso": "2026-10-21T15:58:00-06:00",
-          "fuente": "La Crónica de Hoy",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPU2NuNzVxU0ZjUXI5a194VHF3aFBWcjVtdmF0UFd1TU1rS0xaaW1SLXgzUGlsSEJnY3dfdXVNVlllTTZ1eEJ4LWZyMmJybmpwNnJ0NHF0RmpPUlBMWDZ0T2RZbEljSmdkUTR3TEV4Y014YUxIWll5ZkM1WmQ0ZERjOTdUNjBKVWJQWDhEVkNhSVFBSnJOQTd5WWxxa0NxMnVaaW4waTViVTNLZVU0aXV6UEFaaXZleTVGMTNTU3EyelhLak5lOG9EbzhHTQ?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 19.29,
-          "lon": -99.66
-        },
-        {
-          "id": "c4a0311a",
-          "tipo": "bloqueo",
-          "ruta": "Bloqueo en la México-Toluca se mantiene rumbo a la CDMX;…",
-          "descripcion": "Bloqueo en la México-Toluca se mantiene rumbo a la CDMX; llegaron granaderos, pero también la ayuda 👇\n https://lajornadaestadodemexico.com/bloqueo-en-la-mexico-toluca-se-mantiene-rumbo-a-la-cdmx-llegaron-granaderos/",
-          "recomendacion": "",
-          "fecha": "21 octubre 2026 · 15:45 CST",
-          "fecha_iso": "2026-10-21T15:45:00-06:00",
-          "fuente": "Telegram @jornadaedomex",
-          "url": "https://t.me/jornadaedomex/12439",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 19.43,
-          "lon": -99.13
-        },
-        {
-          "id": "fe732de4",
-          "tipo": "bloqueo",
-          "ruta": "¿Por qué hay CAOS vial en la México-Toluca? Reportan BLOQUEOS,…",
-          "descripcion": "¿Por qué hay CAOS vial en la México-Toluca? Reportan BLOQUEOS, enfrentamientos y granaderos en la autopista; e - Milenio. ¿Por qué hay CAOS vial en la México-Toluca? Reportan BLOQUEOS, enfrentamientos y granaderos en la autopista; e Milenio",
-          "recomendacion": "",
-          "fecha": "21 octubre 2026 · 13:57 CST",
-          "fecha_iso": "2026-10-21T13:57:00-06:00",
-          "fuente": "Milenio",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTzRyYUZQYWZndGFnNGlQMXZfTnJmbV9iTDFKbXNWNURBY3ZUbWtYSlpYdnBscE1wWVNXanh3TWlSWEN5RWdLRDFpcjhBOEdBQ0lLNEM5eHpGa1V6czBQczRtclZYQWFMcUh3aGtmZUxBNDktT3FvT3MzZFZsaUZsaTUtdS0wWGJYRVNjZERIbVhCRknSAZMBQVVfeXFMTjhob2ZWRnBoenU1N0ctNjNFQjhGTEpCWi16eDljZTAtazNmZm1lRmRMbDJHelRoX0JNQXJjc2F2SEg0a0lRRlJXOWZVamtBLVRtazNvc2tIRC1ESVZiZjlvNmZLR3FKSDhXc2l0RUt2LVRzbGNDT0lJNm91Y3NoejlqYVBlMmZhMzg3UkI5VzBJb1FN?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 19.29,
-          "lon": -99.66
         }
       ]
     },
@@ -137,25 +72,24 @@
           "badge_txt": "CIERRE PARCIAL",
           "lat": 19.8,
           "lon": -99.1
-        },
-        {
-          "id": "7281fed7",
-          "tipo": "cierre_parcial",
-          "ruta": "Rescatan a extranjero en costas yucatecas: Marina lo traslada a…",
-          "descripcion": "Rescatan a extranjero en costas yucatecas: Marina lo traslada a Progreso tras naufragio. Autoridades navales brindan auxilio oportuno a un tripulante varado a cientos de kilómetros del litoral yucateco, quien presenta cuadros severos de deshidratación",
-          "recomendacion": "",
-          "fecha": "21 octubre 2026 · 16:13 CST",
-          "fecha_iso": "2026-10-21T16:13:00-06:00",
-          "fuente": "24 Horas",
-          "url": "https://24-horas.mx/estados/rescatan-a-extranjero-en-costas-yucatecas-marina-lo-traslada-a-progreso-tras-naufragio/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
         }
       ]
     }
   ],
   "para_mapa": [
+    {
+      "id": "e978cef9",
+      "tipo": "bloqueo",
+      "ruta": "Bloqueo en la México-Toluca concluye luego de 36 horas…",
+      "descripcion": "Bloqueo en la México-Toluca concluye luego de 36 horas. Lerma, Méx., Justo al cumplirse 36 horas de protesta, las madres buscadoras y los colectivos de familiares de personas desaparecidas llegaron a un acuerdo con el fiscal general de Justicia del estado de México, José Luis Cervantes Martínez, por lo que liberaron la vialidad que se encontraba cerrada a la circulación desde el martes a las 11 de la mañana.",
+      "fecha": "22 octubre 2026 · 04:12 CST",
+      "fuente": "La Jornada Estados",
+      "url": "https://www.jornada.com.mx/2026/10/22/estados/026n1est?partner=rss",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 19.29,
+      "lon": -99.66
+    },
     {
       "id": "93325876",
       "tipo": "bloqueo",
@@ -181,71 +115,6 @@
       "badge_txt": "CIERRE PARCIAL",
       "lat": 19.8,
       "lon": -99.1
-    },
-    {
-      "id": "abfc9829",
-      "tipo": "bloqueo",
-      "ruta": "Madres buscadoras acuerdan entablar mesa de trabajo directa con el…",
-      "descripcion": "Madres buscadoras acuerdan entablar mesa de trabajo directa con el titular de la FGJEM ¿Retirarán bloqueo en la México-Toluca? 👇\n https://lajornadaestadodemexico.com/madres-buscadoras-acuerdan-entablar-mesa-de-trabajo-directa-con-el-titular-de-la-fgjem/",
-      "fecha": "21 octubre 2026 · 17:39 CST",
-      "fuente": "Telegram @jornadaedomex",
-      "url": "https://t.me/jornadaedomex/12442",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 19.29,
-      "lon": -99.66
-    },
-    {
-      "id": "976fa11e",
-      "tipo": "bloqueo",
-      "ruta": "Madres buscadoras rechazan acuerdo; mantienen bloqueo en la México-Toluca. Estas…",
-      "descripcion": "Madres buscadoras rechazan acuerdo; mantienen bloqueo en la México-Toluca. Estas son las razones 👇\n https://lajornadaestadodemexico.com/madres-buscadoras-rechazan-acuerdo-mantienen-bloqueo-mexico-toluca/",
-      "fecha": "21 octubre 2026 · 16:28 CST",
-      "fuente": "Telegram @jornadaedomex",
-      "url": "https://t.me/jornadaedomex/12441",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 19.29,
-      "lon": -99.66
-    },
-    {
-      "id": "646422a8",
-      "tipo": "bloqueo",
-      "ruta": "¿Sigue cerrada la México-Toluca? Reporte del bloqueo y protesta de…",
-      "descripcion": "¿Sigue cerrada la México-Toluca? Reporte del bloqueo y protesta de madres buscadoras - La Crónica de Hoy. ¿Sigue cerrada la México-Toluca? Reporte del bloqueo y protesta de madres buscadoras La Crónica de Hoy",
-      "fecha": "21 octubre 2026 · 15:58 CST",
-      "fuente": "La Crónica de Hoy",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPU2NuNzVxU0ZjUXI5a194VHF3aFBWcjVtdmF0UFd1TU1rS0xaaW1SLXgzUGlsSEJnY3dfdXVNVlllTTZ1eEJ4LWZyMmJybmpwNnJ0NHF0RmpPUlBMWDZ0T2RZbEljSmdkUTR3TEV4Y014YUxIWll5ZkM1WmQ0ZERjOTdUNjBKVWJQWDhEVkNhSVFBSnJOQTd5WWxxa0NxMnVaaW4waTViVTNLZVU0aXV6UEFaaXZleTVGMTNTU3EyelhLak5lOG9EbzhHTQ?oc=5",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 19.29,
-      "lon": -99.66
-    },
-    {
-      "id": "c4a0311a",
-      "tipo": "bloqueo",
-      "ruta": "Bloqueo en la México-Toluca se mantiene rumbo a la CDMX;…",
-      "descripcion": "Bloqueo en la México-Toluca se mantiene rumbo a la CDMX; llegaron granaderos, pero también la ayuda 👇\n https://lajornadaestadodemexico.com/bloqueo-en-la-mexico-toluca-se-mantiene-rumbo-a-la-cdmx-llegaron-granaderos/",
-      "fecha": "21 octubre 2026 · 15:45 CST",
-      "fuente": "Telegram @jornadaedomex",
-      "url": "https://t.me/jornadaedomex/12439",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 19.43,
-      "lon": -99.13
-    },
-    {
-      "id": "fe732de4",
-      "tipo": "bloqueo",
-      "ruta": "¿Por qué hay CAOS vial en la México-Toluca? Reportan BLOQUEOS,…",
-      "descripcion": "¿Por qué hay CAOS vial en la México-Toluca? Reportan BLOQUEOS, enfrentamientos y granaderos en la autopista; e - Milenio. ¿Por qué hay CAOS vial en la México-Toluca? Reportan BLOQUEOS, enfrentamientos y granaderos en la autopista; e Milenio",
-      "fecha": "21 octubre 2026 · 13:57 CST",
-      "fuente": "Milenio",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTzRyYUZQYWZndGFnNGlQMXZfTnJmbV9iTDFKbXNWNURBY3ZUbWtYSlpYdnBscE1wWVNXanh3TWlSWEN5RWdLRDFpcjhBOEdBQ0lLNEM5eHpGa1V6czBQczRtclZYQWFMcUh3aGtmZUxBNDktT3FvT3MzZFZsaUZsaTUtdS0wWGJYRVNjZERIbVhCRknSAZMBQVVfeXFMTjhob2ZWRnBoenU1N0ctNjNFQjhGTEpCWi16eDljZTAtazNmZm1lRmRMbDJHelRoX0JNQXJjc2F2SEg0a0lRRlJXOWZVamtBLVRtazNvc2tIRC1ESVZiZjlvNmZLR3FKSDhXc2l0RUt2LVRzbGNDT0lJNm91Y3NoejlqYVBlMmZhMzg3UkI5VzBJb1FN?oc=5",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 19.29,
-      "lon": -99.66
     }
   ]
 }
