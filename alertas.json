@@ -1,10 +1,11 @@
 {
-  "ultima_actualizacion": "2026-10-23T12:33:29.625957-06:00",
-  "ultima_actualizacion_legible": "23 de octubre de 2026 · 12:33 CST",
-  "total": 4,
+  "ultima_actualizacion": "2026-10-23T15:41:12.332013-06:00",
+  "ultima_actualizacion_legible": "23 de octubre de 2026 · 15:41 CST",
+  "total": 5,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
+    "Medios nacionales",
     "Medios regionales",
     "Quadratin + regionales"
   ],
@@ -17,15 +18,45 @@
       "col2": false,
       "alertas": [
         {
-          "id": "1adf376b",
+          "id": "421d80aa",
           "tipo": "bloqueo",
-          "ruta": "Armenta reforzará seguridad en carreteras tras bloqueos de transportistas…",
-          "descripcion": "Armenta reforzará seguridad en carreteras tras bloqueos de transportistas. Reforzará Armenta seguridad vial tras bloqueos.",
+          "ruta": "Transportistas de Hidalgo anuncian paro nacional ante falta de respuestas…",
+          "descripcion": "Transportistas de Hidalgo anuncian paro nacional ante falta de respuestas a sus demandas. Ante la falta de respuestas a sus demandas de seguridad, infraestructura carretera y reducción de las presiones. The post Transportistas de Hidalgo anuncian paro nacional ante falta de respuestas a sus demandas appeared first on Quadratin Hidalgo.",
           "recomendacion": "",
-          "fecha": "23 octubre 2026 · 09:50 CST",
-          "fecha_iso": "2026-10-23T09:50:00-06:00",
-          "fuente": "Quadratin Puebla",
-          "url": "https://puebla.quadratin.com.mx/politica/armenta-reforzara-seguridad-en-carreteras-tras-bloqueos-de-transportistas/",
+          "fecha": "23 octubre 2026 · 15:14 CST",
+          "fecha_iso": "2026-10-23T15:14:00-06:00",
+          "fuente": "Quadratin Hidalgo",
+          "url": "https://hidalgo.quadratin.com.mx/sucesos/transportistas-de-hidalgo-anuncian-paro-nacional-a-partir-del-lunes/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 20.11,
+          "lon": -98.73
+        },
+        {
+          "id": "6680f4a1",
+          "tipo": "bloqueo",
+          "ruta": "Transportistas anuncian paro nacional por crisis de inseguridad…",
+          "descripcion": "Transportistas anuncian paro nacional por crisis de inseguridad. Transportistas de carga anuncian un paro nacional indefinido en México para exigir un alto a la inseguridad, extorsiones y malas condiciones en carreteras",
+          "recomendacion": "",
+          "fecha": "23 octubre 2026 · 14:32 CST",
+          "fecha_iso": "2026-10-23T14:32:00-06:00",
+          "fuente": "24 Horas",
+          "url": "https://24-horas.mx/mexico/transportistas-anuncian-paro-nacional-por-crisis-de-inseguridad/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
+        {
+          "id": "67ffce9b",
+          "tipo": "bloqueo",
+          "ruta": "Transportistas anuncian paro nacional por tiempo indefinido a partir del…",
+          "descripcion": "Transportistas anuncian paro nacional por tiempo indefinido a partir del lunes. Demandan mayor seguridad en carreteras además de que denuncian extorsiones, cobro de piso y vialidades deficientes",
+          "recomendacion": "",
+          "fecha": "23 octubre 2026 · 08:49 CST",
+          "fecha_iso": "2026-10-23T08:49:00-06:00",
+          "fuente": "El Sol de Mexico",
+          "url": "https://oem.com.mx/elsoldemexico/mexico/transportistas-anuncian-paro-nacional-por-tiempo-indefinido-a-partir-del-lunes-32754511",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO"
@@ -68,25 +99,24 @@
           "badge_txt": "CIERRE PARCIAL",
           "lat": 20.11,
           "lon": -98.73
-        },
-        {
-          "id": "01777d55",
-          "tipo": "cierre_parcial",
-          "ruta": "Accidente junto al puente de La Cruz deja un conductor…",
-          "descripcion": "Accidente junto al puente de La Cruz deja un conductor sin vida en Celaya. En Celaya muere automovilista en un choque en carretera, impacta su vehículo contra un poste en la vía a Salvatierra este viernes.",
-          "recomendacion": "",
-          "fecha": "23 octubre 2026 · 11:35 CST",
-          "fecha_iso": "2026-10-23T11:35:00-06:00",
-          "fuente": "AM Guanajuato",
-          "url": "https://www.am.com.mx/celaya/2026/10/23/accidente-junto-al-puente-de-la-cruz-deja-un-conductor-sin-vida-en-celaya-1857978.html",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
         }
       ]
     }
   ],
   "para_mapa": [
+    {
+      "id": "421d80aa",
+      "tipo": "bloqueo",
+      "ruta": "Transportistas de Hidalgo anuncian paro nacional ante falta de respuestas…",
+      "descripcion": "Transportistas de Hidalgo anuncian paro nacional ante falta de respuestas a sus demandas. Ante la falta de respuestas a sus demandas de seguridad, infraestructura carretera y reducción de las presiones. The post Transportistas de Hidalgo anuncian paro nacional ante falta de respuestas a sus demandas appeared first on Quadratin Hidalgo.",
+      "fecha": "23 octubre 2026 · 15:14 CST",
+      "fuente": "Quadratin Hidalgo",
+      "url": "https://hidalgo.quadratin.com.mx/sucesos/transportistas-de-hidalgo-anuncian-paro-nacional-a-partir-del-lunes/",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 20.11,
+      "lon": -98.73
+    },
     {
       "id": "f89e0b98",
       "tipo": "cierre_parcial",
