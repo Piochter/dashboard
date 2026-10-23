@@ -1,10 +1,12 @@
 {
-  "ultima_actualizacion": "2026-10-23T08:26:30.605065-06:00",
-  "ultima_actualizacion_legible": "23 de octubre de 2026 · 08:26 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-10-23T12:33:29.625957-06:00",
+  "ultima_actualizacion_legible": "23 de octubre de 2026 · 12:33 CST",
+  "total": 4,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News"
+    "Google News",
+    "Medios regionales",
+    "Quadratin + regionales"
   ],
   "grupos": [
     {
@@ -14,6 +16,20 @@
       "label": "BLOQUEOS / MANIFESTACIONES",
       "col2": false,
       "alertas": [
+        {
+          "id": "1adf376b",
+          "tipo": "bloqueo",
+          "ruta": "Armenta reforzará seguridad en carreteras tras bloqueos de transportistas…",
+          "descripcion": "Armenta reforzará seguridad en carreteras tras bloqueos de transportistas. Reforzará Armenta seguridad vial tras bloqueos.",
+          "recomendacion": "",
+          "fecha": "23 octubre 2026 · 09:50 CST",
+          "fecha_iso": "2026-10-23T09:50:00-06:00",
+          "fuente": "Quadratin Puebla",
+          "url": "https://puebla.quadratin.com.mx/politica/armenta-reforzara-seguridad-en-carreteras-tras-bloqueos-de-transportistas/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
         {
           "id": "8a224453",
           "tipo": "bloqueo",
@@ -38,37 +54,51 @@
       "col2": true,
       "alertas": [
         {
-          "id": "6204ca68",
+          "id": "f89e0b98",
           "tipo": "cierre_parcial",
-          "ruta": "AMOTAC bloquea carreteras en Puebla tras asesinato de su delegado…",
-          "descripcion": "AMOTAC bloquea carreteras en Puebla tras asesinato de su delegado durante un asalto - El Sol de Puebla - El Sol de México. AMOTAC bloquea carreteras en Puebla tras asesinato de su delegado durante un asalto - El Sol de Puebla El Sol de México",
+          "ruta": "Roban tráiler en la México-Pachuca; conductor permanece desaparecido…",
+          "descripcion": "Roban tráiler en la México-Pachuca; conductor permanece desaparecido. Tras el presunto robo de un tractocamión sobre la autopista México-Pachuca. The post Roban tráiler en la México-Pachuca; conductor permanece desaparecido appeared first on Quadratin Hidalgo.",
           "recomendacion": "",
-          "fecha": "22 octubre 2026 · 21:15 CST",
-          "fecha_iso": "2026-10-22T21:15:00-06:00",
-          "fuente": "El Sol de México",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPamM3bHk3MWxONmc1OHdCUVp6bTRYMHJPS3FKM1k0dmdYWkwzdHhkTmREd1NRNmw0S1RMeDJQWThWRUUxdHVmb1ZOdlBnNUQtMFlnSWJ3bWNJbWE4TWd0QWpaNFFkSEtRcEZJaDFxOWMwbGpnSk05T0wzVDlkcmV5c3ItUnBEcmFJMVAxbEZRbkJ6T2lQMWRMSG9Ecmh0N1lURmZRTVFwMjRZT0FRN1hGSDhIYlhNZVZhbEVlN2JiaUdFY3lvWGM5Z3FFMA?oc=5",
+          "fecha": "23 octubre 2026 · 12:26 CST",
+          "fecha_iso": "2026-10-23T12:26:00-06:00",
+          "fuente": "Quadratin Hidalgo",
+          "url": "https://hidalgo.quadratin.com.mx/entretenimiento/seguridad/roban-trailer-en-la-mexico-pachuca-conductor-permanece-desaparecido/",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.04,
-          "lon": -98.2
+          "lat": 20.11,
+          "lon": -98.73
+        },
+        {
+          "id": "01777d55",
+          "tipo": "cierre_parcial",
+          "ruta": "Accidente junto al puente de La Cruz deja un conductor…",
+          "descripcion": "Accidente junto al puente de La Cruz deja un conductor sin vida en Celaya. En Celaya muere automovilista en un choque en carretera, impacta su vehículo contra un poste en la vía a Salvatierra este viernes.",
+          "recomendacion": "",
+          "fecha": "23 octubre 2026 · 11:35 CST",
+          "fecha_iso": "2026-10-23T11:35:00-06:00",
+          "fuente": "AM Guanajuato",
+          "url": "https://www.am.com.mx/celaya/2026/10/23/accidente-junto-al-puente-de-la-cruz-deja-un-conductor-sin-vida-en-celaya-1857978.html",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
         }
       ]
     }
   ],
   "para_mapa": [
     {
-      "id": "6204ca68",
+      "id": "f89e0b98",
       "tipo": "cierre_parcial",
-      "ruta": "AMOTAC bloquea carreteras en Puebla tras asesinato de su delegado…",
-      "descripcion": "AMOTAC bloquea carreteras en Puebla tras asesinato de su delegado durante un asalto - El Sol de Puebla - El Sol de México. AMOTAC bloquea carreteras en Puebla tras asesinato de su delegado durante un asalto - El Sol de Puebla El Sol de México",
-      "fecha": "22 octubre 2026 · 21:15 CST",
-      "fuente": "El Sol de México",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPamM3bHk3MWxONmc1OHdCUVp6bTRYMHJPS3FKM1k0dmdYWkwzdHhkTmREd1NRNmw0S1RMeDJQWThWRUUxdHVmb1ZOdlBnNUQtMFlnSWJ3bWNJbWE4TWd0QWpaNFFkSEtRcEZJaDFxOWMwbGpnSk05T0wzVDlkcmV5c3ItUnBEcmFJMVAxbEZRbkJ6T2lQMWRMSG9Ecmh0N1lURmZRTVFwMjRZT0FRN1hGSDhIYlhNZVZhbEVlN2JiaUdFY3lvWGM5Z3FFMA?oc=5",
+      "ruta": "Roban tráiler en la México-Pachuca; conductor permanece desaparecido…",
+      "descripcion": "Roban tráiler en la México-Pachuca; conductor permanece desaparecido. Tras el presunto robo de un tractocamión sobre la autopista México-Pachuca. The post Roban tráiler en la México-Pachuca; conductor permanece desaparecido appeared first on Quadratin Hidalgo.",
+      "fecha": "23 octubre 2026 · 12:26 CST",
+      "fuente": "Quadratin Hidalgo",
+      "url": "https://hidalgo.quadratin.com.mx/entretenimiento/seguridad/roban-trailer-en-la-mexico-pachuca-conductor-permanece-desaparecido/",
       "dot_color": "#e67e22",
       "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.04,
-      "lon": -98.2
+      "lat": 20.11,
+      "lon": -98.73
     }
   ]
 }
