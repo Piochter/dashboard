@@ -1,12 +1,10 @@
 {
-  "ultima_actualizacion": "2026-10-23T03:35:58.480190-06:00",
-  "ultima_actualizacion_legible": "23 de octubre de 2026 · 03:35 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-10-23T08:26:30.605065-06:00",
+  "ultima_actualizacion_legible": "23 de octubre de 2026 · 08:26 CST",
+  "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News",
-    "Medios regionales",
-    "Telegram"
+    "Google News"
   ],
   "grupos": [
     {
@@ -17,36 +15,18 @@
       "col2": false,
       "alertas": [
         {
-          "id": "6f879c48",
+          "id": "8a224453",
           "tipo": "bloqueo",
-          "ruta": "7",
-          "descripcion": "Toma precauciones: Protesta agrícola en 7 tramos carreteros de Guanajuato. Siete puntos carreteros de Guanajuato presenciarán movilizaciones agrícolas el próximo martes 27 de octubre, para exigir respuestas a las demandas pendientes.",
+          "ruta": "Bloqueos carreteras HOY viernes 23 de octubre: autopistas cerradas en…",
+          "descripcion": "Bloqueos carreteras HOY viernes 23 de octubre: autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY viernes 23 de octubre: autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
           "recomendacion": "",
-          "fecha": "22 octubre 2026 · 18:57 CST",
-          "fecha_iso": "2026-10-22T18:57:00-06:00",
-          "fuente": "AM Guanajuato",
-          "url": "https://www.am.com.mx/guanajuato/2026/10/22/toma-precauciones-protesta-agricola-en-7-tramos-carreteros-de-guanajuato-1857747.html",
+          "fecha": "23 octubre 2026 · 06:49 CST",
+          "fecha_iso": "2026-10-23T06:49:00-06:00",
+          "fuente": "Eje Central",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPaUtLZ0hpalM2MjktN0xnUVhoZTgyWnMwMmpMNE1BdXkyVG80b1RyZU9wZkwzN0RWOVBhbVJXREFacXpZRWN4VkNtWm96WFNSWGJQanB1TWJMdFE5Ql9BaFZvQ1FlQmJMLXRiaHRmNnlsay1sWGp1MlpObTRyLVlWYWRCNzlLWlltQ1JzVFZRbE5tYUZ0UjdjWHhrVmFrT1lWdWlCUXAyV1F5d1hKY25wNWgzNDJiV3NlQlFiWVNRZTRJb012T2NRTmRLeklYd2xmdFQ5ZWdLajhiX3VSSVFOdHVUbnRUemZKZE1tdU83RVU4cDNG?oc=5",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 21.02,
-          "lon": -101.26
-        },
-        {
-          "id": "b37111f8",
-          "tipo": "bloqueo",
-          "ruta": "Riña en la México-Toluca: ¿Qué tramo es bloqueado HOY por…",
-          "descripcion": "Riña en la México-Toluca: ¿Qué tramo es bloqueado HOY por familiares de desaparecidos en [Edomex?](http://telegra.ph/Riña-en-la-México-Toluca-Qué-tramo-es-bloqueado-HOY-por-familiares-de-desaparecidos-en-Edomex-10-21)\n\n__via__ [www.elfinanciero.com.mx](https://www.elfinanciero.com.mx/estados/2026/10/21/caos-en-la-mexico-toluca-que-tramo-es-afectado-por-bloqueo-de-familiares-de-desaparecidos-en-edomex/)",
-          "recomendacion": "",
-          "fecha": "22 octubre 2026 · 17:29 CST",
-          "fecha_iso": "2026-10-22T17:29:00-06:00",
-          "fuente": "Telegram @NOTMEX",
-          "url": "https://t.me/NOTMEX/186775",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 19.35,
-          "lon": -99.7
+          "badge_txt": "BLOQUEO"
         }
       ]
     },
@@ -58,15 +38,15 @@
       "col2": true,
       "alertas": [
         {
-          "id": "3e623a81",
+          "id": "6204ca68",
           "tipo": "cierre_parcial",
-          "ruta": "Continúan Cierres en Autopistas y Carreteras de Puebla por Transportistas…",
-          "descripcion": "Continúan Cierres en Autopistas y Carreteras de Puebla por Transportistas de AMOTAC - N+ Noticias. Continúan Cierres en Autopistas y Carreteras de Puebla por Transportistas de AMOTAC N+ Noticias",
+          "ruta": "AMOTAC bloquea carreteras en Puebla tras asesinato de su delegado…",
+          "descripcion": "AMOTAC bloquea carreteras en Puebla tras asesinato de su delegado durante un asalto - El Sol de Puebla - El Sol de México. AMOTAC bloquea carreteras en Puebla tras asesinato de su delegado durante un asalto - El Sol de Puebla El Sol de México",
           "recomendacion": "",
-          "fecha": "22 octubre 2026 · 15:39 CST",
-          "fecha_iso": "2026-10-22T15:39:00-06:00",
-          "fuente": "N+ Noticias",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNWXhiNkZINzY0WUprNXljTE9LcFZOcE96R3haeGdCS2F0YWViVWNHa21pZ1BneEp0QTZ2ejdiNmxyalpNRWxWdXdlMGRVbmNSeTZLSGhON0xTU19KYkVWVEJFdXVLVlZ1Vy1ENzhySl9LQnJqTGNPZHBuY3hUa3Y1ZzJwLWhnc2pOQ0hCRG1tQmtpYUFJTXQ5Z2JHOW1hMno3VGl0Ujd6Smt4S1JkNHdpYVFrYTExV3dpME84ZzlQRFJfdzVMX3hJZVlzUG8wNjBhRkFKZDA3LWJfUUNoVUtBMw?oc=5",
+          "fecha": "22 octubre 2026 · 21:15 CST",
+          "fecha_iso": "2026-10-22T21:15:00-06:00",
+          "fuente": "El Sol de México",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPamM3bHk3MWxONmc1OHdCUVp6bTRYMHJPS3FKM1k0dmdYWkwzdHhkTmREd1NRNmw0S1RMeDJQWThWRUUxdHVmb1ZOdlBnNUQtMFlnSWJ3bWNJbWE4TWd0QWpaNFFkSEtRcEZJaDFxOWMwbGpnSk05T0wzVDlkcmV5c3ItUnBEcmFJMVAxbEZRbkJ6T2lQMWRMSG9Ecmh0N1lURmZRTVFwMjRZT0FRN1hGSDhIYlhNZVZhbEVlN2JiaUdFY3lvWGM5Z3FFMA?oc=5",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL",
@@ -78,39 +58,13 @@
   ],
   "para_mapa": [
     {
-      "id": "6f879c48",
-      "tipo": "bloqueo",
-      "ruta": "7",
-      "descripcion": "Toma precauciones: Protesta agrícola en 7 tramos carreteros de Guanajuato. Siete puntos carreteros de Guanajuato presenciarán movilizaciones agrícolas el próximo martes 27 de octubre, para exigir respuestas a las demandas pendientes.",
-      "fecha": "22 octubre 2026 · 18:57 CST",
-      "fuente": "AM Guanajuato",
-      "url": "https://www.am.com.mx/guanajuato/2026/10/22/toma-precauciones-protesta-agricola-en-7-tramos-carreteros-de-guanajuato-1857747.html",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 21.02,
-      "lon": -101.26
-    },
-    {
-      "id": "b37111f8",
-      "tipo": "bloqueo",
-      "ruta": "Riña en la México-Toluca: ¿Qué tramo es bloqueado HOY por…",
-      "descripcion": "Riña en la México-Toluca: ¿Qué tramo es bloqueado HOY por familiares de desaparecidos en [Edomex?](http://telegra.ph/Riña-en-la-México-Toluca-Qué-tramo-es-bloqueado-HOY-por-familiares-de-desaparecidos-en-Edomex-10-21)\n\n__via__ [www.elfinanciero.com.mx](https://www.elfinanciero.com.mx/estados/2026/10/21/caos-en-la-mexico-toluca-que-tramo-es-afectado-por-bloqueo-de-familiares-de-desaparecidos-en-edomex/)",
-      "fecha": "22 octubre 2026 · 17:29 CST",
-      "fuente": "Telegram @NOTMEX",
-      "url": "https://t.me/NOTMEX/186775",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 19.35,
-      "lon": -99.7
-    },
-    {
-      "id": "3e623a81",
+      "id": "6204ca68",
       "tipo": "cierre_parcial",
-      "ruta": "Continúan Cierres en Autopistas y Carreteras de Puebla por Transportistas…",
-      "descripcion": "Continúan Cierres en Autopistas y Carreteras de Puebla por Transportistas de AMOTAC - N+ Noticias. Continúan Cierres en Autopistas y Carreteras de Puebla por Transportistas de AMOTAC N+ Noticias",
-      "fecha": "22 octubre 2026 · 15:39 CST",
-      "fuente": "N+ Noticias",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNWXhiNkZINzY0WUprNXljTE9LcFZOcE96R3haeGdCS2F0YWViVWNHa21pZ1BneEp0QTZ2ejdiNmxyalpNRWxWdXdlMGRVbmNSeTZLSGhON0xTU19KYkVWVEJFdXVLVlZ1Vy1ENzhySl9LQnJqTGNPZHBuY3hUa3Y1ZzJwLWhnc2pOQ0hCRG1tQmtpYUFJTXQ5Z2JHOW1hMno3VGl0Ujd6Smt4S1JkNHdpYVFrYTExV3dpME84ZzlQRFJfdzVMX3hJZVlzUG8wNjBhRkFKZDA3LWJfUUNoVUtBMw?oc=5",
+      "ruta": "AMOTAC bloquea carreteras en Puebla tras asesinato de su delegado…",
+      "descripcion": "AMOTAC bloquea carreteras en Puebla tras asesinato de su delegado durante un asalto - El Sol de Puebla - El Sol de México. AMOTAC bloquea carreteras en Puebla tras asesinato de su delegado durante un asalto - El Sol de Puebla El Sol de México",
+      "fecha": "22 octubre 2026 · 21:15 CST",
+      "fuente": "El Sol de México",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPamM3bHk3MWxONmc1OHdCUVp6bTRYMHJPS3FKM1k0dmdYWkwzdHhkTmREd1NRNmw0S1RMeDJQWThWRUUxdHVmb1ZOdlBnNUQtMFlnSWJ3bWNJbWE4TWd0QWpaNFFkSEtRcEZJaDFxOWMwbGpnSk05T0wzVDlkcmV5c3ItUnBEcmFJMVAxbEZRbkJ6T2lQMWRMSG9Ecmh0N1lURmZRTVFwMjRZT0FRN1hGSDhIYlhNZVZhbEVlN2JiaUdFY3lvWGM5Z3FFMA?oc=5",
       "dot_color": "#e67e22",
       "badge_txt": "CIERRE PARCIAL",
       "lat": 19.04,
