@@ -1,14 +1,39 @@
 {
-  "ultima_actualizacion": "2026-10-23T21:51:30.554495-06:00",
-  "ultima_actualizacion_legible": "23 de octubre de 2026 · 21:51 CST",
+  "ultima_actualizacion": "2026-10-24T02:30:41.276968-06:00",
+  "ultima_actualizacion_legible": "24 de octubre de 2026 · 02:30 CST",
   "total": 4,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
+    "Google News",
     "Medios nacionales",
-    "Medios regionales",
     "Quadratin + regionales"
   ],
   "grupos": [
+    {
+      "tipo": "cierre_total",
+      "color": "rojo",
+      "icono": "🔴",
+      "label": "CIERRE TOTAL",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "a1e31233",
+          "tipo": "cierre_total",
+          "ruta": "Volcadura de camión en Campeche de la GN deja 10…",
+          "descripcion": "Volcadura de camión en Campeche de la GN deja 10 elementos lesionados. Al menos 10 elementos de la Guardia Nacional resultaron lesionados tras la volcadura de un camión oficial en la carretera federal Mérida-Campeche",
+          "recomendacion": "",
+          "fecha": "23 octubre 2026 · 22:05 CST",
+          "fecha_iso": "2026-10-23T22:05:00-06:00",
+          "fuente": "24 Horas",
+          "url": "https://24-horas.mx/estados/volcadura-de-camion-en-campeche-de-la-gn-deja-10-elementos-lesionados/",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL",
+          "lat": 19.83,
+          "lon": -90.53
+        }
+      ]
+    },
     {
       "tipo": "bloqueo",
       "color": "rojo",
@@ -16,20 +41,6 @@
       "label": "BLOQUEOS / MANIFESTACIONES",
       "col2": false,
       "alertas": [
-        {
-          "id": "c2f9bd43",
-          "tipo": "bloqueo",
-          "ruta": "Transportistas anuncian fecha para nuevo paro nacional…",
-          "descripcion": "Transportistas anuncian fecha para nuevo paro nacional. La CANACAR convoca a una movilización indefinida a partir del próximo lunes 26 de octubre para exigir un alto a la inseguridad, robos y extorsiones en carreteras",
-          "recomendacion": "",
-          "fecha": "23 octubre 2026 · 18:30 CST",
-          "fecha_iso": "2026-10-23T18:30:00-06:00",
-          "fuente": "El Informador Jalisco",
-          "url": "https://www.informador.mx/mexico/transportistas-anuncian-fecha-para-nuevo-paro-nacional-20261023-0165.html",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        },
         {
           "id": "421d80aa",
           "tipo": "bloqueo",
@@ -45,20 +56,6 @@
           "badge_txt": "BLOQUEO",
           "lat": 20.11,
           "lon": -98.73
-        },
-        {
-          "id": "e9d00cd0",
-          "tipo": "bloqueo",
-          "ruta": "Transportistas anuncian paro nacional por crisis de inseguridad…",
-          "descripcion": "Transportistas anuncian paro nacional por crisis de inseguridad. Transportistas de carga anunciaron un paro nacional indefinido en México para exigir un alto a la inseguridad, extorsiones y malas condiciones en carreteras",
-          "recomendacion": "",
-          "fecha": "23 octubre 2026 · 14:32 CST",
-          "fecha_iso": "2026-10-23T14:32:00-06:00",
-          "fuente": "24 Horas",
-          "url": "https://24-horas.mx/mexico/transportistas-anuncian-paro-nacional-por-crisis-de-inseguridad/",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
         }
       ]
     },
@@ -69,6 +66,22 @@
       "label": "CIERRE PARCIAL / ACCIDENTES",
       "col2": true,
       "alertas": [
+        {
+          "id": "d1e10928",
+          "tipo": "cierre_parcial",
+          "ruta": "¿Qué pasó en la autopista Puebla-Acatzingo? Choque múltiple deja afectaciones…",
+          "descripcion": "¿Qué pasó en la autopista Puebla-Acatzingo? Choque múltiple deja afectaciones vehiculares; reporte EN VIVO - TV Azteca. ¿Qué pasó en la autopista Puebla-Acatzingo? Choque múltiple deja afectaciones vehiculares; reporte EN VIVO TV Azteca",
+          "recomendacion": "",
+          "fecha": "23 octubre 2026 · 21:00 CST",
+          "fecha_iso": "2026-10-23T21:00:00-06:00",
+          "fuente": "TV Azteca",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNd2xhS3JYVkFMdFFOSXBGdkhMYUJhRkFpdV9hMUdmNzNnMnFDYmdjMEN3STBrNWdUS19pNmVIaGxQdmhRTzNuNkVLQ3RkQktTTGNLOVF2aWtzZHJ6UVF0QXplVE9sRkQ0aHBGV0lSVkRUai1IS2JBejMzdllsNEZMalZ0eVBGWENEUm5vZlNfdU1tbkpNZ184eFlTQUFGZDh0NHZXNXA4dVNzYmdyQlN4ZWxHemFOOHPSAcQBQVVfeXFMTk5Ub2FFWWFraDdwRUcxYnlrSlVUdGpSREhmak5Ub1ZmaUVDelBERFM4UXhHc2dSX21FN19tcXlJdVJSamVzWHBBQ19WZVZFZjdDcXRfOEpZX1AwdEsyWUVXRExqdUNnNDA1cWcySXJhWlR6ZFE5TUw3WHF6OXBZZHZMLV9Xd2syOEJzWFFINlBIZmhjNDBmY3d6Y3NtNGdraTFpMmFGS21qa2l3T1dPYVI4VUl6aFkyZ2pZUDN5RnJ4YzU2Yg?oc=5",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 19.04,
+          "lon": -98.2
+        },
         {
           "id": "f57301b6",
           "tipo": "cierre_parcial",
@@ -87,6 +100,32 @@
     }
   ],
   "para_mapa": [
+    {
+      "id": "a1e31233",
+      "tipo": "cierre_total",
+      "ruta": "Volcadura de camión en Campeche de la GN deja 10…",
+      "descripcion": "Volcadura de camión en Campeche de la GN deja 10 elementos lesionados. Al menos 10 elementos de la Guardia Nacional resultaron lesionados tras la volcadura de un camión oficial en la carretera federal Mérida-Campeche",
+      "fecha": "23 octubre 2026 · 22:05 CST",
+      "fuente": "24 Horas",
+      "url": "https://24-horas.mx/estados/volcadura-de-camion-en-campeche-de-la-gn-deja-10-elementos-lesionados/",
+      "dot_color": "#e74c3c",
+      "badge_txt": "CIERRE TOTAL",
+      "lat": 19.83,
+      "lon": -90.53
+    },
+    {
+      "id": "d1e10928",
+      "tipo": "cierre_parcial",
+      "ruta": "¿Qué pasó en la autopista Puebla-Acatzingo? Choque múltiple deja afectaciones…",
+      "descripcion": "¿Qué pasó en la autopista Puebla-Acatzingo? Choque múltiple deja afectaciones vehiculares; reporte EN VIVO - TV Azteca. ¿Qué pasó en la autopista Puebla-Acatzingo? Choque múltiple deja afectaciones vehiculares; reporte EN VIVO TV Azteca",
+      "fecha": "23 octubre 2026 · 21:00 CST",
+      "fuente": "TV Azteca",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNd2xhS3JYVkFMdFFOSXBGdkhMYUJhRkFpdV9hMUdmNzNnMnFDYmdjMEN3STBrNWdUS19pNmVIaGxQdmhRTzNuNkVLQ3RkQktTTGNLOVF2aWtzZHJ6UVF0QXplVE9sRkQ0aHBGV0lSVkRUai1IS2JBejMzdllsNEZMalZ0eVBGWENEUm5vZlNfdU1tbkpNZ184eFlTQUFGZDh0NHZXNXA4dVNzYmdyQlN4ZWxHemFOOHPSAcQBQVVfeXFMTk5Ub2FFWWFraDdwRUcxYnlrSlVUdGpSREhmak5Ub1ZmaUVDelBERFM4UXhHc2dSX21FN19tcXlJdVJSamVzWHBBQ19WZVZFZjdDcXRfOEpZX1AwdEsyWUVXRExqdUNnNDA1cWcySXJhWlR6ZFE5TUw3WHF6OXBZZHZMLV9Xd2syOEJzWFFINlBIZmhjNDBmY3d6Y3NtNGdraTFpMmFGS21qa2l3T1dPYVI4VUl6aFkyZ2pZUDN5RnJ4YzU2Yg?oc=5",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 19.04,
+      "lon": -98.2
+    },
     {
       "id": "421d80aa",
       "tipo": "bloqueo",
