@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-10-24T15:20:01.770415-06:00",
-  "ultima_actualizacion_legible": "24 de octubre de 2026 · 15:20 CST",
-  "total": 4,
+  "ultima_actualizacion": "2026-10-24T17:29:22.040081-06:00",
+  "ultima_actualizacion_legible": "24 de octubre de 2026 · 17:29 CST",
+  "total": 6,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
@@ -17,20 +17,32 @@
       "col2": false,
       "alertas": [
         {
-          "id": "18c522b1",
+          "id": "99397095",
           "tipo": "bloqueo",
-          "ruta": "Libia García descarta bloqueos en Guanajuato; transportistas anuncian cortes viales…",
-          "descripcion": "Libia García descarta bloqueos en Guanajuato; transportistas anuncian cortes viales el lunes. Libia García descarta bloqueos en Guanajuato y transportistas anuncian cortes viales de hasta 40 minutos el 26 de octubre; campesinos preparan movilizaciones para el martes 27 en carreteras del estado.",
-          "recomendacion": "",
-          "fecha": "24 octubre 2026 · 13:58 CST",
-          "fecha_iso": "2026-10-24T13:58:00-06:00",
+          "ruta": "Segob abre diálogo con transportistas para evitar paro indefinido…",
+          "descripcion": "Segob abre diálogo con transportistas para evitar paro indefinido. La Canacar anunció un paro indefinido a partir del lunes 26 de octubre, en demanda de medidas para combatir la inseguridad, así como mejoras en las carreteras.",
+          "recomendacion": "evitar paro indefinido",
+          "fecha": "24 octubre 2026 · 16:28 CST",
+          "fecha_iso": "2026-10-24T16:28:00-06:00",
           "fuente": "AM Guanajuato",
-          "url": "https://www.am.com.mx/guanajuato/2026/10/24/libia-garcia-descarta-bloqueos-en-guanajuato-transportistas-anuncian-cortes-viales-el-lunes-1858364.html",
+          "url": "https://www.am.com.mx/nacional/2026/10/24/segob-abre-dialogo-con-transportistas-para-evitar-paro-indefinido-1858424.html",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 25.2,
-          "lon": -102.0
+          "badge_txt": "BLOQUEO"
+        },
+        {
+          "id": "7310ffc5",
+          "tipo": "bloqueo",
+          "ruta": "Ante megaparo de transportistas, Segob reitera petición de no afectar…",
+          "descripcion": "Ante megaparo de transportistas, Segob reitera petición de no afectar a la ciudadanía. Ante las malas condiciones de las autopistas, robos, extorsiones y asesinatos de conductores, la Canacar convocó a un megaparo de labores",
+          "recomendacion": "",
+          "fecha": "24 octubre 2026 · 16:20 CST",
+          "fecha_iso": "2026-10-24T16:20:00-06:00",
+          "fuente": "El Informador Jalisco",
+          "url": "https://www.informador.mx/mexico/megaparo-de-transportistas-segob-reitera-peticion-de-no-afectar-a-la-ciudadania-ante-la-inminente-movilizacion-20261024-0065.html",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
         },
         {
           "id": "e5aaddb3",
@@ -47,6 +59,20 @@
           "badge_txt": "BLOQUEO",
           "lat": 18.67,
           "lon": -99.1
+        },
+        {
+          "id": "06167a23",
+          "tipo": "bloqueo",
+          "ruta": "AMTAC se deslinda del paro indefinido de transportistas convocado para…",
+          "descripcion": "AMTAC se deslinda del paro indefinido de transportistas convocado para este lunes. La AMTAC dijo mantendrá la vía del diálogo con autoridades para atender reclamos como la inseguridad en las carreteras",
+          "recomendacion": "",
+          "fecha": "24 octubre 2026 · 11:30 CST",
+          "fecha_iso": "2026-10-24T11:30:00-06:00",
+          "fuente": "El Sol de Mexico",
+          "url": "https://oem.com.mx/elsoldemexico/mexico/amtac-se-deslinda-del-paro-indefinido-de-transportistas-convocado-para-este-lunes-32774664",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
         },
         {
           "id": "c156fa95",
@@ -91,19 +117,6 @@
     }
   ],
   "para_mapa": [
-    {
-      "id": "18c522b1",
-      "tipo": "bloqueo",
-      "ruta": "Libia García descarta bloqueos en Guanajuato; transportistas anuncian cortes viales…",
-      "descripcion": "Libia García descarta bloqueos en Guanajuato; transportistas anuncian cortes viales el lunes. Libia García descarta bloqueos en Guanajuato y transportistas anuncian cortes viales de hasta 40 minutos el 26 de octubre; campesinos preparan movilizaciones para el martes 27 en carreteras del estado.",
-      "fecha": "24 octubre 2026 · 13:58 CST",
-      "fuente": "AM Guanajuato",
-      "url": "https://www.am.com.mx/guanajuato/2026/10/24/libia-garcia-descarta-bloqueos-en-guanajuato-transportistas-anuncian-cortes-viales-el-lunes-1858364.html",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 25.2,
-      "lon": -102.0
-    },
     {
       "id": "e5aaddb3",
       "tipo": "bloqueo",
