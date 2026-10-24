@@ -1,10 +1,9 @@
 {
-  "ultima_actualizacion": "2026-10-23T18:01:08.394705-06:00",
-  "ultima_actualizacion_legible": "23 de octubre de 2026 · 18:01 CST",
-  "total": 5,
+  "ultima_actualizacion": "2026-10-23T21:51:30.554495-06:00",
+  "ultima_actualizacion_legible": "23 de octubre de 2026 · 21:51 CST",
+  "total": 4,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News",
     "Medios nacionales",
     "Medios regionales",
     "Quadratin + regionales"
@@ -18,20 +17,18 @@
       "col2": false,
       "alertas": [
         {
-          "id": "84e9f2bc",
+          "id": "c2f9bd43",
           "tipo": "bloqueo",
-          "ruta": "Paro de transportistas en Guanajuato: Anuncian cortes de circulación este…",
-          "descripcion": "Paro de transportistas en Guanajuato: Anuncian cortes de circulación este lunes. Una alianza de al menos seis organizaciones de transportistas en Guanajuato se sumarán al paro nacional convocado por ese sector para este lunes 26 de octubre a las 7 de la mañana.",
+          "ruta": "Transportistas anuncian fecha para nuevo paro nacional…",
+          "descripcion": "Transportistas anuncian fecha para nuevo paro nacional. La CANACAR convoca a una movilización indefinida a partir del próximo lunes 26 de octubre para exigir un alto a la inseguridad, robos y extorsiones en carreteras",
           "recomendacion": "",
-          "fecha": "23 octubre 2026 · 16:47 CST",
-          "fecha_iso": "2026-10-23T16:47:00-06:00",
-          "fuente": "AM Guanajuato",
-          "url": "https://www.am.com.mx/leon/2026/10/23/paro-de-transportistas-en-guanajuato-anuncian-cortes-de-circulacion-este-lunes-1858079.html",
+          "fecha": "23 octubre 2026 · 18:30 CST",
+          "fecha_iso": "2026-10-23T18:30:00-06:00",
+          "fuente": "El Informador Jalisco",
+          "url": "https://www.informador.mx/mexico/transportistas-anuncian-fecha-para-nuevo-paro-nacional-20261023-0165.html",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 21.02,
-          "lon": -101.26
+          "badge_txt": "BLOQUEO"
         },
         {
           "id": "421d80aa",
@@ -50,10 +47,10 @@
           "lon": -98.73
         },
         {
-          "id": "6680f4a1",
+          "id": "e9d00cd0",
           "tipo": "bloqueo",
           "ruta": "Transportistas anuncian paro nacional por crisis de inseguridad…",
-          "descripcion": "Transportistas anuncian paro nacional por crisis de inseguridad. Transportistas de carga anuncian un paro nacional indefinido en México para exigir un alto a la inseguridad, extorsiones y malas condiciones en carreteras",
+          "descripcion": "Transportistas anuncian paro nacional por crisis de inseguridad. Transportistas de carga anunciaron un paro nacional indefinido en México para exigir un alto a la inseguridad, extorsiones y malas condiciones en carreteras",
           "recomendacion": "",
           "fecha": "23 octubre 2026 · 14:32 CST",
           "fecha_iso": "2026-10-23T14:32:00-06:00",
@@ -62,52 +59,34 @@
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO"
-        },
+        }
+      ]
+    },
+    {
+      "tipo": "cierre_parcial",
+      "color": "amarillo",
+      "icono": "🟡",
+      "label": "CIERRE PARCIAL / ACCIDENTES",
+      "col2": true,
+      "alertas": [
         {
-          "id": "67ffce9b",
-          "tipo": "bloqueo",
-          "ruta": "Transportistas anuncian paro nacional por tiempo indefinido a partir del…",
-          "descripcion": "Transportistas anuncian paro nacional por tiempo indefinido a partir del lunes. Demandan mayor seguridad en carreteras además de que denuncian extorsiones, cobro de piso y vialidades deficientes",
+          "id": "f57301b6",
+          "tipo": "cierre_parcial",
+          "ruta": "Recuperan camioneta robada y detienen a joven de 25 años…",
+          "descripcion": "Recuperan camioneta robada y detienen a joven de 25 años en Tecámac. Frustran robo a transportista tras localizar una unidad de carga mediante cámaras de vigilancia; aseguran presunto inhibidor de señal.",
           "recomendacion": "",
-          "fecha": "23 octubre 2026 · 08:49 CST",
-          "fecha_iso": "2026-10-23T08:49:00-06:00",
-          "fuente": "El Sol de Mexico",
-          "url": "https://oem.com.mx/elsoldemexico/mexico/transportistas-anuncian-paro-nacional-por-tiempo-indefinido-a-partir-del-lunes-32754511",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        },
-        {
-          "id": "8a224453",
-          "tipo": "bloqueo",
-          "ruta": "Bloqueos carreteras HOY viernes 23 de octubre: autopistas cerradas en…",
-          "descripcion": "Bloqueos carreteras HOY viernes 23 de octubre: autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY viernes 23 de octubre: autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
-          "recomendacion": "",
-          "fecha": "23 octubre 2026 · 06:49 CST",
-          "fecha_iso": "2026-10-23T06:49:00-06:00",
-          "fuente": "Eje Central",
-          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPaUtLZ0hpalM2MjktN0xnUVhoZTgyWnMwMmpMNE1BdXkyVG80b1RyZU9wZkwzN0RWOVBhbVJXREFacXpZRWN4VkNtWm96WFNSWGJQanB1TWJMdFE5Ql9BaFZvQ1FlQmJMLXRiaHRmNnlsay1sWGp1MlpObTRyLVlWYWRCNzlLWlltQ1JzVFZRbE5tYUZ0UjdjWHhrVmFrT1lWdWlCUXAyV1F5d1hKY25wNWgzNDJiV3NlQlFiWVNRZTRJb012T2NRTmRLeklYd2xmdFQ5ZWdLajhiX3VSSVFOdHVUbnRUemZKZE1tdU83RVU4cDNG?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
+          "fecha": "23 octubre 2026 · 20:00 CST",
+          "fecha_iso": "2026-10-23T20:00:00-06:00",
+          "fuente": "Quadratin EdoMex",
+          "url": "https://edomex.quadratin.com.mx/recuperan-camioneta-robada-y-detienen-a-joven-de-25-anos-en-tecamac/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
         }
       ]
     }
   ],
   "para_mapa": [
-    {
-      "id": "84e9f2bc",
-      "tipo": "bloqueo",
-      "ruta": "Paro de transportistas en Guanajuato: Anuncian cortes de circulación este…",
-      "descripcion": "Paro de transportistas en Guanajuato: Anuncian cortes de circulación este lunes. Una alianza de al menos seis organizaciones de transportistas en Guanajuato se sumarán al paro nacional convocado por ese sector para este lunes 26 de octubre a las 7 de la mañana.",
-      "fecha": "23 octubre 2026 · 16:47 CST",
-      "fuente": "AM Guanajuato",
-      "url": "https://www.am.com.mx/leon/2026/10/23/paro-de-transportistas-en-guanajuato-anuncian-cortes-de-circulacion-este-lunes-1858079.html",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 21.02,
-      "lon": -101.26
-    },
     {
       "id": "421d80aa",
       "tipo": "bloqueo",
