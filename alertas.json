@@ -1,12 +1,11 @@
 {
-  "ultima_actualizacion": "2026-10-24T02:30:41.276968-06:00",
-  "ultima_actualizacion_legible": "24 de octubre de 2026 · 02:30 CST",
-  "total": 4,
+  "ultima_actualizacion": "2026-10-24T06:52:55.888821-06:00",
+  "ultima_actualizacion_legible": "24 de octubre de 2026 · 06:52 CST",
+  "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
-    "Medios nacionales",
-    "Quadratin + regionales"
+    "Medios nacionales"
   ],
   "grupos": [
     {
@@ -35,31 +34,6 @@
       ]
     },
     {
-      "tipo": "bloqueo",
-      "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "421d80aa",
-          "tipo": "bloqueo",
-          "ruta": "Transportistas de Hidalgo anuncian paro nacional ante falta de respuestas…",
-          "descripcion": "Transportistas de Hidalgo anuncian paro nacional ante falta de respuestas a sus demandas. Ante la falta de respuestas a sus demandas de seguridad, infraestructura carretera y reducción de las presiones. The post Transportistas de Hidalgo anuncian paro nacional ante falta de respuestas a sus demandas appeared first on Quadratin Hidalgo.",
-          "recomendacion": "",
-          "fecha": "23 octubre 2026 · 15:14 CST",
-          "fecha_iso": "2026-10-23T15:14:00-06:00",
-          "fuente": "Quadratin Hidalgo",
-          "url": "https://hidalgo.quadratin.com.mx/sucesos/transportistas-de-hidalgo-anuncian-paro-nacional-a-partir-del-lunes/",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 20.11,
-          "lon": -98.73
-        }
-      ]
-    },
-    {
       "tipo": "cierre_parcial",
       "color": "amarillo",
       "icono": "🟡",
@@ -81,20 +55,6 @@
           "badge_txt": "CIERRE PARCIAL",
           "lat": 19.04,
           "lon": -98.2
-        },
-        {
-          "id": "f57301b6",
-          "tipo": "cierre_parcial",
-          "ruta": "Recuperan camioneta robada y detienen a joven de 25 años…",
-          "descripcion": "Recuperan camioneta robada y detienen a joven de 25 años en Tecámac. Frustran robo a transportista tras localizar una unidad de carga mediante cámaras de vigilancia; aseguran presunto inhibidor de señal.",
-          "recomendacion": "",
-          "fecha": "23 octubre 2026 · 20:00 CST",
-          "fecha_iso": "2026-10-23T20:00:00-06:00",
-          "fuente": "Quadratin EdoMex",
-          "url": "https://edomex.quadratin.com.mx/recuperan-camioneta-robada-y-detienen-a-joven-de-25-anos-en-tecamac/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
         }
       ]
     }
@@ -125,19 +85,6 @@
       "badge_txt": "CIERRE PARCIAL",
       "lat": 19.04,
       "lon": -98.2
-    },
-    {
-      "id": "421d80aa",
-      "tipo": "bloqueo",
-      "ruta": "Transportistas de Hidalgo anuncian paro nacional ante falta de respuestas…",
-      "descripcion": "Transportistas de Hidalgo anuncian paro nacional ante falta de respuestas a sus demandas. Ante la falta de respuestas a sus demandas de seguridad, infraestructura carretera y reducción de las presiones. The post Transportistas de Hidalgo anuncian paro nacional ante falta de respuestas a sus demandas appeared first on Quadratin Hidalgo.",
-      "fecha": "23 octubre 2026 · 15:14 CST",
-      "fuente": "Quadratin Hidalgo",
-      "url": "https://hidalgo.quadratin.com.mx/sucesos/transportistas-de-hidalgo-anuncian-paro-nacional-a-partir-del-lunes/",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 20.11,
-      "lon": -98.73
     }
   ]
 }
