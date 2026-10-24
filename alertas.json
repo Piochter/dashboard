@@ -1,10 +1,11 @@
 {
-  "ultima_actualizacion": "2026-10-24T12:54:41.626264-06:00",
-  "ultima_actualizacion_legible": "24 de octubre de 2026 · 12:54 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-10-24T15:20:01.770415-06:00",
+  "ultima_actualizacion_legible": "24 de octubre de 2026 · 15:20 CST",
+  "total": 4,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
+    "Medios regionales",
     "Quadratin + regionales"
   ],
   "grupos": [
@@ -15,6 +16,22 @@
       "label": "BLOQUEOS / MANIFESTACIONES",
       "col2": false,
       "alertas": [
+        {
+          "id": "18c522b1",
+          "tipo": "bloqueo",
+          "ruta": "Libia García descarta bloqueos en Guanajuato; transportistas anuncian cortes viales…",
+          "descripcion": "Libia García descarta bloqueos en Guanajuato; transportistas anuncian cortes viales el lunes. Libia García descarta bloqueos en Guanajuato y transportistas anuncian cortes viales de hasta 40 minutos el 26 de octubre; campesinos preparan movilizaciones para el martes 27 en carreteras del estado.",
+          "recomendacion": "",
+          "fecha": "24 octubre 2026 · 13:58 CST",
+          "fecha_iso": "2026-10-24T13:58:00-06:00",
+          "fuente": "AM Guanajuato",
+          "url": "https://www.am.com.mx/guanajuato/2026/10/24/libia-garcia-descarta-bloqueos-en-guanajuato-transportistas-anuncian-cortes-viales-el-lunes-1858364.html",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 25.2,
+          "lon": -102.0
+        },
         {
           "id": "e5aaddb3",
           "tipo": "bloqueo",
@@ -55,25 +72,38 @@
       "col2": true,
       "alertas": [
         {
-          "id": "b80b2e73",
+          "id": "aeada332",
           "tipo": "cierre_parcial",
-          "ruta": "Provoca incendio en llantera afectación vial de un kilómetro en…",
-          "descripcion": "Provoca incendio en llantera afectación vial de un kilómetro en Toluca. El fuego movilizó a bomberos y servicios de emergencia, autoridades recomendaron evitar la Calzada del Pacífico.",
-          "recomendacion": "evitar la Calzada del Pacífico",
-          "fecha": "24 octubre 2026 · 09:30 CST",
-          "fecha_iso": "2026-10-24T09:30:00-06:00",
-          "fuente": "Quadratin EdoMex",
-          "url": "https://edomex.quadratin.com.mx/provoca-incendio-en-llantera-afectacion-vial-de-un-kilometro-en-toluca/",
+          "ruta": "Tráfico en CDMX hoy 24 de octubre: movilizaciones sociales y…",
+          "descripcion": "Tráfico en CDMX hoy 24 de octubre: movilizaciones sociales y accidentes afectan vialidades y carreteras - ContraRéplica. Tráfico en CDMX hoy 24 de octubre: movilizaciones sociales y accidentes afectan vialidades y carreteras ContraRéplica",
+          "recomendacion": "",
+          "fecha": "24 octubre 2026 · 10:14 CST",
+          "fecha_iso": "2026-10-24T10:14:00-06:00",
+          "fuente": "ContraRéplica",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTzlINC1iaUJHMjRFOHpsV29oTVNwalZsWFE0X1lyclR2dmhHMU90b1g5d0FPR2JzWDNhQzFORkI2SWxPOWEzR1llZE92NTQzX3AzVXMtQ3pha0ZjZEJZT0p0MWViazNZeWc5TFcySVFSSDc5UjloRkhCUzNyYXdIMHFmdExlSUhBYTJHX2tOc2JtcHEzeGdWOEIzVFdpdmNia09zdW1rS2Y5QS14a0VEWTcyOVlYdkdTQTU3M1RFUDNSRWk0RlhjX0kxN1hVVlcxZlJURXdiUzJzTlhlcm1zOWJUOGl5QQ?oc=5",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.29,
-          "lon": -99.66
+          "lat": 19.43,
+          "lon": -99.13
         }
       ]
     }
   ],
   "para_mapa": [
+    {
+      "id": "18c522b1",
+      "tipo": "bloqueo",
+      "ruta": "Libia García descarta bloqueos en Guanajuato; transportistas anuncian cortes viales…",
+      "descripcion": "Libia García descarta bloqueos en Guanajuato; transportistas anuncian cortes viales el lunes. Libia García descarta bloqueos en Guanajuato y transportistas anuncian cortes viales de hasta 40 minutos el 26 de octubre; campesinos preparan movilizaciones para el martes 27 en carreteras del estado.",
+      "fecha": "24 octubre 2026 · 13:58 CST",
+      "fuente": "AM Guanajuato",
+      "url": "https://www.am.com.mx/guanajuato/2026/10/24/libia-garcia-descarta-bloqueos-en-guanajuato-transportistas-anuncian-cortes-viales-el-lunes-1858364.html",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 25.2,
+      "lon": -102.0
+    },
     {
       "id": "e5aaddb3",
       "tipo": "bloqueo",
@@ -88,17 +118,17 @@
       "lon": -99.1
     },
     {
-      "id": "b80b2e73",
+      "id": "aeada332",
       "tipo": "cierre_parcial",
-      "ruta": "Provoca incendio en llantera afectación vial de un kilómetro en…",
-      "descripcion": "Provoca incendio en llantera afectación vial de un kilómetro en Toluca. El fuego movilizó a bomberos y servicios de emergencia, autoridades recomendaron evitar la Calzada del Pacífico.",
-      "fecha": "24 octubre 2026 · 09:30 CST",
-      "fuente": "Quadratin EdoMex",
-      "url": "https://edomex.quadratin.com.mx/provoca-incendio-en-llantera-afectacion-vial-de-un-kilometro-en-toluca/",
+      "ruta": "Tráfico en CDMX hoy 24 de octubre: movilizaciones sociales y…",
+      "descripcion": "Tráfico en CDMX hoy 24 de octubre: movilizaciones sociales y accidentes afectan vialidades y carreteras - ContraRéplica. Tráfico en CDMX hoy 24 de octubre: movilizaciones sociales y accidentes afectan vialidades y carreteras ContraRéplica",
+      "fecha": "24 octubre 2026 · 10:14 CST",
+      "fuente": "ContraRéplica",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTzlINC1iaUJHMjRFOHpsV29oTVNwalZsWFE0X1lyclR2dmhHMU90b1g5d0FPR2JzWDNhQzFORkI2SWxPOWEzR1llZE92NTQzX3AzVXMtQ3pha0ZjZEJZT0p0MWViazNZeWc5TFcySVFSSDc5UjloRkhCUzNyYXdIMHFmdExlSUhBYTJHX2tOc2JtcHEzeGdWOEIzVFdpdmNia09zdW1rS2Y5QS14a0VEWTcyOVlYdkdTQTU3M1RFUDNSRWk0RlhjX0kxN1hVVlcxZlJURXdiUzJzTlhlcm1zOWJUOGl5QQ?oc=5",
       "dot_color": "#e67e22",
       "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.29,
-      "lon": -99.66
+      "lat": 19.43,
+      "lon": -99.13
     }
   ]
 }
