@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-10-24T10:22:39.576517-06:00",
-  "ultima_actualizacion_legible": "24 de octubre de 2026 · 10:22 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-10-24T12:54:41.626264-06:00",
+  "ultima_actualizacion_legible": "24 de octubre de 2026 · 12:54 CST",
+  "total": 3,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
@@ -15,6 +15,22 @@
       "label": "BLOQUEOS / MANIFESTACIONES",
       "col2": false,
       "alertas": [
+        {
+          "id": "e5aaddb3",
+          "tipo": "bloqueo",
+          "ruta": "Se suman transportistas de Morelos a paro nacional indefinido…",
+          "descripcion": "Se suman transportistas de Morelos a paro nacional indefinido. El gremio protesta por inseguridad carretera, vías deterioradas y cobros excesivos en grúas y corralones.",
+          "recomendacion": "",
+          "fecha": "24 octubre 2026 · 12:46 CST",
+          "fecha_iso": "2026-10-24T12:46:00-06:00",
+          "fuente": "Quadratin Morelos",
+          "url": "https://morelos.quadratin.com.mx/se-suman-transportistas-de-morelos-a-paro-nacional-indefinido/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 18.67,
+          "lon": -99.1
+        },
         {
           "id": "c156fa95",
           "tipo": "bloqueo",
@@ -58,6 +74,19 @@
     }
   ],
   "para_mapa": [
+    {
+      "id": "e5aaddb3",
+      "tipo": "bloqueo",
+      "ruta": "Se suman transportistas de Morelos a paro nacional indefinido…",
+      "descripcion": "Se suman transportistas de Morelos a paro nacional indefinido. El gremio protesta por inseguridad carretera, vías deterioradas y cobros excesivos en grúas y corralones.",
+      "fecha": "24 octubre 2026 · 12:46 CST",
+      "fuente": "Quadratin Morelos",
+      "url": "https://morelos.quadratin.com.mx/se-suman-transportistas-de-morelos-a-paro-nacional-indefinido/",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 18.67,
+      "lon": -99.1
+    },
     {
       "id": "b80b2e73",
       "tipo": "cierre_parcial",
