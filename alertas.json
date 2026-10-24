@@ -1,6 +1,6 @@
 {
-  "ultima_actualizacion": "2026-10-23T15:41:12.332013-06:00",
-  "ultima_actualizacion_legible": "23 de octubre de 2026 · 15:41 CST",
+  "ultima_actualizacion": "2026-10-23T18:01:08.394705-06:00",
+  "ultima_actualizacion_legible": "23 de octubre de 2026 · 18:01 CST",
   "total": 5,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
@@ -17,6 +17,22 @@
       "label": "BLOQUEOS / MANIFESTACIONES",
       "col2": false,
       "alertas": [
+        {
+          "id": "84e9f2bc",
+          "tipo": "bloqueo",
+          "ruta": "Paro de transportistas en Guanajuato: Anuncian cortes de circulación este…",
+          "descripcion": "Paro de transportistas en Guanajuato: Anuncian cortes de circulación este lunes. Una alianza de al menos seis organizaciones de transportistas en Guanajuato se sumarán al paro nacional convocado por ese sector para este lunes 26 de octubre a las 7 de la mañana.",
+          "recomendacion": "",
+          "fecha": "23 octubre 2026 · 16:47 CST",
+          "fecha_iso": "2026-10-23T16:47:00-06:00",
+          "fuente": "AM Guanajuato",
+          "url": "https://www.am.com.mx/leon/2026/10/23/paro-de-transportistas-en-guanajuato-anuncian-cortes-de-circulacion-este-lunes-1858079.html",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 21.02,
+          "lon": -101.26
+        },
         {
           "id": "421d80aa",
           "tipo": "bloqueo",
@@ -76,34 +92,22 @@
           "badge_txt": "BLOQUEO"
         }
       ]
-    },
-    {
-      "tipo": "cierre_parcial",
-      "color": "amarillo",
-      "icono": "🟡",
-      "label": "CIERRE PARCIAL / ACCIDENTES",
-      "col2": true,
-      "alertas": [
-        {
-          "id": "f89e0b98",
-          "tipo": "cierre_parcial",
-          "ruta": "Roban tráiler en la México-Pachuca; conductor permanece desaparecido…",
-          "descripcion": "Roban tráiler en la México-Pachuca; conductor permanece desaparecido. Tras el presunto robo de un tractocamión sobre la autopista México-Pachuca. The post Roban tráiler en la México-Pachuca; conductor permanece desaparecido appeared first on Quadratin Hidalgo.",
-          "recomendacion": "",
-          "fecha": "23 octubre 2026 · 12:26 CST",
-          "fecha_iso": "2026-10-23T12:26:00-06:00",
-          "fuente": "Quadratin Hidalgo",
-          "url": "https://hidalgo.quadratin.com.mx/entretenimiento/seguridad/roban-trailer-en-la-mexico-pachuca-conductor-permanece-desaparecido/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 20.11,
-          "lon": -98.73
-        }
-      ]
     }
   ],
   "para_mapa": [
+    {
+      "id": "84e9f2bc",
+      "tipo": "bloqueo",
+      "ruta": "Paro de transportistas en Guanajuato: Anuncian cortes de circulación este…",
+      "descripcion": "Paro de transportistas en Guanajuato: Anuncian cortes de circulación este lunes. Una alianza de al menos seis organizaciones de transportistas en Guanajuato se sumarán al paro nacional convocado por ese sector para este lunes 26 de octubre a las 7 de la mañana.",
+      "fecha": "23 octubre 2026 · 16:47 CST",
+      "fuente": "AM Guanajuato",
+      "url": "https://www.am.com.mx/leon/2026/10/23/paro-de-transportistas-en-guanajuato-anuncian-cortes-de-circulacion-este-lunes-1858079.html",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 21.02,
+      "lon": -101.26
+    },
     {
       "id": "421d80aa",
       "tipo": "bloqueo",
@@ -114,19 +118,6 @@
       "url": "https://hidalgo.quadratin.com.mx/sucesos/transportistas-de-hidalgo-anuncian-paro-nacional-a-partir-del-lunes/",
       "dot_color": "#8e44ad",
       "badge_txt": "BLOQUEO",
-      "lat": 20.11,
-      "lon": -98.73
-    },
-    {
-      "id": "f89e0b98",
-      "tipo": "cierre_parcial",
-      "ruta": "Roban tráiler en la México-Pachuca; conductor permanece desaparecido…",
-      "descripcion": "Roban tráiler en la México-Pachuca; conductor permanece desaparecido. Tras el presunto robo de un tractocamión sobre la autopista México-Pachuca. The post Roban tráiler en la México-Pachuca; conductor permanece desaparecido appeared first on Quadratin Hidalgo.",
-      "fecha": "23 octubre 2026 · 12:26 CST",
-      "fuente": "Quadratin Hidalgo",
-      "url": "https://hidalgo.quadratin.com.mx/entretenimiento/seguridad/roban-trailer-en-la-mexico-pachuca-conductor-permanece-desaparecido/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
       "lat": 20.11,
       "lon": -98.73
     }
