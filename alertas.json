@@ -1,10 +1,10 @@
 {
-  "ultima_actualizacion": "2026-10-24T19:25:54.049146-06:00",
-  "ultima_actualizacion_legible": "24 de octubre de 2026 · 19:25 CST",
-  "total": 5,
+  "ultima_actualizacion": "2026-10-25T00:25:27.775512-06:00",
+  "ultima_actualizacion_legible": "25 de octubre de 2026 · 00:25 CST",
+  "total": 3,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News",
+    "Medios nacionales",
     "Medios regionales",
     "Quadratin + regionales"
   ],
@@ -17,15 +17,15 @@
       "col2": false,
       "alertas": [
         {
-          "id": "7310ffc5",
+          "id": "434724d8",
           "tipo": "bloqueo",
-          "ruta": "Ante megaparo de transportistas, Segob reitera petición de no afectar…",
-          "descripcion": "Ante megaparo de transportistas, Segob reitera petición de no afectar a la ciudadanía. Ante las malas condiciones de las autopistas, robos, extorsiones y asesinatos de conductores, la Canacar convocó a un megaparo de labores",
+          "ruta": "Organizaciones se desmarcan del paro de transportistas previsto para el…",
+          "descripcion": "Organizaciones se desmarcan del paro de transportistas previsto para el lunes. A días de la movilización del 26 de octubre, agrupaciones del autotransporte cuestionan la convocatoria, mientras concesionarios advierten posibles afectaciones en carreteras",
           "recomendacion": "",
-          "fecha": "24 octubre 2026 · 16:20 CST",
-          "fecha_iso": "2026-10-24T16:20:00-06:00",
-          "fuente": "El Informador Jalisco",
-          "url": "https://www.informador.mx/mexico/megaparo-de-transportistas-segob-reitera-peticion-de-no-afectar-a-la-ciudadania-ante-la-inminente-movilizacion-20261024-0065.html",
+          "fecha": "24 octubre 2026 · 20:48 CST",
+          "fecha_iso": "2026-10-24T20:48:00-06:00",
+          "fuente": "24 Horas",
+          "url": "https://24-horas.mx/estados/organizaciones-se-desmarcan-del-paro-de-transportistas-previsto-para-el-lunes/",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO"
@@ -59,34 +59,6 @@
           "badge_txt": "BLOQUEO",
           "lat": 18.67,
           "lon": -99.1
-        },
-        {
-          "id": "06167a23",
-          "tipo": "bloqueo",
-          "ruta": "AMTAC se deslinda del paro indefinido de transportistas convocado para…",
-          "descripcion": "AMTAC se deslinda del paro indefinido de transportistas convocado para este lunes. La AMTAC dijo mantendrá la vía del diálogo con autoridades para atender reclamos como la inseguridad en las carreteras",
-          "recomendacion": "",
-          "fecha": "24 octubre 2026 · 11:30 CST",
-          "fecha_iso": "2026-10-24T11:30:00-06:00",
-          "fuente": "El Sol de Mexico",
-          "url": "https://oem.com.mx/elsoldemexico/mexico/amtac-se-deslinda-del-paro-indefinido-de-transportistas-convocado-para-este-lunes-32774664",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        },
-        {
-          "id": "c156fa95",
-          "tipo": "bloqueo",
-          "ruta": "Bloqueos carreteras HOY sábado 24 de octubre: Autopistas cerradas en…",
-          "descripcion": "Bloqueos carreteras HOY sábado 24 de octubre: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY sábado 24 de octubre: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
-          "recomendacion": "",
-          "fecha": "24 octubre 2026 · 09:07 CST",
-          "fecha_iso": "2026-10-24T09:07:00-06:00",
-          "fuente": "Eje Central",
-          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNMld5N3lBaWRpa0xxQ080OHE5aksxZTFORlNIWTNLME55QTdiXzZvWWU3dkhVVW05U3lsOFQ1R2lzYWd2TDVCVVJNbVA4OGxra0dlWkdrSHU3MkV2UzNFcThBclNxbmRLQ2lMV1JIbWI0aFVDS2RHdk93Z01sS21oV3Y2WWFIb2dQeDh3VE5lYjVKZk4tVlZtZWg4cXU0Vm1rdEt2UlY3a29pODJUTkZ3N3ZtWlJkZmhOdjI1eThpRGt5UlVISE50bkhWVXVGVHd1UHVEVXM1Q3pBMkl3d2FfbjdzWk9NakMyS2IxR1lWS2JBT0U?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
         }
       ]
     }
