@@ -1,12 +1,38 @@
 {
-  "ultima_actualizacion": "2026-10-25T09:16:51.981877-06:00",
-  "ultima_actualizacion_legible": "25 de octubre de 2026 · 09:16 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-10-25T12:30:36.500305-06:00",
+  "ultima_actualizacion_legible": "25 de octubre de 2026 · 12:30 CST",
+  "total": 4,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News"
+    "Google News",
+    "Quadratin + regionales"
   ],
   "grupos": [
+    {
+      "tipo": "cierre_total",
+      "color": "rojo",
+      "icono": "🔴",
+      "label": "CIERRE TOTAL",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "439fdc27",
+          "tipo": "cierre_total",
+          "ruta": "autopista Toluca - Atlacomulco",
+          "descripcion": "Paraliza incendio de tráiler la autopista Toluca - Atlacomulco. El siniestro a la altura de San Bernabé provocó el cierre total hacia Ixtlahuaca y desató severo caos vehicular",
+          "recomendacion": "",
+          "fecha": "25 octubre 2026 · 10:55 CST",
+          "fecha_iso": "2026-10-25T10:55:00-06:00",
+          "fuente": "Quadratin EdoMex",
+          "url": "https://edomex.quadratin.com.mx/paraliza-incendio-de-trailer-la-autopista-toluca-atlacomulco-2/",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL",
+          "lat": 19.29,
+          "lon": -99.66
+        }
+      ]
+    },
     {
       "tipo": "bloqueo",
       "color": "rojo",
@@ -41,23 +67,46 @@
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO"
-        },
+        }
+      ]
+    },
+    {
+      "tipo": "cierre_parcial",
+      "color": "amarillo",
+      "icono": "🟡",
+      "label": "CIERRE PARCIAL / ACCIDENTES",
+      "col2": true,
+      "alertas": [
         {
-          "id": "befd7ca0",
-          "tipo": "bloqueo",
-          "ruta": "¿Cuáles serán las carreteras afectadas por el Paro Nacional de…",
-          "descripcion": "¿Cuáles serán las carreteras afectadas por el Paro Nacional de Transportistas? Te damos la lista completa de los posibles cierres - Facebook. ¿Cuáles serán las carreteras afectadas por el Paro Nacional de Transportistas? Te damos la lista completa de los posibles cierres Facebook",
+          "id": "cd8fcbb2",
+          "tipo": "cierre_parcial",
+          "ruta": "carretera de Zihuatanejo",
+          "descripcion": "Choque deja una mujer muerta y un lesionado en carretera de Zihuatanejo. El hecho, cerca de la localidad de Barrio Nuevo",
           "recomendacion": "",
-          "fecha": "25 octubre 2026 · 01:38 CST",
-          "fecha_iso": "2026-10-25T01:38:00-06:00",
-          "fuente": "Facebook",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOdVNvMFJma3d5VUpBV3RUcjVLSHZ2LWRlN3NGRDNReWdkS0RsQnNWX2dJZ2Q0THJoZ2xQTURrMUNzNzVEWENIV3VOYnAxWS04M0RNMV9aTDlyRkx5bFFpQm1XNTVTOTEzQzJKZHFLTENzYXpHLXU5VXpsbmNxdVh5NHhiRkJtVlpoQmZwRFJ6X0thbzZuZW9ZRERseEpHMTJ6YUJSdndZblMzeHNCUDlkRC11VjVsUW4wWUpuZHVvdVFUNFlDR3dhSEdnOGgteTFwaF8xZlFxMEdRNndJOGsybUI1Ry1FUmNB?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
+          "fecha": "25 octubre 2026 · 11:37 CST",
+          "fecha_iso": "2026-10-25T11:37:00-06:00",
+          "fuente": "Quadratin Guerrero",
+          "url": "https://guerrero.quadratin.com.mx/choque-deja-una-mujer-muerta-y-un-lesionado-en-carretera-de-zihuatanejo/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
         }
       ]
     }
   ],
-  "para_mapa": []
+  "para_mapa": [
+    {
+      "id": "439fdc27",
+      "tipo": "cierre_total",
+      "ruta": "autopista Toluca - Atlacomulco",
+      "descripcion": "Paraliza incendio de tráiler la autopista Toluca - Atlacomulco. El siniestro a la altura de San Bernabé provocó el cierre total hacia Ixtlahuaca y desató severo caos vehicular",
+      "fecha": "25 octubre 2026 · 10:55 CST",
+      "fuente": "Quadratin EdoMex",
+      "url": "https://edomex.quadratin.com.mx/paraliza-incendio-de-trailer-la-autopista-toluca-atlacomulco-2/",
+      "dot_color": "#e74c3c",
+      "badge_txt": "CIERRE TOTAL",
+      "lat": 19.29,
+      "lon": -99.66
+    }
+  ]
 }
