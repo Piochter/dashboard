@@ -1,11 +1,10 @@
 {
-  "ultima_actualizacion": "2026-10-25T05:52:48.737319-06:00",
-  "ultima_actualizacion_legible": "25 de octubre de 2026 · 05:52 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-10-25T09:16:51.981877-06:00",
+  "ultima_actualizacion_legible": "25 de octubre de 2026 · 09:16 CST",
+  "total": 3,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News",
-    "Medios nacionales"
+    "Google News"
   ],
   "grupos": [
     {
@@ -16,6 +15,34 @@
       "col2": false,
       "alertas": [
         {
+          "id": "34beef24",
+          "tipo": "bloqueo",
+          "ruta": "Bloqueos carreteras HOY domingo 25 de octubre: Autopistas cerradas en…",
+          "descripcion": "Bloqueos carreteras HOY domingo 25 de octubre: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY domingo 25 de octubre: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
+          "recomendacion": "",
+          "fecha": "25 octubre 2026 · 08:53 CST",
+          "fecha_iso": "2026-10-25T08:53:00-06:00",
+          "fuente": "Eje Central",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNazVpbGVKekxCMzlqZnBfNG5oZXJOTTBFOFotTWFaeDhDTWlGLVdHZFlTZDRHRHp1S3FlemRXcVdsd01XcGtiMHhPYnRnYlBEcFZsLU1ScjExSkluMldVSzQ4U0F5VnpPV2RMMU9iMV91cU5xc29rcklPaVpZY0lWYzQ5RFdGdjBnX0prS3h5b3VUMjZMN3g2S1V1OUhpMFI4RW8xWWYydk9zLUZIVmtGTnYxOWZmRndQNlh3YXZNNlBDYU8xMml2SjlUS0xwSHNGUF8ycVE4a3AyWWNYdzFFbkpIUzd0MWJfQm95b2hBbWp4dnZt?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
+        {
+          "id": "f73e835d",
+          "tipo": "bloqueo",
+          "ruta": "Bloqueos y Cierres en Carreteras Hoy 25 de Octubre 2026:…",
+          "descripcion": "Bloqueos y Cierres en Carreteras Hoy 25 de Octubre 2026: Así Está el Tránsito en las Autopistas - N+. Bloqueos y Cierres en Carreteras Hoy 25 de Octubre 2026: Así Está el Tránsito en las Autopistas N+",
+          "recomendacion": "",
+          "fecha": "25 octubre 2026 · 07:40 CST",
+          "fecha_iso": "2026-10-25T07:40:00-06:00",
+          "fuente": "N+",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOXp0dG5QUlVRd0lmYXhwRy1GdXVyRjU2d2c0TFk3SmtlcTZVaG1MNjMwNW52dTB6dVhkUkNIMGZERzJEWkdfdldzd2J2Q05od2VQdFlDSF92Um15al9ud2dBWjF1cVRZUUgxa3d0SnNSd0oyZ05rckpiZHRjY1Z2VmhtWDFHeEJlNUJJb0hxM0FTOHBrRGpoOV9QejZvbjJtc1VFQTF0R1hWQVU4UG5ueFg3dkZ4aTRSZ1E?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
+        {
           "id": "befd7ca0",
           "tipo": "bloqueo",
           "ruta": "¿Cuáles serán las carreteras afectadas por el Paro Nacional de…",
@@ -25,20 +52,6 @@
           "fecha_iso": "2026-10-25T01:38:00-06:00",
           "fuente": "Facebook",
           "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOdVNvMFJma3d5VUpBV3RUcjVLSHZ2LWRlN3NGRDNReWdkS0RsQnNWX2dJZ2Q0THJoZ2xQTURrMUNzNzVEWENIV3VOYnAxWS04M0RNMV9aTDlyRkx5bFFpQm1XNTVTOTEzQzJKZHFLTENzYXpHLXU5VXpsbmNxdVh5NHhiRkJtVlpoQmZwRFJ6X0thbzZuZW9ZRERseEpHMTJ6YUJSdndZblMzeHNCUDlkRC11VjVsUW4wWUpuZHVvdVFUNFlDR3dhSEdnOGgteTFwaF8xZlFxMEdRNndJOGsybUI1Ry1FUmNB?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        },
-        {
-          "id": "434724d8",
-          "tipo": "bloqueo",
-          "ruta": "Organizaciones se desmarcan del paro de transportistas previsto para el…",
-          "descripcion": "Organizaciones se desmarcan del paro de transportistas previsto para el lunes. A días de la movilización del 26 de octubre, agrupaciones del autotransporte cuestionan la convocatoria, mientras concesionarios advierten posibles afectaciones en carreteras",
-          "recomendacion": "",
-          "fecha": "24 octubre 2026 · 20:48 CST",
-          "fecha_iso": "2026-10-24T20:48:00-06:00",
-          "fuente": "24 Horas",
-          "url": "https://24-horas.mx/estados/organizaciones-se-desmarcan-del-paro-de-transportistas-previsto-para-el-lunes/",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO"
