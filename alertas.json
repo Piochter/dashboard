@@ -1,12 +1,11 @@
 {
-  "ultima_actualizacion": "2026-10-25T00:25:27.775512-06:00",
-  "ultima_actualizacion_legible": "25 de octubre de 2026 · 00:25 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-10-25T05:52:48.737319-06:00",
+  "ultima_actualizacion_legible": "25 de octubre de 2026 · 05:52 CST",
+  "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Medios nacionales",
-    "Medios regionales",
-    "Quadratin + regionales"
+    "Google News",
+    "Medios nacionales"
   ],
   "grupos": [
     {
@@ -16,6 +15,20 @@
       "label": "BLOQUEOS / MANIFESTACIONES",
       "col2": false,
       "alertas": [
+        {
+          "id": "befd7ca0",
+          "tipo": "bloqueo",
+          "ruta": "¿Cuáles serán las carreteras afectadas por el Paro Nacional de…",
+          "descripcion": "¿Cuáles serán las carreteras afectadas por el Paro Nacional de Transportistas? Te damos la lista completa de los posibles cierres - Facebook. ¿Cuáles serán las carreteras afectadas por el Paro Nacional de Transportistas? Te damos la lista completa de los posibles cierres Facebook",
+          "recomendacion": "",
+          "fecha": "25 octubre 2026 · 01:38 CST",
+          "fecha_iso": "2026-10-25T01:38:00-06:00",
+          "fuente": "Facebook",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOdVNvMFJma3d5VUpBV3RUcjVLSHZ2LWRlN3NGRDNReWdkS0RsQnNWX2dJZ2Q0THJoZ2xQTURrMUNzNzVEWENIV3VOYnAxWS04M0RNMV9aTDlyRkx5bFFpQm1XNTVTOTEzQzJKZHFLTENzYXpHLXU5VXpsbmNxdVh5NHhiRkJtVlpoQmZwRFJ6X0thbzZuZW9ZRERseEpHMTJ6YUJSdndZblMzeHNCUDlkRC11VjVsUW4wWUpuZHVvdVFUNFlDR3dhSEdnOGgteTFwaF8xZlFxMEdRNndJOGsybUI1Ry1FUmNB?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
         {
           "id": "434724d8",
           "tipo": "bloqueo",
@@ -29,53 +42,9 @@
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO"
-        },
-        {
-          "id": "f269ae8f",
-          "tipo": "bloqueo",
-          "ruta": "Ante anuncio de paro indefinido, Segob sostiene las vías de…",
-          "descripcion": "Ante anuncio de paro indefinido, Segob sostiene las vías de diálogo con autotransportistas. En respuesta al anuncio de los líderes del autotransporte, Gobernación informó que los canales siguen abiertos para atender las demandas",
-          "recomendacion": "",
-          "fecha": "24 octubre 2026 · 13:01 CST",
-          "fecha_iso": "2026-10-24T13:01:00-06:00",
-          "fuente": "El Sol de Mexico",
-          "url": "https://oem.com.mx/elsoldemexico/mexico/ante-anuncio-de-paro-indefinido-segob-sostiene-las-vias-de-dialogo-con-autotransportistas-32774767",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        },
-        {
-          "id": "e5aaddb3",
-          "tipo": "bloqueo",
-          "ruta": "Se suman transportistas de Morelos a paro nacional indefinido…",
-          "descripcion": "Se suman transportistas de Morelos a paro nacional indefinido. El gremio protesta por inseguridad carretera, vías deterioradas y cobros excesivos en grúas y corralones.",
-          "recomendacion": "",
-          "fecha": "24 octubre 2026 · 12:46 CST",
-          "fecha_iso": "2026-10-24T12:46:00-06:00",
-          "fuente": "Quadratin Morelos",
-          "url": "https://morelos.quadratin.com.mx/se-suman-transportistas-de-morelos-a-paro-nacional-indefinido/",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 18.67,
-          "lon": -99.1
         }
       ]
     }
   ],
-  "para_mapa": [
-    {
-      "id": "e5aaddb3",
-      "tipo": "bloqueo",
-      "ruta": "Se suman transportistas de Morelos a paro nacional indefinido…",
-      "descripcion": "Se suman transportistas de Morelos a paro nacional indefinido. El gremio protesta por inseguridad carretera, vías deterioradas y cobros excesivos en grúas y corralones.",
-      "fecha": "24 octubre 2026 · 12:46 CST",
-      "fuente": "Quadratin Morelos",
-      "url": "https://morelos.quadratin.com.mx/se-suman-transportistas-de-morelos-a-paro-nacional-indefinido/",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 18.67,
-      "lon": -99.1
-    }
-  ]
+  "para_mapa": []
 }
