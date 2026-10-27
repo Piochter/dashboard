@@ -1,12 +1,11 @@
 {
-  "ultima_actualizacion": "2026-10-26T16:59:37.484457-06:00",
-  "ultima_actualizacion_legible": "26 de octubre de 2026 · 16:59 CST",
-  "total": 9,
+  "ultima_actualizacion": "2026-10-26T19:51:04.702145-06:00",
+  "ultima_actualizacion_legible": "26 de octubre de 2026 · 19:51 CST",
+  "total": 4,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
     "Medios nacionales",
-    "Medios regionales",
     "Quadratin + regionales"
   ],
   "grupos": [
@@ -18,15 +17,15 @@
       "col2": false,
       "alertas": [
         {
-          "id": "613f3e98",
+          "id": "0aa50bf2",
           "tipo": "bloqueo",
-          "ruta": "Segob pide a transportistas evitar bloqueos carreteros que afecten a…",
-          "descripcion": "Segob pide a transportistas evitar bloqueos carreteros que afecten a la población. La dependencia señaló que los estados con mayor número de afectaciones en carreteras son Veracruz, Estado de México y Nuevo León",
-          "recomendacion": "evitar bloqueos carreteros que afecten a la población",
-          "fecha": "26 octubre 2026 · 14:15 CST",
-          "fecha_iso": "2026-10-26T14:15:00-06:00",
-          "fuente": "El Informador Jalisco",
-          "url": "https://www.informador.mx/mexico/segob-pide-a-transportistas-evitar-bloqueos-carreteros-que-afecten-a-la-poblacion-20261026-0107.html",
+          "ruta": "Gobierno de Veracruz respeta la libre manifestación: Rocío Nahle…",
+          "descripcion": "Gobierno de Veracruz respeta la libre manifestación: Rocío Nahle. La gobernadora de Veracruz pidió que las manifestaciones de la Canacar se desarrollen sin afectar la circulación The post Gobierno de Veracruz respeta la libre manifestación: Rocío Nahle appeared first on Quadratin Querétaro.",
+          "recomendacion": "",
+          "fecha": "26 octubre 2026 · 18:00 CST",
+          "fecha_iso": "2026-10-26T18:00:00-06:00",
+          "fuente": "Quadratin Queretaro",
+          "url": "https://queretaro.quadratin.com.mx/gobierno-de-veracruz-respeta-la-libre-manifestacion-rocio-nahle/",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO",
@@ -34,10 +33,26 @@
           "lon": -96.14
         },
         {
-          "id": "da4feb5c",
+          "id": "7d44217f",
           "tipo": "bloqueo",
-          "ruta": "Últimas noticias actualizadas EN VIVO del cierre de carreteras por…",
-          "descripcion": "Últimas noticias actualizadas EN VIVO del cierre de carreteras por el paro nacional de transportistas: ¿qué au - TV Azteca. Últimas noticias actualizadas EN VIVO del cierre de carreteras por el paro nacional de transportistas: ¿qué au TV Azteca",
+          "ruta": "🔴🚚 Transportistas del Estado de México han realizado bloqueos en…",
+          "descripcion": "🔴🚚 Transportistas del Estado de México han realizado bloqueos en las carreteras México-Toluca, a la altura de Plazas Outlet en el municipio de Lerma, y Toluca-Atlacomulco, en las inmediaciones de la caseta El Dorado, lo que ha provocado afectaciones a l - Facebook. 🔴🚚 Transportistas del Estado de México han realizado bloqueos en las carreteras México-Toluca, a la altura de Plazas Outlet en el municipio de Lerma, y Toluca-Atlacomulco, en las inmediaciones de la caseta El Dorado, lo que ha provoca",
+          "recomendacion": "",
+          "fecha": "26 octubre 2026 · 17:48 CST",
+          "fecha_iso": "2026-10-26T17:48:00-06:00",
+          "fuente": "Facebook",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxObUR6bmJXakRySF9RakZROWNyOWpRc0czZFM3NENVeDI5M1dFektMZTJiS21ibko3d1gteUUyOXR1aHVkZ0RNSVl6N2RMM1ZBdGtqdElXbF9ucmZwR0taTWhfaDF0bmlQUHpGRDA2eHQwbW1tMFZhUC13T2NiYmdCdW5INmhSMkVpTjcyTFNYRHN2MkM1S3dJc1FQLUZSbXd3dTBJY1JRZ0xHTjhhaXBkXzZ3bE9CY2FGd19TNTFuWk1oenQwVHFSU1VSdmJHU1pYTjJ4S1UwYWxkM1VRLWhoLU03bFAxQl9K?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 19.29,
+          "lon": -99.66
+        },
+        {
+          "id": "d4666f22",
+          "tipo": "bloqueo",
+          "ruta": "¡Ojo, automovilistas! Reportan 8 autopistas afectadas por bloqueos este lunes…",
+          "descripcion": "¡Ojo, automovilistas! Reportan 8 autopistas afectadas por bloqueos este lunes | EN VIVO - TV Azteca. ¡Ojo, automovilistas! Reportan 8 autopistas afectadas por bloqueos este lunes | EN VIVO TV Azteca",
           "recomendacion": "",
           "fecha": "26 octubre 2026 · 13:57 CST",
           "fecha_iso": "2026-10-26T13:57:00-06:00",
@@ -62,135 +77,36 @@
           "badge_txt": "BLOQUEO",
           "lat": 19.04,
           "lon": -98.2
-        },
-        {
-          "id": "be651440",
-          "tipo": "bloqueo",
-          "ruta": "carretera Zaragoza-Acuaco",
-          "descripcion": "Reportan bloqueo en carretera Zaragoza-Acuaco. Reportan bloqueo en carretera Zaragoza-Acuaco.",
-          "recomendacion": "",
-          "fecha": "26 octubre 2026 · 13:47 CST",
-          "fecha_iso": "2026-10-26T13:47:00-06:00",
-          "fuente": "Quadratin Puebla",
-          "url": "https://puebla.quadratin.com.mx/sucesos/reportan-bloqueo-en-carretera-zaragoza-acuaco/",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        },
-        {
-          "id": "1ceed529",
-          "tipo": "bloqueo",
-          "ruta": "Gobierno de Veracruz respeta la libre manifestación: Rocío Nahle…",
-          "descripcion": "Gobierno de Veracruz respeta la libre manifestación: Rocío Nahle. Acentuó que hay vigilancia permanente en las carreteras",
-          "recomendacion": "",
-          "fecha": "26 octubre 2026 · 11:33 CST",
-          "fecha_iso": "2026-10-26T11:33:00-06:00",
-          "fuente": "Quadratin Oaxaca",
-          "url": "https://oaxaca.quadratin.com.mx/gobierno-de-veracruz-respeta-la-libre-manifestacion-rocio-nahle/",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 19.18,
-          "lon": -96.14
-        },
-        {
-          "id": "2858165a",
-          "tipo": "bloqueo",
-          "ruta": "Paro de transportistas colapsa entradas y salidas a CDMX; la…",
-          "descripcion": "Paro de transportistas colapsa entradas y salidas a CDMX; la México-Pachuca y la México-Toluca, las más afectadas. Cuatro autopistas de acceso a la Ciudad de México están bloqueadas o con carriles reducidos debido al Paro Nacional de Transportistas",
-          "recomendacion": "",
-          "fecha": "26 octubre 2026 · 07:16 CST",
-          "fecha_iso": "2026-10-26T07:16:00-06:00",
-          "fuente": "El Sol de Mexico",
-          "url": "https://oem.com.mx/elsoldemexico/metropoli/paro-de-transportistas-colapsa-entradas-y-salidas-a-cdmx-la-mexico-pachuca-y-la-mexico-toluca-las-mas-afectadas-32804658",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 19.43,
-          "lon": -99.13
-        },
-        {
-          "id": "c9b0af88",
-          "tipo": "bloqueo",
-          "ruta": "Bloqueos carreteras HOY lunes 26 de octubre: Autopistas cerradas en…",
-          "descripcion": "Bloqueos carreteras HOY lunes 26 de octubre: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY lunes 26 de octubre: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
-          "recomendacion": "",
-          "fecha": "26 octubre 2026 · 07:14 CST",
-          "fecha_iso": "2026-10-26T07:14:00-06:00",
-          "fuente": "Eje Central",
-          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNSElPcVExaHp2VXNqUFlFM1dTMTBjVHh6b1ZnWDg5cTZDVnBQT1JuZTNZWFBNQmZLLUF4MXZFbVZmVWJLVXpuN2pDcW9ZOExnU1BxeExhZTZIY20yb1B2clB6dTRPeUFhY2hEc0pFaWZWcEJxWVc5RU1MUDJfNU9TZF9uczNhbDJ1N3pERVhMaFZfOVh3SjFuUEtoT1pKSkg2T05YOFVSMFg1dHQ5MUlmZEZEeFpaYXhzV1lPYk00aFB4VUhuT2V4MkhwVjF0SEZJelh6ZGdfUXJWSWtwUUJ5OTZnWkE1THVJS1B4cjFXckJ2QQ?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        },
-        {
-          "id": "31b87193",
-          "tipo": "bloqueo",
-          "ruta": "Bloqueos de transportistas hoy lunes 26 de octubre: lista de…",
-          "descripcion": "Bloqueos de transportistas hoy lunes 26 de octubre: lista de carreteras afectadas por paro nacional - Infobae. Bloqueos de transportistas hoy lunes 26 de octubre: lista de carreteras afectadas por paro nacional Infobae",
-          "recomendacion": "",
-          "fecha": "26 octubre 2026 · 05:04 CST",
-          "fecha_iso": "2026-10-26T05:04:00-06:00",
-          "fuente": "Infobae",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZURDU2JoN0c4bzByTWxzOVlocUZvQ2tnbXNuVUhSeVhLY2JfLWlNdlFUckRuNjNaaVdyS3I3Q0FGc1FYTUlWaWxCczdYRnlYRVBTcEJvNlBub2Z6N3hyUU1fZ3BkNmVwVW5mcWtwMFNQa2RyZVk0MUh5MUxBejk2QUFnZmNYVGRSNGc4LThHOVhEREtrUjlsM0UtWXRUelhnU1hvakR1cWtOaEI3azNJM2Z4aVg0YlZ4dGdpckpDZUJmYnd6X3N5MFZUMTJNajdLb1E0dDRyRnjSAfMBQVVfeXFMTXlqOVo1S2RfSzlVdXFxakRXUmdlWGZxV3NYMXhsZEJBdUszSzQ5Sk1hUjNzUGtZbDZycmp4dFpWVExMZEVlaFlVZ0ZvLWtxNjgxcm0tRFFkSEcxUXRzaTRma0tNRE5uWlZoQlVsU1kwRzFaZkZCU0tVaHpPdlFOTVdZOG1QMERCVVJaLXhNNGY3a19YblVQWEgxRVJydWp1dmdPZkVpV1Z3VjdYM1JBWl9vNG0tYjl3OXFZbVJ0OGhfVTRuME9WbWIwR1IyeUhIRUVaTFNnWHY1QS1ZbE0taDU0RUkyTnZKRFZ2X2syMW5XN0ZV?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        }
-      ]
-    },
-    {
-      "tipo": "cierre_parcial",
-      "color": "amarillo",
-      "icono": "🟡",
-      "label": "CIERRE PARCIAL / ACCIDENTES",
-      "col2": true,
-      "alertas": [
-        {
-          "id": "26bcdc7b",
-          "tipo": "cierre_parcial",
-          "ruta": "Hartazgo por asaltos y abusos moviliza a transportistas en Guanajuato;…",
-          "descripcion": "Hartazgo por asaltos y abusos moviliza a transportistas en Guanajuato; avanzan a vuelta de rueda. Parte de las inconformidades del sector autotransporte corresponden a la inseguridad en las carreteras del país, los altos costos de operación por el aumento a los precios de los combustibles y las condiciones en las que se mantienen las vías.",
-          "recomendacion": "",
-          "fecha": "26 octubre 2026 · 16:26 CST",
-          "fecha_iso": "2026-10-26T16:26:00-06:00",
-          "fuente": "AM Guanajuato",
-          "url": "https://www.am.com.mx/guanajuato/2026/10/26/manifestacion-de-transportistas-en-guanajuato-sin-bloqueos-1859098.html",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 21.02,
-          "lon": -101.26
         }
       ]
     }
   ],
   "para_mapa": [
     {
-      "id": "26bcdc7b",
-      "tipo": "cierre_parcial",
-      "ruta": "Hartazgo por asaltos y abusos moviliza a transportistas en Guanajuato;…",
-      "descripcion": "Hartazgo por asaltos y abusos moviliza a transportistas en Guanajuato; avanzan a vuelta de rueda. Parte de las inconformidades del sector autotransporte corresponden a la inseguridad en las carreteras del país, los altos costos de operación por el aumento a los precios de los combustibles y las condiciones en las que se mantienen las vías.",
-      "fecha": "26 octubre 2026 · 16:26 CST",
-      "fuente": "AM Guanajuato",
-      "url": "https://www.am.com.mx/guanajuato/2026/10/26/manifestacion-de-transportistas-en-guanajuato-sin-bloqueos-1859098.html",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 21.02,
-      "lon": -101.26
-    },
-    {
-      "id": "613f3e98",
+      "id": "0aa50bf2",
       "tipo": "bloqueo",
-      "ruta": "Segob pide a transportistas evitar bloqueos carreteros que afecten a…",
-      "descripcion": "Segob pide a transportistas evitar bloqueos carreteros que afecten a la población. La dependencia señaló que los estados con mayor número de afectaciones en carreteras son Veracruz, Estado de México y Nuevo León",
-      "fecha": "26 octubre 2026 · 14:15 CST",
-      "fuente": "El Informador Jalisco",
-      "url": "https://www.informador.mx/mexico/segob-pide-a-transportistas-evitar-bloqueos-carreteros-que-afecten-a-la-poblacion-20261026-0107.html",
+      "ruta": "Gobierno de Veracruz respeta la libre manifestación: Rocío Nahle…",
+      "descripcion": "Gobierno de Veracruz respeta la libre manifestación: Rocío Nahle. La gobernadora de Veracruz pidió que las manifestaciones de la Canacar se desarrollen sin afectar la circulación The post Gobierno de Veracruz respeta la libre manifestación: Rocío Nahle appeared first on Quadratin Querétaro.",
+      "fecha": "26 octubre 2026 · 18:00 CST",
+      "fuente": "Quadratin Queretaro",
+      "url": "https://queretaro.quadratin.com.mx/gobierno-de-veracruz-respeta-la-libre-manifestacion-rocio-nahle/",
       "dot_color": "#8e44ad",
       "badge_txt": "BLOQUEO",
       "lat": 19.18,
       "lon": -96.14
+    },
+    {
+      "id": "7d44217f",
+      "tipo": "bloqueo",
+      "ruta": "🔴🚚 Transportistas del Estado de México han realizado bloqueos en…",
+      "descripcion": "🔴🚚 Transportistas del Estado de México han realizado bloqueos en las carreteras México-Toluca, a la altura de Plazas Outlet en el municipio de Lerma, y Toluca-Atlacomulco, en las inmediaciones de la caseta El Dorado, lo que ha provocado afectaciones a l - Facebook. 🔴🚚 Transportistas del Estado de México han realizado bloqueos en las carreteras México-Toluca, a la altura de Plazas Outlet en el municipio de Lerma, y Toluca-Atlacomulco, en las inmediaciones de la caseta El Dorado, lo que ha provoca",
+      "fecha": "26 octubre 2026 · 17:48 CST",
+      "fuente": "Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxObUR6bmJXakRySF9RakZROWNyOWpRc0czZFM3NENVeDI5M1dFektMZTJiS21ibko3d1gteUUyOXR1aHVkZ0RNSVl6N2RMM1ZBdGtqdElXbF9ucmZwR0taTWhfaDF0bmlQUHpGRDA2eHQwbW1tMFZhUC13T2NiYmdCdW5INmhSMkVpTjcyTFNYRHN2MkM1S3dJc1FQLUZSbXd3dTBJY1JRZ0xHTjhhaXBkXzZ3bE9CY2FGd19TNTFuWk1oenQwVHFSU1VSdmJHU1pYTjJ4S1UwYWxkM1VRLWhoLU03bFAxQl9K?oc=5",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 19.29,
+      "lon": -99.66
     },
     {
       "id": "7736a3b8",
@@ -204,32 +120,6 @@
       "badge_txt": "BLOQUEO",
       "lat": 19.04,
       "lon": -98.2
-    },
-    {
-      "id": "1ceed529",
-      "tipo": "bloqueo",
-      "ruta": "Gobierno de Veracruz respeta la libre manifestación: Rocío Nahle…",
-      "descripcion": "Gobierno de Veracruz respeta la libre manifestación: Rocío Nahle. Acentuó que hay vigilancia permanente en las carreteras",
-      "fecha": "26 octubre 2026 · 11:33 CST",
-      "fuente": "Quadratin Oaxaca",
-      "url": "https://oaxaca.quadratin.com.mx/gobierno-de-veracruz-respeta-la-libre-manifestacion-rocio-nahle/",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 19.18,
-      "lon": -96.14
-    },
-    {
-      "id": "2858165a",
-      "tipo": "bloqueo",
-      "ruta": "Paro de transportistas colapsa entradas y salidas a CDMX; la…",
-      "descripcion": "Paro de transportistas colapsa entradas y salidas a CDMX; la México-Pachuca y la México-Toluca, las más afectadas. Cuatro autopistas de acceso a la Ciudad de México están bloqueadas o con carriles reducidos debido al Paro Nacional de Transportistas",
-      "fecha": "26 octubre 2026 · 07:16 CST",
-      "fuente": "El Sol de Mexico",
-      "url": "https://oem.com.mx/elsoldemexico/metropoli/paro-de-transportistas-colapsa-entradas-y-salidas-a-cdmx-la-mexico-pachuca-y-la-mexico-toluca-las-mas-afectadas-32804658",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 19.43,
-      "lon": -99.13
     }
   ]
 }
