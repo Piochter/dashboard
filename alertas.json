@@ -1,6 +1,6 @@
 {
-  "ultima_actualizacion": "2026-10-27T01:03:15.390842-06:00",
-  "ultima_actualizacion_legible": "27 de octubre de 2026 · 01:03 CST",
+  "ultima_actualizacion": "2026-10-27T07:10:35.262071-06:00",
+  "ultima_actualizacion_legible": "27 de octubre de 2026 · 07:10 CST",
   "total": 8,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
@@ -18,20 +18,48 @@
       "col2": false,
       "alertas": [
         {
-          "id": "7d44217f",
+          "id": "953c3430",
           "tipo": "bloqueo",
-          "ruta": "🔴🚚 Transportistas del Estado de México han realizado bloqueos en…",
-          "descripcion": "🔴🚚 Transportistas del Estado de México han realizado bloqueos en las carreteras México-Toluca, a la altura de Plazas Outlet en el municipio de Lerma, y Toluca-Atlacomulco, en las inmediaciones de la caseta El Dorado, lo que ha provocado afectaciones a l - Facebook. 🔴🚚 Transportistas del Estado de México han realizado bloqueos en las carreteras México-Toluca, a la altura de Plazas Outlet en el municipio de Lerma, y Toluca-Atlacomulco, en las inmediaciones de la caseta El Dorado, lo que ha provoca",
+          "ruta": "🚧 ¿Hay bloqueo en la #México-#Toluca hoy 27 de octubre?…",
+          "descripcion": "🚧 ¿Hay bloqueo en la #México-#Toluca hoy 27 de octubre? 👇\n\nhttps://lajornadaestadodemexico.com/bloqueo-en-la-mexico-toluca-hoy-27-de-octubre/",
           "recomendacion": "",
-          "fecha": "26 octubre 2026 · 23:18 CST",
-          "fecha_iso": "2026-10-26T23:18:00-06:00",
-          "fuente": "Facebook",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxObUR6bmJXakRySF9RakZROWNyOWpRc0czZFM3NENVeDI5M1dFektMZTJiS21ibko3d1gteUUyOXR1aHVkZ0RNSVl6N2RMM1ZBdGtqdElXbF9ucmZwR0taTWhfaDF0bmlQUHpGRDA2eHQwbW1tMFZhUC13T2NiYmdCdW5INmhSMkVpTjcyTFNYRHN2MkM1S3dJc1FQLUZSbXd3dTBJY1JRZ0xHTjhhaXBkXzZ3bE9CY2FGd19TNTFuWk1oenQwVHFSU1VSdmJHU1pYTjJ4S1UwYWxkM1VRLWhoLU03bFAxQl9K?oc=5",
+          "fecha": "27 octubre 2026 · 07:09 CST",
+          "fecha_iso": "2026-10-27T07:09:00-06:00",
+          "fuente": "Telegram @jornadaedomex",
+          "url": "https://t.me/jornadaedomex/12489",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO",
           "lat": 19.29,
           "lon": -99.66
+        },
+        {
+          "id": "8f0b83dd",
+          "tipo": "bloqueo",
+          "ruta": "Pese al diálogo con Segob, transportistas mantendrán hoy las protestas…",
+          "descripcion": "Pese al diálogo con Segob, transportistas mantendrán hoy las protestas en carreteras. Mientras el Gobierno federal busca encauzar las inconformidades mediante mesas de trabajo, las movilizaciones continuarán y podrían afectar el transporte de carga y la circulación vial",
+          "recomendacion": "",
+          "fecha": "27 octubre 2026 · 03:40 CST",
+          "fecha_iso": "2026-10-27T03:40:00-06:00",
+          "fuente": "El Informador Jalisco",
+          "url": "https://www.informador.mx/mexico/manifestaciones-pese-al-dialogo-con-segob-transportistas-mantendran-hoy-las-protestas-en-carreteras-20261027-0019.html",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
+        {
+          "id": "92e460fd",
+          "tipo": "bloqueo",
+          "ruta": "Transportistas protestan en 31 estados por baja en apoyo fiscal…",
+          "descripcion": "Transportistas protestan en 31 estados por baja en apoyo fiscal e inseguridad. Transportistas de las 31 entidades se manifestaron este lunes en autopistas y carreteras, donde realizaron plantones, bloqueos parciales y totales, en algunos casos, en rechazo a la reducción de 300 a 250 millones de pesos el tope máximo de ingresos anuales para acceder a un estímulo fiscal que permite deducir impuestos con el pago de peaje. Además, exigieron mayor seguridad en las vialidades, frenar los abusos en el ",
+          "recomendacion": "",
+          "fecha": "27 octubre 2026 · 01:40 CST",
+          "fecha_iso": "2026-10-27T01:40:00-06:00",
+          "fuente": "La Jornada Estados",
+          "url": "https://www.jornada.com.mx/2026/10/27/estados/029n1est?partner=rss",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
         },
         {
           "id": "899cde45",
@@ -48,22 +76,6 @@
           "badge_txt": "BLOQUEO",
           "lat": 19.29,
           "lon": -99.66
-        },
-        {
-          "id": "19bb0f6c",
-          "tipo": "bloqueo",
-          "ruta": "Continuará paro de transportistas mañana martes en tramos carreteros de…",
-          "descripcion": "Continuará paro de transportistas mañana martes en tramos carreteros de Jalisco. Se prevé que haya movilizaciones en dos puntos importantes de la Entidad; esto es lo que se sabe",
-          "recomendacion": "",
-          "fecha": "26 octubre 2026 · 21:05 CST",
-          "fecha_iso": "2026-10-26T21:05:00-06:00",
-          "fuente": "El Informador Jalisco",
-          "url": "https://www.informador.mx/jalisco/continuara-paro-de-transportistas-manana-martes-en-tramos-carreteros-de-jalisco-20261026-0179.html",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 20.66,
-          "lon": -103.35
         },
         {
           "id": "24b38f6c",
@@ -96,38 +108,6 @@
           "badge_txt": "BLOQUEO",
           "lat": 21.16,
           "lon": -86.85
-        },
-        {
-          "id": "f3551075",
-          "tipo": "bloqueo",
-          "ruta": "¡Caos vial por el Paro Nacional de Transportistas! Colapsan las…",
-          "descripcion": "¡Caos vial por el Paro Nacional de Transportistas! Colapsan las carreteras México-Toluca, México-Pachuca y Cha - TV Azteca. ¡Caos vial por el Paro Nacional de Transportistas! Colapsan las carreteras México-Toluca, México-Pachuca y Cha TV Azteca",
-          "recomendacion": "",
-          "fecha": "26 octubre 2026 · 19:45 CST",
-          "fecha_iso": "2026-10-26T19:45:00-06:00",
-          "fuente": "TV Azteca",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxONzA4dW1lVVdzdDVsdDZxdEd3WWM2WDVtY21PZmZOSkFDaWJON2lFdi1NcEk0em1IUG85WmxJT0hoNmU1UV9MSkZrU0hMRGxJOFY0T2tNbmZMa0FiZFl1SFdQYW81alg4SkZMWGhZeWZ2dmJHeGJ6U2stSGxrNWVHVEwwMTRzVng5WkdlczNrSWRoaFNEbkF4bWZlbi1yUFhMRFRtV3pHWHNtb2prVVlVVXlPaklDek5kUXZEN1FwdkUzeVgzTTZDYVI2NFBGcFVMaE9oZGpmTkxlYXloY2fSAesBQVVfeXFMUDI1M0ZUdktGelhJNExpVmpJNjFRb3JqWkdtNFNsdzRsMVVuTzFPaGVHMEo0UXJYbEp1cXdaN0R2cTVrOWw2T2VXd1dUYzAtSjdfMEtwZk1zTzl6cTROODVOdFRjT3FZVmI4ck0wZXVfMnhvYlVTV2MyNWl3SWk5S29hejVZVlZrNHVTUzY0UU5rMXhIMk9sdVVGTkc1YmZHWjh0Qk1NUDRaaW5fWkQxYXZpZXJSNmQ5aGVfQjFIdkkzUWhrMGttS21scnQzbVYwT0FjaEtWY09BUzMzSjZFY0tha18wZEplcTNUQQ?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 19.29,
-          "lon": -99.66
-        },
-        {
-          "id": "52b35029",
-          "tipo": "bloqueo",
-          "ruta": "Operadores de tractocamiones de carga reconocen abusos, extorsiones y cobro…",
-          "descripcion": "Operadores de tractocamiones de carga reconocen abusos, extorsiones y cobro de piso. La FITT y el SITRABICS señalaron que el paro realizado por transportes de carga no afectó el tráfico binacional en Tijuana y Mexicali no se afectó, manteniendo las Importaciones y exportaciones",
-          "recomendacion": "",
-          "fecha": "26 octubre 2026 · 16:18 CST",
-          "fecha_iso": "2026-10-26T16:18:00-06:00",
-          "fuente": "El Sol de Mexico",
-          "url": "https://oem.com.mx/elsoldemexico/finanzas/operadores-de-tractocamiones-de-carga-reconocen-abusos-extorsiones-y-cobro-de-piso-32805923",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 32.52,
-          "lon": -117.0
         }
       ]
     },
@@ -138,6 +118,22 @@
       "label": "CIERRE PARCIAL / ACCIDENTES",
       "col2": true,
       "alertas": [
+        {
+          "id": "f2c410e7",
+          "tipo": "cierre_parcial",
+          "ruta": "🚧 Tráiler se incendia tras choque en la #México-#Toluca, a…",
+          "descripcion": "🚧 Tráiler se incendia tras choque en la #México-#Toluca, a la altura de #Lerma [#VIDEO] 👇\nhttps://lajornadaestadodemexico.com/trailer-se-incendia-tras-choque-en-la-mexico-toluca-a-la-altura-de-lerma-video/",
+          "recomendacion": "",
+          "fecha": "27 octubre 2026 · 06:34 CST",
+          "fecha_iso": "2026-10-27T06:34:00-06:00",
+          "fuente": "Telegram @jornadaedomex",
+          "url": "https://t.me/jornadaedomex/12488",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 19.29,
+          "lon": -99.66
+        },
         {
           "id": "0470bd8d",
           "tipo": "cierre_parcial",
@@ -159,15 +155,28 @@
   ],
   "para_mapa": [
     {
-      "id": "7d44217f",
+      "id": "953c3430",
       "tipo": "bloqueo",
-      "ruta": "🔴🚚 Transportistas del Estado de México han realizado bloqueos en…",
-      "descripcion": "🔴🚚 Transportistas del Estado de México han realizado bloqueos en las carreteras México-Toluca, a la altura de Plazas Outlet en el municipio de Lerma, y Toluca-Atlacomulco, en las inmediaciones de la caseta El Dorado, lo que ha provocado afectaciones a l - Facebook. 🔴🚚 Transportistas del Estado de México han realizado bloqueos en las carreteras México-Toluca, a la altura de Plazas Outlet en el municipio de Lerma, y Toluca-Atlacomulco, en las inmediaciones de la caseta El Dorado, lo que ha provoca",
-      "fecha": "26 octubre 2026 · 23:18 CST",
-      "fuente": "Facebook",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxObUR6bmJXakRySF9RakZROWNyOWpRc0czZFM3NENVeDI5M1dFektMZTJiS21ibko3d1gteUUyOXR1aHVkZ0RNSVl6N2RMM1ZBdGtqdElXbF9ucmZwR0taTWhfaDF0bmlQUHpGRDA2eHQwbW1tMFZhUC13T2NiYmdCdW5INmhSMkVpTjcyTFNYRHN2MkM1S3dJc1FQLUZSbXd3dTBJY1JRZ0xHTjhhaXBkXzZ3bE9CY2FGd19TNTFuWk1oenQwVHFSU1VSdmJHU1pYTjJ4S1UwYWxkM1VRLWhoLU03bFAxQl9K?oc=5",
+      "ruta": "🚧 ¿Hay bloqueo en la #México-#Toluca hoy 27 de octubre?…",
+      "descripcion": "🚧 ¿Hay bloqueo en la #México-#Toluca hoy 27 de octubre? 👇\n\nhttps://lajornadaestadodemexico.com/bloqueo-en-la-mexico-toluca-hoy-27-de-octubre/",
+      "fecha": "27 octubre 2026 · 07:09 CST",
+      "fuente": "Telegram @jornadaedomex",
+      "url": "https://t.me/jornadaedomex/12489",
       "dot_color": "#8e44ad",
       "badge_txt": "BLOQUEO",
+      "lat": 19.29,
+      "lon": -99.66
+    },
+    {
+      "id": "f2c410e7",
+      "tipo": "cierre_parcial",
+      "ruta": "🚧 Tráiler se incendia tras choque en la #México-#Toluca, a…",
+      "descripcion": "🚧 Tráiler se incendia tras choque en la #México-#Toluca, a la altura de #Lerma [#VIDEO] 👇\nhttps://lajornadaestadodemexico.com/trailer-se-incendia-tras-choque-en-la-mexico-toluca-a-la-altura-de-lerma-video/",
+      "fecha": "27 octubre 2026 · 06:34 CST",
+      "fuente": "Telegram @jornadaedomex",
+      "url": "https://t.me/jornadaedomex/12488",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
       "lat": 19.29,
       "lon": -99.66
     },
@@ -183,19 +192,6 @@
       "badge_txt": "BLOQUEO",
       "lat": 19.29,
       "lon": -99.66
-    },
-    {
-      "id": "19bb0f6c",
-      "tipo": "bloqueo",
-      "ruta": "Continuará paro de transportistas mañana martes en tramos carreteros de…",
-      "descripcion": "Continuará paro de transportistas mañana martes en tramos carreteros de Jalisco. Se prevé que haya movilizaciones en dos puntos importantes de la Entidad; esto es lo que se sabe",
-      "fecha": "26 octubre 2026 · 21:05 CST",
-      "fuente": "El Informador Jalisco",
-      "url": "https://www.informador.mx/jalisco/continuara-paro-de-transportistas-manana-martes-en-tramos-carreteros-de-jalisco-20261026-0179.html",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 20.66,
-      "lon": -103.35
     },
     {
       "id": "0470bd8d",
@@ -235,32 +231,6 @@
       "badge_txt": "BLOQUEO",
       "lat": 21.16,
       "lon": -86.85
-    },
-    {
-      "id": "f3551075",
-      "tipo": "bloqueo",
-      "ruta": "¡Caos vial por el Paro Nacional de Transportistas! Colapsan las…",
-      "descripcion": "¡Caos vial por el Paro Nacional de Transportistas! Colapsan las carreteras México-Toluca, México-Pachuca y Cha - TV Azteca. ¡Caos vial por el Paro Nacional de Transportistas! Colapsan las carreteras México-Toluca, México-Pachuca y Cha TV Azteca",
-      "fecha": "26 octubre 2026 · 19:45 CST",
-      "fuente": "TV Azteca",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxONzA4dW1lVVdzdDVsdDZxdEd3WWM2WDVtY21PZmZOSkFDaWJON2lFdi1NcEk0em1IUG85WmxJT0hoNmU1UV9MSkZrU0hMRGxJOFY0T2tNbmZMa0FiZFl1SFdQYW81alg4SkZMWGhZeWZ2dmJHeGJ6U2stSGxrNWVHVEwwMTRzVng5WkdlczNrSWRoaFNEbkF4bWZlbi1yUFhMRFRtV3pHWHNtb2prVVlVVXlPaklDek5kUXZEN1FwdkUzeVgzTTZDYVI2NFBGcFVMaE9oZGpmTkxlYXloY2fSAesBQVVfeXFMUDI1M0ZUdktGelhJNExpVmpJNjFRb3JqWkdtNFNsdzRsMVVuTzFPaGVHMEo0UXJYbEp1cXdaN0R2cTVrOWw2T2VXd1dUYzAtSjdfMEtwZk1zTzl6cTROODVOdFRjT3FZVmI4ck0wZXVfMnhvYlVTV2MyNWl3SWk5S29hejVZVlZrNHVTUzY0UU5rMXhIMk9sdVVGTkc1YmZHWjh0Qk1NUDRaaW5fWkQxYXZpZXJSNmQ5aGVfQjFIdkkzUWhrMGttS21scnQzbVYwT0FjaEtWY09BUzMzSjZFY0tha18wZEplcTNUQQ?oc=5",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 19.29,
-      "lon": -99.66
-    },
-    {
-      "id": "52b35029",
-      "tipo": "bloqueo",
-      "ruta": "Operadores de tractocamiones de carga reconocen abusos, extorsiones y cobro…",
-      "descripcion": "Operadores de tractocamiones de carga reconocen abusos, extorsiones y cobro de piso. La FITT y el SITRABICS señalaron que el paro realizado por transportes de carga no afectó el tráfico binacional en Tijuana y Mexicali no se afectó, manteniendo las Importaciones y exportaciones",
-      "fecha": "26 octubre 2026 · 16:18 CST",
-      "fuente": "El Sol de Mexico",
-      "url": "https://oem.com.mx/elsoldemexico/finanzas/operadores-de-tractocamiones-de-carga-reconocen-abusos-extorsiones-y-cobro-de-piso-32805923",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 32.52,
-      "lon": -117.0
     }
   ]
 }
