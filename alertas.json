@@ -1,11 +1,12 @@
 {
-  "ultima_actualizacion": "2026-10-27T16:37:21.876140-06:00",
-  "ultima_actualizacion_legible": "27 de octubre de 2026 · 16:37 CST",
-  "total": 13,
+  "ultima_actualizacion": "2026-10-27T19:42:31.568147-06:00",
+  "ultima_actualizacion_legible": "27 de octubre de 2026 · 19:42 CST",
+  "total": 12,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
     "Medios nacionales",
+    "Medios regionales",
     "Quadratin + regionales",
     "Telegram"
   ],
@@ -32,22 +33,6 @@
           "badge_txt": "CIERRE TOTAL",
           "lat": 19.8,
           "lon": -99.1
-        },
-        {
-          "id": "0ae59bd1",
-          "tipo": "cierre_total",
-          "ruta": "Provoca volcadura de auto cierre en la México-Pachuca en Tizayuca…",
-          "descripcion": "Provoca volcadura de auto cierre en la México-Pachuca en Tizayuca. Cuerpos de socorro de Tizayuca atendieron el accidente vial que afortunadamente no dejó lesionados de gravedad",
-          "recomendacion": "",
-          "fecha": "27 octubre 2026 · 14:00 CST",
-          "fecha_iso": "2026-10-27T14:00:00-06:00",
-          "fuente": "Quadratin EdoMex",
-          "url": "https://edomex.quadratin.com.mx/provoca-volcadura-de-auto-cierre-en-la-mexico-pachuca-en-tizayuca/",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL",
-          "lat": 20.12,
-          "lon": -98.73
         }
       ]
     },
@@ -58,6 +43,22 @@
       "label": "BLOQUEOS / MANIFESTACIONES",
       "col2": false,
       "alertas": [
+        {
+          "id": "218220d6",
+          "tipo": "bloqueo",
+          "ruta": "Tráiler choca y se incendia durante bloqueo de transportistas en…",
+          "descripcion": "Tráiler choca y se incendia durante bloqueo de transportistas en la Toluca-México. El accidente provocó complicaciones viales ya que la carretera tuvo que ser cerrada en su totalidad en lo que bomberos atendían la emergencia",
+          "recomendacion": "",
+          "fecha": "27 octubre 2026 · 19:30 CST",
+          "fecha_iso": "2026-10-27T19:30:00-06:00",
+          "fuente": "El Informador Jalisco",
+          "url": "https://www.informador.mx/mexico/bloqueo-de-transportistas-trailer-choca-y-se-incendia-durante-manifestaciones-en-autopista-toluca-mexico-20261027-0162.html",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 19.29,
+          "lon": -99.66
+        },
         {
           "id": "8342a703",
           "tipo": "bloqueo",
@@ -143,36 +144,6 @@
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO"
-        },
-        {
-          "id": "953c3430",
-          "tipo": "bloqueo",
-          "ruta": "🚧 ¿Hay bloqueo en la #México-#Toluca hoy 27 de octubre?…",
-          "descripcion": "🚧 ¿Hay bloqueo en la #México-#Toluca hoy 27 de octubre? 👇\n\nhttps://lajornadaestadodemexico.com/bloqueo-en-la-mexico-toluca-hoy-27-de-octubre/",
-          "recomendacion": "",
-          "fecha": "27 octubre 2026 · 07:09 CST",
-          "fecha_iso": "2026-10-27T07:09:00-06:00",
-          "fuente": "Telegram @jornadaedomex",
-          "url": "https://t.me/jornadaedomex/12489",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 19.29,
-          "lon": -99.66
-        },
-        {
-          "id": "4afa80e7",
-          "tipo": "bloqueo",
-          "ruta": "Bloqueos carreteras HOY MARTES 27 de octubre: autopistas cerradas en…",
-          "descripcion": "Bloqueos carreteras HOY MARTES 27 de octubre: autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY MARTES 27 de octubre: autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
-          "recomendacion": "",
-          "fecha": "27 octubre 2026 · 06:58 CST",
-          "fecha_iso": "2026-10-27T06:58:00-06:00",
-          "fuente": "Eje Central",
-          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNZnJtakJMMlZlcUE5d090ME9yVkIycW9wY2wxR3dQbzN2Y1Z0Mk9pLXQzck9HSmgwOUJWSTltWU1lUDhmQWRCQlFNOHZra1pnb29vTHpFal9sYWVlTF9wa3VYdlhCUTVzUklsaU9iRHg2SlVhZS1TX2YxTlBhRGRVZWRkcWlKWXBQZDR3WTd4ZjIyOHpueUM1Y1gxbzVmZ05DNFczcUlPVFdYc0JFbFB2ZnZ0VWw1TjlzWmIyZVEwNmY3X1RYc25Ja3o3LWlLVTlnblZvRHVpRmRTSUpQeWNHVTVsWkxkSXYwV3pPYndhZVdGU28?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
         }
       ]
     },
@@ -209,6 +180,36 @@
       "col2": true,
       "alertas": [
         {
+          "id": "16fd9e25",
+          "tipo": "cierre_parcial",
+          "ruta": "Detienen a conductor con 29 mil litros de gasolina en…",
+          "descripcion": "Detienen a conductor con 29 mil litros de gasolina en Zempoala. ZEMPOALA, Hgo., 27 de octubre del 2026.- Elementos de la Secretaría de Seguridad Pública de Hidalgo (SSPH) aseguraron un tractocamión cargado con aproximadamente 29 mil litros de combustible de procedencia presuntamente ilícita y detuvieron al conductor de la unidad, tras atender un percance vial registrado sobre el bulevar Juárez, en la zona centro del municipio […] The post Detienen a conductor con 29 mil litros de gasolina en Zem",
+          "recomendacion": "",
+          "fecha": "27 octubre 2026 · 19:35 CST",
+          "fecha_iso": "2026-10-27T19:35:00-06:00",
+          "fuente": "Quadratin Hidalgo",
+          "url": "https://hidalgo.quadratin.com.mx/sucesos/detienen-a-conductor-con-29-mil-litros-de-gasolina-en-zempoala/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 20.11,
+          "lon": -98.73
+        },
+        {
+          "id": "1f64959c",
+          "tipo": "cierre_parcial",
+          "ruta": "Exige AMOTAC seguridad en carreteras federales; descarta fines políticos…",
+          "descripcion": "Exige AMOTAC seguridad en carreteras federales; descarta fines políticos. La movilización es un reclamo ente al cansancio por robos e inseguridad que enfrentan transportistas",
+          "recomendacion": "",
+          "fecha": "27 octubre 2026 · 18:30 CST",
+          "fecha_iso": "2026-10-27T18:30:00-06:00",
+          "fuente": "Quadratin Tabasco",
+          "url": "https://tabasco.quadratin.com.mx/sucesos/exige-amotac-seguridad-en-carreteras-federales-descarta-fines-politicos/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        },
+        {
           "id": "17f97998",
           "tipo": "cierre_parcial",
           "ruta": "🚘 Incendio de tres tráileres deja dos lesionados en la…",
@@ -223,27 +224,37 @@
           "badge_txt": "CIERRE PARCIAL",
           "lat": 19.29,
           "lon": -99.66
-        },
-        {
-          "id": "f2c410e7",
-          "tipo": "cierre_parcial",
-          "ruta": "🚧 Tráiler se incendia tras choque en la #México-#Toluca, a…",
-          "descripcion": "🚧 Tráiler se incendia tras choque en la #México-#Toluca, a la altura de #Lerma [#VIDEO] 👇\nhttps://lajornadaestadodemexico.com/trailer-se-incendia-tras-choque-en-la-mexico-toluca-a-la-altura-de-lerma-video/",
-          "recomendacion": "",
-          "fecha": "27 octubre 2026 · 06:34 CST",
-          "fecha_iso": "2026-10-27T06:34:00-06:00",
-          "fuente": "Telegram @jornadaedomex",
-          "url": "https://t.me/jornadaedomex/12488",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.29,
-          "lon": -99.66
         }
       ]
     }
   ],
   "para_mapa": [
+    {
+      "id": "16fd9e25",
+      "tipo": "cierre_parcial",
+      "ruta": "Detienen a conductor con 29 mil litros de gasolina en…",
+      "descripcion": "Detienen a conductor con 29 mil litros de gasolina en Zempoala. ZEMPOALA, Hgo., 27 de octubre del 2026.- Elementos de la Secretaría de Seguridad Pública de Hidalgo (SSPH) aseguraron un tractocamión cargado con aproximadamente 29 mil litros de combustible de procedencia presuntamente ilícita y detuvieron al conductor de la unidad, tras atender un percance vial registrado sobre el bulevar Juárez, en la zona centro del municipio […] The post Detienen a conductor con 29 mil litros de gasolina en Zem",
+      "fecha": "27 octubre 2026 · 19:35 CST",
+      "fuente": "Quadratin Hidalgo",
+      "url": "https://hidalgo.quadratin.com.mx/sucesos/detienen-a-conductor-con-29-mil-litros-de-gasolina-en-zempoala/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 20.11,
+      "lon": -98.73
+    },
+    {
+      "id": "218220d6",
+      "tipo": "bloqueo",
+      "ruta": "Tráiler choca y se incendia durante bloqueo de transportistas en…",
+      "descripcion": "Tráiler choca y se incendia durante bloqueo de transportistas en la Toluca-México. El accidente provocó complicaciones viales ya que la carretera tuvo que ser cerrada en su totalidad en lo que bomberos atendían la emergencia",
+      "fecha": "27 octubre 2026 · 19:30 CST",
+      "fuente": "El Informador Jalisco",
+      "url": "https://www.informador.mx/mexico/bloqueo-de-transportistas-trailer-choca-y-se-incendia-durante-manifestaciones-en-autopista-toluca-mexico-20261027-0162.html",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 19.29,
+      "lon": -99.66
+    },
     {
       "id": "91462020",
       "tipo": "cierre_total",
@@ -271,19 +282,6 @@
       "lon": -101.26
     },
     {
-      "id": "0ae59bd1",
-      "tipo": "cierre_total",
-      "ruta": "Provoca volcadura de auto cierre en la México-Pachuca en Tizayuca…",
-      "descripcion": "Provoca volcadura de auto cierre en la México-Pachuca en Tizayuca. Cuerpos de socorro de Tizayuca atendieron el accidente vial que afortunadamente no dejó lesionados de gravedad",
-      "fecha": "27 octubre 2026 · 14:00 CST",
-      "fuente": "Quadratin EdoMex",
-      "url": "https://edomex.quadratin.com.mx/provoca-volcadura-de-auto-cierre-en-la-mexico-pachuca-en-tizayuca/",
-      "dot_color": "#e74c3c",
-      "badge_txt": "CIERRE TOTAL",
-      "lat": 20.12,
-      "lon": -98.73
-    },
-    {
       "id": "fb0c7565",
       "tipo": "bloqueo",
       "ruta": "Carreteras de Guanajuato hoy: bloqueo total en la León-Silao -…",
@@ -304,32 +302,6 @@
       "fecha": "27 octubre 2026 · 08:20 CST",
       "fuente": "Telegram @jornadaedomex",
       "url": "https://t.me/jornadaedomex/12490",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.29,
-      "lon": -99.66
-    },
-    {
-      "id": "953c3430",
-      "tipo": "bloqueo",
-      "ruta": "🚧 ¿Hay bloqueo en la #México-#Toluca hoy 27 de octubre?…",
-      "descripcion": "🚧 ¿Hay bloqueo en la #México-#Toluca hoy 27 de octubre? 👇\n\nhttps://lajornadaestadodemexico.com/bloqueo-en-la-mexico-toluca-hoy-27-de-octubre/",
-      "fecha": "27 octubre 2026 · 07:09 CST",
-      "fuente": "Telegram @jornadaedomex",
-      "url": "https://t.me/jornadaedomex/12489",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 19.29,
-      "lon": -99.66
-    },
-    {
-      "id": "f2c410e7",
-      "tipo": "cierre_parcial",
-      "ruta": "🚧 Tráiler se incendia tras choque en la #México-#Toluca, a…",
-      "descripcion": "🚧 Tráiler se incendia tras choque en la #México-#Toluca, a la altura de #Lerma [#VIDEO] 👇\nhttps://lajornadaestadodemexico.com/trailer-se-incendia-tras-choque-en-la-mexico-toluca-a-la-altura-de-lerma-video/",
-      "fecha": "27 octubre 2026 · 06:34 CST",
-      "fuente": "Telegram @jornadaedomex",
-      "url": "https://t.me/jornadaedomex/12488",
       "dot_color": "#e67e22",
       "badge_txt": "CIERRE PARCIAL",
       "lat": 19.29,
