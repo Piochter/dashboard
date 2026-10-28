@@ -1,15 +1,37 @@
 {
-  "ultima_actualizacion": "2026-10-28T13:33:37.676052-06:00",
-  "ultima_actualizacion_legible": "28 de octubre de 2026 · 13:33 CST",
-  "total": 5,
+  "ultima_actualizacion": "2026-10-28T17:31:55.802931-06:00",
+  "ultima_actualizacion_legible": "28 de octubre de 2026 · 17:31 CST",
+  "total": 4,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
-    "Medios nacionales",
-    "Quadratin + regionales",
-    "Telegram"
+    "Medios regionales",
+    "Quadratin + regionales"
   ],
   "grupos": [
+    {
+      "tipo": "cierre_total",
+      "color": "rojo",
+      "icono": "🔴",
+      "label": "CIERRE TOTAL",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "1dee4bff",
+          "tipo": "cierre_total",
+          "ruta": "Derrumbe bloquea la carretera Autlán-Villa Purificación: tramo afectado y más…",
+          "descripcion": "Derrumbe bloquea la carretera Autlán-Villa Purificación: tramo afectado y más detalles. El bloqueo se registró en una zona ubicada entre las Regiones Sierra de Amula y Costa Sur; Protección Civil pide extremar precauciones",
+          "recomendacion": "",
+          "fecha": "28 octubre 2026 · 16:02 CST",
+          "fecha_iso": "2026-10-28T16:02:00-06:00",
+          "fuente": "El Informador Jalisco",
+          "url": "https://www.informador.mx/jalisco/derrumbe-bloquea-la-carretera-autlan-villa-purificacion-tramo-afectado-y-mas-detalles-20261028-0145.html",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL"
+        }
+      ]
+    },
     {
       "tipo": "bloqueo",
       "color": "rojo",
@@ -18,62 +40,34 @@
       "col2": false,
       "alertas": [
         {
-          "id": "4b9995e5",
+          "id": "f3e72fc1",
           "tipo": "bloqueo",
-          "ruta": "Tráfico en las autopistas de México hoy: Noticias sobre bloqueos…",
-          "descripcion": "Tráfico en las autopistas de México hoy: Noticias sobre bloqueos y accidentes EN VIVO este 28 de octubre - TV Azteca. Tráfico en las autopistas de México hoy: Noticias sobre bloqueos y accidentes EN VIVO este 28 de octubre TV Azteca",
+          "ruta": "Alertan por estos 15 BLOQUEOS en CARRETERAS y AUTOPISTAS para…",
+          "descripcion": "Alertan por estos 15 BLOQUEOS en CARRETERAS y AUTOPISTAS para este miércoles 28 de octubre de 2026 | EN VIVO - El Heraldo de México. Alertan por estos 15 BLOQUEOS en CARRETERAS y AUTOPISTAS para este miércoles 28 de octubre de 2026 | EN VIVO El Heraldo de México",
           "recomendacion": "",
-          "fecha": "28 octubre 2026 · 09:22 CST",
-          "fecha_iso": "2026-10-28T09:22:00-06:00",
-          "fuente": "TV Azteca",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNTjJmMVRxd20yOUtkNkJORlhEU0YxREhYQndoT2lhbG0yNVVINmRDQThzRTExaUUwV2R0MmthQTNYd3J0UTBLZEhmUkVoUVZNQWlIMlJGZnk3NEthTEpSNDBGaDRWNUhWZ2FLTm1CX1hKWXJHWHFqN0FCeTYyYVlBRThJVzNvTkt1aGR2RGJSaUt1MDdBTWpKa1hhc3lUbTBQSW93NEx1REp0bEdGUkZCMnJ5X1hfZWJJYUZhTExQQjVxVmFCWHJvWklMS0E1NkVoZ0MxUkEzeXcwWU5kckF1YWQ1V3d6QdIB5gFBVV95cUxNTjJmMVRxd20yOUtkNkJORlhEU0YxREhYQndoT2lhbG0yNVVINmRDQThzRTExaUUwV2R0MmthQTNYd3J0UTBLZEhmUkVoUVZNQWlIMlJGZnk3NEthTEpSNDBGaDRWNUhWZ2FLTm1CX1hKWXJHWHFqN0FCeTYyYVlBRThJVzNvTkt1aGR2RGJSaUt1MDdBTWpKa1hhc3lUbTBQSW93NEx1REp0bEdGUkZCMnJ5X1hfZWJJYUZhTExQQjVxVmFCWHJvWklMS0E1NkVoZ0MxUkEzeXcwWU5kckF1YWQ1V3d6QQ?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        },
-        {
-          "id": "20fc5307",
-          "tipo": "bloqueo",
-          "ruta": "Transportistas desactivan bloqueos tras acuerdos con Gobernación https://www.jornada.com.mx/2026/10/28/estados/025n1est?partner=rss Luego de…",
-          "descripcion": "Transportistas desactivan bloqueos tras acuerdos con Gobernación\nhttps://www.jornada.com.mx/2026/10/28/estados/025n1est?partner=rss\n\nLuego de las protestas que iniciaron el lunes pasado y colapsaron carreteras de todo el país durante 34 horas, la Secretaría de Gobernación (SG) alcanzó ayer un acuerdo con la Cámara Nacional del Autotransporte de Carga (Canacar), lo que desactivó las manifestaciones y bloqueos.",
-          "recomendacion": "",
-          "fecha": "28 octubre 2026 · 07:31 CST",
-          "fecha_iso": "2026-10-28T07:31:00-06:00",
-          "fuente": "Telegram @NOTMEX",
-          "url": "https://t.me/NOTMEX/186900",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        },
-        {
-          "id": "bddf305a",
-          "tipo": "bloqueo",
-          "ruta": "Transportistas desactivan bloqueos tras acuerdos con Gobernación…",
-          "descripcion": "Transportistas desactivan bloqueos tras acuerdos con Gobernación. Luego de las protestas que iniciaron el lunes pasado y colapsaron carreteras de todo el país durante 34 horas, la Secretaría de Gobernación (SG) alcanzó ayer un acuerdo con la Cámara Nacional del Autotransporte de Carga (Canacar), lo que desactivó las manifestaciones y bloqueos.",
-          "recomendacion": "",
-          "fecha": "28 octubre 2026 · 03:58 CST",
-          "fecha_iso": "2026-10-28T03:58:00-06:00",
-          "fuente": "La Jornada Estados",
-          "url": "https://www.jornada.com.mx/2026/10/28/estados/025n1est?partner=rss",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        },
-        {
-          "id": "8f2afce9",
-          "tipo": "bloqueo",
-          "ruta": "Tráiler choca contra dos unidades estacionadas por cierre en la…",
-          "descripcion": "Tráiler choca contra dos unidades estacionadas por cierre en la México-Toluca. Un tractocamión se impactó la madrugada de ayer contra dos unidades que se usaron para el bloqueo encabezado por la Cámara Nacional de Autotransporte de Carga (Canacar) antier en la vía México-Toluca, a la altura de Plazas Outlet, en el municipio mexiquense de Lerma.",
-          "recomendacion": "",
-          "fecha": "28 octubre 2026 · 03:58 CST",
-          "fecha_iso": "2026-10-28T03:58:00-06:00",
-          "fuente": "La Jornada Estados",
-          "url": "https://www.jornada.com.mx/2026/10/28/estados/026n2est?partner=rss",
+          "fecha": "28 octubre 2026 · 14:11 CST",
+          "fecha_iso": "2026-10-28T14:11:00-06:00",
+          "fuente": "El Heraldo de México",
+          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNTlpGYm43LThmQTJKZnNab2piQjBFUl9DU0lvN3dQZ3ZlbnhOWFlyc1I1OEFmVDhHSUc2SUREMGFIc043U3c4SHNhU1UxMzQtWTdMZkNlb3dJUkNzd1IxMkpiMFBmZ21kenFFUEFFRGhObTgweHVUenBGNEVQZThsRkVlWUpzeGlNS3BhTlBMd3FYZEhaSkJ4akpzcExjQVFVOFZndTVUSlVRZTdDLXl5MjVhLXRfVWVwV1d6OEdCUXdsZ1pjOGlqUldRbnBEMUUwbDNTbHdieGs1cUpzQ2wzTENYZHk5b2QxdnA2SHJqMGFsUHlQcnFhUnN0OA?oc=5",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO",
-          "lat": 19.29,
-          "lon": -99.66
+          "lat": 21.0,
+          "lon": -104.0
+        },
+        {
+          "id": "e05a15c9",
+          "tipo": "bloqueo",
+          "ruta": "Lista de Carreteras con Bloqueos Hoy 28 de Octubre 2026:…",
+          "descripcion": "Lista de Carreteras con Bloqueos Hoy 28 de Octubre 2026: ¿Dónde Hay Cierres, Según Capufe y GN? - N+. Lista de Carreteras con Bloqueos Hoy 28 de Octubre 2026: ¿Dónde Hay Cierres, Según Capufe y GN? N+",
+          "recomendacion": "",
+          "fecha": "28 octubre 2026 · 06:19 CST",
+          "fecha_iso": "2026-10-28T06:19:00-06:00",
+          "fuente": "N+",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQWN2WVBrZmo0VUZQTl9KSThFeTlOMGxpTnVEdjNmeVVKaVF5bjBvSndDUFhUR3ZYN3Q3TnQ4Q25wWHNuUnZjN3FsWUVyZ0RPeWJkT0Q0dEx5WG55azZnZFNvbjItUUg0ci1Fbk1CVlZyMlowUno5a1Bsanh4X1RqMF9SSHR1VEFjMy0xV3gwM0lMSEJyV0tRY3FOWHAweklVLXFlOVBTQmw1U3Y0VDhySUlLOU5PUnZaNUZINTljdw?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
         }
       ]
     },
@@ -105,6 +99,19 @@
   ],
   "para_mapa": [
     {
+      "id": "f3e72fc1",
+      "tipo": "bloqueo",
+      "ruta": "Alertan por estos 15 BLOQUEOS en CARRETERAS y AUTOPISTAS para…",
+      "descripcion": "Alertan por estos 15 BLOQUEOS en CARRETERAS y AUTOPISTAS para este miércoles 28 de octubre de 2026 | EN VIVO - El Heraldo de México. Alertan por estos 15 BLOQUEOS en CARRETERAS y AUTOPISTAS para este miércoles 28 de octubre de 2026 | EN VIVO El Heraldo de México",
+      "fecha": "28 octubre 2026 · 14:11 CST",
+      "fuente": "El Heraldo de México",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNTlpGYm43LThmQTJKZnNab2piQjBFUl9DU0lvN3dQZ3ZlbnhOWFlyc1I1OEFmVDhHSUc2SUREMGFIc043U3c4SHNhU1UxMzQtWTdMZkNlb3dJUkNzd1IxMkpiMFBmZ21kenFFUEFFRGhObTgweHVUenBGNEVQZThsRkVlWUpzeGlNS3BhTlBMd3FYZEhaSkJ4akpzcExjQVFVOFZndTVUSlVRZTdDLXl5MjVhLXRfVWVwV1d6OEdCUXdsZ1pjOGlqUldRbnBEMUUwbDNTbHdieGs1cUpzQ2wzTENYZHk5b2QxdnA2SHJqMGFsUHlQcnFhUnN0OA?oc=5",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 21.0,
+      "lon": -104.0
+    },
+    {
       "id": "e6079352",
       "tipo": "cierre_parcial",
       "ruta": "Vuelca tractocamión tras choque en Tula…",
@@ -116,19 +123,6 @@
       "badge_txt": "CIERRE PARCIAL",
       "lat": 19.8,
       "lon": -99.1
-    },
-    {
-      "id": "8f2afce9",
-      "tipo": "bloqueo",
-      "ruta": "Tráiler choca contra dos unidades estacionadas por cierre en la…",
-      "descripcion": "Tráiler choca contra dos unidades estacionadas por cierre en la México-Toluca. Un tractocamión se impactó la madrugada de ayer contra dos unidades que se usaron para el bloqueo encabezado por la Cámara Nacional de Autotransporte de Carga (Canacar) antier en la vía México-Toluca, a la altura de Plazas Outlet, en el municipio mexiquense de Lerma.",
-      "fecha": "28 octubre 2026 · 03:58 CST",
-      "fuente": "La Jornada Estados",
-      "url": "https://www.jornada.com.mx/2026/10/28/estados/026n2est?partner=rss",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 19.29,
-      "lon": -99.66
     }
   ]
 }
