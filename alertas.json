@@ -1,12 +1,13 @@
 {
-  "ultima_actualizacion": "2026-10-28T01:25:24.018697-06:00",
-  "ultima_actualizacion_legible": "28 de octubre de 2026 · 01:25 CST",
-  "total": 4,
+  "ultima_actualizacion": "2026-10-28T08:13:22.087204-06:00",
+  "ultima_actualizacion_legible": "28 de octubre de 2026 · 08:13 CST",
+  "total": 5,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News",
+    "Medios nacionales",
     "Medios regionales",
-    "Quadratin + regionales"
+    "Quadratin + regionales",
+    "Telegram"
   ],
   "grupos": [
     {
@@ -17,48 +18,62 @@
       "col2": false,
       "alertas": [
         {
-          "id": "218220d6",
+          "id": "20fc5307",
           "tipo": "bloqueo",
-          "ruta": "Tráiler choca y se incendia durante bloqueo de transportistas en…",
-          "descripcion": "Tráiler choca y se incendia durante bloqueo de transportistas en la Toluca-México. El accidente provocó complicaciones viales ya que la carretera tuvo que ser cerrada en su totalidad en lo que bomberos atendían la emergencia",
+          "ruta": "Transportistas desactivan bloqueos tras acuerdos con Gobernación https://www.jornada.com.mx/2026/10/28/estados/025n1est?partner=rss Luego de…",
+          "descripcion": "Transportistas desactivan bloqueos tras acuerdos con Gobernación\nhttps://www.jornada.com.mx/2026/10/28/estados/025n1est?partner=rss\n\nLuego de las protestas que iniciaron el lunes pasado y colapsaron carreteras de todo el país durante 34 horas, la Secretaría de Gobernación (SG) alcanzó ayer un acuerdo con la Cámara Nacional del Autotransporte de Carga (Canacar), lo que desactivó las manifestaciones y bloqueos.",
           "recomendacion": "",
-          "fecha": "27 octubre 2026 · 19:30 CST",
-          "fecha_iso": "2026-10-27T19:30:00-06:00",
-          "fuente": "El Informador Jalisco",
-          "url": "https://www.informador.mx/mexico/bloqueo-de-transportistas-trailer-choca-y-se-incendia-durante-manifestaciones-en-autopista-toluca-mexico-20261027-0162.html",
+          "fecha": "28 octubre 2026 · 07:31 CST",
+          "fecha_iso": "2026-10-28T07:31:00-06:00",
+          "fuente": "Telegram @NOTMEX",
+          "url": "https://t.me/NOTMEX/186900",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
+        {
+          "id": "a0631470",
+          "tipo": "bloqueo",
+          "ruta": "De política y cosas peores: transportistas…",
+          "descripcion": "De política y cosas peores: transportistas. Tienen razón los transportistas que protestan por el mal estado de las carreteras, llenas de baches por faltas de mantenimiento, seguramente a causa de la falta de recursos, destinados en buena parte a cubrir el enorme costo de las dádivas creadas por el jefe máximo para mantener la clientela electoral morenista y la popularidad del régimen.",
+          "recomendacion": "",
+          "fecha": "28 octubre 2026 · 06:00 CST",
+          "fecha_iso": "2026-10-28T06:00:00-06:00",
+          "fuente": "AM Guanajuato",
+          "url": "https://www.am.com.mx/opinion/2026/10/28/de-politica-y-cosas-peores-transportistas-1859786.html",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
+        {
+          "id": "bddf305a",
+          "tipo": "bloqueo",
+          "ruta": "Transportistas desactivan bloqueos tras acuerdos con Gobernación…",
+          "descripcion": "Transportistas desactivan bloqueos tras acuerdos con Gobernación. Luego de las protestas que iniciaron el lunes pasado y colapsaron carreteras de todo el país durante 34 horas, la Secretaría de Gobernación (SG) alcanzó ayer un acuerdo con la Cámara Nacional del Autotransporte de Carga (Canacar), lo que desactivó las manifestaciones y bloqueos.",
+          "recomendacion": "",
+          "fecha": "28 octubre 2026 · 03:58 CST",
+          "fecha_iso": "2026-10-28T03:58:00-06:00",
+          "fuente": "La Jornada Estados",
+          "url": "https://www.jornada.com.mx/2026/10/28/estados/025n1est?partner=rss",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
+        {
+          "id": "8f2afce9",
+          "tipo": "bloqueo",
+          "ruta": "Tráiler choca contra dos unidades estacionadas por cierre en la…",
+          "descripcion": "Tráiler choca contra dos unidades estacionadas por cierre en la México-Toluca. Un tractocamión se impactó la madrugada de ayer contra dos unidades que se usaron para el bloqueo encabezado por la Cámara Nacional de Autotransporte de Carga (Canacar) antier en la vía México-Toluca, a la altura de Plazas Outlet, en el municipio mexiquense de Lerma.",
+          "recomendacion": "",
+          "fecha": "28 octubre 2026 · 03:58 CST",
+          "fecha_iso": "2026-10-28T03:58:00-06:00",
+          "fuente": "La Jornada Estados",
+          "url": "https://www.jornada.com.mx/2026/10/28/estados/026n2est?partner=rss",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO",
           "lat": 19.29,
           "lon": -99.66
-        },
-        {
-          "id": "8342a703",
-          "tipo": "bloqueo",
-          "ruta": "Fin de los bloqueos de transportistas en México: qué acordaron…",
-          "descripcion": "Fin de los bloqueos de transportistas en México: qué acordaron con Segob y qué pasará con las protestas en carreteras - Eje Central. Fin de los bloqueos de transportistas en México: qué acordaron con Segob y qué pasará con las protestas en carreteras Eje Central",
-          "recomendacion": "",
-          "fecha": "27 octubre 2026 · 15:51 CST",
-          "fecha_iso": "2026-10-27T15:51:00-06:00",
-          "fuente": "Eje Central",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNYlhfTlpyUmNqX1dtRmlHVlQ4M2cwTDQxWTd1clRYakxTdXVqaWhfc25OWG5CbUpTZW1peWc3b1ByMWZsZnpXdjRCQ29iN2o1Yk4zZTRvLUY0dEI0dF9ucGI3ZXE4TFBzT29XLVFWeGNVdVY2eXhuSU5lZnhxeHpVTHdCbEZJR0JmbEZBQVFnd2lzeEs1cUJJV19sckkxcHkxeUR0bmlyS0pVRTBtRXRVMzAwRk1OOC1VOWxNSXJNU3MzUjZkZ25FYWFveDktdkZiSnBXSk9qWE91ZFIzV3MybEQ0aTZwRGZVcE0zN29xOA?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        },
-        {
-          "id": "0bae7553",
-          "tipo": "bloqueo",
-          "ruta": "Acuerdan Segob y Canacar retiro de bloqueos y mesas de…",
-          "descripcion": "Acuerdan Segob y Canacar retiro de bloqueos y mesas de diálogo. CIUDAD DE MÉXICO, 27 de octubre de 2026.- Luego de una reunión de trabajo entre la Secretaría de Gobernación (Segob) y representantes de la Cámara Nacional del Autotransporte de Carga (Canacar) y otras organizaciones del sector, se acordó realizar mesas de trabajo con las dependencias competentes. Tras escuchar sus planteamientos y establecer una ruta de […]",
-          "recomendacion": "",
-          "fecha": "27 octubre 2026 · 13:42 CST",
-          "fecha_iso": "2026-10-27T13:42:00-06:00",
-          "fuente": "Quadratin Morelos",
-          "url": "https://morelos.quadratin.com.mx/acuerdan-segob-y-canacar-retiro-de-bloqueos-y-mesas-de-dialogo/",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
         }
       ]
     },
@@ -70,46 +85,31 @@
       "col2": true,
       "alertas": [
         {
-          "id": "16fd9e25",
+          "id": "ad9b3f66",
           "tipo": "cierre_parcial",
-          "ruta": "Detienen a conductor con 29 mil litros de gasolina en…",
-          "descripcion": "Detienen a conductor con 29 mil litros de gasolina en Zempoala. ZEMPOALA, Hgo., 27 de octubre del 2026.- Elementos de la Secretaría de Seguridad Pública de Hidalgo (SSPH) aseguraron un tractocamión cargado con aproximadamente 29 mil litros de combustible de procedencia presuntamente ilícita y detuvieron al conductor de la unidad, tras atender un percance vial registrado sobre el bulevar Juárez, en la zona centro del municipio […] The post Detienen a conductor con 29 mil litros de gasolina en Zem",
+          "ruta": "Expresa Pedro Sánchez su consternación por choque de trenes en…",
+          "descripcion": "Expresa Pedro Sánchez su consternación por choque de trenes en Toledo. El accidente ocurrió la mañana de este miércoles en el tramo comprendido entre Mora, Orgaz y Urda",
           "recomendacion": "",
-          "fecha": "27 octubre 2026 · 19:35 CST",
-          "fecha_iso": "2026-10-27T19:35:00-06:00",
-          "fuente": "Quadratin Hidalgo",
-          "url": "https://hidalgo.quadratin.com.mx/sucesos/detienen-a-conductor-con-29-mil-litros-de-gasolina-en-zempoala/",
+          "fecha": "28 octubre 2026 · 06:50 CST",
+          "fecha_iso": "2026-10-28T06:50:00-06:00",
+          "fuente": "Quadratin Tabasco",
+          "url": "https://tabasco.quadratin.com.mx/internacional/expresa-pedro-sanchez-su-consternacion-por-choque-de-trenes-en-toledo/",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 20.11,
-          "lon": -98.73
+          "badge_txt": "CIERRE PARCIAL"
         }
       ]
     }
   ],
   "para_mapa": [
     {
-      "id": "16fd9e25",
-      "tipo": "cierre_parcial",
-      "ruta": "Detienen a conductor con 29 mil litros de gasolina en…",
-      "descripcion": "Detienen a conductor con 29 mil litros de gasolina en Zempoala. ZEMPOALA, Hgo., 27 de octubre del 2026.- Elementos de la Secretaría de Seguridad Pública de Hidalgo (SSPH) aseguraron un tractocamión cargado con aproximadamente 29 mil litros de combustible de procedencia presuntamente ilícita y detuvieron al conductor de la unidad, tras atender un percance vial registrado sobre el bulevar Juárez, en la zona centro del municipio […] The post Detienen a conductor con 29 mil litros de gasolina en Zem",
-      "fecha": "27 octubre 2026 · 19:35 CST",
-      "fuente": "Quadratin Hidalgo",
-      "url": "https://hidalgo.quadratin.com.mx/sucesos/detienen-a-conductor-con-29-mil-litros-de-gasolina-en-zempoala/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 20.11,
-      "lon": -98.73
-    },
-    {
-      "id": "218220d6",
+      "id": "8f2afce9",
       "tipo": "bloqueo",
-      "ruta": "Tráiler choca y se incendia durante bloqueo de transportistas en…",
-      "descripcion": "Tráiler choca y se incendia durante bloqueo de transportistas en la Toluca-México. El accidente provocó complicaciones viales ya que la carretera tuvo que ser cerrada en su totalidad en lo que bomberos atendían la emergencia",
-      "fecha": "27 octubre 2026 · 19:30 CST",
-      "fuente": "El Informador Jalisco",
-      "url": "https://www.informador.mx/mexico/bloqueo-de-transportistas-trailer-choca-y-se-incendia-durante-manifestaciones-en-autopista-toluca-mexico-20261027-0162.html",
+      "ruta": "Tráiler choca contra dos unidades estacionadas por cierre en la…",
+      "descripcion": "Tráiler choca contra dos unidades estacionadas por cierre en la México-Toluca. Un tractocamión se impactó la madrugada de ayer contra dos unidades que se usaron para el bloqueo encabezado por la Cámara Nacional de Autotransporte de Carga (Canacar) antier en la vía México-Toluca, a la altura de Plazas Outlet, en el municipio mexiquense de Lerma.",
+      "fecha": "28 octubre 2026 · 03:58 CST",
+      "fuente": "La Jornada Estados",
+      "url": "https://www.jornada.com.mx/2026/10/28/estados/026n2est?partner=rss",
       "dot_color": "#8e44ad",
       "badge_txt": "BLOQUEO",
       "lat": 19.29,
