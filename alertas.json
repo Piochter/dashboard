@@ -1,11 +1,11 @@
 {
-  "ultima_actualizacion": "2026-10-28T08:13:22.087204-06:00",
-  "ultima_actualizacion_legible": "28 de octubre de 2026 · 08:13 CST",
+  "ultima_actualizacion": "2026-10-28T13:33:37.676052-06:00",
+  "ultima_actualizacion_legible": "28 de octubre de 2026 · 13:33 CST",
   "total": 5,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
+    "Google News",
     "Medios nacionales",
-    "Medios regionales",
     "Quadratin + regionales",
     "Telegram"
   ],
@@ -18,6 +18,20 @@
       "col2": false,
       "alertas": [
         {
+          "id": "4b9995e5",
+          "tipo": "bloqueo",
+          "ruta": "Tráfico en las autopistas de México hoy: Noticias sobre bloqueos…",
+          "descripcion": "Tráfico en las autopistas de México hoy: Noticias sobre bloqueos y accidentes EN VIVO este 28 de octubre - TV Azteca. Tráfico en las autopistas de México hoy: Noticias sobre bloqueos y accidentes EN VIVO este 28 de octubre TV Azteca",
+          "recomendacion": "",
+          "fecha": "28 octubre 2026 · 09:22 CST",
+          "fecha_iso": "2026-10-28T09:22:00-06:00",
+          "fuente": "TV Azteca",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNTjJmMVRxd20yOUtkNkJORlhEU0YxREhYQndoT2lhbG0yNVVINmRDQThzRTExaUUwV2R0MmthQTNYd3J0UTBLZEhmUkVoUVZNQWlIMlJGZnk3NEthTEpSNDBGaDRWNUhWZ2FLTm1CX1hKWXJHWHFqN0FCeTYyYVlBRThJVzNvTkt1aGR2RGJSaUt1MDdBTWpKa1hhc3lUbTBQSW93NEx1REp0bEdGUkZCMnJ5X1hfZWJJYUZhTExQQjVxVmFCWHJvWklMS0E1NkVoZ0MxUkEzeXcwWU5kckF1YWQ1V3d6QdIB5gFBVV95cUxNTjJmMVRxd20yOUtkNkJORlhEU0YxREhYQndoT2lhbG0yNVVINmRDQThzRTExaUUwV2R0MmthQTNYd3J0UTBLZEhmUkVoUVZNQWlIMlJGZnk3NEthTEpSNDBGaDRWNUhWZ2FLTm1CX1hKWXJHWHFqN0FCeTYyYVlBRThJVzNvTkt1aGR2RGJSaUt1MDdBTWpKa1hhc3lUbTBQSW93NEx1REp0bEdGUkZCMnJ5X1hfZWJJYUZhTExQQjVxVmFCWHJvWklMS0E1NkVoZ0MxUkEzeXcwWU5kckF1YWQ1V3d6QQ?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
+        {
           "id": "20fc5307",
           "tipo": "bloqueo",
           "ruta": "Transportistas desactivan bloqueos tras acuerdos con Gobernación https://www.jornada.com.mx/2026/10/28/estados/025n1est?partner=rss Luego de…",
@@ -27,20 +41,6 @@
           "fecha_iso": "2026-10-28T07:31:00-06:00",
           "fuente": "Telegram @NOTMEX",
           "url": "https://t.me/NOTMEX/186900",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        },
-        {
-          "id": "a0631470",
-          "tipo": "bloqueo",
-          "ruta": "De política y cosas peores: transportistas…",
-          "descripcion": "De política y cosas peores: transportistas. Tienen razón los transportistas que protestan por el mal estado de las carreteras, llenas de baches por faltas de mantenimiento, seguramente a causa de la falta de recursos, destinados en buena parte a cubrir el enorme costo de las dádivas creadas por el jefe máximo para mantener la clientela electoral morenista y la popularidad del régimen.",
-          "recomendacion": "",
-          "fecha": "28 octubre 2026 · 06:00 CST",
-          "fecha_iso": "2026-10-28T06:00:00-06:00",
-          "fuente": "AM Guanajuato",
-          "url": "https://www.am.com.mx/opinion/2026/10/28/de-politica-y-cosas-peores-transportistas-1859786.html",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO"
@@ -85,23 +85,38 @@
       "col2": true,
       "alertas": [
         {
-          "id": "ad9b3f66",
+          "id": "e6079352",
           "tipo": "cierre_parcial",
-          "ruta": "Expresa Pedro Sánchez su consternación por choque de trenes en…",
-          "descripcion": "Expresa Pedro Sánchez su consternación por choque de trenes en Toledo. El accidente ocurrió la mañana de este miércoles en el tramo comprendido entre Mora, Orgaz y Urda",
+          "ruta": "Vuelca tractocamión tras choque en Tula…",
+          "descripcion": "Vuelca tractocamión tras choque en Tula. En la autopista Arco Norte. The post Vuelca tractocamión tras choque en Tula appeared first on Quadratin Hidalgo.",
           "recomendacion": "",
-          "fecha": "28 octubre 2026 · 06:50 CST",
-          "fecha_iso": "2026-10-28T06:50:00-06:00",
-          "fuente": "Quadratin Tabasco",
-          "url": "https://tabasco.quadratin.com.mx/internacional/expresa-pedro-sanchez-su-consternacion-por-choque-de-trenes-en-toledo/",
+          "fecha": "28 octubre 2026 · 10:57 CST",
+          "fecha_iso": "2026-10-28T10:57:00-06:00",
+          "fuente": "Quadratin Hidalgo",
+          "url": "https://hidalgo.quadratin.com.mx/municipios/vuelca-tractocamion-tras-choque-en-tula/",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 19.8,
+          "lon": -99.1
         }
       ]
     }
   ],
   "para_mapa": [
+    {
+      "id": "e6079352",
+      "tipo": "cierre_parcial",
+      "ruta": "Vuelca tractocamión tras choque en Tula…",
+      "descripcion": "Vuelca tractocamión tras choque en Tula. En la autopista Arco Norte. The post Vuelca tractocamión tras choque en Tula appeared first on Quadratin Hidalgo.",
+      "fecha": "28 octubre 2026 · 10:57 CST",
+      "fuente": "Quadratin Hidalgo",
+      "url": "https://hidalgo.quadratin.com.mx/municipios/vuelca-tractocamion-tras-choque-en-tula/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 19.8,
+      "lon": -99.1
+    },
     {
       "id": "8f2afce9",
       "tipo": "bloqueo",
