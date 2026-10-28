@@ -1,41 +1,14 @@
 {
-  "ultima_actualizacion": "2026-10-27T19:42:31.568147-06:00",
-  "ultima_actualizacion_legible": "27 de octubre de 2026 · 19:42 CST",
-  "total": 12,
+  "ultima_actualizacion": "2026-10-28T01:25:24.018697-06:00",
+  "ultima_actualizacion_legible": "28 de octubre de 2026 · 01:25 CST",
+  "total": 4,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
-    "Medios nacionales",
     "Medios regionales",
-    "Quadratin + regionales",
-    "Telegram"
+    "Quadratin + regionales"
   ],
   "grupos": [
-    {
-      "tipo": "cierre_total",
-      "color": "rojo",
-      "icono": "🔴",
-      "label": "CIERRE TOTAL",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "91462020",
-          "tipo": "cierre_total",
-          "ruta": "Cierra derrumbe un carril del Arco Norte; tráfico lento…",
-          "descripcion": "Cierra derrumbe un carril del Arco Norte; tráfico lento. TULA DE ALLENDE, Hgo., 27 de octubre de 2026.- El desprendimiento de varias rocas sobre la autopista Arco Norte provocó el cierre de uno de los carriles de circulación a la altura del kilómetro 62, en dirección de Puebla hacia Querétaro. El desgajamiento de material rocoso sobre la cinta asfáltica mantiene parcialmente obstruida esta importante […] The post Cierra derrumbe un carril del Arco Norte; tráfico lento appeared first on Quadratin",
-          "recomendacion": "",
-          "fecha": "27 octubre 2026 · 16:28 CST",
-          "fecha_iso": "2026-10-27T16:28:00-06:00",
-          "fuente": "Quadratin Hidalgo",
-          "url": "https://hidalgo.quadratin.com.mx/sucesos/cierra-derrumbe-un-carril-del-arco-norte-trafico-lento/",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL",
-          "lat": 19.8,
-          "lon": -99.1
-        }
-      ]
-    },
     {
       "tipo": "bloqueo",
       "color": "rojo",
@@ -86,89 +59,6 @@
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO"
-        },
-        {
-          "id": "e0ce03f8",
-          "tipo": "bloqueo",
-          "ruta": "¿Qué exigen los transportistas en México? Mapa de estados y…",
-          "descripcion": "¿Qué exigen los transportistas en México? Mapa de estados y carreteras cerradas por el paro [nacional](http://telegra.ph/Qué-exigen-los-transportistas-en-México-Mapa-de-estados-y-carreteras-cerradas-por-el-paro-nacional-10-27)\n\n__via__ [www.informador.mx](https://www.informador.mx/mexico/que-exigen-los-transportistas-en-mexico-mapa-de-estados-y-carreteras-cerradas-por-el-paro-nacional-20261026-0033.html)",
-          "recomendacion": "",
-          "fecha": "27 octubre 2026 · 12:20 CST",
-          "fecha_iso": "2026-10-27T12:20:00-06:00",
-          "fuente": "Telegram @NOTMEX",
-          "url": "https://t.me/NOTMEX/186878",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        },
-        {
-          "id": "648852f4",
-          "tipo": "bloqueo",
-          "ruta": "Segob, CANACAR y otras organizaciones del sector sostuvieron mesa de…",
-          "descripcion": "Segob, CANACAR y otras organizaciones del sector sostuvieron mesa de trabajo para abordar temas de seguridad carretera; acordaron retirar bloqueos.\n https://lajornadaestadodemexico.com/segob-y-canacar-acuerdan-retiro-de-bloqueos-y-mesas-de-dialogo/",
-          "recomendacion": "",
-          "fecha": "27 octubre 2026 · 12:09 CST",
-          "fecha_iso": "2026-10-27T12:09:00-06:00",
-          "fuente": "Telegram @jornadaedomex",
-          "url": "https://t.me/jornadaedomex/12494",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        },
-        {
-          "id": "fb0c7565",
-          "tipo": "bloqueo",
-          "ruta": "Carreteras de Guanajuato hoy: bloqueo total en la León-Silao -…",
-          "descripcion": "Carreteras de Guanajuato hoy: bloqueo total en la León-Silao - La Silla Rota. Carreteras de Guanajuato hoy: bloqueo total en la León-Silao La Silla Rota",
-          "recomendacion": "",
-          "fecha": "27 octubre 2026 · 10:33 CST",
-          "fecha_iso": "2026-10-27T10:33:00-06:00",
-          "fuente": "La Silla Rota",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOU1lPeFFTQXBSTHg4RTRvSnJKUFhBUkNaYVktdmJEVVJsN1R3NVJiSmoxUnJHRW1UZ2FnTzVhSkRFeWtoTzkwa3JCN0x2RXZkREJYMERNSWdTbXhmV1lXZUt3TmtrWjVpUl9WUVY1UXVncUdSc0N5VWNZS243ZTlPM1F3dkxMdHFIeDI4ajNqTmFISGh2SjllYUtRell3Q1FwSkprUUtJTDJ1d1J1OF9Wa1dEai05MXdfbU40TDROM3U4QQ?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 21.02,
-          "lon": -101.26
-        },
-        {
-          "id": "df615134",
-          "tipo": "bloqueo",
-          "ruta": "📢 Bloqueo en la #Chamapa-#Lechería provoca filas de hasta 7…",
-          "descripcion": "📢 Bloqueo en la #Chamapa-#Lechería provoca filas de hasta 7 kilómetros\n\nhttps://lajornadaestadodemexico.com/bloqueo-en-la-chamapa-lecheria/",
-          "recomendacion": "",
-          "fecha": "27 octubre 2026 · 09:33 CST",
-          "fecha_iso": "2026-10-27T09:33:00-06:00",
-          "fuente": "Telegram @jornadaedomex",
-          "url": "https://t.me/jornadaedomex/12492",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        }
-      ]
-    },
-    {
-      "tipo": "robo",
-      "color": "rojo",
-      "icono": "🚨",
-      "label": "ROBOS EN CARRETERA",
-      "col2": true,
-      "alertas": [
-        {
-          "id": "2fb9ea75",
-          "tipo": "robo",
-          "ruta": "SSPC frustra robo a transporte en Celaya; abaten a un…",
-          "descripcion": "SSPC frustra robo a transporte en Celaya; abaten a un asaltante tras enfrentamiento. Agentes de la SSPC abatieron a un asaltante tras un enfrentamiento armado al impedir el robo a un transporte de carga en Celaya, Guanajuato",
-          "recomendacion": "",
-          "fecha": "27 octubre 2026 · 15:56 CST",
-          "fecha_iso": "2026-10-27T15:56:00-06:00",
-          "fuente": "24 Horas",
-          "url": "https://24-horas.mx/mexico/sspc-frustra-robo-a-transporte-en-celaya-abaten-a-un-asaltante-tras-enfrentamiento/",
-          "dot_color": "#c0392b",
-          "badge": "badge-robo",
-          "badge_txt": "ROBO",
-          "lat": 21.02,
-          "lon": -101.26
         }
       ]
     },
@@ -194,36 +84,6 @@
           "badge_txt": "CIERRE PARCIAL",
           "lat": 20.11,
           "lon": -98.73
-        },
-        {
-          "id": "1f64959c",
-          "tipo": "cierre_parcial",
-          "ruta": "Exige AMOTAC seguridad en carreteras federales; descarta fines políticos…",
-          "descripcion": "Exige AMOTAC seguridad en carreteras federales; descarta fines políticos. La movilización es un reclamo ente al cansancio por robos e inseguridad que enfrentan transportistas",
-          "recomendacion": "",
-          "fecha": "27 octubre 2026 · 18:30 CST",
-          "fecha_iso": "2026-10-27T18:30:00-06:00",
-          "fuente": "Quadratin Tabasco",
-          "url": "https://tabasco.quadratin.com.mx/sucesos/exige-amotac-seguridad-en-carreteras-federales-descarta-fines-politicos/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
-        },
-        {
-          "id": "17f97998",
-          "tipo": "cierre_parcial",
-          "ruta": "🚘 Incendio de tres tráileres deja dos lesionados en la…",
-          "descripcion": "🚘 Incendio de tres tráileres deja dos lesionados en la #México-#Toluca\n\nhttps://lajornadaestadodemexico.com/incendio-de-tres-traileres-deja-dos-lesionados-en-la-mexico-toluca/",
-          "recomendacion": "",
-          "fecha": "27 octubre 2026 · 08:20 CST",
-          "fecha_iso": "2026-10-27T08:20:00-06:00",
-          "fuente": "Telegram @jornadaedomex",
-          "url": "https://t.me/jornadaedomex/12490",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.29,
-          "lon": -99.66
         }
       ]
     }
@@ -252,58 +112,6 @@
       "url": "https://www.informador.mx/mexico/bloqueo-de-transportistas-trailer-choca-y-se-incendia-durante-manifestaciones-en-autopista-toluca-mexico-20261027-0162.html",
       "dot_color": "#8e44ad",
       "badge_txt": "BLOQUEO",
-      "lat": 19.29,
-      "lon": -99.66
-    },
-    {
-      "id": "91462020",
-      "tipo": "cierre_total",
-      "ruta": "Cierra derrumbe un carril del Arco Norte; tráfico lento…",
-      "descripcion": "Cierra derrumbe un carril del Arco Norte; tráfico lento. TULA DE ALLENDE, Hgo., 27 de octubre de 2026.- El desprendimiento de varias rocas sobre la autopista Arco Norte provocó el cierre de uno de los carriles de circulación a la altura del kilómetro 62, en dirección de Puebla hacia Querétaro. El desgajamiento de material rocoso sobre la cinta asfáltica mantiene parcialmente obstruida esta importante […] The post Cierra derrumbe un carril del Arco Norte; tráfico lento appeared first on Quadratin",
-      "fecha": "27 octubre 2026 · 16:28 CST",
-      "fuente": "Quadratin Hidalgo",
-      "url": "https://hidalgo.quadratin.com.mx/sucesos/cierra-derrumbe-un-carril-del-arco-norte-trafico-lento/",
-      "dot_color": "#e74c3c",
-      "badge_txt": "CIERRE TOTAL",
-      "lat": 19.8,
-      "lon": -99.1
-    },
-    {
-      "id": "2fb9ea75",
-      "tipo": "robo",
-      "ruta": "SSPC frustra robo a transporte en Celaya; abaten a un…",
-      "descripcion": "SSPC frustra robo a transporte en Celaya; abaten a un asaltante tras enfrentamiento. Agentes de la SSPC abatieron a un asaltante tras un enfrentamiento armado al impedir el robo a un transporte de carga en Celaya, Guanajuato",
-      "fecha": "27 octubre 2026 · 15:56 CST",
-      "fuente": "24 Horas",
-      "url": "https://24-horas.mx/mexico/sspc-frustra-robo-a-transporte-en-celaya-abaten-a-un-asaltante-tras-enfrentamiento/",
-      "dot_color": "#c0392b",
-      "badge_txt": "ROBO",
-      "lat": 21.02,
-      "lon": -101.26
-    },
-    {
-      "id": "fb0c7565",
-      "tipo": "bloqueo",
-      "ruta": "Carreteras de Guanajuato hoy: bloqueo total en la León-Silao -…",
-      "descripcion": "Carreteras de Guanajuato hoy: bloqueo total en la León-Silao - La Silla Rota. Carreteras de Guanajuato hoy: bloqueo total en la León-Silao La Silla Rota",
-      "fecha": "27 octubre 2026 · 10:33 CST",
-      "fuente": "La Silla Rota",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOU1lPeFFTQXBSTHg4RTRvSnJKUFhBUkNaYVktdmJEVVJsN1R3NVJiSmoxUnJHRW1UZ2FnTzVhSkRFeWtoTzkwa3JCN0x2RXZkREJYMERNSWdTbXhmV1lXZUt3TmtrWjVpUl9WUVY1UXVncUdSc0N5VWNZS243ZTlPM1F3dkxMdHFIeDI4ajNqTmFISGh2SjllYUtRell3Q1FwSkprUUtJTDJ1d1J1OF9Wa1dEai05MXdfbU40TDROM3U4QQ?oc=5",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 21.02,
-      "lon": -101.26
-    },
-    {
-      "id": "17f97998",
-      "tipo": "cierre_parcial",
-      "ruta": "🚘 Incendio de tres tráileres deja dos lesionados en la…",
-      "descripcion": "🚘 Incendio de tres tráileres deja dos lesionados en la #México-#Toluca\n\nhttps://lajornadaestadodemexico.com/incendio-de-tres-traileres-deja-dos-lesionados-en-la-mexico-toluca/",
-      "fecha": "27 octubre 2026 · 08:20 CST",
-      "fuente": "Telegram @jornadaedomex",
-      "url": "https://t.me/jornadaedomex/12490",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
       "lat": 19.29,
       "lon": -99.66
     }
