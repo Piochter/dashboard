@@ -1,10 +1,11 @@
 {
-  "ultima_actualizacion": "2026-10-29T10:04:56.050320-06:00",
-  "ultima_actualizacion_legible": "29 de octubre de 2026 · 10:04 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-10-29T15:05:37.504899-06:00",
+  "ultima_actualizacion_legible": "29 de octubre de 2026 · 15:05 CST",
+  "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News"
+    "Medios nacionales",
+    "Telegram"
   ],
   "grupos": [
     {
@@ -15,15 +16,31 @@
       "col2": false,
       "alertas": [
         {
-          "id": "df677634",
+          "id": "fee00021",
           "tipo": "bloqueo",
-          "ruta": "Bloqueos carreteras HOY JUEVES 29 de octubre: autopistas cerradas en…",
-          "descripcion": "Bloqueos carreteras HOY JUEVES 29 de octubre: autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY JUEVES 29 de octubre: autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
+          "ruta": "🚨Vecinos bloquean la #México-#Puebla en #ValleDeChalco por construcción de bachillerato…",
+          "descripcion": "🚨Vecinos bloquean la #México-#Puebla en #ValleDeChalco por construcción de bachillerato\n\nhttps://lajornadaestadodemexico.com/bloqueo-en-la-mexico-puebla-bachillerato-valle-de-chalco/",
           "recomendacion": "",
-          "fecha": "29 octubre 2026 · 07:21 CST",
-          "fecha_iso": "2026-10-29T07:21:00-06:00",
-          "fuente": "Eje Central",
-          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPWGFiaTVoZXpyc21HS2tnUjV6aG5ZNURNMVp3cV81VHc3X3hYYVIyalpGbm5iRXNxU2Z5clZXalZiOVhpTGdKVS1wTnBCSHZRM25QWldTWkREeGlwU2oyemZIOEpGUDJyM0pIVTlXZWZMcldIM1d6cGRlbEhtcmhRQkhIV0NLT1lYangxT1dqVDdKZEx4eFppMWx4c1gyRUttdlRtTkd0d2pNMW9NUnRMR1RON2h2MWJCWG1ILUNPR2J2WldzdFhONmZHNGFvQXNvbXJ5bS1lOGtYZDhhY2xYdjdtSUhnaTBqQVJFT0k3Wi1lZWs?oc=5",
+          "fecha": "29 octubre 2026 · 13:19 CST",
+          "fecha_iso": "2026-10-29T13:19:00-06:00",
+          "fuente": "Telegram @jornadaedomex",
+          "url": "https://t.me/jornadaedomex/12509",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 19.35,
+          "lon": -98.4
+        },
+        {
+          "id": "d6cb08ac",
+          "tipo": "bloqueo",
+          "ruta": "Bloqueos en Matamoros HOY: lista de puntos afectados; piden tomar…",
+          "descripcion": "Bloqueos en Matamoros HOY: lista de puntos afectados; piden tomar precauciones. Reportes policiacos indican que grupos usaron camiones de carga, tráileres para bloquear las calles. Obligaron a los choferes a descender de las unidades",
+          "recomendacion": "",
+          "fecha": "29 octubre 2026 · 13:08 CST",
+          "fecha_iso": "2026-10-29T13:08:00-06:00",
+          "fuente": "24 Horas",
+          "url": "https://24-horas.mx/estados/bloqueos-en-matamoros-hoy-lista-de-puntos-afectados-piden-tomar-precauciones/",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO"
@@ -31,5 +48,19 @@
       ]
     }
   ],
-  "para_mapa": []
+  "para_mapa": [
+    {
+      "id": "fee00021",
+      "tipo": "bloqueo",
+      "ruta": "🚨Vecinos bloquean la #México-#Puebla en #ValleDeChalco por construcción de bachillerato…",
+      "descripcion": "🚨Vecinos bloquean la #México-#Puebla en #ValleDeChalco por construcción de bachillerato\n\nhttps://lajornadaestadodemexico.com/bloqueo-en-la-mexico-puebla-bachillerato-valle-de-chalco/",
+      "fecha": "29 octubre 2026 · 13:19 CST",
+      "fuente": "Telegram @jornadaedomex",
+      "url": "https://t.me/jornadaedomex/12509",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 19.35,
+      "lon": -98.4
+    }
+  ]
 }
