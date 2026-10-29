@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-10-28T20:51:49.234704-06:00",
-  "ultima_actualizacion_legible": "28 de octubre de 2026 · 20:51 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-10-29T03:07:15.677331-06:00",
+  "ultima_actualizacion_legible": "29 de octubre de 2026 · 03:07 CST",
+  "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
@@ -28,22 +28,6 @@
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO"
-        },
-        {
-          "id": "f3e72fc1",
-          "tipo": "bloqueo",
-          "ruta": "Alertan por estos 15 BLOQUEOS en CARRETERAS y AUTOPISTAS para…",
-          "descripcion": "Alertan por estos 15 BLOQUEOS en CARRETERAS y AUTOPISTAS para este miércoles 28 de octubre de 2026 | EN VIVO - El Heraldo de México. Alertan por estos 15 BLOQUEOS en CARRETERAS y AUTOPISTAS para este miércoles 28 de octubre de 2026 | EN VIVO El Heraldo de México",
-          "recomendacion": "",
-          "fecha": "28 octubre 2026 · 14:11 CST",
-          "fecha_iso": "2026-10-28T14:11:00-06:00",
-          "fuente": "El Heraldo de México",
-          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNTlpGYm43LThmQTJKZnNab2piQjBFUl9DU0lvN3dQZ3ZlbnhOWFlyc1I1OEFmVDhHSUc2SUREMGFIc043U3c4SHNhU1UxMzQtWTdMZkNlb3dJUkNzd1IxMkpiMFBmZ21kenFFUEFFRGhObTgweHVUenBGNEVQZThsRkVlWUpzeGlNS3BhTlBMd3FYZEhaSkJ4akpzcExjQVFVOFZndTVUSlVRZTdDLXl5MjVhLXRfVWVwV1d6OEdCUXdsZ1pjOGlqUldRbnBEMUUwbDNTbHdieGs1cUpzQ2wzTENYZHk5b2QxdnA2SHJqMGFsUHlQcnFhUnN0OA?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 21.0,
-          "lon": -104.0
         }
       ]
     },
@@ -86,19 +70,6 @@
       "badge_txt": "CIERRE PARCIAL",
       "lat": 19.53,
       "lon": -96.91
-    },
-    {
-      "id": "f3e72fc1",
-      "tipo": "bloqueo",
-      "ruta": "Alertan por estos 15 BLOQUEOS en CARRETERAS y AUTOPISTAS para…",
-      "descripcion": "Alertan por estos 15 BLOQUEOS en CARRETERAS y AUTOPISTAS para este miércoles 28 de octubre de 2026 | EN VIVO - El Heraldo de México. Alertan por estos 15 BLOQUEOS en CARRETERAS y AUTOPISTAS para este miércoles 28 de octubre de 2026 | EN VIVO El Heraldo de México",
-      "fecha": "28 octubre 2026 · 14:11 CST",
-      "fuente": "El Heraldo de México",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNTlpGYm43LThmQTJKZnNab2piQjBFUl9DU0lvN3dQZ3ZlbnhOWFlyc1I1OEFmVDhHSUc2SUREMGFIc043U3c4SHNhU1UxMzQtWTdMZkNlb3dJUkNzd1IxMkpiMFBmZ21kenFFUEFFRGhObTgweHVUenBGNEVQZThsRkVlWUpzeGlNS3BhTlBMd3FYZEhaSkJ4akpzcExjQVFVOFZndTVUSlVRZTdDLXl5MjVhLXRfVWVwV1d6OEdCUXdsZ1pjOGlqUldRbnBEMUUwbDNTbHdieGs1cUpzQ2wzTENYZHk5b2QxdnA2SHJqMGFsUHlQcnFhUnN0OA?oc=5",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 21.0,
-      "lon": -104.0
     }
   ]
 }
