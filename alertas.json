@@ -1,37 +1,13 @@
 {
-  "ultima_actualizacion": "2026-10-28T17:31:55.802931-06:00",
-  "ultima_actualizacion_legible": "28 de octubre de 2026 · 17:31 CST",
-  "total": 4,
+  "ultima_actualizacion": "2026-10-28T20:51:49.234704-06:00",
+  "ultima_actualizacion_legible": "28 de octubre de 2026 · 20:51 CST",
+  "total": 3,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
-    "Medios regionales",
     "Quadratin + regionales"
   ],
   "grupos": [
-    {
-      "tipo": "cierre_total",
-      "color": "rojo",
-      "icono": "🔴",
-      "label": "CIERRE TOTAL",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "1dee4bff",
-          "tipo": "cierre_total",
-          "ruta": "Derrumbe bloquea la carretera Autlán-Villa Purificación: tramo afectado y más…",
-          "descripcion": "Derrumbe bloquea la carretera Autlán-Villa Purificación: tramo afectado y más detalles. El bloqueo se registró en una zona ubicada entre las Regiones Sierra de Amula y Costa Sur; Protección Civil pide extremar precauciones",
-          "recomendacion": "",
-          "fecha": "28 octubre 2026 · 16:02 CST",
-          "fecha_iso": "2026-10-28T16:02:00-06:00",
-          "fuente": "El Informador Jalisco",
-          "url": "https://www.informador.mx/jalisco/derrumbe-bloquea-la-carretera-autlan-villa-purificacion-tramo-afectado-y-mas-detalles-20261028-0145.html",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL"
-        }
-      ]
-    },
     {
       "tipo": "bloqueo",
       "color": "rojo",
@@ -39,6 +15,20 @@
       "label": "BLOQUEOS / MANIFESTACIONES",
       "col2": false,
       "alertas": [
+        {
+          "id": "4b9995e5",
+          "tipo": "bloqueo",
+          "ruta": "Tráfico en las autopistas de México hoy: Noticias sobre bloqueos…",
+          "descripcion": "Tráfico en las autopistas de México hoy: Noticias sobre bloqueos y accidentes EN VIVO este 28 de octubre - TV Azteca. Tráfico en las autopistas de México hoy: Noticias sobre bloqueos y accidentes EN VIVO este 28 de octubre TV Azteca",
+          "recomendacion": "",
+          "fecha": "28 octubre 2026 · 17:26 CST",
+          "fecha_iso": "2026-10-28T17:26:00-06:00",
+          "fuente": "TV Azteca",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTGFWNUFxNGhaOHUzVzVpbm05c3lTQkxkN2RyeDB6eVNkdnlPd3I0MUhKcUM1elNiSXY2bnREUm8zOUdyZy1DVEk3ZXlCSXdCNy1QUmIxZWRNQWUyeWw0YXdBb0lQaDczNzVzOG1PQ0E0NTltQzh2QnctMEFUSkNtUUpjWXozOWs2dlE3YlZ6elhMUDA5SE1aSXh1Vk5hSFpfVFpJVzNpNjFOeFJ4Tk1pa0NtVGE3ZlR2RUNmOWRWalN0a2p2cTRNRjlldmJQN2JkOFNDbzA3aGfSAeYBQVVfeXFMTU4yZjFUcXdtMjlLZDZCTkZYRFNGMURIWEJ3aE9pYWxtMjVVSDZkQ0E4c0UxMWlFMFdkdDJrYUEzWHdydFEwS2RIZlJFaFFWTUFpSDJSRmZ5NzRLYUxKUjQwRmg0VjVIVmdhS05tQl9YSllyR1hxajdBQnk2MmFZQUU4SVczb05LdWhkdkRiUmlLdTA3QU1qSmtYYXN5VG0wUElvdzRMdURKdGxHRlJGQjJyeV9YX2ViSWFGYUxMUEI1cVZhQlhyb1pJTEtBNTZFaGdDMVJBM3l3MFlOZHJBdWFkNVd3ekE?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
         {
           "id": "f3e72fc1",
           "tipo": "bloqueo",
@@ -54,20 +44,6 @@
           "badge_txt": "BLOQUEO",
           "lat": 21.0,
           "lon": -104.0
-        },
-        {
-          "id": "e05a15c9",
-          "tipo": "bloqueo",
-          "ruta": "Lista de Carreteras con Bloqueos Hoy 28 de Octubre 2026:…",
-          "descripcion": "Lista de Carreteras con Bloqueos Hoy 28 de Octubre 2026: ¿Dónde Hay Cierres, Según Capufe y GN? - N+. Lista de Carreteras con Bloqueos Hoy 28 de Octubre 2026: ¿Dónde Hay Cierres, Según Capufe y GN? N+",
-          "recomendacion": "",
-          "fecha": "28 octubre 2026 · 06:19 CST",
-          "fecha_iso": "2026-10-28T06:19:00-06:00",
-          "fuente": "N+",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQWN2WVBrZmo0VUZQTl9KSThFeTlOMGxpTnVEdjNmeVVKaVF5bjBvSndDUFhUR3ZYN3Q3TnQ4Q25wWHNuUnZjN3FsWUVyZ0RPeWJkT0Q0dEx5WG55azZnZFNvbjItUUg0ci1Fbk1CVlZyMlowUno5a1Bsanh4X1RqMF9SSHR1VEFjMy0xV3gwM0lMSEJyV0tRY3FOWHAweklVLXFlOVBTQmw1U3Y0VDhySUlLOU5PUnZaNUZINTljdw?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
         }
       ]
     },
@@ -79,25 +55,38 @@
       "col2": true,
       "alertas": [
         {
-          "id": "e6079352",
+          "id": "b1206931",
           "tipo": "cierre_parcial",
-          "ruta": "Vuelca tractocamión tras choque en Tula…",
-          "descripcion": "Vuelca tractocamión tras choque en Tula. En la autopista Arco Norte. The post Vuelca tractocamión tras choque en Tula appeared first on Quadratin Hidalgo.",
+          "ruta": "Cierre temporal de vialidades en centro de Xalapa por carrera…",
+          "descripcion": "Cierre temporal de vialidades en centro de Xalapa por carrera nocturna. Con motivo de la décima edición de la actividad Corriendo por el Bien de Xalapa",
           "recomendacion": "",
-          "fecha": "28 octubre 2026 · 10:57 CST",
-          "fecha_iso": "2026-10-28T10:57:00-06:00",
-          "fuente": "Quadratin Hidalgo",
-          "url": "https://hidalgo.quadratin.com.mx/municipios/vuelca-tractocamion-tras-choque-en-tula/",
+          "fecha": "28 octubre 2026 · 20:35 CST",
+          "fecha_iso": "2026-10-28T20:35:00-06:00",
+          "fuente": "Quadratin Veracruz",
+          "url": "https://veracruz.quadratin.com.mx/cierre-temporal-de-vialidades-en-centro-de-xalapa-por-carrera-nocturna/",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.8,
-          "lon": -99.1
+          "lat": 19.53,
+          "lon": -96.91
         }
       ]
     }
   ],
   "para_mapa": [
+    {
+      "id": "b1206931",
+      "tipo": "cierre_parcial",
+      "ruta": "Cierre temporal de vialidades en centro de Xalapa por carrera…",
+      "descripcion": "Cierre temporal de vialidades en centro de Xalapa por carrera nocturna. Con motivo de la décima edición de la actividad Corriendo por el Bien de Xalapa",
+      "fecha": "28 octubre 2026 · 20:35 CST",
+      "fuente": "Quadratin Veracruz",
+      "url": "https://veracruz.quadratin.com.mx/cierre-temporal-de-vialidades-en-centro-de-xalapa-por-carrera-nocturna/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 19.53,
+      "lon": -96.91
+    },
     {
       "id": "f3e72fc1",
       "tipo": "bloqueo",
@@ -110,19 +99,6 @@
       "badge_txt": "BLOQUEO",
       "lat": 21.0,
       "lon": -104.0
-    },
-    {
-      "id": "e6079352",
-      "tipo": "cierre_parcial",
-      "ruta": "Vuelca tractocamión tras choque en Tula…",
-      "descripcion": "Vuelca tractocamión tras choque en Tula. En la autopista Arco Norte. The post Vuelca tractocamión tras choque en Tula appeared first on Quadratin Hidalgo.",
-      "fecha": "28 octubre 2026 · 10:57 CST",
-      "fuente": "Quadratin Hidalgo",
-      "url": "https://hidalgo.quadratin.com.mx/municipios/vuelca-tractocamion-tras-choque-en-tula/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.8,
-      "lon": -99.1
     }
   ]
 }
