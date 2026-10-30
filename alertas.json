@@ -1,12 +1,56 @@
 {
-  "ultima_actualizacion": "2026-10-30T07:33:25.471372-06:00",
-  "ultima_actualizacion_legible": "30 de octubre de 2026 · 07:33 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-10-30T12:51:51.062422-06:00",
+  "ultima_actualizacion_legible": "30 de octubre de 2026 · 12:51 CST",
+  "total": 6,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Medios nacionales"
+    "Google News",
+    "Medios nacionales",
+    "Quadratin + regionales",
+    "Telegram"
   ],
   "grupos": [
+    {
+      "tipo": "cierre_total",
+      "color": "rojo",
+      "icono": "🔴",
+      "label": "CIERRE TOTAL",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "876e47bd",
+          "tipo": "cierre_total",
+          "ruta": "Video: Volcadura e incendio de tráiler deja dos muertos y…",
+          "descripcion": "Video: Volcadura e incendio de tráiler deja dos muertos y tres heridos en Edomex - Quinta Fuerza. Video: Volcadura e incendio de tráiler deja dos muertos y tres heridos en Edomex Quinta Fuerza",
+          "recomendacion": "",
+          "fecha": "30 octubre 2026 · 08:37 CST",
+          "fecha_iso": "2026-10-30T08:37:00-06:00",
+          "fuente": "Quinta Fuerza",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcHI5TF9qZ0xBVW5URjRXOWswZkpTTEJHZV8xRU51bkp3TUZUemNZbDVfR0tGbUVOanY0YUdZc2lUUUl6cUp3NTBuYm9Eb3VKUTFoNU5XeGtLeGhOS0dvNFd6YlZIMjdBTkdzOXVaWUVRWUZVTWdGMFBoQVZYNFhpLXZiYmpWdDNJa1pRdU9rWW5wQm42T29fZjRtbXpRVG56TkE?oc=5",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL",
+          "lat": 19.35,
+          "lon": -99.7
+        },
+        {
+          "id": "22998850",
+          "tipo": "cierre_total",
+          "ruta": "🚧 ¡Accidente en la #México-#Querétaro! Reportan volcadura en dirección al…",
+          "descripcion": "🚧 ¡Accidente en la #México-#Querétaro! Reportan volcadura en dirección al norte 👇\n\nhttps://lajornadaestadodemexico.com/accidente-en-la-mexico-queretaro-reportan-volcadura-en-direccion-al-norte/",
+          "recomendacion": "",
+          "fecha": "30 octubre 2026 · 08:27 CST",
+          "fecha_iso": "2026-10-30T08:27:00-06:00",
+          "fuente": "Telegram @jornadaedomex",
+          "url": "https://t.me/jornadaedomex/12517",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL",
+          "lat": 20.1,
+          "lon": -99.5
+        }
+      ]
+    },
     {
       "tipo": "bloqueo",
       "color": "rojo",
@@ -15,37 +59,144 @@
       "col2": false,
       "alertas": [
         {
-          "id": "1ede10a3",
+          "id": "00f1b272",
           "tipo": "bloqueo",
           "ruta": "En Tamaulipas, 6 muertos en narcobloqueos luego de la captura…",
-          "descripcion": "En Tamaulipas, 6 muertos en narcobloqueos luego de la captura del capo Axel. La captura de Axel Alfredo N, alias Axel, identificado por las autoridades como el segundo al mando de la célula delictiva Ciclones, y familiar de Osiel Cárdenas Guillén, ex cabecilla del cártel del Golfo, junto con otro sujeto, desató ayer durante todo el día al menos 15 bloqueos con vehículos incendiados en vialidades de las ciudades de Matamoros, Río Bravo, San Fernando y Valle Hermoso, en Tamaulipas. Las acciones de",
+          "descripcion": "En Tamaulipas, 6 muertos en narcobloqueos luego de la captura del capo Axel\nhttps://www.jornada.com.mx/2026/10/30/estados/031n1est?partner=rss\n\nLa captura de Axel Alfredo N, alias Axel, identificado por las autoridades como el segundo al mando de la célula delictiva Ciclones, y familiar de Osiel Cárdenas Guillén, ex cabecilla del cártel del Golfo, junto con otro sujeto, desató ayer durante todo el día al menos 15 bloqueos con vehículos incendiados en vialidades de las ciudades de Matamoros, Río ",
           "recomendacion": "",
-          "fecha": "30 octubre 2026 · 03:54 CST",
-          "fecha_iso": "2026-10-30T03:54:00-06:00",
-          "fuente": "La Jornada Estados",
-          "url": "https://www.jornada.com.mx/2026/10/30/estados/031n1est?partner=rss",
+          "fecha": "30 octubre 2026 · 11:47 CST",
+          "fecha_iso": "2026-10-30T11:47:00-06:00",
+          "fuente": "Telegram @NOTMEX",
+          "url": "https://t.me/NOTMEX/186947",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO",
           "lat": 21.0,
           "lon": -104.0
+        },
+        {
+          "id": "c84b895a",
+          "tipo": "bloqueo",
+          "ruta": "Bloqueos carreteras HOY viernes 30 de octubre: autopistas cerradas en…",
+          "descripcion": "Bloqueos carreteras HOY viernes 30 de octubre: autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY viernes 30 de octubre: autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
+          "recomendacion": "",
+          "fecha": "30 octubre 2026 · 07:32 CST",
+          "fecha_iso": "2026-10-30T07:32:00-06:00",
+          "fuente": "Eje Central",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPMDBrbWZ5MzhqNHlfTjhNbElnRUEwd0FsZWx5ZWtXYlVIQ0d4WDRJWURhUjZxN3docktPenR0MkR3S25BQzZ4S3lRMnhzb0NYdjV5eGpVb1VjX0NnTjU4RVBSYXEzOEFYVk1wbTlfX1FmQVZ4VFpjcWhDOWdRbFZ6ak9iRDctOExIVHh4UkNZV2NTZGxFV2FSLU9UenBKb3hnaEZLYUNYVEctc1p5Z0tZdzJwREVzNmI3NVpPY3FlUlU0eW0zdjMxb1ZreTRDZVlQSWpSc3lZWjNVVlBYS1BpdnVqMGgxNXg3ZEtNNHhKOFltdVpF?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        }
+      ]
+    },
+    {
+      "tipo": "cierre_parcial",
+      "color": "amarillo",
+      "icono": "🟡",
+      "label": "CIERRE PARCIAL / ACCIDENTES",
+      "col2": true,
+      "alertas": [
+        {
+          "id": "ff24b700",
+          "tipo": "cierre_parcial",
+          "ruta": "Detienen a tres presuntos ladrones de transporte de carga en…",
+          "descripcion": "Detienen a tres presuntos ladrones de transporte de carga en Jilotepec. Los sospechosos estarían relacionados con robos violentos en las autopistas México-Querétaro y Arco Norte",
+          "recomendacion": "",
+          "fecha": "30 octubre 2026 · 11:30 CST",
+          "fecha_iso": "2026-10-30T11:30:00-06:00",
+          "fuente": "Quadratin EdoMex",
+          "url": "https://edomex.quadratin.com.mx/detienen-a-tres-presuntos-ladrones-de-transporte-de-carga-en-jilotepec/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 20.1,
+          "lon": -99.5
+        },
+        {
+          "id": "b02f0761",
+          "tipo": "cierre_parcial",
+          "ruta": "Accidente entre tráileres y autos particulares en la México-Querétaro…",
+          "descripcion": "Accidente entre tráileres y autos particulares en la México-Querétaro. Con dirección a la Ciudad de México. The post Accidente entre tráileres y autos particulares en la México-Querétaro appeared first on Quadratin Hidalgo.",
+          "recomendacion": "",
+          "fecha": "30 octubre 2026 · 10:26 CST",
+          "fecha_iso": "2026-10-30T10:26:00-06:00",
+          "fuente": "Quadratin Hidalgo",
+          "url": "https://hidalgo.quadratin.com.mx/sucesos/accidente-entre-traileres-y-autos-particulares-en-la-mexico-queretaro/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 20.1,
+          "lon": -99.5
         }
       ]
     }
   ],
   "para_mapa": [
     {
-      "id": "1ede10a3",
+      "id": "00f1b272",
       "tipo": "bloqueo",
       "ruta": "En Tamaulipas, 6 muertos en narcobloqueos luego de la captura…",
-      "descripcion": "En Tamaulipas, 6 muertos en narcobloqueos luego de la captura del capo Axel. La captura de Axel Alfredo N, alias Axel, identificado por las autoridades como el segundo al mando de la célula delictiva Ciclones, y familiar de Osiel Cárdenas Guillén, ex cabecilla del cártel del Golfo, junto con otro sujeto, desató ayer durante todo el día al menos 15 bloqueos con vehículos incendiados en vialidades de las ciudades de Matamoros, Río Bravo, San Fernando y Valle Hermoso, en Tamaulipas. Las acciones de",
-      "fecha": "30 octubre 2026 · 03:54 CST",
-      "fuente": "La Jornada Estados",
-      "url": "https://www.jornada.com.mx/2026/10/30/estados/031n1est?partner=rss",
+      "descripcion": "En Tamaulipas, 6 muertos en narcobloqueos luego de la captura del capo Axel\nhttps://www.jornada.com.mx/2026/10/30/estados/031n1est?partner=rss\n\nLa captura de Axel Alfredo N, alias Axel, identificado por las autoridades como el segundo al mando de la célula delictiva Ciclones, y familiar de Osiel Cárdenas Guillén, ex cabecilla del cártel del Golfo, junto con otro sujeto, desató ayer durante todo el día al menos 15 bloqueos con vehículos incendiados en vialidades de las ciudades de Matamoros, Río ",
+      "fecha": "30 octubre 2026 · 11:47 CST",
+      "fuente": "Telegram @NOTMEX",
+      "url": "https://t.me/NOTMEX/186947",
       "dot_color": "#8e44ad",
       "badge_txt": "BLOQUEO",
       "lat": 21.0,
       "lon": -104.0
+    },
+    {
+      "id": "ff24b700",
+      "tipo": "cierre_parcial",
+      "ruta": "Detienen a tres presuntos ladrones de transporte de carga en…",
+      "descripcion": "Detienen a tres presuntos ladrones de transporte de carga en Jilotepec. Los sospechosos estarían relacionados con robos violentos en las autopistas México-Querétaro y Arco Norte",
+      "fecha": "30 octubre 2026 · 11:30 CST",
+      "fuente": "Quadratin EdoMex",
+      "url": "https://edomex.quadratin.com.mx/detienen-a-tres-presuntos-ladrones-de-transporte-de-carga-en-jilotepec/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 20.1,
+      "lon": -99.5
+    },
+    {
+      "id": "b02f0761",
+      "tipo": "cierre_parcial",
+      "ruta": "Accidente entre tráileres y autos particulares en la México-Querétaro…",
+      "descripcion": "Accidente entre tráileres y autos particulares en la México-Querétaro. Con dirección a la Ciudad de México. The post Accidente entre tráileres y autos particulares en la México-Querétaro appeared first on Quadratin Hidalgo.",
+      "fecha": "30 octubre 2026 · 10:26 CST",
+      "fuente": "Quadratin Hidalgo",
+      "url": "https://hidalgo.quadratin.com.mx/sucesos/accidente-entre-traileres-y-autos-particulares-en-la-mexico-queretaro/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 20.1,
+      "lon": -99.5
+    },
+    {
+      "id": "876e47bd",
+      "tipo": "cierre_total",
+      "ruta": "Video: Volcadura e incendio de tráiler deja dos muertos y…",
+      "descripcion": "Video: Volcadura e incendio de tráiler deja dos muertos y tres heridos en Edomex - Quinta Fuerza. Video: Volcadura e incendio de tráiler deja dos muertos y tres heridos en Edomex Quinta Fuerza",
+      "fecha": "30 octubre 2026 · 08:37 CST",
+      "fuente": "Quinta Fuerza",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcHI5TF9qZ0xBVW5URjRXOWswZkpTTEJHZV8xRU51bkp3TUZUemNZbDVfR0tGbUVOanY0YUdZc2lUUUl6cUp3NTBuYm9Eb3VKUTFoNU5XeGtLeGhOS0dvNFd6YlZIMjdBTkdzOXVaWUVRWUZVTWdGMFBoQVZYNFhpLXZiYmpWdDNJa1pRdU9rWW5wQm42T29fZjRtbXpRVG56TkE?oc=5",
+      "dot_color": "#e74c3c",
+      "badge_txt": "CIERRE TOTAL",
+      "lat": 19.35,
+      "lon": -99.7
+    },
+    {
+      "id": "22998850",
+      "tipo": "cierre_total",
+      "ruta": "🚧 ¡Accidente en la #México-#Querétaro! Reportan volcadura en dirección al…",
+      "descripcion": "🚧 ¡Accidente en la #México-#Querétaro! Reportan volcadura en dirección al norte 👇\n\nhttps://lajornadaestadodemexico.com/accidente-en-la-mexico-queretaro-reportan-volcadura-en-direccion-al-norte/",
+      "fecha": "30 octubre 2026 · 08:27 CST",
+      "fuente": "Telegram @jornadaedomex",
+      "url": "https://t.me/jornadaedomex/12517",
+      "dot_color": "#e74c3c",
+      "badge_txt": "CIERRE TOTAL",
+      "lat": 20.1,
+      "lon": -99.5
     }
   ]
 }
