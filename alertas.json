@@ -1,11 +1,10 @@
 {
-  "ultima_actualizacion": "2026-10-30T00:39:58.948990-06:00",
-  "ultima_actualizacion_legible": "30 de octubre de 2026 · 00:39 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-10-30T07:33:25.471372-06:00",
+  "ultima_actualizacion_legible": "30 de octubre de 2026 · 07:33 CST",
+  "total": 1,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Quadratin + regionales",
-    "Telegram"
+    "Medios nacionales"
   ],
   "grupos": [
     {
@@ -16,60 +15,37 @@
       "col2": false,
       "alertas": [
         {
-          "id": "fee00021",
+          "id": "1ede10a3",
           "tipo": "bloqueo",
-          "ruta": "🚨Vecinos bloquean la #México-#Puebla en #ValleDeChalco por construcción de bachillerato…",
-          "descripcion": "🚨Vecinos bloquean la #México-#Puebla en #ValleDeChalco por construcción de bachillerato\n\nhttps://lajornadaestadodemexico.com/bloqueo-en-la-mexico-puebla-bachillerato-valle-de-chalco/",
+          "ruta": "En Tamaulipas, 6 muertos en narcobloqueos luego de la captura…",
+          "descripcion": "En Tamaulipas, 6 muertos en narcobloqueos luego de la captura del capo Axel. La captura de Axel Alfredo N, alias Axel, identificado por las autoridades como el segundo al mando de la célula delictiva Ciclones, y familiar de Osiel Cárdenas Guillén, ex cabecilla del cártel del Golfo, junto con otro sujeto, desató ayer durante todo el día al menos 15 bloqueos con vehículos incendiados en vialidades de las ciudades de Matamoros, Río Bravo, San Fernando y Valle Hermoso, en Tamaulipas. Las acciones de",
           "recomendacion": "",
-          "fecha": "29 octubre 2026 · 13:19 CST",
-          "fecha_iso": "2026-10-29T13:19:00-06:00",
-          "fuente": "Telegram @jornadaedomex",
-          "url": "https://t.me/jornadaedomex/12509",
+          "fecha": "30 octubre 2026 · 03:54 CST",
+          "fecha_iso": "2026-10-30T03:54:00-06:00",
+          "fuente": "La Jornada Estados",
+          "url": "https://www.jornada.com.mx/2026/10/30/estados/031n1est?partner=rss",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO",
-          "lat": 19.35,
-          "lon": -98.4
-        }
-      ]
-    },
-    {
-      "tipo": "cierre_parcial",
-      "color": "amarillo",
-      "icono": "🟡",
-      "label": "CIERRE PARCIAL / ACCIDENTES",
-      "col2": true,
-      "alertas": [
-        {
-          "id": "79c110c9",
-          "tipo": "cierre_parcial",
-          "ruta": "Hará SICT cierre en la Huimanguillo-Cárdenas por trabajos de puente…",
-          "descripcion": "Hará SICT cierre en la Huimanguillo-Cárdenas por trabajos de puente peatonal. La interrupción será este viernes 30 a partir de las 10 horas, a la altura del km 106+800",
-          "recomendacion": "",
-          "fecha": "29 octubre 2026 · 20:00 CST",
-          "fecha_iso": "2026-10-29T20:00:00-06:00",
-          "fuente": "Quadratin Tabasco",
-          "url": "https://tabasco.quadratin.com.mx/municipios/hara-sict-cierre-en-la-huimanguillo-cardenas-por-trabajos-de-puente-peatonal/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
+          "lat": 21.0,
+          "lon": -104.0
         }
       ]
     }
   ],
   "para_mapa": [
     {
-      "id": "fee00021",
+      "id": "1ede10a3",
       "tipo": "bloqueo",
-      "ruta": "🚨Vecinos bloquean la #México-#Puebla en #ValleDeChalco por construcción de bachillerato…",
-      "descripcion": "🚨Vecinos bloquean la #México-#Puebla en #ValleDeChalco por construcción de bachillerato\n\nhttps://lajornadaestadodemexico.com/bloqueo-en-la-mexico-puebla-bachillerato-valle-de-chalco/",
-      "fecha": "29 octubre 2026 · 13:19 CST",
-      "fuente": "Telegram @jornadaedomex",
-      "url": "https://t.me/jornadaedomex/12509",
+      "ruta": "En Tamaulipas, 6 muertos en narcobloqueos luego de la captura…",
+      "descripcion": "En Tamaulipas, 6 muertos en narcobloqueos luego de la captura del capo Axel. La captura de Axel Alfredo N, alias Axel, identificado por las autoridades como el segundo al mando de la célula delictiva Ciclones, y familiar de Osiel Cárdenas Guillén, ex cabecilla del cártel del Golfo, junto con otro sujeto, desató ayer durante todo el día al menos 15 bloqueos con vehículos incendiados en vialidades de las ciudades de Matamoros, Río Bravo, San Fernando y Valle Hermoso, en Tamaulipas. Las acciones de",
+      "fecha": "30 octubre 2026 · 03:54 CST",
+      "fuente": "La Jornada Estados",
+      "url": "https://www.jornada.com.mx/2026/10/30/estados/031n1est?partner=rss",
       "dot_color": "#8e44ad",
       "badge_txt": "BLOQUEO",
-      "lat": 19.35,
-      "lon": -98.4
+      "lat": 21.0,
+      "lon": -104.0
     }
   ]
 }
