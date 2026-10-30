@@ -1,39 +1,13 @@
 {
-  "ultima_actualizacion": "2026-10-29T18:56:31.184228-06:00",
-  "ultima_actualizacion_legible": "29 de octubre de 2026 · 18:56 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-10-30T00:39:58.948990-06:00",
+  "ultima_actualizacion_legible": "30 de octubre de 2026 · 00:39 CST",
+  "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News",
-    "Medios regionales",
+    "Quadratin + regionales",
     "Telegram"
   ],
   "grupos": [
-    {
-      "tipo": "cierre_total",
-      "color": "rojo",
-      "icono": "🔴",
-      "label": "CIERRE TOTAL",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "9f2129a4",
-          "tipo": "cierre_total",
-          "ruta": "carretera a Chapala deja dos personas lesionadas",
-          "descripcion": "Volcadura en carretera a Chapala deja dos personas lesionadas. La información fue difundida por Protección Civil Jalisco como parte del reporte de servicios de emergencia registrados en la entidad",
-          "recomendacion": "",
-          "fecha": "29 octubre 2026 · 17:57 CST",
-          "fecha_iso": "2026-10-29T17:57:00-06:00",
-          "fuente": "El Informador Jalisco",
-          "url": "https://www.informador.mx/jalisco/volcadura-en-carretera-a-chapala-deja-dos-personas-lesionadas-20261029-0181.html",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL",
-          "lat": 20.66,
-          "lon": -103.35
-        }
-      ]
-    },
     {
       "tipo": "bloqueo",
       "color": "rojo",
@@ -56,38 +30,34 @@
           "badge_txt": "BLOQUEO",
           "lat": 19.35,
           "lon": -98.4
-        },
+        }
+      ]
+    },
+    {
+      "tipo": "cierre_parcial",
+      "color": "amarillo",
+      "icono": "🟡",
+      "label": "CIERRE PARCIAL / ACCIDENTES",
+      "col2": true,
+      "alertas": [
         {
-          "id": "df677634",
-          "tipo": "bloqueo",
-          "ruta": "Bloqueos carreteras HOY JUEVES 29 de octubre: autopistas cerradas en…",
-          "descripcion": "Bloqueos carreteras HOY JUEVES 29 de octubre: autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY JUEVES 29 de octubre: autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
+          "id": "79c110c9",
+          "tipo": "cierre_parcial",
+          "ruta": "Hará SICT cierre en la Huimanguillo-Cárdenas por trabajos de puente…",
+          "descripcion": "Hará SICT cierre en la Huimanguillo-Cárdenas por trabajos de puente peatonal. La interrupción será este viernes 30 a partir de las 10 horas, a la altura del km 106+800",
           "recomendacion": "",
-          "fecha": "29 octubre 2026 · 07:21 CST",
-          "fecha_iso": "2026-10-29T07:21:00-06:00",
-          "fuente": "Eje Central",
-          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPWGFiaTVoZXpyc21HS2tnUjV6aG5ZNURNMVp3cV81VHc3X3hYYVIyalpGbm5iRXNxU2Z5clZXalZiOVhpTGdKVS1wTnBCSHZRM25QWldTWkREeGlwU2oyemZIOEpGUDJyM0pIVTlXZWZMcldIM1d6cGRlbEhtcmhRQkhIV0NLT1lYangxT1dqVDdKZEx4eFppMWx4c1gyRUttdlRtTkd0d2pNMW9NUnRMR1RON2h2MWJCWG1ILUNPR2J2WldzdFhONmZHNGFvQXNvbXJ5bS1lOGtYZDhhY2xYdjdtSUhnaTBqQVJFT0k3Wi1lZWs?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
+          "fecha": "29 octubre 2026 · 20:00 CST",
+          "fecha_iso": "2026-10-29T20:00:00-06:00",
+          "fuente": "Quadratin Tabasco",
+          "url": "https://tabasco.quadratin.com.mx/municipios/hara-sict-cierre-en-la-huimanguillo-cardenas-por-trabajos-de-puente-peatonal/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
         }
       ]
     }
   ],
   "para_mapa": [
-    {
-      "id": "9f2129a4",
-      "tipo": "cierre_total",
-      "ruta": "carretera a Chapala deja dos personas lesionadas",
-      "descripcion": "Volcadura en carretera a Chapala deja dos personas lesionadas. La información fue difundida por Protección Civil Jalisco como parte del reporte de servicios de emergencia registrados en la entidad",
-      "fecha": "29 octubre 2026 · 17:57 CST",
-      "fuente": "El Informador Jalisco",
-      "url": "https://www.informador.mx/jalisco/volcadura-en-carretera-a-chapala-deja-dos-personas-lesionadas-20261029-0181.html",
-      "dot_color": "#e74c3c",
-      "badge_txt": "CIERRE TOTAL",
-      "lat": 20.66,
-      "lon": -103.35
-    },
     {
       "id": "fee00021",
       "tipo": "bloqueo",
