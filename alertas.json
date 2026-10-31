@@ -1,12 +1,104 @@
 {
-  "ultima_actualizacion": "2026-10-31T07:54:52.404212-06:00",
-  "ultima_actualizacion_legible": "31 de octubre de 2026 · 07:54 CST",
-  "total": 0,
+  "ultima_actualizacion": "2026-10-31T12:03:48.532606-06:00",
+  "ultima_actualizacion_legible": "31 de octubre de 2026 · 12:03 CST",
+  "total": 4,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News"
+    "Google News",
+    "Medios nacionales",
+    "Quadratin + regionales"
   ],
-  "grupos": [],
-  "para_mapa": [],
-  "nota": "Sin alertas activas en la ventana de tiempo configurada."
+  "grupos": [
+    {
+      "tipo": "bloqueo",
+      "color": "rojo",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "62edff93",
+          "tipo": "bloqueo",
+          "ruta": "Bloqueos carreteras HOY sábado 31 de octubre: Autopistas cerradas en…",
+          "descripcion": "Bloqueos carreteras HOY sábado 31 de octubre: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY sábado 31 de octubre: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
+          "recomendacion": "",
+          "fecha": "31 octubre 2026 · 08:55 CST",
+          "fecha_iso": "2026-10-31T08:55:00-06:00",
+          "fuente": "Eje Central",
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNdUdVQVRmd1c5RFRoUlJqRmtNbEpxNWVjaXJKWlJMUTV5cHlaTDVCaVE0Y2k1dUN1OTBmaTRoNkVHWHprOVlYM3ZpMnliZ21hV3ZpMWIwQVFMN0tHZGJuVFZLdXZMdzQ2T2hDaVV6am5vSl9EcVA1dUFHYlBUNFVIOTI1UmdKY1QxUy1HVzhpMkhmR295NkNBV0h1dHNNNDdVeEhLZmlvX0xsZjdCUVpsYkFuM0pMVzBsOG9NOWVhbnVqYVJWY0p2RmZESUtWZDVDZHNzTlc3RUFqVUVUMmJoT216ZG9RbGphVVRCdTNIcHl1YVU?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        }
+      ]
+    },
+    {
+      "tipo": "cierre_parcial",
+      "color": "amarillo",
+      "icono": "🟡",
+      "label": "CIERRE PARCIAL / ACCIDENTES",
+      "col2": true,
+      "alertas": [
+        {
+          "id": "a865d4a1",
+          "tipo": "cierre_parcial",
+          "ruta": "Afectarán cierres viales a Guadalajara este sábado…",
+          "descripcion": "Afectarán cierres viales a Guadalajara este sábado. Los cortes a la circulación comenzarán por la tarde con el desfile y se extenderán hasta la noche con la competencia deportiva",
+          "recomendacion": "",
+          "fecha": "31 octubre 2026 · 10:34 CST",
+          "fecha_iso": "2026-10-31T10:34:00-06:00",
+          "fuente": "Quadratin Jalisco",
+          "url": "https://jalisco.quadratin.com.mx/sucesos/afectaran-cierres-viales-a-guadalajara-este-sabado/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 20.66,
+          "lon": -103.35
+        },
+        {
+          "id": "f13917fd",
+          "tipo": "cierre_parcial",
+          "ruta": "Cierran Reforma por el Desfile de Día de Muertos; estas…",
+          "descripcion": "Cierran Reforma por el Desfile de Día de Muertos; estas son las alternativas viales. La circulación en carriles centrales de Paseo de la Reforma en ambos sentidos entre Estela de Luz y Glorieta del Ahuehuete se encuentra cerrada; te compartimos las vías alternas",
+          "recomendacion": "",
+          "fecha": "31 octubre 2026 · 09:50 CST",
+          "fecha_iso": "2026-10-31T09:50:00-06:00",
+          "fuente": "24 Horas",
+          "url": "https://24-horas.mx/cdmx/desfile-dia-de-muertos-reforma-vias-alternas/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        },
+        {
+          "id": "fb81b2f0",
+          "tipo": "cierre_parcial",
+          "ruta": "Carreteras Bloqueadas en México Hoy, Sábado 31 de Octubre 2026…",
+          "descripcion": "Carreteras Bloqueadas en México Hoy, Sábado 31 de Octubre 2026 - N+. Carreteras Bloqueadas en México Hoy, Sábado 31 de Octubre 2026 N+",
+          "recomendacion": "",
+          "fecha": "31 octubre 2026 · 06:53 CST",
+          "fecha_iso": "2026-10-31T06:53:00-06:00",
+          "fuente": "N+",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTDlZVzN5aWxUQXNKMmI1NU9yNy1FRlV1OWw2MWFfTUVlZGF0NEw3ZDhJVEN6a25Zb1FTT0FjekxXdGdrUF95WUZqQVFIQ2xhc0M1dV94eWZUd1ZETU1VaGVHU2tIa1BhcjBmRFZtTk9tLUNnak9leW54R3h6QmpQYUFhU1N6aTM1Q3hNWW52WEU4dGJOemN4UmRKUU4?oc=5",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        }
+      ]
+    }
+  ],
+  "para_mapa": [
+    {
+      "id": "a865d4a1",
+      "tipo": "cierre_parcial",
+      "ruta": "Afectarán cierres viales a Guadalajara este sábado…",
+      "descripcion": "Afectarán cierres viales a Guadalajara este sábado. Los cortes a la circulación comenzarán por la tarde con el desfile y se extenderán hasta la noche con la competencia deportiva",
+      "fecha": "31 octubre 2026 · 10:34 CST",
+      "fuente": "Quadratin Jalisco",
+      "url": "https://jalisco.quadratin.com.mx/sucesos/afectaran-cierres-viales-a-guadalajara-este-sabado/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 20.66,
+      "lon": -103.35
+    }
+  ]
 }
