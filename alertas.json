@@ -1,80 +1,12 @@
 {
-  "ultima_actualizacion": "2026-10-30T19:51:10.311397-06:00",
-  "ultima_actualizacion_legible": "30 de octubre de 2026 · 19:51 CST",
-  "total": 6,
+  "ultima_actualizacion": "2026-10-31T01:44:56.450208-06:00",
+  "ultima_actualizacion_legible": "31 de octubre de 2026 · 01:44 CST",
+  "total": 1,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News",
-    "Quadratin + regionales",
-    "Telegram"
+    "Quadratin + regionales"
   ],
   "grupos": [
-    {
-      "tipo": "cierre_total",
-      "color": "rojo",
-      "icono": "🔴",
-      "label": "CIERRE TOTAL",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "876e47bd",
-          "tipo": "cierre_total",
-          "ruta": "Video: Volcadura e incendio de tráiler deja dos muertos y…",
-          "descripcion": "Video: Volcadura e incendio de tráiler deja dos muertos y tres heridos en Edomex - Quinta Fuerza. Video: Volcadura e incendio de tráiler deja dos muertos y tres heridos en Edomex Quinta Fuerza",
-          "recomendacion": "",
-          "fecha": "30 octubre 2026 · 13:33 CST",
-          "fecha_iso": "2026-10-30T13:33:00-06:00",
-          "fuente": "Quinta Fuerza",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcHI5TF9qZ0xBVW5URjRXOWswZkpTTEJHZV8xRU51bkp3TUZUemNZbDVfR0tGbUVOanY0YUdZc2lUUUl6cUp3NTBuYm9Eb3VKUTFoNU5XeGtLeGhOS0dvNFd6YlZIMjdBTkdzOXVaWUVRWUZVTWdGMFBoQVZYNFhpLXZiYmpWdDNJa1pRdU9rWW5wQm42T29fZjRtbXpRVG56TkE?oc=5",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL",
-          "lat": 19.35,
-          "lon": -99.7
-        },
-        {
-          "id": "22998850",
-          "tipo": "cierre_total",
-          "ruta": "🚧 ¡Accidente en la #México-#Querétaro! Reportan volcadura en dirección al…",
-          "descripcion": "🚧 ¡Accidente en la #México-#Querétaro! Reportan volcadura en dirección al norte 👇\n\nhttps://lajornadaestadodemexico.com/accidente-en-la-mexico-queretaro-reportan-volcadura-en-direccion-al-norte/",
-          "recomendacion": "",
-          "fecha": "30 octubre 2026 · 08:27 CST",
-          "fecha_iso": "2026-10-30T08:27:00-06:00",
-          "fuente": "Telegram @jornadaedomex",
-          "url": "https://t.me/jornadaedomex/12517",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL",
-          "lat": 20.1,
-          "lon": -99.5
-        }
-      ]
-    },
-    {
-      "tipo": "bloqueo",
-      "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "00f1b272",
-          "tipo": "bloqueo",
-          "ruta": "En Tamaulipas, 6 muertos en narcobloqueos luego de la captura…",
-          "descripcion": "En Tamaulipas, 6 muertos en narcobloqueos luego de la captura del capo Axel\nhttps://www.jornada.com.mx/2026/10/30/estados/031n1est?partner=rss\n\nLa captura de Axel Alfredo N, alias Axel, identificado por las autoridades como el segundo al mando de la célula delictiva Ciclones, y familiar de Osiel Cárdenas Guillén, ex cabecilla del cártel del Golfo, junto con otro sujeto, desató ayer durante todo el día al menos 15 bloqueos con vehículos incendiados en vialidades de las ciudades de Matamoros, Río ",
-          "recomendacion": "",
-          "fecha": "30 octubre 2026 · 11:47 CST",
-          "fecha_iso": "2026-10-30T11:47:00-06:00",
-          "fuente": "Telegram @NOTMEX",
-          "url": "https://t.me/NOTMEX/186947",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 21.0,
-          "lon": -104.0
-        }
-      ]
-    },
     {
       "tipo": "cierre_parcial",
       "color": "amarillo",
@@ -82,22 +14,6 @@
       "label": "CIERRE PARCIAL / ACCIDENTES",
       "col2": true,
       "alertas": [
-        {
-          "id": "bec7f998",
-          "tipo": "cierre_parcial",
-          "ruta": "Vuelca vehículo tras choque en la México-Querétaro; cierran carriles…",
-          "descripcion": "Vuelca vehículo tras choque en la México-Querétaro; cierran carriles. Un accidente a la altura de Perinorte, con dirección a la Ciudad de México, provocó severas afectaciones viales",
-          "recomendacion": "",
-          "fecha": "30 octubre 2026 · 19:22 CST",
-          "fecha_iso": "2026-10-30T19:22:00-06:00",
-          "fuente": "Quadratin EdoMex",
-          "url": "https://edomex.quadratin.com.mx/vuelca-vehiculo-tras-choque-en-la-mexico-queretaro-cierran-carriles/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 20.1,
-          "lon": -99.5
-        },
         {
           "id": "e650a912",
           "tipo": "cierre_parcial",
@@ -113,40 +29,11 @@
           "badge_txt": "CIERRE PARCIAL",
           "lat": 20.1,
           "lon": -99.5
-        },
-        {
-          "id": "0c657e6d",
-          "tipo": "cierre_parcial",
-          "ruta": "Choque entre tráiler y varios autos en la México-Querétaro dejó…",
-          "descripcion": "Choque entre tráiler y varios autos en la México-Querétaro dejó un muerto y siete heridos l VIDEO - Infobae. Choque entre tráiler y varios autos en la México-Querétaro dejó un muerto y siete heridos l VIDEO Infobae",
-          "recomendacion": "",
-          "fecha": "30 octubre 2026 · 12:22 CST",
-          "fecha_iso": "2026-10-30T12:22:00-06:00",
-          "fuente": "Infobae",
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNRjRyMlBwUm5oa21WUXJZZ0tVWkZLYV9VaDZWQnd2dlZPMTh0MkplUmVONGFhckxqel9MUkcyZy1ObUxSSXgwRk9VbVk2ZjBLWWF2a3V2R0hLMmNrUF9FRGtYS2JZWmswX0JtblA5M0hPazF2d3RLTjhzR3VmWnQtU0pNb3phVjhKSXVmR0JjdEttUVV2V29KNGlSRDg1RS1najlZeW02LVdVd19GYl95UWEwajMtQjh4d2dsWjljVk9HZ0lKRzg1Vk1pSDlXVjBwV2JGaEVHSHlXLWVMdVQxS0FoONIB_gFBVV95cUxOSEdhRllIUEJKT2QtNXVUcUpNLU9kcWQ0ZXlTLTdZakFNaVdDR3dCODB1NUtIYy1qLUhvQWpIekQ1ckNRUHZUN0dmOTItSUtSVVozOGxiRzhiVHAxTWYyaEVTbGVZejB3cnU2X3RRSUZuUDdtWlpwTFVKU0VBOTVWbnJwc01lNlphOEtYeU5yRW85T29QWGZyLVBpVVVFYVlpVm5TZTlEa2FNcXlRelBycE9YR3RnMzAyQnBhVFNmVnE5bTZkcHdZY29scFVxZE1uZENjR2JkS25oRW41T2wycEJmdXJRMVVnOGR2c3BvYlVzY3otdmFkS1ItMUMtUQ?oc=5",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 20.1,
-          "lon": -99.5
         }
       ]
     }
   ],
   "para_mapa": [
-    {
-      "id": "bec7f998",
-      "tipo": "cierre_parcial",
-      "ruta": "Vuelca vehículo tras choque en la México-Querétaro; cierran carriles…",
-      "descripcion": "Vuelca vehículo tras choque en la México-Querétaro; cierran carriles. Un accidente a la altura de Perinorte, con dirección a la Ciudad de México, provocó severas afectaciones viales",
-      "fecha": "30 octubre 2026 · 19:22 CST",
-      "fuente": "Quadratin EdoMex",
-      "url": "https://edomex.quadratin.com.mx/vuelca-vehiculo-tras-choque-en-la-mexico-queretaro-cierran-carriles/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 20.1,
-      "lon": -99.5
-    },
     {
       "id": "e650a912",
       "tipo": "cierre_parcial",
@@ -157,58 +44,6 @@
       "url": "https://hidalgo.quadratin.com.mx/sucesos/un-muerto-y-7-lesionados-dejo-accidente-en-la-mexico-queretaro/",
       "dot_color": "#e67e22",
       "badge_txt": "CIERRE PARCIAL",
-      "lat": 20.1,
-      "lon": -99.5
-    },
-    {
-      "id": "876e47bd",
-      "tipo": "cierre_total",
-      "ruta": "Video: Volcadura e incendio de tráiler deja dos muertos y…",
-      "descripcion": "Video: Volcadura e incendio de tráiler deja dos muertos y tres heridos en Edomex - Quinta Fuerza. Video: Volcadura e incendio de tráiler deja dos muertos y tres heridos en Edomex Quinta Fuerza",
-      "fecha": "30 octubre 2026 · 13:33 CST",
-      "fuente": "Quinta Fuerza",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcHI5TF9qZ0xBVW5URjRXOWswZkpTTEJHZV8xRU51bkp3TUZUemNZbDVfR0tGbUVOanY0YUdZc2lUUUl6cUp3NTBuYm9Eb3VKUTFoNU5XeGtLeGhOS0dvNFd6YlZIMjdBTkdzOXVaWUVRWUZVTWdGMFBoQVZYNFhpLXZiYmpWdDNJa1pRdU9rWW5wQm42T29fZjRtbXpRVG56TkE?oc=5",
-      "dot_color": "#e74c3c",
-      "badge_txt": "CIERRE TOTAL",
-      "lat": 19.35,
-      "lon": -99.7
-    },
-    {
-      "id": "0c657e6d",
-      "tipo": "cierre_parcial",
-      "ruta": "Choque entre tráiler y varios autos en la México-Querétaro dejó…",
-      "descripcion": "Choque entre tráiler y varios autos en la México-Querétaro dejó un muerto y siete heridos l VIDEO - Infobae. Choque entre tráiler y varios autos en la México-Querétaro dejó un muerto y siete heridos l VIDEO Infobae",
-      "fecha": "30 octubre 2026 · 12:22 CST",
-      "fuente": "Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNRjRyMlBwUm5oa21WUXJZZ0tVWkZLYV9VaDZWQnd2dlZPMTh0MkplUmVONGFhckxqel9MUkcyZy1ObUxSSXgwRk9VbVk2ZjBLWWF2a3V2R0hLMmNrUF9FRGtYS2JZWmswX0JtblA5M0hPazF2d3RLTjhzR3VmWnQtU0pNb3phVjhKSXVmR0JjdEttUVV2V29KNGlSRDg1RS1najlZeW02LVdVd19GYl95UWEwajMtQjh4d2dsWjljVk9HZ0lKRzg1Vk1pSDlXVjBwV2JGaEVHSHlXLWVMdVQxS0FoONIB_gFBVV95cUxOSEdhRllIUEJKT2QtNXVUcUpNLU9kcWQ0ZXlTLTdZakFNaVdDR3dCODB1NUtIYy1qLUhvQWpIekQ1ckNRUHZUN0dmOTItSUtSVVozOGxiRzhiVHAxTWYyaEVTbGVZejB3cnU2X3RRSUZuUDdtWlpwTFVKU0VBOTVWbnJwc01lNlphOEtYeU5yRW85T29QWGZyLVBpVVVFYVlpVm5TZTlEa2FNcXlRelBycE9YR3RnMzAyQnBhVFNmVnE5bTZkcHdZY29scFVxZE1uZENjR2JkS25oRW41T2wycEJmdXJRMVVnOGR2c3BvYlVzY3otdmFkS1ItMUMtUQ?oc=5",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 20.1,
-      "lon": -99.5
-    },
-    {
-      "id": "00f1b272",
-      "tipo": "bloqueo",
-      "ruta": "En Tamaulipas, 6 muertos en narcobloqueos luego de la captura…",
-      "descripcion": "En Tamaulipas, 6 muertos en narcobloqueos luego de la captura del capo Axel\nhttps://www.jornada.com.mx/2026/10/30/estados/031n1est?partner=rss\n\nLa captura de Axel Alfredo N, alias Axel, identificado por las autoridades como el segundo al mando de la célula delictiva Ciclones, y familiar de Osiel Cárdenas Guillén, ex cabecilla del cártel del Golfo, junto con otro sujeto, desató ayer durante todo el día al menos 15 bloqueos con vehículos incendiados en vialidades de las ciudades de Matamoros, Río ",
-      "fecha": "30 octubre 2026 · 11:47 CST",
-      "fuente": "Telegram @NOTMEX",
-      "url": "https://t.me/NOTMEX/186947",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 21.0,
-      "lon": -104.0
-    },
-    {
-      "id": "22998850",
-      "tipo": "cierre_total",
-      "ruta": "🚧 ¡Accidente en la #México-#Querétaro! Reportan volcadura en dirección al…",
-      "descripcion": "🚧 ¡Accidente en la #México-#Querétaro! Reportan volcadura en dirección al norte 👇\n\nhttps://lajornadaestadodemexico.com/accidente-en-la-mexico-queretaro-reportan-volcadura-en-direccion-al-norte/",
-      "fecha": "30 octubre 2026 · 08:27 CST",
-      "fuente": "Telegram @jornadaedomex",
-      "url": "https://t.me/jornadaedomex/12517",
-      "dot_color": "#e74c3c",
-      "badge_txt": "CIERRE TOTAL",
       "lat": 20.1,
       "lon": -99.5
     }
