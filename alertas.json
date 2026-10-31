@@ -1,6 +1,6 @@
 {
-  "ultima_actualizacion": "2026-10-30T16:44:31.584295-06:00",
-  "ultima_actualizacion_legible": "30 de octubre de 2026 · 16:44 CST",
+  "ultima_actualizacion": "2026-10-30T19:51:10.311397-06:00",
+  "ultima_actualizacion_legible": "30 de octubre de 2026 · 19:51 CST",
   "total": 6,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
@@ -72,20 +72,6 @@
           "badge_txt": "BLOQUEO",
           "lat": 21.0,
           "lon": -104.0
-        },
-        {
-          "id": "c84b895a",
-          "tipo": "bloqueo",
-          "ruta": "Bloqueos carreteras HOY viernes 30 de octubre: autopistas cerradas en…",
-          "descripcion": "Bloqueos carreteras HOY viernes 30 de octubre: autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY viernes 30 de octubre: autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
-          "recomendacion": "",
-          "fecha": "30 octubre 2026 · 07:32 CST",
-          "fecha_iso": "2026-10-30T07:32:00-06:00",
-          "fuente": "Eje Central",
-          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPMDBrbWZ5MzhqNHlfTjhNbElnRUEwd0FsZWx5ZWtXYlVIQ0d4WDRJWURhUjZxN3docktPenR0MkR3S25BQzZ4S3lRMnhzb0NYdjV5eGpVb1VjX0NnTjU4RVBSYXEzOEFYVk1wbTlfX1FmQVZ4VFpjcWhDOWdRbFZ6ak9iRDctOExIVHh4UkNZV2NTZGxFV2FSLU9UenBKb3hnaEZLYUNYVEctc1p5Z0tZdzJwREVzNmI3NVpPY3FlUlU0eW0zdjMxb1ZreTRDZVlQSWpSc3lZWjNVVlBYS1BpdnVqMGgxNXg3ZEtNNHhKOFltdVpF?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
         }
       ]
     },
@@ -96,6 +82,22 @@
       "label": "CIERRE PARCIAL / ACCIDENTES",
       "col2": true,
       "alertas": [
+        {
+          "id": "bec7f998",
+          "tipo": "cierre_parcial",
+          "ruta": "Vuelca vehículo tras choque en la México-Querétaro; cierran carriles…",
+          "descripcion": "Vuelca vehículo tras choque en la México-Querétaro; cierran carriles. Un accidente a la altura de Perinorte, con dirección a la Ciudad de México, provocó severas afectaciones viales",
+          "recomendacion": "",
+          "fecha": "30 octubre 2026 · 19:22 CST",
+          "fecha_iso": "2026-10-30T19:22:00-06:00",
+          "fuente": "Quadratin EdoMex",
+          "url": "https://edomex.quadratin.com.mx/vuelca-vehiculo-tras-choque-en-la-mexico-queretaro-cierran-carriles/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 20.1,
+          "lon": -99.5
+        },
         {
           "id": "e650a912",
           "tipo": "cierre_parcial",
@@ -132,6 +134,19 @@
     }
   ],
   "para_mapa": [
+    {
+      "id": "bec7f998",
+      "tipo": "cierre_parcial",
+      "ruta": "Vuelca vehículo tras choque en la México-Querétaro; cierran carriles…",
+      "descripcion": "Vuelca vehículo tras choque en la México-Querétaro; cierran carriles. Un accidente a la altura de Perinorte, con dirección a la Ciudad de México, provocó severas afectaciones viales",
+      "fecha": "30 octubre 2026 · 19:22 CST",
+      "fuente": "Quadratin EdoMex",
+      "url": "https://edomex.quadratin.com.mx/vuelca-vehiculo-tras-choque-en-la-mexico-queretaro-cierran-carriles/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 20.1,
+      "lon": -99.5
+    },
     {
       "id": "e650a912",
       "tipo": "cierre_parcial",
