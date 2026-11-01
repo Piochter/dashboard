@@ -1,6 +1,6 @@
 {
-  "ultima_actualizacion": "2026-10-31T15:29:42.058442-06:00",
-  "ultima_actualizacion_legible": "31 de octubre de 2026 · 15:29 CST",
+  "ultima_actualizacion": "2026-10-31T18:18:05.380583-06:00",
+  "ultima_actualizacion_legible": "31 de octubre de 2026 · 18:18 CST",
   "total": 4,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
@@ -16,6 +16,22 @@
       "label": "BLOQUEOS / MANIFESTACIONES",
       "col2": false,
       "alertas": [
+        {
+          "id": "407aa0ba",
+          "tipo": "bloqueo",
+          "ruta": "Investigan muerte de niña de 7 años por presunto disparo…",
+          "descripcion": "Investigan muerte de niña de 7 años por presunto disparo de un helicóptero de la Guardia Nacional en Tamaulipas. Además de la menor, cinco personas más murieron en dos accidentes al impactarse contra vehículos incendiados que obstruían las vialidades",
+          "recomendacion": "",
+          "fecha": "31 octubre 2026 · 16:41 CST",
+          "fecha_iso": "2026-10-31T16:41:00-06:00",
+          "fuente": "24 Horas",
+          "url": "https://24-horas.mx/estados/tamaulipas-muerte-nina-helicoptero-guardia-nacional/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 24.26,
+          "lon": -98.84
+        },
         {
           "id": "62edff93",
           "tipo": "bloqueo",
@@ -45,8 +61,8 @@
           "ruta": "Carreteras Bloqueadas en México Hoy, Sábado 31 de Octubre 2026…",
           "descripcion": "Carreteras Bloqueadas en México Hoy, Sábado 31 de Octubre 2026 - N+. Carreteras Bloqueadas en México Hoy, Sábado 31 de Octubre 2026 N+",
           "recomendacion": "",
-          "fecha": "31 octubre 2026 · 14:27 CST",
-          "fecha_iso": "2026-10-31T14:27:00-06:00",
+          "fecha": "31 octubre 2026 · 17:25 CST",
+          "fecha_iso": "2026-10-31T17:25:00-06:00",
           "fuente": "N+",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTDlZVzN5aWxUQXNKMmI1NU9yNy1FRlV1OWw2MWFfTUVlZGF0NEw3ZDhJVEN6a25Zb1FTT0FjekxXdGdrUF95WUZqQVFIQ2xhc0M1dV94eWZUd1ZETU1VaGVHU2tIa1BhcjBmRFZtTk9tLUNnak9leW54R3h6QmpQYUFhU1N6aTM1Q3hNWW52WEU4dGJOemN4UmRKUU4?oc=5",
           "dot_color": "#e67e22",
@@ -66,23 +82,23 @@
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL"
-        },
-        {
-          "id": "f13917fd",
-          "tipo": "cierre_parcial",
-          "ruta": "Cierran Reforma por el Desfile de Día de Muertos; estas…",
-          "descripcion": "Cierran Reforma por el Desfile de Día de Muertos; estas son las alternativas viales. La circulación en carriles centrales de Paseo de la Reforma en ambos sentidos entre Estela de Luz y Glorieta del Ahuehuete se encuentra cerrada; te compartimos las vías alternas",
-          "recomendacion": "",
-          "fecha": "31 octubre 2026 · 09:50 CST",
-          "fecha_iso": "2026-10-31T09:50:00-06:00",
-          "fuente": "24 Horas",
-          "url": "https://24-horas.mx/cdmx/desfile-dia-de-muertos-reforma-vias-alternas/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
         }
       ]
     }
   ],
-  "para_mapa": []
+  "para_mapa": [
+    {
+      "id": "407aa0ba",
+      "tipo": "bloqueo",
+      "ruta": "Investigan muerte de niña de 7 años por presunto disparo…",
+      "descripcion": "Investigan muerte de niña de 7 años por presunto disparo de un helicóptero de la Guardia Nacional en Tamaulipas. Además de la menor, cinco personas más murieron en dos accidentes al impactarse contra vehículos incendiados que obstruían las vialidades",
+      "fecha": "31 octubre 2026 · 16:41 CST",
+      "fuente": "24 Horas",
+      "url": "https://24-horas.mx/estados/tamaulipas-muerte-nina-helicoptero-guardia-nacional/",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 24.26,
+      "lon": -98.84
+    }
+  ]
 }
