@@ -1,12 +1,11 @@
 {
-  "ultima_actualizacion": "2026-10-31T18:18:05.380583-06:00",
-  "ultima_actualizacion_legible": "31 de octubre de 2026 · 18:18 CST",
-  "total": 4,
+  "ultima_actualizacion": "2026-11-01T00:31:44.667931-06:00",
+  "ultima_actualizacion_legible": "1 de noviembre de 2026 · 00:31 CST",
+  "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
-    "Medios nacionales",
-    "Quadratin + regionales"
+    "Medios nacionales"
   ],
   "grupos": [
     {
@@ -31,20 +30,6 @@
           "badge_txt": "BLOQUEO",
           "lat": 24.26,
           "lon": -98.84
-        },
-        {
-          "id": "62edff93",
-          "tipo": "bloqueo",
-          "ruta": "Bloqueos carreteras HOY sábado 31 de octubre: Autopistas cerradas en…",
-          "descripcion": "Bloqueos carreteras HOY sábado 31 de octubre: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY sábado 31 de octubre: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
-          "recomendacion": "",
-          "fecha": "31 octubre 2026 · 08:55 CST",
-          "fecha_iso": "2026-10-31T08:55:00-06:00",
-          "fuente": "Eje Central",
-          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNdUdVQVRmd1c5RFRoUlJqRmtNbEpxNWVjaXJKWlJMUTV5cHlaTDVCaVE0Y2k1dUN1OTBmaTRoNkVHWHprOVlYM3ZpMnliZ21hV3ZpMWIwQVFMN0tHZGJuVFZLdXZMdzQ2T2hDaVV6am5vSl9EcVA1dUFHYlBUNFVIOTI1UmdKY1QxUy1HVzhpMkhmR295NkNBV0h1dHNNNDdVeEhLZmlvX0xsZjdCUVpsYkFuM0pMVzBsOG9NOWVhbnVqYVJWY0p2RmZESUtWZDVDZHNzTlc3RUFqVUVUMmJoT216ZG9RbGphVVRCdTNIcHl1YVU?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
         }
       ]
     },
@@ -61,24 +46,10 @@
           "ruta": "Carreteras Bloqueadas en México Hoy, Sábado 31 de Octubre 2026…",
           "descripcion": "Carreteras Bloqueadas en México Hoy, Sábado 31 de Octubre 2026 - N+. Carreteras Bloqueadas en México Hoy, Sábado 31 de Octubre 2026 N+",
           "recomendacion": "",
-          "fecha": "31 octubre 2026 · 17:25 CST",
-          "fecha_iso": "2026-10-31T17:25:00-06:00",
+          "fecha": "31 octubre 2026 · 14:58 CST",
+          "fecha_iso": "2026-10-31T14:58:00-06:00",
           "fuente": "N+",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTDlZVzN5aWxUQXNKMmI1NU9yNy1FRlV1OWw2MWFfTUVlZGF0NEw3ZDhJVEN6a25Zb1FTT0FjekxXdGdrUF95WUZqQVFIQ2xhc0M1dV94eWZUd1ZETU1VaGVHU2tIa1BhcjBmRFZtTk9tLUNnak9leW54R3h6QmpQYUFhU1N6aTM1Q3hNWW52WEU4dGJOemN4UmRKUU4?oc=5",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
-        },
-        {
-          "id": "ff120937",
-          "tipo": "cierre_parcial",
-          "ruta": "carretera Transístmica",
-          "descripcion": "Chocan 3 vehículos de carga en la carretera Transístmica, en el Istmo. El percance ocurrió a la altura de Las Cumbres, en el tramo Matías Romero–Sayula;",
-          "recomendacion": "",
-          "fecha": "31 octubre 2026 · 14:11 CST",
-          "fecha_iso": "2026-10-31T14:11:00-06:00",
-          "fuente": "Quadratin Oaxaca",
-          "url": "https://oaxaca.quadratin.com.mx/chocan-3-vehiculos-de-carga-en-la-carretera-transistmica-en-el-istmo/",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL"
