@@ -1,12 +1,75 @@
 {
-  "ultima_actualizacion": "2026-11-02T02:17:49.862659-06:00",
-  "ultima_actualizacion_legible": "2 de noviembre de 2026 · 02:17 CST",
-  "total": 0,
+  "ultima_actualizacion": "2026-11-02T12:38:00.270987-06:00",
+  "ultima_actualizacion_legible": "2 de noviembre de 2026 · 12:38 CST",
+  "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News"
+    "Google News",
+    "Medios nacionales"
   ],
-  "grupos": [],
-  "para_mapa": [],
-  "nota": "Sin alertas activas en la ventana de tiempo configurada."
+  "grupos": [
+    {
+      "tipo": "bloqueo",
+      "color": "rojo",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "f993b6e3",
+          "tipo": "bloqueo",
+          "ruta": "Protestan por apagones en Atasta, Campeche; cierran vía…",
+          "descripcion": "Protestan por apagones en Atasta, Campeche; cierran vía. Ciudad Del Carmen, Camp., Pobladores de varias comunidades de la península de Atasta, municipio del Carmen, Campeche, bloquearon 24 horas la carretera federal 180, en protesta por los frecuentes apagones y para exigir que les cumplan la promesa de contar con una subestación eléctrica.",
+          "recomendacion": "",
+          "fecha": "2 noviembre 2026 · 03:07 CST",
+          "fecha_iso": "2026-11-02T03:07:00-06:00",
+          "fuente": "La Jornada Estados",
+          "url": "https://www.jornada.com.mx/2026/11/02/estados/024n2est?partner=rss",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 19.83,
+          "lon": -90.53
+        }
+      ]
+    },
+    {
+      "tipo": "cierre_parcial",
+      "color": "amarillo",
+      "icono": "🟡",
+      "label": "CIERRE PARCIAL / ACCIDENTES",
+      "col2": true,
+      "alertas": [
+        {
+          "id": "97b99ca0",
+          "tipo": "cierre_parcial",
+          "ruta": "Carreteras de alto riesgo: el Estado de México concentra 23%…",
+          "descripcion": "Carreteras de alto riesgo: el Estado de México concentra 23% de los robos a transporte de carga reportados por AMESIS - UnoTV. Carreteras de alto riesgo: el Estado de México concentra 23% de los robos a transporte de carga reportados por AMESIS UnoTV",
+          "recomendacion": "",
+          "fecha": "2 noviembre 2026 · 08:02 CST",
+          "fecha_iso": "2026-11-02T08:02:00-06:00",
+          "fuente": "UnoTV",
+          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOOE5XNWpYcFRZZWhKOWpoR0Qtb2kyTFFXTEVMVG9LWDR6ZFlNeHVKVTlTdDNBd042dS0tdHNLUTlaeVYwUlFaN1M5NExxVmtja2Rxamxjd0JpMUFfb3p1TFBGLUwwT0ZCTjVUWm0yejB5ZTZWbS1tX3NJT0w1SXVIeVlKbmUyeTB3SWpGc2JMUHFZaXJ2Z18xTTVjWUphZGNiQVAxX2pydUxCQ2J5NjNGN1loNTBtaWJNM2tBSjFpZVYzUXBCX1h4d0t0SXA2VXpaaFJXV1E4cTlsWmFJaE4zakpXS0FOU0dYZmxZNUhnZ1I1NnItOFE?oc=5",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        }
+      ]
+    }
+  ],
+  "para_mapa": [
+    {
+      "id": "f993b6e3",
+      "tipo": "bloqueo",
+      "ruta": "Protestan por apagones en Atasta, Campeche; cierran vía…",
+      "descripcion": "Protestan por apagones en Atasta, Campeche; cierran vía. Ciudad Del Carmen, Camp., Pobladores de varias comunidades de la península de Atasta, municipio del Carmen, Campeche, bloquearon 24 horas la carretera federal 180, en protesta por los frecuentes apagones y para exigir que les cumplan la promesa de contar con una subestación eléctrica.",
+      "fecha": "2 noviembre 2026 · 03:07 CST",
+      "fuente": "La Jornada Estados",
+      "url": "https://www.jornada.com.mx/2026/11/02/estados/024n2est?partner=rss",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 19.83,
+      "lon": -90.53
+    }
+  ]
 }
