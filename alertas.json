@@ -1,12 +1,12 @@
 {
-  "ultima_actualizacion": "2026-11-03T09:39:27.259039-06:00",
-  "ultima_actualizacion_legible": "3 de noviembre de 2026 · 09:39 CST",
+  "ultima_actualizacion": "2026-11-03T15:16:05.214394-06:00",
+  "ultima_actualizacion_legible": "3 de noviembre de 2026 · 15:16 CST",
   "total": 4,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
     "Medios nacionales",
-    "Medios regionales",
+    "Quadratin + regionales",
     "Telegram"
   ],
   "grupos": [
@@ -57,18 +57,20 @@
       "col2": true,
       "alertas": [
         {
-          "id": "e8763dda",
+          "id": "8ff3368a",
           "tipo": "cierre_parcial",
-          "ruta": "Accidente en El Carmen: Se fracturan el cráneo tras chocar…",
-          "descripcion": "Accidente en El Carmen: Se fracturan el cráneo tras chocar en moto y bicicleta. Según testigos, ambos conducían en circulación contraria, pero de forma repentina uno invadió el carril y provocó el impacto de frente.",
+          "ruta": "Muere una persona en fuerte accidente sobre la Amozoc-Perote…",
+          "descripcion": "Muere una persona en fuerte accidente sobre la Amozoc-Perote. Muere una persona en autopista Amozoc-Perote.",
           "recomendacion": "",
-          "fecha": "3 noviembre 2026 · 09:32 CST",
-          "fecha_iso": "2026-11-03T09:32:00-06:00",
-          "fuente": "AM Guanajuato",
-          "url": "https://www.am.com.mx/irapuato/2026/11/03/accidente-de-moto-y-bici-deja-dos-graves-en-el-carmen-irapuato-1862059.html",
+          "fecha": "3 noviembre 2026 · 12:17 CST",
+          "fecha_iso": "2026-11-03T12:17:00-06:00",
+          "fuente": "Quadratin Puebla",
+          "url": "https://puebla.quadratin.com.mx/sucesos/muere-una-persona-en-fuerte-accidente-sobre-la-amozoc-perote/",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 19.1,
+          "lon": -98.0
         },
         {
           "id": "18b76b99",
@@ -88,6 +90,19 @@
     }
   ],
   "para_mapa": [
+    {
+      "id": "8ff3368a",
+      "tipo": "cierre_parcial",
+      "ruta": "Muere una persona en fuerte accidente sobre la Amozoc-Perote…",
+      "descripcion": "Muere una persona en fuerte accidente sobre la Amozoc-Perote. Muere una persona en autopista Amozoc-Perote.",
+      "fecha": "3 noviembre 2026 · 12:17 CST",
+      "fuente": "Quadratin Puebla",
+      "url": "https://puebla.quadratin.com.mx/sucesos/muere-una-persona-en-fuerte-accidente-sobre-la-amozoc-perote/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 19.1,
+      "lon": -98.0
+    },
     {
       "id": "298fd6ab",
       "tipo": "bloqueo",
