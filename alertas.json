@@ -1,38 +1,12 @@
 {
-  "ultima_actualizacion": "2026-11-02T12:38:00.270987-06:00",
-  "ultima_actualizacion_legible": "2 de noviembre de 2026 · 12:38 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-11-02T19:15:27.847947-06:00",
+  "ultima_actualizacion_legible": "2 de noviembre de 2026 · 19:15 CST",
+  "total": 1,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News",
-    "Medios nacionales"
+    "Google News"
   ],
   "grupos": [
-    {
-      "tipo": "bloqueo",
-      "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "f993b6e3",
-          "tipo": "bloqueo",
-          "ruta": "Protestan por apagones en Atasta, Campeche; cierran vía…",
-          "descripcion": "Protestan por apagones en Atasta, Campeche; cierran vía. Ciudad Del Carmen, Camp., Pobladores de varias comunidades de la península de Atasta, municipio del Carmen, Campeche, bloquearon 24 horas la carretera federal 180, en protesta por los frecuentes apagones y para exigir que les cumplan la promesa de contar con una subestación eléctrica.",
-          "recomendacion": "",
-          "fecha": "2 noviembre 2026 · 03:07 CST",
-          "fecha_iso": "2026-11-02T03:07:00-06:00",
-          "fuente": "La Jornada Estados",
-          "url": "https://www.jornada.com.mx/2026/11/02/estados/024n2est?partner=rss",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 19.83,
-          "lon": -90.53
-        }
-      ]
-    },
     {
       "tipo": "cierre_parcial",
       "color": "amarillo",
@@ -57,19 +31,5 @@
       ]
     }
   ],
-  "para_mapa": [
-    {
-      "id": "f993b6e3",
-      "tipo": "bloqueo",
-      "ruta": "Protestan por apagones en Atasta, Campeche; cierran vía…",
-      "descripcion": "Protestan por apagones en Atasta, Campeche; cierran vía. Ciudad Del Carmen, Camp., Pobladores de varias comunidades de la península de Atasta, municipio del Carmen, Campeche, bloquearon 24 horas la carretera federal 180, en protesta por los frecuentes apagones y para exigir que les cumplan la promesa de contar con una subestación eléctrica.",
-      "fecha": "2 noviembre 2026 · 03:07 CST",
-      "fuente": "La Jornada Estados",
-      "url": "https://www.jornada.com.mx/2026/11/02/estados/024n2est?partner=rss",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 19.83,
-      "lon": -90.53
-    }
-  ]
+  "para_mapa": []
 }
