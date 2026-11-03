@@ -1,6 +1,6 @@
 {
-  "ultima_actualizacion": "2026-11-02T19:15:27.847947-06:00",
-  "ultima_actualizacion_legible": "2 de noviembre de 2026 · 19:15 CST",
+  "ultima_actualizacion": "2026-11-03T01:56:40.817231-06:00",
+  "ultima_actualizacion_legible": "3 de noviembre de 2026 · 01:56 CST",
   "total": 1,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
@@ -15,21 +15,37 @@
       "col2": true,
       "alertas": [
         {
-          "id": "97b99ca0",
+          "id": "ad5558f3",
           "tipo": "cierre_parcial",
           "ruta": "Carreteras de alto riesgo: el Estado de México concentra 23%…",
-          "descripcion": "Carreteras de alto riesgo: el Estado de México concentra 23% de los robos a transporte de carga reportados por AMESIS - UnoTV. Carreteras de alto riesgo: el Estado de México concentra 23% de los robos a transporte de carga reportados por AMESIS UnoTV",
+          "descripcion": "Carreteras de alto riesgo: el Estado de México concentra 23% de los robos a transporte de carga reportados por AMESIS - Crónica de Xalapa. Carreteras de alto riesgo: el Estado de México concentra 23% de los robos a transporte de carga reportados por AMESIS Crónica de Xalapa",
           "recomendacion": "",
-          "fecha": "2 noviembre 2026 · 08:02 CST",
-          "fecha_iso": "2026-11-02T08:02:00-06:00",
-          "fuente": "UnoTV",
-          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOOE5XNWpYcFRZZWhKOWpoR0Qtb2kyTFFXTEVMVG9LWDR6ZFlNeHVKVTlTdDNBd042dS0tdHNLUTlaeVYwUlFaN1M5NExxVmtja2Rxamxjd0JpMUFfb3p1TFBGLUwwT0ZCTjVUWm0yejB5ZTZWbS1tX3NJT0w1SXVIeVlKbmUyeTB3SWpGc2JMUHFZaXJ2Z18xTTVjWUphZGNiQVAxX2pydUxCQ2J5NjNGN1loNTBtaWJNM2tBSjFpZVYzUXBCX1h4d0t0SXA2VXpaaFJXV1E4cTlsWmFJaE4zakpXS0FOU0dYZmxZNUhnZ1I1NnItOFE?oc=5",
+          "fecha": "2 noviembre 2026 · 21:10 CST",
+          "fecha_iso": "2026-11-02T21:10:00-06:00",
+          "fuente": "Crónica de Xalapa",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdlFtbi1YSG9SVkNNN0g2V0FiOHl1cDcwQ19Kd1JfdHAyc1h0aU5lQnJpczRyYXdQcy1faG1JYlJEajZiOGFRUUk1WWltYlktZ3VTT0RwNVp1aF9LQXpJc3VpM0cweF9HTkpSU2d1ajhramFpa3ljOUpOM250RUFjU2lVRy1LQWlOVzNUeXpLR2ItaVFJYXpjeVg1NkVnNHoyWERRUHYtY2M0V2RnYWdZamZjZXJRd0pKSkhhRmxPV216QVkyVVhYNXlaLXJNd2JsRkcwY1FwOTc0dWVnT3cwWg?oc=5",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 19.53,
+          "lon": -96.91
         }
       ]
     }
   ],
-  "para_mapa": []
+  "para_mapa": [
+    {
+      "id": "ad5558f3",
+      "tipo": "cierre_parcial",
+      "ruta": "Carreteras de alto riesgo: el Estado de México concentra 23%…",
+      "descripcion": "Carreteras de alto riesgo: el Estado de México concentra 23% de los robos a transporte de carga reportados por AMESIS - Crónica de Xalapa. Carreteras de alto riesgo: el Estado de México concentra 23% de los robos a transporte de carga reportados por AMESIS Crónica de Xalapa",
+      "fecha": "2 noviembre 2026 · 21:10 CST",
+      "fuente": "Crónica de Xalapa",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdlFtbi1YSG9SVkNNN0g2V0FiOHl1cDcwQ19Kd1JfdHAyc1h0aU5lQnJpczRyYXdQcy1faG1JYlJEajZiOGFRUUk1WWltYlktZ3VTT0RwNVp1aF9LQXpJc3VpM0cweF9HTkpSU2d1ajhramFpa3ljOUpOM250RUFjU2lVRy1LQWlOVzNUeXpLR2ItaVFJYXpjeVg1NkVnNHoyWERRUHYtY2M0V2RnYWdZamZjZXJRd0pKSkhhRmxPV216QVkyVVhYNXlaLXJNd2JsRkcwY1FwOTc0dWVnT3cwWg?oc=5",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 19.53,
+      "lon": -96.91
+    }
+  ]
 }
