@@ -1,12 +1,54 @@
 {
-  "ultima_actualizacion": "2026-11-03T01:56:40.817231-06:00",
-  "ultima_actualizacion_legible": "3 de noviembre de 2026 · 01:56 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-11-03T09:39:27.259039-06:00",
+  "ultima_actualizacion_legible": "3 de noviembre de 2026 · 09:39 CST",
+  "total": 4,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News"
+    "Google News",
+    "Medios nacionales",
+    "Medios regionales",
+    "Telegram"
   ],
   "grupos": [
+    {
+      "tipo": "bloqueo",
+      "color": "rojo",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "298fd6ab",
+          "tipo": "bloqueo",
+          "ruta": "Bloqueos carreteros hoy 3 de noviembre: accidentes provocan cierres en…",
+          "descripcion": "Bloqueos carreteros hoy 3 de noviembre: accidentes provocan cierres en México-Puebla y México-Querétaro - Eje Central. Bloqueos carreteros hoy 3 de noviembre: accidentes provocan cierres en México-Puebla y México-Querétaro Eje Central",
+          "recomendacion": "",
+          "fecha": "3 noviembre 2026 · 07:25 CST",
+          "fecha_iso": "2026-11-03T07:25:00-06:00",
+          "fuente": "Eje Central",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMElvMGoyUFZkT0FFZnBBQy02Ukw0UEp3TDVsdVlEQ1JHZlJvOGlPdk96YzJBZ1lZempaQ1RiNzdHZFdxd0xfUjgxZkNiV1VDTndzZkZFeWNyYVVXOHlGN1lIX0tzUXVydjE1NGpPNElFWWFIbmYtTlpJOUk5QU5WTnNZNmUwM0VUcHZNazEycEQxMU5aNF9uOWVwRUFGSXc2MHhrbDQ2cXlhSWYwVFF5Mlp5eUI0UkZESmktNGtQWUJzcGthX2dvVHp1S2NSd2xYZ2lGakI3bl9pa2xs?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 19.35,
+          "lon": -98.4
+        },
+        {
+          "id": "d2708ed3",
+          "tipo": "bloqueo",
+          "ruta": "📢 #PaseoTollocan normaliza su circulación tras retiro de manifestantes [VIDEO]…",
+          "descripcion": "📢 #PaseoTollocan normaliza su circulación tras retiro de manifestantes [VIDEO]\n\nhttps://lajornadaestadodemexico.com/paseo-tollocan-circulacion-retiro-de-manifestantes/",
+          "recomendacion": "",
+          "fecha": "3 noviembre 2026 · 06:50 CST",
+          "fecha_iso": "2026-11-03T06:50:00-06:00",
+          "fuente": "Telegram @jornadaedomex",
+          "url": "https://t.me/jornadaedomex/12544",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        }
+      ]
+    },
     {
       "tipo": "cierre_parcial",
       "color": "amarillo",
@@ -15,37 +57,49 @@
       "col2": true,
       "alertas": [
         {
-          "id": "ad5558f3",
+          "id": "e8763dda",
           "tipo": "cierre_parcial",
-          "ruta": "Carreteras de alto riesgo: el Estado de México concentra 23%…",
-          "descripcion": "Carreteras de alto riesgo: el Estado de México concentra 23% de los robos a transporte de carga reportados por AMESIS - Crónica de Xalapa. Carreteras de alto riesgo: el Estado de México concentra 23% de los robos a transporte de carga reportados por AMESIS Crónica de Xalapa",
+          "ruta": "Accidente en El Carmen: Se fracturan el cráneo tras chocar…",
+          "descripcion": "Accidente en El Carmen: Se fracturan el cráneo tras chocar en moto y bicicleta. Según testigos, ambos conducían en circulación contraria, pero de forma repentina uno invadió el carril y provocó el impacto de frente.",
           "recomendacion": "",
-          "fecha": "2 noviembre 2026 · 21:10 CST",
-          "fecha_iso": "2026-11-02T21:10:00-06:00",
-          "fuente": "Crónica de Xalapa",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdlFtbi1YSG9SVkNNN0g2V0FiOHl1cDcwQ19Kd1JfdHAyc1h0aU5lQnJpczRyYXdQcy1faG1JYlJEajZiOGFRUUk1WWltYlktZ3VTT0RwNVp1aF9LQXpJc3VpM0cweF9HTkpSU2d1ajhramFpa3ljOUpOM250RUFjU2lVRy1LQWlOVzNUeXpLR2ItaVFJYXpjeVg1NkVnNHoyWERRUHYtY2M0V2RnYWdZamZjZXJRd0pKSkhhRmxPV216QVkyVVhYNXlaLXJNd2JsRkcwY1FwOTc0dWVnT3cwWg?oc=5",
+          "fecha": "3 noviembre 2026 · 09:32 CST",
+          "fecha_iso": "2026-11-03T09:32:00-06:00",
+          "fuente": "AM Guanajuato",
+          "url": "https://www.am.com.mx/irapuato/2026/11/03/accidente-de-moto-y-bici-deja-dos-graves-en-el-carmen-irapuato-1862059.html",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.53,
-          "lon": -96.91
+          "badge_txt": "CIERRE PARCIAL"
+        },
+        {
+          "id": "18b76b99",
+          "tipo": "cierre_parcial",
+          "ruta": "Motive redefine la seguridad y eficiencia del transporte con IA…",
+          "descripcion": "Motive redefine la seguridad y eficiencia del transporte con IA. La transformación tecnológica del autotransporte ya no consiste únicamente en conocer la ubicación de un camión, sino en comprender qué sucede durante su recorrido y contar con información que permita actuar antes de que un riesgo se convierta en una emergencia. En un sector donde la inseguridad carretera, los accidentes y las exigencias operativas representan […]",
+          "recomendacion": "",
+          "fecha": "3 noviembre 2026 · 07:18 CST",
+          "fecha_iso": "2026-11-03T07:18:00-06:00",
+          "fuente": "T21 Transporte",
+          "url": "https://t21.com.mx/motive-redefine-la-seguridad-y-eficiencia-del-transporte-con-ia/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
         }
       ]
     }
   ],
   "para_mapa": [
     {
-      "id": "ad5558f3",
-      "tipo": "cierre_parcial",
-      "ruta": "Carreteras de alto riesgo: el Estado de México concentra 23%…",
-      "descripcion": "Carreteras de alto riesgo: el Estado de México concentra 23% de los robos a transporte de carga reportados por AMESIS - Crónica de Xalapa. Carreteras de alto riesgo: el Estado de México concentra 23% de los robos a transporte de carga reportados por AMESIS Crónica de Xalapa",
-      "fecha": "2 noviembre 2026 · 21:10 CST",
-      "fuente": "Crónica de Xalapa",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdlFtbi1YSG9SVkNNN0g2V0FiOHl1cDcwQ19Kd1JfdHAyc1h0aU5lQnJpczRyYXdQcy1faG1JYlJEajZiOGFRUUk1WWltYlktZ3VTT0RwNVp1aF9LQXpJc3VpM0cweF9HTkpSU2d1ajhramFpa3ljOUpOM250RUFjU2lVRy1LQWlOVzNUeXpLR2ItaVFJYXpjeVg1NkVnNHoyWERRUHYtY2M0V2RnYWdZamZjZXJRd0pKSkhhRmxPV216QVkyVVhYNXlaLXJNd2JsRkcwY1FwOTc0dWVnT3cwWg?oc=5",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.53,
-      "lon": -96.91
+      "id": "298fd6ab",
+      "tipo": "bloqueo",
+      "ruta": "Bloqueos carreteros hoy 3 de noviembre: accidentes provocan cierres en…",
+      "descripcion": "Bloqueos carreteros hoy 3 de noviembre: accidentes provocan cierres en México-Puebla y México-Querétaro - Eje Central. Bloqueos carreteros hoy 3 de noviembre: accidentes provocan cierres en México-Puebla y México-Querétaro Eje Central",
+      "fecha": "3 noviembre 2026 · 07:25 CST",
+      "fuente": "Eje Central",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMElvMGoyUFZkT0FFZnBBQy02Ukw0UEp3TDVsdVlEQ1JHZlJvOGlPdk96YzJBZ1lZempaQ1RiNzdHZFdxd0xfUjgxZkNiV1VDTndzZkZFeWNyYVVXOHlGN1lIX0tzUXVydjE1NGpPNElFWWFIbmYtTlpJOUk5QU5WTnNZNmUwM0VUcHZNazEycEQxMU5aNF9uOWVwRUFGSXc2MHhrbDQ2cXlhSWYwVFF5Mlp5eUI0UkZESmktNGtQWUJzcGthX2dvVHp1S2NSd2xYZ2lGakI3bl9pa2xs?oc=5",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 19.35,
+      "lon": -98.4
     }
   ]
 }
