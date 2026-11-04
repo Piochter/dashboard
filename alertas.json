@@ -1,13 +1,10 @@
 {
-  "ultima_actualizacion": "2026-11-03T15:16:05.214394-06:00",
-  "ultima_actualizacion_legible": "3 de noviembre de 2026 · 15:16 CST",
-  "total": 4,
+  "ultima_actualizacion": "2026-11-03T19:24:44.230106-06:00",
+  "ultima_actualizacion_legible": "3 de noviembre de 2026 · 19:24 CST",
+  "total": 1,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News",
-    "Medios nacionales",
-    "Quadratin + regionales",
-    "Telegram"
+    "Google News"
   ],
   "grupos": [
     {
@@ -32,77 +29,11 @@
           "badge_txt": "BLOQUEO",
           "lat": 19.35,
           "lon": -98.4
-        },
-        {
-          "id": "d2708ed3",
-          "tipo": "bloqueo",
-          "ruta": "📢 #PaseoTollocan normaliza su circulación tras retiro de manifestantes [VIDEO]…",
-          "descripcion": "📢 #PaseoTollocan normaliza su circulación tras retiro de manifestantes [VIDEO]\n\nhttps://lajornadaestadodemexico.com/paseo-tollocan-circulacion-retiro-de-manifestantes/",
-          "recomendacion": "",
-          "fecha": "3 noviembre 2026 · 06:50 CST",
-          "fecha_iso": "2026-11-03T06:50:00-06:00",
-          "fuente": "Telegram @jornadaedomex",
-          "url": "https://t.me/jornadaedomex/12544",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        }
-      ]
-    },
-    {
-      "tipo": "cierre_parcial",
-      "color": "amarillo",
-      "icono": "🟡",
-      "label": "CIERRE PARCIAL / ACCIDENTES",
-      "col2": true,
-      "alertas": [
-        {
-          "id": "8ff3368a",
-          "tipo": "cierre_parcial",
-          "ruta": "Muere una persona en fuerte accidente sobre la Amozoc-Perote…",
-          "descripcion": "Muere una persona en fuerte accidente sobre la Amozoc-Perote. Muere una persona en autopista Amozoc-Perote.",
-          "recomendacion": "",
-          "fecha": "3 noviembre 2026 · 12:17 CST",
-          "fecha_iso": "2026-11-03T12:17:00-06:00",
-          "fuente": "Quadratin Puebla",
-          "url": "https://puebla.quadratin.com.mx/sucesos/muere-una-persona-en-fuerte-accidente-sobre-la-amozoc-perote/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.1,
-          "lon": -98.0
-        },
-        {
-          "id": "18b76b99",
-          "tipo": "cierre_parcial",
-          "ruta": "Motive redefine la seguridad y eficiencia del transporte con IA…",
-          "descripcion": "Motive redefine la seguridad y eficiencia del transporte con IA. La transformación tecnológica del autotransporte ya no consiste únicamente en conocer la ubicación de un camión, sino en comprender qué sucede durante su recorrido y contar con información que permita actuar antes de que un riesgo se convierta en una emergencia. En un sector donde la inseguridad carretera, los accidentes y las exigencias operativas representan […]",
-          "recomendacion": "",
-          "fecha": "3 noviembre 2026 · 07:18 CST",
-          "fecha_iso": "2026-11-03T07:18:00-06:00",
-          "fuente": "T21 Transporte",
-          "url": "https://t21.com.mx/motive-redefine-la-seguridad-y-eficiencia-del-transporte-con-ia/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
         }
       ]
     }
   ],
   "para_mapa": [
-    {
-      "id": "8ff3368a",
-      "tipo": "cierre_parcial",
-      "ruta": "Muere una persona en fuerte accidente sobre la Amozoc-Perote…",
-      "descripcion": "Muere una persona en fuerte accidente sobre la Amozoc-Perote. Muere una persona en autopista Amozoc-Perote.",
-      "fecha": "3 noviembre 2026 · 12:17 CST",
-      "fuente": "Quadratin Puebla",
-      "url": "https://puebla.quadratin.com.mx/sucesos/muere-una-persona-en-fuerte-accidente-sobre-la-amozoc-perote/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.1,
-      "lon": -98.0
-    },
     {
       "id": "298fd6ab",
       "tipo": "bloqueo",
