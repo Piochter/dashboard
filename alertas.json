@@ -1,51 +1,12 @@
 {
-  "ultima_actualizacion": "2026-11-04T01:41:31.847182-06:00",
-  "ultima_actualizacion_legible": "4 de noviembre de 2026 · 01:41 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-11-04T09:46:13.038181-06:00",
+  "ultima_actualizacion_legible": "4 de noviembre de 2026 · 09:46 CST",
+  "total": 0,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Quadratin + regionales"
+    "Google News"
   ],
-  "grupos": [
-    {
-      "tipo": "bloqueo",
-      "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "60abda21",
-          "tipo": "bloqueo",
-          "ruta": "Clausuran empresa en Atotonilco El Alto por derrame de vinazas…",
-          "descripcion": "Clausuran empresa en Atotonilco El Alto por derrame de vinazas en carretera. La empresa contará con un plazo de 15 días para ejercer su derecho de defensa y presentar las manifestaciones que considere pertinentes.",
-          "recomendacion": "",
-          "fecha": "3 noviembre 2026 · 19:52 CST",
-          "fecha_iso": "2026-11-03T19:52:00-06:00",
-          "fuente": "Quadratin Jalisco",
-          "url": "https://jalisco.quadratin.com.mx/sucesos/clausuran-empresa-en-atotonilco-el-alto-por-derrame-de-vinazas-en-carretera/",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 21.0,
-          "lon": -104.0
-        }
-      ]
-    }
-  ],
-  "para_mapa": [
-    {
-      "id": "60abda21",
-      "tipo": "bloqueo",
-      "ruta": "Clausuran empresa en Atotonilco El Alto por derrame de vinazas…",
-      "descripcion": "Clausuran empresa en Atotonilco El Alto por derrame de vinazas en carretera. La empresa contará con un plazo de 15 días para ejercer su derecho de defensa y presentar las manifestaciones que considere pertinentes.",
-      "fecha": "3 noviembre 2026 · 19:52 CST",
-      "fuente": "Quadratin Jalisco",
-      "url": "https://jalisco.quadratin.com.mx/sucesos/clausuran-empresa-en-atotonilco-el-alto-por-derrame-de-vinazas-en-carretera/",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 21.0,
-      "lon": -104.0
-    }
-  ]
+  "grupos": [],
+  "para_mapa": [],
+  "nota": "Sin alertas activas en la ventana de tiempo configurada."
 }
