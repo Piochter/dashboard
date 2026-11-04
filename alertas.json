@@ -1,10 +1,10 @@
 {
-  "ultima_actualizacion": "2026-11-03T19:24:44.230106-06:00",
-  "ultima_actualizacion_legible": "3 de noviembre de 2026 · 19:24 CST",
+  "ultima_actualizacion": "2026-11-04T01:41:31.847182-06:00",
+  "ultima_actualizacion_legible": "4 de noviembre de 2026 · 01:41 CST",
   "total": 1,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News"
+    "Quadratin + regionales"
   ],
   "grupos": [
     {
@@ -15,37 +15,37 @@
       "col2": false,
       "alertas": [
         {
-          "id": "298fd6ab",
+          "id": "60abda21",
           "tipo": "bloqueo",
-          "ruta": "Bloqueos carreteros hoy 3 de noviembre: accidentes provocan cierres en…",
-          "descripcion": "Bloqueos carreteros hoy 3 de noviembre: accidentes provocan cierres en México-Puebla y México-Querétaro - Eje Central. Bloqueos carreteros hoy 3 de noviembre: accidentes provocan cierres en México-Puebla y México-Querétaro Eje Central",
+          "ruta": "Clausuran empresa en Atotonilco El Alto por derrame de vinazas…",
+          "descripcion": "Clausuran empresa en Atotonilco El Alto por derrame de vinazas en carretera. La empresa contará con un plazo de 15 días para ejercer su derecho de defensa y presentar las manifestaciones que considere pertinentes.",
           "recomendacion": "",
-          "fecha": "3 noviembre 2026 · 07:25 CST",
-          "fecha_iso": "2026-11-03T07:25:00-06:00",
-          "fuente": "Eje Central",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMElvMGoyUFZkT0FFZnBBQy02Ukw0UEp3TDVsdVlEQ1JHZlJvOGlPdk96YzJBZ1lZempaQ1RiNzdHZFdxd0xfUjgxZkNiV1VDTndzZkZFeWNyYVVXOHlGN1lIX0tzUXVydjE1NGpPNElFWWFIbmYtTlpJOUk5QU5WTnNZNmUwM0VUcHZNazEycEQxMU5aNF9uOWVwRUFGSXc2MHhrbDQ2cXlhSWYwVFF5Mlp5eUI0UkZESmktNGtQWUJzcGthX2dvVHp1S2NSd2xYZ2lGakI3bl9pa2xs?oc=5",
+          "fecha": "3 noviembre 2026 · 19:52 CST",
+          "fecha_iso": "2026-11-03T19:52:00-06:00",
+          "fuente": "Quadratin Jalisco",
+          "url": "https://jalisco.quadratin.com.mx/sucesos/clausuran-empresa-en-atotonilco-el-alto-por-derrame-de-vinazas-en-carretera/",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO",
-          "lat": 19.35,
-          "lon": -98.4
+          "lat": 21.0,
+          "lon": -104.0
         }
       ]
     }
   ],
   "para_mapa": [
     {
-      "id": "298fd6ab",
+      "id": "60abda21",
       "tipo": "bloqueo",
-      "ruta": "Bloqueos carreteros hoy 3 de noviembre: accidentes provocan cierres en…",
-      "descripcion": "Bloqueos carreteros hoy 3 de noviembre: accidentes provocan cierres en México-Puebla y México-Querétaro - Eje Central. Bloqueos carreteros hoy 3 de noviembre: accidentes provocan cierres en México-Puebla y México-Querétaro Eje Central",
-      "fecha": "3 noviembre 2026 · 07:25 CST",
-      "fuente": "Eje Central",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMElvMGoyUFZkT0FFZnBBQy02Ukw0UEp3TDVsdVlEQ1JHZlJvOGlPdk96YzJBZ1lZempaQ1RiNzdHZFdxd0xfUjgxZkNiV1VDTndzZkZFeWNyYVVXOHlGN1lIX0tzUXVydjE1NGpPNElFWWFIbmYtTlpJOUk5QU5WTnNZNmUwM0VUcHZNazEycEQxMU5aNF9uOWVwRUFGSXc2MHhrbDQ2cXlhSWYwVFF5Mlp5eUI0UkZESmktNGtQWUJzcGthX2dvVHp1S2NSd2xYZ2lGakI3bl9pa2xs?oc=5",
+      "ruta": "Clausuran empresa en Atotonilco El Alto por derrame de vinazas…",
+      "descripcion": "Clausuran empresa en Atotonilco El Alto por derrame de vinazas en carretera. La empresa contará con un plazo de 15 días para ejercer su derecho de defensa y presentar las manifestaciones que considere pertinentes.",
+      "fecha": "3 noviembre 2026 · 19:52 CST",
+      "fuente": "Quadratin Jalisco",
+      "url": "https://jalisco.quadratin.com.mx/sucesos/clausuran-empresa-en-atotonilco-el-alto-por-derrame-de-vinazas-en-carretera/",
       "dot_color": "#8e44ad",
       "badge_txt": "BLOQUEO",
-      "lat": 19.35,
-      "lon": -98.4
+      "lat": 21.0,
+      "lon": -104.0
     }
   ]
 }
