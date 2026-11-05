@@ -1,9 +1,10 @@
 {
-  "ultima_actualizacion": "2026-11-05T10:52:41.407958-06:00",
-  "ultima_actualizacion_legible": "5 de noviembre de 2026 · 10:52 CST",
-  "total": 5,
+  "ultima_actualizacion": "2026-11-05T16:27:56.152781-06:00",
+  "ultima_actualizacion_legible": "5 de noviembre de 2026 · 16:27 CST",
+  "total": 6,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
+    "Google News",
     "Medios nacionales",
     "Medios regionales",
     "Telegram"
@@ -17,15 +18,15 @@
       "col2": false,
       "alertas": [
         {
-          "id": "36906967",
+          "id": "44fcf4f2",
           "tipo": "cierre_total",
-          "ruta": "Vuelca camioneta cerca de Daltile en Salamanca; muere un hombre…",
-          "descripcion": "Vuelca camioneta cerca de Daltile en Salamanca; muere un hombre y dos quedan graves. Un hombre murió y dos más resultaron heridos en la volcadura de una camioneta sobre la carretera que une Salamanca y Valle de Santiago.",
+          "ruta": "Identifican a Víctor Alexis, estudiante de UTSOE que murió en…",
+          "descripcion": "Identifican a Víctor Alexis, estudiante de UTSOE que murió en volcadura de camioneta en Salamanca. La volcadura ocurrió cerca de Daltile, en la carretera Salamanca-Valle. Los otros dos estudiantes fueron hospitalizados en estado delicado.",
           "recomendacion": "",
-          "fecha": "5 noviembre 2026 · 08:46 CST",
-          "fecha_iso": "2026-11-05T08:46:00-06:00",
+          "fecha": "5 noviembre 2026 · 15:31 CST",
+          "fecha_iso": "2026-11-05T15:31:00-06:00",
           "fuente": "AM Guanajuato",
-          "url": "https://www.am.com.mx/salamanca/2026/11/05/vuelca-camioneta-cerca-de-daltile-en-salamanca-muere-un-hombre-y-dos-quedan-graves-1862933.html",
+          "url": "https://www.am.com.mx/salamanca/2026/11/05/identifican-a-victor-alexis-estudiante-de-utsoe-que-murio-en-volcadura-de-camioneta-en-salamanca-1863076.html",
           "dot_color": "#e74c3c",
           "badge": "badge-cierre-total",
           "badge_txt": "CIERRE TOTAL"
@@ -56,20 +57,20 @@
       "col2": false,
       "alertas": [
         {
-          "id": "8f137f34",
+          "id": "c01e015c",
           "tipo": "bloqueo",
-          "ruta": "Marchas y manifestaciones este jueves 5 de noviembre en CDMX;…",
-          "descripcion": "Marchas y manifestaciones este jueves 5 de noviembre en CDMX; esta es la lista completa y calles afectadas. La capital será testigo de una marcha por la desaparición de una joven en la carretera Picacho-Ajusco en 2017 y otras 7 manifestaciones",
+          "ruta": "Bloqueo Suma Más de 24 Horas en la Carretera Federal…",
+          "descripcion": "Bloqueo Suma Más de 24 Horas en la Carretera Federal Cholula-Huejotzingo de Puebla - N+. Bloqueo Suma Más de 24 Horas en la Carretera Federal Cholula-Huejotzingo de Puebla N+",
           "recomendacion": "",
-          "fecha": "5 noviembre 2026 · 07:09 CST",
-          "fecha_iso": "2026-11-05T07:09:00-06:00",
-          "fuente": "24 Horas",
-          "url": "https://24-horas.mx/cdmx/marchas-manifestaciones-cdmx-hoy-5-noviembre-2026/",
+          "fecha": "5 noviembre 2026 · 11:34 CST",
+          "fecha_iso": "2026-11-05T11:34:00-06:00",
+          "fuente": "N+",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSnE1SDZ5TkJTM0ZBSUxtUUR5d3Ftd3N4X1NURmR4LTFSbzFmaTdCdzJVZGRxY1lvTmMxUG56bVVLVC1FWEFPSGNUYzZ5X25fZUJmS0xHb2tRWkhnaG1RWjdlLVpWa1hEU1FqeWlUam1qT09jdVcxNlZVcTdKcmx3TnB5SFlnNUVJZVdIYk5jZTkwT3FJMDVfWjFVa1l4ZEZxbjhWbW01d3dRZWlXV0czd0YyNjc1cExSbnlNcjdKbG5LbHhiS2JtY0xjdjBSODBVSUsyazVNc29mNXc?oc=5",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO",
-          "lat": 19.43,
-          "lon": -99.13
+          "lat": 19.04,
+          "lon": -98.2
         },
         {
           "id": "abce2086",
@@ -95,6 +96,20 @@
       "col2": true,
       "alertas": [
         {
+          "id": "617f845b",
+          "tipo": "cierre_parcial",
+          "ruta": "carretera de Valle de Santiago",
+          "descripcion": "Conductor lo impacta y huye: Muere motociclista en carretera de Valle de Santiago. El accidente ocurrió cerca de Rosa de Castilla, en Valle de Santiago. La Fiscalía realizó las diligencias y trasladó el cuerpo al Semefo.",
+          "recomendacion": "",
+          "fecha": "5 noviembre 2026 · 15:37 CST",
+          "fecha_iso": "2026-11-05T15:37:00-06:00",
+          "fuente": "AM Guanajuato",
+          "url": "https://www.am.com.mx/guanajuato-sur/2026/11/05/conductor-lo-impacta-y-huye-muere-motociclista-en-carretera-de-valle-de-santiago-1863082.html",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        },
+        {
           "id": "680b4dbd",
           "tipo": "cierre_parcial",
           "ruta": "🚨¿Vas hacia #Toreo? ¡Cuidado! Reportan accidente en #PeriféricoNorte👇😱 https://lajornadaestadodemexico.com/accidente-en-periferico-norte/…",
@@ -113,6 +128,19 @@
   ],
   "para_mapa": [
     {
+      "id": "c01e015c",
+      "tipo": "bloqueo",
+      "ruta": "Bloqueo Suma Más de 24 Horas en la Carretera Federal…",
+      "descripcion": "Bloqueo Suma Más de 24 Horas en la Carretera Federal Cholula-Huejotzingo de Puebla - N+. Bloqueo Suma Más de 24 Horas en la Carretera Federal Cholula-Huejotzingo de Puebla N+",
+      "fecha": "5 noviembre 2026 · 11:34 CST",
+      "fuente": "N+",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSnE1SDZ5TkJTM0ZBSUxtUUR5d3Ftd3N4X1NURmR4LTFSbzFmaTdCdzJVZGRxY1lvTmMxUG56bVVLVC1FWEFPSGNUYzZ5X25fZUJmS0xHb2tRWkhnaG1RWjdlLVpWa1hEU1FqeWlUam1qT09jdVcxNlZVcTdKcmx3TnB5SFlnNUVJZVdIYk5jZTkwT3FJMDVfWjFVa1l4ZEZxbjhWbW01d3dRZWlXV0czd0YyNjc1cExSbnlNcjdKbG5LbHhiS2JtY0xjdjBSODBVSUsyazVNc29mNXc?oc=5",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 19.04,
+      "lon": -98.2
+    },
+    {
       "id": "536eef91",
       "tipo": "cierre_total",
       "ruta": "⚠️ Tráiler se sale de la carretera #Toluca-#Atlacomulco 😱👇 https://lajornadaestadodemexico.com/trailer-carretera-toluca-atlacomulco-cierre-total/…",
@@ -124,19 +152,6 @@
       "badge_txt": "CIERRE TOTAL",
       "lat": 19.29,
       "lon": -99.66
-    },
-    {
-      "id": "8f137f34",
-      "tipo": "bloqueo",
-      "ruta": "Marchas y manifestaciones este jueves 5 de noviembre en CDMX;…",
-      "descripcion": "Marchas y manifestaciones este jueves 5 de noviembre en CDMX; esta es la lista completa y calles afectadas. La capital será testigo de una marcha por la desaparición de una joven en la carretera Picacho-Ajusco en 2017 y otras 7 manifestaciones",
-      "fecha": "5 noviembre 2026 · 07:09 CST",
-      "fuente": "24 Horas",
-      "url": "https://24-horas.mx/cdmx/marchas-manifestaciones-cdmx-hoy-5-noviembre-2026/",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 19.43,
-      "lon": -99.13
     }
   ]
 }
