@@ -1,36 +1,13 @@
 {
-  "ultima_actualizacion": "2026-11-04T15:38:32.230294-06:00",
-  "ultima_actualizacion_legible": "4 de noviembre de 2026 · 15:38 CST",
+  "ultima_actualizacion": "2026-11-04T19:48:17.577265-06:00",
+  "ultima_actualizacion_legible": "4 de noviembre de 2026 · 19:48 CST",
   "total": 3,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Medios regionales",
-    "Quadratin + regionales"
+    "Medios nacionales",
+    "Medios regionales"
   ],
   "grupos": [
-    {
-      "tipo": "cierre_total",
-      "color": "rojo",
-      "icono": "🔴",
-      "label": "CIERRE TOTAL",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "1fa63d82",
-          "tipo": "cierre_total",
-          "ruta": "carretera a Chapala por volcadura de camión y derrame de leche",
-          "descripcion": "Cierran carretera a Chapala por volcadura de camión y derrame de leche. Equipos de emergencia trabajan en el lugar para el retiro de los restos del vehículo y la limpieza de la cinta asfáltica.",
-          "recomendacion": "",
-          "fecha": "4 noviembre 2026 · 14:10 CST",
-          "fecha_iso": "2026-11-04T14:10:00-06:00",
-          "fuente": "Quadratin Jalisco",
-          "url": "https://jalisco.quadratin.com.mx/principal/cierran-carretera-a-chapala-por-volcadura-de-camion-y-derrame-de-leche/",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL"
-        }
-      ]
-    },
     {
       "tipo": "cierre_parcial",
       "color": "amarillo",
@@ -39,51 +16,74 @@
       "col2": true,
       "alertas": [
         {
-          "id": "dff7edaa",
+          "id": "4278944e",
           "tipo": "cierre_parcial",
-          "ruta": "carretera Acámbaro-Salvatierra deja un chofer prensado y 15 heridos",
-          "descripcion": "Aparatoso accidente en carretera Acámbaro-Salvatierra deja un chofer prensado y 15 heridos. El choque frontal entre un autobús y un tráiler obligó a cerrar la carretera Acámbaro-Salvatierra durante varias horas.",
+          "ruta": "Trágico choque en la Acámbaro-Salvatierra: Muere chofer y hay 19…",
+          "descripcion": "Trágico choque en la Acámbaro-Salvatierra: Muere chofer y hay 19 lesionados. Un autobús y un tráiler chocaron de frente en Acámbaro; 19 pasajeros resultaron lesionados y el conductor murió recibiendo atención médica.",
           "recomendacion": "",
-          "fecha": "4 noviembre 2026 · 15:37 CST",
-          "fecha_iso": "2026-11-04T15:37:00-06:00",
+          "fecha": "4 noviembre 2026 · 17:20 CST",
+          "fecha_iso": "2026-11-04T17:20:00-06:00",
           "fuente": "AM Guanajuato",
           "url": "https://www.am.com.mx/guanajuato-sur/2026/11/04/aparatoso-accidente-en-carretera-acambaro-salvatierra-deja-un-chofer-prensado-y-15-heridos-1862602.html",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 21.0,
-          "lon": -104.0
+          "badge_txt": "CIERRE PARCIAL"
         },
         {
-          "id": "c0b70231",
+          "id": "d66b3881",
           "tipo": "cierre_parcial",
-          "ruta": "Intento de asalto a balazos provoca carambola en la Irapuato-Salamanca…",
-          "descripcion": "Intento de asalto a balazos provoca carambola en la Irapuato-Salamanca. Testigos y fuentes de seguridad señalaron que hombres armados a bordo de motocicletas interceptaron y dispararon contra la unidad de carga con la intención de perpetrar un atraco.",
+          "ruta": "carretera Cholula Huejotzingo en reclamo a cierre de relleno sanitario",
+          "descripcion": "Bloquean carretera Cholula Huejotzingo en reclamo a cierre de relleno sanitario. Exigen a la empresa Pro Faj Hidrolimpieza y al Gobierno de Puebla el retiro de maquinaria y el sellado de la excavación para concretar el cierre definitivo del basurero",
           "recomendacion": "",
-          "fecha": "4 noviembre 2026 · 14:32 CST",
-          "fecha_iso": "2026-11-04T14:32:00-06:00",
-          "fuente": "AM Guanajuato",
-          "url": "https://www.am.com.mx/salamanca/2026/11/04/intento-de-asalto-en-irapuato-salamanca-termina-en-balacera-1862532.html",
+          "fecha": "4 noviembre 2026 · 16:55 CST",
+          "fecha_iso": "2026-11-04T16:55:00-06:00",
+          "fuente": "24 Horas",
+          "url": "https://24-horas.mx/estados/bloquean-carretera-cholula-huejotzingo-en-reclamo-a-cierre-de-relleno-sanitario/",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 19.04,
+          "lon": -98.2
+        }
+      ]
+    },
+    {
+      "tipo": "obra",
+      "color": "verde",
+      "icono": "🚧",
+      "label": "OBRA CONTINUA",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "4bc58cc2",
+          "tipo": "obra",
+          "ruta": "¿Usas la Línea 3 del Metro? Un tramo requiere una…",
+          "descripcion": "¿Usas la Línea 3 del Metro? Un tramo requiere una intervención especial por falla geológica. La renovación también contempla la compra de 45 trenes nuevos, la rehabilitación de vías y la modernización de los sistemas eléctricos, electromecánicos y contra incendios",
+          "recomendacion": "",
+          "fecha": "4 noviembre 2026 · 13:53 CST",
+          "fecha_iso": "2026-11-04T13:53:00-06:00",
+          "fuente": "El Sol de Mexico",
+          "url": "https://oem.com.mx/elsoldemexico/metropoli/usas-la-linea-3-del-metro-de-cdmx-un-tramo-requiere-una-intervencion-especial-por-falla-geologica-32967281",
+          "dot_color": "#27ae60",
+          "badge": "badge-obra",
+          "badge_txt": "OBRA CONTINUA"
         }
       ]
     }
   ],
   "para_mapa": [
     {
-      "id": "dff7edaa",
+      "id": "d66b3881",
       "tipo": "cierre_parcial",
-      "ruta": "carretera Acámbaro-Salvatierra deja un chofer prensado y 15 heridos",
-      "descripcion": "Aparatoso accidente en carretera Acámbaro-Salvatierra deja un chofer prensado y 15 heridos. El choque frontal entre un autobús y un tráiler obligó a cerrar la carretera Acámbaro-Salvatierra durante varias horas.",
-      "fecha": "4 noviembre 2026 · 15:37 CST",
-      "fuente": "AM Guanajuato",
-      "url": "https://www.am.com.mx/guanajuato-sur/2026/11/04/aparatoso-accidente-en-carretera-acambaro-salvatierra-deja-un-chofer-prensado-y-15-heridos-1862602.html",
+      "ruta": "carretera Cholula Huejotzingo en reclamo a cierre de relleno sanitario",
+      "descripcion": "Bloquean carretera Cholula Huejotzingo en reclamo a cierre de relleno sanitario. Exigen a la empresa Pro Faj Hidrolimpieza y al Gobierno de Puebla el retiro de maquinaria y el sellado de la excavación para concretar el cierre definitivo del basurero",
+      "fecha": "4 noviembre 2026 · 16:55 CST",
+      "fuente": "24 Horas",
+      "url": "https://24-horas.mx/estados/bloquean-carretera-cholula-huejotzingo-en-reclamo-a-cierre-de-relleno-sanitario/",
       "dot_color": "#e67e22",
       "badge_txt": "CIERRE PARCIAL",
-      "lat": 21.0,
-      "lon": -104.0
+      "lat": 19.04,
+      "lon": -98.2
     }
   ]
 }
