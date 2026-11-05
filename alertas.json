@@ -1,11 +1,10 @@
 {
-  "ultima_actualizacion": "2026-11-04T19:48:17.577265-06:00",
-  "ultima_actualizacion_legible": "4 de noviembre de 2026 · 19:48 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-11-05T02:45:23.153415-06:00",
+  "ultima_actualizacion_legible": "5 de noviembre de 2026 · 02:45 CST",
+  "total": 1,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Medios nacionales",
-    "Medios regionales"
+    "Medios nacionales"
   ],
   "grupos": [
     {
@@ -15,20 +14,6 @@
       "label": "CIERRE PARCIAL / ACCIDENTES",
       "col2": true,
       "alertas": [
-        {
-          "id": "4278944e",
-          "tipo": "cierre_parcial",
-          "ruta": "Trágico choque en la Acámbaro-Salvatierra: Muere chofer y hay 19…",
-          "descripcion": "Trágico choque en la Acámbaro-Salvatierra: Muere chofer y hay 19 lesionados. Un autobús y un tráiler chocaron de frente en Acámbaro; 19 pasajeros resultaron lesionados y el conductor murió recibiendo atención médica.",
-          "recomendacion": "",
-          "fecha": "4 noviembre 2026 · 17:20 CST",
-          "fecha_iso": "2026-11-04T17:20:00-06:00",
-          "fuente": "AM Guanajuato",
-          "url": "https://www.am.com.mx/guanajuato-sur/2026/11/04/aparatoso-accidente-en-carretera-acambaro-salvatierra-deja-un-chofer-prensado-y-15-heridos-1862602.html",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
-        },
         {
           "id": "d66b3881",
           "tipo": "cierre_parcial",
@@ -44,29 +29,6 @@
           "badge_txt": "CIERRE PARCIAL",
           "lat": 19.04,
           "lon": -98.2
-        }
-      ]
-    },
-    {
-      "tipo": "obra",
-      "color": "verde",
-      "icono": "🚧",
-      "label": "OBRA CONTINUA",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "4bc58cc2",
-          "tipo": "obra",
-          "ruta": "¿Usas la Línea 3 del Metro? Un tramo requiere una…",
-          "descripcion": "¿Usas la Línea 3 del Metro? Un tramo requiere una intervención especial por falla geológica. La renovación también contempla la compra de 45 trenes nuevos, la rehabilitación de vías y la modernización de los sistemas eléctricos, electromecánicos y contra incendios",
-          "recomendacion": "",
-          "fecha": "4 noviembre 2026 · 13:53 CST",
-          "fecha_iso": "2026-11-04T13:53:00-06:00",
-          "fuente": "El Sol de Mexico",
-          "url": "https://oem.com.mx/elsoldemexico/metropoli/usas-la-linea-3-del-metro-de-cdmx-un-tramo-requiere-una-intervencion-especial-por-falla-geologica-32967281",
-          "dot_color": "#27ae60",
-          "badge": "badge-obra",
-          "badge_txt": "OBRA CONTINUA"
         }
       ]
     }
