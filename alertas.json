@@ -1,93 +1,12 @@
 {
-  "ultima_actualizacion": "2026-11-05T16:27:56.152781-06:00",
-  "ultima_actualizacion_legible": "5 de noviembre de 2026 · 16:27 CST",
-  "total": 6,
+  "ultima_actualizacion": "2026-11-05T20:41:53.520385-06:00",
+  "ultima_actualizacion_legible": "5 de noviembre de 2026 · 20:41 CST",
+  "total": 1,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News",
-    "Medios nacionales",
-    "Medios regionales",
     "Telegram"
   ],
   "grupos": [
-    {
-      "tipo": "cierre_total",
-      "color": "rojo",
-      "icono": "🔴",
-      "label": "CIERRE TOTAL",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "44fcf4f2",
-          "tipo": "cierre_total",
-          "ruta": "Identifican a Víctor Alexis, estudiante de UTSOE que murió en…",
-          "descripcion": "Identifican a Víctor Alexis, estudiante de UTSOE que murió en volcadura de camioneta en Salamanca. La volcadura ocurrió cerca de Daltile, en la carretera Salamanca-Valle. Los otros dos estudiantes fueron hospitalizados en estado delicado.",
-          "recomendacion": "",
-          "fecha": "5 noviembre 2026 · 15:31 CST",
-          "fecha_iso": "2026-11-05T15:31:00-06:00",
-          "fuente": "AM Guanajuato",
-          "url": "https://www.am.com.mx/salamanca/2026/11/05/identifican-a-victor-alexis-estudiante-de-utsoe-que-murio-en-volcadura-de-camioneta-en-salamanca-1863076.html",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL"
-        },
-        {
-          "id": "536eef91",
-          "tipo": "cierre_total",
-          "ruta": "⚠️ Tráiler se sale de la carretera #Toluca-#Atlacomulco 😱👇 https://lajornadaestadodemexico.com/trailer-carretera-toluca-atlacomulco-cierre-total/…",
-          "descripcion": "⚠️ Tráiler se sale de la carretera #Toluca-#Atlacomulco 😱👇\n\nhttps://lajornadaestadodemexico.com/trailer-carretera-toluca-atlacomulco-cierre-total/",
-          "recomendacion": "",
-          "fecha": "5 noviembre 2026 · 07:23 CST",
-          "fecha_iso": "2026-11-05T07:23:00-06:00",
-          "fuente": "Telegram @jornadaedomex",
-          "url": "https://t.me/jornadaedomex/12560",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL",
-          "lat": 19.29,
-          "lon": -99.66
-        }
-      ]
-    },
-    {
-      "tipo": "bloqueo",
-      "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "c01e015c",
-          "tipo": "bloqueo",
-          "ruta": "Bloqueo Suma Más de 24 Horas en la Carretera Federal…",
-          "descripcion": "Bloqueo Suma Más de 24 Horas en la Carretera Federal Cholula-Huejotzingo de Puebla - N+. Bloqueo Suma Más de 24 Horas en la Carretera Federal Cholula-Huejotzingo de Puebla N+",
-          "recomendacion": "",
-          "fecha": "5 noviembre 2026 · 11:34 CST",
-          "fecha_iso": "2026-11-05T11:34:00-06:00",
-          "fuente": "N+",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSnE1SDZ5TkJTM0ZBSUxtUUR5d3Ftd3N4X1NURmR4LTFSbzFmaTdCdzJVZGRxY1lvTmMxUG56bVVLVC1FWEFPSGNUYzZ5X25fZUJmS0xHb2tRWkhnaG1RWjdlLVpWa1hEU1FqeWlUam1qT09jdVcxNlZVcTdKcmx3TnB5SFlnNUVJZVdIYk5jZTkwT3FJMDVfWjFVa1l4ZEZxbjhWbW01d3dRZWlXV0czd0YyNjc1cExSbnlNcjdKbG5LbHhiS2JtY0xjdjBSODBVSUsyazVNc29mNXc?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 19.04,
-          "lon": -98.2
-        },
-        {
-          "id": "abce2086",
-          "tipo": "bloqueo",
-          "ruta": "Transportistas expresan preocupación por registro electrónico de jornadas laborales…",
-          "descripcion": "Transportistas expresan preocupación por registro electrónico de jornadas laborales. A poco más de una semana del paro nacional del autotransporte de carga del pasado 26 de octubre, las organizaciones transportistas y el gobierno federal continúan abordando las demandas del sector en las mesas de trabajo acordadas tras las movilizaciones. Entre los temas se encuentran las jornadas laborales de los operadores y su registro electrónico, […]",
-          "recomendacion": "",
-          "fecha": "5 noviembre 2026 · 07:00 CST",
-          "fecha_iso": "2026-11-05T07:00:00-06:00",
-          "fuente": "T21 Transporte",
-          "url": "https://t21.com.mx/transportistas-expresan-preocupacion-por-registro-electronico-de-jornadas-laborales/",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        }
-      ]
-    },
     {
       "tipo": "cierre_parcial",
       "color": "amarillo",
@@ -95,20 +14,6 @@
       "label": "CIERRE PARCIAL / ACCIDENTES",
       "col2": true,
       "alertas": [
-        {
-          "id": "617f845b",
-          "tipo": "cierre_parcial",
-          "ruta": "carretera de Valle de Santiago",
-          "descripcion": "Conductor lo impacta y huye: Muere motociclista en carretera de Valle de Santiago. El accidente ocurrió cerca de Rosa de Castilla, en Valle de Santiago. La Fiscalía realizó las diligencias y trasladó el cuerpo al Semefo.",
-          "recomendacion": "",
-          "fecha": "5 noviembre 2026 · 15:37 CST",
-          "fecha_iso": "2026-11-05T15:37:00-06:00",
-          "fuente": "AM Guanajuato",
-          "url": "https://www.am.com.mx/guanajuato-sur/2026/11/05/conductor-lo-impacta-y-huye-muere-motociclista-en-carretera-de-valle-de-santiago-1863082.html",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
-        },
         {
           "id": "680b4dbd",
           "tipo": "cierre_parcial",
@@ -126,32 +31,5 @@
       ]
     }
   ],
-  "para_mapa": [
-    {
-      "id": "c01e015c",
-      "tipo": "bloqueo",
-      "ruta": "Bloqueo Suma Más de 24 Horas en la Carretera Federal…",
-      "descripcion": "Bloqueo Suma Más de 24 Horas en la Carretera Federal Cholula-Huejotzingo de Puebla - N+. Bloqueo Suma Más de 24 Horas en la Carretera Federal Cholula-Huejotzingo de Puebla N+",
-      "fecha": "5 noviembre 2026 · 11:34 CST",
-      "fuente": "N+",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSnE1SDZ5TkJTM0ZBSUxtUUR5d3Ftd3N4X1NURmR4LTFSbzFmaTdCdzJVZGRxY1lvTmMxUG56bVVLVC1FWEFPSGNUYzZ5X25fZUJmS0xHb2tRWkhnaG1RWjdlLVpWa1hEU1FqeWlUam1qT09jdVcxNlZVcTdKcmx3TnB5SFlnNUVJZVdIYk5jZTkwT3FJMDVfWjFVa1l4ZEZxbjhWbW01d3dRZWlXV0czd0YyNjc1cExSbnlNcjdKbG5LbHhiS2JtY0xjdjBSODBVSUsyazVNc29mNXc?oc=5",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 19.04,
-      "lon": -98.2
-    },
-    {
-      "id": "536eef91",
-      "tipo": "cierre_total",
-      "ruta": "⚠️ Tráiler se sale de la carretera #Toluca-#Atlacomulco 😱👇 https://lajornadaestadodemexico.com/trailer-carretera-toluca-atlacomulco-cierre-total/…",
-      "descripcion": "⚠️ Tráiler se sale de la carretera #Toluca-#Atlacomulco 😱👇\n\nhttps://lajornadaestadodemexico.com/trailer-carretera-toluca-atlacomulco-cierre-total/",
-      "fecha": "5 noviembre 2026 · 07:23 CST",
-      "fuente": "Telegram @jornadaedomex",
-      "url": "https://t.me/jornadaedomex/12560",
-      "dot_color": "#e74c3c",
-      "badge_txt": "CIERRE TOTAL",
-      "lat": 19.29,
-      "lon": -99.66
-    }
-  ]
+  "para_mapa": []
 }
