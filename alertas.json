@@ -1,12 +1,38 @@
 {
-  "ultima_actualizacion": "2026-11-06T03:53:37.972034-06:00",
-  "ultima_actualizacion_legible": "6 de noviembre de 2026 · 03:53 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-11-06T11:02:06.047013-06:00",
+  "ultima_actualizacion_legible": "6 de noviembre de 2026 · 11:02 CST",
+  "total": 4,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
+    "Google News",
+    "Medios nacionales",
+    "Medios regionales",
     "Quadratin + regionales"
   ],
   "grupos": [
+    {
+      "tipo": "bloqueo",
+      "color": "rojo",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "b7e704db",
+          "tipo": "bloqueo",
+          "ruta": "Guardia Nacional alista más de 800 elementos para reforzar seguridad…",
+          "descripcion": "Guardia Nacional alista más de 800 elementos para reforzar seguridad carretera. A 11 días del paro nacional del autotransporte de carga del 26 de octubre, la inseguridad carretera volvió a ocupar un lugar central en las exigencias de los transportistas. Esta vez, durante la mesa de trabajo celebrada el jueves 5 de noviembre con autoridades federales, las organizaciones solicitaron mayor presencia de elementos de seguridad, vigilancia […]",
+          "recomendacion": "",
+          "fecha": "6 noviembre 2026 · 07:15 CST",
+          "fecha_iso": "2026-11-06T07:15:00-06:00",
+          "fuente": "T21 Transporte",
+          "url": "https://t21.com.mx/guardia-nacional-alista-mas-de-800-elementos-para-reforzar-seguridad-carretera/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        }
+      ]
+    },
     {
       "tipo": "cierre_parcial",
       "color": "amarillo",
@@ -15,37 +41,65 @@
       "col2": true,
       "alertas": [
         {
-          "id": "aca99b35",
+          "id": "7f99ce64",
           "tipo": "cierre_parcial",
-          "ruta": "Muere conductor de camión al impactar parabrisas llanta disparada de…",
-          "descripcion": "Muere conductor de camión al impactar parabrisas llanta disparada de tráiler. El percance ocurrió en la carretera Villahermosa-Cárdenas, a la altura del ejido Marín",
+          "ruta": "Motociclista choca contra la parte trasera de un tráiler y…",
+          "descripcion": "Motociclista choca contra la parte trasera de un tráiler y muere en Celaya. El accidente ocurrió alrededor de las 6:30 de la tarde; testigos refieren que el tráiler intentaba dar vuelta en un retorno de la zona.",
           "recomendacion": "",
-          "fecha": "5 noviembre 2026 · 21:00 CST",
-          "fecha_iso": "2026-11-05T21:00:00-06:00",
-          "fuente": "Quadratin Tabasco",
-          "url": "https://tabasco.quadratin.com.mx/principal/muere-conductor-de-camion-al-impactar-parabrisas-llanta-disparada-de-trailer/",
+          "fecha": "6 noviembre 2026 · 10:43 CST",
+          "fecha_iso": "2026-11-06T10:43:00-06:00",
+          "fuente": "AM Guanajuato",
+          "url": "https://www.am.com.mx/celaya/2026/11/06/motociclista-choca-contra-la-parte-trasera-de-un-trailer-y-muere-en-celaya-1863289.html",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        },
+        {
+          "id": "fb8c68ca",
+          "tipo": "cierre_parcial",
+          "ruta": "Moviliza incendio en zona boscosa a bomberos de Ixtapaluca…",
+          "descripcion": "Moviliza incendio en zona boscosa a bomberos de Ixtapaluca. Una intensa humareda alertó a vecinos y automovilistas en la carretera a San Francisco Acuautla, cerca de Los Héroes",
+          "recomendacion": "",
+          "fecha": "6 noviembre 2026 · 09:45 CST",
+          "fecha_iso": "2026-11-06T09:45:00-06:00",
+          "fuente": "Quadratin EdoMex",
+          "url": "https://edomex.quadratin.com.mx/moviliza-incendio-en-zona-boscosa-a-bomberos-de-ixtapaluca/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        },
+        {
+          "id": "8090f16b",
+          "tipo": "cierre_parcial",
+          "ruta": "Incendio de Tráiler Provoca Cierre de la Autopista Amozoc-Perote con…",
+          "descripcion": "Incendio de Tráiler Provoca Cierre de la Autopista Amozoc-Perote con Sentido a Puebla - N+. Incendio de Tráiler Provoca Cierre de la Autopista Amozoc-Perote con Sentido a Puebla N+",
+          "recomendacion": "",
+          "fecha": "6 noviembre 2026 · 08:18 CST",
+          "fecha_iso": "2026-11-06T08:18:00-06:00",
+          "fuente": "N+",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNaURIcGJMa2hKUkR5dVVMSzVDVkdFVTUzZUdXZUN0bmxaUDB5b0dCYUJvMEpwSTVWUG9iLXI1WlU2WDdMeERYRXo3MUZpUXBIVl9pdHpDeWJydlZzSTl2ZE4yaFhkcS1UdnNDR3c2T1NQdWFlQXlHU1hrYlc5eW82aWRoT2ZEMnJqN2p5MVg1TnBhSFJFNVdDNXEyeHVPUWxiejRiQ0pTZ0JINmN5eUNsZS1KMVJ0SEZqN0JXd3U0TkVPNmRVWFRSTTNPTUp2T1NTVkhsYzdJTXRqcDVINGc?oc=5",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL",
-          "lat": 17.99,
-          "lon": -92.93
+          "lat": 19.1,
+          "lon": -98.0
         }
       ]
     }
   ],
   "para_mapa": [
     {
-      "id": "aca99b35",
+      "id": "8090f16b",
       "tipo": "cierre_parcial",
-      "ruta": "Muere conductor de camión al impactar parabrisas llanta disparada de…",
-      "descripcion": "Muere conductor de camión al impactar parabrisas llanta disparada de tráiler. El percance ocurrió en la carretera Villahermosa-Cárdenas, a la altura del ejido Marín",
-      "fecha": "5 noviembre 2026 · 21:00 CST",
-      "fuente": "Quadratin Tabasco",
-      "url": "https://tabasco.quadratin.com.mx/principal/muere-conductor-de-camion-al-impactar-parabrisas-llanta-disparada-de-trailer/",
+      "ruta": "Incendio de Tráiler Provoca Cierre de la Autopista Amozoc-Perote con…",
+      "descripcion": "Incendio de Tráiler Provoca Cierre de la Autopista Amozoc-Perote con Sentido a Puebla - N+. Incendio de Tráiler Provoca Cierre de la Autopista Amozoc-Perote con Sentido a Puebla N+",
+      "fecha": "6 noviembre 2026 · 08:18 CST",
+      "fuente": "N+",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNaURIcGJMa2hKUkR5dVVMSzVDVkdFVTUzZUdXZUN0bmxaUDB5b0dCYUJvMEpwSTVWUG9iLXI1WlU2WDdMeERYRXo3MUZpUXBIVl9pdHpDeWJydlZzSTl2ZE4yaFhkcS1UdnNDR3c2T1NQdWFlQXlHU1hrYlc5eW82aWRoT2ZEMnJqN2p5MVg1TnBhSFJFNVdDNXEyeHVPUWxiejRiQ0pTZ0JINmN5eUNsZS1KMVJ0SEZqN0JXd3U0TkVPNmRVWFRSTTNPTUp2T1NTVkhsYzdJTXRqcDVINGc?oc=5",
       "dot_color": "#e67e22",
       "badge_txt": "CIERRE PARCIAL",
-      "lat": 17.99,
-      "lon": -92.93
+      "lat": 19.1,
+      "lon": -98.0
     }
   ]
 }
