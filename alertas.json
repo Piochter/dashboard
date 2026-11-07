@@ -1,104 +1,12 @@
 {
-  "ultima_actualizacion": "2026-11-07T02:00:33.488716-06:00",
-  "ultima_actualizacion_legible": "7 de noviembre de 2026 · 02:00 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-11-07T08:46:40.328710-06:00",
+  "ultima_actualizacion_legible": "7 de noviembre de 2026 · 08:46 CST",
+  "total": 0,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News",
-    "Quadratin + regionales"
+    "Google News"
   ],
-  "grupos": [
-    {
-      "tipo": "cierre_total",
-      "color": "rojo",
-      "icono": "🔴",
-      "label": "CIERRE TOTAL",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "90526b59",
-          "tipo": "cierre_total",
-          "ruta": "Arde tráiler de refresquera en la Toluca-Tejupilco; cierran circulación…",
-          "descripcion": "Arde tráiler de refresquera en la Toluca-Tejupilco; cierran circulación. El incendio provocó el cierre total de la carretera federal Toluca-Tejupilco",
-          "recomendacion": "",
-          "fecha": "6 noviembre 2026 · 20:15 CST",
-          "fecha_iso": "2026-11-06T20:15:00-06:00",
-          "fuente": "Quadratin EdoMex",
-          "url": "https://edomex.quadratin.com.mx/arde-trailer-de-refresquera-en-la-toluca-tejupilco-cierran-circulacion/",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL",
-          "lat": 19.29,
-          "lon": -99.66
-        },
-        {
-          "id": "3d5e5780",
-          "tipo": "cierre_total",
-          "ruta": "Cierre en la autopista Orizaba-Puebla tras volcadura de tráiler este…",
-          "descripcion": "Cierre en la autopista Orizaba-Puebla tras volcadura de tráiler este 6 de noviembre; se registra rapiña - La Silla Rota. Cierre en la autopista Orizaba-Puebla tras volcadura de tráiler este 6 de noviembre; se registra rapiña La Silla Rota",
-          "recomendacion": "",
-          "fecha": "6 noviembre 2026 · 17:02 CST",
-          "fecha_iso": "2026-11-06T17:02:00-06:00",
-          "fuente": "La Silla Rota",
-          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNNDg1cXM2SDJtVm1yLUZaeWRuRTZtWTM0N19LYU5xanY1NkYyVUQ0VXFLY3p6a3NmRHpidjFUQ1pnNnluQWJUNW81SDNUdVhnV0dxZjdOaGtWUmVHLS1CZFd2NUNvY1NUY1VJVDlJWnptSnpmcGg3X3hDaVhFS0p6cnlGUFpXRkNVLVZERHpNOXJZdGxrT081SS0tbTdsZ0FrcFlYSmF5MlNLbkx2eXRzcUJwWDlZd3lPVmhOdVJLSjRJTTd4RTRwc29aZkJqSTRRMFhIWU9tRkRjN2VibXdMYk5qMldQY3hMOWR5VHRLenRqODNDRktZ?oc=5",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL",
-          "lat": 19.04,
-          "lon": -98.2
-        }
-      ]
-    },
-    {
-      "tipo": "bloqueo",
-      "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "5badfe13",
-          "tipo": "bloqueo",
-          "ruta": "Bloqueos en carreteras hoy 6 de noviembre: Tráfico EN VIVO…",
-          "descripcion": "Bloqueos en carreteras hoy 6 de noviembre: Tráfico EN VIVO y alternativas viales - TV Azteca. Bloqueos en carreteras hoy 6 de noviembre: Tráfico EN VIVO y alternativas viales TV Azteca",
-          "recomendacion": "",
-          "fecha": "6 noviembre 2026 · 20:12 CST",
-          "fecha_iso": "2026-11-06T20:12:00-06:00",
-          "fuente": "TV Azteca",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNmEwYUNYUldVeVIyV0hLNHppZHdnYWVTTjc5T0RxcjQ4eHhuUDBPOTZ6SUd2Q3dXMkxpNW5Nc2VwVHh5OElRdjVMR29DejVZSUdiLXFQQWsxdDc4WXcwZUEtNU5CT3hBUHFkQzlnazNubmFwOGFkWDVJbzJWdTVfbk9DZXFfSGpMZzZ5U2plS1g0QjlQaUJDSDkwV0ZXYXlWTjFwcUp6T2RMemVma3ZtU2QtVURBMWxQWWVNOUdJUFg?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        }
-      ]
-    }
-  ],
-  "para_mapa": [
-    {
-      "id": "90526b59",
-      "tipo": "cierre_total",
-      "ruta": "Arde tráiler de refresquera en la Toluca-Tejupilco; cierran circulación…",
-      "descripcion": "Arde tráiler de refresquera en la Toluca-Tejupilco; cierran circulación. El incendio provocó el cierre total de la carretera federal Toluca-Tejupilco",
-      "fecha": "6 noviembre 2026 · 20:15 CST",
-      "fuente": "Quadratin EdoMex",
-      "url": "https://edomex.quadratin.com.mx/arde-trailer-de-refresquera-en-la-toluca-tejupilco-cierran-circulacion/",
-      "dot_color": "#e74c3c",
-      "badge_txt": "CIERRE TOTAL",
-      "lat": 19.29,
-      "lon": -99.66
-    },
-    {
-      "id": "3d5e5780",
-      "tipo": "cierre_total",
-      "ruta": "Cierre en la autopista Orizaba-Puebla tras volcadura de tráiler este…",
-      "descripcion": "Cierre en la autopista Orizaba-Puebla tras volcadura de tráiler este 6 de noviembre; se registra rapiña - La Silla Rota. Cierre en la autopista Orizaba-Puebla tras volcadura de tráiler este 6 de noviembre; se registra rapiña La Silla Rota",
-      "fecha": "6 noviembre 2026 · 17:02 CST",
-      "fuente": "La Silla Rota",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNNDg1cXM2SDJtVm1yLUZaeWRuRTZtWTM0N19LYU5xanY1NkYyVUQ0VXFLY3p6a3NmRHpidjFUQ1pnNnluQWJUNW81SDNUdVhnV0dxZjdOaGtWUmVHLS1CZFd2NUNvY1NUY1VJVDlJWnptSnpmcGg3X3hDaVhFS0p6cnlGUFpXRkNVLVZERHpNOXJZdGxrT081SS0tbTdsZ0FrcFlYSmF5MlNLbkx2eXRzcUJwWDlZd3lPVmhOdVJLSjRJTTd4RTRwc29aZkJqSTRRMFhIWU9tRkRjN2VibXdMYk5qMldQY3hMOWR5VHRLenRqODNDRktZ?oc=5",
-      "dot_color": "#e74c3c",
-      "badge_txt": "CIERRE TOTAL",
-      "lat": 19.04,
-      "lon": -98.2
-    }
-  ]
+  "grupos": [],
+  "para_mapa": [],
+  "nota": "Sin alertas activas en la ventana de tiempo configurada."
 }
