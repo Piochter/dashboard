@@ -1,12 +1,36 @@
 {
-  "ultima_actualizacion": "2026-11-07T13:13:02.293645-06:00",
-  "ultima_actualizacion_legible": "7 de noviembre de 2026 · 13:13 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-11-07T16:44:52.431223-06:00",
+  "ultima_actualizacion_legible": "7 de noviembre de 2026 · 16:44 CST",
+  "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News"
+    "Google News",
+    "Medios regionales"
   ],
   "grupos": [
+    {
+      "tipo": "bloqueo",
+      "color": "rojo",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "8dde2ba7",
+          "tipo": "bloqueo",
+          "ruta": "Trabajadores de módulos del INE se van a paro de…",
+          "descripcion": "Trabajadores de módulos del INE se van a paro de labores a partir de este lunes, tras falta de acuerdos. Las protestan también contemplan bloqueos en Periférico a la altura de las oficinas centrales del INE",
+          "recomendacion": "",
+          "fecha": "7 noviembre 2026 · 09:55 CST",
+          "fecha_iso": "2026-11-07T09:55:00-06:00",
+          "fuente": "El Sol de Mexico",
+          "url": "https://oem.com.mx/elsoldemexico/mexico/trabajadores-de-modulos-del-ine-se-van-a-paro-de-labores-a-partir-de-este-lunes-tras-falta-de-acuerdos-33015284",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        }
+      ]
+    },
     {
       "tipo": "cierre_parcial",
       "color": "amarillo",
