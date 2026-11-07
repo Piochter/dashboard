@@ -1,12 +1,35 @@
 {
-  "ultima_actualizacion": "2026-11-07T08:46:40.328710-06:00",
-  "ultima_actualizacion_legible": "7 de noviembre de 2026 · 08:46 CST",
-  "total": 0,
+  "ultima_actualizacion": "2026-11-07T13:13:02.293645-06:00",
+  "ultima_actualizacion_legible": "7 de noviembre de 2026 · 13:13 CST",
+  "total": 1,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News"
   ],
-  "grupos": [],
-  "para_mapa": [],
-  "nota": "Sin alertas activas en la ventana de tiempo configurada."
+  "grupos": [
+    {
+      "tipo": "cierre_parcial",
+      "color": "amarillo",
+      "icono": "🟡",
+      "label": "CIERRE PARCIAL / ACCIDENTES",
+      "col2": true,
+      "alertas": [
+        {
+          "id": "83c42cdd",
+          "tipo": "cierre_parcial",
+          "ruta": "Carreteras Bloqueadas en México Hoy, Sábado 7 de Noviembre 2026…",
+          "descripcion": "Carreteras Bloqueadas en México Hoy, Sábado 7 de Noviembre 2026 - N+. Carreteras Bloqueadas en México Hoy, Sábado 7 de Noviembre 2026 N+",
+          "recomendacion": "",
+          "fecha": "7 noviembre 2026 · 06:50 CST",
+          "fecha_iso": "2026-11-07T06:50:00-06:00",
+          "fuente": "N+",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUEVVSUowbF9QVUk0MFJmMThxeVJtN3pqai1BUEFIZkFBSHVDV3R2N3pZanRFd21ZdTVDSjEyVTdkMlVwcEluRVRSNUlnYXpneU1NUlNKdXRhV0JLZUowV0tsYWt1akc4NjdtTmZzbzZGcGtGRXI4VXNqYkJuUzJlamU2WG1nSDJMLTBRUUN6MENzMEJTb1VlaGp3eU1DUQ?oc=5",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        }
+      ]
+    }
+  ],
+  "para_mapa": []
 }
