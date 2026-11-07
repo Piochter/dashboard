@@ -1,12 +1,10 @@
 {
-  "ultima_actualizacion": "2026-11-06T16:05:41.774225-06:00",
-  "ultima_actualizacion_legible": "6 de noviembre de 2026 · 16:05 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-11-06T19:53:25.995428-06:00",
+  "ultima_actualizacion_legible": "6 de noviembre de 2026 · 19:53 CST",
+  "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News",
-    "Medios nacionales",
-    "Quadratin + regionales"
+    "Google News"
   ],
   "grupos": [
     {
@@ -17,29 +15,15 @@
       "col2": false,
       "alertas": [
         {
-          "id": "9d89f9ce",
+          "id": "5badfe13",
           "tipo": "bloqueo",
-          "ruta": "Continúan protestas del PJF y afectan Periférico Norte…",
-          "descripcion": "Continúan protestas del PJF y afectan Periférico Norte. Trabajadores judiciales mantienen movilizaciones contra las evaluaciones de diciembre",
+          "ruta": "Bloqueos en carreteras hoy 6 de noviembre: Tráfico EN VIVO…",
+          "descripcion": "Bloqueos en carreteras hoy 6 de noviembre: Tráfico EN VIVO y alternativas viales - TV Azteca. Bloqueos en carreteras hoy 6 de noviembre: Tráfico EN VIVO y alternativas viales TV Azteca",
           "recomendacion": "",
-          "fecha": "6 noviembre 2026 · 16:00 CST",
-          "fecha_iso": "2026-11-06T16:00:00-06:00",
-          "fuente": "Quadratin EdoMex",
-          "url": "https://edomex.quadratin.com.mx/continuan-protestas-del-pjf-y-afectan-periferico-norte/",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        },
-        {
-          "id": "b7e704db",
-          "tipo": "bloqueo",
-          "ruta": "Guardia Nacional alista más de 800 elementos para reforzar seguridad…",
-          "descripcion": "Guardia Nacional alista más de 800 elementos para reforzar seguridad carretera. A 11 días del paro nacional del autotransporte de carga del 26 de octubre, la inseguridad carretera volvió a ocupar un lugar central en las exigencias de los transportistas. Esta vez, durante la mesa de trabajo celebrada el jueves 5 de noviembre con autoridades federales, las organizaciones solicitaron mayor presencia de elementos de seguridad, vigilancia […]",
-          "recomendacion": "",
-          "fecha": "6 noviembre 2026 · 07:15 CST",
-          "fecha_iso": "2026-11-06T07:15:00-06:00",
-          "fuente": "T21 Transporte",
-          "url": "https://t21.com.mx/guardia-nacional-alista-mas-de-800-elementos-para-reforzar-seguridad-carretera/",
+          "fecha": "6 noviembre 2026 · 19:28 CST",
+          "fecha_iso": "2026-11-06T19:28:00-06:00",
+          "fuente": "TV Azteca",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNmEwYUNYUldVeVIyV0hLNHppZHdnYWVTTjc5T0RxcjQ4eHhuUDBPOTZ6SUd2Q3dXMkxpNW5Nc2VwVHh5OElRdjVMR29DejVZSUdiLXFQQWsxdDc4WXcwZUEtNU5CT3hBUHFkQzlnazNubmFwOGFkWDVJbzJWdTVfbk9DZXFfSGpMZzZ5U2plS1g0QjlQaUJDSDkwV0ZXYXlWTjFwcUp6T2RMemVma3ZtU2QtVURBMWxQWWVNOUdJUFg?oc=5",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO"
