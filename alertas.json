@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-11-08T13:51:27.965887-06:00",
-  "ultima_actualizacion_legible": "8 de noviembre de 2026 · 13:51 CST",
-  "total": 6,
+  "ultima_actualizacion": "2026-11-08T17:18:25.981969-06:00",
+  "ultima_actualizacion_legible": "8 de noviembre de 2026 · 17:18 CST",
+  "total": 5,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
@@ -62,22 +62,6 @@
           "badge_txt": "BLOQUEO",
           "lat": 19.35,
           "lon": -98.4
-        },
-        {
-          "id": "8572ec6a",
-          "tipo": "bloqueo",
-          "ruta": "carretera de Cholula para exigir limpieza de basurero",
-          "descripcion": "Bloquean carretera de Cholula para exigir limpieza de basurero. Puebla, Pue., Integrantes de pueblos originarios mantenían anoche el bloqueo de la carretera Cholula–Huejotzingo, a la altura del Cerrito de Guadalupe, para exigir el saneamiento del antiguo relleno sanitario intermunicipal, con lo que sumaban hasta ayer 84 horas de protesta.",
-          "recomendacion": "",
-          "fecha": "8 noviembre 2026 · 02:33 CST",
-          "fecha_iso": "2026-11-08T02:33:00-06:00",
-          "fuente": "La Jornada Estados",
-          "url": "https://www.jornada.com.mx/2026/11/08/estados/021n2est?partner=rss",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 19.04,
-          "lon": -98.2
         }
       ]
     },
@@ -88,6 +72,20 @@
       "label": "CIERRE PARCIAL / ACCIDENTES",
       "col2": true,
       "alertas": [
+        {
+          "id": "41f57312",
+          "tipo": "cierre_parcial",
+          "ruta": "Suben a 7 los muertos y a 112 los heridos…",
+          "descripcion": "Suben a 7 los muertos y a 112 los heridos en choque de trenes en Egipto. El accidente se produjo en la carretera agrícola El Cairo-Asuán, cerca del cruce de Gerza",
+          "recomendacion": "",
+          "fecha": "8 noviembre 2026 · 14:52 CST",
+          "fecha_iso": "2026-11-08T14:52:00-06:00",
+          "fuente": "El Informador Jalisco",
+          "url": "https://www.informador.mx/internacional/suben-a-7-los-muertos-y-a-112-los-heridos-en-choque-de-trenes-en-provincia-egipcia-de-giza-20261108-0070.html",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        },
         {
           "id": "5ed25e1b",
           "tipo": "cierre_parcial",
@@ -103,20 +101,6 @@
           "badge_txt": "CIERRE PARCIAL",
           "lat": 19.1,
           "lon": -98.0
-        },
-        {
-          "id": "015eae30",
-          "tipo": "cierre_parcial",
-          "ruta": "Choque de trenes en provincia de Giza, Egipto, deja 7…",
-          "descripcion": "Choque de trenes en provincia de Giza, Egipto, deja 7 muertos y 112 heridos. El accidente se produjo en la carretera agrícola El Cairo-Asuán, cerca del cruce de Gerza, en el tramo ferroviario comprendido entre las estaciones de Kafr Ammar y Al Raqqa",
-          "recomendacion": "",
-          "fecha": "8 noviembre 2026 · 06:28 CST",
-          "fecha_iso": "2026-11-08T06:28:00-06:00",
-          "fuente": "El Sol de Mexico",
-          "url": "https://oem.com.mx/elsoldemexico/mundo/choque-de-trenes-en-provincia-de-giza-egipto-deja-muertos-y-heridos-33028236",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
         }
       ]
     }
@@ -160,19 +144,6 @@
       "badge_txt": "BLOQUEO",
       "lat": 19.35,
       "lon": -98.4
-    },
-    {
-      "id": "8572ec6a",
-      "tipo": "bloqueo",
-      "ruta": "carretera de Cholula para exigir limpieza de basurero",
-      "descripcion": "Bloquean carretera de Cholula para exigir limpieza de basurero. Puebla, Pue., Integrantes de pueblos originarios mantenían anoche el bloqueo de la carretera Cholula–Huejotzingo, a la altura del Cerrito de Guadalupe, para exigir el saneamiento del antiguo relleno sanitario intermunicipal, con lo que sumaban hasta ayer 84 horas de protesta.",
-      "fecha": "8 noviembre 2026 · 02:33 CST",
-      "fuente": "La Jornada Estados",
-      "url": "https://www.jornada.com.mx/2026/11/08/estados/021n2est?partner=rss",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 19.04,
-      "lon": -98.2
     }
   ]
 }
