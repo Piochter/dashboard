@@ -1,11 +1,11 @@
 {
-  "ultima_actualizacion": "2026-11-07T16:44:52.431223-06:00",
-  "ultima_actualizacion_legible": "7 de noviembre de 2026 · 16:44 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-11-07T19:52:02.636897-06:00",
+  "ultima_actualizacion_legible": "7 de noviembre de 2026 · 19:52 CST",
+  "total": 4,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News",
-    "Medios regionales"
+    "Medios regionales",
+    "Quadratin + regionales"
   ],
   "grupos": [
     {
@@ -39,15 +39,47 @@
       "col2": true,
       "alertas": [
         {
-          "id": "83c42cdd",
+          "id": "09b6127f",
           "tipo": "cierre_parcial",
-          "ruta": "Carreteras Bloqueadas en México Hoy, Sábado 7 de Noviembre 2026…",
-          "descripcion": "Carreteras Bloqueadas en México Hoy, Sábado 7 de Noviembre 2026 - N+. Carreteras Bloqueadas en México Hoy, Sábado 7 de Noviembre 2026 N+",
+          "ruta": "Despiden a trailero asaltado en la México-Puebla y no le…",
+          "descripcion": "Despiden a trailero asaltado en la México-Puebla y no le dan liquidación. El operador relató que el día del atraco venía procedente de Veracruz con destino al municipio de Cuautitlán Izcalli, con un cargamento de detergente",
           "recomendacion": "",
-          "fecha": "7 noviembre 2026 · 06:50 CST",
-          "fecha_iso": "2026-11-07T06:50:00-06:00",
-          "fuente": "N+",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUEVVSUowbF9QVUk0MFJmMThxeVJtN3pqai1BUEFIZkFBSHVDV3R2N3pZanRFd21ZdTVDSjEyVTdkMlVwcEluRVRSNUlnYXpneU1NUlNKdXRhV0JLZUowV0tsYWt1akc4NjdtTmZzbzZGcGtGRXI4VXNqYkJuUzJlamU2WG1nSDJMLTBRUUN6MENzMEJTb1VlaGp3eU1DUQ?oc=5",
+          "fecha": "7 noviembre 2026 · 19:00 CST",
+          "fecha_iso": "2026-11-07T19:00:00-06:00",
+          "fuente": "Quadratin EdoMex",
+          "url": "https://edomex.quadratin.com.mx/despiden-a-trailero-asaltado-en-la-mexico-puebla-y-no-le-dan-liquidacion/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 19.35,
+          "lon": -98.4
+        },
+        {
+          "id": "1212c3f3",
+          "tipo": "cierre_parcial",
+          "ruta": "carretera de Chile",
+          "descripcion": "Al menos 12 muertos y 13 heridos deja accidente en carretera de Chile. César Carreño, explicó que la emergencia movilizó a entre 40 y 50 bomberos",
+          "recomendacion": "",
+          "fecha": "7 noviembre 2026 · 18:10 CST",
+          "fecha_iso": "2026-11-07T18:10:00-06:00",
+          "fuente": "Quadratin Tabasco",
+          "url": "https://tabasco.quadratin.com.mx/internacional/al-menos-12-muertos-y-13-heridos-deja-accidente-en-carretera-de-chile/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 25.2,
+          "lon": -102.0
+        },
+        {
+          "id": "f49ccad7",
+          "tipo": "cierre_parcial",
+          "ruta": "carretera de Chile al menos 12 muertos y 13 heridos",
+          "descripcion": "Deja accidente en carretera de Chile al menos 12 muertos y 13 heridos. El accidente fue una colisión frontal y se registró en la ruta E-66, a la altura del kilómetro 122,5, en el sector de Atalaya",
+          "recomendacion": "",
+          "fecha": "7 noviembre 2026 · 17:42 CST",
+          "fecha_iso": "2026-11-07T17:42:00-06:00",
+          "fuente": "Quadratin Jalisco",
+          "url": "https://jalisco.quadratin.com.mx/principal/deja-accidente-en-carretera-de-chile-al-menos-12-muertos-y-13-heridos/",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL"
@@ -55,5 +87,32 @@
       ]
     }
   ],
-  "para_mapa": []
+  "para_mapa": [
+    {
+      "id": "09b6127f",
+      "tipo": "cierre_parcial",
+      "ruta": "Despiden a trailero asaltado en la México-Puebla y no le…",
+      "descripcion": "Despiden a trailero asaltado en la México-Puebla y no le dan liquidación. El operador relató que el día del atraco venía procedente de Veracruz con destino al municipio de Cuautitlán Izcalli, con un cargamento de detergente",
+      "fecha": "7 noviembre 2026 · 19:00 CST",
+      "fuente": "Quadratin EdoMex",
+      "url": "https://edomex.quadratin.com.mx/despiden-a-trailero-asaltado-en-la-mexico-puebla-y-no-le-dan-liquidacion/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 19.35,
+      "lon": -98.4
+    },
+    {
+      "id": "1212c3f3",
+      "tipo": "cierre_parcial",
+      "ruta": "carretera de Chile",
+      "descripcion": "Al menos 12 muertos y 13 heridos deja accidente en carretera de Chile. César Carreño, explicó que la emergencia movilizó a entre 40 y 50 bomberos",
+      "fecha": "7 noviembre 2026 · 18:10 CST",
+      "fuente": "Quadratin Tabasco",
+      "url": "https://tabasco.quadratin.com.mx/internacional/al-menos-12-muertos-y-13-heridos-deja-accidente-en-carretera-de-chile/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 25.2,
+      "lon": -102.0
+    }
+  ]
 }
