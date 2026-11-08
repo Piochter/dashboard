@@ -1,36 +1,12 @@
 {
-  "ultima_actualizacion": "2026-11-07T19:52:02.636897-06:00",
-  "ultima_actualizacion_legible": "7 de noviembre de 2026 · 19:52 CST",
-  "total": 4,
+  "ultima_actualizacion": "2026-11-08T02:19:27.723703-06:00",
+  "ultima_actualizacion_legible": "8 de noviembre de 2026 · 02:19 CST",
+  "total": 3,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Medios regionales",
     "Quadratin + regionales"
   ],
   "grupos": [
-    {
-      "tipo": "bloqueo",
-      "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "8dde2ba7",
-          "tipo": "bloqueo",
-          "ruta": "Trabajadores de módulos del INE se van a paro de…",
-          "descripcion": "Trabajadores de módulos del INE se van a paro de labores a partir de este lunes, tras falta de acuerdos. Las protestan también contemplan bloqueos en Periférico a la altura de las oficinas centrales del INE",
-          "recomendacion": "",
-          "fecha": "7 noviembre 2026 · 09:55 CST",
-          "fecha_iso": "2026-11-07T09:55:00-06:00",
-          "fuente": "El Sol de Mexico",
-          "url": "https://oem.com.mx/elsoldemexico/mexico/trabajadores-de-modulos-del-ine-se-van-a-paro-de-labores-a-partir-de-este-lunes-tras-falta-de-acuerdos-33015284",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        }
-      ]
-    },
     {
       "tipo": "cierre_parcial",
       "color": "amarillo",
@@ -39,20 +15,20 @@
       "col2": true,
       "alertas": [
         {
-          "id": "09b6127f",
+          "id": "d5b26388",
           "tipo": "cierre_parcial",
-          "ruta": "Despiden a trailero asaltado en la México-Puebla y no le…",
-          "descripcion": "Despiden a trailero asaltado en la México-Puebla y no le dan liquidación. El operador relató que el día del atraco venía procedente de Veracruz con destino al municipio de Cuautitlán Izcalli, con un cargamento de detergente",
+          "ruta": "autopista Puebla-Orizaba",
+          "descripcion": "Vuelva pipa cargada con amoniaco en la autopista Puebla-Orizaba. El accidente ocurrió en el kilómetro 265, en la zona conocida como El Pocito.",
           "recomendacion": "",
-          "fecha": "7 noviembre 2026 · 19:00 CST",
-          "fecha_iso": "2026-11-07T19:00:00-06:00",
-          "fuente": "Quadratin EdoMex",
-          "url": "https://edomex.quadratin.com.mx/despiden-a-trailero-asaltado-en-la-mexico-puebla-y-no-le-dan-liquidacion/",
+          "fecha": "7 noviembre 2026 · 22:36 CST",
+          "fecha_iso": "2026-11-07T22:36:00-06:00",
+          "fuente": "Quadratin Veracruz",
+          "url": "https://veracruz.quadratin.com.mx/vuelva-pipa-cargada-con-amoniaco-en-la-autopista-puebla-orizaba/",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.35,
-          "lon": -98.4
+          "lat": 19.04,
+          "lon": -98.2
         },
         {
           "id": "1212c3f3",
@@ -89,17 +65,17 @@
   ],
   "para_mapa": [
     {
-      "id": "09b6127f",
+      "id": "d5b26388",
       "tipo": "cierre_parcial",
-      "ruta": "Despiden a trailero asaltado en la México-Puebla y no le…",
-      "descripcion": "Despiden a trailero asaltado en la México-Puebla y no le dan liquidación. El operador relató que el día del atraco venía procedente de Veracruz con destino al municipio de Cuautitlán Izcalli, con un cargamento de detergente",
-      "fecha": "7 noviembre 2026 · 19:00 CST",
-      "fuente": "Quadratin EdoMex",
-      "url": "https://edomex.quadratin.com.mx/despiden-a-trailero-asaltado-en-la-mexico-puebla-y-no-le-dan-liquidacion/",
+      "ruta": "autopista Puebla-Orizaba",
+      "descripcion": "Vuelva pipa cargada con amoniaco en la autopista Puebla-Orizaba. El accidente ocurrió en el kilómetro 265, en la zona conocida como El Pocito.",
+      "fecha": "7 noviembre 2026 · 22:36 CST",
+      "fuente": "Quadratin Veracruz",
+      "url": "https://veracruz.quadratin.com.mx/vuelva-pipa-cargada-con-amoniaco-en-la-autopista-puebla-orizaba/",
       "dot_color": "#e67e22",
       "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.35,
-      "lon": -98.4
+      "lat": 19.04,
+      "lon": -98.2
     },
     {
       "id": "1212c3f3",
