@@ -1,12 +1,69 @@
 {
-  "ultima_actualizacion": "2026-11-08T02:19:27.723703-06:00",
-  "ultima_actualizacion_legible": "8 de noviembre de 2026 · 02:19 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-11-08T09:27:03.226355-06:00",
+  "ultima_actualizacion_legible": "8 de noviembre de 2026 · 09:27 CST",
+  "total": 4,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
+    "Google News",
+    "Medios nacionales",
     "Quadratin + regionales"
   ],
   "grupos": [
+    {
+      "tipo": "bloqueo",
+      "color": "rojo",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "eb01768e",
+          "tipo": "bloqueo",
+          "ruta": "Bloqueos carreteras HOY domingo 8 de noviembre: Autopistas cerradas en…",
+          "descripcion": "Bloqueos carreteras HOY domingo 8 de noviembre: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY domingo 8 de noviembre: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
+          "recomendacion": "",
+          "fecha": "8 noviembre 2026 · 08:52 CST",
+          "fecha_iso": "2026-11-08T08:52:00-06:00",
+          "fuente": "Eje Central",
+          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxORC02cnNaYUN6Y04wWE1uVHhBd3FlNzdZUkFPQzdNUW1kMjFnQmdEUWgycWNmWGUtNnNoSktMaG9GeklzR0pzQlltbFhEeUU0dzBtaUx4eWxYYzA2Q0lWUUlWMDU2ZU5vcXR3eWU4a0xWT000dzlPMVJNOHdNbUR1RE56ZFVSeS0zY1NoendBUXVPZFE5UGVPZENSaERTcFM2RzNpTUxMRVhJeFFHU0RDaFA2bnh2RWM4dmw2U095TjAwMnVEQ0ZZTGdNNURPdnpUTFZfLVNnNkMySUEzVERGMGhmTFZOQXN0TThEUmsyNEVCOF9Uenc?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
+        {
+          "id": "13a85ac0",
+          "tipo": "bloqueo",
+          "ruta": "Bloqueos y cierres en carreteras este 8 de noviembre: México-Querétaro…",
+          "descripcion": "Bloqueos y cierres en carreteras este 8 de noviembre: México-Querétaro y México-Puebla con accidentes este domingo - ADN 40. Bloqueos y cierres en carreteras este 8 de noviembre: México-Querétaro y México-Puebla con accidentes este domingo ADN 40",
+          "recomendacion": "",
+          "fecha": "8 noviembre 2026 · 07:03 CST",
+          "fecha_iso": "2026-11-08T07:03:00-06:00",
+          "fuente": "ADN 40",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQb1BCTHczY1ctdWhlQ3dPOHZGQno1TU5MSktlUVdETDBHM3NwYmxlV2VEam82UGpPSFQ3aXdsdkYzaDJ6aFVnWmczdGlBZkJ4Ynk3S3RzZXF5cm9yLW4yZjFoeWpPRk9jLU9XbGN3cUFGZGl6a3pQd3RDZWNSVWtmTFV2TVZZLU1VdmpLWlBKNFp0U0w3a016M1FsLXV5anhqQ2hzNkI2bGtOV2FVbkJQUkVZVVoxQ3hlbExDRzFVZmNNTzVpWkxDVWZTOTdhbERZTjdmY09LNmhkQS1GaXg0TkJzeDV3Q0Fj?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 19.35,
+          "lon": -98.4
+        },
+        {
+          "id": "8572ec6a",
+          "tipo": "bloqueo",
+          "ruta": "carretera de Cholula para exigir limpieza de basurero",
+          "descripcion": "Bloquean carretera de Cholula para exigir limpieza de basurero. Puebla, Pue., Integrantes de pueblos originarios mantenían anoche el bloqueo de la carretera Cholula–Huejotzingo, a la altura del Cerrito de Guadalupe, para exigir el saneamiento del antiguo relleno sanitario intermunicipal, con lo que sumaban hasta ayer 84 horas de protesta.",
+          "recomendacion": "",
+          "fecha": "8 noviembre 2026 · 02:33 CST",
+          "fecha_iso": "2026-11-08T02:33:00-06:00",
+          "fuente": "La Jornada Estados",
+          "url": "https://www.jornada.com.mx/2026/11/08/estados/021n2est?partner=rss",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 19.04,
+          "lon": -98.2
+        }
+      ]
+    },
     {
       "tipo": "cierre_parcial",
       "color": "amarillo",
@@ -29,41 +86,37 @@
           "badge_txt": "CIERRE PARCIAL",
           "lat": 19.04,
           "lon": -98.2
-        },
-        {
-          "id": "1212c3f3",
-          "tipo": "cierre_parcial",
-          "ruta": "carretera de Chile",
-          "descripcion": "Al menos 12 muertos y 13 heridos deja accidente en carretera de Chile. César Carreño, explicó que la emergencia movilizó a entre 40 y 50 bomberos",
-          "recomendacion": "",
-          "fecha": "7 noviembre 2026 · 18:10 CST",
-          "fecha_iso": "2026-11-07T18:10:00-06:00",
-          "fuente": "Quadratin Tabasco",
-          "url": "https://tabasco.quadratin.com.mx/internacional/al-menos-12-muertos-y-13-heridos-deja-accidente-en-carretera-de-chile/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 25.2,
-          "lon": -102.0
-        },
-        {
-          "id": "f49ccad7",
-          "tipo": "cierre_parcial",
-          "ruta": "carretera de Chile al menos 12 muertos y 13 heridos",
-          "descripcion": "Deja accidente en carretera de Chile al menos 12 muertos y 13 heridos. El accidente fue una colisión frontal y se registró en la ruta E-66, a la altura del kilómetro 122,5, en el sector de Atalaya",
-          "recomendacion": "",
-          "fecha": "7 noviembre 2026 · 17:42 CST",
-          "fecha_iso": "2026-11-07T17:42:00-06:00",
-          "fuente": "Quadratin Jalisco",
-          "url": "https://jalisco.quadratin.com.mx/principal/deja-accidente-en-carretera-de-chile-al-menos-12-muertos-y-13-heridos/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
         }
       ]
     }
   ],
   "para_mapa": [
+    {
+      "id": "13a85ac0",
+      "tipo": "bloqueo",
+      "ruta": "Bloqueos y cierres en carreteras este 8 de noviembre: México-Querétaro…",
+      "descripcion": "Bloqueos y cierres en carreteras este 8 de noviembre: México-Querétaro y México-Puebla con accidentes este domingo - ADN 40. Bloqueos y cierres en carreteras este 8 de noviembre: México-Querétaro y México-Puebla con accidentes este domingo ADN 40",
+      "fecha": "8 noviembre 2026 · 07:03 CST",
+      "fuente": "ADN 40",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQb1BCTHczY1ctdWhlQ3dPOHZGQno1TU5MSktlUVdETDBHM3NwYmxlV2VEam82UGpPSFQ3aXdsdkYzaDJ6aFVnWmczdGlBZkJ4Ynk3S3RzZXF5cm9yLW4yZjFoeWpPRk9jLU9XbGN3cUFGZGl6a3pQd3RDZWNSVWtmTFV2TVZZLU1VdmpLWlBKNFp0U0w3a016M1FsLXV5anhqQ2hzNkI2bGtOV2FVbkJQUkVZVVoxQ3hlbExDRzFVZmNNTzVpWkxDVWZTOTdhbERZTjdmY09LNmhkQS1GaXg0TkJzeDV3Q0Fj?oc=5",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 19.35,
+      "lon": -98.4
+    },
+    {
+      "id": "8572ec6a",
+      "tipo": "bloqueo",
+      "ruta": "carretera de Cholula para exigir limpieza de basurero",
+      "descripcion": "Bloquean carretera de Cholula para exigir limpieza de basurero. Puebla, Pue., Integrantes de pueblos originarios mantenían anoche el bloqueo de la carretera Cholula–Huejotzingo, a la altura del Cerrito de Guadalupe, para exigir el saneamiento del antiguo relleno sanitario intermunicipal, con lo que sumaban hasta ayer 84 horas de protesta.",
+      "fecha": "8 noviembre 2026 · 02:33 CST",
+      "fuente": "La Jornada Estados",
+      "url": "https://www.jornada.com.mx/2026/11/08/estados/021n2est?partner=rss",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 19.04,
+      "lon": -98.2
+    },
     {
       "id": "d5b26388",
       "tipo": "cierre_parcial",
@@ -76,19 +129,6 @@
       "badge_txt": "CIERRE PARCIAL",
       "lat": 19.04,
       "lon": -98.2
-    },
-    {
-      "id": "1212c3f3",
-      "tipo": "cierre_parcial",
-      "ruta": "carretera de Chile",
-      "descripcion": "Al menos 12 muertos y 13 heridos deja accidente en carretera de Chile. César Carreño, explicó que la emergencia movilizó a entre 40 y 50 bomberos",
-      "fecha": "7 noviembre 2026 · 18:10 CST",
-      "fuente": "Quadratin Tabasco",
-      "url": "https://tabasco.quadratin.com.mx/internacional/al-menos-12-muertos-y-13-heridos-deja-accidente-en-carretera-de-chile/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 25.2,
-      "lon": -102.0
     }
   ]
 }
