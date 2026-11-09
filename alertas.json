@@ -1,54 +1,12 @@
 {
-  "ultima_actualizacion": "2026-11-08T20:49:43.309627-06:00",
-  "ultima_actualizacion_legible": "8 de noviembre de 2026 · 20:49 CST",
-  "total": 4,
+  "ultima_actualizacion": "2026-11-09T04:38:03.794408-06:00",
+  "ultima_actualizacion_legible": "9 de noviembre de 2026 · 04:38 CST",
+  "total": 1,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News",
-    "Medios regionales",
-    "Quadratin + regionales",
-    "Telegram"
+    "Quadratin + regionales"
   ],
   "grupos": [
-    {
-      "tipo": "bloqueo",
-      "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "ab1f2d1c",
-          "tipo": "bloqueo",
-          "ruta": "Bloquean carretera de Cholula para exigir limpieza de basurero https://www.jornada.com.mx/2026/11/08/estados/021n2est?partner=rss…",
-          "descripcion": "Bloquean carretera de Cholula para exigir limpieza de basurero\nhttps://www.jornada.com.mx/2026/11/08/estados/021n2est?partner=rss\n\nPuebla, Pue., Integrantes de pueblos originarios mantenían anoche el bloqueo de la carretera Cholula–Huejotzingo, a la altura del Cerrito de Guadalupe, para exigir el saneamiento del antiguo relleno sanitario intermunicipal, con lo que sumaban hasta ayer 84 horas de protesta.",
-          "recomendacion": "",
-          "fecha": "8 noviembre 2026 · 09:41 CST",
-          "fecha_iso": "2026-11-08T09:41:00-06:00",
-          "fuente": "Telegram @NOTMEX",
-          "url": "https://t.me/NOTMEX/187128",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 19.04,
-          "lon": -98.2
-        },
-        {
-          "id": "eb01768e",
-          "tipo": "bloqueo",
-          "ruta": "Bloqueos carreteras HOY domingo 8 de noviembre: Autopistas cerradas en…",
-          "descripcion": "Bloqueos carreteras HOY domingo 8 de noviembre: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY domingo 8 de noviembre: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
-          "recomendacion": "",
-          "fecha": "8 noviembre 2026 · 08:52 CST",
-          "fecha_iso": "2026-11-08T08:52:00-06:00",
-          "fuente": "Eje Central",
-          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxORC02cnNaYUN6Y04wWE1uVHhBd3FlNzdZUkFPQzdNUW1kMjFnQmdEUWgycWNmWGUtNnNoSktMaG9GeklzR0pzQlltbFhEeUU0dzBtaUx4eWxYYzA2Q0lWUUlWMDU2ZU5vcXR3eWU4a0xWT000dzlPMVJNOHdNbUR1RE56ZFVSeS0zY1NoendBUXVPZFE5UGVPZENSaERTcFM2RzNpTUxMRVhJeFFHU0RDaFA2bnh2RWM4dmw2U095TjAwMnVEQ0ZZTGdNNURPdnpUTFZfLVNnNkMySUEzVERGMGhmTFZOQXN0TThEUmsyNEVCOF9Uenc?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        }
-      ]
-    },
     {
       "tipo": "cierre_parcial",
       "color": "amarillo",
@@ -71,20 +29,6 @@
           "badge_txt": "CIERRE PARCIAL",
           "lat": 19.35,
           "lon": -98.4
-        },
-        {
-          "id": "41f57312",
-          "tipo": "cierre_parcial",
-          "ruta": "Suben a 7 los muertos y a 112 los heridos…",
-          "descripcion": "Suben a 7 los muertos y a 112 los heridos en choque de trenes en Egipto. El accidente se produjo en la carretera agrícola El Cairo-Asuán, cerca del cruce de Gerza",
-          "recomendacion": "",
-          "fecha": "8 noviembre 2026 · 14:52 CST",
-          "fecha_iso": "2026-11-08T14:52:00-06:00",
-          "fuente": "El Informador Jalisco",
-          "url": "https://www.informador.mx/internacional/suben-a-7-los-muertos-y-a-112-los-heridos-en-choque-de-trenes-en-provincia-egipcia-de-giza-20261108-0070.html",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
         }
       ]
     }
@@ -102,19 +46,6 @@
       "badge_txt": "CIERRE PARCIAL",
       "lat": 19.35,
       "lon": -98.4
-    },
-    {
-      "id": "ab1f2d1c",
-      "tipo": "bloqueo",
-      "ruta": "Bloquean carretera de Cholula para exigir limpieza de basurero https://www.jornada.com.mx/2026/11/08/estados/021n2est?partner=rss…",
-      "descripcion": "Bloquean carretera de Cholula para exigir limpieza de basurero\nhttps://www.jornada.com.mx/2026/11/08/estados/021n2est?partner=rss\n\nPuebla, Pue., Integrantes de pueblos originarios mantenían anoche el bloqueo de la carretera Cholula–Huejotzingo, a la altura del Cerrito de Guadalupe, para exigir el saneamiento del antiguo relleno sanitario intermunicipal, con lo que sumaban hasta ayer 84 horas de protesta.",
-      "fecha": "8 noviembre 2026 · 09:41 CST",
-      "fuente": "Telegram @NOTMEX",
-      "url": "https://t.me/NOTMEX/187128",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 19.04,
-      "lon": -98.2
     }
   ]
 }
