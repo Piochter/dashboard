@@ -1,12 +1,71 @@
 {
-  "ultima_actualizacion": "2026-11-09T04:38:03.794408-06:00",
-  "ultima_actualizacion_legible": "9 de noviembre de 2026 · 04:38 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-11-09T15:04:47.620780-06:00",
+  "ultima_actualizacion_legible": "9 de noviembre de 2026 · 15:04 CST",
+  "total": 5,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Quadratin + regionales"
+    "Medios nacionales",
+    "Quadratin + regionales",
+    "Telegram"
   ],
   "grupos": [
+    {
+      "tipo": "bloqueo",
+      "color": "rojo",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "fbe336ea",
+          "tipo": "bloqueo",
+          "ruta": "Bloqueo de repartidores en la México-Toluca desata caos vial en…",
+          "descripcion": "Bloqueo de repartidores en la México-Toluca desata caos vial en Santa Fe: ¿cuáles son sus demandas?. Repartidores de aplicación se mostraron inconformes por la implementación de las placas mercantiles y un tipo de licencias",
+          "recomendacion": "",
+          "fecha": "9 noviembre 2026 · 13:29 CST",
+          "fecha_iso": "2026-11-09T13:29:00-06:00",
+          "fuente": "24 Horas",
+          "url": "https://24-horas.mx/cdmx/bloqueo-de-repartidores-en-la-mexico-toluca-desata-caos-vial-en-santa-fecuales-son-sus-demandas/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 19.29,
+          "lon": -99.66
+        },
+        {
+          "id": "f65d1eb2",
+          "tipo": "bloqueo",
+          "ruta": "Protestan trabajadores del INE sobre Periférico en Oaxaca…",
+          "descripcion": "Protestan trabajadores del INE sobre Periférico en Oaxaca. Trabajadores mantienen tomadas entre 22 y 24 sedes en Oaxaca",
+          "recomendacion": "",
+          "fecha": "9 noviembre 2026 · 12:04 CST",
+          "fecha_iso": "2026-11-09T12:04:00-06:00",
+          "fuente": "Quadratin Oaxaca",
+          "url": "https://oaxaca.quadratin.com.mx/protestan-trabajadores-del-ine-sobre-periferico-en-oaxaca/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 17.06,
+          "lon": -96.72
+        },
+        {
+          "id": "026dc4a7",
+          "tipo": "bloqueo",
+          "ruta": "carretera en Cholula tras cuatro días de protestas por relleno sanitario",
+          "descripcion": "Liberan parcialmente carretera en Cholula tras cuatro días de protestas por relleno sanitario. Autoridades de Puebla acuerdan retirar maquinaria, extraer lixiviados y rellenar un socavón en el relleno sanitario de Cholula tras las protestas",
+          "recomendacion": "",
+          "fecha": "9 noviembre 2026 · 10:00 CST",
+          "fecha_iso": "2026-11-09T10:00:00-06:00",
+          "fuente": "24 Horas",
+          "url": "https://24-horas.mx/estados/liberan-parcialmente-carretera-en-cholula-tras-cuatro-dias-de-protestas-por-relleno-sanitario/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 19.04,
+          "lon": -98.2
+        }
+      ]
+    },
     {
       "tipo": "cierre_parcial",
       "color": "amarillo",
@@ -15,37 +74,105 @@
       "col2": true,
       "alertas": [
         {
-          "id": "9c6367e2",
+          "id": "9f76ab56",
           "tipo": "cierre_parcial",
-          "ruta": "Provoca incendio de llantas intensa humareda en Ixtapaluca…",
-          "descripcion": "Provoca incendio de llantas intensa humareda en Ixtapaluca. El fuego se registra en una barranca de Cuatro Vientos, cerca de la autopista México-Puebla; el humo afecta a vecinos y automovilistas",
+          "ruta": "libramiento de Ocotlán de Morelos",
+          "descripcion": "Choque en libramiento de Ocotlán de Morelos. Movilizan unidades de emergencia al libramiento de Ocotlán, a la altura del basurero, por un percance vial.",
           "recomendacion": "",
-          "fecha": "8 noviembre 2026 · 19:30 CST",
-          "fecha_iso": "2026-11-08T19:30:00-06:00",
-          "fuente": "Quadratin EdoMex",
-          "url": "https://edomex.quadratin.com.mx/provoca-incendio-de-llantas-intensa-humareda-en-ixtapaluca/",
+          "fecha": "9 noviembre 2026 · 13:11 CST",
+          "fecha_iso": "2026-11-09T13:11:00-06:00",
+          "fuente": "Quadratin Oaxaca",
+          "url": "https://oaxaca.quadratin.com.mx/choque-en-libramiento-de-ocotlan/",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.35,
-          "lon": -98.4
+          "lat": 18.67,
+          "lon": -99.1
+        },
+        {
+          "id": "75cf6708",
+          "tipo": "cierre_parcial",
+          "ruta": "🚨 Tráiler sufre accidente en la #México–#Querétaro [#VIDEO] 😱👇 https://lajornadaestadodemexico.com/accidente-en-la-mexico-queretaro-trailer/…",
+          "descripcion": "🚨 Tráiler sufre accidente en la #México–#Querétaro [#VIDEO] 😱👇\nhttps://lajornadaestadodemexico.com/accidente-en-la-mexico-queretaro-trailer/",
+          "recomendacion": "",
+          "fecha": "9 noviembre 2026 · 07:01 CST",
+          "fecha_iso": "2026-11-09T07:01:00-06:00",
+          "fuente": "Telegram @jornadaedomex",
+          "url": "https://t.me/jornadaedomex/12584",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 20.1,
+          "lon": -99.5
         }
       ]
     }
   ],
   "para_mapa": [
     {
-      "id": "9c6367e2",
+      "id": "fbe336ea",
+      "tipo": "bloqueo",
+      "ruta": "Bloqueo de repartidores en la México-Toluca desata caos vial en…",
+      "descripcion": "Bloqueo de repartidores en la México-Toluca desata caos vial en Santa Fe: ¿cuáles son sus demandas?. Repartidores de aplicación se mostraron inconformes por la implementación de las placas mercantiles y un tipo de licencias",
+      "fecha": "9 noviembre 2026 · 13:29 CST",
+      "fuente": "24 Horas",
+      "url": "https://24-horas.mx/cdmx/bloqueo-de-repartidores-en-la-mexico-toluca-desata-caos-vial-en-santa-fecuales-son-sus-demandas/",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 19.29,
+      "lon": -99.66
+    },
+    {
+      "id": "9f76ab56",
       "tipo": "cierre_parcial",
-      "ruta": "Provoca incendio de llantas intensa humareda en Ixtapaluca…",
-      "descripcion": "Provoca incendio de llantas intensa humareda en Ixtapaluca. El fuego se registra en una barranca de Cuatro Vientos, cerca de la autopista México-Puebla; el humo afecta a vecinos y automovilistas",
-      "fecha": "8 noviembre 2026 · 19:30 CST",
-      "fuente": "Quadratin EdoMex",
-      "url": "https://edomex.quadratin.com.mx/provoca-incendio-de-llantas-intensa-humareda-en-ixtapaluca/",
+      "ruta": "libramiento de Ocotlán de Morelos",
+      "descripcion": "Choque en libramiento de Ocotlán de Morelos. Movilizan unidades de emergencia al libramiento de Ocotlán, a la altura del basurero, por un percance vial.",
+      "fecha": "9 noviembre 2026 · 13:11 CST",
+      "fuente": "Quadratin Oaxaca",
+      "url": "https://oaxaca.quadratin.com.mx/choque-en-libramiento-de-ocotlan/",
       "dot_color": "#e67e22",
       "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.35,
-      "lon": -98.4
+      "lat": 18.67,
+      "lon": -99.1
+    },
+    {
+      "id": "f65d1eb2",
+      "tipo": "bloqueo",
+      "ruta": "Protestan trabajadores del INE sobre Periférico en Oaxaca…",
+      "descripcion": "Protestan trabajadores del INE sobre Periférico en Oaxaca. Trabajadores mantienen tomadas entre 22 y 24 sedes en Oaxaca",
+      "fecha": "9 noviembre 2026 · 12:04 CST",
+      "fuente": "Quadratin Oaxaca",
+      "url": "https://oaxaca.quadratin.com.mx/protestan-trabajadores-del-ine-sobre-periferico-en-oaxaca/",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 17.06,
+      "lon": -96.72
+    },
+    {
+      "id": "026dc4a7",
+      "tipo": "bloqueo",
+      "ruta": "carretera en Cholula tras cuatro días de protestas por relleno sanitario",
+      "descripcion": "Liberan parcialmente carretera en Cholula tras cuatro días de protestas por relleno sanitario. Autoridades de Puebla acuerdan retirar maquinaria, extraer lixiviados y rellenar un socavón en el relleno sanitario de Cholula tras las protestas",
+      "fecha": "9 noviembre 2026 · 10:00 CST",
+      "fuente": "24 Horas",
+      "url": "https://24-horas.mx/estados/liberan-parcialmente-carretera-en-cholula-tras-cuatro-dias-de-protestas-por-relleno-sanitario/",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 19.04,
+      "lon": -98.2
+    },
+    {
+      "id": "75cf6708",
+      "tipo": "cierre_parcial",
+      "ruta": "🚨 Tráiler sufre accidente en la #México–#Querétaro [#VIDEO] 😱👇 https://lajornadaestadodemexico.com/accidente-en-la-mexico-queretaro-trailer/…",
+      "descripcion": "🚨 Tráiler sufre accidente en la #México–#Querétaro [#VIDEO] 😱👇\nhttps://lajornadaestadodemexico.com/accidente-en-la-mexico-queretaro-trailer/",
+      "fecha": "9 noviembre 2026 · 07:01 CST",
+      "fuente": "Telegram @jornadaedomex",
+      "url": "https://t.me/jornadaedomex/12584",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 20.1,
+      "lon": -99.5
     }
   ]
 }
