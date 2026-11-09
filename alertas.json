@@ -1,12 +1,12 @@
 {
-  "ultima_actualizacion": "2026-11-08T17:18:25.981969-06:00",
-  "ultima_actualizacion_legible": "8 de noviembre de 2026 · 17:18 CST",
-  "total": 5,
+  "ultima_actualizacion": "2026-11-08T20:49:43.309627-06:00",
+  "ultima_actualizacion_legible": "8 de noviembre de 2026 · 20:49 CST",
+  "total": 4,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
-    "Medios nacionales",
     "Medios regionales",
+    "Quadratin + regionales",
     "Telegram"
   ],
   "grupos": [
@@ -46,22 +46,6 @@
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO"
-        },
-        {
-          "id": "13a85ac0",
-          "tipo": "bloqueo",
-          "ruta": "Bloqueos y cierres en carreteras este 8 de noviembre: México-Querétaro…",
-          "descripcion": "Bloqueos y cierres en carreteras este 8 de noviembre: México-Querétaro y México-Puebla con accidentes este domingo - ADN 40. Bloqueos y cierres en carreteras este 8 de noviembre: México-Querétaro y México-Puebla con accidentes este domingo ADN 40",
-          "recomendacion": "",
-          "fecha": "8 noviembre 2026 · 07:03 CST",
-          "fecha_iso": "2026-11-08T07:03:00-06:00",
-          "fuente": "ADN 40",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQb1BCTHczY1ctdWhlQ3dPOHZGQno1TU5MSktlUVdETDBHM3NwYmxlV2VEam82UGpPSFQ3aXdsdkYzaDJ6aFVnWmczdGlBZkJ4Ynk3S3RzZXF5cm9yLW4yZjFoeWpPRk9jLU9XbGN3cUFGZGl6a3pQd3RDZWNSVWtmTFV2TVZZLU1VdmpLWlBKNFp0U0w3a016M1FsLXV5anhqQ2hzNkI2bGtOV2FVbkJQUkVZVVoxQ3hlbExDRzFVZmNNTzVpWkxDVWZTOTdhbERZTjdmY09LNmhkQS1GaXg0TkJzeDV3Q0Fj?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 19.35,
-          "lon": -98.4
         }
       ]
     },
@@ -72,6 +56,22 @@
       "label": "CIERRE PARCIAL / ACCIDENTES",
       "col2": true,
       "alertas": [
+        {
+          "id": "9c6367e2",
+          "tipo": "cierre_parcial",
+          "ruta": "Provoca incendio de llantas intensa humareda en Ixtapaluca…",
+          "descripcion": "Provoca incendio de llantas intensa humareda en Ixtapaluca. El fuego se registra en una barranca de Cuatro Vientos, cerca de la autopista México-Puebla; el humo afecta a vecinos y automovilistas",
+          "recomendacion": "",
+          "fecha": "8 noviembre 2026 · 19:30 CST",
+          "fecha_iso": "2026-11-08T19:30:00-06:00",
+          "fuente": "Quadratin EdoMex",
+          "url": "https://edomex.quadratin.com.mx/provoca-incendio-de-llantas-intensa-humareda-en-ixtapaluca/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 19.35,
+          "lon": -98.4
+        },
         {
           "id": "41f57312",
           "tipo": "cierre_parcial",
@@ -85,39 +85,23 @@
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL"
-        },
-        {
-          "id": "5ed25e1b",
-          "tipo": "cierre_parcial",
-          "ruta": "Fallecen dos integrantes del Concejo Municipal de Tepeyahualco en accidente…",
-          "descripcion": "Fallecen dos integrantes del Concejo Municipal de Tepeyahualco en accidente carretero. Abigail Moyano Salazar y Gustavo Alejandro Tlaquiz Tenaztle perdieron la vida tras un choque contra un tráiler en la autopista Amozoc-Perote, en Puebla",
-          "recomendacion": "",
-          "fecha": "8 noviembre 2026 · 12:37 CST",
-          "fecha_iso": "2026-11-08T12:37:00-06:00",
-          "fuente": "24 Horas",
-          "url": "https://24-horas.mx/estados/fallecen-dos-integrantes-del-concejo-municipal-de-tepeyahualco-en-accidente-carretero/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.1,
-          "lon": -98.0
         }
       ]
     }
   ],
   "para_mapa": [
     {
-      "id": "5ed25e1b",
+      "id": "9c6367e2",
       "tipo": "cierre_parcial",
-      "ruta": "Fallecen dos integrantes del Concejo Municipal de Tepeyahualco en accidente…",
-      "descripcion": "Fallecen dos integrantes del Concejo Municipal de Tepeyahualco en accidente carretero. Abigail Moyano Salazar y Gustavo Alejandro Tlaquiz Tenaztle perdieron la vida tras un choque contra un tráiler en la autopista Amozoc-Perote, en Puebla",
-      "fecha": "8 noviembre 2026 · 12:37 CST",
-      "fuente": "24 Horas",
-      "url": "https://24-horas.mx/estados/fallecen-dos-integrantes-del-concejo-municipal-de-tepeyahualco-en-accidente-carretero/",
+      "ruta": "Provoca incendio de llantas intensa humareda en Ixtapaluca…",
+      "descripcion": "Provoca incendio de llantas intensa humareda en Ixtapaluca. El fuego se registra en una barranca de Cuatro Vientos, cerca de la autopista México-Puebla; el humo afecta a vecinos y automovilistas",
+      "fecha": "8 noviembre 2026 · 19:30 CST",
+      "fuente": "Quadratin EdoMex",
+      "url": "https://edomex.quadratin.com.mx/provoca-incendio-de-llantas-intensa-humareda-en-ixtapaluca/",
       "dot_color": "#e67e22",
       "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.1,
-      "lon": -98.0
+      "lat": 19.35,
+      "lon": -98.4
     },
     {
       "id": "ab1f2d1c",
@@ -131,19 +115,6 @@
       "badge_txt": "BLOQUEO",
       "lat": 19.04,
       "lon": -98.2
-    },
-    {
-      "id": "13a85ac0",
-      "tipo": "bloqueo",
-      "ruta": "Bloqueos y cierres en carreteras este 8 de noviembre: México-Querétaro…",
-      "descripcion": "Bloqueos y cierres en carreteras este 8 de noviembre: México-Querétaro y México-Puebla con accidentes este domingo - ADN 40. Bloqueos y cierres en carreteras este 8 de noviembre: México-Querétaro y México-Puebla con accidentes este domingo ADN 40",
-      "fecha": "8 noviembre 2026 · 07:03 CST",
-      "fuente": "ADN 40",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQb1BCTHczY1ctdWhlQ3dPOHZGQno1TU5MSktlUVdETDBHM3NwYmxlV2VEam82UGpPSFQ3aXdsdkYzaDJ6aFVnWmczdGlBZkJ4Ynk3S3RzZXF5cm9yLW4yZjFoeWpPRk9jLU9XbGN3cUFGZGl6a3pQd3RDZWNSVWtmTFV2TVZZLU1VdmpLWlBKNFp0U0w3a016M1FsLXV5anhqQ2hzNkI2bGtOV2FVbkJQUkVZVVoxQ3hlbExDRzFVZmNNTzVpWkxDVWZTOTdhbERZTjdmY09LNmhkQS1GaXg0TkJzeDV3Q0Fj?oc=5",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 19.35,
-      "lon": -98.4
     }
   ]
 }
