@@ -1,12 +1,12 @@
 {
-  "ultima_actualizacion": "2026-11-09T15:04:47.620780-06:00",
-  "ultima_actualizacion_legible": "9 de noviembre de 2026 · 15:04 CST",
-  "total": 5,
+  "ultima_actualizacion": "2026-11-09T21:31:46.951544-06:00",
+  "ultima_actualizacion_legible": "9 de noviembre de 2026 · 21:31 CST",
+  "total": 6,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Medios nacionales",
-    "Quadratin + regionales",
-    "Telegram"
+    "Medios regionales",
+    "Quadratin + regionales"
   ],
   "grupos": [
     {
@@ -16,6 +16,36 @@
       "label": "BLOQUEOS / MANIFESTACIONES",
       "col2": false,
       "alertas": [
+        {
+          "id": "b2a9ca1f",
+          "tipo": "bloqueo",
+          "ruta": "Agricultores anuncian nuevas protestas el 17 de noviembre; prevén bloqueos…",
+          "descripcion": "Agricultores anuncian nuevas protestas el 17 de noviembre; prevén bloqueos en Guanajuato. Productores agrícolas retomarán las movilizaciones tras la cancelación de una reunión con autoridades federales. Exigen un precio de garantía de 6 mil 500 pesos por tonelada de maíz y el pago de apoyos pendientes. Advierten posibles afectaciones carreteras, aunque todavía no se definen los puntos de bloqueo.",
+          "recomendacion": "",
+          "fecha": "9 noviembre 2026 · 18:53 CST",
+          "fecha_iso": "2026-11-09T18:53:00-06:00",
+          "fuente": "AM Guanajuato",
+          "url": "https://www.am.com.mx/guanajuato/2026/11/09/agricultores-anuncian-nuevas-protestas-el-17-de-noviembre-preven-bloqueos-en-guanajuato-1864396.html",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 21.02,
+          "lon": -101.26
+        },
+        {
+          "id": "832384e7",
+          "tipo": "bloqueo",
+          "ruta": "Autopista del Sol desata golpes y afecta a enfermos",
+          "descripcion": "Bloqueo en la Autopista del Sol desata golpes y afecta a enfermos. Enfrentamiento entre campesinos de Malinaltepec y automovilistas",
+          "recomendacion": "",
+          "fecha": "9 noviembre 2026 · 15:21 CST",
+          "fecha_iso": "2026-11-09T15:21:00-06:00",
+          "fuente": "Quadratin Guerrero",
+          "url": "https://guerrero.quadratin.com.mx/bloqueo-en-la-autopista-del-sol-desata-golpes-y-afecta-a-enfermos/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
         {
           "id": "fbe336ea",
           "tipo": "bloqueo",
@@ -47,22 +77,6 @@
           "badge_txt": "BLOQUEO",
           "lat": 17.06,
           "lon": -96.72
-        },
-        {
-          "id": "026dc4a7",
-          "tipo": "bloqueo",
-          "ruta": "carretera en Cholula tras cuatro días de protestas por relleno sanitario",
-          "descripcion": "Liberan parcialmente carretera en Cholula tras cuatro días de protestas por relleno sanitario. Autoridades de Puebla acuerdan retirar maquinaria, extraer lixiviados y rellenar un socavón en el relleno sanitario de Cholula tras las protestas",
-          "recomendacion": "",
-          "fecha": "9 noviembre 2026 · 10:00 CST",
-          "fecha_iso": "2026-11-09T10:00:00-06:00",
-          "fuente": "24 Horas",
-          "url": "https://24-horas.mx/estados/liberan-parcialmente-carretera-en-cholula-tras-cuatro-dias-de-protestas-por-relleno-sanitario/",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 19.04,
-          "lon": -98.2
         }
       ]
     },
@@ -73,6 +87,22 @@
       "label": "CIERRE PARCIAL / ACCIDENTES",
       "col2": true,
       "alertas": [
+        {
+          "id": "06b2f4d1",
+          "tipo": "cierre_parcial",
+          "ruta": "Inicia cierre en Irapuato por obra del puente Bimbo; durará…",
+          "descripcion": "Inicia cierre en Irapuato por obra del puente Bimbo; durará 450 días e impacta rutas. A las 10:00 de la mañana del lunes 9 de noviembre, la circulación por la Calzada de Guadalupe cambió. Personal de la empresa Consorcio Ingenieros de Guanajuato colocó los cierres para iniciar la etapa de construcción del puente elevado de la Bimbo",
+          "recomendacion": "",
+          "fecha": "9 noviembre 2026 · 18:38 CST",
+          "fecha_iso": "2026-11-09T18:38:00-06:00",
+          "fuente": "AM Guanajuato",
+          "url": "https://www.am.com.mx/irapuato/2026/11/09/inicia-cierre-en-irapuato-por-obra-del-puente-bimbo-durara-450-dias-e-impacta-rutas-1864375.html",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 21.02,
+          "lon": -101.26
+        },
         {
           "id": "9f76ab56",
           "tipo": "cierre_parcial",
@@ -88,27 +118,37 @@
           "badge_txt": "CIERRE PARCIAL",
           "lat": 18.67,
           "lon": -99.1
-        },
-        {
-          "id": "75cf6708",
-          "tipo": "cierre_parcial",
-          "ruta": "🚨 Tráiler sufre accidente en la #México–#Querétaro [#VIDEO] 😱👇 https://lajornadaestadodemexico.com/accidente-en-la-mexico-queretaro-trailer/…",
-          "descripcion": "🚨 Tráiler sufre accidente en la #México–#Querétaro [#VIDEO] 😱👇\nhttps://lajornadaestadodemexico.com/accidente-en-la-mexico-queretaro-trailer/",
-          "recomendacion": "",
-          "fecha": "9 noviembre 2026 · 07:01 CST",
-          "fecha_iso": "2026-11-09T07:01:00-06:00",
-          "fuente": "Telegram @jornadaedomex",
-          "url": "https://t.me/jornadaedomex/12584",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 20.1,
-          "lon": -99.5
         }
       ]
     }
   ],
   "para_mapa": [
+    {
+      "id": "b2a9ca1f",
+      "tipo": "bloqueo",
+      "ruta": "Agricultores anuncian nuevas protestas el 17 de noviembre; prevén bloqueos…",
+      "descripcion": "Agricultores anuncian nuevas protestas el 17 de noviembre; prevén bloqueos en Guanajuato. Productores agrícolas retomarán las movilizaciones tras la cancelación de una reunión con autoridades federales. Exigen un precio de garantía de 6 mil 500 pesos por tonelada de maíz y el pago de apoyos pendientes. Advierten posibles afectaciones carreteras, aunque todavía no se definen los puntos de bloqueo.",
+      "fecha": "9 noviembre 2026 · 18:53 CST",
+      "fuente": "AM Guanajuato",
+      "url": "https://www.am.com.mx/guanajuato/2026/11/09/agricultores-anuncian-nuevas-protestas-el-17-de-noviembre-preven-bloqueos-en-guanajuato-1864396.html",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 21.02,
+      "lon": -101.26
+    },
+    {
+      "id": "06b2f4d1",
+      "tipo": "cierre_parcial",
+      "ruta": "Inicia cierre en Irapuato por obra del puente Bimbo; durará…",
+      "descripcion": "Inicia cierre en Irapuato por obra del puente Bimbo; durará 450 días e impacta rutas. A las 10:00 de la mañana del lunes 9 de noviembre, la circulación por la Calzada de Guadalupe cambió. Personal de la empresa Consorcio Ingenieros de Guanajuato colocó los cierres para iniciar la etapa de construcción del puente elevado de la Bimbo",
+      "fecha": "9 noviembre 2026 · 18:38 CST",
+      "fuente": "AM Guanajuato",
+      "url": "https://www.am.com.mx/irapuato/2026/11/09/inicia-cierre-en-irapuato-por-obra-del-puente-bimbo-durara-450-dias-e-impacta-rutas-1864375.html",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 21.02,
+      "lon": -101.26
+    },
     {
       "id": "fbe336ea",
       "tipo": "bloqueo",
@@ -147,32 +187,6 @@
       "badge_txt": "BLOQUEO",
       "lat": 17.06,
       "lon": -96.72
-    },
-    {
-      "id": "026dc4a7",
-      "tipo": "bloqueo",
-      "ruta": "carretera en Cholula tras cuatro días de protestas por relleno sanitario",
-      "descripcion": "Liberan parcialmente carretera en Cholula tras cuatro días de protestas por relleno sanitario. Autoridades de Puebla acuerdan retirar maquinaria, extraer lixiviados y rellenar un socavón en el relleno sanitario de Cholula tras las protestas",
-      "fecha": "9 noviembre 2026 · 10:00 CST",
-      "fuente": "24 Horas",
-      "url": "https://24-horas.mx/estados/liberan-parcialmente-carretera-en-cholula-tras-cuatro-dias-de-protestas-por-relleno-sanitario/",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 19.04,
-      "lon": -98.2
-    },
-    {
-      "id": "75cf6708",
-      "tipo": "cierre_parcial",
-      "ruta": "🚨 Tráiler sufre accidente en la #México–#Querétaro [#VIDEO] 😱👇 https://lajornadaestadodemexico.com/accidente-en-la-mexico-queretaro-trailer/…",
-      "descripcion": "🚨 Tráiler sufre accidente en la #México–#Querétaro [#VIDEO] 😱👇\nhttps://lajornadaestadodemexico.com/accidente-en-la-mexico-queretaro-trailer/",
-      "fecha": "9 noviembre 2026 · 07:01 CST",
-      "fuente": "Telegram @jornadaedomex",
-      "url": "https://t.me/jornadaedomex/12584",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 20.1,
-      "lon": -99.5
     }
   ]
 }
