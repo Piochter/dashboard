@@ -1,12 +1,38 @@
 {
-  "ultima_actualizacion": "2026-11-10T05:45:43.379449-06:00",
-  "ultima_actualizacion_legible": "10 de noviembre de 2026 · 05:45 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-11-10T12:52:25.612328-06:00",
+  "ultima_actualizacion_legible": "10 de noviembre de 2026 · 12:52 CST",
+  "total": 5,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Medios regionales"
+    "Google News",
+    "Medios regionales",
+    "Quadratin + regionales",
+    "Telegram"
   ],
   "grupos": [
+    {
+      "tipo": "cierre_total",
+      "color": "rojo",
+      "icono": "🔴",
+      "label": "CIERRE TOTAL",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "3f185cc7",
+          "tipo": "cierre_total",
+          "ruta": "libramiento norte de Irapuato deja un chofer herido por volcadura",
+          "descripcion": "Accidente en libramiento norte de Irapuato deja un chofer herido por volcadura. Según testigos el operador de la unidad de transporte de personal conducía por arriba del límite de velocidad y al cruzar por debajo del distribuidor vial, perdió por completo el control y se salió de la vía.",
+          "recomendacion": "",
+          "fecha": "10 noviembre 2026 · 09:54 CST",
+          "fecha_iso": "2026-11-10T09:54:00-06:00",
+          "fuente": "AM Guanajuato",
+          "url": "https://www.am.com.mx/irapuato/2026/11/10/accidente-en-libramiento-norte-irapuato-deja-un-chofer-herido-1864547.html",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL"
+        }
+      ]
+    },
     {
       "tipo": "cierre_parcial",
       "color": "amarillo",
@@ -15,37 +41,109 @@
       "col2": true,
       "alertas": [
         {
-          "id": "e94b8788",
+          "id": "fc1fd52f",
           "tipo": "cierre_parcial",
-          "ruta": "carretera Guanajuato-Irapuato deja una mujer herida",
-          "descripcion": "Choque entre 3 autos en la carretera Guanajuato-Irapuato deja una mujer herida. El accidente ocurrió sobre la carretera Guanajuato-Irapuato, a la altura de la comunidad Los Infantes.",
+          "ruta": "¿Sales hoy a carretera? Accidentes, cierres y tráfico este martes…",
+          "descripcion": "¿Sales hoy a carretera? Accidentes, cierres y tráfico este martes 10 de noviembre EN VIVO - TV Azteca. ¿Sales hoy a carretera? Accidentes, cierres y tráfico este martes 10 de noviembre EN VIVO TV Azteca",
           "recomendacion": "",
-          "fecha": "9 noviembre 2026 · 23:56 CST",
-          "fecha_iso": "2026-11-09T23:56:00-06:00",
-          "fuente": "AM Guanajuato",
-          "url": "https://www.am.com.mx/guanajuato/2026/11/09/choque-entre-3-autos-en-la-carretera-guanajuato-irapuato-deja-una-mujer-herida-1864517.html",
+          "fecha": "10 noviembre 2026 · 12:43 CST",
+          "fecha_iso": "2026-11-10T12:43:00-06:00",
+          "fuente": "TV Azteca",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQU5vLVFIUWZaRUg5ZUowdGlWTUJLX1o5eGNGN2o0dEpLYjNlQUpmVGc5NFFZRUVXVHRndXAxTjVTRGFBdFV4UTF6NThuX0xITlBkeVVtTlFMNnB2N1REY1A2Z0dleldMczlUTXpsdTJET2tKOWEtdXhVaUxNQU9sZFd3al9uMER6VVBLbVluM2oxSEY4RkZlc05xcldlRWlsTmZEbkhCWGNHWXB3bVJ6VXF1eDl5dkRPZzhvR1Q1XzM1Y2kxVmc?oc=5",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        },
+        {
+          "id": "37268536",
+          "tipo": "cierre_parcial",
+          "ruta": "autopista Córdoba-Veracruz",
+          "descripcion": "Choque deja 2 lesionados en autopista Córdoba-Veracruz. Una unidad de carga habría impactado a un automóvil particular",
+          "recomendacion": "",
+          "fecha": "10 noviembre 2026 · 11:53 CST",
+          "fecha_iso": "2026-11-10T11:53:00-06:00",
+          "fuente": "Quadratin Veracruz",
+          "url": "https://veracruz.quadratin.com.mx/choque-deja-2-lesionados-en-autopista-cordoba-veracruz/",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL",
-          "lat": 21.02,
-          "lon": -101.26
+          "lat": 19.18,
+          "lon": -96.14
+        },
+        {
+          "id": "4a9aadb2",
+          "tipo": "cierre_parcial",
+          "ruta": "🚧🚘Accid*nte paraliza la #México–#Querétaro a la altura de #Jilotepec 👇…",
+          "descripcion": "🚧🚘Accid*nte paraliza la #México–#Querétaro a la altura de #Jilotepec 👇\n\nhttps://lajornadaestadodemexico.com/mexico-queretaro-jilotepec-accidente/",
+          "recomendacion": "",
+          "fecha": "10 noviembre 2026 · 08:56 CST",
+          "fecha_iso": "2026-11-10T08:56:00-06:00",
+          "fuente": "Telegram @jornadaedomex",
+          "url": "https://t.me/jornadaedomex/12601",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 20.1,
+          "lon": -99.5
+        },
+        {
+          "id": "d22c93a1",
+          "tipo": "cierre_parcial",
+          "ruta": "🚨💥 Choqu3 provoca avance lento en la #México-#Querétaro rumbo a…",
+          "descripcion": "🚨💥 Choqu3 provoca avance lento en la #México-#Querétaro rumbo a #Tepotzotlán\nhttps://lajornadaestadodemexico.com/choque-mexico-queretaro-rumbo-a-tepotzotlan/",
+          "recomendacion": "",
+          "fecha": "10 noviembre 2026 · 06:58 CST",
+          "fecha_iso": "2026-11-10T06:58:00-06:00",
+          "fuente": "Telegram @jornadaedomex",
+          "url": "https://t.me/jornadaedomex/12598",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 20.1,
+          "lon": -99.5
         }
       ]
     }
   ],
   "para_mapa": [
     {
-      "id": "e94b8788",
+      "id": "37268536",
       "tipo": "cierre_parcial",
-      "ruta": "carretera Guanajuato-Irapuato deja una mujer herida",
-      "descripcion": "Choque entre 3 autos en la carretera Guanajuato-Irapuato deja una mujer herida. El accidente ocurrió sobre la carretera Guanajuato-Irapuato, a la altura de la comunidad Los Infantes.",
-      "fecha": "9 noviembre 2026 · 23:56 CST",
-      "fuente": "AM Guanajuato",
-      "url": "https://www.am.com.mx/guanajuato/2026/11/09/choque-entre-3-autos-en-la-carretera-guanajuato-irapuato-deja-una-mujer-herida-1864517.html",
+      "ruta": "autopista Córdoba-Veracruz",
+      "descripcion": "Choque deja 2 lesionados en autopista Córdoba-Veracruz. Una unidad de carga habría impactado a un automóvil particular",
+      "fecha": "10 noviembre 2026 · 11:53 CST",
+      "fuente": "Quadratin Veracruz",
+      "url": "https://veracruz.quadratin.com.mx/choque-deja-2-lesionados-en-autopista-cordoba-veracruz/",
       "dot_color": "#e67e22",
       "badge_txt": "CIERRE PARCIAL",
-      "lat": 21.02,
-      "lon": -101.26
+      "lat": 19.18,
+      "lon": -96.14
+    },
+    {
+      "id": "4a9aadb2",
+      "tipo": "cierre_parcial",
+      "ruta": "🚧🚘Accid*nte paraliza la #México–#Querétaro a la altura de #Jilotepec 👇…",
+      "descripcion": "🚧🚘Accid*nte paraliza la #México–#Querétaro a la altura de #Jilotepec 👇\n\nhttps://lajornadaestadodemexico.com/mexico-queretaro-jilotepec-accidente/",
+      "fecha": "10 noviembre 2026 · 08:56 CST",
+      "fuente": "Telegram @jornadaedomex",
+      "url": "https://t.me/jornadaedomex/12601",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 20.1,
+      "lon": -99.5
+    },
+    {
+      "id": "d22c93a1",
+      "tipo": "cierre_parcial",
+      "ruta": "🚨💥 Choqu3 provoca avance lento en la #México-#Querétaro rumbo a…",
+      "descripcion": "🚨💥 Choqu3 provoca avance lento en la #México-#Querétaro rumbo a #Tepotzotlán\nhttps://lajornadaestadodemexico.com/choque-mexico-queretaro-rumbo-a-tepotzotlan/",
+      "fecha": "10 noviembre 2026 · 06:58 CST",
+      "fuente": "Telegram @jornadaedomex",
+      "url": "https://t.me/jornadaedomex/12598",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 20.1,
+      "lon": -99.5
     }
   ]
 }
