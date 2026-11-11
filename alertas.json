@@ -1,13 +1,10 @@
 {
-  "ultima_actualizacion": "2026-11-10T21:47:06.069515-06:00",
-  "ultima_actualizacion_legible": "10 de noviembre de 2026 · 21:47 CST",
-  "total": 5,
+  "ultima_actualizacion": "2026-11-11T05:35:10.674202-06:00",
+  "ultima_actualizacion_legible": "11 de noviembre de 2026 · 05:35 CST",
+  "total": 1,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News",
-    "Medios regionales",
-    "Quadratin + regionales",
-    "Telegram"
+    "Google News"
   ],
   "grupos": [
     {
@@ -30,120 +27,9 @@
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO"
-        },
-        {
-          "id": "4d15f7cc",
-          "tipo": "bloqueo",
-          "ruta": "Toman por segunda vez caseta de Tepotzotlán para exigir agua…",
-          "descripcion": "Toman por segunda vez caseta de Tepotzotlán para exigir agua. Habitantes de San Mateo Ixtacalco protestan en la autopista México-Querétaro por falta de agua y exigen respuesta a la alcaldesa",
-          "recomendacion": "",
-          "fecha": "10 noviembre 2026 · 20:26 CST",
-          "fecha_iso": "2026-11-10T20:26:00-06:00",
-          "fuente": "Quadratin EdoMex",
-          "url": "https://edomex.quadratin.com.mx/toman-por-segunda-vez-caseta-de-tepotzotlan-para-exigir-agua/",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 20.1,
-          "lon": -99.5
-        },
-        {
-          "id": "29c49194",
-          "tipo": "bloqueo",
-          "ruta": "Rosario Robles denuncia que bajaron a su hija de su…",
-          "descripcion": "Rosario Robles denuncia que bajaron a su hija de su auto en bloqueo de la México-Puebla. Familiares de personas recluídas en el penal de San Miguel, en Puebla, bloqueaban la circulación de la autopista para reclamar la destitución del director del penal y frenar presuntas extorsiones",
-          "recomendacion": "",
-          "fecha": "10 noviembre 2026 · 12:26 CST",
-          "fecha_iso": "2026-11-10T12:26:00-06:00",
-          "fuente": "El Sol de Mexico",
-          "url": "https://oem.com.mx/elsoldemexico/mexico/rosario-robles-denuncia-que-bajaron-a-su-hija-de-su-auto-en-bloqueo-de-la-mexico-puebla-33067264",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 19.35,
-          "lon": -98.4
-        }
-      ]
-    },
-    {
-      "tipo": "cierre_parcial",
-      "color": "amarillo",
-      "icono": "🟡",
-      "label": "CIERRE PARCIAL / ACCIDENTES",
-      "col2": true,
-      "alertas": [
-        {
-          "id": "3b087cac",
-          "tipo": "cierre_parcial",
-          "ruta": "Blvd. Belisario Domínguez",
-          "descripcion": "Incendio en Blvd. Belisario Domínguez, Tuxtla\nA la altura del Blvd. 28 de Agosto, al poniente de la ciudad. La vialidad cercana está cerrada: Bomberos y Protección Civil trabajan en el lugar. Evita la zona. La información se actualizará.",
-          "recomendacion": "",
-          "fecha": "10 noviembre 2026 · 16:18 CST",
-          "fecha_iso": "2026-11-10T16:18:00-06:00",
-          "fuente": "Telegram @AlertaChiapas",
-          "url": "https://t.me/AlertaChiapas/3001",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 16.75,
-          "lon": -93.12
-        },
-        {
-          "id": "98ad4299",
-          "tipo": "cierre_parcial",
-          "ruta": "¡MIGRAN ROBOS A CARRETERAS ESTATALES! - NOTIVER…",
-          "descripcion": "¡MIGRAN ROBOS A CARRETERAS ESTATALES! - NOTIVER. ¡MIGRAN ROBOS A CARRETERAS ESTATALES! NOTIVER",
-          "recomendacion": "",
-          "fecha": "10 noviembre 2026 · 12:00 CST",
-          "fecha_iso": "2026-11-10T12:00:00-06:00",
-          "fuente": "NOTIVER",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAydWU0YnRUb3VYWUdOdWp2Z1lHck05NDkxLUVGckF0SFFmWHVBZTZ3Vk43MjdySkJrejVhS0dGeWVyMURjVzE0OWstTDlDV0VvMTBfdnkyX09oc0J5YlUzWEtYOXJiTVI2LWxEUlBsTlNRV1Z4RVVsM0g1Yw?oc=5",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
         }
       ]
     }
   ],
-  "para_mapa": [
-    {
-      "id": "4d15f7cc",
-      "tipo": "bloqueo",
-      "ruta": "Toman por segunda vez caseta de Tepotzotlán para exigir agua…",
-      "descripcion": "Toman por segunda vez caseta de Tepotzotlán para exigir agua. Habitantes de San Mateo Ixtacalco protestan en la autopista México-Querétaro por falta de agua y exigen respuesta a la alcaldesa",
-      "fecha": "10 noviembre 2026 · 20:26 CST",
-      "fuente": "Quadratin EdoMex",
-      "url": "https://edomex.quadratin.com.mx/toman-por-segunda-vez-caseta-de-tepotzotlan-para-exigir-agua/",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 20.1,
-      "lon": -99.5
-    },
-    {
-      "id": "3b087cac",
-      "tipo": "cierre_parcial",
-      "ruta": "Blvd. Belisario Domínguez",
-      "descripcion": "Incendio en Blvd. Belisario Domínguez, Tuxtla\nA la altura del Blvd. 28 de Agosto, al poniente de la ciudad. La vialidad cercana está cerrada: Bomberos y Protección Civil trabajan en el lugar. Evita la zona. La información se actualizará.",
-      "fecha": "10 noviembre 2026 · 16:18 CST",
-      "fuente": "Telegram @AlertaChiapas",
-      "url": "https://t.me/AlertaChiapas/3001",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 16.75,
-      "lon": -93.12
-    },
-    {
-      "id": "29c49194",
-      "tipo": "bloqueo",
-      "ruta": "Rosario Robles denuncia que bajaron a su hija de su…",
-      "descripcion": "Rosario Robles denuncia que bajaron a su hija de su auto en bloqueo de la México-Puebla. Familiares de personas recluídas en el penal de San Miguel, en Puebla, bloqueaban la circulación de la autopista para reclamar la destitución del director del penal y frenar presuntas extorsiones",
-      "fecha": "10 noviembre 2026 · 12:26 CST",
-      "fuente": "El Sol de Mexico",
-      "url": "https://oem.com.mx/elsoldemexico/mexico/rosario-robles-denuncia-que-bajaron-a-su-hija-de-su-auto-en-bloqueo-de-la-mexico-puebla-33067264",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 19.35,
-      "lon": -98.4
-    }
-  ]
+  "para_mapa": []
 }
