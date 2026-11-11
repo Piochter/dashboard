@@ -1,35 +1,81 @@
 {
-  "ultima_actualizacion": "2026-11-11T05:35:10.674202-06:00",
-  "ultima_actualizacion_legible": "11 de noviembre de 2026 · 05:35 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-11-11T12:52:52.398189-06:00",
+  "ultima_actualizacion_legible": "11 de noviembre de 2026 · 12:52 CST",
+  "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News"
+    "Quadratin + regionales",
+    "Telegram"
   ],
   "grupos": [
     {
-      "tipo": "bloqueo",
-      "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
-      "col2": false,
+      "tipo": "cierre_parcial",
+      "color": "amarillo",
+      "icono": "🟡",
+      "label": "CIERRE PARCIAL / ACCIDENTES",
+      "col2": true,
       "alertas": [
         {
-          "id": "8393f62c",
-          "tipo": "bloqueo",
-          "ruta": "Tráfico, bloqueos y accidentes en carreteras hoy martes 10 de…",
-          "descripcion": "Tráfico, bloqueos y accidentes en carreteras hoy martes 10 de noviembre - TV Azteca. Tráfico, bloqueos y accidentes en carreteras hoy martes 10 de noviembre TV Azteca",
+          "id": "b82d8895",
+          "tipo": "cierre_parcial",
+          "ruta": "Provoca caos vial choque de camionetas en la México-Querétaro…",
+          "descripcion": "Provoca caos vial choque de camionetas en la México-Querétaro. Un accidente en la autopista México-Querétaro, a la altura de Teoloyucan, ocasionó reducción de carriles y complicaciones vehiculares",
           "recomendacion": "",
-          "fecha": "10 noviembre 2026 · 21:19 CST",
-          "fecha_iso": "2026-11-10T21:19:00-06:00",
-          "fuente": "TV Azteca",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQU5vLVFIUWZaRUg5ZUowdGlWTUJLX1o5eGNGN2o0dEpLYjNlQUpmVGc5NFFZRUVXVHRndXAxTjVTRGFBdFV4UTF6NThuX0xITlBkeVVtTlFMNnB2N1REY1A2Z0dleldMczlUTXpsdTJET2tKOWEtdXhVaUxNQU9sZFd3al9uMER6VVBLbVluM2oxSEY4RkZlc05xcldlRWlsTmZEbkhCWGNHWXB3bVJ6VXF1eDl5dkRPZzhvR1Q1XzM1Y2kxVmc?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
+          "fecha": "11 noviembre 2026 · 11:44 CST",
+          "fecha_iso": "2026-11-11T11:44:00-06:00",
+          "fuente": "Quadratin EdoMex",
+          "url": "https://edomex.quadratin.com.mx/provoca-caos-vial-choque-de-camionetas-en-la-mexico-queretaro/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 20.1,
+          "lon": -99.5
+        },
+        {
+          "id": "020cd167",
+          "tipo": "cierre_parcial",
+          "ruta": "6",
+          "descripcion": "**Buenos días, Chiapas** · miércoles 11 de noviembre de 2026\n\n🌤️ Tuxtla: Casi despejado · 23 °C · humedad 88 % · viento 6 km/h\nMáxima 31 °C · mínima 22 °C en las próximas 24 h.\n🌂 Sin lluvia importante en el día.\n😷 Aire: No disponible (índice 60).\n🌎 6 sismos en 24 h cerca de Chiapas; el mayor, M 5.4 176 km al sureste de Cd Hidalgo.\n\n**Lo último en Alerta Chiapas**\n• [Se incendia la tapicería El Maestro en el bulevar 28 de Agosto de Tuxtla](https://alertachiapas.com/2026/11/11/incendio-tapiceria-e",
+          "recomendacion": "",
+          "fecha": "11 noviembre 2026 · 07:00 CST",
+          "fecha_iso": "2026-11-11T07:00:00-06:00",
+          "fuente": "Telegram @AlertaChiapas",
+          "url": "https://t.me/AlertaChiapas/3008",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 21.0,
+          "lon": -104.0
         }
       ]
     }
   ],
-  "para_mapa": []
+  "para_mapa": [
+    {
+      "id": "b82d8895",
+      "tipo": "cierre_parcial",
+      "ruta": "Provoca caos vial choque de camionetas en la México-Querétaro…",
+      "descripcion": "Provoca caos vial choque de camionetas en la México-Querétaro. Un accidente en la autopista México-Querétaro, a la altura de Teoloyucan, ocasionó reducción de carriles y complicaciones vehiculares",
+      "fecha": "11 noviembre 2026 · 11:44 CST",
+      "fuente": "Quadratin EdoMex",
+      "url": "https://edomex.quadratin.com.mx/provoca-caos-vial-choque-de-camionetas-en-la-mexico-queretaro/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 20.1,
+      "lon": -99.5
+    },
+    {
+      "id": "020cd167",
+      "tipo": "cierre_parcial",
+      "ruta": "6",
+      "descripcion": "**Buenos días, Chiapas** · miércoles 11 de noviembre de 2026\n\n🌤️ Tuxtla: Casi despejado · 23 °C · humedad 88 % · viento 6 km/h\nMáxima 31 °C · mínima 22 °C en las próximas 24 h.\n🌂 Sin lluvia importante en el día.\n😷 Aire: No disponible (índice 60).\n🌎 6 sismos en 24 h cerca de Chiapas; el mayor, M 5.4 176 km al sureste de Cd Hidalgo.\n\n**Lo último en Alerta Chiapas**\n• [Se incendia la tapicería El Maestro en el bulevar 28 de Agosto de Tuxtla](https://alertachiapas.com/2026/11/11/incendio-tapiceria-e",
+      "fecha": "11 noviembre 2026 · 07:00 CST",
+      "fuente": "Telegram @AlertaChiapas",
+      "url": "https://t.me/AlertaChiapas/3008",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 21.0,
+      "lon": -104.0
+    }
+  ]
 }
