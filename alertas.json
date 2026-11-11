@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-11-10T17:50:26.389522-06:00",
-  "ultima_actualizacion_legible": "10 de noviembre de 2026 · 17:50 CST",
-  "total": 8,
+  "ultima_actualizacion": "2026-11-10T21:47:06.069515-06:00",
+  "ultima_actualizacion_legible": "10 de noviembre de 2026 · 21:47 CST",
+  "total": 5,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
@@ -11,31 +11,6 @@
   ],
   "grupos": [
     {
-      "tipo": "cierre_total",
-      "color": "rojo",
-      "icono": "🔴",
-      "label": "CIERRE TOTAL",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "0bcb8f78",
-          "tipo": "cierre_total",
-          "ruta": "Vuelca tráiler con cerveza y afecta circulación en la Pachuca–Sahagún…",
-          "descripcion": "Vuelca tráiler con cerveza y afecta circulación en la Pachuca–Sahagún. ZEMPOALA, Hgo., 10 de noviembre de 2026.- La volcadura de un tráiler cargado de cerveza provocó afectaciones viales en ambos sentidos de la carretera Pachuca–Ciudad Sahagún, a la altura del hotel Acueducto, en el municipio de Zempoala. El accidente ocurrió durante la mañana de este martes, cuando la unidad de carga terminó volcada sobre el […] The post Vuelca tráiler con cerveza y afecta circulación en la Pachuca–Sahagún appe",
-          "recomendacion": "",
-          "fecha": "10 noviembre 2026 · 15:16 CST",
-          "fecha_iso": "2026-11-10T15:16:00-06:00",
-          "fuente": "Quadratin Hidalgo",
-          "url": "https://hidalgo.quadratin.com.mx/sucesos/vuelca-trailer-con-cerveza-y-afecta-circulacion-en-la-pachuca-sahagun/",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL",
-          "lat": 20.11,
-          "lon": -98.73
-        }
-      ]
-    },
-    {
       "tipo": "bloqueo",
       "color": "rojo",
       "icono": "⛔",
@@ -43,18 +18,34 @@
       "col2": false,
       "alertas": [
         {
-          "id": "a6655054",
+          "id": "8393f62c",
           "tipo": "bloqueo",
-          "ruta": "Conductores de plataforma bloquean avenidas en León e Irapuato por…",
-          "descripcion": "Conductores de plataforma bloquean avenidas en León e Irapuato por presunta detención de vehículo. Conductores de plataformas bloquearon cuatro puntos en León tras la presunta detención de un vehículo por la Dirección General de Transporte del Estado, manifestación a la que se sumaron choferes en Irapuato cerrando varias vialidades en apoyo.",
+          "ruta": "Tráfico, bloqueos y accidentes en carreteras hoy martes 10 de…",
+          "descripcion": "Tráfico, bloqueos y accidentes en carreteras hoy martes 10 de noviembre - TV Azteca. Tráfico, bloqueos y accidentes en carreteras hoy martes 10 de noviembre TV Azteca",
           "recomendacion": "",
-          "fecha": "10 noviembre 2026 · 16:57 CST",
-          "fecha_iso": "2026-11-10T16:57:00-06:00",
-          "fuente": "AM Guanajuato",
-          "url": "https://www.am.com.mx/leon/2026/11/10/conductores-de-plataforma-bloquean-avenidas-en-leon-e-irapuato-por-presunta-detencion-de-vehiculo-1864704.html",
+          "fecha": "10 noviembre 2026 · 21:19 CST",
+          "fecha_iso": "2026-11-10T21:19:00-06:00",
+          "fuente": "TV Azteca",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQU5vLVFIUWZaRUg5ZUowdGlWTUJLX1o5eGNGN2o0dEpLYjNlQUpmVGc5NFFZRUVXVHRndXAxTjVTRGFBdFV4UTF6NThuX0xITlBkeVVtTlFMNnB2N1REY1A2Z0dleldMczlUTXpsdTJET2tKOWEtdXhVaUxNQU9sZFd3al9uMER6VVBLbVluM2oxSEY4RkZlc05xcldlRWlsTmZEbkhCWGNHWXB3bVJ6VXF1eDl5dkRPZzhvR1Q1XzM1Y2kxVmc?oc=5",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO"
+        },
+        {
+          "id": "4d15f7cc",
+          "tipo": "bloqueo",
+          "ruta": "Toman por segunda vez caseta de Tepotzotlán para exigir agua…",
+          "descripcion": "Toman por segunda vez caseta de Tepotzotlán para exigir agua. Habitantes de San Mateo Ixtacalco protestan en la autopista México-Querétaro por falta de agua y exigen respuesta a la alcaldesa",
+          "recomendacion": "",
+          "fecha": "10 noviembre 2026 · 20:26 CST",
+          "fecha_iso": "2026-11-10T20:26:00-06:00",
+          "fuente": "Quadratin EdoMex",
+          "url": "https://edomex.quadratin.com.mx/toman-por-segunda-vez-caseta-de-tepotzotlan-para-exigir-agua/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 20.1,
+          "lon": -99.5
         },
         {
           "id": "29c49194",
@@ -98,69 +89,36 @@
           "lon": -93.12
         },
         {
-          "id": "030e833f",
+          "id": "98ad4299",
           "tipo": "cierre_parcial",
-          "ruta": "Solapa Gely Zuppa la devastación de San Mateo Xoloc en…",
-          "descripcion": "Solapa Gely Zuppa la devastación de San Mateo Xoloc en Tepotzotlán. El hallazgo se produjo tras la ejecución de una orden de cateo, derivada de una denuncia ciudadana relacionada con el robo de un tractocamión...",
+          "ruta": "¡MIGRAN ROBOS A CARRETERAS ESTATALES! - NOTIVER…",
+          "descripcion": "¡MIGRAN ROBOS A CARRETERAS ESTATALES! - NOTIVER. ¡MIGRAN ROBOS A CARRETERAS ESTATALES! NOTIVER",
           "recomendacion": "",
-          "fecha": "10 noviembre 2026 · 16:15 CST",
-          "fecha_iso": "2026-11-10T16:15:00-06:00",
-          "fuente": "Quadratin EdoMex",
-          "url": "https://edomex.quadratin.com.mx/solapa-gely-zuppa-la-devastacion-de-san-mateo-xoloc-en-tepotzotlan/",
+          "fecha": "10 noviembre 2026 · 12:00 CST",
+          "fecha_iso": "2026-11-10T12:00:00-06:00",
+          "fuente": "NOTIVER",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAydWU0YnRUb3VYWUdOdWp2Z1lHck05NDkxLUVGckF0SFFmWHVBZTZ3Vk43MjdySkJrejVhS0dGeWVyMURjVzE0OWstTDlDV0VvMTBfdnkyX09oc0J5YlUzWEtYOXJiTVI2LWxEUlBsTlNRV1Z4RVVsM0g1Yw?oc=5",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL"
-        },
-        {
-          "id": "fc1fd52f",
-          "tipo": "cierre_parcial",
-          "ruta": "¿Sales hoy a carretera? Accidentes, cierres y tráfico este martes…",
-          "descripcion": "¿Sales hoy a carretera? Accidentes, cierres y tráfico este martes 10 de noviembre EN VIVO - TV Azteca. ¿Sales hoy a carretera? Accidentes, cierres y tráfico este martes 10 de noviembre EN VIVO TV Azteca",
-          "recomendacion": "",
-          "fecha": "10 noviembre 2026 · 14:16 CST",
-          "fecha_iso": "2026-11-10T14:16:00-06:00",
-          "fuente": "TV Azteca",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQU5vLVFIUWZaRUg5ZUowdGlWTUJLX1o5eGNGN2o0dEpLYjNlQUpmVGc5NFFZRUVXVHRndXAxTjVTRGFBdFV4UTF6NThuX0xITlBkeVVtTlFMNnB2N1REY1A2Z0dleldMczlUTXpsdTJET2tKOWEtdXhVaUxNQU9sZFd3al9uMER6VVBLbVluM2oxSEY4RkZlc05xcldlRWlsTmZEbkhCWGNHWXB3bVJ6VXF1eDl5dkRPZzhvR1Q1XzM1Y2kxVmc?oc=5",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
-        },
-        {
-          "id": "4a9aadb2",
-          "tipo": "cierre_parcial",
-          "ruta": "🚧🚘Accid*nte paraliza la #México–#Querétaro a la altura de #Jilotepec 👇…",
-          "descripcion": "🚧🚘Accid*nte paraliza la #México–#Querétaro a la altura de #Jilotepec 👇\n\nhttps://lajornadaestadodemexico.com/mexico-queretaro-jilotepec-accidente/",
-          "recomendacion": "",
-          "fecha": "10 noviembre 2026 · 08:56 CST",
-          "fecha_iso": "2026-11-10T08:56:00-06:00",
-          "fuente": "Telegram @jornadaedomex",
-          "url": "https://t.me/jornadaedomex/12601",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 20.1,
-          "lon": -99.5
-        },
-        {
-          "id": "d22c93a1",
-          "tipo": "cierre_parcial",
-          "ruta": "🚨💥 Choqu3 provoca avance lento en la #México-#Querétaro rumbo a…",
-          "descripcion": "🚨💥 Choqu3 provoca avance lento en la #México-#Querétaro rumbo a #Tepotzotlán\nhttps://lajornadaestadodemexico.com/choque-mexico-queretaro-rumbo-a-tepotzotlan/",
-          "recomendacion": "",
-          "fecha": "10 noviembre 2026 · 06:58 CST",
-          "fecha_iso": "2026-11-10T06:58:00-06:00",
-          "fuente": "Telegram @jornadaedomex",
-          "url": "https://t.me/jornadaedomex/12598",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 20.1,
-          "lon": -99.5
         }
       ]
     }
   ],
   "para_mapa": [
+    {
+      "id": "4d15f7cc",
+      "tipo": "bloqueo",
+      "ruta": "Toman por segunda vez caseta de Tepotzotlán para exigir agua…",
+      "descripcion": "Toman por segunda vez caseta de Tepotzotlán para exigir agua. Habitantes de San Mateo Ixtacalco protestan en la autopista México-Querétaro por falta de agua y exigen respuesta a la alcaldesa",
+      "fecha": "10 noviembre 2026 · 20:26 CST",
+      "fuente": "Quadratin EdoMex",
+      "url": "https://edomex.quadratin.com.mx/toman-por-segunda-vez-caseta-de-tepotzotlan-para-exigir-agua/",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 20.1,
+      "lon": -99.5
+    },
     {
       "id": "3b087cac",
       "tipo": "cierre_parcial",
@@ -175,19 +133,6 @@
       "lon": -93.12
     },
     {
-      "id": "0bcb8f78",
-      "tipo": "cierre_total",
-      "ruta": "Vuelca tráiler con cerveza y afecta circulación en la Pachuca–Sahagún…",
-      "descripcion": "Vuelca tráiler con cerveza y afecta circulación en la Pachuca–Sahagún. ZEMPOALA, Hgo., 10 de noviembre de 2026.- La volcadura de un tráiler cargado de cerveza provocó afectaciones viales en ambos sentidos de la carretera Pachuca–Ciudad Sahagún, a la altura del hotel Acueducto, en el municipio de Zempoala. El accidente ocurrió durante la mañana de este martes, cuando la unidad de carga terminó volcada sobre el […] The post Vuelca tráiler con cerveza y afecta circulación en la Pachuca–Sahagún appe",
-      "fecha": "10 noviembre 2026 · 15:16 CST",
-      "fuente": "Quadratin Hidalgo",
-      "url": "https://hidalgo.quadratin.com.mx/sucesos/vuelca-trailer-con-cerveza-y-afecta-circulacion-en-la-pachuca-sahagun/",
-      "dot_color": "#e74c3c",
-      "badge_txt": "CIERRE TOTAL",
-      "lat": 20.11,
-      "lon": -98.73
-    },
-    {
       "id": "29c49194",
       "tipo": "bloqueo",
       "ruta": "Rosario Robles denuncia que bajaron a su hija de su…",
@@ -199,32 +144,6 @@
       "badge_txt": "BLOQUEO",
       "lat": 19.35,
       "lon": -98.4
-    },
-    {
-      "id": "4a9aadb2",
-      "tipo": "cierre_parcial",
-      "ruta": "🚧🚘Accid*nte paraliza la #México–#Querétaro a la altura de #Jilotepec 👇…",
-      "descripcion": "🚧🚘Accid*nte paraliza la #México–#Querétaro a la altura de #Jilotepec 👇\n\nhttps://lajornadaestadodemexico.com/mexico-queretaro-jilotepec-accidente/",
-      "fecha": "10 noviembre 2026 · 08:56 CST",
-      "fuente": "Telegram @jornadaedomex",
-      "url": "https://t.me/jornadaedomex/12601",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 20.1,
-      "lon": -99.5
-    },
-    {
-      "id": "d22c93a1",
-      "tipo": "cierre_parcial",
-      "ruta": "🚨💥 Choqu3 provoca avance lento en la #México-#Querétaro rumbo a…",
-      "descripcion": "🚨💥 Choqu3 provoca avance lento en la #México-#Querétaro rumbo a #Tepotzotlán\nhttps://lajornadaestadodemexico.com/choque-mexico-queretaro-rumbo-a-tepotzotlan/",
-      "fecha": "10 noviembre 2026 · 06:58 CST",
-      "fuente": "Telegram @jornadaedomex",
-      "url": "https://t.me/jornadaedomex/12598",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 20.1,
-      "lon": -99.5
     }
   ]
 }
