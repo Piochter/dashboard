@@ -1,10 +1,10 @@
 {
-  "ultima_actualizacion": "2026-11-11T19:10:23.739842-06:00",
-  "ultima_actualizacion_legible": "11 de noviembre de 2026 · 19:10 CST",
+  "ultima_actualizacion": "2026-11-12T02:17:16.120390-06:00",
+  "ultima_actualizacion_legible": "12 de noviembre de 2026 · 02:17 CST",
   "total": 3,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Medios nacionales",
+    "Medios regionales",
     "Quadratin + regionales"
   ],
   "grupos": [
@@ -41,6 +41,20 @@
       "col2": true,
       "alertas": [
         {
+          "id": "41da5034",
+          "tipo": "cierre_parcial",
+          "ruta": "Muere motociclista tras choque contra camioneta en la carretera León–Manuel…",
+          "descripcion": "Muere motociclista tras choque contra camioneta en la carretera León–Manuel Doblado. El fatal percance se registró a la altura de la comunidad de San Roque de Montes, en San Francisco del Rincón; la víctima fue identificada como José Guadalupe, de 35 años.",
+          "recomendacion": "",
+          "fecha": "11 noviembre 2026 · 19:24 CST",
+          "fecha_iso": "2026-11-11T19:24:00-06:00",
+          "fuente": "AM Guanajuato",
+          "url": "https://www.am.com.mx/guanajuato/2026/11/11/muere-motociclista-tras-choque-contra-camioneta-en-la-carretera-leon-manuel-doblado-1865134.html",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        },
+        {
           "id": "62fa7f89",
           "tipo": "cierre_parcial",
           "ruta": "Viaducto Sur",
@@ -55,31 +69,6 @@
           "badge_txt": "CIERRE PARCIAL",
           "lat": 20.59,
           "lon": -100.39
-        }
-      ]
-    },
-    {
-      "tipo": "carga_vehicular",
-      "color": "azul",
-      "icono": "🚗",
-      "label": "CARGA VEHICULAR",
-      "col2": true,
-      "alertas": [
-        {
-          "id": "ef3c0403",
-          "tipo": "carga_vehicular",
-          "ruta": "Vuelca pipa de gas LP en la México-Pachuca y colapsa…",
-          "descripcion": "Vuelca pipa de gas LP en la México-Pachuca y colapsa el tráfico con dirección a CDMX. Se encuentra cerrada la autopista México - Pachuca con dirección a Ciudad de México a la altura de San Pedro Xalostoc",
-          "recomendacion": "",
-          "fecha": "11 noviembre 2026 · 14:06 CST",
-          "fecha_iso": "2026-11-11T14:06:00-06:00",
-          "fuente": "24 Horas",
-          "url": "https://24-horas.mx/cdmx/vuelca-pipa-de-gas-lp-en-la-mexico-pachuca-paraliza-el-trafico-con-direccion-a-cdmx/",
-          "dot_color": "#2980b9",
-          "badge": "badge-carga",
-          "badge_txt": "CARGA VEHICULAR",
-          "lat": 19.43,
-          "lon": -99.13
         }
       ]
     }
@@ -110,19 +99,6 @@
       "badge_txt": "ROBO",
       "lat": 20.11,
       "lon": -98.73
-    },
-    {
-      "id": "ef3c0403",
-      "tipo": "carga_vehicular",
-      "ruta": "Vuelca pipa de gas LP en la México-Pachuca y colapsa…",
-      "descripcion": "Vuelca pipa de gas LP en la México-Pachuca y colapsa el tráfico con dirección a CDMX. Se encuentra cerrada la autopista México - Pachuca con dirección a Ciudad de México a la altura de San Pedro Xalostoc",
-      "fecha": "11 noviembre 2026 · 14:06 CST",
-      "fuente": "24 Horas",
-      "url": "https://24-horas.mx/cdmx/vuelca-pipa-de-gas-lp-en-la-mexico-pachuca-paraliza-el-trafico-con-direccion-a-cdmx/",
-      "dot_color": "#2980b9",
-      "badge_txt": "CARGA VEHICULAR",
-      "lat": 19.43,
-      "lon": -99.13
     }
   ]
 }
