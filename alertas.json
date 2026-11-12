@@ -1,13 +1,38 @@
 {
-  "ultima_actualizacion": "2026-11-11T12:52:52.398189-06:00",
-  "ultima_actualizacion_legible": "11 de noviembre de 2026 · 12:52 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-11-11T19:10:23.739842-06:00",
+  "ultima_actualizacion_legible": "11 de noviembre de 2026 · 19:10 CST",
+  "total": 3,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Quadratin + regionales",
-    "Telegram"
+    "Medios nacionales",
+    "Quadratin + regionales"
   ],
   "grupos": [
+    {
+      "tipo": "robo",
+      "color": "rojo",
+      "icono": "🚨",
+      "label": "ROBOS EN CARRETERA",
+      "col2": true,
+      "alertas": [
+        {
+          "id": "803de5ad",
+          "tipo": "robo",
+          "ruta": "Detienen a 2 personas por presunto robo a transporte de…",
+          "descripcion": "Detienen a 2 personas por presunto robo a transporte de carga en Tizayuca. TIZAYUCA, Hidalgo., 11 de noviembre del 2026.— En la comunidad de Huitzila, municipio de Tizayuca, agentes de la Secretaría de Seguridad Pública de Hidalgo (SSPH) aseguraron a un hombre y una mujer señalados por su presunta participación en el robo a transporte de carga en carreteras de Hidalgo y el Estado de México. La captura […] The post Detienen a 2 personas por presunto robo a transporte de carga en Tizayuca appeared",
+          "recomendacion": "",
+          "fecha": "11 noviembre 2026 · 18:35 CST",
+          "fecha_iso": "2026-11-11T18:35:00-06:00",
+          "fuente": "Quadratin Hidalgo",
+          "url": "https://hidalgo.quadratin.com.mx/entretenimiento/seguridad/detienen-a-2-personas-por-presunto-robo-a-transporte-de-carga-en-tizayuca/",
+          "dot_color": "#c0392b",
+          "badge": "badge-robo",
+          "badge_txt": "ROBO",
+          "lat": 20.11,
+          "lon": -98.73
+        }
+      ]
+    },
     {
       "tipo": "cierre_parcial",
       "color": "amarillo",
@@ -16,66 +41,88 @@
       "col2": true,
       "alertas": [
         {
-          "id": "b82d8895",
+          "id": "62fa7f89",
           "tipo": "cierre_parcial",
-          "ruta": "Provoca caos vial choque de camionetas en la México-Querétaro…",
-          "descripcion": "Provoca caos vial choque de camionetas en la México-Querétaro. Un accidente en la autopista México-Querétaro, a la altura de Teoloyucan, ocasionó reducción de carriles y complicaciones vehiculares",
+          "ruta": "Viaducto Sur",
+          "descripcion": "Choque por alcance en Viaducto Sur. No se reportaron personas lesionadas de gravedad. The post Choque por alcance en Viaducto Sur appeared first on Quadratin Querétaro.",
           "recomendacion": "",
-          "fecha": "11 noviembre 2026 · 11:44 CST",
-          "fecha_iso": "2026-11-11T11:44:00-06:00",
-          "fuente": "Quadratin EdoMex",
-          "url": "https://edomex.quadratin.com.mx/provoca-caos-vial-choque-de-camionetas-en-la-mexico-queretaro/",
+          "fecha": "11 noviembre 2026 · 19:00 CST",
+          "fecha_iso": "2026-11-11T19:00:00-06:00",
+          "fuente": "Quadratin Queretaro",
+          "url": "https://queretaro.quadratin.com.mx/choque-por-alcance-en-viaducto-sur/",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL",
-          "lat": 20.1,
-          "lon": -99.5
-        },
+          "lat": 20.59,
+          "lon": -100.39
+        }
+      ]
+    },
+    {
+      "tipo": "carga_vehicular",
+      "color": "azul",
+      "icono": "🚗",
+      "label": "CARGA VEHICULAR",
+      "col2": true,
+      "alertas": [
         {
-          "id": "020cd167",
-          "tipo": "cierre_parcial",
-          "ruta": "6",
-          "descripcion": "**Buenos días, Chiapas** · miércoles 11 de noviembre de 2026\n\n🌤️ Tuxtla: Casi despejado · 23 °C · humedad 88 % · viento 6 km/h\nMáxima 31 °C · mínima 22 °C en las próximas 24 h.\n🌂 Sin lluvia importante en el día.\n😷 Aire: No disponible (índice 60).\n🌎 6 sismos en 24 h cerca de Chiapas; el mayor, M 5.4 176 km al sureste de Cd Hidalgo.\n\n**Lo último en Alerta Chiapas**\n• [Se incendia la tapicería El Maestro en el bulevar 28 de Agosto de Tuxtla](https://alertachiapas.com/2026/11/11/incendio-tapiceria-e",
+          "id": "ef3c0403",
+          "tipo": "carga_vehicular",
+          "ruta": "Vuelca pipa de gas LP en la México-Pachuca y colapsa…",
+          "descripcion": "Vuelca pipa de gas LP en la México-Pachuca y colapsa el tráfico con dirección a CDMX. Se encuentra cerrada la autopista México - Pachuca con dirección a Ciudad de México a la altura de San Pedro Xalostoc",
           "recomendacion": "",
-          "fecha": "11 noviembre 2026 · 07:00 CST",
-          "fecha_iso": "2026-11-11T07:00:00-06:00",
-          "fuente": "Telegram @AlertaChiapas",
-          "url": "https://t.me/AlertaChiapas/3008",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 21.0,
-          "lon": -104.0
+          "fecha": "11 noviembre 2026 · 14:06 CST",
+          "fecha_iso": "2026-11-11T14:06:00-06:00",
+          "fuente": "24 Horas",
+          "url": "https://24-horas.mx/cdmx/vuelca-pipa-de-gas-lp-en-la-mexico-pachuca-paraliza-el-trafico-con-direccion-a-cdmx/",
+          "dot_color": "#2980b9",
+          "badge": "badge-carga",
+          "badge_txt": "CARGA VEHICULAR",
+          "lat": 19.43,
+          "lon": -99.13
         }
       ]
     }
   ],
   "para_mapa": [
     {
-      "id": "b82d8895",
+      "id": "62fa7f89",
       "tipo": "cierre_parcial",
-      "ruta": "Provoca caos vial choque de camionetas en la México-Querétaro…",
-      "descripcion": "Provoca caos vial choque de camionetas en la México-Querétaro. Un accidente en la autopista México-Querétaro, a la altura de Teoloyucan, ocasionó reducción de carriles y complicaciones vehiculares",
-      "fecha": "11 noviembre 2026 · 11:44 CST",
-      "fuente": "Quadratin EdoMex",
-      "url": "https://edomex.quadratin.com.mx/provoca-caos-vial-choque-de-camionetas-en-la-mexico-queretaro/",
+      "ruta": "Viaducto Sur",
+      "descripcion": "Choque por alcance en Viaducto Sur. No se reportaron personas lesionadas de gravedad. The post Choque por alcance en Viaducto Sur appeared first on Quadratin Querétaro.",
+      "fecha": "11 noviembre 2026 · 19:00 CST",
+      "fuente": "Quadratin Queretaro",
+      "url": "https://queretaro.quadratin.com.mx/choque-por-alcance-en-viaducto-sur/",
       "dot_color": "#e67e22",
       "badge_txt": "CIERRE PARCIAL",
-      "lat": 20.1,
-      "lon": -99.5
+      "lat": 20.59,
+      "lon": -100.39
     },
     {
-      "id": "020cd167",
-      "tipo": "cierre_parcial",
-      "ruta": "6",
-      "descripcion": "**Buenos días, Chiapas** · miércoles 11 de noviembre de 2026\n\n🌤️ Tuxtla: Casi despejado · 23 °C · humedad 88 % · viento 6 km/h\nMáxima 31 °C · mínima 22 °C en las próximas 24 h.\n🌂 Sin lluvia importante en el día.\n😷 Aire: No disponible (índice 60).\n🌎 6 sismos en 24 h cerca de Chiapas; el mayor, M 5.4 176 km al sureste de Cd Hidalgo.\n\n**Lo último en Alerta Chiapas**\n• [Se incendia la tapicería El Maestro en el bulevar 28 de Agosto de Tuxtla](https://alertachiapas.com/2026/11/11/incendio-tapiceria-e",
-      "fecha": "11 noviembre 2026 · 07:00 CST",
-      "fuente": "Telegram @AlertaChiapas",
-      "url": "https://t.me/AlertaChiapas/3008",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 21.0,
-      "lon": -104.0
+      "id": "803de5ad",
+      "tipo": "robo",
+      "ruta": "Detienen a 2 personas por presunto robo a transporte de…",
+      "descripcion": "Detienen a 2 personas por presunto robo a transporte de carga en Tizayuca. TIZAYUCA, Hidalgo., 11 de noviembre del 2026.— En la comunidad de Huitzila, municipio de Tizayuca, agentes de la Secretaría de Seguridad Pública de Hidalgo (SSPH) aseguraron a un hombre y una mujer señalados por su presunta participación en el robo a transporte de carga en carreteras de Hidalgo y el Estado de México. La captura […] The post Detienen a 2 personas por presunto robo a transporte de carga en Tizayuca appeared",
+      "fecha": "11 noviembre 2026 · 18:35 CST",
+      "fuente": "Quadratin Hidalgo",
+      "url": "https://hidalgo.quadratin.com.mx/entretenimiento/seguridad/detienen-a-2-personas-por-presunto-robo-a-transporte-de-carga-en-tizayuca/",
+      "dot_color": "#c0392b",
+      "badge_txt": "ROBO",
+      "lat": 20.11,
+      "lon": -98.73
+    },
+    {
+      "id": "ef3c0403",
+      "tipo": "carga_vehicular",
+      "ruta": "Vuelca pipa de gas LP en la México-Pachuca y colapsa…",
+      "descripcion": "Vuelca pipa de gas LP en la México-Pachuca y colapsa el tráfico con dirección a CDMX. Se encuentra cerrada la autopista México - Pachuca con dirección a Ciudad de México a la altura de San Pedro Xalostoc",
+      "fecha": "11 noviembre 2026 · 14:06 CST",
+      "fuente": "24 Horas",
+      "url": "https://24-horas.mx/cdmx/vuelca-pipa-de-gas-lp-en-la-mexico-pachuca-paraliza-el-trafico-con-direccion-a-cdmx/",
+      "dot_color": "#2980b9",
+      "badge_txt": "CARGA VEHICULAR",
+      "lat": 19.43,
+      "lon": -99.13
     }
   ]
 }
