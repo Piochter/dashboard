@@ -1,11 +1,10 @@
 {
-  "ultima_actualizacion": "2026-11-13T11:57:10.036081-06:00",
-  "ultima_actualizacion_legible": "13 de noviembre de 2026 · 11:57 CST",
-  "total": 4,
+  "ultima_actualizacion": "2026-11-13T17:06:18.653616-06:00",
+  "ultima_actualizacion_legible": "13 de noviembre de 2026 · 17:06 CST",
+  "total": 5,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
-    "Medios nacionales",
     "Quadratin + regionales"
   ],
   "grupos": [
@@ -17,18 +16,20 @@
       "col2": false,
       "alertas": [
         {
-          "id": "c491e661",
+          "id": "dd9e91a4",
           "tipo": "cierre_total",
-          "ruta": "Saquean trailer cargado de cerveza tras volcadura en Axapusco…",
-          "descripcion": "Saquean trailer cargado de cerveza tras volcadura en Axapusco. De acuerdo con los reportes, el accidente ocurrió a la altura del kilómetro 36 cerca del paraje Santo Domingo.",
+          "ruta": "¿Qué Pasó en la Carretera México-Cuernavaca Hoy? Caos Vial por…",
+          "descripcion": "¿Qué Pasó en la Carretera México-Cuernavaca Hoy? Caos Vial por Volcadura de Tráiler - N+. ¿Qué Pasó en la Carretera México-Cuernavaca Hoy? Caos Vial por Volcadura de Tráiler N+",
           "recomendacion": "",
-          "fecha": "13 noviembre 2026 · 11:00 CST",
-          "fecha_iso": "2026-11-13T11:00:00-06:00",
-          "fuente": "Quadratin EdoMex",
-          "url": "https://edomex.quadratin.com.mx/saquean-trailer-cargado-de-cerveza-tras-volcadura-en-axapusco/",
+          "fecha": "13 noviembre 2026 · 13:38 CST",
+          "fecha_iso": "2026-11-13T13:38:00-06:00",
+          "fuente": "N+",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQVjQ1WU5BNk50clRMZjV5c3dxTUZvMnZzcnVYUlNnMUhoY3RXU2xxSldhQzRMV2dzY2s0ZXlZYXlVOThQejVDRXg1dkZTeVhsdnVVcXpFU3BwYlIyaTdWSjVIeHRxUThHOUN2VGMyRUI1NEM5SjRUYlQ3UkJlNkNkaDVXVl9aMm9zellvdmhORzFrbWo3cm1nWDE4WnBGYl9uU3pTSndGUUpjLTNfRmFJQ3QwRGt4Y3d5UUI2NVlJa1NaX1NXQUlRaU5sRE9wVHdPWlFiX2tjblhFT0tsQTZYNTVlbVBNdw?oc=5",
           "dot_color": "#e74c3c",
           "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL"
+          "badge_txt": "CIERRE TOTAL",
+          "lat": 18.92,
+          "lon": -99.23
         }
       ]
     },
@@ -63,51 +64,93 @@
       "col2": true,
       "alertas": [
         {
-          "id": "55d73fa9",
+          "id": "f19d11c4",
           "tipo": "cierre_parcial",
-          "ruta": "Reporte vial viernes 13 de noviembre: Carreteras cerradas y tráfico…",
-          "descripcion": "Reporte vial viernes 13 de noviembre: Carreteras cerradas y tráfico en México - TV Azteca. Reporte vial viernes 13 de noviembre: Carreteras cerradas y tráfico en México TV Azteca",
+          "ruta": "Accidentes provocan reducción de carriles en la México-Querétaro; reportan carga…",
+          "descripcion": "Accidentes provocan reducción de carriles en la México-Querétaro; reportan carga en Tepotzotlán - Milenio. Accidentes provocan reducción de carriles en la México-Querétaro; reportan carga en Tepotzotlán Milenio",
           "recomendacion": "",
-          "fecha": "13 noviembre 2026 · 11:32 CST",
-          "fecha_iso": "2026-11-13T11:32:00-06:00",
-          "fuente": "TV Azteca",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOREpmM05kX2d2MGJfUkRuYk5CNU9CemVsOXh5bTJQX0VnM3BRaTdXVFJrTzRfV25HeXZBMmR4X05keUJ3dWlQaXRWZlc1VlBtU3VGMEhsX0RVU0k0XzNnVWUwMVdkNDJWRE5FNUpvbUs1UmJKVnF4VGxGeGFiRGN0WEIxVHVnVkU5UXBUS1djV0hQbEpDNmFNTEF3dl9IWGtOeV8xVVRtZGV0OW5qRENTVk90bjZ1SVN5S0taaVR1OHY?oc=5",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
-        },
-        {
-          "id": "9f7f921d",
-          "tipo": "cierre_parcial",
-          "ruta": "Choque múltiple en la México-Querétaro deja 50 heridos; 12 de…",
-          "descripcion": "Choque múltiple en la México-Querétaro deja 50 heridos; 12 de ellos, niños. Coyotepec, Méx., Al menos 50 personas resultaron lesionadas, tres de ellas graves, en un choque múltiple la mañana de ayer en la autopista México-Querétaro, en el que estuvieron involucrados un tractocamión y tres autobuses que trasladaban a 120 menores y profesores de la escuela particular Centro Educativo School House Safari, que se dirigían al Bosque de Chapultepec. Autoridades detallaron que 30 heridos fueron traslad",
-          "recomendacion": "",
-          "fecha": "13 noviembre 2026 · 02:35 CST",
-          "fecha_iso": "2026-11-13T02:35:00-06:00",
-          "fuente": "La Jornada Estados",
-          "url": "https://www.jornada.com.mx/2026/11/13/estados/032n1est?partner=rss",
+          "fecha": "13 noviembre 2026 · 15:55 CST",
+          "fecha_iso": "2026-11-13T15:55:00-06:00",
+          "fuente": "Milenio",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZlpBS0NYMzRaWllXUnE0eHJzWjZNR0FwSldCUUxqSjJabjcycVc5Z0l2NC1pdk44RndUNkNCZUpaMXFGcDRyT2pRLTZETGREdnJvc1d4S0xxcXpRTGJNMEo1cWVTcnlBdUU0d3dKZVpiTWRmSWRadGtzQmNNZTgxb2hzcDlERkJkSi1paE8yVktzbllhaHN0RGZZSlNJTVZWaEpR0gGjAUFVX3lxTE9zQllSWDE5RWlJdm1VanhOU25iWHZBeHBXUVFnYXVrUlY5ZkpfSHBQZmNXd2lsMktkV2xmb1J2UTZmbmprMUF2OENqZ1lFQlRUaXRpbEhCYmxUNjFWWVNzVXpkMm9VRmdmaS12ck14OGRXRnVrM2FTRV9UNlF6dWpVb0cyOE9lbHd0RVMxcEtXY3c4eTF1UTBrU25WaDZ5UXFvMGc?oc=5",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL",
           "lat": 20.1,
           "lon": -99.5
+        },
+        {
+          "id": "e6acce5c",
+          "tipo": "cierre_parcial",
+          "ruta": "Halla SSEM cargamento de papas valuadas en 200 mil pesos…",
+          "descripcion": "Halla SSEM cargamento de papas valuadas en 200 mil pesos en Huehuetoca. El cargamento fue hallado al interior de dos remolques cuando los oficiales llevaban a cabo un operativo para la prevención del robo al transporte",
+          "recomendacion": "",
+          "fecha": "13 noviembre 2026 · 15:45 CST",
+          "fecha_iso": "2026-11-13T15:45:00-06:00",
+          "fuente": "Quadratin EdoMex",
+          "url": "https://edomex.quadratin.com.mx/halla-ssem-cargamento-de-papas-valuadas-en-200-mil-pesos-en-huehuetoca/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 19.1,
+          "lon": -104.3
+        },
+        {
+          "id": "55d73fa9",
+          "tipo": "cierre_parcial",
+          "ruta": "Reporte vial viernes 13 de noviembre: Carreteras cerradas y tráfico…",
+          "descripcion": "Reporte vial viernes 13 de noviembre: Carreteras cerradas y tráfico en México - TV Azteca. Reporte vial viernes 13 de noviembre: Carreteras cerradas y tráfico en México TV Azteca",
+          "recomendacion": "",
+          "fecha": "13 noviembre 2026 · 14:45 CST",
+          "fecha_iso": "2026-11-13T14:45:00-06:00",
+          "fuente": "TV Azteca",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOREpmM05kX2d2MGJfUkRuYk5CNU9CemVsOXh5bTJQX0VnM3BRaTdXVFJrTzRfV25HeXZBMmR4X05keUJ3dWlQaXRWZlc1VlBtU3VGMEhsX0RVU0k0XzNnVWUwMVdkNDJWRE5FNUpvbUs1UmJKVnF4VGxGeGFiRGN0WEIxVHVnVkU5UXBUS1djV0hQbEpDNmFNTEF3dl9IWGtOeV8xVVRtZGV0OW5qRENTVk90bjZ1SVN5S0taaVR1OHY?oc=5",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
         }
       ]
     }
   ],
   "para_mapa": [
     {
-      "id": "9f7f921d",
+      "id": "f19d11c4",
       "tipo": "cierre_parcial",
-      "ruta": "Choque múltiple en la México-Querétaro deja 50 heridos; 12 de…",
-      "descripcion": "Choque múltiple en la México-Querétaro deja 50 heridos; 12 de ellos, niños. Coyotepec, Méx., Al menos 50 personas resultaron lesionadas, tres de ellas graves, en un choque múltiple la mañana de ayer en la autopista México-Querétaro, en el que estuvieron involucrados un tractocamión y tres autobuses que trasladaban a 120 menores y profesores de la escuela particular Centro Educativo School House Safari, que se dirigían al Bosque de Chapultepec. Autoridades detallaron que 30 heridos fueron traslad",
-      "fecha": "13 noviembre 2026 · 02:35 CST",
-      "fuente": "La Jornada Estados",
-      "url": "https://www.jornada.com.mx/2026/11/13/estados/032n1est?partner=rss",
+      "ruta": "Accidentes provocan reducción de carriles en la México-Querétaro; reportan carga…",
+      "descripcion": "Accidentes provocan reducción de carriles en la México-Querétaro; reportan carga en Tepotzotlán - Milenio. Accidentes provocan reducción de carriles en la México-Querétaro; reportan carga en Tepotzotlán Milenio",
+      "fecha": "13 noviembre 2026 · 15:55 CST",
+      "fuente": "Milenio",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZlpBS0NYMzRaWllXUnE0eHJzWjZNR0FwSldCUUxqSjJabjcycVc5Z0l2NC1pdk44RndUNkNCZUpaMXFGcDRyT2pRLTZETGREdnJvc1d4S0xxcXpRTGJNMEo1cWVTcnlBdUU0d3dKZVpiTWRmSWRadGtzQmNNZTgxb2hzcDlERkJkSi1paE8yVktzbllhaHN0RGZZSlNJTVZWaEpR0gGjAUFVX3lxTE9zQllSWDE5RWlJdm1VanhOU25iWHZBeHBXUVFnYXVrUlY5ZkpfSHBQZmNXd2lsMktkV2xmb1J2UTZmbmprMUF2OENqZ1lFQlRUaXRpbEhCYmxUNjFWWVNzVXpkMm9VRmdmaS12ck14OGRXRnVrM2FTRV9UNlF6dWpVb0cyOE9lbHd0RVMxcEtXY3c4eTF1UTBrU25WaDZ5UXFvMGc?oc=5",
       "dot_color": "#e67e22",
       "badge_txt": "CIERRE PARCIAL",
       "lat": 20.1,
       "lon": -99.5
+    },
+    {
+      "id": "e6acce5c",
+      "tipo": "cierre_parcial",
+      "ruta": "Halla SSEM cargamento de papas valuadas en 200 mil pesos…",
+      "descripcion": "Halla SSEM cargamento de papas valuadas en 200 mil pesos en Huehuetoca. El cargamento fue hallado al interior de dos remolques cuando los oficiales llevaban a cabo un operativo para la prevención del robo al transporte",
+      "fecha": "13 noviembre 2026 · 15:45 CST",
+      "fuente": "Quadratin EdoMex",
+      "url": "https://edomex.quadratin.com.mx/halla-ssem-cargamento-de-papas-valuadas-en-200-mil-pesos-en-huehuetoca/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 19.1,
+      "lon": -104.3
+    },
+    {
+      "id": "dd9e91a4",
+      "tipo": "cierre_total",
+      "ruta": "¿Qué Pasó en la Carretera México-Cuernavaca Hoy? Caos Vial por…",
+      "descripcion": "¿Qué Pasó en la Carretera México-Cuernavaca Hoy? Caos Vial por Volcadura de Tráiler - N+. ¿Qué Pasó en la Carretera México-Cuernavaca Hoy? Caos Vial por Volcadura de Tráiler N+",
+      "fecha": "13 noviembre 2026 · 13:38 CST",
+      "fuente": "N+",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQVjQ1WU5BNk50clRMZjV5c3dxTUZvMnZzcnVYUlNnMUhoY3RXU2xxSldhQzRMV2dzY2s0ZXlZYXlVOThQejVDRXg1dkZTeVhsdnVVcXpFU3BwYlIyaTdWSjVIeHRxUThHOUN2VGMyRUI1NEM5SjRUYlQ3UkJlNkNkaDVXVl9aMm9zellvdmhORzFrbWo3cm1nWDE4WnBGYl9uU3pTSndGUUpjLTNfRmFJQ3QwRGt4Y3d5UUI2NVlJa1NaX1NXQUlRaU5sRE9wVHdPWlFiX2tjblhFT0tsQTZYNTVlbVBNdw?oc=5",
+      "dot_color": "#e74c3c",
+      "badge_txt": "CIERRE TOTAL",
+      "lat": 18.92,
+      "lon": -99.23
     }
   ]
 }
