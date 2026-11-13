@@ -1,10 +1,11 @@
 {
-  "ultima_actualizacion": "2026-11-12T16:32:02.056342-06:00",
-  "ultima_actualizacion_legible": "12 de noviembre de 2026 · 16:32 CST",
-  "total": 18,
+  "ultima_actualizacion": "2026-11-12T20:54:21.815775-06:00",
+  "ultima_actualizacion_legible": "12 de noviembre de 2026 · 20:54 CST",
+  "total": 16,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
+    "Medios regionales",
     "Quadratin + regionales",
     "Telegram"
   ],
@@ -16,22 +17,6 @@
       "label": "CIERRE TOTAL",
       "col2": false,
       "alertas": [
-        {
-          "id": "506d4ef8",
-          "tipo": "cierre_total",
-          "ruta": "Al menos 4 mujeres lesionadas tras volcadura de autobús en…",
-          "descripcion": "Al menos 4 mujeres lesionadas tras volcadura de autobús en Petatlán. El hecho, en la carretera Acapulco-Zihuatanejo",
-          "recomendacion": "",
-          "fecha": "12 noviembre 2026 · 15:17 CST",
-          "fecha_iso": "2026-11-12T15:17:00-06:00",
-          "fuente": "Quadratin Guerrero",
-          "url": "https://guerrero.quadratin.com.mx/al-menos-4-mujeres-lesionadas-tras-volcadura-de-autobus-en-petatlan/",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL",
-          "lat": 16.86,
-          "lon": -99.88
-        },
         {
           "id": "047650f9",
           "tipo": "cierre_total",
@@ -49,27 +34,13 @@
           "lon": -99.5
         },
         {
-          "id": "369e3857",
-          "tipo": "cierre_total",
-          "ruta": "carretera Aculco-Acambay - El Sol de México",
-          "descripcion": "Volcadura de tráiler genera afectaciones en la carretera Aculco-Acambay - El Sol de México. Volcadura de tráiler genera afectaciones en la carretera Aculco-Acambay El Sol de México",
-          "recomendacion": "",
-          "fecha": "12 noviembre 2026 · 12:10 CST",
-          "fecha_iso": "2026-11-12T12:10:00-06:00",
-          "fuente": "El Sol de México",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQc3I4TmhBYVNxR0VFMWlMbWhwNGRRQ1pIeUFqX2VxVmdBanFleDFuMnFkbGQxVjc1QTNlUHF4NXFKaGVHbUs3Sm5mbERSMFNfcjdOQUJ2c01fNWNPaTM1UlNOdGRoZ29TYXcwY1hsSjJ4MmNxckFXb2ViWXhnOFlYN0h6emluUEZKQmU2ZUp5ZXc4YnloeHpWQTRHN1RNVTJXcTc2WlhCSzZjVDBBRk5hcUlOc1VyVGQycDcw?oc=5",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL"
-        },
-        {
           "id": "8d010b02",
           "tipo": "cierre_total",
           "ruta": "Volcadura de tráiler deja dos lesionados y severo caos vial…",
           "descripcion": "Volcadura de tráiler deja dos lesionados y severo caos vial en la México-Puebla - Portal Liberación. Volcadura de tráiler deja dos lesionados y severo caos vial en la México-Puebla Portal Liberación",
           "recomendacion": "",
-          "fecha": "12 noviembre 2026 · 11:30 CST",
-          "fecha_iso": "2026-11-12T11:30:00-06:00",
+          "fecha": "12 noviembre 2026 · 11:44 CST",
+          "fecha_iso": "2026-11-12T11:44:00-06:00",
           "fuente": "Portal Liberación",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRHV1cVhCdXZvNV9KTUptdUM4c3NGNTFHM0Ytd2RaNmRFd2lWTzF4RTNhZVZwVXRmc0dhMUJqVS1nTlVocDhjZ2RYbk5CSjRJdlNhQUdONU9PQnpFUkplUkdrLWFJV2hYZHh2WmRES0NqLWRkSy1FMXpVQlltVmZTejJmWGthbjdjTV9pTEZ4U29vTkh4VDdkN2JxSGhLaFlHbTZnUi16RGxmUEFOWWh2VUpULXBEdw?oc=5",
           "dot_color": "#e74c3c",
@@ -79,14 +50,14 @@
           "lon": -98.4
         },
         {
-          "id": "c217830b",
+          "id": "3b07386e",
           "tipo": "cierre_total",
           "ruta": "Cierran la México-Puebla HOY 12 de noviembre por volcadura de…",
-          "descripcion": "Cierran la México-Puebla HOY 12 de noviembre por volcadura de tráiler - Milenio. Cierran la México-Puebla HOY 12 de noviembre por volcadura de tráiler Milenio",
+          "descripcion": "Cierran la México-Puebla HOY 12 de noviembre por volcadura de tráiler - MILENIO. Cierran la México-Puebla HOY 12 de noviembre por volcadura de tráiler MILENIO",
           "recomendacion": "",
           "fecha": "12 noviembre 2026 · 10:57 CST",
           "fecha_iso": "2026-11-12T10:57:00-06:00",
-          "fuente": "Milenio",
+          "fuente": "MILENIO",
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTzZOOEZmOENKVzFtdkJLYmUxN2gwUEhjTVB2dzREY0NLclZXWHpVNnF4NndER3pCTmRCNDNsZFBHMEduVG12OFhvdDZNdExlcXI1SzlsY3JuLWN2SHBNUVR3UjlVcmRROEk1aWt4Mm9mMVc5U0lqMzdFYmFuQkk5RVcySF9qVWNRV2Yw0gGLAUFVX3lxTE9Sd2k3NEVLb21GazlqM0xVQXNtMHNRT29BMXdLOVpyR0JmTG5IamhlN2R6LXRQUnc3WXlibnRYNGJaT2JhRVNqRUVoMjJzV1NxdmJfWmZGeFJvTFZ1ZTJCMXlaeUNabTZBelFQV1pFUXhyYV9UcG5oR3pGRlFxVmpNejFnYVdMWnRqN0U?oc=5",
           "dot_color": "#e74c3c",
           "badge": "badge-cierre-total",
@@ -109,22 +80,6 @@
           "badge_txt": "CIERRE TOTAL",
           "lat": 19.35,
           "lon": -98.4
-        },
-        {
-          "id": "2aa2a2a9",
-          "tipo": "cierre_total",
-          "ruta": "📢 Cierre total en la #México-#Querétaro por volcadura de autobús…",
-          "descripcion": "📢 Cierre total en la #México-#Querétaro por volcadura de autobús \n\nhttps://lajornadaestadodemexico.com/cierre-total-en-la-mexico-queretaro-por-volcadura-de-autobus/",
-          "recomendacion": "",
-          "fecha": "12 noviembre 2026 · 08:46 CST",
-          "fecha_iso": "2026-11-12T08:46:00-06:00",
-          "fuente": "Telegram @jornadaedomex",
-          "url": "https://t.me/jornadaedomex/12615",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL",
-          "lat": 20.1,
-          "lon": -99.5
         }
       ]
     },
@@ -136,18 +91,71 @@
       "col2": false,
       "alertas": [
         {
-          "id": "6774b20d",
+          "id": "12b4ccf9",
           "tipo": "bloqueo",
-          "ruta": "¡No te quedes atorado! Carreteras con bloqueos y accidentes hoy…",
-          "descripcion": "¡No te quedes atorado! Carreteras con bloqueos y accidentes hoy 12 de noviembre en México - TV Azteca. ¡No te quedes atorado! Carreteras con bloqueos y accidentes hoy 12 de noviembre en México TV Azteca",
+          "ruta": "Vecinos de El Tepetate se deslindan de protesta contra obras…",
+          "descripcion": "Vecinos de El Tepetate se deslindan de protesta contra obras del Tren México-Querétaro. Aseguraron que no respaldan la protesta The post Vecinos de El Tepetate se deslindan de protesta contra obras del Tren México-Querétaro appeared first on Quadratin Querétaro.",
           "recomendacion": "",
-          "fecha": "12 noviembre 2026 · 13:58 CST",
-          "fecha_iso": "2026-11-12T13:58:00-06:00",
+          "fecha": "12 noviembre 2026 · 20:29 CST",
+          "fecha_iso": "2026-11-12T20:29:00-06:00",
+          "fuente": "Quadratin Queretaro",
+          "url": "https://queretaro.quadratin.com.mx/vecinos-de-el-tepetate-se-deslindan-de-protesta-contra-obras-del-tren-mexico-queretaro/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 20.1,
+          "lon": -99.5
+        },
+        {
+          "id": "c86fbbf8",
+          "tipo": "bloqueo",
+          "ruta": "Protestan y cierran vialidades, trabajadores del Hospital de la Niñez…",
+          "descripcion": "Protestan y cierran vialidades, trabajadores del Hospital de la Niñez. Trabajadores del Hospital de la Niñez protestan.",
+          "recomendacion": "",
+          "fecha": "12 noviembre 2026 · 17:47 CST",
+          "fecha_iso": "2026-11-12T17:47:00-06:00",
+          "fuente": "Quadratin Puebla",
+          "url": "https://puebla.quadratin.com.mx/sucesos/protestan-y-cierran-vialidades-trabajadores-del-hospital-de-la-ninez/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
+        {
+          "id": "6de01cbf",
+          "tipo": "bloqueo",
+          "ruta": "Carreteras hoy 12 de noviembre en México: tráfico y bloqueos…",
+          "descripcion": "Carreteras hoy 12 de noviembre en México: tráfico y bloqueos en vivo - TV Azteca. Carreteras hoy 12 de noviembre en México: tráfico y bloqueos en vivo TV Azteca",
+          "recomendacion": "",
+          "fecha": "12 noviembre 2026 · 17:45 CST",
+          "fecha_iso": "2026-11-12T17:45:00-06:00",
           "fuente": "TV Azteca",
           "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOc2hUcGpMOXFLSnpXNkdOYnJUS3dXNjZnQk4wQnhnclR2eVZoMkVMT25fQlJkUHFlVEJvZDU5Z3A1TTlBcExqVEVhc29PY2pNR0k5UnN5MXNsQmlZRXhzYWdhUGN4NjBJNU5GMTdXSFRSQ2JERV9rdDctSmNGWF9NRWtxMnZ3Q1ZfNmNfU0ctWER0YkZHeXNOWkxNWXBZSFF4UEZNU3EtcnAyM2xINTFqalE3Nm1BNmpESk56amxJVnJ4OVg1OGhZ?oc=5",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO"
+        }
+      ]
+    },
+    {
+      "tipo": "robo",
+      "color": "rojo",
+      "icono": "🚨",
+      "label": "ROBOS EN CARRETERA",
+      "col2": true,
+      "alertas": [
+        {
+          "id": "fc67ddc0",
+          "tipo": "robo",
+          "ruta": "Robo a transporte de carga asciende a siete mil MDP…",
+          "descripcion": "Robo a transporte de carga asciende a siete mil MDP anuales en México. Especialistas advierten que las empresas se ven obligadas a replantear sus estrategias de seguridad y protección patrimonial ante el aumento de delitos",
+          "recomendacion": "",
+          "fecha": "12 noviembre 2026 · 18:47 CST",
+          "fecha_iso": "2026-11-12T18:47:00-06:00",
+          "fuente": "El Informador Jalisco",
+          "url": "https://www.informador.mx/mexico/robo-a-transporte-de-carga-asciende-a-siete-mil-mdp-anuales-en-mexico-20261112-0179.html",
+          "dot_color": "#c0392b",
+          "badge": "badge-robo",
+          "badge_txt": "ROBO"
         }
       ]
     },
@@ -158,6 +166,22 @@
       "label": "CIERRE PARCIAL / ACCIDENTES",
       "col2": true,
       "alertas": [
+        {
+          "id": "a91ad4cd",
+          "tipo": "cierre_parcial",
+          "ruta": "libramiento Morelos deja cuatro lesionados en León",
+          "descripcion": "Choque múltiple en el libramiento Morelos deja cuatro lesionados en León. Una camioneta derrapó por el pavimento mojado, brincó el camellón central e impactó a un automóvil y a un motociclista; ninguno de los heridos requirió traslado hospitalario.",
+          "recomendacion": "",
+          "fecha": "12 noviembre 2026 · 18:03 CST",
+          "fecha_iso": "2026-11-12T18:03:00-06:00",
+          "fuente": "AM Guanajuato",
+          "url": "https://www.am.com.mx/leon/2026/11/12/choque-multiple-en-el-libramiento-morelos-deja-cuatro-lesionados-en-leon-1865538.html",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 18.67,
+          "lon": -99.1
+        },
         {
           "id": "3cb0ba04",
           "tipo": "cierre_parcial",
@@ -173,22 +197,6 @@
           "badge_txt": "CIERRE PARCIAL",
           "lat": 21.0,
           "lon": -104.0
-        },
-        {
-          "id": "6ef9db82",
-          "tipo": "cierre_parcial",
-          "ruta": "Choque de autobuses deja bloqueada la México-Querétaro…",
-          "descripcion": "Choque de autobuses deja bloqueada la México-Querétaro. Diez alumnos que viajaban en la unidad fueron valorados The post Choque de autobuses deja bloqueada la México-Querétaro appeared first on Quadratin Querétaro.",
-          "recomendacion": "",
-          "fecha": "12 noviembre 2026 · 15:00 CST",
-          "fecha_iso": "2026-11-12T15:00:00-06:00",
-          "fuente": "Quadratin Queretaro",
-          "url": "https://queretaro.quadratin.com.mx/choque-de-autobuses-deja-bloqueada-la-mexico-queretaro/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 20.1,
-          "lon": -99.5
         },
         {
           "id": "4f581e11",
@@ -239,20 +247,20 @@
           "lon": -98.4
         },
         {
-          "id": "b09eab86",
+          "id": "0f4e3c68",
           "tipo": "cierre_parcial",
-          "ruta": "Asaltan y golpean a operador de tráiler; lo abandonan en…",
-          "descripcion": "Asaltan y golpean a operador de tráiler; lo abandonan en Tepeji. Notificar a las autoridades sobre el robo de la unidad. The post Asaltan y golpean a operador de tráiler; lo abandonan en Tepeji appeared first on Quadratin Hidalgo.",
+          "ruta": "Vuelca autobús con niños de preescolar de Atitalaquia tras choque…",
+          "descripcion": "Vuelca autobús con niños de preescolar de Atitalaquia tras choque con tráiler; iban de excursión a CdMx - MILENIO. Vuelca autobús con niños de preescolar de Atitalaquia tras choque con tráiler; iban de excursión a CdMx MILENIO",
           "recomendacion": "",
-          "fecha": "12 noviembre 2026 · 11:58 CST",
-          "fecha_iso": "2026-11-12T11:58:00-06:00",
-          "fuente": "Quadratin Hidalgo",
-          "url": "https://hidalgo.quadratin.com.mx/entretenimiento/seguridad/asaltan-y-golpean-a-operador-de-trailer-lo-abandonan-en-tepeji/",
+          "fecha": "12 noviembre 2026 · 11:28 CST",
+          "fecha_iso": "2026-11-12T11:28:00-06:00",
+          "fuente": "MILENIO",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUWtoTGdEc3VjNjBkajhobzF0TW1HbTNKMHRQSFdCRUxGY0sxelJpRkVodlNaRzdNTWJnZnhGYUZ5b2RCSmFBSnFLc1JIU3BQSThZcHQxT0ladUhYUjB0aTBHWFdka3hBa0tOUkhiMkw3OTgxQms2QS03YWNuWFlTZTdUT1hadll1LWFUMENn0gGOAUFVX3lxTE1UZzhIUUxGYTNjTkxUcUFvQUloTzZLSEo0NGkxU3JHZFJ5emo0SU54T29rTUJJWEtSVGpRU2NWdk8wLUhFdlpJVVBwWlo3SlZoc0c1dWZpVE5Hc1kydVBweWRuQ1JBQ3pnMk12dTFkWmZOR0ZuQk4tckczZGJ3akg4MV95eWJVeVAtbkxEVkE?oc=5",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL",
-          "lat": 20.11,
-          "lon": -98.73
+          "lat": 19.43,
+          "lon": -99.13
         },
         {
           "id": "550b4d75",
@@ -260,8 +268,8 @@
           "ruta": "ACCIDENTES VIALES PARALIZAN LAS AUTOPISTAS MÉXICO-PUEBLA Y MÉXICO-QUERÉTARO - El…",
           "descripcion": "ACCIDENTES VIALES PARALIZAN LAS AUTOPISTAS MÉXICO-PUEBLA Y MÉXICO-QUERÉTARO - El Heraldo de San Luis Potosí.. ACCIDENTES VIALES PARALIZAN LAS AUTOPISTAS MÉXICO-PUEBLA Y MÉXICO-QUERÉTARO El Heraldo de San Luis Potosí.",
           "recomendacion": "",
-          "fecha": "12 noviembre 2026 · 11:17 CST",
-          "fecha_iso": "2026-11-12T11:17:00-06:00",
+          "fecha": "12 noviembre 2026 · 11:18 CST",
+          "fecha_iso": "2026-11-12T11:18:00-06:00",
           "fuente": "El Heraldo de San Luis Potosí.",
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOUR1T1FaU084d2dSbko0b0FGTHlnWkNRZnRtLUhNRHZCTFBydFlaOFpuOGdzTWIzaWk0ZTR0Tmo5SW5mSEtMU2R4OFpRQzNpRXpqS0ZBMWF0YjNadFlJRmRPenF4WS1JaUNMLTBUenphaTFqdDE0NWVmLWdjWTZGaHdRU1ZUZWRNYmYxanBOcml0emI3NGN3NUo4YTkxbGhQZ0tFS1RobTZZNVNQTDlPRkMwMV92QzBCXzZV?oc=5",
           "dot_color": "#e67e22",
@@ -285,43 +293,37 @@
           "badge_txt": "CIERRE PARCIAL",
           "lat": 20.1,
           "lon": -99.5
-        },
-        {
-          "id": "ffd1b80a",
-          "tipo": "cierre_parcial",
-          "ruta": "🚨Ch*que en #IsidroFabela y #Morelos afecta la circulación en #Toluca…",
-          "descripcion": "🚨Ch*que en #IsidroFabela y #Morelos afecta la circulación en #Toluca [#VIDEO] 👇😱\n\nhttps://lajornadaestadodemexico.com/choque-en-isidro-fabela-y-morelos/",
-          "recomendacion": "",
-          "fecha": "12 noviembre 2026 · 06:44 CST",
-          "fecha_iso": "2026-11-12T06:44:00-06:00",
-          "fuente": "Telegram @jornadaedomex",
-          "url": "https://t.me/jornadaedomex/12613",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 18.67,
-          "lon": -99.1
-        },
-        {
-          "id": "2f34bb12",
-          "tipo": "cierre_parcial",
-          "ruta": "¿Qué Pasó en la México-Querétaro Hoy? Reporte de Tráfico, Accidentes…",
-          "descripcion": "¿Qué Pasó en la México-Querétaro Hoy? Reporte de Tráfico, Accidentes y Cierres Este Jueves - N+. ¿Qué Pasó en la México-Querétaro Hoy? Reporte de Tráfico, Accidentes y Cierres Este Jueves N+",
-          "recomendacion": "",
-          "fecha": "12 noviembre 2026 · 06:09 CST",
-          "fecha_iso": "2026-11-12T06:09:00-06:00",
-          "fuente": "N+",
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOOWFoYTFZRTczMHIzTFlkTENpa1ROOExSSnJvVUtDNjAyUnhnOFZQXzFVaWNVRmFXbW43OW04alhrRlFwNXVVZDhrWmVoalRMRGdfY0JOeHN2SHotd0ZtamM2ZUNZVVNPUF9fVHV4VlV0dFhkSkhFaEUtc3pZYkNad2hiSUdmZjhzRXRvNElvdmw5U0E4bF9xY3FjckRzc0d5SDBaeEZqZzRZVnNfMllvNDBZb2Q4b3JualB4Mm1lVFZCR0lTQThGQkFOUVFFdDk5WjVOSHF0TkN1NDl4ZHpzemVWcFFYX0k?oc=5",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 20.1,
-          "lon": -99.5
         }
       ]
     }
   ],
   "para_mapa": [
+    {
+      "id": "12b4ccf9",
+      "tipo": "bloqueo",
+      "ruta": "Vecinos de El Tepetate se deslindan de protesta contra obras…",
+      "descripcion": "Vecinos de El Tepetate se deslindan de protesta contra obras del Tren México-Querétaro. Aseguraron que no respaldan la protesta The post Vecinos de El Tepetate se deslindan de protesta contra obras del Tren México-Querétaro appeared first on Quadratin Querétaro.",
+      "fecha": "12 noviembre 2026 · 20:29 CST",
+      "fuente": "Quadratin Queretaro",
+      "url": "https://queretaro.quadratin.com.mx/vecinos-de-el-tepetate-se-deslindan-de-protesta-contra-obras-del-tren-mexico-queretaro/",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 20.1,
+      "lon": -99.5
+    },
+    {
+      "id": "a91ad4cd",
+      "tipo": "cierre_parcial",
+      "ruta": "libramiento Morelos deja cuatro lesionados en León",
+      "descripcion": "Choque múltiple en el libramiento Morelos deja cuatro lesionados en León. Una camioneta derrapó por el pavimento mojado, brincó el camellón central e impactó a un automóvil y a un motociclista; ninguno de los heridos requirió traslado hospitalario.",
+      "fecha": "12 noviembre 2026 · 18:03 CST",
+      "fuente": "AM Guanajuato",
+      "url": "https://www.am.com.mx/leon/2026/11/12/choque-multiple-en-el-libramiento-morelos-deja-cuatro-lesionados-en-leon-1865538.html",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 18.67,
+      "lon": -99.1
+    },
     {
       "id": "3cb0ba04",
       "tipo": "cierre_parcial",
@@ -334,32 +336,6 @@
       "badge_txt": "CIERRE PARCIAL",
       "lat": 21.0,
       "lon": -104.0
-    },
-    {
-      "id": "506d4ef8",
-      "tipo": "cierre_total",
-      "ruta": "Al menos 4 mujeres lesionadas tras volcadura de autobús en…",
-      "descripcion": "Al menos 4 mujeres lesionadas tras volcadura de autobús en Petatlán. El hecho, en la carretera Acapulco-Zihuatanejo",
-      "fecha": "12 noviembre 2026 · 15:17 CST",
-      "fuente": "Quadratin Guerrero",
-      "url": "https://guerrero.quadratin.com.mx/al-menos-4-mujeres-lesionadas-tras-volcadura-de-autobus-en-petatlan/",
-      "dot_color": "#e74c3c",
-      "badge_txt": "CIERRE TOTAL",
-      "lat": 16.86,
-      "lon": -99.88
-    },
-    {
-      "id": "6ef9db82",
-      "tipo": "cierre_parcial",
-      "ruta": "Choque de autobuses deja bloqueada la México-Querétaro…",
-      "descripcion": "Choque de autobuses deja bloqueada la México-Querétaro. Diez alumnos que viajaban en la unidad fueron valorados The post Choque de autobuses deja bloqueada la México-Querétaro appeared first on Quadratin Querétaro.",
-      "fecha": "12 noviembre 2026 · 15:00 CST",
-      "fuente": "Quadratin Queretaro",
-      "url": "https://queretaro.quadratin.com.mx/choque-de-autobuses-deja-bloqueada-la-mexico-queretaro/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 20.1,
-      "lon": -99.5
     },
     {
       "id": "4f581e11",
@@ -414,24 +390,11 @@
       "lon": -98.4
     },
     {
-      "id": "b09eab86",
-      "tipo": "cierre_parcial",
-      "ruta": "Asaltan y golpean a operador de tráiler; lo abandonan en…",
-      "descripcion": "Asaltan y golpean a operador de tráiler; lo abandonan en Tepeji. Notificar a las autoridades sobre el robo de la unidad. The post Asaltan y golpean a operador de tráiler; lo abandonan en Tepeji appeared first on Quadratin Hidalgo.",
-      "fecha": "12 noviembre 2026 · 11:58 CST",
-      "fuente": "Quadratin Hidalgo",
-      "url": "https://hidalgo.quadratin.com.mx/entretenimiento/seguridad/asaltan-y-golpean-a-operador-de-trailer-lo-abandonan-en-tepeji/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 20.11,
-      "lon": -98.73
-    },
-    {
       "id": "8d010b02",
       "tipo": "cierre_total",
       "ruta": "Volcadura de tráiler deja dos lesionados y severo caos vial…",
       "descripcion": "Volcadura de tráiler deja dos lesionados y severo caos vial en la México-Puebla - Portal Liberación. Volcadura de tráiler deja dos lesionados y severo caos vial en la México-Puebla Portal Liberación",
-      "fecha": "12 noviembre 2026 · 11:30 CST",
+      "fecha": "12 noviembre 2026 · 11:44 CST",
       "fuente": "Portal Liberación",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRHV1cVhCdXZvNV9KTUptdUM4c3NGNTFHM0Ytd2RaNmRFd2lWTzF4RTNhZVZwVXRmc0dhMUJqVS1nTlVocDhjZ2RYbk5CSjRJdlNhQUdONU9PQnpFUkplUkdrLWFJV2hYZHh2WmRES0NqLWRkSy1FMXpVQlltVmZTejJmWGthbjdjTV9pTEZ4U29vTkh4VDdkN2JxSGhLaFlHbTZnUi16RGxmUEFOWWh2VUpULXBEdw?oc=5",
       "dot_color": "#e74c3c",
@@ -440,11 +403,24 @@
       "lon": -98.4
     },
     {
+      "id": "0f4e3c68",
+      "tipo": "cierre_parcial",
+      "ruta": "Vuelca autobús con niños de preescolar de Atitalaquia tras choque…",
+      "descripcion": "Vuelca autobús con niños de preescolar de Atitalaquia tras choque con tráiler; iban de excursión a CdMx - MILENIO. Vuelca autobús con niños de preescolar de Atitalaquia tras choque con tráiler; iban de excursión a CdMx MILENIO",
+      "fecha": "12 noviembre 2026 · 11:28 CST",
+      "fuente": "MILENIO",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUWtoTGdEc3VjNjBkajhobzF0TW1HbTNKMHRQSFdCRUxGY0sxelJpRkVodlNaRzdNTWJnZnhGYUZ5b2RCSmFBSnFLc1JIU3BQSThZcHQxT0ladUhYUjB0aTBHWFdka3hBa0tOUkhiMkw3OTgxQms2QS03YWNuWFlTZTdUT1hadll1LWFUMENn0gGOAUFVX3lxTE1UZzhIUUxGYTNjTkxUcUFvQUloTzZLSEo0NGkxU3JHZFJ5emo0SU54T29rTUJJWEtSVGpRU2NWdk8wLUhFdlpJVVBwWlo3SlZoc0c1dWZpVE5Hc1kydVBweWRuQ1JBQ3pnMk12dTFkWmZOR0ZuQk4tckczZGJ3akg4MV95eWJVeVAtbkxEVkE?oc=5",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 19.43,
+      "lon": -99.13
+    },
+    {
       "id": "550b4d75",
       "tipo": "cierre_parcial",
       "ruta": "ACCIDENTES VIALES PARALIZAN LAS AUTOPISTAS MÉXICO-PUEBLA Y MÉXICO-QUERÉTARO - El…",
       "descripcion": "ACCIDENTES VIALES PARALIZAN LAS AUTOPISTAS MÉXICO-PUEBLA Y MÉXICO-QUERÉTARO - El Heraldo de San Luis Potosí.. ACCIDENTES VIALES PARALIZAN LAS AUTOPISTAS MÉXICO-PUEBLA Y MÉXICO-QUERÉTARO El Heraldo de San Luis Potosí.",
-      "fecha": "12 noviembre 2026 · 11:17 CST",
+      "fecha": "12 noviembre 2026 · 11:18 CST",
       "fuente": "El Heraldo de San Luis Potosí.",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOUR1T1FaU084d2dSbko0b0FGTHlnWkNRZnRtLUhNRHZCTFBydFlaOFpuOGdzTWIzaWk0ZTR0Tmo5SW5mSEtMU2R4OFpRQzNpRXpqS0ZBMWF0YjNadFlJRmRPenF4WS1JaUNMLTBUenphaTFqdDE0NWVmLWdjWTZGaHdRU1ZUZWRNYmYxanBOcml0emI3NGN3NUo4YTkxbGhQZ0tFS1RobTZZNVNQTDlPRkMwMV92QzBCXzZV?oc=5",
       "dot_color": "#e67e22",
@@ -453,12 +429,12 @@
       "lon": -98.4
     },
     {
-      "id": "c217830b",
+      "id": "3b07386e",
       "tipo": "cierre_total",
       "ruta": "Cierran la México-Puebla HOY 12 de noviembre por volcadura de…",
-      "descripcion": "Cierran la México-Puebla HOY 12 de noviembre por volcadura de tráiler - Milenio. Cierran la México-Puebla HOY 12 de noviembre por volcadura de tráiler Milenio",
+      "descripcion": "Cierran la México-Puebla HOY 12 de noviembre por volcadura de tráiler - MILENIO. Cierran la México-Puebla HOY 12 de noviembre por volcadura de tráiler MILENIO",
       "fecha": "12 noviembre 2026 · 10:57 CST",
-      "fuente": "Milenio",
+      "fuente": "MILENIO",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTzZOOEZmOENKVzFtdkJLYmUxN2gwUEhjTVB2dzREY0NLclZXWHpVNnF4NndER3pCTmRCNDNsZFBHMEduVG12OFhvdDZNdExlcXI1SzlsY3JuLWN2SHBNUVR3UjlVcmRROEk1aWt4Mm9mMVc5U0lqMzdFYmFuQkk5RVcySF9qVWNRV2Yw0gGLAUFVX3lxTE9Sd2k3NEVLb21GazlqM0xVQXNtMHNRT29BMXdLOVpyR0JmTG5IamhlN2R6LXRQUnc3WXlibnRYNGJaT2JhRVNqRUVoMjJzV1NxdmJfWmZGeFJvTFZ1ZTJCMXlaeUNabTZBelFQV1pFUXhyYV9UcG5oR3pGRlFxVmpNejFnYVdMWnRqN0U?oc=5",
       "dot_color": "#e74c3c",
       "badge_txt": "CIERRE TOTAL",
@@ -490,45 +466,6 @@
       "badge_txt": "CIERRE TOTAL",
       "lat": 19.35,
       "lon": -98.4
-    },
-    {
-      "id": "2aa2a2a9",
-      "tipo": "cierre_total",
-      "ruta": "📢 Cierre total en la #México-#Querétaro por volcadura de autobús…",
-      "descripcion": "📢 Cierre total en la #México-#Querétaro por volcadura de autobús \n\nhttps://lajornadaestadodemexico.com/cierre-total-en-la-mexico-queretaro-por-volcadura-de-autobus/",
-      "fecha": "12 noviembre 2026 · 08:46 CST",
-      "fuente": "Telegram @jornadaedomex",
-      "url": "https://t.me/jornadaedomex/12615",
-      "dot_color": "#e74c3c",
-      "badge_txt": "CIERRE TOTAL",
-      "lat": 20.1,
-      "lon": -99.5
-    },
-    {
-      "id": "ffd1b80a",
-      "tipo": "cierre_parcial",
-      "ruta": "🚨Ch*que en #IsidroFabela y #Morelos afecta la circulación en #Toluca…",
-      "descripcion": "🚨Ch*que en #IsidroFabela y #Morelos afecta la circulación en #Toluca [#VIDEO] 👇😱\n\nhttps://lajornadaestadodemexico.com/choque-en-isidro-fabela-y-morelos/",
-      "fecha": "12 noviembre 2026 · 06:44 CST",
-      "fuente": "Telegram @jornadaedomex",
-      "url": "https://t.me/jornadaedomex/12613",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 18.67,
-      "lon": -99.1
-    },
-    {
-      "id": "2f34bb12",
-      "tipo": "cierre_parcial",
-      "ruta": "¿Qué Pasó en la México-Querétaro Hoy? Reporte de Tráfico, Accidentes…",
-      "descripcion": "¿Qué Pasó en la México-Querétaro Hoy? Reporte de Tráfico, Accidentes y Cierres Este Jueves - N+. ¿Qué Pasó en la México-Querétaro Hoy? Reporte de Tráfico, Accidentes y Cierres Este Jueves N+",
-      "fecha": "12 noviembre 2026 · 06:09 CST",
-      "fuente": "N+",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOOWFoYTFZRTczMHIzTFlkTENpa1ROOExSSnJvVUtDNjAyUnhnOFZQXzFVaWNVRmFXbW43OW04alhrRlFwNXVVZDhrWmVoalRMRGdfY0JOeHN2SHotd0ZtamM2ZUNZVVNPUF9fVHV4VlV0dFhkSkhFaEUtc3pZYkNad2hiSUdmZjhzRXRvNElvdmw5U0E4bF9xY3FjckRzc0d5SDBaeEZqZzRZVnNfMllvNDBZb2Q4b3JualB4Mm1lVFZCR0lTQThGQkFOUVFFdDk5WjVOSHF0TkN1NDl4ZHpzemVWcFFYX0k?oc=5",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 20.1,
-      "lon": -99.5
     }
   ]
 }
