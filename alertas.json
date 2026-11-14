@@ -1,6 +1,6 @@
 {
-  "ultima_actualizacion": "2026-11-13T17:06:18.653616-06:00",
-  "ultima_actualizacion_legible": "13 de noviembre de 2026 · 17:06 CST",
+  "ultima_actualizacion": "2026-11-13T21:10:34.618195-06:00",
+  "ultima_actualizacion_legible": "13 de noviembre de 2026 · 21:10 CST",
   "total": 5,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
@@ -16,43 +16,18 @@
       "col2": false,
       "alertas": [
         {
-          "id": "dd9e91a4",
+          "id": "7be50bdd",
           "tipo": "cierre_total",
-          "ruta": "¿Qué Pasó en la Carretera México-Cuernavaca Hoy? Caos Vial por…",
-          "descripcion": "¿Qué Pasó en la Carretera México-Cuernavaca Hoy? Caos Vial por Volcadura de Tráiler - N+. ¿Qué Pasó en la Carretera México-Cuernavaca Hoy? Caos Vial por Volcadura de Tráiler N+",
+          "ruta": "Autopista del Sol",
+          "descripcion": "Provoca lluvia 2 volcaduras en la Autopista del Sol. Un conductor resulta lesionado",
           "recomendacion": "",
-          "fecha": "13 noviembre 2026 · 13:38 CST",
-          "fecha_iso": "2026-11-13T13:38:00-06:00",
-          "fuente": "N+",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQVjQ1WU5BNk50clRMZjV5c3dxTUZvMnZzcnVYUlNnMUhoY3RXU2xxSldhQzRMV2dzY2s0ZXlZYXlVOThQejVDRXg1dkZTeVhsdnVVcXpFU3BwYlIyaTdWSjVIeHRxUThHOUN2VGMyRUI1NEM5SjRUYlQ3UkJlNkNkaDVXVl9aMm9zellvdmhORzFrbWo3cm1nWDE4WnBGYl9uU3pTSndGUUpjLTNfRmFJQ3QwRGt4Y3d5UUI2NVlJa1NaX1NXQUlRaU5sRE9wVHdPWlFiX2tjblhFT0tsQTZYNTVlbVBNdw?oc=5",
+          "fecha": "13 noviembre 2026 · 18:06 CST",
+          "fecha_iso": "2026-11-13T18:06:00-06:00",
+          "fuente": "Quadratin Guerrero",
+          "url": "https://guerrero.quadratin.com.mx/provoca-lluvia-2-volcaduras-en-la-autopista-del-sol/",
           "dot_color": "#e74c3c",
           "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL",
-          "lat": 18.92,
-          "lon": -99.23
-        }
-      ]
-    },
-    {
-      "tipo": "bloqueo",
-      "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "c86fbbf8",
-          "tipo": "bloqueo",
-          "ruta": "Protestan y cierran vialidades, trabajadores del Hospital de la Niñez…",
-          "descripcion": "Protestan y cierran vialidades, trabajadores del Hospital de la Niñez. Trabajadores del Hospital de la Niñez protestan.",
-          "recomendacion": "",
-          "fecha": "13 noviembre 2026 · 07:50 CST",
-          "fecha_iso": "2026-11-13T07:50:00-06:00",
-          "fuente": "Quadratin Puebla",
-          "url": "https://puebla.quadratin.com.mx/sucesos/protestan-y-cierran-vialidades-trabajadores-del-hospital-de-la-ninez/",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
+          "badge_txt": "CIERRE TOTAL"
         }
       ]
     },
@@ -63,6 +38,52 @@
       "label": "CIERRE PARCIAL / ACCIDENTES",
       "col2": true,
       "alertas": [
+        {
+          "id": "3b84805b",
+          "tipo": "cierre_parcial",
+          "ruta": "autopista México-Querétaro provocó un fuerte accidente al impactarse contra una camioneta ",
+          "descripcion": "🔴 Un tráiler con caja seca que circulaba en sentido contrario sobre la autopista México-Querétaro provocó un fuerte accidente al impactarse contra una camioneta de transporte turístico, con un saldo de 13 personas lesionadas, a la altura del municipio de Co - Facebook. 🔴 Un tráiler con caja seca que circulaba en sentido contrario sobre la autopista México-Querétaro provocó un fuerte accidente al impactarse contra una camioneta de transporte turístico, con un saldo de 13 personas lesionadas, a la",
+          "recomendacion": "",
+          "fecha": "13 noviembre 2026 · 20:08 CST",
+          "fecha_iso": "2026-11-13T20:08:00-06:00",
+          "fuente": "Facebook",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSFI5cjlRQS1qMUc3VlJUV3l6cE03Mm5RWXR0NnRKMzlxX0ZiMS1WWDFnalhha0lFclVYTTdqWDlJUE0zTHBBNTFZQnpvRnVwSDZGQlhHRi0yZm1lMzV0eTlxcDc5eWlUa1NnZGlyek1IRTRTWDJfRXZ0LTd0eThFc09DVk5PdGhKNnZ1ZWRhZ1pXMjJTYzJEVTQyQ2UyYUNhVGdSbmVVMGdILUYxVFpjQVBTWUFUOEN0VVd5ekFYS0VJaWM0VXdNbF85eFFxRk9pMm9Ic09NWXVTUjYyMk9QVGln?oc=5",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 20.1,
+          "lon": -99.5
+        },
+        {
+          "id": "55d73fa9",
+          "tipo": "cierre_parcial",
+          "ruta": "Reporte vial viernes 13 de noviembre: Carreteras cerradas y tráfico…",
+          "descripcion": "Reporte vial viernes 13 de noviembre: Carreteras cerradas y tráfico en México - TV Azteca. Reporte vial viernes 13 de noviembre: Carreteras cerradas y tráfico en México TV Azteca",
+          "recomendacion": "",
+          "fecha": "13 noviembre 2026 · 19:18 CST",
+          "fecha_iso": "2026-11-13T19:18:00-06:00",
+          "fuente": "TV Azteca",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOREpmM05kX2d2MGJfUkRuYk5CNU9CemVsOXh5bTJQX0VnM3BRaTdXVFJrTzRfV25HeXZBMmR4X05keUJ3dWlQaXRWZlc1VlBtU3VGMEhsX0RVU0k0XzNnVWUwMVdkNDJWRE5FNUpvbUs1UmJKVnF4VGxGeGFiRGN0WEIxVHVnVkU5UXBUS1djV0hQbEpDNmFNTEF3dl9IWGtOeV8xVVRtZGV0OW5qRENTVk90bjZ1SVN5S0taaVR1OHY?oc=5",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        },
+        {
+          "id": "7a747b68",
+          "tipo": "cierre_parcial",
+          "ruta": "Accidente en la México-Querétaro Hoy: Tráiler Impacta Combi con Maestros;…",
+          "descripcion": "Accidente en la México-Querétaro Hoy: Tráiler Impacta Combi con Maestros; Hay Varios Heridos - N+. Accidente en la México-Querétaro Hoy: Tráiler Impacta Combi con Maestros; Hay Varios Heridos N+",
+          "recomendacion": "",
+          "fecha": "13 noviembre 2026 · 18:36 CST",
+          "fecha_iso": "2026-11-13T18:36:00-06:00",
+          "fuente": "N+",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZUNFNEZaNk1zVHdyeWgtbWl5OTFZbmZTd0lzSWw5X09paGxKYnlhdm9TSXR1V0tHS1FhUUppTmJtTHM3VmljUWNjS0xsRUQzWnRFWXE3RFFQS2ExeW5ZWndzMW5PTFFsakVERGIxRHFpVktrMHJ5Uno3VEVlU3lHN0ZSZ0t4V1Yxd3pFUHdkVEozWVJFTndLa3Y4SUUtWkw5NWg0Ylo4d3NxdWV5QUZkdmtjLWFPZklTak16bzRVTkJLRUgySTJiN1hmMmF1NE85aDVrOGg5LXpSSVU2dnpNNkp1M1NFSUNf?oc=5",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 20.1,
+          "lon": -99.5
+        },
         {
           "id": "f19d11c4",
           "tipo": "cierre_parcial",
@@ -78,41 +99,37 @@
           "badge_txt": "CIERRE PARCIAL",
           "lat": 20.1,
           "lon": -99.5
-        },
-        {
-          "id": "e6acce5c",
-          "tipo": "cierre_parcial",
-          "ruta": "Halla SSEM cargamento de papas valuadas en 200 mil pesos…",
-          "descripcion": "Halla SSEM cargamento de papas valuadas en 200 mil pesos en Huehuetoca. El cargamento fue hallado al interior de dos remolques cuando los oficiales llevaban a cabo un operativo para la prevención del robo al transporte",
-          "recomendacion": "",
-          "fecha": "13 noviembre 2026 · 15:45 CST",
-          "fecha_iso": "2026-11-13T15:45:00-06:00",
-          "fuente": "Quadratin EdoMex",
-          "url": "https://edomex.quadratin.com.mx/halla-ssem-cargamento-de-papas-valuadas-en-200-mil-pesos-en-huehuetoca/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.1,
-          "lon": -104.3
-        },
-        {
-          "id": "55d73fa9",
-          "tipo": "cierre_parcial",
-          "ruta": "Reporte vial viernes 13 de noviembre: Carreteras cerradas y tráfico…",
-          "descripcion": "Reporte vial viernes 13 de noviembre: Carreteras cerradas y tráfico en México - TV Azteca. Reporte vial viernes 13 de noviembre: Carreteras cerradas y tráfico en México TV Azteca",
-          "recomendacion": "",
-          "fecha": "13 noviembre 2026 · 14:45 CST",
-          "fecha_iso": "2026-11-13T14:45:00-06:00",
-          "fuente": "TV Azteca",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOREpmM05kX2d2MGJfUkRuYk5CNU9CemVsOXh5bTJQX0VnM3BRaTdXVFJrTzRfV25HeXZBMmR4X05keUJ3dWlQaXRWZlc1VlBtU3VGMEhsX0RVU0k0XzNnVWUwMVdkNDJWRE5FNUpvbUs1UmJKVnF4VGxGeGFiRGN0WEIxVHVnVkU5UXBUS1djV0hQbEpDNmFNTEF3dl9IWGtOeV8xVVRtZGV0OW5qRENTVk90bjZ1SVN5S0taaVR1OHY?oc=5",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
         }
       ]
     }
   ],
   "para_mapa": [
+    {
+      "id": "3b84805b",
+      "tipo": "cierre_parcial",
+      "ruta": "autopista México-Querétaro provocó un fuerte accidente al impactarse contra una camioneta ",
+      "descripcion": "🔴 Un tráiler con caja seca que circulaba en sentido contrario sobre la autopista México-Querétaro provocó un fuerte accidente al impactarse contra una camioneta de transporte turístico, con un saldo de 13 personas lesionadas, a la altura del municipio de Co - Facebook. 🔴 Un tráiler con caja seca que circulaba en sentido contrario sobre la autopista México-Querétaro provocó un fuerte accidente al impactarse contra una camioneta de transporte turístico, con un saldo de 13 personas lesionadas, a la",
+      "fecha": "13 noviembre 2026 · 20:08 CST",
+      "fuente": "Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSFI5cjlRQS1qMUc3VlJUV3l6cE03Mm5RWXR0NnRKMzlxX0ZiMS1WWDFnalhha0lFclVYTTdqWDlJUE0zTHBBNTFZQnpvRnVwSDZGQlhHRi0yZm1lMzV0eTlxcDc5eWlUa1NnZGlyek1IRTRTWDJfRXZ0LTd0eThFc09DVk5PdGhKNnZ1ZWRhZ1pXMjJTYzJEVTQyQ2UyYUNhVGdSbmVVMGdILUYxVFpjQVBTWUFUOEN0VVd5ekFYS0VJaWM0VXdNbF85eFFxRk9pMm9Ic09NWXVTUjYyMk9QVGln?oc=5",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 20.1,
+      "lon": -99.5
+    },
+    {
+      "id": "7a747b68",
+      "tipo": "cierre_parcial",
+      "ruta": "Accidente en la México-Querétaro Hoy: Tráiler Impacta Combi con Maestros;…",
+      "descripcion": "Accidente en la México-Querétaro Hoy: Tráiler Impacta Combi con Maestros; Hay Varios Heridos - N+. Accidente en la México-Querétaro Hoy: Tráiler Impacta Combi con Maestros; Hay Varios Heridos N+",
+      "fecha": "13 noviembre 2026 · 18:36 CST",
+      "fuente": "N+",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZUNFNEZaNk1zVHdyeWgtbWl5OTFZbmZTd0lzSWw5X09paGxKYnlhdm9TSXR1V0tHS1FhUUppTmJtTHM3VmljUWNjS0xsRUQzWnRFWXE3RFFQS2ExeW5ZWndzMW5PTFFsakVERGIxRHFpVktrMHJ5Uno3VEVlU3lHN0ZSZ0t4V1Yxd3pFUHdkVEozWVJFTndLa3Y4SUUtWkw5NWg0Ylo4d3NxdWV5QUZkdmtjLWFPZklTak16bzRVTkJLRUgySTJiN1hmMmF1NE85aDVrOGg5LXpSSVU2dnpNNkp1M1NFSUNf?oc=5",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 20.1,
+      "lon": -99.5
+    },
     {
       "id": "f19d11c4",
       "tipo": "cierre_parcial",
@@ -125,32 +142,6 @@
       "badge_txt": "CIERRE PARCIAL",
       "lat": 20.1,
       "lon": -99.5
-    },
-    {
-      "id": "e6acce5c",
-      "tipo": "cierre_parcial",
-      "ruta": "Halla SSEM cargamento de papas valuadas en 200 mil pesos…",
-      "descripcion": "Halla SSEM cargamento de papas valuadas en 200 mil pesos en Huehuetoca. El cargamento fue hallado al interior de dos remolques cuando los oficiales llevaban a cabo un operativo para la prevención del robo al transporte",
-      "fecha": "13 noviembre 2026 · 15:45 CST",
-      "fuente": "Quadratin EdoMex",
-      "url": "https://edomex.quadratin.com.mx/halla-ssem-cargamento-de-papas-valuadas-en-200-mil-pesos-en-huehuetoca/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.1,
-      "lon": -104.3
-    },
-    {
-      "id": "dd9e91a4",
-      "tipo": "cierre_total",
-      "ruta": "¿Qué Pasó en la Carretera México-Cuernavaca Hoy? Caos Vial por…",
-      "descripcion": "¿Qué Pasó en la Carretera México-Cuernavaca Hoy? Caos Vial por Volcadura de Tráiler - N+. ¿Qué Pasó en la Carretera México-Cuernavaca Hoy? Caos Vial por Volcadura de Tráiler N+",
-      "fecha": "13 noviembre 2026 · 13:38 CST",
-      "fuente": "N+",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQVjQ1WU5BNk50clRMZjV5c3dxTUZvMnZzcnVYUlNnMUhoY3RXU2xxSldhQzRMV2dzY2s0ZXlZYXlVOThQejVDRXg1dkZTeVhsdnVVcXpFU3BwYlIyaTdWSjVIeHRxUThHOUN2VGMyRUI1NEM5SjRUYlQ3UkJlNkNkaDVXVl9aMm9zellvdmhORzFrbWo3cm1nWDE4WnBGYl9uU3pTSndGUUpjLTNfRmFJQ3QwRGt4Y3d5UUI2NVlJa1NaX1NXQUlRaU5sRE9wVHdPWlFiX2tjblhFT0tsQTZYNTVlbVBNdw?oc=5",
-      "dot_color": "#e74c3c",
-      "badge_txt": "CIERRE TOTAL",
-      "lat": 18.92,
-      "lon": -99.23
     }
   ]
 }
