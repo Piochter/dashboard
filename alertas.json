@@ -1,7 +1,7 @@
 {
-  "ultima_actualizacion": "2026-11-14T04:16:46.180189-06:00",
-  "ultima_actualizacion_legible": "14 de noviembre de 2026 · 04:16 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-11-14T10:40:10.938232-06:00",
+  "ultima_actualizacion_legible": "14 de noviembre de 2026 · 10:40 CST",
+  "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
@@ -16,95 +16,51 @@
       "col2": true,
       "alertas": [
         {
-          "id": "3b84805b",
+          "id": "417ced5e",
           "tipo": "cierre_parcial",
-          "ruta": "autopista México-Querétaro provocó un fuerte accidente al impactarse contra una camioneta ",
-          "descripcion": "🔴 Un tráiler con caja seca que circulaba en sentido contrario sobre la autopista México-Querétaro provocó un fuerte accidente al impactarse contra una camioneta de transporte turístico, con un saldo de 13 personas lesionadas, a la altura del municipio de Co - Facebook. 🔴 Un tráiler con caja seca que circulaba en sentido contrario sobre la autopista México-Querétaro provocó un fuerte accidente al impactarse contra una camioneta de transporte turístico, con un saldo de 13 personas lesionadas, a la",
+          "ruta": "Carreteras Bloqueadas en México Hoy, Sábado 14 de Noviembre de…",
+          "descripcion": "Carreteras Bloqueadas en México Hoy, Sábado 14 de Noviembre de 2026 - N+. Carreteras Bloqueadas en México Hoy, Sábado 14 de Noviembre de 2026 N+",
           "recomendacion": "",
-          "fecha": "13 noviembre 2026 · 23:42 CST",
-          "fecha_iso": "2026-11-13T23:42:00-06:00",
-          "fuente": "Facebook",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSFI5cjlRQS1qMUc3VlJUV3l6cE03Mm5RWXR0NnRKMzlxX0ZiMS1WWDFnalhha0lFclVYTTdqWDlJUE0zTHBBNTFZQnpvRnVwSDZGQlhHRi0yZm1lMzV0eTlxcDc5eWlUa1NnZGlyek1IRTRTWDJfRXZ0LTd0eThFc09DVk5PdGhKNnZ1ZWRhZ1pXMjJTYzJEVTQyQ2UyYUNhVGdSbmVVMGdILUYxVFpjQVBTWUFUOEN0VVd5ekFYS0VJaWM0VXdNbF85eFFxRk9pMm9Ic09NWXVTUjYyMk9QVGln?oc=5",
+          "fecha": "14 noviembre 2026 · 06:55 CST",
+          "fecha_iso": "2026-11-14T06:55:00-06:00",
+          "fuente": "N+",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSFdPNVU5TnJKZ0hJM1VNc1RUOFdyRmtGbHhpUW5EenVXbG5FakIxSmVTUTc0Q2dEUUl3cGJEd1ZtMHlhZE15eEhPR0dtaXVyYXZkNjFuUFdqd3BrNmg2QVpDbFZGYW1MN0Zuam01eUlPNzdYNUhoendnNkxRTE9Zd25HUG9LdUhwZVJmbEVKcXRkYnQ4aWcyazBuZ0dOQTRvMDBV?oc=5",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 20.1,
-          "lon": -99.5
+          "badge_txt": "CIERRE PARCIAL"
         },
         {
-          "id": "59e02b0a",
+          "id": "e7814334",
           "tipo": "cierre_parcial",
-          "ruta": "Acumula Arco Norte más de 8 horas de cierre entre…",
-          "descripcion": "Acumula Arco Norte más de 8 horas de cierre entre Tlaxcala y Puebla tras accidentes. Más de ocho horas de afectaciones acumuló este viernes la autopista Arco Norte, tras reportes de accidentes de vehículos de carga en el kilómetro 215 The post Acumula Arco Norte más de 8 horas de cierre entre Tlaxcala y Puebla tras accidentes appeared first on Quadratin Hidalgo.",
+          "ruta": "carretera Huimanguillo-Cárdenas este sábado",
+          "descripcion": "Habrá cierres intermitentes en carretera Huimanguillo-Cárdenas este sábado. Instalará SICT superestructura para un puente peatonal de 10 a 15 horas",
           "recomendacion": "",
-          "fecha": "13 noviembre 2026 · 21:23 CST",
-          "fecha_iso": "2026-11-13T21:23:00-06:00",
-          "fuente": "Quadratin Hidalgo",
-          "url": "https://hidalgo.quadratin.com.mx/sucesos/acumula-arco-norte-mas-de-8-horas-de-cierre-entre-tlaxcala-y-puebla-tras-accidentes/",
+          "fecha": "14 noviembre 2026 · 06:45 CST",
+          "fecha_iso": "2026-11-14T06:45:00-06:00",
+          "fuente": "Quadratin Tabasco",
+          "url": "https://tabasco.quadratin.com.mx/municipios/habra-cierres-intermitentes-en-carretera-huimanguillo-cardenas-este-sabado/",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL",
           "lat": 21.0,
           "lon": -104.0
-        },
-        {
-          "id": "7a747b68",
-          "tipo": "cierre_parcial",
-          "ruta": "Accidente en la México-Querétaro Hoy: Tráiler Impacta Combi con Maestros;…",
-          "descripcion": "Accidente en la México-Querétaro Hoy: Tráiler Impacta Combi con Maestros; Hay Varios Heridos - N+. Accidente en la México-Querétaro Hoy: Tráiler Impacta Combi con Maestros; Hay Varios Heridos N+",
-          "recomendacion": "",
-          "fecha": "13 noviembre 2026 · 18:36 CST",
-          "fecha_iso": "2026-11-13T18:36:00-06:00",
-          "fuente": "N+",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZUNFNEZaNk1zVHdyeWgtbWl5OTFZbmZTd0lzSWw5X09paGxKYnlhdm9TSXR1V0tHS1FhUUppTmJtTHM3VmljUWNjS0xsRUQzWnRFWXE3RFFQS2ExeW5ZWndzMW5PTFFsakVERGIxRHFpVktrMHJ5Uno3VEVlU3lHN0ZSZ0t4V1Yxd3pFUHdkVEozWVJFTndLa3Y4SUUtWkw5NWg0Ylo4d3NxdWV5QUZkdmtjLWFPZklTak16bzRVTkJLRUgySTJiN1hmMmF1NE85aDVrOGg5LXpSSVU2dnpNNkp1M1NFSUNf?oc=5",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 20.1,
-          "lon": -99.5
         }
       ]
     }
   ],
   "para_mapa": [
     {
-      "id": "3b84805b",
+      "id": "e7814334",
       "tipo": "cierre_parcial",
-      "ruta": "autopista México-Querétaro provocó un fuerte accidente al impactarse contra una camioneta ",
-      "descripcion": "🔴 Un tráiler con caja seca que circulaba en sentido contrario sobre la autopista México-Querétaro provocó un fuerte accidente al impactarse contra una camioneta de transporte turístico, con un saldo de 13 personas lesionadas, a la altura del municipio de Co - Facebook. 🔴 Un tráiler con caja seca que circulaba en sentido contrario sobre la autopista México-Querétaro provocó un fuerte accidente al impactarse contra una camioneta de transporte turístico, con un saldo de 13 personas lesionadas, a la",
-      "fecha": "13 noviembre 2026 · 23:42 CST",
-      "fuente": "Facebook",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSFI5cjlRQS1qMUc3VlJUV3l6cE03Mm5RWXR0NnRKMzlxX0ZiMS1WWDFnalhha0lFclVYTTdqWDlJUE0zTHBBNTFZQnpvRnVwSDZGQlhHRi0yZm1lMzV0eTlxcDc5eWlUa1NnZGlyek1IRTRTWDJfRXZ0LTd0eThFc09DVk5PdGhKNnZ1ZWRhZ1pXMjJTYzJEVTQyQ2UyYUNhVGdSbmVVMGdILUYxVFpjQVBTWUFUOEN0VVd5ekFYS0VJaWM0VXdNbF85eFFxRk9pMm9Ic09NWXVTUjYyMk9QVGln?oc=5",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 20.1,
-      "lon": -99.5
-    },
-    {
-      "id": "59e02b0a",
-      "tipo": "cierre_parcial",
-      "ruta": "Acumula Arco Norte más de 8 horas de cierre entre…",
-      "descripcion": "Acumula Arco Norte más de 8 horas de cierre entre Tlaxcala y Puebla tras accidentes. Más de ocho horas de afectaciones acumuló este viernes la autopista Arco Norte, tras reportes de accidentes de vehículos de carga en el kilómetro 215 The post Acumula Arco Norte más de 8 horas de cierre entre Tlaxcala y Puebla tras accidentes appeared first on Quadratin Hidalgo.",
-      "fecha": "13 noviembre 2026 · 21:23 CST",
-      "fuente": "Quadratin Hidalgo",
-      "url": "https://hidalgo.quadratin.com.mx/sucesos/acumula-arco-norte-mas-de-8-horas-de-cierre-entre-tlaxcala-y-puebla-tras-accidentes/",
+      "ruta": "carretera Huimanguillo-Cárdenas este sábado",
+      "descripcion": "Habrá cierres intermitentes en carretera Huimanguillo-Cárdenas este sábado. Instalará SICT superestructura para un puente peatonal de 10 a 15 horas",
+      "fecha": "14 noviembre 2026 · 06:45 CST",
+      "fuente": "Quadratin Tabasco",
+      "url": "https://tabasco.quadratin.com.mx/municipios/habra-cierres-intermitentes-en-carretera-huimanguillo-cardenas-este-sabado/",
       "dot_color": "#e67e22",
       "badge_txt": "CIERRE PARCIAL",
       "lat": 21.0,
       "lon": -104.0
-    },
-    {
-      "id": "7a747b68",
-      "tipo": "cierre_parcial",
-      "ruta": "Accidente en la México-Querétaro Hoy: Tráiler Impacta Combi con Maestros;…",
-      "descripcion": "Accidente en la México-Querétaro Hoy: Tráiler Impacta Combi con Maestros; Hay Varios Heridos - N+. Accidente en la México-Querétaro Hoy: Tráiler Impacta Combi con Maestros; Hay Varios Heridos N+",
-      "fecha": "13 noviembre 2026 · 18:36 CST",
-      "fuente": "N+",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZUNFNEZaNk1zVHdyeWgtbWl5OTFZbmZTd0lzSWw5X09paGxKYnlhdm9TSXR1V0tHS1FhUUppTmJtTHM3VmljUWNjS0xsRUQzWnRFWXE3RFFQS2ExeW5ZWndzMW5PTFFsakVERGIxRHFpVktrMHJ5Uno3VEVlU3lHN0ZSZ0t4V1Yxd3pFUHdkVEozWVJFTndLa3Y4SUUtWkw5NWg0Ylo4d3NxdWV5QUZkdmtjLWFPZklTak16bzRVTkJLRUgySTJiN1hmMmF1NE85aDVrOGg5LXpSSVU2dnpNNkp1M1NFSUNf?oc=5",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 20.1,
-      "lon": -99.5
     }
   ]
 }
