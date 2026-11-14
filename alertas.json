@@ -1,36 +1,13 @@
 {
-  "ultima_actualizacion": "2026-11-13T21:10:34.618195-06:00",
-  "ultima_actualizacion_legible": "13 de noviembre de 2026 · 21:10 CST",
-  "total": 5,
+  "ultima_actualizacion": "2026-11-14T04:16:46.180189-06:00",
+  "ultima_actualizacion_legible": "14 de noviembre de 2026 · 04:16 CST",
+  "total": 3,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
     "Quadratin + regionales"
   ],
   "grupos": [
-    {
-      "tipo": "cierre_total",
-      "color": "rojo",
-      "icono": "🔴",
-      "label": "CIERRE TOTAL",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "7be50bdd",
-          "tipo": "cierre_total",
-          "ruta": "Autopista del Sol",
-          "descripcion": "Provoca lluvia 2 volcaduras en la Autopista del Sol. Un conductor resulta lesionado",
-          "recomendacion": "",
-          "fecha": "13 noviembre 2026 · 18:06 CST",
-          "fecha_iso": "2026-11-13T18:06:00-06:00",
-          "fuente": "Quadratin Guerrero",
-          "url": "https://guerrero.quadratin.com.mx/provoca-lluvia-2-volcaduras-en-la-autopista-del-sol/",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL"
-        }
-      ]
-    },
     {
       "tipo": "cierre_parcial",
       "color": "amarillo",
@@ -44,8 +21,8 @@
           "ruta": "autopista México-Querétaro provocó un fuerte accidente al impactarse contra una camioneta ",
           "descripcion": "🔴 Un tráiler con caja seca que circulaba en sentido contrario sobre la autopista México-Querétaro provocó un fuerte accidente al impactarse contra una camioneta de transporte turístico, con un saldo de 13 personas lesionadas, a la altura del municipio de Co - Facebook. 🔴 Un tráiler con caja seca que circulaba en sentido contrario sobre la autopista México-Querétaro provocó un fuerte accidente al impactarse contra una camioneta de transporte turístico, con un saldo de 13 personas lesionadas, a la",
           "recomendacion": "",
-          "fecha": "13 noviembre 2026 · 20:08 CST",
-          "fecha_iso": "2026-11-13T20:08:00-06:00",
+          "fecha": "13 noviembre 2026 · 23:42 CST",
+          "fecha_iso": "2026-11-13T23:42:00-06:00",
           "fuente": "Facebook",
           "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSFI5cjlRQS1qMUc3VlJUV3l6cE03Mm5RWXR0NnRKMzlxX0ZiMS1WWDFnalhha0lFclVYTTdqWDlJUE0zTHBBNTFZQnpvRnVwSDZGQlhHRi0yZm1lMzV0eTlxcDc5eWlUa1NnZGlyek1IRTRTWDJfRXZ0LTd0eThFc09DVk5PdGhKNnZ1ZWRhZ1pXMjJTYzJEVTQyQ2UyYUNhVGdSbmVVMGdILUYxVFpjQVBTWUFUOEN0VVd5ekFYS0VJaWM0VXdNbF85eFFxRk9pMm9Ic09NWXVTUjYyMk9QVGln?oc=5",
           "dot_color": "#e67e22",
@@ -55,18 +32,20 @@
           "lon": -99.5
         },
         {
-          "id": "55d73fa9",
+          "id": "59e02b0a",
           "tipo": "cierre_parcial",
-          "ruta": "Reporte vial viernes 13 de noviembre: Carreteras cerradas y tráfico…",
-          "descripcion": "Reporte vial viernes 13 de noviembre: Carreteras cerradas y tráfico en México - TV Azteca. Reporte vial viernes 13 de noviembre: Carreteras cerradas y tráfico en México TV Azteca",
+          "ruta": "Acumula Arco Norte más de 8 horas de cierre entre…",
+          "descripcion": "Acumula Arco Norte más de 8 horas de cierre entre Tlaxcala y Puebla tras accidentes. Más de ocho horas de afectaciones acumuló este viernes la autopista Arco Norte, tras reportes de accidentes de vehículos de carga en el kilómetro 215 The post Acumula Arco Norte más de 8 horas de cierre entre Tlaxcala y Puebla tras accidentes appeared first on Quadratin Hidalgo.",
           "recomendacion": "",
-          "fecha": "13 noviembre 2026 · 19:18 CST",
-          "fecha_iso": "2026-11-13T19:18:00-06:00",
-          "fuente": "TV Azteca",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOREpmM05kX2d2MGJfUkRuYk5CNU9CemVsOXh5bTJQX0VnM3BRaTdXVFJrTzRfV25HeXZBMmR4X05keUJ3dWlQaXRWZlc1VlBtU3VGMEhsX0RVU0k0XzNnVWUwMVdkNDJWRE5FNUpvbUs1UmJKVnF4VGxGeGFiRGN0WEIxVHVnVkU5UXBUS1djV0hQbEpDNmFNTEF3dl9IWGtOeV8xVVRtZGV0OW5qRENTVk90bjZ1SVN5S0taaVR1OHY?oc=5",
+          "fecha": "13 noviembre 2026 · 21:23 CST",
+          "fecha_iso": "2026-11-13T21:23:00-06:00",
+          "fuente": "Quadratin Hidalgo",
+          "url": "https://hidalgo.quadratin.com.mx/sucesos/acumula-arco-norte-mas-de-8-horas-de-cierre-entre-tlaxcala-y-puebla-tras-accidentes/",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 21.0,
+          "lon": -104.0
         },
         {
           "id": "7a747b68",
@@ -83,22 +62,6 @@
           "badge_txt": "CIERRE PARCIAL",
           "lat": 20.1,
           "lon": -99.5
-        },
-        {
-          "id": "f19d11c4",
-          "tipo": "cierre_parcial",
-          "ruta": "Accidentes provocan reducción de carriles en la México-Querétaro; reportan carga…",
-          "descripcion": "Accidentes provocan reducción de carriles en la México-Querétaro; reportan carga en Tepotzotlán - Milenio. Accidentes provocan reducción de carriles en la México-Querétaro; reportan carga en Tepotzotlán Milenio",
-          "recomendacion": "",
-          "fecha": "13 noviembre 2026 · 15:55 CST",
-          "fecha_iso": "2026-11-13T15:55:00-06:00",
-          "fuente": "Milenio",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZlpBS0NYMzRaWllXUnE0eHJzWjZNR0FwSldCUUxqSjJabjcycVc5Z0l2NC1pdk44RndUNkNCZUpaMXFGcDRyT2pRLTZETGREdnJvc1d4S0xxcXpRTGJNMEo1cWVTcnlBdUU0d3dKZVpiTWRmSWRadGtzQmNNZTgxb2hzcDlERkJkSi1paE8yVktzbllhaHN0RGZZSlNJTVZWaEpR0gGjAUFVX3lxTE9zQllSWDE5RWlJdm1VanhOU25iWHZBeHBXUVFnYXVrUlY5ZkpfSHBQZmNXd2lsMktkV2xmb1J2UTZmbmprMUF2OENqZ1lFQlRUaXRpbEhCYmxUNjFWWVNzVXpkMm9VRmdmaS12ck14OGRXRnVrM2FTRV9UNlF6dWpVb0cyOE9lbHd0RVMxcEtXY3c4eTF1UTBrU25WaDZ5UXFvMGc?oc=5",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 20.1,
-          "lon": -99.5
         }
       ]
     }
@@ -109,13 +72,26 @@
       "tipo": "cierre_parcial",
       "ruta": "autopista México-Querétaro provocó un fuerte accidente al impactarse contra una camioneta ",
       "descripcion": "🔴 Un tráiler con caja seca que circulaba en sentido contrario sobre la autopista México-Querétaro provocó un fuerte accidente al impactarse contra una camioneta de transporte turístico, con un saldo de 13 personas lesionadas, a la altura del municipio de Co - Facebook. 🔴 Un tráiler con caja seca que circulaba en sentido contrario sobre la autopista México-Querétaro provocó un fuerte accidente al impactarse contra una camioneta de transporte turístico, con un saldo de 13 personas lesionadas, a la",
-      "fecha": "13 noviembre 2026 · 20:08 CST",
+      "fecha": "13 noviembre 2026 · 23:42 CST",
       "fuente": "Facebook",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSFI5cjlRQS1qMUc3VlJUV3l6cE03Mm5RWXR0NnRKMzlxX0ZiMS1WWDFnalhha0lFclVYTTdqWDlJUE0zTHBBNTFZQnpvRnVwSDZGQlhHRi0yZm1lMzV0eTlxcDc5eWlUa1NnZGlyek1IRTRTWDJfRXZ0LTd0eThFc09DVk5PdGhKNnZ1ZWRhZ1pXMjJTYzJEVTQyQ2UyYUNhVGdSbmVVMGdILUYxVFpjQVBTWUFUOEN0VVd5ekFYS0VJaWM0VXdNbF85eFFxRk9pMm9Ic09NWXVTUjYyMk9QVGln?oc=5",
       "dot_color": "#e67e22",
       "badge_txt": "CIERRE PARCIAL",
       "lat": 20.1,
       "lon": -99.5
+    },
+    {
+      "id": "59e02b0a",
+      "tipo": "cierre_parcial",
+      "ruta": "Acumula Arco Norte más de 8 horas de cierre entre…",
+      "descripcion": "Acumula Arco Norte más de 8 horas de cierre entre Tlaxcala y Puebla tras accidentes. Más de ocho horas de afectaciones acumuló este viernes la autopista Arco Norte, tras reportes de accidentes de vehículos de carga en el kilómetro 215 The post Acumula Arco Norte más de 8 horas de cierre entre Tlaxcala y Puebla tras accidentes appeared first on Quadratin Hidalgo.",
+      "fecha": "13 noviembre 2026 · 21:23 CST",
+      "fuente": "Quadratin Hidalgo",
+      "url": "https://hidalgo.quadratin.com.mx/sucesos/acumula-arco-norte-mas-de-8-horas-de-cierre-entre-tlaxcala-y-puebla-tras-accidentes/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 21.0,
+      "lon": -104.0
     },
     {
       "id": "7a747b68",
@@ -125,19 +101,6 @@
       "fecha": "13 noviembre 2026 · 18:36 CST",
       "fuente": "N+",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZUNFNEZaNk1zVHdyeWgtbWl5OTFZbmZTd0lzSWw5X09paGxKYnlhdm9TSXR1V0tHS1FhUUppTmJtTHM3VmljUWNjS0xsRUQzWnRFWXE3RFFQS2ExeW5ZWndzMW5PTFFsakVERGIxRHFpVktrMHJ5Uno3VEVlU3lHN0ZSZ0t4V1Yxd3pFUHdkVEozWVJFTndLa3Y4SUUtWkw5NWg0Ylo4d3NxdWV5QUZkdmtjLWFPZklTak16bzRVTkJLRUgySTJiN1hmMmF1NE85aDVrOGg5LXpSSVU2dnpNNkp1M1NFSUNf?oc=5",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 20.1,
-      "lon": -99.5
-    },
-    {
-      "id": "f19d11c4",
-      "tipo": "cierre_parcial",
-      "ruta": "Accidentes provocan reducción de carriles en la México-Querétaro; reportan carga…",
-      "descripcion": "Accidentes provocan reducción de carriles en la México-Querétaro; reportan carga en Tepotzotlán - Milenio. Accidentes provocan reducción de carriles en la México-Querétaro; reportan carga en Tepotzotlán Milenio",
-      "fecha": "13 noviembre 2026 · 15:55 CST",
-      "fuente": "Milenio",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZlpBS0NYMzRaWllXUnE0eHJzWjZNR0FwSldCUUxqSjJabjcycVc5Z0l2NC1pdk44RndUNkNCZUpaMXFGcDRyT2pRLTZETGREdnJvc1d4S0xxcXpRTGJNMEo1cWVTcnlBdUU0d3dKZVpiTWRmSWRadGtzQmNNZTgxb2hzcDlERkJkSi1paE8yVktzbllhaHN0RGZZSlNJTVZWaEpR0gGjAUFVX3lxTE9zQllSWDE5RWlJdm1VanhOU25iWHZBeHBXUVFnYXVrUlY5ZkpfSHBQZmNXd2lsMktkV2xmb1J2UTZmbmprMUF2OENqZ1lFQlRUaXRpbEhCYmxUNjFWWVNzVXpkMm9VRmdmaS12ck14OGRXRnVrM2FTRV9UNlF6dWpVb0cyOE9lbHd0RVMxcEtXY3c4eTF1UTBrU25WaDZ5UXFvMGc?oc=5",
       "dot_color": "#e67e22",
       "badge_txt": "CIERRE PARCIAL",
       "lat": 20.1,
