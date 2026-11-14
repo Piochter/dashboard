@@ -1,6 +1,6 @@
 {
-  "ultima_actualizacion": "2026-11-14T10:40:10.938232-06:00",
-  "ultima_actualizacion_legible": "14 de noviembre de 2026 · 10:40 CST",
+  "ultima_actualizacion": "2026-11-14T14:56:08.793522-06:00",
+  "ultima_actualizacion_legible": "14 de noviembre de 2026 · 14:56 CST",
   "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
@@ -16,6 +16,22 @@
       "col2": true,
       "alertas": [
         {
+          "id": "2ffd955f",
+          "tipo": "cierre_parcial",
+          "ruta": "autopista México-Querétaro en Tepeji",
+          "descripcion": "Muere motociclista tras accidente en la autopista México-Querétaro en Tepeji. TEPEJI DEL RÍO, Hgo. 14 de noviembre de 2026.- Un motociclista perdió la vida tras ser atropellado a la altura del kilómetro 47 de la autopista México–Querétaro, con dirección a la Ciudad de México, en los límites de Tepeji del Río con Jilotepec, Estado de México, lo que mantiene parcialmente cerrada la circulación en la […] The post Muere motociclista tras accidente en la autopista México-Querétaro en Tepeji appeared ",
+          "recomendacion": "",
+          "fecha": "14 noviembre 2026 · 13:44 CST",
+          "fecha_iso": "2026-11-14T13:44:00-06:00",
+          "fuente": "Quadratin Hidalgo",
+          "url": "https://hidalgo.quadratin.com.mx/municipios/muere-motociclista-tras-accidente-en-la-autopista-mexico-queretaro-en-tepeji/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 20.1,
+          "lon": -99.5
+        },
+        {
           "id": "417ced5e",
           "tipo": "cierre_parcial",
           "ruta": "Carreteras Bloqueadas en México Hoy, Sábado 14 de Noviembre de…",
@@ -28,39 +44,23 @@
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL"
-        },
-        {
-          "id": "e7814334",
-          "tipo": "cierre_parcial",
-          "ruta": "carretera Huimanguillo-Cárdenas este sábado",
-          "descripcion": "Habrá cierres intermitentes en carretera Huimanguillo-Cárdenas este sábado. Instalará SICT superestructura para un puente peatonal de 10 a 15 horas",
-          "recomendacion": "",
-          "fecha": "14 noviembre 2026 · 06:45 CST",
-          "fecha_iso": "2026-11-14T06:45:00-06:00",
-          "fuente": "Quadratin Tabasco",
-          "url": "https://tabasco.quadratin.com.mx/municipios/habra-cierres-intermitentes-en-carretera-huimanguillo-cardenas-este-sabado/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 21.0,
-          "lon": -104.0
         }
       ]
     }
   ],
   "para_mapa": [
     {
-      "id": "e7814334",
+      "id": "2ffd955f",
       "tipo": "cierre_parcial",
-      "ruta": "carretera Huimanguillo-Cárdenas este sábado",
-      "descripcion": "Habrá cierres intermitentes en carretera Huimanguillo-Cárdenas este sábado. Instalará SICT superestructura para un puente peatonal de 10 a 15 horas",
-      "fecha": "14 noviembre 2026 · 06:45 CST",
-      "fuente": "Quadratin Tabasco",
-      "url": "https://tabasco.quadratin.com.mx/municipios/habra-cierres-intermitentes-en-carretera-huimanguillo-cardenas-este-sabado/",
+      "ruta": "autopista México-Querétaro en Tepeji",
+      "descripcion": "Muere motociclista tras accidente en la autopista México-Querétaro en Tepeji. TEPEJI DEL RÍO, Hgo. 14 de noviembre de 2026.- Un motociclista perdió la vida tras ser atropellado a la altura del kilómetro 47 de la autopista México–Querétaro, con dirección a la Ciudad de México, en los límites de Tepeji del Río con Jilotepec, Estado de México, lo que mantiene parcialmente cerrada la circulación en la […] The post Muere motociclista tras accidente en la autopista México-Querétaro en Tepeji appeared ",
+      "fecha": "14 noviembre 2026 · 13:44 CST",
+      "fuente": "Quadratin Hidalgo",
+      "url": "https://hidalgo.quadratin.com.mx/municipios/muere-motociclista-tras-accidente-en-la-autopista-mexico-queretaro-en-tepeji/",
       "dot_color": "#e67e22",
       "badge_txt": "CIERRE PARCIAL",
-      "lat": 21.0,
-      "lon": -104.0
+      "lat": 20.1,
+      "lon": -99.5
     }
   ]
 }
