@@ -1,6 +1,6 @@
 {
-  "ultima_actualizacion": "2026-11-14T18:32:27.105667-06:00",
-  "ultima_actualizacion_legible": "14 de noviembre de 2026 · 18:32 CST",
+  "ultima_actualizacion": "2026-11-15T01:11:19.876649-06:00",
+  "ultima_actualizacion_legible": "15 de noviembre de 2026 · 01:11 CST",
   "total": 3,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
@@ -9,6 +9,31 @@
   ],
   "grupos": [
     {
+      "tipo": "cierre_total",
+      "color": "rojo",
+      "icono": "🔴",
+      "label": "CIERRE TOTAL",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "7dd01573",
+          "tipo": "cierre_total",
+          "ruta": "Cierre total en la autopista México-Querétaro por accidente de tráiler;…",
+          "descripcion": "Cierre total en la autopista México-Querétaro por accidente de tráiler; reportan filas kilométricas - López-Dóriga Digital. Cierre total en la autopista México-Querétaro por accidente de tráiler; reportan filas kilométricas López-Dóriga Digital",
+          "recomendacion": "",
+          "fecha": "14 noviembre 2026 · 22:00 CST",
+          "fecha_iso": "2026-11-14T22:00:00-06:00",
+          "fuente": "López-Dóriga Digital",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPa3NVY1lsZkNzOWhtUzA4WjJzY3d3cXM4YUFsQ2hCUUh5M192dmw4UE14cjdRaDFLazkxWF9sRlBleTh2eWptdTdHdmJPTE8ybHJQbF8zYUZtZWVjYmRyX2RNanhkVThMUjM1N19YUDlDbDVVSmVSbFp0Tm93bHM5Nks3UFJaSEo1WExFdi13dUhpYl9nbWdDSHlaOHUyaEtpd1dlTE1nZzBwRGVzODZoNXhaSG1tSzV2bzkteVNKQnVKMG41b2RzOGJhRWw?oc=5",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL",
+          "lat": 20.1,
+          "lon": -99.5
+        }
+      ]
+    },
+    {
       "tipo": "cierre_parcial",
       "color": "amarillo",
       "icono": "🟡",
@@ -16,18 +41,20 @@
       "col2": true,
       "alertas": [
         {
-          "id": "0341bed9",
+          "id": "6a623614",
           "tipo": "cierre_parcial",
-          "ruta": "Registra nuevamente la México-Qro otro accidente; ahora en Izcalli…",
-          "descripcion": "Registra nuevamente la México-Qro otro accidente; ahora en Izcalli. Automovilistas que circulaban por la zona documentaron la carga vehicular que se generó debido al cierre parcial de la vialidad",
+          "ruta": "Liberan la México-Querétaro tras accidente de tráiler en Huehuetoca -…",
+          "descripcion": "Liberan la México-Querétaro tras accidente de tráiler en Huehuetoca - El Sol de México. Liberan la México-Querétaro tras accidente de tráiler en Huehuetoca El Sol de México",
           "recomendacion": "",
-          "fecha": "14 noviembre 2026 · 15:00 CST",
-          "fecha_iso": "2026-11-14T15:00:00-06:00",
-          "fuente": "Quadratin EdoMex",
-          "url": "https://edomex.quadratin.com.mx/registra-nuevamente-la-mexico-qro-otro-accidente-ahora-en-izcalli/",
+          "fecha": "14 noviembre 2026 · 22:38 CST",
+          "fecha_iso": "2026-11-14T22:38:00-06:00",
+          "fuente": "El Sol de México",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPc2laSkp5a0pTblZpS1pTVUhzME95LWc3ejZyel9rRkM0a05XY2MxZDFvY1Y5SzlvdXY3eHdqRGJHTVg1cV9fbWp5akEzRzdsT056N1p4Z3lPWU5lSE82R3dMdzIzWXpjWmhiYWpONFV1RGQwSW0xckR0WmZhb1IybXdpM3NjcXpZdERXZ1UxWGlvSjhma2VPUUpXWS10SFVwMldYQ0VRbUllLXg1NkRROExvdlU?oc=5",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 20.1,
+          "lon": -99.5
         },
         {
           "id": "2ffd955f",
@@ -44,25 +71,37 @@
           "badge_txt": "CIERRE PARCIAL",
           "lat": 20.1,
           "lon": -99.5
-        },
-        {
-          "id": "417ced5e",
-          "tipo": "cierre_parcial",
-          "ruta": "Carreteras Bloqueadas en México Hoy, Sábado 14 de Noviembre de…",
-          "descripcion": "Carreteras Bloqueadas en México Hoy, Sábado 14 de Noviembre de 2026 - N+. Carreteras Bloqueadas en México Hoy, Sábado 14 de Noviembre de 2026 N+",
-          "recomendacion": "",
-          "fecha": "14 noviembre 2026 · 06:55 CST",
-          "fecha_iso": "2026-11-14T06:55:00-06:00",
-          "fuente": "N+",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSFdPNVU5TnJKZ0hJM1VNc1RUOFdyRmtGbHhpUW5EenVXbG5FakIxSmVTUTc0Q2dEUUl3cGJEd1ZtMHlhZE15eEhPR0dtaXVyYXZkNjFuUFdqd3BrNmg2QVpDbFZGYW1MN0Zuam01eUlPNzdYNUhoendnNkxRTE9Zd25HUG9LdUhwZVJmbEVKcXRkYnQ4aWcyazBuZ0dOQTRvMDBV?oc=5",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
         }
       ]
     }
   ],
   "para_mapa": [
+    {
+      "id": "6a623614",
+      "tipo": "cierre_parcial",
+      "ruta": "Liberan la México-Querétaro tras accidente de tráiler en Huehuetoca -…",
+      "descripcion": "Liberan la México-Querétaro tras accidente de tráiler en Huehuetoca - El Sol de México. Liberan la México-Querétaro tras accidente de tráiler en Huehuetoca El Sol de México",
+      "fecha": "14 noviembre 2026 · 22:38 CST",
+      "fuente": "El Sol de México",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPc2laSkp5a0pTblZpS1pTVUhzME95LWc3ejZyel9rRkM0a05XY2MxZDFvY1Y5SzlvdXY3eHdqRGJHTVg1cV9fbWp5akEzRzdsT056N1p4Z3lPWU5lSE82R3dMdzIzWXpjWmhiYWpONFV1RGQwSW0xckR0WmZhb1IybXdpM3NjcXpZdERXZ1UxWGlvSjhma2VPUUpXWS10SFVwMldYQ0VRbUllLXg1NkRROExvdlU?oc=5",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 20.1,
+      "lon": -99.5
+    },
+    {
+      "id": "7dd01573",
+      "tipo": "cierre_total",
+      "ruta": "Cierre total en la autopista México-Querétaro por accidente de tráiler;…",
+      "descripcion": "Cierre total en la autopista México-Querétaro por accidente de tráiler; reportan filas kilométricas - López-Dóriga Digital. Cierre total en la autopista México-Querétaro por accidente de tráiler; reportan filas kilométricas López-Dóriga Digital",
+      "fecha": "14 noviembre 2026 · 22:00 CST",
+      "fuente": "López-Dóriga Digital",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPa3NVY1lsZkNzOWhtUzA4WjJzY3d3cXM4YUFsQ2hCUUh5M192dmw4UE14cjdRaDFLazkxWF9sRlBleTh2eWptdTdHdmJPTE8ybHJQbF8zYUZtZWVjYmRyX2RNanhkVThMUjM1N19YUDlDbDVVSmVSbFp0Tm93bHM5Nks3UFJaSEo1WExFdi13dUhpYl9nbWdDSHlaOHUyaEtpd1dlTE1nZzBwRGVzODZoNXhaSG1tSzV2bzkteVNKQnVKMG41b2RzOGJhRWw?oc=5",
+      "dot_color": "#e74c3c",
+      "badge_txt": "CIERRE TOTAL",
+      "lat": 20.1,
+      "lon": -99.5
+    },
     {
       "id": "2ffd955f",
       "tipo": "cierre_parcial",
