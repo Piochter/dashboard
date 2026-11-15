@@ -1,13 +1,38 @@
 {
-  "ultima_actualizacion": "2026-11-15T13:57:57.890855-06:00",
-  "ultima_actualizacion_legible": "15 de noviembre de 2026 · 13:57 CST",
+  "ultima_actualizacion": "2026-11-15T17:43:32.033024-06:00",
+  "ultima_actualizacion_legible": "15 de noviembre de 2026 · 17:43 CST",
   "total": 3,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News",
+    "Medios nacionales",
     "Quadratin + regionales"
   ],
   "grupos": [
+    {
+      "tipo": "bloqueo",
+      "color": "rojo",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "161954a8",
+          "tipo": "bloqueo",
+          "ruta": "Agricultores anuncian bloqueos en cinco estados el 17 de noviembre:…",
+          "descripcion": "Agricultores anuncian bloqueos en cinco estados el 17 de noviembre: lista de carreteras afectadas. La Confederación Agropecuaria de México confirmó puntos de movilización en Guanajuato, Querétaro, Michoacán, Campeche y Jalisco para exigir el cumplimiento de acuerdos con la Sader",
+          "recomendacion": "",
+          "fecha": "15 noviembre 2026 · 12:25 CST",
+          "fecha_iso": "2026-11-15T12:25:00-06:00",
+          "fuente": "24 Horas",
+          "url": "https://24-horas.mx/estados/productores-anuncian-movilizacion-en-25-puntos-de-cinco-estados-el-17-de-noviembre/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 20.66,
+          "lon": -103.35
+        }
+      ]
+    },
     {
       "tipo": "cierre_parcial",
       "color": "amarillo",
@@ -16,18 +41,20 @@
       "col2": true,
       "alertas": [
         {
-          "id": "faa7cb80",
+          "id": "c412e35a",
           "tipo": "cierre_parcial",
-          "ruta": "Asesinan a tiros a esposa de exalcalde de Olinalá en…",
-          "descripcion": "Asesinan a tiros a esposa de exalcalde de Olinalá en presunto asalto. El hecho, sobre la Autopista en Huitzuco",
+          "ruta": "carretera a Mitla",
+          "descripcion": "Mueren 2 personas en choque sobre la carretera a Mitla. El accidente ocurrió en el entronque de la carretera federal 190 con la vía de cuota que comunica con Tehuantepec",
           "recomendacion": "",
-          "fecha": "15 noviembre 2026 · 10:09 CST",
-          "fecha_iso": "2026-11-15T10:09:00-06:00",
-          "fuente": "Quadratin Guerrero",
-          "url": "https://guerrero.quadratin.com.mx/asesinan-a-tiros-a-esposa-de-exalcalde-de-olinala-en-presunto-asalto/",
+          "fecha": "15 noviembre 2026 · 16:22 CST",
+          "fecha_iso": "2026-11-15T16:22:00-06:00",
+          "fuente": "Quadratin Oaxaca",
+          "url": "https://oaxaca.quadratin.com.mx/mueren-2-personas-en-choque-sobre-la-carretera-a-mitla/",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 16.75,
+          "lon": -93.12
         },
         {
           "id": "37e5dd1d",
@@ -44,27 +71,37 @@
           "badge_txt": "CIERRE PARCIAL",
           "lat": 20.11,
           "lon": -98.73
-        },
-        {
-          "id": "6a623614",
-          "tipo": "cierre_parcial",
-          "ruta": "Liberan la México-Querétaro tras accidente de tráiler en Huehuetoca -…",
-          "descripcion": "Liberan la México-Querétaro tras accidente de tráiler en Huehuetoca - El Sol de México. Liberan la México-Querétaro tras accidente de tráiler en Huehuetoca El Sol de México",
-          "recomendacion": "",
-          "fecha": "15 noviembre 2026 · 04:16 CST",
-          "fecha_iso": "2026-11-15T04:16:00-06:00",
-          "fuente": "El Sol de México",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPc2laSkp5a0pTblZpS1pTVUhzME95LWc3ejZyel9rRkM0a05XY2MxZDFvY1Y5SzlvdXY3eHdqRGJHTVg1cV9fbWp5akEzRzdsT056N1p4Z3lPWU5lSE82R3dMdzIzWXpjWmhiYWpONFV1RGQwSW0xckR0WmZhb1IybXdpM3NjcXpZdERXZ1UxWGlvSjhma2VPUUpXWS10SFVwMldYQ0VRbUllLXg1NkRROExvdlU?oc=5",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 20.1,
-          "lon": -99.5
         }
       ]
     }
   ],
   "para_mapa": [
+    {
+      "id": "c412e35a",
+      "tipo": "cierre_parcial",
+      "ruta": "carretera a Mitla",
+      "descripcion": "Mueren 2 personas en choque sobre la carretera a Mitla. El accidente ocurrió en el entronque de la carretera federal 190 con la vía de cuota que comunica con Tehuantepec",
+      "fecha": "15 noviembre 2026 · 16:22 CST",
+      "fuente": "Quadratin Oaxaca",
+      "url": "https://oaxaca.quadratin.com.mx/mueren-2-personas-en-choque-sobre-la-carretera-a-mitla/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 16.75,
+      "lon": -93.12
+    },
+    {
+      "id": "161954a8",
+      "tipo": "bloqueo",
+      "ruta": "Agricultores anuncian bloqueos en cinco estados el 17 de noviembre:…",
+      "descripcion": "Agricultores anuncian bloqueos en cinco estados el 17 de noviembre: lista de carreteras afectadas. La Confederación Agropecuaria de México confirmó puntos de movilización en Guanajuato, Querétaro, Michoacán, Campeche y Jalisco para exigir el cumplimiento de acuerdos con la Sader",
+      "fecha": "15 noviembre 2026 · 12:25 CST",
+      "fuente": "24 Horas",
+      "url": "https://24-horas.mx/estados/productores-anuncian-movilizacion-en-25-puntos-de-cinco-estados-el-17-de-noviembre/",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 20.66,
+      "lon": -103.35
+    },
     {
       "id": "37e5dd1d",
       "tipo": "cierre_parcial",
@@ -77,19 +114,6 @@
       "badge_txt": "CIERRE PARCIAL",
       "lat": 20.11,
       "lon": -98.73
-    },
-    {
-      "id": "6a623614",
-      "tipo": "cierre_parcial",
-      "ruta": "Liberan la México-Querétaro tras accidente de tráiler en Huehuetoca -…",
-      "descripcion": "Liberan la México-Querétaro tras accidente de tráiler en Huehuetoca - El Sol de México. Liberan la México-Querétaro tras accidente de tráiler en Huehuetoca El Sol de México",
-      "fecha": "15 noviembre 2026 · 04:16 CST",
-      "fuente": "El Sol de México",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPc2laSkp5a0pTblZpS1pTVUhzME95LWc3ejZyel9rRkM0a05XY2MxZDFvY1Y5SzlvdXY3eHdqRGJHTVg1cV9fbWp5akEzRzdsT056N1p4Z3lPWU5lSE82R3dMdzIzWXpjWmhiYWpONFV1RGQwSW0xckR0WmZhb1IybXdpM3NjcXpZdERXZ1UxWGlvSjhma2VPUUpXWS10SFVwMldYQ0VRbUllLXg1NkRROExvdlU?oc=5",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 20.1,
-      "lon": -99.5
     }
   ]
 }
