@@ -1,6 +1,6 @@
 {
-  "ultima_actualizacion": "2026-11-15T21:09:20.043072-06:00",
-  "ultima_actualizacion_legible": "15 de noviembre de 2026 · 21:09 CST",
+  "ultima_actualizacion": "2026-11-16T05:05:17.056383-06:00",
+  "ultima_actualizacion_legible": "16 de noviembre de 2026 · 05:05 CST",
   "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
@@ -16,20 +16,20 @@
       "col2": false,
       "alertas": [
         {
-          "id": "161954a8",
+          "id": "35571224",
           "tipo": "bloqueo",
-          "ruta": "Agricultores anuncian bloqueos en cinco estados el 17 de noviembre:…",
-          "descripcion": "Agricultores anuncian bloqueos en cinco estados el 17 de noviembre: lista de carreteras afectadas. La Confederación Agropecuaria de México confirmó puntos de movilización en Guanajuato, Querétaro, Michoacán, Campeche y Jalisco para exigir el cumplimiento de acuerdos con la Sader",
+          "ruta": "Trabajadores de la UAEM aceptan plan de pagos de nivelación…",
+          "descripcion": "Trabajadores de la UAEM aceptan plan de pagos de nivelación salarial. Cuernavaca, Mor., Tras cuatro jornadas de protestas y la amenaza de bloquear autopistas federales y tomar casetas de peaje este fin de semana, el Sindicato de Trabajadores Administrativos de la Universidad Autónoma del Estado de Morelos (Stauaem) aceptó la propuesta de la rectoría para pagar en tres fechas la homologación salarial que se adeuda a mil 100 trabajadores activos y jubilados.",
           "recomendacion": "",
-          "fecha": "15 noviembre 2026 · 12:25 CST",
-          "fecha_iso": "2026-11-15T12:25:00-06:00",
-          "fuente": "24 Horas",
-          "url": "https://24-horas.mx/estados/productores-anuncian-movilizacion-en-25-puntos-de-cinco-estados-el-17-de-noviembre/",
+          "fecha": "16 noviembre 2026 · 04:19 CST",
+          "fecha_iso": "2026-11-16T04:19:00-06:00",
+          "fuente": "La Jornada Estados",
+          "url": "https://www.jornada.com.mx/2026/11/16/estados/033n3est?partner=rss",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO",
-          "lat": 20.66,
-          "lon": -103.35
+          "lat": 18.67,
+          "lon": -99.1
         }
       ]
     },
@@ -41,50 +41,35 @@
       "col2": true,
       "alertas": [
         {
-          "id": "c412e35a",
+          "id": "f378f67e",
           "tipo": "cierre_parcial",
-          "ruta": "carretera a Mitla",
-          "descripcion": "Mueren 2 personas en choque sobre la carretera a Mitla. El accidente ocurrió en el entronque de la carretera federal 190 con la vía de cuota que comunica con Tehuantepec",
+          "ruta": "Chocan 2 patrullas de la Policía de Cárdenas; 2 agentes…",
+          "descripcion": "Chocan 2 patrullas de la Policía de Cárdenas; 2 agentes salieron heridos. El percance ocurrió sobre el Periférico; equipos de emergencia tardaron en llegar",
           "recomendacion": "",
-          "fecha": "15 noviembre 2026 · 16:22 CST",
-          "fecha_iso": "2026-11-15T16:22:00-06:00",
-          "fuente": "Quadratin Oaxaca",
-          "url": "https://oaxaca.quadratin.com.mx/mueren-2-personas-en-choque-sobre-la-carretera-a-mitla/",
+          "fecha": "15 noviembre 2026 · 22:30 CST",
+          "fecha_iso": "2026-11-15T22:30:00-06:00",
+          "fuente": "Quadratin Tabasco",
+          "url": "https://tabasco.quadratin.com.mx/principal/chocan-2-patrullas-de-la-policia-de-cardenas-2-agentes-salieron-heridos/",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 16.75,
-          "lon": -93.12
+          "badge_txt": "CIERRE PARCIAL"
         }
       ]
     }
   ],
   "para_mapa": [
     {
-      "id": "c412e35a",
-      "tipo": "cierre_parcial",
-      "ruta": "carretera a Mitla",
-      "descripcion": "Mueren 2 personas en choque sobre la carretera a Mitla. El accidente ocurrió en el entronque de la carretera federal 190 con la vía de cuota que comunica con Tehuantepec",
-      "fecha": "15 noviembre 2026 · 16:22 CST",
-      "fuente": "Quadratin Oaxaca",
-      "url": "https://oaxaca.quadratin.com.mx/mueren-2-personas-en-choque-sobre-la-carretera-a-mitla/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 16.75,
-      "lon": -93.12
-    },
-    {
-      "id": "161954a8",
+      "id": "35571224",
       "tipo": "bloqueo",
-      "ruta": "Agricultores anuncian bloqueos en cinco estados el 17 de noviembre:…",
-      "descripcion": "Agricultores anuncian bloqueos en cinco estados el 17 de noviembre: lista de carreteras afectadas. La Confederación Agropecuaria de México confirmó puntos de movilización en Guanajuato, Querétaro, Michoacán, Campeche y Jalisco para exigir el cumplimiento de acuerdos con la Sader",
-      "fecha": "15 noviembre 2026 · 12:25 CST",
-      "fuente": "24 Horas",
-      "url": "https://24-horas.mx/estados/productores-anuncian-movilizacion-en-25-puntos-de-cinco-estados-el-17-de-noviembre/",
+      "ruta": "Trabajadores de la UAEM aceptan plan de pagos de nivelación…",
+      "descripcion": "Trabajadores de la UAEM aceptan plan de pagos de nivelación salarial. Cuernavaca, Mor., Tras cuatro jornadas de protestas y la amenaza de bloquear autopistas federales y tomar casetas de peaje este fin de semana, el Sindicato de Trabajadores Administrativos de la Universidad Autónoma del Estado de Morelos (Stauaem) aceptó la propuesta de la rectoría para pagar en tres fechas la homologación salarial que se adeuda a mil 100 trabajadores activos y jubilados.",
+      "fecha": "16 noviembre 2026 · 04:19 CST",
+      "fuente": "La Jornada Estados",
+      "url": "https://www.jornada.com.mx/2026/11/16/estados/033n3est?partner=rss",
       "dot_color": "#8e44ad",
       "badge_txt": "BLOQUEO",
-      "lat": 20.66,
-      "lon": -103.35
+      "lat": 18.67,
+      "lon": -99.1
     }
   ]
 }
