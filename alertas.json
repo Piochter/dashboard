@@ -1,12 +1,69 @@
 {
-  "ultima_actualizacion": "2026-11-17T06:13:07.246462-06:00",
-  "ultima_actualizacion_legible": "17 de noviembre de 2026 · 06:13 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-11-17T14:53:48.764856-06:00",
+  "ultima_actualizacion_legible": "17 de noviembre de 2026 · 14:53 CST",
+  "total": 5,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
+    "Medios nacionales",
+    "Quadratin + regionales",
     "Telegram"
   ],
   "grupos": [
+    {
+      "tipo": "bloqueo",
+      "color": "rojo",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "c1a53fc4",
+          "tipo": "bloqueo",
+          "ruta": "Agricultores bloquean 5 carreteras clave de Jalisco…",
+          "descripcion": "Agricultores bloquean 5 carreteras clave de Jalisco. Esta jornada forma parte de una protesta nacional convocada por organizaciones agropecuarias en al menos cinco estados del país",
+          "recomendacion": "",
+          "fecha": "17 noviembre 2026 · 11:59 CST",
+          "fecha_iso": "2026-11-17T11:59:00-06:00",
+          "fuente": "Quadratin Jalisco",
+          "url": "https://jalisco.quadratin.com.mx/sucesos/agricultores-bloquean-5-carreteras-clave-de-jalisco/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 20.66,
+          "lon": -103.35
+        },
+        {
+          "id": "e9b692da",
+          "tipo": "bloqueo",
+          "ruta": "Termina bloqueo en Santa Fe por Lenin Canchola, líder criminal…",
+          "descripcion": "Termina bloqueo en Santa Fe por Lenin Canchola, líder criminal preso en Nayarit. Autoridades detectaron que manifestantes recibieron pago para cerrar vialidades en Cuajimalpa en apoyo a Lenin Canchola, recluido en un penal de Nayarit",
+          "recomendacion": "",
+          "fecha": "17 noviembre 2026 · 11:10 CST",
+          "fecha_iso": "2026-11-17T11:10:00-06:00",
+          "fuente": "24 Horas",
+          "url": "https://24-horas.mx/cdmx/bloqueo-vasco-de-quiroga-por-lenin-canchola-lider-criminal-preso-en-nayarit/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 21.75,
+          "lon": -104.85
+        },
+        {
+          "id": "7f44a072",
+          "tipo": "bloqueo",
+          "ruta": "Bloqueo de campesinos, hoy 17 de noviembre; sigue EN VIVO…",
+          "descripcion": "Bloqueo de campesinos, hoy 17 de noviembre; sigue EN VIVO las afectaciones en carreteras. Este martes 17 de noviembre campesinos y agricultores llevarán a cabo un bloqueo en al menos 25 puntos carreteros de 5 estados de la República Mexicana. La Confederación Agropecuaria de México informó que se movilizarán para exigir que se cumplan sus peticiones luego de que se incumplieran los compromisos que establecieron con la Secretaría de […]",
+          "recomendacion": "",
+          "fecha": "17 noviembre 2026 · 09:10 CST",
+          "fecha_iso": "2026-11-17T09:10:00-06:00",
+          "fuente": "24 Horas",
+          "url": "https://24-horas.mx/estados/bloqueo-carretero-de-campesinos-sigue-en-vivo-las-afectaciones-hoy-17-de-noviembre/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        }
+      ]
+    },
     {
       "tipo": "cierre_parcial",
       "color": "amarillo",
@@ -15,37 +72,92 @@
       "col2": true,
       "alertas": [
         {
-          "id": "904254a7",
+          "id": "b97ba843",
           "tipo": "cierre_parcial",
-          "ruta": "**Niños del Necaxa Chiapas, varados en carretera: denuncian a empresa…",
-          "descripcion": "**Niños del Necaxa Chiapas, varados en carretera: denuncian a empresa de autobuses de Tapachula**\n\nPadres del Club Necaxa Chiapas denuncian que la unidad que rentaron se apaga y los dejó varados con niños en La Esperanza, de regreso a Tuxtla.\n\n[Leer la nota completa](https://alertachiapas.com/2026/11/16/necaxa-chiapas-ninos-varados-carretera-autobus-diamantes-del-soconusco-tapachula/)",
+          "ruta": "carretera durante su regreso de la Ciudad de México",
+          "descripcion": "**Menores del Necaxa Chiapas llegan a Tuxtla tras quedar varados en carretera**\n\nTras quedar varados en carretera durante su regreso de la Ciudad de México, llegaron en la mañana de este martes después de casi 20 horas de viaje. Después de quedar\n\n[Leer la nota completa](https://alertachiapas.com/2026/11/17/menores-del-necaxa-chiapas-llegan-a-tuxtla-tras-quedar-varados-en-carretera/)",
           "recomendacion": "",
-          "fecha": "16 noviembre 2026 · 23:55 CST",
-          "fecha_iso": "2026-11-16T23:55:00-06:00",
+          "fecha": "17 noviembre 2026 · 11:55 CST",
+          "fecha_iso": "2026-11-17T11:55:00-06:00",
           "fuente": "Telegram @AlertaChiapas",
-          "url": "https://t.me/AlertaChiapas/3116",
+          "url": "https://t.me/AlertaChiapas/3131",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL",
           "lat": 16.75,
           "lon": -93.12
+        },
+        {
+          "id": "306aeaef",
+          "tipo": "cierre_parcial",
+          "ruta": "⚠️Ch*qu3 en la #México-#Querétaro genera complicaciones rumbo a #CDMX 😱👇…",
+          "descripcion": "⚠️Ch*qu3 en la #México-#Querétaro genera complicaciones rumbo a #CDMX 😱👇\n\nhttps://lajornadaestadodemexico.com/choque-en-la-mexico-queretaro-complicaciones-rumbo-a-cdmx/",
+          "recomendacion": "",
+          "fecha": "17 noviembre 2026 · 07:03 CST",
+          "fecha_iso": "2026-11-17T07:03:00-06:00",
+          "fuente": "Telegram @jornadaedomex",
+          "url": "https://t.me/jornadaedomex/12639",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 20.1,
+          "lon": -99.5
         }
       ]
     }
   ],
   "para_mapa": [
     {
-      "id": "904254a7",
+      "id": "c1a53fc4",
+      "tipo": "bloqueo",
+      "ruta": "Agricultores bloquean 5 carreteras clave de Jalisco…",
+      "descripcion": "Agricultores bloquean 5 carreteras clave de Jalisco. Esta jornada forma parte de una protesta nacional convocada por organizaciones agropecuarias en al menos cinco estados del país",
+      "fecha": "17 noviembre 2026 · 11:59 CST",
+      "fuente": "Quadratin Jalisco",
+      "url": "https://jalisco.quadratin.com.mx/sucesos/agricultores-bloquean-5-carreteras-clave-de-jalisco/",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 20.66,
+      "lon": -103.35
+    },
+    {
+      "id": "b97ba843",
       "tipo": "cierre_parcial",
-      "ruta": "**Niños del Necaxa Chiapas, varados en carretera: denuncian a empresa…",
-      "descripcion": "**Niños del Necaxa Chiapas, varados en carretera: denuncian a empresa de autobuses de Tapachula**\n\nPadres del Club Necaxa Chiapas denuncian que la unidad que rentaron se apaga y los dejó varados con niños en La Esperanza, de regreso a Tuxtla.\n\n[Leer la nota completa](https://alertachiapas.com/2026/11/16/necaxa-chiapas-ninos-varados-carretera-autobus-diamantes-del-soconusco-tapachula/)",
-      "fecha": "16 noviembre 2026 · 23:55 CST",
+      "ruta": "carretera durante su regreso de la Ciudad de México",
+      "descripcion": "**Menores del Necaxa Chiapas llegan a Tuxtla tras quedar varados en carretera**\n\nTras quedar varados en carretera durante su regreso de la Ciudad de México, llegaron en la mañana de este martes después de casi 20 horas de viaje. Después de quedar\n\n[Leer la nota completa](https://alertachiapas.com/2026/11/17/menores-del-necaxa-chiapas-llegan-a-tuxtla-tras-quedar-varados-en-carretera/)",
+      "fecha": "17 noviembre 2026 · 11:55 CST",
       "fuente": "Telegram @AlertaChiapas",
-      "url": "https://t.me/AlertaChiapas/3116",
+      "url": "https://t.me/AlertaChiapas/3131",
       "dot_color": "#e67e22",
       "badge_txt": "CIERRE PARCIAL",
       "lat": 16.75,
       "lon": -93.12
+    },
+    {
+      "id": "e9b692da",
+      "tipo": "bloqueo",
+      "ruta": "Termina bloqueo en Santa Fe por Lenin Canchola, líder criminal…",
+      "descripcion": "Termina bloqueo en Santa Fe por Lenin Canchola, líder criminal preso en Nayarit. Autoridades detectaron que manifestantes recibieron pago para cerrar vialidades en Cuajimalpa en apoyo a Lenin Canchola, recluido en un penal de Nayarit",
+      "fecha": "17 noviembre 2026 · 11:10 CST",
+      "fuente": "24 Horas",
+      "url": "https://24-horas.mx/cdmx/bloqueo-vasco-de-quiroga-por-lenin-canchola-lider-criminal-preso-en-nayarit/",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 21.75,
+      "lon": -104.85
+    },
+    {
+      "id": "306aeaef",
+      "tipo": "cierre_parcial",
+      "ruta": "⚠️Ch*qu3 en la #México-#Querétaro genera complicaciones rumbo a #CDMX 😱👇…",
+      "descripcion": "⚠️Ch*qu3 en la #México-#Querétaro genera complicaciones rumbo a #CDMX 😱👇\n\nhttps://lajornadaestadodemexico.com/choque-en-la-mexico-queretaro-complicaciones-rumbo-a-cdmx/",
+      "fecha": "17 noviembre 2026 · 07:03 CST",
+      "fuente": "Telegram @jornadaedomex",
+      "url": "https://t.me/jornadaedomex/12639",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 20.1,
+      "lon": -99.5
     }
   ]
 }
