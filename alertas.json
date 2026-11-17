@@ -1,70 +1,12 @@
 {
-  "ultima_actualizacion": "2026-11-16T14:59:55.242678-06:00",
-  "ultima_actualizacion_legible": "16 de noviembre de 2026 · 14:59 CST",
-  "total": 5,
+  "ultima_actualizacion": "2026-11-16T21:26:50.655386-06:00",
+  "ultima_actualizacion_legible": "16 de noviembre de 2026 · 21:26 CST",
+  "total": 1,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News",
-    "Medios nacionales",
-    "Quadratin + regionales",
-    "Telegram"
+    "Medios regionales"
   ],
   "grupos": [
-    {
-      "tipo": "bloqueo",
-      "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "d47c10e6",
-          "tipo": "bloqueo",
-          "ruta": "Bloqueos carreteras HOY LUNES 16 de noviembre: Autopistas cerradas en…",
-          "descripcion": "Bloqueos carreteras HOY LUNES 16 de noviembre: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY LUNES 16 de noviembre: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
-          "recomendacion": "",
-          "fecha": "16 noviembre 2026 · 07:26 CST",
-          "fecha_iso": "2026-11-16T07:26:00-06:00",
-          "fuente": "Eje Central",
-          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNU0phU2p6djJORUxYaldMZnltZkppeEREczZ2Q0k0U0k5U2Q4VWJ1TEdYdEpDeE1zYTZsLURfYm1EbWFYT3d4UDlUamxlUThESjQ2azViYjdzRjJjUFFXM29TLU02dGVKRV95RGloTG9WeHQ2dmxzWlNtYlREenY0UWVjdm5PR096QWJvZF9WNU05aU5kUUw1cUVyU0U2d1owdTBwcWJIZm9mdTQ4MDFLUktBek9hWXA4SmpPMW9fWVZkb0UwSkpHVTlaYVBVaXliN2tnd0hRb2JwQzN6U2Fhb21zNWtVc0FHMzZMREdtSW5JNTNX?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        },
-        {
-          "id": "f877cfe7",
-          "tipo": "bloqueo",
-          "ruta": "Trabajadores de la UAEM aceptan plan de pagos de nivelación…",
-          "descripcion": "Trabajadores de la UAEM aceptan plan de pagos de nivelación salarial\nhttps://www.jornada.com.mx/2026/11/16/estados/033n3est?partner=rss\n\nCuernavaca, Mor., Tras cuatro jornadas de protestas y la amenaza de bloquear autopistas federales y tomar casetas de peaje este fin de semana, el Sindicato de Trabajadores Administrativos de la Universidad Autónoma del Estado de Morelos (Stauaem) aceptó la propuesta de la rectoría para pagar en tres fechas la homologación salarial que se adeuda a mil 100 trabaj",
-          "recomendacion": "",
-          "fecha": "16 noviembre 2026 · 05:10 CST",
-          "fecha_iso": "2026-11-16T05:10:00-06:00",
-          "fuente": "Telegram @NOTMEX",
-          "url": "https://t.me/NOTMEX/187278",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 18.67,
-          "lon": -99.1
-        },
-        {
-          "id": "35571224",
-          "tipo": "bloqueo",
-          "ruta": "Trabajadores de la UAEM aceptan plan de pagos de nivelación…",
-          "descripcion": "Trabajadores de la UAEM aceptan plan de pagos de nivelación salarial. Cuernavaca, Mor., Tras cuatro jornadas de protestas y la amenaza de bloquear autopistas federales y tomar casetas de peaje este fin de semana, el Sindicato de Trabajadores Administrativos de la Universidad Autónoma del Estado de Morelos (Stauaem) aceptó la propuesta de la rectoría para pagar en tres fechas la homologación salarial que se adeuda a mil 100 trabajadores activos y jubilados.",
-          "recomendacion": "",
-          "fecha": "16 noviembre 2026 · 04:19 CST",
-          "fecha_iso": "2026-11-16T04:19:00-06:00",
-          "fuente": "La Jornada Estados",
-          "url": "https://www.jornada.com.mx/2026/11/16/estados/033n3est?partner=rss",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 18.67,
-          "lon": -99.1
-        }
-      ]
-    },
     {
       "tipo": "cierre_parcial",
       "color": "amarillo",
@@ -73,92 +15,37 @@
       "col2": true,
       "alertas": [
         {
-          "id": "47be6be6",
+          "id": "7ae8bb12",
           "tipo": "cierre_parcial",
-          "ruta": "Alertan por asaltos en la México-Toluca y Toluca-Atlacomulco…",
-          "descripcion": "Alertan por asaltos en la México-Toluca y Toluca-Atlacomulco. Reportan obstáculos en las carreteras y presencia de presuntos delincuentes armados; llaman a extremar precauciones",
+          "ruta": "Aseguran 106 kilos de marihuana y 364 cartuchos en Chihuahua…",
+          "descripcion": "Aseguran 106 kilos de marihuana y 364 cartuchos en Chihuahua. Elementos de Seguridad Pública localizaron droga, municiones, cargadores y dos vehículos con reporte de robo en una carretera de la localidad",
           "recomendacion": "",
-          "fecha": "16 noviembre 2026 · 10:00 CST",
-          "fecha_iso": "2026-11-16T10:00:00-06:00",
-          "fuente": "Quadratin EdoMex",
-          "url": "https://edomex.quadratin.com.mx/alertan-por-asaltos-en-la-mexico-toluca-y-toluca-atlacomulco/",
+          "fecha": "16 noviembre 2026 · 20:30 CST",
+          "fecha_iso": "2026-11-16T20:30:00-06:00",
+          "fuente": "El Informador Jalisco",
+          "url": "https://www.informador.mx/mexico/chihuahua-aseguran-106-kilos-de-marihuana-y-364-cartuchos-20261116-0162.html",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.29,
-          "lon": -99.66
-        },
-        {
-          "id": "08e307be",
-          "tipo": "cierre_parcial",
-          "ruta": "Ráfagas: ¡Otra vez la Guardia Nacional!…",
-          "descripcion": "Ráfagas: ¡Otra vez la Guardia Nacional!. PACHUCA, Hgo., 16 de noviembre de 2026.- Quienes tuvieron su viernes 13 fueron cientos de automovilistas que quedaron varados por horas en el Arco Norte, tras registrarse al menos 6 accidentes en distintos tramos que provocaron kilométricas filas en los límites de Puebla, Tlaxcala e Hidalgo. Mientras el caos vial se apoderaba de la autopista, […] The post Ráfagas: ¡Otra vez la Guardia Nacional! appeared first on Quadratin Hidalgo.",
-          "recomendacion": "",
-          "fecha": "16 noviembre 2026 · 08:48 CST",
-          "fecha_iso": "2026-11-16T08:48:00-06:00",
-          "fuente": "Quadratin Hidalgo",
-          "url": "https://hidalgo.quadratin.com.mx/opinion/rafagas-otra-vez-la-guardia-nacional/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.8,
-          "lon": -99.1
+          "lat": 28.64,
+          "lon": -106.08
         }
       ]
     }
   ],
   "para_mapa": [
     {
-      "id": "47be6be6",
+      "id": "7ae8bb12",
       "tipo": "cierre_parcial",
-      "ruta": "Alertan por asaltos en la México-Toluca y Toluca-Atlacomulco…",
-      "descripcion": "Alertan por asaltos en la México-Toluca y Toluca-Atlacomulco. Reportan obstáculos en las carreteras y presencia de presuntos delincuentes armados; llaman a extremar precauciones",
-      "fecha": "16 noviembre 2026 · 10:00 CST",
-      "fuente": "Quadratin EdoMex",
-      "url": "https://edomex.quadratin.com.mx/alertan-por-asaltos-en-la-mexico-toluca-y-toluca-atlacomulco/",
+      "ruta": "Aseguran 106 kilos de marihuana y 364 cartuchos en Chihuahua…",
+      "descripcion": "Aseguran 106 kilos de marihuana y 364 cartuchos en Chihuahua. Elementos de Seguridad Pública localizaron droga, municiones, cargadores y dos vehículos con reporte de robo en una carretera de la localidad",
+      "fecha": "16 noviembre 2026 · 20:30 CST",
+      "fuente": "El Informador Jalisco",
+      "url": "https://www.informador.mx/mexico/chihuahua-aseguran-106-kilos-de-marihuana-y-364-cartuchos-20261116-0162.html",
       "dot_color": "#e67e22",
       "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.29,
-      "lon": -99.66
-    },
-    {
-      "id": "08e307be",
-      "tipo": "cierre_parcial",
-      "ruta": "Ráfagas: ¡Otra vez la Guardia Nacional!…",
-      "descripcion": "Ráfagas: ¡Otra vez la Guardia Nacional!. PACHUCA, Hgo., 16 de noviembre de 2026.- Quienes tuvieron su viernes 13 fueron cientos de automovilistas que quedaron varados por horas en el Arco Norte, tras registrarse al menos 6 accidentes en distintos tramos que provocaron kilométricas filas en los límites de Puebla, Tlaxcala e Hidalgo. Mientras el caos vial se apoderaba de la autopista, […] The post Ráfagas: ¡Otra vez la Guardia Nacional! appeared first on Quadratin Hidalgo.",
-      "fecha": "16 noviembre 2026 · 08:48 CST",
-      "fuente": "Quadratin Hidalgo",
-      "url": "https://hidalgo.quadratin.com.mx/opinion/rafagas-otra-vez-la-guardia-nacional/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.8,
-      "lon": -99.1
-    },
-    {
-      "id": "f877cfe7",
-      "tipo": "bloqueo",
-      "ruta": "Trabajadores de la UAEM aceptan plan de pagos de nivelación…",
-      "descripcion": "Trabajadores de la UAEM aceptan plan de pagos de nivelación salarial\nhttps://www.jornada.com.mx/2026/11/16/estados/033n3est?partner=rss\n\nCuernavaca, Mor., Tras cuatro jornadas de protestas y la amenaza de bloquear autopistas federales y tomar casetas de peaje este fin de semana, el Sindicato de Trabajadores Administrativos de la Universidad Autónoma del Estado de Morelos (Stauaem) aceptó la propuesta de la rectoría para pagar en tres fechas la homologación salarial que se adeuda a mil 100 trabaj",
-      "fecha": "16 noviembre 2026 · 05:10 CST",
-      "fuente": "Telegram @NOTMEX",
-      "url": "https://t.me/NOTMEX/187278",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 18.67,
-      "lon": -99.1
-    },
-    {
-      "id": "35571224",
-      "tipo": "bloqueo",
-      "ruta": "Trabajadores de la UAEM aceptan plan de pagos de nivelación…",
-      "descripcion": "Trabajadores de la UAEM aceptan plan de pagos de nivelación salarial. Cuernavaca, Mor., Tras cuatro jornadas de protestas y la amenaza de bloquear autopistas federales y tomar casetas de peaje este fin de semana, el Sindicato de Trabajadores Administrativos de la Universidad Autónoma del Estado de Morelos (Stauaem) aceptó la propuesta de la rectoría para pagar en tres fechas la homologación salarial que se adeuda a mil 100 trabajadores activos y jubilados.",
-      "fecha": "16 noviembre 2026 · 04:19 CST",
-      "fuente": "La Jornada Estados",
-      "url": "https://www.jornada.com.mx/2026/11/16/estados/033n3est?partner=rss",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 18.67,
-      "lon": -99.1
+      "lat": 28.64,
+      "lon": -106.08
     }
   ]
 }
