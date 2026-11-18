@@ -1,12 +1,10 @@
 {
-  "ultima_actualizacion": "2026-11-17T20:40:45.458918-06:00",
-  "ultima_actualizacion_legible": "17 de noviembre de 2026 · 20:40 CST",
-  "total": 6,
+  "ultima_actualizacion": "2026-11-18T04:43:56.727767-06:00",
+  "ultima_actualizacion_legible": "18 de noviembre de 2026 · 04:43 CST",
+  "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Medios regionales",
-    "Quadratin + regionales",
-    "Telegram"
+    "Quadratin + regionales"
   ],
   "grupos": [
     {
@@ -29,54 +27,6 @@
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO"
-        },
-        {
-          "id": "4f77c81d",
-          "tipo": "bloqueo",
-          "ruta": "Productores de maíz en Jalisco liberan carreteras tras acuerdo con…",
-          "descripcion": "Productores de maíz en Jalisco liberan carreteras tras acuerdo con el Gobierno Federal. Este martes, también se registraron manifestaciones en Guanajuato y Michoacán para reclamar por la falta de apoyo a la comercialización y por problemas con el agua",
-          "recomendacion": "",
-          "fecha": "17 noviembre 2026 · 19:20 CST",
-          "fecha_iso": "2026-11-17T19:20:00-06:00",
-          "fuente": "El Informador Jalisco",
-          "url": "https://www.informador.mx/jalisco/bloqueos-carreteros-productores-de-maiz-en-jalisco-liberan-caminos-tras-acuerdo-con-el-gobierno-federal-20261117-0206.html",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 20.66,
-          "lon": -103.35
-        },
-        {
-          "id": "85588fb0",
-          "tipo": "bloqueo",
-          "ruta": "Estados afectados por bloqueos de campesinos en carreteras…",
-          "descripcion": "Estados afectados por bloqueos de campesinos en carreteras. La Confederación Agropecuaria de México paraliza vialidades clave en Guanajuato, Jalisco, Michoacán, Querétaro y Campeche ante la falta de pagos y apoyos al sector",
-          "recomendacion": "",
-          "fecha": "17 noviembre 2026 · 18:18 CST",
-          "fecha_iso": "2026-11-17T18:18:00-06:00",
-          "fuente": "El Informador Jalisco",
-          "url": "https://www.informador.mx/mexico/estados-afectados-por-bloqueos-de-campesinos-en-carreteras-20261117-0203.html",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 20.66,
-          "lon": -103.35
-        },
-        {
-          "id": "58ca6868",
-          "tipo": "bloqueo",
-          "ruta": "Afecta bloqueo en México-Pirámides viajes entre Tulancingo y Ciudad de…",
-          "descripcion": "Afecta bloqueo en México-Pirámides viajes entre Tulancingo y Ciudad de México. Una protesta de transportistas provoca complicaciones viales sobre la autopista México-Pirámides, a la altura de Acolman The post Afecta bloqueo en México-Pirámides viajes entre Tulancingo y Ciudad de México appeared first on Quadratin Hidalgo.",
-          "recomendacion": "",
-          "fecha": "17 noviembre 2026 · 16:23 CST",
-          "fecha_iso": "2026-11-17T16:23:00-06:00",
-          "fuente": "Quadratin Hidalgo",
-          "url": "https://hidalgo.quadratin.com.mx/municipios/afecta-bloqueo-en-mexico-piramides-viajes-entre-tulancingo-y-ciudad-de-mexico/",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 20.11,
-          "lon": -98.73
         }
       ]
     },
@@ -100,78 +50,9 @@
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL"
-        },
-        {
-          "id": "b97ba843",
-          "tipo": "cierre_parcial",
-          "ruta": "carretera durante su regreso de la Ciudad de México",
-          "descripcion": "**Menores del Necaxa Chiapas llegan a Tuxtla tras quedar varados en carretera**\n\nTras quedar varados en carretera durante su regreso de la Ciudad de México, llegaron en la mañana de este martes después de casi 20 horas de viaje. Después de quedar\n\n[Leer la nota completa](https://alertachiapas.com/2026/11/17/menores-del-necaxa-chiapas-llegan-a-tuxtla-tras-quedar-varados-en-carretera/)",
-          "recomendacion": "",
-          "fecha": "17 noviembre 2026 · 11:55 CST",
-          "fecha_iso": "2026-11-17T11:55:00-06:00",
-          "fuente": "Telegram @AlertaChiapas",
-          "url": "https://t.me/AlertaChiapas/3131",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 16.75,
-          "lon": -93.12
         }
       ]
     }
   ],
-  "para_mapa": [
-    {
-      "id": "4f77c81d",
-      "tipo": "bloqueo",
-      "ruta": "Productores de maíz en Jalisco liberan carreteras tras acuerdo con…",
-      "descripcion": "Productores de maíz en Jalisco liberan carreteras tras acuerdo con el Gobierno Federal. Este martes, también se registraron manifestaciones en Guanajuato y Michoacán para reclamar por la falta de apoyo a la comercialización y por problemas con el agua",
-      "fecha": "17 noviembre 2026 · 19:20 CST",
-      "fuente": "El Informador Jalisco",
-      "url": "https://www.informador.mx/jalisco/bloqueos-carreteros-productores-de-maiz-en-jalisco-liberan-caminos-tras-acuerdo-con-el-gobierno-federal-20261117-0206.html",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 20.66,
-      "lon": -103.35
-    },
-    {
-      "id": "85588fb0",
-      "tipo": "bloqueo",
-      "ruta": "Estados afectados por bloqueos de campesinos en carreteras…",
-      "descripcion": "Estados afectados por bloqueos de campesinos en carreteras. La Confederación Agropecuaria de México paraliza vialidades clave en Guanajuato, Jalisco, Michoacán, Querétaro y Campeche ante la falta de pagos y apoyos al sector",
-      "fecha": "17 noviembre 2026 · 18:18 CST",
-      "fuente": "El Informador Jalisco",
-      "url": "https://www.informador.mx/mexico/estados-afectados-por-bloqueos-de-campesinos-en-carreteras-20261117-0203.html",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 20.66,
-      "lon": -103.35
-    },
-    {
-      "id": "58ca6868",
-      "tipo": "bloqueo",
-      "ruta": "Afecta bloqueo en México-Pirámides viajes entre Tulancingo y Ciudad de…",
-      "descripcion": "Afecta bloqueo en México-Pirámides viajes entre Tulancingo y Ciudad de México. Una protesta de transportistas provoca complicaciones viales sobre la autopista México-Pirámides, a la altura de Acolman The post Afecta bloqueo en México-Pirámides viajes entre Tulancingo y Ciudad de México appeared first on Quadratin Hidalgo.",
-      "fecha": "17 noviembre 2026 · 16:23 CST",
-      "fuente": "Quadratin Hidalgo",
-      "url": "https://hidalgo.quadratin.com.mx/municipios/afecta-bloqueo-en-mexico-piramides-viajes-entre-tulancingo-y-ciudad-de-mexico/",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 20.11,
-      "lon": -98.73
-    },
-    {
-      "id": "b97ba843",
-      "tipo": "cierre_parcial",
-      "ruta": "carretera durante su regreso de la Ciudad de México",
-      "descripcion": "**Menores del Necaxa Chiapas llegan a Tuxtla tras quedar varados en carretera**\n\nTras quedar varados en carretera durante su regreso de la Ciudad de México, llegaron en la mañana de este martes después de casi 20 horas de viaje. Después de quedar\n\n[Leer la nota completa](https://alertachiapas.com/2026/11/17/menores-del-necaxa-chiapas-llegan-a-tuxtla-tras-quedar-varados-en-carretera/)",
-      "fecha": "17 noviembre 2026 · 11:55 CST",
-      "fuente": "Telegram @AlertaChiapas",
-      "url": "https://t.me/AlertaChiapas/3131",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 16.75,
-      "lon": -93.12
-    }
-  ]
+  "para_mapa": []
 }
