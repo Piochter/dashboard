@@ -1,11 +1,10 @@
 {
-  "ultima_actualizacion": "2026-11-18T13:04:46.218641-06:00",
-  "ultima_actualizacion_legible": "18 de noviembre de 2026 · 13:04 CST",
-  "total": 4,
+  "ultima_actualizacion": "2026-11-18T19:10:25.086749-06:00",
+  "ultima_actualizacion_legible": "18 de noviembre de 2026 · 19:10 CST",
+  "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Medios nacionales",
-    "Medios regionales",
     "Telegram"
   ],
   "grupos": [
@@ -31,38 +30,6 @@
           "badge_txt": "BLOQUEO",
           "lat": 20.66,
           "lon": -103.35
-        },
-        {
-          "id": "6ac0f435",
-          "tipo": "bloqueo",
-          "ruta": "Marcha de motociclista y otras protestas en CDMX hoy 18…",
-          "descripcion": "Marcha de motociclista y otras protestas en CDMX hoy 18 de noviembre; calles afectadas. Automovilistas enfrentarán cortes a la circulación en Cuauhtémoc, Miguel Hidalgo, Iztacalco e Iztapalapa por diversas protestas previstas hoy en CDMX; te damos los detalles",
-          "recomendacion": "",
-          "fecha": "18 noviembre 2026 · 07:23 CST",
-          "fecha_iso": "2026-11-18T07:23:00-06:00",
-          "fuente": "24 Horas",
-          "url": "https://24-horas.mx/cdmx/marchas-bloqueos-hoy-cdmx-18-noviembre-2026/",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 20.11,
-          "lon": -98.73
-        },
-        {
-          "id": "1c355eeb",
-          "tipo": "bloqueo",
-          "ruta": "Agricultores bloquean carreteras en 5 entidades; exigen pagos pendientes…",
-          "descripcion": "Agricultores bloquean carreteras en 5 entidades; exigen pagos pendientes. Campesinos de Guanajuato, Jalisco y Michoacán, convocados por la Confederación Agropecuaria de México, mantuvieron ayer durante al menos siete horas más de 20 bloqueos carreteros, casi todos totales, para expresar su inconformidad por el incumplimiento de acuerdos establecidos el 22 de octubre pasado con la Secretaría de Agricultura y Desarrollo Rural (Sader).",
-          "recomendacion": "",
-          "fecha": "18 noviembre 2026 · 04:32 CST",
-          "fecha_iso": "2026-11-18T04:32:00-06:00",
-          "fuente": "La Jornada Estados",
-          "url": "https://www.jornada.com.mx/2026/11/18/estados/025n1est?partner=rss",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 20.66,
-          "lon": -103.35
         }
       ]
     },
@@ -74,15 +41,15 @@
       "col2": true,
       "alertas": [
         {
-          "id": "4b8cc9fc",
+          "id": "547441b9",
           "tipo": "cierre_parcial",
-          "ruta": "Transportistas pactan plan con Gobierno para reforzar seguridad en carreteras…",
-          "descripcion": "Transportistas pactan plan con Gobierno para reforzar seguridad en carreteras. El acuerdo contempla acciones contra el robo y la extorsión, atención a tramos deteriorados y mesas de trabajo para revisar las condiciones regulatorias y laborales del autotransporte",
+          "ruta": "Concamin acuerda acciones para reforzar seguridad del autotransporte…",
+          "descripcion": "Concamin acuerda acciones para reforzar seguridad del autotransporte. La confederación mantiene mesas de trabajo con autoridades federales y organismos empresariales para atender robos, extorsiones, infraestructura carretera y regulación del sector",
           "recomendacion": "",
-          "fecha": "18 noviembre 2026 · 12:38 CST",
-          "fecha_iso": "2026-11-18T12:38:00-06:00",
-          "fuente": "El Informador Jalisco",
-          "url": "https://www.informador.mx/mexico/transportistas-pactan-plan-con-gobierno-de-mexico-para-reforzar-seguridad-en-carreteras-20261118-0099.html",
+          "fecha": "18 noviembre 2026 · 14:34 CST",
+          "fecha_iso": "2026-11-18T14:34:00-06:00",
+          "fuente": "24 Horas",
+          "url": "https://24-horas.mx/negocios/concamin-acuerda-acciones-para-reforzar-seguridad-del-autotransporte/",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL"
@@ -99,32 +66,6 @@
       "fecha": "18 noviembre 2026 · 08:29 CST",
       "fuente": "Telegram @NOTMEX",
       "url": "https://t.me/NOTMEX/187319",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 20.66,
-      "lon": -103.35
-    },
-    {
-      "id": "6ac0f435",
-      "tipo": "bloqueo",
-      "ruta": "Marcha de motociclista y otras protestas en CDMX hoy 18…",
-      "descripcion": "Marcha de motociclista y otras protestas en CDMX hoy 18 de noviembre; calles afectadas. Automovilistas enfrentarán cortes a la circulación en Cuauhtémoc, Miguel Hidalgo, Iztacalco e Iztapalapa por diversas protestas previstas hoy en CDMX; te damos los detalles",
-      "fecha": "18 noviembre 2026 · 07:23 CST",
-      "fuente": "24 Horas",
-      "url": "https://24-horas.mx/cdmx/marchas-bloqueos-hoy-cdmx-18-noviembre-2026/",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 20.11,
-      "lon": -98.73
-    },
-    {
-      "id": "1c355eeb",
-      "tipo": "bloqueo",
-      "ruta": "Agricultores bloquean carreteras en 5 entidades; exigen pagos pendientes…",
-      "descripcion": "Agricultores bloquean carreteras en 5 entidades; exigen pagos pendientes. Campesinos de Guanajuato, Jalisco y Michoacán, convocados por la Confederación Agropecuaria de México, mantuvieron ayer durante al menos siete horas más de 20 bloqueos carreteros, casi todos totales, para expresar su inconformidad por el incumplimiento de acuerdos establecidos el 22 de octubre pasado con la Secretaría de Agricultura y Desarrollo Rural (Sader).",
-      "fecha": "18 noviembre 2026 · 04:32 CST",
-      "fuente": "La Jornada Estados",
-      "url": "https://www.jornada.com.mx/2026/11/18/estados/025n1est?partner=rss",
       "dot_color": "#8e44ad",
       "badge_txt": "BLOQUEO",
       "lat": 20.66,
