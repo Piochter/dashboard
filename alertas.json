@@ -1,11 +1,11 @@
 {
-  "ultima_actualizacion": "2026-11-18T19:10:25.086749-06:00",
-  "ultima_actualizacion_legible": "18 de noviembre de 2026 · 19:10 CST",
+  "ultima_actualizacion": "2026-11-19T02:44:25.511376-06:00",
+  "ultima_actualizacion_legible": "19 de noviembre de 2026 · 02:44 CST",
   "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Medios nacionales",
-    "Telegram"
+    "Google News",
+    "Quadratin + regionales"
   ],
   "grupos": [
     {
@@ -16,20 +16,18 @@
       "col2": false,
       "alertas": [
         {
-          "id": "97afe3b9",
+          "id": "e7eb6fcd",
           "tipo": "bloqueo",
-          "ruta": "Agricultores bloquean carreteras en 5 entidades; exigen pagos pendientes https://www.jornada.com.mx/2026/11/18/estados/025n1est?partner=rss…",
-          "descripcion": "Agricultores bloquean carreteras en 5 entidades; exigen pagos pendientes\nhttps://www.jornada.com.mx/2026/11/18/estados/025n1est?partner=rss\n\nCampesinos de Guanajuato, Jalisco y Michoacán, convocados por la Confederación Agropecuaria de México, mantuvieron ayer durante al menos siete horas más de 20 bloqueos carreteros, casi todos totales, para expresar su inconformidad por el incumplimiento de acuerdos establecidos el 22 de octubre pasado con la Secretaría de Agricultura y Desarrollo Rural (Sade",
+          "ruta": "EN VIVO: Últimas noticias de los bloqueos en carreteras de…",
+          "descripcion": "EN VIVO: Últimas noticias de los bloqueos en carreteras de México hoy 18 de noviembre de 2026 - TV Azteca. EN VIVO: Últimas noticias de los bloqueos en carreteras de México hoy 18 de noviembre de 2026 TV Azteca",
           "recomendacion": "",
-          "fecha": "18 noviembre 2026 · 08:29 CST",
-          "fecha_iso": "2026-11-18T08:29:00-06:00",
-          "fuente": "Telegram @NOTMEX",
-          "url": "https://t.me/NOTMEX/187319",
+          "fecha": "18 noviembre 2026 · 20:00 CST",
+          "fecha_iso": "2026-11-18T20:00:00-06:00",
+          "fuente": "TV Azteca",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNeGVsUHBucjRMX0t3UjZERHZtS2JFd2pOUEJfRm92UlR5R3NhMEVCZXhRdENjb21UbXJaQnFsQjNnMDdtTkZFc3p4RklkdHFKb0xNVnNnMkc4bnFsTGJyTHFZajNFTzR1V1pHWXZNQlU0YnNIZFN1NVRORmYyZG5TYmVQdllXWlhfQkVyLVNJQS1BOGRfREpSS3EwaWlmQ3ZKaGhCQ1RvcGxQNUJpblpZOGlaNzVZd0swZDd2Z19vWHZjSHhnNC0xaHVvNHd2Qnc?oc=5",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 20.66,
-          "lon": -103.35
+          "badge_txt": "BLOQUEO"
         }
       ]
     },
@@ -41,35 +39,37 @@
       "col2": true,
       "alertas": [
         {
-          "id": "547441b9",
+          "id": "c3c000b0",
           "tipo": "cierre_parcial",
-          "ruta": "Concamin acuerda acciones para reforzar seguridad del autotransporte…",
-          "descripcion": "Concamin acuerda acciones para reforzar seguridad del autotransporte. La confederación mantiene mesas de trabajo con autoridades federales y organismos empresariales para atender robos, extorsiones, infraestructura carretera y regulación del sector",
+          "ruta": "Se registran dos accidentes con tráileres en la Toluca-Atlacomulco…",
+          "descripcion": "Se registran dos accidentes con tráileres en la Toluca-Atlacomulco. Un tractocamión quedó atravesado cerca del río Lerma y otro tráiler protagonizó una carambola con cuatro automóviles.",
           "recomendacion": "",
-          "fecha": "18 noviembre 2026 · 14:34 CST",
-          "fecha_iso": "2026-11-18T14:34:00-06:00",
-          "fuente": "24 Horas",
-          "url": "https://24-horas.mx/negocios/concamin-acuerda-acciones-para-reforzar-seguridad-del-autotransporte/",
+          "fecha": "18 noviembre 2026 · 21:23 CST",
+          "fecha_iso": "2026-11-18T21:23:00-06:00",
+          "fuente": "Quadratin EdoMex",
+          "url": "https://edomex.quadratin.com.mx/se-registran-dos-accidentes-con-traileres-en-la-toluca-atlacomulco/",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 19.29,
+          "lon": -99.66
         }
       ]
     }
   ],
   "para_mapa": [
     {
-      "id": "97afe3b9",
-      "tipo": "bloqueo",
-      "ruta": "Agricultores bloquean carreteras en 5 entidades; exigen pagos pendientes https://www.jornada.com.mx/2026/11/18/estados/025n1est?partner=rss…",
-      "descripcion": "Agricultores bloquean carreteras en 5 entidades; exigen pagos pendientes\nhttps://www.jornada.com.mx/2026/11/18/estados/025n1est?partner=rss\n\nCampesinos de Guanajuato, Jalisco y Michoacán, convocados por la Confederación Agropecuaria de México, mantuvieron ayer durante al menos siete horas más de 20 bloqueos carreteros, casi todos totales, para expresar su inconformidad por el incumplimiento de acuerdos establecidos el 22 de octubre pasado con la Secretaría de Agricultura y Desarrollo Rural (Sade",
-      "fecha": "18 noviembre 2026 · 08:29 CST",
-      "fuente": "Telegram @NOTMEX",
-      "url": "https://t.me/NOTMEX/187319",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 20.66,
-      "lon": -103.35
+      "id": "c3c000b0",
+      "tipo": "cierre_parcial",
+      "ruta": "Se registran dos accidentes con tráileres en la Toluca-Atlacomulco…",
+      "descripcion": "Se registran dos accidentes con tráileres en la Toluca-Atlacomulco. Un tractocamión quedó atravesado cerca del río Lerma y otro tráiler protagonizó una carambola con cuatro automóviles.",
+      "fecha": "18 noviembre 2026 · 21:23 CST",
+      "fuente": "Quadratin EdoMex",
+      "url": "https://edomex.quadratin.com.mx/se-registran-dos-accidentes-con-traileres-en-la-toluca-atlacomulco/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 19.29,
+      "lon": -99.66
     }
   ]
 }
