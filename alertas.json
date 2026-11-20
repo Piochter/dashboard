@@ -1,10 +1,11 @@
 {
-  "ultima_actualizacion": "2026-11-20T07:44:18.642977-06:00",
-  "ultima_actualizacion_legible": "20 de noviembre de 2026 · 07:44 CST",
-  "total": 4,
+  "ultima_actualizacion": "2026-11-20T15:33:28.016619-06:00",
+  "ultima_actualizacion_legible": "20 de noviembre de 2026 · 15:33 CST",
+  "total": 6,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
+    "Quadratin + regionales",
     "Telegram"
   ],
   "grupos": [
@@ -30,22 +31,6 @@
           "badge_txt": "CIERRE TOTAL",
           "lat": 16.75,
           "lon": -93.12
-        },
-        {
-          "id": "9a867a85",
-          "tipo": "cierre_total",
-          "ruta": "32",
-          "descripcion": "**Motozintla: 32 km de carreteras cruzan zonas propensas a deslaves en la frontera**\n\nUn estudio de la UNAM y la UAEMéx ubica las laderas más propensas a deslaves en Motozintla y la frontera; 37 % de los registrados, ligados a obras.\n\n[Leer la nota completa](https://alertachiapas.com/2026/11/19/motozintla-deslaves-carreteras-frontera-estudio-unam/)",
-          "recomendacion": "",
-          "fecha": "19 noviembre 2026 · 20:30 CST",
-          "fecha_iso": "2026-11-19T20:30:00-06:00",
-          "fuente": "Telegram @AlertaChiapas",
-          "url": "https://t.me/AlertaChiapas/3203",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL",
-          "lat": 16.75,
-          "lon": -93.12
         }
       ]
     },
@@ -57,13 +42,27 @@
       "col2": false,
       "alertas": [
         {
+          "id": "f439d9fd",
+          "tipo": "bloqueo",
+          "ruta": "📢 Manifestantes toman casetas de las autopistas Mexiquense y #Chamapa-#Lechería,…",
+          "descripcion": "📢  Manifestantes toman casetas de las autopistas Mexiquense y #Chamapa-#Lechería, permiten el paso libre de vehículos 👇 \n\nhttps://lajornadaestadodemexico.com/habitantes-de-arbolada-fimesa-toman-casetas-de-las-autopistas-mexiquense-y-chamapa-lecheria/",
+          "recomendacion": "",
+          "fecha": "20 noviembre 2026 · 13:48 CST",
+          "fecha_iso": "2026-11-20T13:48:00-06:00",
+          "fuente": "Telegram @jornadaedomex",
+          "url": "https://t.me/jornadaedomex/12672",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
+        {
           "id": "381ea376",
           "tipo": "bloqueo",
           "ruta": "¿Bloqueo de Carreteras Hoy? Reportes de Accidentes y Cierres este…",
           "descripcion": "¿Bloqueo de Carreteras Hoy? Reportes de Accidentes y Cierres este Viernes - N+. ¿Bloqueo de Carreteras Hoy? Reportes de Accidentes y Cierres este Viernes N+",
           "recomendacion": "",
-          "fecha": "20 noviembre 2026 · 06:31 CST",
-          "fecha_iso": "2026-11-20T06:31:00-06:00",
+          "fecha": "20 noviembre 2026 · 13:29 CST",
+          "fecha_iso": "2026-11-20T13:29:00-06:00",
           "fuente": "N+",
           "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYkpOZVlnamFXNzV3R3VSTnZnTkl3YXZIRHRWSUNMSHYzNzFoWmI0cEFpRF9Nb2xLd0ZDRGV3QmR4c1owUE1QRUUtei1ScDBXU3NBVGZ6bE5BVENCMEdfbVQ5ejJweEtCbHdWZGVvVGQxUUdTYzJ0bDZPTjRkejhwSjRrTHMxQUJjNXZUc3JjbkpWU1pOR1MwaHBwMHVmaGpmOFA5djFHRWYtQkZ1d2pYN2duOXk2TXJaSEpzNllXZ2RYSGJMSnpoaVVsSDdYeVk?oc=5",
           "dot_color": "#8e44ad",
@@ -79,6 +78,34 @@
       "label": "CIERRE PARCIAL / ACCIDENTES",
       "col2": true,
       "alertas": [
+        {
+          "id": "91bec41c",
+          "tipo": "cierre_parcial",
+          "ruta": "Llegará diciembre y encontrará el Siervo de la Nación cerrado…",
+          "descripcion": "Llegará diciembre y encontrará el Siervo de la Nación cerrado. La carretera, bajo el dominio de Mota-Engil, es una pista obsoleta que se cae a pedazos",
+          "recomendacion": "",
+          "fecha": "20 noviembre 2026 · 14:58 CST",
+          "fecha_iso": "2026-11-20T14:58:00-06:00",
+          "fuente": "Quadratin Jalisco",
+          "url": "https://jalisco.quadratin.com.mx/Nacional/llegara-diciembre-y-encontrara-el-siervo-de-la-nacion-cerrado/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        },
+        {
+          "id": "ee713499",
+          "tipo": "cierre_parcial",
+          "ruta": "**Oficial: no habrá cierres por obras en temporada decembrina** **…",
+          "descripcion": "**Oficial: no habrá cierres por obras en temporada decembrina**\n** **\n-          **Alcalde informó que acordó con el Gobierno del Estado mantener la circulación sin afectaciones hasta enero**\n** **\n**https://diario.mx/juarez/2026/nov/20/oficial-no-habra-cierres-por-obras-en-temporada-decembrina-1149671.html**",
+          "recomendacion": "",
+          "fecha": "20 noviembre 2026 · 13:51 CST",
+          "fecha_iso": "2026-11-20T13:51:00-06:00",
+          "fuente": "Telegram @ElDiarioDeJuarez",
+          "url": "https://t.me/ElDiarioDeJuarez/1679",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        },
         {
           "id": "5e26a2f2",
           "tipo": "cierre_parcial",
@@ -105,19 +132,6 @@
       "fecha": "20 noviembre 2026 · 07:00 CST",
       "fuente": "Telegram @AlertaChiapas",
       "url": "https://t.me/AlertaChiapas/3205",
-      "dot_color": "#e74c3c",
-      "badge_txt": "CIERRE TOTAL",
-      "lat": 16.75,
-      "lon": -93.12
-    },
-    {
-      "id": "9a867a85",
-      "tipo": "cierre_total",
-      "ruta": "32",
-      "descripcion": "**Motozintla: 32 km de carreteras cruzan zonas propensas a deslaves en la frontera**\n\nUn estudio de la UNAM y la UAEMéx ubica las laderas más propensas a deslaves en Motozintla y la frontera; 37 % de los registrados, ligados a obras.\n\n[Leer la nota completa](https://alertachiapas.com/2026/11/19/motozintla-deslaves-carreteras-frontera-estudio-unam/)",
-      "fecha": "19 noviembre 2026 · 20:30 CST",
-      "fuente": "Telegram @AlertaChiapas",
-      "url": "https://t.me/AlertaChiapas/3203",
       "dot_color": "#e74c3c",
       "badge_txt": "CIERRE TOTAL",
       "lat": 16.75,
