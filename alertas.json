@@ -1,12 +1,144 @@
 {
-  "ultima_actualizacion": "2026-11-19T17:48:58.876777-06:00",
-  "ultima_actualizacion_legible": "19 de noviembre de 2026 · 17:48 CST",
-  "total": 0,
+  "ultima_actualizacion": "2026-11-19T22:54:27.377783-06:00",
+  "ultima_actualizacion_legible": "19 de noviembre de 2026 · 22:54 CST",
+  "total": 4,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News"
+    "Google News",
+    "Medios regionales",
+    "Quadratin + regionales",
+    "Telegram"
   ],
-  "grupos": [],
-  "para_mapa": [],
-  "nota": "Sin alertas activas en la ventana de tiempo configurada."
+  "grupos": [
+    {
+      "tipo": "cierre_total",
+      "color": "rojo",
+      "icono": "🔴",
+      "label": "CIERRE TOTAL",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "9a867a85",
+          "tipo": "cierre_total",
+          "ruta": "32",
+          "descripcion": "**Motozintla: 32 km de carreteras cruzan zonas propensas a deslaves en la frontera**\n\nUn estudio de la UNAM y la UAEMéx ubica las laderas más propensas a deslaves en Motozintla y la frontera; 37 % de los registrados, ligados a obras.\n\n[Leer la nota completa](https://alertachiapas.com/2026/11/19/motozintla-deslaves-carreteras-frontera-estudio-unam/)",
+          "recomendacion": "",
+          "fecha": "19 noviembre 2026 · 20:30 CST",
+          "fecha_iso": "2026-11-19T20:30:00-06:00",
+          "fuente": "Telegram @AlertaChiapas",
+          "url": "https://t.me/AlertaChiapas/3203",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL",
+          "lat": 16.75,
+          "lon": -93.12
+        },
+        {
+          "id": "caae1b1a",
+          "tipo": "cierre_total",
+          "ruta": "Conductor de Tráiler Muere Durante Volcadura en Autopista Siglo XXI…",
+          "descripcion": "Conductor de Tráiler Muere Durante Volcadura en Autopista Siglo XXI de Puebla - N+. Conductor de Tráiler Muere Durante Volcadura en Autopista Siglo XXI de Puebla N+",
+          "recomendacion": "",
+          "fecha": "19 noviembre 2026 · 18:21 CST",
+          "fecha_iso": "2026-11-19T18:21:00-06:00",
+          "fuente": "N+",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNa3FKOTFyVWRwUFF2Z2lPWFpzSlFSVE1vV1ltaTdMMUpCcDdXMVlLcUpMWkktR1BFbWRUVWNPSWJxaW9QOHpveGI4MlloVUZFbE0zRjdiX0tlOERZY0l3XzV1UzJCT3FuU21JRDFzQXRKYTVDOFBFU015SkstYWo5Q19EeEZfckw1TV9jWkUtR0toaXN1YWJRNmRZT3BkVDIybmhmV2ttQy05YVpRem50Zk1SVm9VMGJGYzRweDZKSk5RTGNEeGVXWlZxejdpZw?oc=5",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL",
+          "lat": 19.3,
+          "lon": -104.0
+        }
+      ]
+    },
+    {
+      "tipo": "bloqueo",
+      "color": "rojo",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "0e6e4256",
+          "tipo": "bloqueo",
+          "ruta": "Militares se enfrentan a civiles armados en Badiraguato, Sinaloa; detienen…",
+          "descripcion": "Militares se enfrentan a civiles armados en Badiraguato, Sinaloa; detienen a dos. Reportan que un joven resultó herido en medio del intercambio de disparos en un tramo carretero",
+          "recomendacion": "",
+          "fecha": "19 noviembre 2026 · 19:09 CST",
+          "fecha_iso": "2026-11-19T19:09:00-06:00",
+          "fuente": "El Informador Jalisco",
+          "url": "https://www.informador.mx/mexico/sinaloa-militares-se-enfrentan-a-civiles-armados-en-badiraguato-detienen-a-dos-20261119-0157.html",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 24.8,
+          "lon": -107.39
+        }
+      ]
+    },
+    {
+      "tipo": "cierre_parcial",
+      "color": "amarillo",
+      "icono": "🟡",
+      "label": "CIERRE PARCIAL / ACCIDENTES",
+      "col2": true,
+      "alertas": [
+        {
+          "id": "79105d36",
+          "tipo": "cierre_parcial",
+          "ruta": "Acuerdan transportistas y autoridades plan contra abusos de grúas y…",
+          "descripcion": "Acuerdan transportistas y autoridades plan contra abusos de grúas y robos. Entre los avances está la plataforma SIRSE, que desarrolla la SICT para transparentar los servicios, prevenir cobros excesivos y combatir abusos.",
+          "recomendacion": "",
+          "fecha": "19 noviembre 2026 · 18:31 CST",
+          "fecha_iso": "2026-11-19T18:31:00-06:00",
+          "fuente": "Quadratin Jalisco",
+          "url": "https://jalisco.quadratin.com.mx/sucesos/acuerdan-transportistas-y-autoridades-plan-contra-abusos-de-gruas-y-robos/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        }
+      ]
+    }
+  ],
+  "para_mapa": [
+    {
+      "id": "9a867a85",
+      "tipo": "cierre_total",
+      "ruta": "32",
+      "descripcion": "**Motozintla: 32 km de carreteras cruzan zonas propensas a deslaves en la frontera**\n\nUn estudio de la UNAM y la UAEMéx ubica las laderas más propensas a deslaves en Motozintla y la frontera; 37 % de los registrados, ligados a obras.\n\n[Leer la nota completa](https://alertachiapas.com/2026/11/19/motozintla-deslaves-carreteras-frontera-estudio-unam/)",
+      "fecha": "19 noviembre 2026 · 20:30 CST",
+      "fuente": "Telegram @AlertaChiapas",
+      "url": "https://t.me/AlertaChiapas/3203",
+      "dot_color": "#e74c3c",
+      "badge_txt": "CIERRE TOTAL",
+      "lat": 16.75,
+      "lon": -93.12
+    },
+    {
+      "id": "0e6e4256",
+      "tipo": "bloqueo",
+      "ruta": "Militares se enfrentan a civiles armados en Badiraguato, Sinaloa; detienen…",
+      "descripcion": "Militares se enfrentan a civiles armados en Badiraguato, Sinaloa; detienen a dos. Reportan que un joven resultó herido en medio del intercambio de disparos en un tramo carretero",
+      "fecha": "19 noviembre 2026 · 19:09 CST",
+      "fuente": "El Informador Jalisco",
+      "url": "https://www.informador.mx/mexico/sinaloa-militares-se-enfrentan-a-civiles-armados-en-badiraguato-detienen-a-dos-20261119-0157.html",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 24.8,
+      "lon": -107.39
+    },
+    {
+      "id": "caae1b1a",
+      "tipo": "cierre_total",
+      "ruta": "Conductor de Tráiler Muere Durante Volcadura en Autopista Siglo XXI…",
+      "descripcion": "Conductor de Tráiler Muere Durante Volcadura en Autopista Siglo XXI de Puebla - N+. Conductor de Tráiler Muere Durante Volcadura en Autopista Siglo XXI de Puebla N+",
+      "fecha": "19 noviembre 2026 · 18:21 CST",
+      "fuente": "N+",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNa3FKOTFyVWRwUFF2Z2lPWFpzSlFSVE1vV1ltaTdMMUpCcDdXMVlLcUpMWkktR1BFbWRUVWNPSWJxaW9QOHpveGI4MlloVUZFbE0zRjdiX0tlOERZY0l3XzV1UzJCT3FuU21JRDFzQXRKYTVDOFBFU015SkstYWo5Q19EeEZfckw1TV9jWkUtR0toaXN1YWJRNmRZT3BkVDIybmhmV2ttQy05YVpRem50Zk1SVm9VMGJGYzRweDZKSk5RTGNEeGVXWlZxejdpZw?oc=5",
+      "dot_color": "#e74c3c",
+      "badge_txt": "CIERRE TOTAL",
+      "lat": 19.3,
+      "lon": -104.0
+    }
+  ]
 }
