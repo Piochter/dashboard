@@ -1,12 +1,10 @@
 {
-  "ultima_actualizacion": "2026-11-19T22:54:27.377783-06:00",
-  "ultima_actualizacion_legible": "19 de noviembre de 2026 · 22:54 CST",
+  "ultima_actualizacion": "2026-11-20T07:44:18.642977-06:00",
+  "ultima_actualizacion_legible": "20 de noviembre de 2026 · 07:44 CST",
   "total": 4,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
-    "Medios regionales",
-    "Quadratin + regionales",
     "Telegram"
   ],
   "grupos": [
@@ -17,6 +15,22 @@
       "label": "CIERRE TOTAL",
       "col2": false,
       "alertas": [
+        {
+          "id": "fbebb941",
+          "tipo": "cierre_total",
+          "ruta": "100",
+          "descripcion": "**Buenos días, Chiapas** · viernes 20 de noviembre de 2026\n\n🌂 Sin lluvia importante en el día.\n😷 Aire: No disponible (índice 79).\n🌎 2 sismos en 24 h cerca de Chiapas; el mayor, M 4.0 100 km al sur de Cd Hidalgo.\n⚠️ Rachas de viento mañana en Arriaga: hasta 47 km/h · Hasta las 11:59 p. m.\n\n**Lo último en Alerta Chiapas**\n• [Copoya: una de cada tres casas no se abastece del servicio público de agua](https://alertachiapas.com/2026/11/19/copoya-tuxtla-agua-servicio-publico-pipas-pozos/)\n• [Motozintl",
+          "recomendacion": "",
+          "fecha": "20 noviembre 2026 · 07:00 CST",
+          "fecha_iso": "2026-11-20T07:00:00-06:00",
+          "fuente": "Telegram @AlertaChiapas",
+          "url": "https://t.me/AlertaChiapas/3205",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL",
+          "lat": 16.75,
+          "lon": -93.12
+        },
         {
           "id": "9a867a85",
           "tipo": "cierre_total",
@@ -32,22 +46,6 @@
           "badge_txt": "CIERRE TOTAL",
           "lat": 16.75,
           "lon": -93.12
-        },
-        {
-          "id": "caae1b1a",
-          "tipo": "cierre_total",
-          "ruta": "Conductor de Tráiler Muere Durante Volcadura en Autopista Siglo XXI…",
-          "descripcion": "Conductor de Tráiler Muere Durante Volcadura en Autopista Siglo XXI de Puebla - N+. Conductor de Tráiler Muere Durante Volcadura en Autopista Siglo XXI de Puebla N+",
-          "recomendacion": "",
-          "fecha": "19 noviembre 2026 · 18:21 CST",
-          "fecha_iso": "2026-11-19T18:21:00-06:00",
-          "fuente": "N+",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNa3FKOTFyVWRwUFF2Z2lPWFpzSlFSVE1vV1ltaTdMMUpCcDdXMVlLcUpMWkktR1BFbWRUVWNPSWJxaW9QOHpveGI4MlloVUZFbE0zRjdiX0tlOERZY0l3XzV1UzJCT3FuU21JRDFzQXRKYTVDOFBFU015SkstYWo5Q19EeEZfckw1TV9jWkUtR0toaXN1YWJRNmRZT3BkVDIybmhmV2ttQy05YVpRem50Zk1SVm9VMGJGYzRweDZKSk5RTGNEeGVXWlZxejdpZw?oc=5",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL",
-          "lat": 19.3,
-          "lon": -104.0
         }
       ]
     },
@@ -59,20 +57,18 @@
       "col2": false,
       "alertas": [
         {
-          "id": "0e6e4256",
+          "id": "381ea376",
           "tipo": "bloqueo",
-          "ruta": "Militares se enfrentan a civiles armados en Badiraguato, Sinaloa; detienen…",
-          "descripcion": "Militares se enfrentan a civiles armados en Badiraguato, Sinaloa; detienen a dos. Reportan que un joven resultó herido en medio del intercambio de disparos en un tramo carretero",
+          "ruta": "¿Bloqueo de Carreteras Hoy? Reportes de Accidentes y Cierres este…",
+          "descripcion": "¿Bloqueo de Carreteras Hoy? Reportes de Accidentes y Cierres este Viernes - N+. ¿Bloqueo de Carreteras Hoy? Reportes de Accidentes y Cierres este Viernes N+",
           "recomendacion": "",
-          "fecha": "19 noviembre 2026 · 19:09 CST",
-          "fecha_iso": "2026-11-19T19:09:00-06:00",
-          "fuente": "El Informador Jalisco",
-          "url": "https://www.informador.mx/mexico/sinaloa-militares-se-enfrentan-a-civiles-armados-en-badiraguato-detienen-a-dos-20261119-0157.html",
+          "fecha": "20 noviembre 2026 · 06:31 CST",
+          "fecha_iso": "2026-11-20T06:31:00-06:00",
+          "fuente": "N+",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYkpOZVlnamFXNzV3R3VSTnZnTkl3YXZIRHRWSUNMSHYzNzFoWmI0cEFpRF9Nb2xLd0ZDRGV3QmR4c1owUE1QRUUtei1ScDBXU3NBVGZ6bE5BVENCMEdfbVQ5ejJweEtCbHdWZGVvVGQxUUdTYzJ0bDZPTjRkejhwSjRrTHMxQUJjNXZUc3JjbkpWU1pOR1MwaHBwMHVmaGpmOFA5djFHRWYtQkZ1d2pYN2duOXk2TXJaSEpzNllXZ2RYSGJMSnpoaVVsSDdYeVk?oc=5",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 24.8,
-          "lon": -107.39
+          "badge_txt": "BLOQUEO"
         }
       ]
     },
@@ -84,15 +80,15 @@
       "col2": true,
       "alertas": [
         {
-          "id": "79105d36",
+          "id": "5e26a2f2",
           "tipo": "cierre_parcial",
-          "ruta": "Acuerdan transportistas y autoridades plan contra abusos de grúas y…",
-          "descripcion": "Acuerdan transportistas y autoridades plan contra abusos de grúas y robos. Entre los avances está la plataforma SIRSE, que desarrolla la SICT para transparentar los servicios, prevenir cobros excesivos y combatir abusos.",
+          "ruta": "🚧 ¿Circularás por #Metepec? Estas vialidades permanecerán cerradas durante el…",
+          "descripcion": "🚧  ¿Circularás por #Metepec? Estas vialidades permanecerán cerradas durante el desfile del 20 de noviembre 👇👇\n\nhttps://lajornadaestadodemexico.com/calles-cerradas-en-metepec-por-desfile-de-la-revolucion-mexicana-2026/",
           "recomendacion": "",
-          "fecha": "19 noviembre 2026 · 18:31 CST",
-          "fecha_iso": "2026-11-19T18:31:00-06:00",
-          "fuente": "Quadratin Jalisco",
-          "url": "https://jalisco.quadratin.com.mx/sucesos/acuerdan-transportistas-y-autoridades-plan-contra-abusos-de-gruas-y-robos/",
+          "fecha": "20 noviembre 2026 · 07:03 CST",
+          "fecha_iso": "2026-11-20T07:03:00-06:00",
+          "fuente": "Telegram @jornadaedomex",
+          "url": "https://t.me/jornadaedomex/12667",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL"
@@ -101,6 +97,19 @@
     }
   ],
   "para_mapa": [
+    {
+      "id": "fbebb941",
+      "tipo": "cierre_total",
+      "ruta": "100",
+      "descripcion": "**Buenos días, Chiapas** · viernes 20 de noviembre de 2026\n\n🌂 Sin lluvia importante en el día.\n😷 Aire: No disponible (índice 79).\n🌎 2 sismos en 24 h cerca de Chiapas; el mayor, M 4.0 100 km al sur de Cd Hidalgo.\n⚠️ Rachas de viento mañana en Arriaga: hasta 47 km/h · Hasta las 11:59 p. m.\n\n**Lo último en Alerta Chiapas**\n• [Copoya: una de cada tres casas no se abastece del servicio público de agua](https://alertachiapas.com/2026/11/19/copoya-tuxtla-agua-servicio-publico-pipas-pozos/)\n• [Motozintl",
+      "fecha": "20 noviembre 2026 · 07:00 CST",
+      "fuente": "Telegram @AlertaChiapas",
+      "url": "https://t.me/AlertaChiapas/3205",
+      "dot_color": "#e74c3c",
+      "badge_txt": "CIERRE TOTAL",
+      "lat": 16.75,
+      "lon": -93.12
+    },
     {
       "id": "9a867a85",
       "tipo": "cierre_total",
@@ -113,32 +122,6 @@
       "badge_txt": "CIERRE TOTAL",
       "lat": 16.75,
       "lon": -93.12
-    },
-    {
-      "id": "0e6e4256",
-      "tipo": "bloqueo",
-      "ruta": "Militares se enfrentan a civiles armados en Badiraguato, Sinaloa; detienen…",
-      "descripcion": "Militares se enfrentan a civiles armados en Badiraguato, Sinaloa; detienen a dos. Reportan que un joven resultó herido en medio del intercambio de disparos en un tramo carretero",
-      "fecha": "19 noviembre 2026 · 19:09 CST",
-      "fuente": "El Informador Jalisco",
-      "url": "https://www.informador.mx/mexico/sinaloa-militares-se-enfrentan-a-civiles-armados-en-badiraguato-detienen-a-dos-20261119-0157.html",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 24.8,
-      "lon": -107.39
-    },
-    {
-      "id": "caae1b1a",
-      "tipo": "cierre_total",
-      "ruta": "Conductor de Tráiler Muere Durante Volcadura en Autopista Siglo XXI…",
-      "descripcion": "Conductor de Tráiler Muere Durante Volcadura en Autopista Siglo XXI de Puebla - N+. Conductor de Tráiler Muere Durante Volcadura en Autopista Siglo XXI de Puebla N+",
-      "fecha": "19 noviembre 2026 · 18:21 CST",
-      "fuente": "N+",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNa3FKOTFyVWRwUFF2Z2lPWFpzSlFSVE1vV1ltaTdMMUpCcDdXMVlLcUpMWkktR1BFbWRUVWNPSWJxaW9QOHpveGI4MlloVUZFbE0zRjdiX0tlOERZY0l3XzV1UzJCT3FuU21JRDFzQXRKYTVDOFBFU015SkstYWo5Q19EeEZfckw1TV9jWkUtR0toaXN1YWJRNmRZT3BkVDIybmhmV2ttQy05YVpRem50Zk1SVm9VMGJGYzRweDZKSk5RTGNEeGVXWlZxejdpZw?oc=5",
-      "dot_color": "#e74c3c",
-      "badge_txt": "CIERRE TOTAL",
-      "lat": 19.3,
-      "lon": -104.0
     }
   ]
 }
