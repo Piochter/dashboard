@@ -1,39 +1,13 @@
 {
-  "ultima_actualizacion": "2026-11-20T15:33:28.016619-06:00",
-  "ultima_actualizacion_legible": "20 de noviembre de 2026 · 15:33 CST",
-  "total": 6,
+  "ultima_actualizacion": "2026-11-20T20:50:10.300443-06:00",
+  "ultima_actualizacion_legible": "20 de noviembre de 2026 · 20:50 CST",
+  "total": 5,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News",
     "Quadratin + regionales",
     "Telegram"
   ],
   "grupos": [
-    {
-      "tipo": "cierre_total",
-      "color": "rojo",
-      "icono": "🔴",
-      "label": "CIERRE TOTAL",
-      "col2": false,
-      "alertas": [
-        {
-          "id": "fbebb941",
-          "tipo": "cierre_total",
-          "ruta": "100",
-          "descripcion": "**Buenos días, Chiapas** · viernes 20 de noviembre de 2026\n\n🌂 Sin lluvia importante en el día.\n😷 Aire: No disponible (índice 79).\n🌎 2 sismos en 24 h cerca de Chiapas; el mayor, M 4.0 100 km al sur de Cd Hidalgo.\n⚠️ Rachas de viento mañana en Arriaga: hasta 47 km/h · Hasta las 11:59 p. m.\n\n**Lo último en Alerta Chiapas**\n• [Copoya: una de cada tres casas no se abastece del servicio público de agua](https://alertachiapas.com/2026/11/19/copoya-tuxtla-agua-servicio-publico-pipas-pozos/)\n• [Motozintl",
-          "recomendacion": "",
-          "fecha": "20 noviembre 2026 · 07:00 CST",
-          "fecha_iso": "2026-11-20T07:00:00-06:00",
-          "fuente": "Telegram @AlertaChiapas",
-          "url": "https://t.me/AlertaChiapas/3205",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL",
-          "lat": 16.75,
-          "lon": -93.12
-        }
-      ]
-    },
     {
       "tipo": "bloqueo",
       "color": "rojo",
@@ -54,20 +28,6 @@
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO"
-        },
-        {
-          "id": "381ea376",
-          "tipo": "bloqueo",
-          "ruta": "¿Bloqueo de Carreteras Hoy? Reportes de Accidentes y Cierres este…",
-          "descripcion": "¿Bloqueo de Carreteras Hoy? Reportes de Accidentes y Cierres este Viernes - N+. ¿Bloqueo de Carreteras Hoy? Reportes de Accidentes y Cierres este Viernes N+",
-          "recomendacion": "",
-          "fecha": "20 noviembre 2026 · 13:29 CST",
-          "fecha_iso": "2026-11-20T13:29:00-06:00",
-          "fuente": "N+",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYkpOZVlnamFXNzV3R3VSTnZnTkl3YXZIRHRWSUNMSHYzNzFoWmI0cEFpRF9Nb2xLd0ZDRGV3QmR4c1owUE1QRUUtei1ScDBXU3NBVGZ6bE5BVENCMEdfbVQ5ejJweEtCbHdWZGVvVGQxUUdTYzJ0bDZPTjRkejhwSjRrTHMxQUJjNXZUc3JjbkpWU1pOR1MwaHBwMHVmaGpmOFA5djFHRWYtQkZ1d2pYN2duOXk2TXJaSEpzNllXZ2RYSGJMSnpoaVVsSDdYeVk?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
         }
       ]
     },
@@ -79,15 +39,45 @@
       "col2": true,
       "alertas": [
         {
-          "id": "91bec41c",
+          "id": "a1cba727",
+          "tipo": "cierre_parcial",
+          "ruta": "autopista México-Tulancingo",
+          "descripcion": "Chocan 2 tráileres y bloquean autopista México-Tulancingo. Accidente en el kilómetro 24 paraliza la circulación hacia Hidalgo; no se reportan lesionados",
+          "recomendacion": "",
+          "fecha": "20 noviembre 2026 · 20:46 CST",
+          "fecha_iso": "2026-11-20T20:46:00-06:00",
+          "fuente": "Quadratin EdoMex",
+          "url": "https://edomex.quadratin.com.mx/chocan-2-traileres-y-bloquean-autopista-mexico-tulancingo/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 20.11,
+          "lon": -98.73
+        },
+        {
+          "id": "788df1ae",
           "tipo": "cierre_parcial",
           "ruta": "Llegará diciembre y encontrará el Siervo de la Nación cerrado…",
-          "descripcion": "Llegará diciembre y encontrará el Siervo de la Nación cerrado. La carretera, bajo el dominio de Mota-Engil, es una pista obsoleta que se cae a pedazos",
+          "descripcion": "Llegará diciembre y encontrará el Siervo de la Nación cerrado. La autopista Siervo de la Nación llega a diciembre con un tramo cerrado por el incendio de abril y fallas en el TAG.",
           "recomendacion": "",
-          "fecha": "20 noviembre 2026 · 14:58 CST",
-          "fecha_iso": "2026-11-20T14:58:00-06:00",
-          "fuente": "Quadratin Jalisco",
-          "url": "https://jalisco.quadratin.com.mx/Nacional/llegara-diciembre-y-encontrara-el-siervo-de-la-nacion-cerrado/",
+          "fecha": "20 noviembre 2026 · 16:22 CST",
+          "fecha_iso": "2026-11-20T16:22:00-06:00",
+          "fuente": "Quadratin Puebla",
+          "url": "https://puebla.quadratin.com.mx/nacionales/llegara-diciembre-y-encontrara-el-siervo-de-la-nacion-cerrado/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        },
+        {
+          "id": "f0f8a323",
+          "tipo": "cierre_parcial",
+          "ruta": "Comando despoja a trabajadores de casi medio millón de pesos…",
+          "descripcion": "Comando despoja a trabajadores de casi medio millón de pesos en Tehuacán. Un comando despojó a trabajadores de casi medio millón de pesos de nómina en el Libramiento Tecnológico, Tehuacán.",
+          "recomendacion": "",
+          "fecha": "20 noviembre 2026 · 15:00 CST",
+          "fecha_iso": "2026-11-20T15:00:00-06:00",
+          "fuente": "Quadratin Puebla",
+          "url": "https://puebla.quadratin.com.mx/principal/comando-despoja-a-trabajadores-de-casi-medio-millon-de-pesos-en-tehuacan/",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL"
@@ -105,37 +95,23 @@
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL"
-        },
-        {
-          "id": "5e26a2f2",
-          "tipo": "cierre_parcial",
-          "ruta": "🚧 ¿Circularás por #Metepec? Estas vialidades permanecerán cerradas durante el…",
-          "descripcion": "🚧  ¿Circularás por #Metepec? Estas vialidades permanecerán cerradas durante el desfile del 20 de noviembre 👇👇\n\nhttps://lajornadaestadodemexico.com/calles-cerradas-en-metepec-por-desfile-de-la-revolucion-mexicana-2026/",
-          "recomendacion": "",
-          "fecha": "20 noviembre 2026 · 07:03 CST",
-          "fecha_iso": "2026-11-20T07:03:00-06:00",
-          "fuente": "Telegram @jornadaedomex",
-          "url": "https://t.me/jornadaedomex/12667",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
         }
       ]
     }
   ],
   "para_mapa": [
     {
-      "id": "fbebb941",
-      "tipo": "cierre_total",
-      "ruta": "100",
-      "descripcion": "**Buenos días, Chiapas** · viernes 20 de noviembre de 2026\n\n🌂 Sin lluvia importante en el día.\n😷 Aire: No disponible (índice 79).\n🌎 2 sismos en 24 h cerca de Chiapas; el mayor, M 4.0 100 km al sur de Cd Hidalgo.\n⚠️ Rachas de viento mañana en Arriaga: hasta 47 km/h · Hasta las 11:59 p. m.\n\n**Lo último en Alerta Chiapas**\n• [Copoya: una de cada tres casas no se abastece del servicio público de agua](https://alertachiapas.com/2026/11/19/copoya-tuxtla-agua-servicio-publico-pipas-pozos/)\n• [Motozintl",
-      "fecha": "20 noviembre 2026 · 07:00 CST",
-      "fuente": "Telegram @AlertaChiapas",
-      "url": "https://t.me/AlertaChiapas/3205",
-      "dot_color": "#e74c3c",
-      "badge_txt": "CIERRE TOTAL",
-      "lat": 16.75,
-      "lon": -93.12
+      "id": "a1cba727",
+      "tipo": "cierre_parcial",
+      "ruta": "autopista México-Tulancingo",
+      "descripcion": "Chocan 2 tráileres y bloquean autopista México-Tulancingo. Accidente en el kilómetro 24 paraliza la circulación hacia Hidalgo; no se reportan lesionados",
+      "fecha": "20 noviembre 2026 · 20:46 CST",
+      "fuente": "Quadratin EdoMex",
+      "url": "https://edomex.quadratin.com.mx/chocan-2-traileres-y-bloquean-autopista-mexico-tulancingo/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 20.11,
+      "lon": -98.73
     }
   ]
 }
