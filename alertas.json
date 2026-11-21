@@ -1,10 +1,11 @@
 {
-  "ultima_actualizacion": "2026-11-21T04:27:58.512334-06:00",
-  "ultima_actualizacion_legible": "21 de noviembre de 2026 · 04:27 CST",
-  "total": 4,
+  "ultima_actualizacion": "2026-11-21T11:43:06.519398-06:00",
+  "ultima_actualizacion_legible": "21 de noviembre de 2026 · 11:43 CST",
+  "total": 3,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Medios regionales",
+    "Google News",
+    "Medios nacionales",
     "Quadratin + regionales"
   ],
   "grupos": [
@@ -16,142 +17,80 @@
       "col2": false,
       "alertas": [
         {
-          "id": "2163ec8e",
+          "id": "81a61927",
           "tipo": "bloqueo",
-          "ruta": "Trasciende detención de “El Chapo Isidro” durante operativo en Guasave,…",
-          "descripcion": "Trasciende detención de “El Chapo Isidro” durante operativo en Guasave, Sinaloa. El operativo causó enfrentamientos en la ciudad y bloqueos en la carretera federal México 15",
+          "ruta": "Bloqueos carreteras HOY sábado 21 de noviembre: autopistas cerradas en…",
+          "descripcion": "Bloqueos carreteras HOY sábado 21 de noviembre: autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY sábado 21 de noviembre: autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
           "recomendacion": "",
-          "fecha": "21 noviembre 2026 · 00:05 CST",
-          "fecha_iso": "2026-11-21T00:05:00-06:00",
-          "fuente": "El Informador Jalisco",
-          "url": "https://www.informador.mx/mexico/sinaloa-ejercito-mexicano-captura-al-chapo-isidro-en-guasave-20261121-0001.html",
+          "fecha": "21 noviembre 2026 · 11:35 CST",
+          "fecha_iso": "2026-11-21T11:35:00-06:00",
+          "fuente": "Eje Central",
+          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNUkt6Z2dtbno4T05ndm5NdS1rSVJUem95VUYzY0JCOTl5X2RIeFVwUFVSVllFcS1uLW1kTmtkem5GRVRmSzkzMDhrSk1Jc1RXT0ZuMHdTRGtJMlVsUUVSemVSbm5ySkd3ZVRGTmk5bHlzZk13TTkxOUZFUFRSOEtZVjJvMU5ibHdWTlMzOFpzSldPa0lZZm9ERTN0ZjljYmROaV9RSldTYjMwRVhBMEJpNWRpaXNrX2FpZXFGYzNDdDhFYkU0dEZPem5DVlZiOXlVQ253eVJKWDFacWJuU2RSZHZ5U1dOUVZCNGFrMll6TDZpY2FBUmc?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        },
+        {
+          "id": "c01eba4b",
+          "tipo": "bloqueo",
+          "ruta": "Manifestación en el zoológico de Aragón y otras protestas en…",
+          "descripcion": "Manifestación en el zoológico de Aragón y otras protestas en CDMX HOY; calles afectadas. Consulta los horarios, alcaldías y vialidades afectadas por las 8 rodadas y 4 concentraciones de este sábado 21 de noviembre en la Ciudad de México.",
+          "recomendacion": "",
+          "fecha": "21 noviembre 2026 · 09:17 CST",
+          "fecha_iso": "2026-11-21T09:17:00-06:00",
+          "fuente": "24 Horas",
+          "url": "https://24-horas.mx/cdmx/manifestaciones-hoy-sabado-21-noviembre-2026-cdmx/",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO",
-          "lat": 21.0,
-          "lon": -104.0
-        }
-      ]
-    },
-    {
-      "tipo": "robo",
-      "color": "rojo",
-      "icono": "🚨",
-      "label": "ROBOS EN CARRETERA",
-      "col2": true,
-      "alertas": [
-        {
-          "id": "2a79349f",
-          "tipo": "robo",
-          "ruta": "carretera de Hidalgo",
-          "descripcion": "Condena UNNE asesinato de operador durante asalto en carretera de Hidalgo. TULA DE ALLENDE, Hgo. 20 de noviembre de 2026.– El Corporativo UNNE asentado en la comunidad de El Llano, Tula, condenó el asesinato de uno de sus operadores, quien perdió la vida durante un asalto registrado la madrugada de este jueves sobre Periférico Norte, a la altura de Lago de Guadalupe, cuando circulaba en dirección […] The post Condena UNNE asesinato de operador durante asalto en carretera de Hidalgo appeared firs",
-          "recomendacion": "",
-          "fecha": "20 noviembre 2026 · 21:28 CST",
-          "fecha_iso": "2026-11-20T21:28:00-06:00",
-          "fuente": "Quadratin Hidalgo",
-          "url": "https://hidalgo.quadratin.com.mx/municipios/condena-unne-asesinato-de-operador-durante-asalto-en-carretera-de-hidalgo/",
-          "dot_color": "#c0392b",
-          "badge": "badge-robo",
-          "badge_txt": "ROBO",
-          "lat": 20.11,
-          "lon": -98.73
-        }
-      ]
-    },
-    {
-      "tipo": "cierre_parcial",
-      "color": "amarillo",
-      "icono": "🟡",
-      "label": "CIERRE PARCIAL / ACCIDENTES",
-      "col2": true,
-      "alertas": [
-        {
-          "id": "1d8c6fc5",
-          "tipo": "cierre_parcial",
-          "ruta": "Buscan a familiares de motociclista fallecido en la México-Pachuca…",
-          "descripcion": "Buscan a familiares de motociclista fallecido en la México-Pachuca. Un motociclista perdió la vida tras sufrir un accidente sobre la autopista México-Pachuca, a la altura del municipio de Tecámac, por lo que se solicit The post Buscan a familiares de motociclista fallecido en la México-Pachuca appeared first on Quadratin Hidalgo.",
-          "recomendacion": "",
-          "fecha": "20 noviembre 2026 · 22:25 CST",
-          "fecha_iso": "2026-11-20T22:25:00-06:00",
-          "fuente": "Quadratin Hidalgo",
-          "url": "https://hidalgo.quadratin.com.mx/sucesos/buscan-a-familiares-de-motociclista-fallecido-en-la-mexico-pachuca/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 20.11,
-          "lon": -98.73
+          "lat": 19.43,
+          "lon": -99.13
         },
         {
-          "id": "9590efdc",
-          "tipo": "cierre_parcial",
-          "ruta": "Llegará diciembre y encontrará el Siervo de la Nación cerrado…",
-          "descripcion": "Llegará diciembre y encontrará el Siervo de la Nación cerrado. ECATEPEC, Edomex., 20 de noviembre de 2026.- A unas semanas de las fiestas decembrinas y de Año Nuevo, cuando miles de automovilistas incrementan sus viajes por las carreteras del Estado de México (EMX), la autopista Siervo de la Nación llegará con un tramo todavía cerrado por el incendio ocurrido en abril y nuevas fallas en […]",
+          "id": "f7f450e0",
+          "tipo": "bloqueo",
+          "ruta": "Cayó el Chapo Isidro y desatan bloqueos en 4 municipios…",
+          "descripcion": "Cayó el Chapo Isidro y desatan bloqueos en 4 municipios de Sinaloa. Fuerzas especiales del Ejército y la Guardia Nacional detuvieron en Guasave al presunto líder de los Beltrán Leyva",
           "recomendacion": "",
-          "fecha": "20 noviembre 2026 · 16:35 CST",
-          "fecha_iso": "2026-11-20T16:35:00-06:00",
-          "fuente": "Quadratin Morelos",
-          "url": "https://morelos.quadratin.com.mx/llegara-diciembre-y-encontrara-el-siervo-de-la-nacion-cerrado/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.35,
-          "lon": -99.7
+          "fecha": "21 noviembre 2026 · 06:11 CST",
+          "fecha_iso": "2026-11-21T06:11:00-06:00",
+          "fuente": "Quadratin EdoMex",
+          "url": "https://edomex.quadratin.com.mx/692345-2/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 24.8,
+          "lon": -107.39
         }
       ]
     }
   ],
   "para_mapa": [
     {
-      "id": "2163ec8e",
+      "id": "c01eba4b",
       "tipo": "bloqueo",
-      "ruta": "Trasciende detención de “El Chapo Isidro” durante operativo en Guasave,…",
-      "descripcion": "Trasciende detención de “El Chapo Isidro” durante operativo en Guasave, Sinaloa. El operativo causó enfrentamientos en la ciudad y bloqueos en la carretera federal México 15",
-      "fecha": "21 noviembre 2026 · 00:05 CST",
-      "fuente": "El Informador Jalisco",
-      "url": "https://www.informador.mx/mexico/sinaloa-ejercito-mexicano-captura-al-chapo-isidro-en-guasave-20261121-0001.html",
+      "ruta": "Manifestación en el zoológico de Aragón y otras protestas en…",
+      "descripcion": "Manifestación en el zoológico de Aragón y otras protestas en CDMX HOY; calles afectadas. Consulta los horarios, alcaldías y vialidades afectadas por las 8 rodadas y 4 concentraciones de este sábado 21 de noviembre en la Ciudad de México.",
+      "fecha": "21 noviembre 2026 · 09:17 CST",
+      "fuente": "24 Horas",
+      "url": "https://24-horas.mx/cdmx/manifestaciones-hoy-sabado-21-noviembre-2026-cdmx/",
       "dot_color": "#8e44ad",
       "badge_txt": "BLOQUEO",
-      "lat": 21.0,
-      "lon": -104.0
+      "lat": 19.43,
+      "lon": -99.13
     },
     {
-      "id": "1d8c6fc5",
-      "tipo": "cierre_parcial",
-      "ruta": "Buscan a familiares de motociclista fallecido en la México-Pachuca…",
-      "descripcion": "Buscan a familiares de motociclista fallecido en la México-Pachuca. Un motociclista perdió la vida tras sufrir un accidente sobre la autopista México-Pachuca, a la altura del municipio de Tecámac, por lo que se solicit The post Buscan a familiares de motociclista fallecido en la México-Pachuca appeared first on Quadratin Hidalgo.",
-      "fecha": "20 noviembre 2026 · 22:25 CST",
-      "fuente": "Quadratin Hidalgo",
-      "url": "https://hidalgo.quadratin.com.mx/sucesos/buscan-a-familiares-de-motociclista-fallecido-en-la-mexico-pachuca/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 20.11,
-      "lon": -98.73
-    },
-    {
-      "id": "2a79349f",
-      "tipo": "robo",
-      "ruta": "carretera de Hidalgo",
-      "descripcion": "Condena UNNE asesinato de operador durante asalto en carretera de Hidalgo. TULA DE ALLENDE, Hgo. 20 de noviembre de 2026.– El Corporativo UNNE asentado en la comunidad de El Llano, Tula, condenó el asesinato de uno de sus operadores, quien perdió la vida durante un asalto registrado la madrugada de este jueves sobre Periférico Norte, a la altura de Lago de Guadalupe, cuando circulaba en dirección […] The post Condena UNNE asesinato de operador durante asalto en carretera de Hidalgo appeared firs",
-      "fecha": "20 noviembre 2026 · 21:28 CST",
-      "fuente": "Quadratin Hidalgo",
-      "url": "https://hidalgo.quadratin.com.mx/municipios/condena-unne-asesinato-de-operador-durante-asalto-en-carretera-de-hidalgo/",
-      "dot_color": "#c0392b",
-      "badge_txt": "ROBO",
-      "lat": 20.11,
-      "lon": -98.73
-    },
-    {
-      "id": "9590efdc",
-      "tipo": "cierre_parcial",
-      "ruta": "Llegará diciembre y encontrará el Siervo de la Nación cerrado…",
-      "descripcion": "Llegará diciembre y encontrará el Siervo de la Nación cerrado. ECATEPEC, Edomex., 20 de noviembre de 2026.- A unas semanas de las fiestas decembrinas y de Año Nuevo, cuando miles de automovilistas incrementan sus viajes por las carreteras del Estado de México (EMX), la autopista Siervo de la Nación llegará con un tramo todavía cerrado por el incendio ocurrido en abril y nuevas fallas en […]",
-      "fecha": "20 noviembre 2026 · 16:35 CST",
-      "fuente": "Quadratin Morelos",
-      "url": "https://morelos.quadratin.com.mx/llegara-diciembre-y-encontrara-el-siervo-de-la-nacion-cerrado/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.35,
-      "lon": -99.7
+      "id": "f7f450e0",
+      "tipo": "bloqueo",
+      "ruta": "Cayó el Chapo Isidro y desatan bloqueos en 4 municipios…",
+      "descripcion": "Cayó el Chapo Isidro y desatan bloqueos en 4 municipios de Sinaloa. Fuerzas especiales del Ejército y la Guardia Nacional detuvieron en Guasave al presunto líder de los Beltrán Leyva",
+      "fecha": "21 noviembre 2026 · 06:11 CST",
+      "fuente": "Quadratin EdoMex",
+      "url": "https://edomex.quadratin.com.mx/692345-2/",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 24.8,
+      "lon": -107.39
     }
   ]
 }
