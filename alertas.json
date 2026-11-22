@@ -1,35 +1,51 @@
 {
-  "ultima_actualizacion": "2026-11-22T11:39:55.911628-06:00",
-  "ultima_actualizacion_legible": "22 de noviembre de 2026 · 11:39 CST",
+  "ultima_actualizacion": "2026-11-22T16:48:00.822449-06:00",
+  "ultima_actualizacion_legible": "22 de noviembre de 2026 · 16:48 CST",
   "total": 1,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Medios nacionales"
+    "Quadratin + regionales"
   ],
   "grupos": [
     {
-      "tipo": "bloqueo",
-      "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
-      "col2": false,
+      "tipo": "cierre_parcial",
+      "color": "amarillo",
+      "icono": "🟡",
+      "label": "CIERRE PARCIAL / ACCIDENTES",
+      "col2": true,
       "alertas": [
         {
-          "id": "0f22612c",
-          "tipo": "bloqueo",
-          "ruta": "Marchas y bloqueos este 22 de noviembre: ¿Qué calles y…",
-          "descripcion": "Marchas y bloqueos este 22 de noviembre: ¿Qué calles y vialidades estarán cerradas?. Familiares de un joven desaparecido se instalarán en el Ajusco para entregar boletines de búsqueda y exigir la localización con vida",
+          "id": "b4fd2e04",
+          "tipo": "cierre_parcial",
+          "ruta": "Muere motociclista en choque con tráiler en Tehuantepec-Salina Cruz…",
+          "descripcion": "Muere motociclista en choque con tráiler en Tehuantepec-Salina Cruz. El percance ocurrió en la carretera Transístmica 185, en el tramo Tehuantepec-Salina Cruz",
           "recomendacion": "",
-          "fecha": "22 noviembre 2026 · 09:31 CST",
-          "fecha_iso": "2026-11-22T09:31:00-06:00",
-          "fuente": "24 Horas",
-          "url": "https://24-horas.mx/cdmx/marchas-y-bloqueos-este-22-de-noviembre-que-calles-y-vialidades-estaran-cerradas/",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
+          "fecha": "22 noviembre 2026 · 16:41 CST",
+          "fecha_iso": "2026-11-22T16:41:00-06:00",
+          "fuente": "Quadratin Oaxaca",
+          "url": "https://oaxaca.quadratin.com.mx/muere-motociclista-en-choque-con-trailer-en-el-istmo-de-oaxaca/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 26.5,
+          "lon": -99.5
         }
       ]
     }
   ],
-  "para_mapa": []
+  "para_mapa": [
+    {
+      "id": "b4fd2e04",
+      "tipo": "cierre_parcial",
+      "ruta": "Muere motociclista en choque con tráiler en Tehuantepec-Salina Cruz…",
+      "descripcion": "Muere motociclista en choque con tráiler en Tehuantepec-Salina Cruz. El percance ocurrió en la carretera Transístmica 185, en el tramo Tehuantepec-Salina Cruz",
+      "fecha": "22 noviembre 2026 · 16:41 CST",
+      "fuente": "Quadratin Oaxaca",
+      "url": "https://oaxaca.quadratin.com.mx/muere-motociclista-en-choque-con-trailer-en-el-istmo-de-oaxaca/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 26.5,
+      "lon": -99.5
+    }
+  ]
 }
