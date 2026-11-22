@@ -1,10 +1,9 @@
 {
-  "ultima_actualizacion": "2026-11-21T20:26:02.753465-06:00",
-  "ultima_actualizacion_legible": "21 de noviembre de 2026 · 20:26 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-11-22T04:00:11.779458-06:00",
+  "ultima_actualizacion_legible": "22 de noviembre de 2026 · 04:00 CST",
+  "total": 1,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News",
     "Quadratin + regionales"
   ],
   "grupos": [
@@ -30,36 +29,6 @@
           "badge_txt": "BLOQUEO",
           "lat": 21.0,
           "lon": -104.0
-        },
-        {
-          "id": "81a61927",
-          "tipo": "bloqueo",
-          "ruta": "Bloqueos carreteras HOY sábado 21 de noviembre: autopistas cerradas en…",
-          "descripcion": "Bloqueos carreteras HOY sábado 21 de noviembre: autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY sábado 21 de noviembre: autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
-          "recomendacion": "",
-          "fecha": "21 noviembre 2026 · 11:35 CST",
-          "fecha_iso": "2026-11-21T11:35:00-06:00",
-          "fuente": "Eje Central",
-          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNUkt6Z2dtbno4T05ndm5NdS1rSVJUem95VUYzY0JCOTl5X2RIeFVwUFVSVllFcS1uLW1kTmtkem5GRVRmSzkzMDhrSk1Jc1RXT0ZuMHdTRGtJMlVsUUVSemVSbm5ySkd3ZVRGTmk5bHlzZk13TTkxOUZFUFRSOEtZVjJvMU5ibHdWTlMzOFpzSldPa0lZZm9ERTN0ZjljYmROaV9RSldTYjMwRVhBMEJpNWRpaXNrX2FpZXFGYzNDdDhFYkU0dEZPem5DVlZiOXlVQ253eVJKWDFacWJuU2RSZHZ5U1dOUVZCNGFrMll6TDZpY2FBUmc?oc=5",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
-        },
-        {
-          "id": "deb2466b",
-          "tipo": "bloqueo",
-          "ruta": "Cayó el Chapo Isidro y desatan bloqueos en 4 municipios…",
-          "descripcion": "Cayó el Chapo Isidro y desatan bloqueos en 4 municipios de Sinaloa. TOLUCA, Edomex., 21 de noviembre de 2026.-La captura de Fausto Isidro “N”, alias “El Chapo Isidro”, desató una jornada de violencia en Sinaloa. Fuerzas especiales del Ejército Mexicano y de la Guardia Nacional lo detuvieron en el municipio de Guasave, junto con otros dos presuntos integrantes de su organización criminal; posteriormente se reportaron bloqueos en […]",
-          "recomendacion": "",
-          "fecha": "21 noviembre 2026 · 11:30 CST",
-          "fecha_iso": "2026-11-21T11:30:00-06:00",
-          "fuente": "Quadratin Morelos",
-          "url": "https://morelos.quadratin.com.mx/cayo-el-chapo-isidro-y-desatan-bloqueos-en-4-municipios-de-sinaloa/",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 19.35,
-          "lon": -99.7
         }
       ]
     }
@@ -77,19 +46,6 @@
       "badge_txt": "BLOQUEO",
       "lat": 21.0,
       "lon": -104.0
-    },
-    {
-      "id": "deb2466b",
-      "tipo": "bloqueo",
-      "ruta": "Cayó el Chapo Isidro y desatan bloqueos en 4 municipios…",
-      "descripcion": "Cayó el Chapo Isidro y desatan bloqueos en 4 municipios de Sinaloa. TOLUCA, Edomex., 21 de noviembre de 2026.-La captura de Fausto Isidro “N”, alias “El Chapo Isidro”, desató una jornada de violencia en Sinaloa. Fuerzas especiales del Ejército Mexicano y de la Guardia Nacional lo detuvieron en el municipio de Guasave, junto con otros dos presuntos integrantes de su organización criminal; posteriormente se reportaron bloqueos en […]",
-      "fecha": "21 noviembre 2026 · 11:30 CST",
-      "fuente": "Quadratin Morelos",
-      "url": "https://morelos.quadratin.com.mx/cayo-el-chapo-isidro-y-desatan-bloqueos-en-4-municipios-de-sinaloa/",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 19.35,
-      "lon": -99.7
     }
   ]
 }
