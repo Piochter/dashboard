@@ -1,10 +1,10 @@
 {
-  "ultima_actualizacion": "2026-11-22T04:00:11.779458-06:00",
-  "ultima_actualizacion_legible": "22 de noviembre de 2026 · 04:00 CST",
+  "ultima_actualizacion": "2026-11-22T11:39:55.911628-06:00",
+  "ultima_actualizacion_legible": "22 de noviembre de 2026 · 11:39 CST",
   "total": 1,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Quadratin + regionales"
+    "Medios nacionales"
   ],
   "grupos": [
     {
@@ -15,37 +15,21 @@
       "col2": false,
       "alertas": [
         {
-          "id": "c3edc104",
+          "id": "0f22612c",
           "tipo": "bloqueo",
-          "ruta": "EU emite alerta a sus ciudadanos por bloqueo de carreteras…",
-          "descripcion": "EU emite alerta a sus ciudadanos por bloqueo de carreteras en Sinaloa. Han instado a los residentes a permanecer en sus hogares, reducir al mínimo sus desplazamientos y evitar la carretera federal mexicana 15",
-          "recomendacion": "evitar la carretera federal mexicana 15",
-          "fecha": "21 noviembre 2026 · 20:09 CST",
-          "fecha_iso": "2026-11-21T20:09:00-06:00",
-          "fuente": "Quadratin Jalisco",
-          "url": "https://jalisco.quadratin.com.mx/principal/eu-emite-alerta-a-sus-ciudadanos-por-bloqueo-de-carreteras-en-sinaloa/",
+          "ruta": "Marchas y bloqueos este 22 de noviembre: ¿Qué calles y…",
+          "descripcion": "Marchas y bloqueos este 22 de noviembre: ¿Qué calles y vialidades estarán cerradas?. Familiares de un joven desaparecido se instalarán en el Ajusco para entregar boletines de búsqueda y exigir la localización con vida",
+          "recomendacion": "",
+          "fecha": "22 noviembre 2026 · 09:31 CST",
+          "fecha_iso": "2026-11-22T09:31:00-06:00",
+          "fuente": "24 Horas",
+          "url": "https://24-horas.mx/cdmx/marchas-y-bloqueos-este-22-de-noviembre-que-calles-y-vialidades-estaran-cerradas/",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 21.0,
-          "lon": -104.0
+          "badge_txt": "BLOQUEO"
         }
       ]
     }
   ],
-  "para_mapa": [
-    {
-      "id": "c3edc104",
-      "tipo": "bloqueo",
-      "ruta": "EU emite alerta a sus ciudadanos por bloqueo de carreteras…",
-      "descripcion": "EU emite alerta a sus ciudadanos por bloqueo de carreteras en Sinaloa. Han instado a los residentes a permanecer en sus hogares, reducir al mínimo sus desplazamientos y evitar la carretera federal mexicana 15",
-      "fecha": "21 noviembre 2026 · 20:09 CST",
-      "fuente": "Quadratin Jalisco",
-      "url": "https://jalisco.quadratin.com.mx/principal/eu-emite-alerta-a-sus-ciudadanos-por-bloqueo-de-carreteras-en-sinaloa/",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 21.0,
-      "lon": -104.0
-    }
-  ]
+  "para_mapa": []
 }
