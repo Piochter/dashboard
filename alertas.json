@@ -1,12 +1,10 @@
 {
-  "ultima_actualizacion": "2026-11-21T16:24:46.701967-06:00",
-  "ultima_actualizacion_legible": "21 de noviembre de 2026 · 16:24 CST",
-  "total": 6,
+  "ultima_actualizacion": "2026-11-21T20:26:02.753465-06:00",
+  "ultima_actualizacion_legible": "21 de noviembre de 2026 · 20:26 CST",
+  "total": 3,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
-    "Medios nacionales",
-    "Medios regionales",
     "Quadratin + regionales"
   ],
   "grupos": [
@@ -18,36 +16,20 @@
       "col2": false,
       "alertas": [
         {
-          "id": "396f2ab9",
+          "id": "c3edc104",
           "tipo": "bloqueo",
-          "ruta": "Así incendiaron camiones en Guasave tras la captura del 'Chapo…",
-          "descripcion": "Así incendiaron camiones en Guasave tras la captura del 'Chapo Isidro' (FOTOS). La ola violenta se extendió a varios municipios de Sinaloa con bloqueos de carreteras",
-          "recomendacion": "",
-          "fecha": "21 noviembre 2026 · 15:55 CST",
-          "fecha_iso": "2026-11-21T15:55:00-06:00",
-          "fuente": "El Informador Jalisco",
-          "url": "https://www.informador.mx/mexico/chapo-isidro-asi-incendiaron-camiones-en-guasave-tras-la-captura-del-capo-fotos-20261121-0072.html",
+          "ruta": "EU emite alerta a sus ciudadanos por bloqueo de carreteras…",
+          "descripcion": "EU emite alerta a sus ciudadanos por bloqueo de carreteras en Sinaloa. Han instado a los residentes a permanecer en sus hogares, reducir al mínimo sus desplazamientos y evitar la carretera federal mexicana 15",
+          "recomendacion": "evitar la carretera federal mexicana 15",
+          "fecha": "21 noviembre 2026 · 20:09 CST",
+          "fecha_iso": "2026-11-21T20:09:00-06:00",
+          "fuente": "Quadratin Jalisco",
+          "url": "https://jalisco.quadratin.com.mx/principal/eu-emite-alerta-a-sus-ciudadanos-por-bloqueo-de-carreteras-en-sinaloa/",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO",
-          "lat": 24.8,
-          "lon": -107.39
-        },
-        {
-          "id": "7a69f04f",
-          "tipo": "bloqueo",
-          "ruta": "Sinaloa: despojan tráileres y obligan choferes a caminar entre bloqueos…",
-          "descripcion": "Sinaloa: despojan tráileres y obligan choferes a caminar entre bloqueos. El camionero relató que los sujetos incluso le ofrecieron disculpas antes de quitarle el vehículo",
-          "recomendacion": "",
-          "fecha": "21 noviembre 2026 · 14:00 CST",
-          "fecha_iso": "2026-11-21T14:00:00-06:00",
-          "fuente": "Quadratin Tabasco",
-          "url": "https://tabasco.quadratin.com.mx/nacionales/sinaloa-despojan-traileres-y-obligan-choferes-a-caminar-entre-bloqueos/",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 24.8,
-          "lon": -107.39
+          "lat": 21.0,
+          "lon": -104.0
         },
         {
           "id": "81a61927",
@@ -78,90 +60,23 @@
           "badge_txt": "BLOQUEO",
           "lat": 19.35,
           "lon": -99.7
-        },
-        {
-          "id": "c01eba4b",
-          "tipo": "bloqueo",
-          "ruta": "Manifestación en el zoológico de Aragón y otras protestas en…",
-          "descripcion": "Manifestación en el zoológico de Aragón y otras protestas en CDMX HOY; calles afectadas. Consulta los horarios, alcaldías y vialidades afectadas por las 8 rodadas y 4 concentraciones de este sábado 21 de noviembre en la Ciudad de México.",
-          "recomendacion": "",
-          "fecha": "21 noviembre 2026 · 09:17 CST",
-          "fecha_iso": "2026-11-21T09:17:00-06:00",
-          "fuente": "24 Horas",
-          "url": "https://24-horas.mx/cdmx/manifestaciones-hoy-sabado-21-noviembre-2026-cdmx/",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 19.43,
-          "lon": -99.13
-        }
-      ]
-    },
-    {
-      "tipo": "cierre_parcial",
-      "color": "amarillo",
-      "icono": "🟡",
-      "label": "CIERRE PARCIAL / ACCIDENTES",
-      "col2": true,
-      "alertas": [
-        {
-          "id": "11076385",
-          "tipo": "cierre_parcial",
-          "ruta": "Vuelcan sobre la Toluca-Sultepec; un muerto y una mujer lesionada…",
-          "descripcion": "Vuelcan sobre la Toluca-Sultepec; un muerto y una mujer lesionada. La peligrosidad del tramo La Puerta–Sultepec está relacionada con su topografía accidentada, curvas cerradas y pendientes pronunciadas",
-          "recomendacion": "",
-          "fecha": "21 noviembre 2026 · 12:00 CST",
-          "fecha_iso": "2026-11-21T12:00:00-06:00",
-          "fuente": "Quadratin EdoMex",
-          "url": "https://edomex.quadratin.com.mx/vuelcan-sobre-la-toluca-sultepec-un-muerto-y-una-mujer-lesionada/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.29,
-          "lon": -99.66
         }
       ]
     }
   ],
   "para_mapa": [
     {
-      "id": "396f2ab9",
+      "id": "c3edc104",
       "tipo": "bloqueo",
-      "ruta": "Así incendiaron camiones en Guasave tras la captura del 'Chapo…",
-      "descripcion": "Así incendiaron camiones en Guasave tras la captura del 'Chapo Isidro' (FOTOS). La ola violenta se extendió a varios municipios de Sinaloa con bloqueos de carreteras",
-      "fecha": "21 noviembre 2026 · 15:55 CST",
-      "fuente": "El Informador Jalisco",
-      "url": "https://www.informador.mx/mexico/chapo-isidro-asi-incendiaron-camiones-en-guasave-tras-la-captura-del-capo-fotos-20261121-0072.html",
+      "ruta": "EU emite alerta a sus ciudadanos por bloqueo de carreteras…",
+      "descripcion": "EU emite alerta a sus ciudadanos por bloqueo de carreteras en Sinaloa. Han instado a los residentes a permanecer en sus hogares, reducir al mínimo sus desplazamientos y evitar la carretera federal mexicana 15",
+      "fecha": "21 noviembre 2026 · 20:09 CST",
+      "fuente": "Quadratin Jalisco",
+      "url": "https://jalisco.quadratin.com.mx/principal/eu-emite-alerta-a-sus-ciudadanos-por-bloqueo-de-carreteras-en-sinaloa/",
       "dot_color": "#8e44ad",
       "badge_txt": "BLOQUEO",
-      "lat": 24.8,
-      "lon": -107.39
-    },
-    {
-      "id": "7a69f04f",
-      "tipo": "bloqueo",
-      "ruta": "Sinaloa: despojan tráileres y obligan choferes a caminar entre bloqueos…",
-      "descripcion": "Sinaloa: despojan tráileres y obligan choferes a caminar entre bloqueos. El camionero relató que los sujetos incluso le ofrecieron disculpas antes de quitarle el vehículo",
-      "fecha": "21 noviembre 2026 · 14:00 CST",
-      "fuente": "Quadratin Tabasco",
-      "url": "https://tabasco.quadratin.com.mx/nacionales/sinaloa-despojan-traileres-y-obligan-choferes-a-caminar-entre-bloqueos/",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 24.8,
-      "lon": -107.39
-    },
-    {
-      "id": "11076385",
-      "tipo": "cierre_parcial",
-      "ruta": "Vuelcan sobre la Toluca-Sultepec; un muerto y una mujer lesionada…",
-      "descripcion": "Vuelcan sobre la Toluca-Sultepec; un muerto y una mujer lesionada. La peligrosidad del tramo La Puerta–Sultepec está relacionada con su topografía accidentada, curvas cerradas y pendientes pronunciadas",
-      "fecha": "21 noviembre 2026 · 12:00 CST",
-      "fuente": "Quadratin EdoMex",
-      "url": "https://edomex.quadratin.com.mx/vuelcan-sobre-la-toluca-sultepec-un-muerto-y-una-mujer-lesionada/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.29,
-      "lon": -99.66
+      "lat": 21.0,
+      "lon": -104.0
     },
     {
       "id": "deb2466b",
@@ -175,19 +90,6 @@
       "badge_txt": "BLOQUEO",
       "lat": 19.35,
       "lon": -99.7
-    },
-    {
-      "id": "c01eba4b",
-      "tipo": "bloqueo",
-      "ruta": "Manifestación en el zoológico de Aragón y otras protestas en…",
-      "descripcion": "Manifestación en el zoológico de Aragón y otras protestas en CDMX HOY; calles afectadas. Consulta los horarios, alcaldías y vialidades afectadas por las 8 rodadas y 4 concentraciones de este sábado 21 de noviembre en la Ciudad de México.",
-      "fecha": "21 noviembre 2026 · 09:17 CST",
-      "fuente": "24 Horas",
-      "url": "https://24-horas.mx/cdmx/manifestaciones-hoy-sabado-21-noviembre-2026-cdmx/",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 19.43,
-      "lon": -99.13
     }
   ]
 }
