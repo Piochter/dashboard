@@ -1,12 +1,36 @@
 {
-  "ultima_actualizacion": "2026-11-22T21:22:50.206957-06:00",
-  "ultima_actualizacion_legible": "22 de noviembre de 2026 · 21:22 CST",
-  "total": 1,
+  "ultima_actualizacion": "2026-11-23T07:22:38.760924-06:00",
+  "ultima_actualizacion_legible": "23 de noviembre de 2026 · 07:22 CST",
+  "total": 2,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
+    "Google News",
     "Quadratin + regionales"
   ],
   "grupos": [
+    {
+      "tipo": "bloqueo",
+      "color": "rojo",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
+      "col2": false,
+      "alertas": [
+        {
+          "id": "f181bc6b",
+          "tipo": "bloqueo",
+          "ruta": "Bloqueos carreteras HOY LUNES 23 de noviembre: Autopistas cerradas en…",
+          "descripcion": "Bloqueos carreteras HOY LUNES 23 de noviembre: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY LUNES 23 de noviembre: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
+          "recomendacion": "",
+          "fecha": "23 noviembre 2026 · 07:13 CST",
+          "fecha_iso": "2026-11-23T07:13:00-06:00",
+          "fuente": "Eje Central",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPWC0xLWE2Vnh3bEhGcFVCcllWckVUQXVPUTdMN3Y0MDIxcEY3Y3N0VmdmWlRBUXFldjMxNFFNUTYzNFVUU29tbEVrNjIyMXRyMUhybWU2Mk0tdEpKblFyNHpuSWZtcmxvZ3YtNnlyS1pldVN6eTM3SFp4QksxZ1pGbTRVdVl3VnRmOHhpNjRpUF9ya083V3RYcG0wYkYwc01hQmxkb3ZMOFJDdlU3eXlSVW56blVqZWxicHNoZjF4aUZYd013dE9zOTRPejFCMWxCbGcta3gyUFMwbk9IR2c4Tkpad1gtdTh0c1U1bjRoNjUwSnpz?oc=5",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO"
+        }
+      ]
+    },
     {
       "tipo": "cierre_parcial",
       "color": "amarillo",
@@ -15,37 +39,37 @@
       "col2": true,
       "alertas": [
         {
-          "id": "b4fd2e04",
+          "id": "b3a806ea",
           "tipo": "cierre_parcial",
-          "ruta": "Muere motociclista en choque con tráiler en Tehuantepec-Salina Cruz…",
-          "descripcion": "Muere motociclista en choque con tráiler en Tehuantepec-Salina Cruz. El percance ocurrió en la carretera Transístmica 185, en el tramo Tehuantepec-Salina Cruz",
+          "ruta": "carretera 300",
+          "descripcion": "Desconoce CEI condiciones de rampa de frenado tras accidente fatal en carretera 300. Conductor murió en tramo Amealco-San Juan The post Desconoce CEI condiciones de rampa de frenado tras accidente fatal en carretera 300 appeared first on Quadratin Querétaro.",
           "recomendacion": "",
-          "fecha": "22 noviembre 2026 · 16:41 CST",
-          "fecha_iso": "2026-11-22T16:41:00-06:00",
-          "fuente": "Quadratin Oaxaca",
-          "url": "https://oaxaca.quadratin.com.mx/muere-motociclista-en-choque-con-trailer-en-el-istmo-de-oaxaca/",
+          "fecha": "23 noviembre 2026 · 07:00 CST",
+          "fecha_iso": "2026-11-23T07:00:00-06:00",
+          "fuente": "Quadratin Queretaro",
+          "url": "https://queretaro.quadratin.com.mx/desconoce-cei-condiciones-de-rampa-de-frenado-tras-accidente-fatal-en-carretera-300/",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL",
-          "lat": 26.5,
-          "lon": -99.5
+          "lat": 20.59,
+          "lon": -100.39
         }
       ]
     }
   ],
   "para_mapa": [
     {
-      "id": "b4fd2e04",
+      "id": "b3a806ea",
       "tipo": "cierre_parcial",
-      "ruta": "Muere motociclista en choque con tráiler en Tehuantepec-Salina Cruz…",
-      "descripcion": "Muere motociclista en choque con tráiler en Tehuantepec-Salina Cruz. El percance ocurrió en la carretera Transístmica 185, en el tramo Tehuantepec-Salina Cruz",
-      "fecha": "22 noviembre 2026 · 16:41 CST",
-      "fuente": "Quadratin Oaxaca",
-      "url": "https://oaxaca.quadratin.com.mx/muere-motociclista-en-choque-con-trailer-en-el-istmo-de-oaxaca/",
+      "ruta": "carretera 300",
+      "descripcion": "Desconoce CEI condiciones de rampa de frenado tras accidente fatal en carretera 300. Conductor murió en tramo Amealco-San Juan The post Desconoce CEI condiciones de rampa de frenado tras accidente fatal en carretera 300 appeared first on Quadratin Querétaro.",
+      "fecha": "23 noviembre 2026 · 07:00 CST",
+      "fuente": "Quadratin Queretaro",
+      "url": "https://queretaro.quadratin.com.mx/desconoce-cei-condiciones-de-rampa-de-frenado-tras-accidente-fatal-en-carretera-300/",
       "dot_color": "#e67e22",
       "badge_txt": "CIERRE PARCIAL",
-      "lat": 26.5,
-      "lon": -99.5
+      "lat": 20.59,
+      "lon": -100.39
     }
   ]
 }
