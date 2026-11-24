@@ -1,11 +1,12 @@
 {
-  "ultima_actualizacion": "2026-11-23T07:22:38.760924-06:00",
-  "ultima_actualizacion_legible": "23 de noviembre de 2026 · 07:22 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-11-23T19:04:20.444698-06:00",
+  "ultima_actualizacion_legible": "23 de noviembre de 2026 · 19:04 CST",
+  "total": 3,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
     "Google News",
-    "Quadratin + regionales"
+    "Quadratin + regionales",
+    "Telegram"
   ],
   "grupos": [
     {
@@ -39,37 +40,51 @@
       "col2": true,
       "alertas": [
         {
-          "id": "b3a806ea",
+          "id": "b9df8f6a",
           "tipo": "cierre_parcial",
-          "ruta": "carretera 300",
-          "descripcion": "Desconoce CEI condiciones de rampa de frenado tras accidente fatal en carretera 300. Conductor murió en tramo Amealco-San Juan The post Desconoce CEI condiciones de rampa de frenado tras accidente fatal en carretera 300 appeared first on Quadratin Querétaro.",
+          "ruta": "Detenidos por secuestro y robo, los 3 policías de Cuautlancingo:…",
+          "descripcion": "Detenidos por secuestro y robo, los 3 policías de Cuautlancingo: FGE. Tres policías de Cuautlancingo son detenidos por presunto secuestro, robo de mercancía y robo de vehículos, dice la FGE.",
           "recomendacion": "",
-          "fecha": "23 noviembre 2026 · 07:00 CST",
-          "fecha_iso": "2026-11-23T07:00:00-06:00",
-          "fuente": "Quadratin Queretaro",
-          "url": "https://queretaro.quadratin.com.mx/desconoce-cei-condiciones-de-rampa-de-frenado-tras-accidente-fatal-en-carretera-300/",
+          "fecha": "23 noviembre 2026 · 13:35 CST",
+          "fecha_iso": "2026-11-23T13:35:00-06:00",
+          "fuente": "Quadratin Puebla",
+          "url": "https://puebla.quadratin.com.mx/principal/detenidos-por-secuestro-y-robo-los-3-policias-de-cuautlancingo-fge/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        },
+        {
+          "id": "783a2ca7",
+          "tipo": "cierre_parcial",
+          "ruta": "🚨🚧 Cierran completamente el #ArcoNorte por accidente entre tráileres [#VIDEO]…",
+          "descripcion": "🚨🚧 Cierran completamente el #ArcoNorte por accidente entre tráileres [#VIDEO]  😱👇\n\nhttps://lajornadaestadodemexico.com/arco-norte-accidente-traileres/",
+          "recomendacion": "",
+          "fecha": "23 noviembre 2026 · 08:58 CST",
+          "fecha_iso": "2026-11-23T08:58:00-06:00",
+          "fuente": "Telegram @jornadaedomex",
+          "url": "https://t.me/jornadaedomex/12687",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL",
-          "lat": 20.59,
-          "lon": -100.39
+          "lat": 19.8,
+          "lon": -99.1
         }
       ]
     }
   ],
   "para_mapa": [
     {
-      "id": "b3a806ea",
+      "id": "783a2ca7",
       "tipo": "cierre_parcial",
-      "ruta": "carretera 300",
-      "descripcion": "Desconoce CEI condiciones de rampa de frenado tras accidente fatal en carretera 300. Conductor murió en tramo Amealco-San Juan The post Desconoce CEI condiciones de rampa de frenado tras accidente fatal en carretera 300 appeared first on Quadratin Querétaro.",
-      "fecha": "23 noviembre 2026 · 07:00 CST",
-      "fuente": "Quadratin Queretaro",
-      "url": "https://queretaro.quadratin.com.mx/desconoce-cei-condiciones-de-rampa-de-frenado-tras-accidente-fatal-en-carretera-300/",
+      "ruta": "🚨🚧 Cierran completamente el #ArcoNorte por accidente entre tráileres [#VIDEO]…",
+      "descripcion": "🚨🚧 Cierran completamente el #ArcoNorte por accidente entre tráileres [#VIDEO]  😱👇\n\nhttps://lajornadaestadodemexico.com/arco-norte-accidente-traileres/",
+      "fecha": "23 noviembre 2026 · 08:58 CST",
+      "fuente": "Telegram @jornadaedomex",
+      "url": "https://t.me/jornadaedomex/12687",
       "dot_color": "#e67e22",
       "badge_txt": "CIERRE PARCIAL",
-      "lat": 20.59,
-      "lon": -100.39
+      "lat": 19.8,
+      "lon": -99.1
     }
   ]
 }
