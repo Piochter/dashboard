@@ -1,12 +1,11 @@
 {
-  "ultima_actualizacion": "2026-11-23T19:04:20.444698-06:00",
-  "ultima_actualizacion_legible": "23 de noviembre de 2026 · 19:04 CST",
+  "ultima_actualizacion": "2026-11-24T04:53:43.554939-06:00",
+  "ultima_actualizacion_legible": "24 de noviembre de 2026 · 04:53 CST",
   "total": 3,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Google News",
-    "Quadratin + regionales",
-    "Telegram"
+    "Medios nacionales",
+    "Medios regionales"
   ],
   "grupos": [
     {
@@ -17,18 +16,36 @@
       "col2": false,
       "alertas": [
         {
-          "id": "f181bc6b",
+          "id": "ceafc498",
           "tipo": "bloqueo",
-          "ruta": "Bloqueos carreteras HOY LUNES 23 de noviembre: Autopistas cerradas en…",
-          "descripcion": "Bloqueos carreteras HOY LUNES 23 de noviembre: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE - Eje Central. Bloqueos carreteras HOY LUNES 23 de noviembre: Autopistas cerradas en México, cierres viales y rutas alternas según CAPUFE Eje Central",
+          "ruta": "Huachicoleros usan inhibidores de señal y detectores infrarrojos para evadir…",
+          "descripcion": "Huachicoleros usan inhibidores de señal y detectores infrarrojos para evadir vigilancia en carreteras. El crimen organizado blinda el trasiego de combustible ilícito utilizando tecnología de bloqueo electrónico y detectores infrarrojos. En Ciudad del Carmen, autoridades aseguraron una pipa equipada con estos dispositivos, confirmando el uso de inhibidores para evadir vigilancia en la carretera federal 180; Puebla encabeza la lista en el uso de esas herramientas",
           "recomendacion": "",
-          "fecha": "23 noviembre 2026 · 07:13 CST",
-          "fecha_iso": "2026-11-23T07:13:00-06:00",
-          "fuente": "Eje Central",
-          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPWC0xLWE2Vnh3bEhGcFVCcllWckVUQXVPUTdMN3Y0MDIxcEY3Y3N0VmdmWlRBUXFldjMxNFFNUTYzNFVUU29tbEVrNjIyMXRyMUhybWU2Mk0tdEpKblFyNHpuSWZtcmxvZ3YtNnlyS1pldVN6eTM3SFp4QksxZ1pGbTRVdVl3VnRmOHhpNjRpUF9ya083V3RYcG0wYkYwc01hQmxkb3ZMOFJDdlU3eXlSVW56blVqZWxicHNoZjF4aUZYd013dE9zOTRPejFCMWxCbGcta3gyUFMwbk9IR2c4Tkpad1gtdTh0c1U1bjRoNjUwSnpz?oc=5",
+          "fecha": "24 noviembre 2026 · 03:15 CST",
+          "fecha_iso": "2026-11-24T03:15:00-06:00",
+          "fuente": "24 Horas",
+          "url": "https://24-horas.mx/estados/huachicoleros-usan-inhibidores-de-senal-y-detectores-infrarrojos-para-evadir-vigilancia-en-carreteras/",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
+          "badge_txt": "BLOQUEO",
+          "lat": 19.04,
+          "lon": -98.2
+        },
+        {
+          "id": "a8473435",
+          "tipo": "bloqueo",
+          "ruta": "Anuncia CNTE bloqueos carreteros, toma de instalaciones de Pemex y…",
+          "descripcion": "Anuncia CNTE bloqueos carreteros, toma de instalaciones de Pemex y terminales de autobuses en Oaxaca. La Sección 22 de la CNTE anunció movilizaciones durante 48 horas en Oaxaca. Conoce qué carreteras, casetas, terminales de autobuses e instalaciones de Pemex serán tomadas y cuáles son las demandas del magisterio",
+          "recomendacion": "",
+          "fecha": "23 noviembre 2026 · 17:44 CST",
+          "fecha_iso": "2026-11-23T17:44:00-06:00",
+          "fuente": "El Sol de Mexico",
+          "url": "https://oem.com.mx/elsoldemexico/mexico/anuncia-cnte-bloqueos-carreteros-toma-de-instalaciones-de-pemex-y-terminales-de-autobuses-en-oaxaca-33283844",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 17.06,
+          "lon": -96.72
         }
       ]
     },
@@ -40,51 +57,63 @@
       "col2": true,
       "alertas": [
         {
-          "id": "b9df8f6a",
+          "id": "8420fbb7",
           "tipo": "cierre_parcial",
-          "ruta": "Detenidos por secuestro y robo, los 3 policías de Cuautlancingo:…",
-          "descripcion": "Detenidos por secuestro y robo, los 3 policías de Cuautlancingo: FGE. Tres policías de Cuautlancingo son detenidos por presunto secuestro, robo de mercancía y robo de vehículos, dice la FGE.",
+          "ruta": "Autobús que se dirigía a EU vuelca en Chihuahua y…",
+          "descripcion": "Autobús que se dirigía a EU vuelca en Chihuahua y deja 5 muertos y 36 lesionados. Chihuahua, Chih., Cinco personas murieron y 36 resultaron lesionadas en un accidente de autobús a la altura del kilómetro 160 de la carretera Chihuahua-Ciudad Juárez, informó la Fiscalía General del Estado (FGE). La unidad, propiedad de la empresa Transportes Azteca, volcó la noche del domingo, salió de Fresnillo, Zacatecas, y se dirigía a Estados Unidos.",
           "recomendacion": "",
-          "fecha": "23 noviembre 2026 · 13:35 CST",
-          "fecha_iso": "2026-11-23T13:35:00-06:00",
-          "fuente": "Quadratin Puebla",
-          "url": "https://puebla.quadratin.com.mx/principal/detenidos-por-secuestro-y-robo-los-3-policias-de-cuautlancingo-fge/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL"
-        },
-        {
-          "id": "783a2ca7",
-          "tipo": "cierre_parcial",
-          "ruta": "🚨🚧 Cierran completamente el #ArcoNorte por accidente entre tráileres [#VIDEO]…",
-          "descripcion": "🚨🚧 Cierran completamente el #ArcoNorte por accidente entre tráileres [#VIDEO]  😱👇\n\nhttps://lajornadaestadodemexico.com/arco-norte-accidente-traileres/",
-          "recomendacion": "",
-          "fecha": "23 noviembre 2026 · 08:58 CST",
-          "fecha_iso": "2026-11-23T08:58:00-06:00",
-          "fuente": "Telegram @jornadaedomex",
-          "url": "https://t.me/jornadaedomex/12687",
+          "fecha": "24 noviembre 2026 · 01:48 CST",
+          "fecha_iso": "2026-11-24T01:48:00-06:00",
+          "fuente": "La Jornada Estados",
+          "url": "https://www.jornada.com.mx/2026/11/24/estados/026n3est?partner=rss",
           "dot_color": "#e67e22",
           "badge": "badge-cierre-parcial",
           "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.8,
-          "lon": -99.1
+          "lat": 30.4,
+          "lon": -106.4
         }
       ]
     }
   ],
   "para_mapa": [
     {
-      "id": "783a2ca7",
+      "id": "ceafc498",
+      "tipo": "bloqueo",
+      "ruta": "Huachicoleros usan inhibidores de señal y detectores infrarrojos para evadir…",
+      "descripcion": "Huachicoleros usan inhibidores de señal y detectores infrarrojos para evadir vigilancia en carreteras. El crimen organizado blinda el trasiego de combustible ilícito utilizando tecnología de bloqueo electrónico y detectores infrarrojos. En Ciudad del Carmen, autoridades aseguraron una pipa equipada con estos dispositivos, confirmando el uso de inhibidores para evadir vigilancia en la carretera federal 180; Puebla encabeza la lista en el uso de esas herramientas",
+      "fecha": "24 noviembre 2026 · 03:15 CST",
+      "fuente": "24 Horas",
+      "url": "https://24-horas.mx/estados/huachicoleros-usan-inhibidores-de-senal-y-detectores-infrarrojos-para-evadir-vigilancia-en-carreteras/",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 19.04,
+      "lon": -98.2
+    },
+    {
+      "id": "8420fbb7",
       "tipo": "cierre_parcial",
-      "ruta": "🚨🚧 Cierran completamente el #ArcoNorte por accidente entre tráileres [#VIDEO]…",
-      "descripcion": "🚨🚧 Cierran completamente el #ArcoNorte por accidente entre tráileres [#VIDEO]  😱👇\n\nhttps://lajornadaestadodemexico.com/arco-norte-accidente-traileres/",
-      "fecha": "23 noviembre 2026 · 08:58 CST",
-      "fuente": "Telegram @jornadaedomex",
-      "url": "https://t.me/jornadaedomex/12687",
+      "ruta": "Autobús que se dirigía a EU vuelca en Chihuahua y…",
+      "descripcion": "Autobús que se dirigía a EU vuelca en Chihuahua y deja 5 muertos y 36 lesionados. Chihuahua, Chih., Cinco personas murieron y 36 resultaron lesionadas en un accidente de autobús a la altura del kilómetro 160 de la carretera Chihuahua-Ciudad Juárez, informó la Fiscalía General del Estado (FGE). La unidad, propiedad de la empresa Transportes Azteca, volcó la noche del domingo, salió de Fresnillo, Zacatecas, y se dirigía a Estados Unidos.",
+      "fecha": "24 noviembre 2026 · 01:48 CST",
+      "fuente": "La Jornada Estados",
+      "url": "https://www.jornada.com.mx/2026/11/24/estados/026n3est?partner=rss",
       "dot_color": "#e67e22",
       "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.8,
-      "lon": -99.1
+      "lat": 30.4,
+      "lon": -106.4
+    },
+    {
+      "id": "a8473435",
+      "tipo": "bloqueo",
+      "ruta": "Anuncia CNTE bloqueos carreteros, toma de instalaciones de Pemex y…",
+      "descripcion": "Anuncia CNTE bloqueos carreteros, toma de instalaciones de Pemex y terminales de autobuses en Oaxaca. La Sección 22 de la CNTE anunció movilizaciones durante 48 horas en Oaxaca. Conoce qué carreteras, casetas, terminales de autobuses e instalaciones de Pemex serán tomadas y cuáles son las demandas del magisterio",
+      "fecha": "23 noviembre 2026 · 17:44 CST",
+      "fuente": "El Sol de Mexico",
+      "url": "https://oem.com.mx/elsoldemexico/mexico/anuncia-cnte-bloqueos-carreteros-toma-de-instalaciones-de-pemex-y-terminales-de-autobuses-en-oaxaca-33283844",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 17.06,
+      "lon": -96.72
     }
   ]
 }
