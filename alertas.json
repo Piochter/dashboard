@@ -1,32 +1,36 @@
 {
-  "ultima_actualizacion": "2026-11-24T14:57:07.156738-06:00",
-  "ultima_actualizacion_legible": "24 de noviembre de 2026 · 14:57 CST",
-  "total": 5,
+  "ultima_actualizacion": "2026-11-24T21:54:56.279398-06:00",
+  "ultima_actualizacion_legible": "24 de noviembre de 2026 · 21:54 CST",
+  "total": 3,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
+    "Medios nacionales",
+    "Quadratin + regionales",
     "Telegram"
   ],
   "grupos": [
     {
-      "tipo": "bloqueo",
+      "tipo": "cierre_total",
       "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
+      "icono": "🔴",
+      "label": "CIERRE TOTAL",
       "col2": false,
       "alertas": [
         {
-          "id": "2a78d8b8",
-          "tipo": "bloqueo",
-          "ruta": "📢 Transportistas am3naz4n con paro nacional por inseguridad carretera 😱👇…",
-          "descripcion": "📢 Transportistas am3naz4n con paro nacional por inseguridad carretera 😱👇\n\nhttps://lajornadaestadodemexico.com/transportistas-amenazan-con-paro-nacional-por-inseguridad-carretera/",
+          "id": "62033484",
+          "tipo": "cierre_total",
+          "ruta": "Provoca intensa lluvia choques y volcadura en Puebla; colapsa Periférico…",
+          "descripcion": "Provoca intensa lluvia choques y volcadura en Puebla; colapsa Periférico. La lluvia en Puebla causó choques, una volcadura y tráfico en Periférico Ecológico y calzada Zaragoza.",
           "recomendacion": "",
-          "fecha": "24 noviembre 2026 · 07:46 CST",
-          "fecha_iso": "2026-11-24T07:46:00-06:00",
-          "fuente": "Telegram @jornadaedomex",
-          "url": "https://t.me/jornadaedomex/12702",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO"
+          "fecha": "24 noviembre 2026 · 20:26 CST",
+          "fecha_iso": "2026-11-24T20:26:00-06:00",
+          "fuente": "Quadratin Puebla",
+          "url": "https://puebla.quadratin.com.mx/principal/provoca-intensa-lluvia-choques-y-volcadura-en-puebla-colapsa-periferico/",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL",
+          "lat": 19.04,
+          "lon": -98.2
         }
       ]
     },
@@ -37,6 +41,22 @@
       "label": "CIERRE PARCIAL / ACCIDENTES",
       "col2": true,
       "alertas": [
+        {
+          "id": "e1b38fa7",
+          "tipo": "cierre_parcial",
+          "ruta": "Trabajadores de salud bloquean Anillo Periférico de Mérida; autoridad pide…",
+          "descripcion": "Trabajadores de salud bloquean Anillo Periférico de Mérida; autoridad pide se respeten los acuerdos. La dependencia estatal señaló que el cierre de esta vialidad afecta a miles de ciudadanos, incluidos pacientes y familiares que se trasladan hacia distintos centros hospitalarios",
+          "recomendacion": "",
+          "fecha": "24 noviembre 2026 · 16:33 CST",
+          "fecha_iso": "2026-11-24T16:33:00-06:00",
+          "fuente": "24 Horas",
+          "url": "https://24-horas.mx/estados/trabajadores-de-salud-bloquean-anillo-periferico-de-merida-autoridad-pide-se-respeten-los-acuerdos/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 20.97,
+          "lon": -89.62
+        },
         {
           "id": "9d1d4b42",
           "tipo": "cierre_parcial",
@@ -52,59 +72,37 @@
           "badge_txt": "CIERRE PARCIAL",
           "lat": 20.1,
           "lon": -99.5
-        },
-        {
-          "id": "53b5cf7a",
-          "tipo": "cierre_parcial",
-          "ruta": "🚧 Accid3nt3 entre tráiler y Mexibús complican la circulación en…",
-          "descripcion": "🚧 Accid3nt3 entre tráiler y Mexibús complican la circulación en la #Toluca-#Tenango 😱👇\n\nhttps://lajornadaestadodemexico.com/choque-en-la-toluca-tenango/",
-          "recomendacion": "",
-          "fecha": "24 noviembre 2026 · 08:56 CST",
-          "fecha_iso": "2026-11-24T08:56:00-06:00",
-          "fuente": "Telegram @jornadaedomex",
-          "url": "https://t.me/jornadaedomex/12703",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.29,
-          "lon": -99.66
-        },
-        {
-          "id": "414db3f5",
-          "tipo": "cierre_parcial",
-          "ruta": "🚨🚧Reportan ch0qu3 y reducción de carriles en la #México-#Toluca con…",
-          "descripcion": "🚨🚧Reportan ch0qu3 y reducción de carriles en la #México-#Toluca con dirección a #CDMX \n\nhttps://lajornadaestadodemexico.com/trafico-en-la-mexico-toluca-hoy-24-de-noviembre-choque/",
-          "recomendacion": "",
-          "fecha": "24 noviembre 2026 · 06:36 CST",
-          "fecha_iso": "2026-11-24T06:36:00-06:00",
-          "fuente": "Telegram @jornadaedomex",
-          "url": "https://t.me/jornadaedomex/12700",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 19.43,
-          "lon": -99.13
-        },
-        {
-          "id": "d14a69a3",
-          "tipo": "cierre_parcial",
-          "ruta": "carretera Chihuahua-Ciudad Juárez",
-          "descripcion": "Autobús que se dirigía a EU vuelca en Chihuahua y deja 5 muertos y 36 lesionados\nhttps://www.jornada.com.mx/2026/11/24/estados/026n3est?partner=rss\n\nChihuahua, Chih., Cinco personas murieron y 36 resultaron lesionadas en un accidente de autobús a la altura del kilómetro 160 de la carretera Chihuahua-Ciudad Juárez, informó la Fiscalía General del Estado (FGE). La unidad, propiedad de la empresa Transportes Azteca, volcó la noche del domingo, salió de Fresnillo, Zacatecas, y se dirigía a Estados U",
-          "recomendacion": "",
-          "fecha": "24 noviembre 2026 · 04:57 CST",
-          "fecha_iso": "2026-11-24T04:57:00-06:00",
-          "fuente": "Telegram @NOTMEX",
-          "url": "https://t.me/NOTMEX/187446",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 30.4,
-          "lon": -106.4
         }
       ]
     }
   ],
   "para_mapa": [
+    {
+      "id": "62033484",
+      "tipo": "cierre_total",
+      "ruta": "Provoca intensa lluvia choques y volcadura en Puebla; colapsa Periférico…",
+      "descripcion": "Provoca intensa lluvia choques y volcadura en Puebla; colapsa Periférico. La lluvia en Puebla causó choques, una volcadura y tráfico en Periférico Ecológico y calzada Zaragoza.",
+      "fecha": "24 noviembre 2026 · 20:26 CST",
+      "fuente": "Quadratin Puebla",
+      "url": "https://puebla.quadratin.com.mx/principal/provoca-intensa-lluvia-choques-y-volcadura-en-puebla-colapsa-periferico/",
+      "dot_color": "#e74c3c",
+      "badge_txt": "CIERRE TOTAL",
+      "lat": 19.04,
+      "lon": -98.2
+    },
+    {
+      "id": "e1b38fa7",
+      "tipo": "cierre_parcial",
+      "ruta": "Trabajadores de salud bloquean Anillo Periférico de Mérida; autoridad pide…",
+      "descripcion": "Trabajadores de salud bloquean Anillo Periférico de Mérida; autoridad pide se respeten los acuerdos. La dependencia estatal señaló que el cierre de esta vialidad afecta a miles de ciudadanos, incluidos pacientes y familiares que se trasladan hacia distintos centros hospitalarios",
+      "fecha": "24 noviembre 2026 · 16:33 CST",
+      "fuente": "24 Horas",
+      "url": "https://24-horas.mx/estados/trabajadores-de-salud-bloquean-anillo-periferico-de-merida-autoridad-pide-se-respeten-los-acuerdos/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 20.97,
+      "lon": -89.62
+    },
     {
       "id": "9d1d4b42",
       "tipo": "cierre_parcial",
@@ -117,45 +115,6 @@
       "badge_txt": "CIERRE PARCIAL",
       "lat": 20.1,
       "lon": -99.5
-    },
-    {
-      "id": "53b5cf7a",
-      "tipo": "cierre_parcial",
-      "ruta": "🚧 Accid3nt3 entre tráiler y Mexibús complican la circulación en…",
-      "descripcion": "🚧 Accid3nt3 entre tráiler y Mexibús complican la circulación en la #Toluca-#Tenango 😱👇\n\nhttps://lajornadaestadodemexico.com/choque-en-la-toluca-tenango/",
-      "fecha": "24 noviembre 2026 · 08:56 CST",
-      "fuente": "Telegram @jornadaedomex",
-      "url": "https://t.me/jornadaedomex/12703",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.29,
-      "lon": -99.66
-    },
-    {
-      "id": "414db3f5",
-      "tipo": "cierre_parcial",
-      "ruta": "🚨🚧Reportan ch0qu3 y reducción de carriles en la #México-#Toluca con…",
-      "descripcion": "🚨🚧Reportan ch0qu3 y reducción de carriles en la #México-#Toluca con dirección a #CDMX \n\nhttps://lajornadaestadodemexico.com/trafico-en-la-mexico-toluca-hoy-24-de-noviembre-choque/",
-      "fecha": "24 noviembre 2026 · 06:36 CST",
-      "fuente": "Telegram @jornadaedomex",
-      "url": "https://t.me/jornadaedomex/12700",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 19.43,
-      "lon": -99.13
-    },
-    {
-      "id": "d14a69a3",
-      "tipo": "cierre_parcial",
-      "ruta": "carretera Chihuahua-Ciudad Juárez",
-      "descripcion": "Autobús que se dirigía a EU vuelca en Chihuahua y deja 5 muertos y 36 lesionados\nhttps://www.jornada.com.mx/2026/11/24/estados/026n3est?partner=rss\n\nChihuahua, Chih., Cinco personas murieron y 36 resultaron lesionadas en un accidente de autobús a la altura del kilómetro 160 de la carretera Chihuahua-Ciudad Juárez, informó la Fiscalía General del Estado (FGE). La unidad, propiedad de la empresa Transportes Azteca, volcó la noche del domingo, salió de Fresnillo, Zacatecas, y se dirigía a Estados U",
-      "fecha": "24 noviembre 2026 · 04:57 CST",
-      "fuente": "Telegram @NOTMEX",
-      "url": "https://t.me/NOTMEX/187446",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 30.4,
-      "lon": -106.4
     }
   ]
 }
