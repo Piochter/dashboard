@@ -1,12 +1,10 @@
 {
-  "ultima_actualizacion": "2026-11-24T21:54:56.279398-06:00",
-  "ultima_actualizacion_legible": "24 de noviembre de 2026 · 21:54 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-11-25T07:44:24.824447-06:00",
+  "ultima_actualizacion_legible": "25 de noviembre de 2026 · 07:44 CST",
+  "total": 1,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Medios nacionales",
-    "Quadratin + regionales",
-    "Telegram"
+    "Quadratin + regionales"
   ],
   "grupos": [
     {
@@ -22,8 +20,8 @@
           "ruta": "Provoca intensa lluvia choques y volcadura en Puebla; colapsa Periférico…",
           "descripcion": "Provoca intensa lluvia choques y volcadura en Puebla; colapsa Periférico. La lluvia en Puebla causó choques, una volcadura y tráfico en Periférico Ecológico y calzada Zaragoza.",
           "recomendacion": "",
-          "fecha": "24 noviembre 2026 · 20:26 CST",
-          "fecha_iso": "2026-11-24T20:26:00-06:00",
+          "fecha": "25 noviembre 2026 · 05:40 CST",
+          "fecha_iso": "2026-11-25T05:40:00-06:00",
           "fuente": "Quadratin Puebla",
           "url": "https://puebla.quadratin.com.mx/principal/provoca-intensa-lluvia-choques-y-volcadura-en-puebla-colapsa-periferico/",
           "dot_color": "#e74c3c",
@@ -31,47 +29,6 @@
           "badge_txt": "CIERRE TOTAL",
           "lat": 19.04,
           "lon": -98.2
-        }
-      ]
-    },
-    {
-      "tipo": "cierre_parcial",
-      "color": "amarillo",
-      "icono": "🟡",
-      "label": "CIERRE PARCIAL / ACCIDENTES",
-      "col2": true,
-      "alertas": [
-        {
-          "id": "e1b38fa7",
-          "tipo": "cierre_parcial",
-          "ruta": "Trabajadores de salud bloquean Anillo Periférico de Mérida; autoridad pide…",
-          "descripcion": "Trabajadores de salud bloquean Anillo Periférico de Mérida; autoridad pide se respeten los acuerdos. La dependencia estatal señaló que el cierre de esta vialidad afecta a miles de ciudadanos, incluidos pacientes y familiares que se trasladan hacia distintos centros hospitalarios",
-          "recomendacion": "",
-          "fecha": "24 noviembre 2026 · 16:33 CST",
-          "fecha_iso": "2026-11-24T16:33:00-06:00",
-          "fuente": "24 Horas",
-          "url": "https://24-horas.mx/estados/trabajadores-de-salud-bloquean-anillo-periferico-de-merida-autoridad-pide-se-respeten-los-acuerdos/",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 20.97,
-          "lon": -89.62
-        },
-        {
-          "id": "9d1d4b42",
-          "tipo": "cierre_parcial",
-          "ruta": "Trailero embiste dos vehículos para escapar de presunto asalto en…",
-          "descripcion": "Trailero embiste dos vehículos para escapar de presunto asalto en la México-Querétaro\n[https://lajornadaestadodemexico.com/trailero-embiste-vehiculos-escapar-presunto-asalto-mexico-queretaro/](https://lajornadaestadodemexico.com/trailero-embiste-vehiculos-escapar-presunto-asalto-mexico-queretaro/)",
-          "recomendacion": "",
-          "fecha": "24 noviembre 2026 · 11:03 CST",
-          "fecha_iso": "2026-11-24T11:03:00-06:00",
-          "fuente": "Telegram @jornadaedomex",
-          "url": "https://t.me/jornadaedomex/12704",
-          "dot_color": "#e67e22",
-          "badge": "badge-cierre-parcial",
-          "badge_txt": "CIERRE PARCIAL",
-          "lat": 20.1,
-          "lon": -99.5
         }
       ]
     }
@@ -82,39 +39,13 @@
       "tipo": "cierre_total",
       "ruta": "Provoca intensa lluvia choques y volcadura en Puebla; colapsa Periférico…",
       "descripcion": "Provoca intensa lluvia choques y volcadura en Puebla; colapsa Periférico. La lluvia en Puebla causó choques, una volcadura y tráfico en Periférico Ecológico y calzada Zaragoza.",
-      "fecha": "24 noviembre 2026 · 20:26 CST",
+      "fecha": "25 noviembre 2026 · 05:40 CST",
       "fuente": "Quadratin Puebla",
       "url": "https://puebla.quadratin.com.mx/principal/provoca-intensa-lluvia-choques-y-volcadura-en-puebla-colapsa-periferico/",
       "dot_color": "#e74c3c",
       "badge_txt": "CIERRE TOTAL",
       "lat": 19.04,
       "lon": -98.2
-    },
-    {
-      "id": "e1b38fa7",
-      "tipo": "cierre_parcial",
-      "ruta": "Trabajadores de salud bloquean Anillo Periférico de Mérida; autoridad pide…",
-      "descripcion": "Trabajadores de salud bloquean Anillo Periférico de Mérida; autoridad pide se respeten los acuerdos. La dependencia estatal señaló que el cierre de esta vialidad afecta a miles de ciudadanos, incluidos pacientes y familiares que se trasladan hacia distintos centros hospitalarios",
-      "fecha": "24 noviembre 2026 · 16:33 CST",
-      "fuente": "24 Horas",
-      "url": "https://24-horas.mx/estados/trabajadores-de-salud-bloquean-anillo-periferico-de-merida-autoridad-pide-se-respeten-los-acuerdos/",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 20.97,
-      "lon": -89.62
-    },
-    {
-      "id": "9d1d4b42",
-      "tipo": "cierre_parcial",
-      "ruta": "Trailero embiste dos vehículos para escapar de presunto asalto en…",
-      "descripcion": "Trailero embiste dos vehículos para escapar de presunto asalto en la México-Querétaro\n[https://lajornadaestadodemexico.com/trailero-embiste-vehiculos-escapar-presunto-asalto-mexico-queretaro/](https://lajornadaestadodemexico.com/trailero-embiste-vehiculos-escapar-presunto-asalto-mexico-queretaro/)",
-      "fecha": "24 noviembre 2026 · 11:03 CST",
-      "fuente": "Telegram @jornadaedomex",
-      "url": "https://t.me/jornadaedomex/12704",
-      "dot_color": "#e67e22",
-      "badge_txt": "CIERRE PARCIAL",
-      "lat": 20.1,
-      "lon": -99.5
     }
   ]
 }
