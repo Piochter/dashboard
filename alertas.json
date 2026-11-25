@@ -1,6 +1,6 @@
 {
-  "ultima_actualizacion": "2026-11-25T07:44:24.824447-06:00",
-  "ultima_actualizacion_legible": "25 de noviembre de 2026 · 07:44 CST",
+  "ultima_actualizacion": "2026-11-25T16:48:16.589567-06:00",
+  "ultima_actualizacion_legible": "25 de noviembre de 2026 · 16:48 CST",
   "total": 1,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
@@ -8,44 +8,44 @@
   ],
   "grupos": [
     {
-      "tipo": "cierre_total",
+      "tipo": "bloqueo",
       "color": "rojo",
-      "icono": "🔴",
-      "label": "CIERRE TOTAL",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
       "col2": false,
       "alertas": [
         {
-          "id": "62033484",
-          "tipo": "cierre_total",
-          "ruta": "Provoca intensa lluvia choques y volcadura en Puebla; colapsa Periférico…",
-          "descripcion": "Provoca intensa lluvia choques y volcadura en Puebla; colapsa Periférico. La lluvia en Puebla causó choques, una volcadura y tráfico en Periférico Ecológico y calzada Zaragoza.",
+          "id": "85a0fdf8",
+          "tipo": "bloqueo",
+          "ruta": "Bloquean obras del tren AIFA-Pachuca por falta de pagos…",
+          "descripcion": "Bloquean obras del tren AIFA-Pachuca por falta de pagos. Protesta no afectó la circulación vehicular The post Bloquean obras del tren AIFA-Pachuca por falta de pagos appeared first on Quadratin Hidalgo.",
           "recomendacion": "",
-          "fecha": "25 noviembre 2026 · 05:40 CST",
-          "fecha_iso": "2026-11-25T05:40:00-06:00",
-          "fuente": "Quadratin Puebla",
-          "url": "https://puebla.quadratin.com.mx/principal/provoca-intensa-lluvia-choques-y-volcadura-en-puebla-colapsa-periferico/",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL",
-          "lat": 19.04,
-          "lon": -98.2
+          "fecha": "25 noviembre 2026 · 10:50 CST",
+          "fecha_iso": "2026-11-25T10:50:00-06:00",
+          "fuente": "Quadratin Hidalgo",
+          "url": "https://hidalgo.quadratin.com.mx/municipios/bloquean-obras-del-tren-aifa-pachuca-por-falta-de-pagos/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 20.11,
+          "lon": -98.73
         }
       ]
     }
   ],
   "para_mapa": [
     {
-      "id": "62033484",
-      "tipo": "cierre_total",
-      "ruta": "Provoca intensa lluvia choques y volcadura en Puebla; colapsa Periférico…",
-      "descripcion": "Provoca intensa lluvia choques y volcadura en Puebla; colapsa Periférico. La lluvia en Puebla causó choques, una volcadura y tráfico en Periférico Ecológico y calzada Zaragoza.",
-      "fecha": "25 noviembre 2026 · 05:40 CST",
-      "fuente": "Quadratin Puebla",
-      "url": "https://puebla.quadratin.com.mx/principal/provoca-intensa-lluvia-choques-y-volcadura-en-puebla-colapsa-periferico/",
-      "dot_color": "#e74c3c",
-      "badge_txt": "CIERRE TOTAL",
-      "lat": 19.04,
-      "lon": -98.2
+      "id": "85a0fdf8",
+      "tipo": "bloqueo",
+      "ruta": "Bloquean obras del tren AIFA-Pachuca por falta de pagos…",
+      "descripcion": "Bloquean obras del tren AIFA-Pachuca por falta de pagos. Protesta no afectó la circulación vehicular The post Bloquean obras del tren AIFA-Pachuca por falta de pagos appeared first on Quadratin Hidalgo.",
+      "fecha": "25 noviembre 2026 · 10:50 CST",
+      "fuente": "Quadratin Hidalgo",
+      "url": "https://hidalgo.quadratin.com.mx/municipios/bloquean-obras-del-tren-aifa-pachuca-por-falta-de-pagos/",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 20.11,
+      "lon": -98.73
     }
   ]
 }
