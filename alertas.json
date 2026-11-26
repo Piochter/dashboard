@@ -1,10 +1,10 @@
 {
-  "ultima_actualizacion": "2026-11-25T16:48:16.589567-06:00",
-  "ultima_actualizacion_legible": "25 de noviembre de 2026 · 16:48 CST",
+  "ultima_actualizacion": "2026-11-25T22:36:58.784739-06:00",
+  "ultima_actualizacion_legible": "25 de noviembre de 2026 · 22:36 CST",
   "total": 1,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Quadratin + regionales"
+    "Telegram"
   ],
   "grupos": [
     {
@@ -15,37 +15,37 @@
       "col2": false,
       "alertas": [
         {
-          "id": "85a0fdf8",
+          "id": "50a80441",
           "tipo": "bloqueo",
-          "ruta": "Bloquean obras del tren AIFA-Pachuca por falta de pagos…",
-          "descripcion": "Bloquean obras del tren AIFA-Pachuca por falta de pagos. Protesta no afectó la circulación vehicular The post Bloquean obras del tren AIFA-Pachuca por falta de pagos appeared first on Quadratin Hidalgo.",
+          "ruta": "Marcha del 25N y protesta de gaseros ‘colapsarán’ a CDMX:…",
+          "descripcion": "Marcha del 25N y protesta de gaseros ‘colapsarán’ a CDMX: ¿Qué carreteras y calles serán bloqueadas [HOY?](http://telegra.ph/Marcha-del-25N-y-protesta-de-gaseros-colapsarán-a-CDMX-Qué-carreteras-y-calles-serán-bloqueadas-HOY-11-25)\n\n__via__ [www.elfinanciero.com.mx](https://www.elfinanciero.com.mx/cdmx/2026/11/25/marcha-del-25n-y-protesta-de-gaseros-colapsaran-a-cdmx-que-carreteras-y-calles-seran-bloqueadas-hoy/)",
           "recomendacion": "",
-          "fecha": "25 noviembre 2026 · 10:50 CST",
-          "fecha_iso": "2026-11-25T10:50:00-06:00",
-          "fuente": "Quadratin Hidalgo",
-          "url": "https://hidalgo.quadratin.com.mx/municipios/bloquean-obras-del-tren-aifa-pachuca-por-falta-de-pagos/",
+          "fecha": "25 noviembre 2026 · 20:56 CST",
+          "fecha_iso": "2026-11-25T20:56:00-06:00",
+          "fuente": "Telegram @NOTMEX",
+          "url": "https://t.me/NOTMEX/187480",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO",
-          "lat": 20.11,
-          "lon": -98.73
+          "lat": 19.43,
+          "lon": -99.13
         }
       ]
     }
   ],
   "para_mapa": [
     {
-      "id": "85a0fdf8",
+      "id": "50a80441",
       "tipo": "bloqueo",
-      "ruta": "Bloquean obras del tren AIFA-Pachuca por falta de pagos…",
-      "descripcion": "Bloquean obras del tren AIFA-Pachuca por falta de pagos. Protesta no afectó la circulación vehicular The post Bloquean obras del tren AIFA-Pachuca por falta de pagos appeared first on Quadratin Hidalgo.",
-      "fecha": "25 noviembre 2026 · 10:50 CST",
-      "fuente": "Quadratin Hidalgo",
-      "url": "https://hidalgo.quadratin.com.mx/municipios/bloquean-obras-del-tren-aifa-pachuca-por-falta-de-pagos/",
+      "ruta": "Marcha del 25N y protesta de gaseros ‘colapsarán’ a CDMX:…",
+      "descripcion": "Marcha del 25N y protesta de gaseros ‘colapsarán’ a CDMX: ¿Qué carreteras y calles serán bloqueadas [HOY?](http://telegra.ph/Marcha-del-25N-y-protesta-de-gaseros-colapsarán-a-CDMX-Qué-carreteras-y-calles-serán-bloqueadas-HOY-11-25)\n\n__via__ [www.elfinanciero.com.mx](https://www.elfinanciero.com.mx/cdmx/2026/11/25/marcha-del-25n-y-protesta-de-gaseros-colapsaran-a-cdmx-que-carreteras-y-calles-seran-bloqueadas-hoy/)",
+      "fecha": "25 noviembre 2026 · 20:56 CST",
+      "fuente": "Telegram @NOTMEX",
+      "url": "https://t.me/NOTMEX/187480",
       "dot_color": "#8e44ad",
       "badge_txt": "BLOQUEO",
-      "lat": 20.11,
-      "lon": -98.73
+      "lat": 19.43,
+      "lon": -99.13
     }
   ]
 }
