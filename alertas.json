@@ -1,9 +1,12 @@
 {
-  "ultima_actualizacion": "2026-11-26T08:26:51.491608-06:00",
-  "ultima_actualizacion_legible": "26 de noviembre de 2026 · 08:26 CST",
-  "total": 3,
+  "ultima_actualizacion": "2026-11-26T17:09:50.282973-06:00",
+  "ultima_actualizacion_legible": "26 de noviembre de 2026 · 17:09 CST",
+  "total": 8,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
+    "Google News",
+    "Medios regionales",
+    "Quadratin + regionales",
     "Telegram"
   ],
   "grupos": [
@@ -15,20 +18,20 @@
       "col2": false,
       "alertas": [
         {
-          "id": "50a80441",
+          "id": "95e271d8",
           "tipo": "bloqueo",
-          "ruta": "Marcha del 25N y protesta de gaseros ‘colapsarán’ a CDMX:…",
-          "descripcion": "Marcha del 25N y protesta de gaseros ‘colapsarán’ a CDMX: ¿Qué carreteras y calles serán bloqueadas [HOY?](http://telegra.ph/Marcha-del-25N-y-protesta-de-gaseros-colapsarán-a-CDMX-Qué-carreteras-y-calles-serán-bloqueadas-HOY-11-25)\n\n__via__ [www.elfinanciero.com.mx](https://www.elfinanciero.com.mx/cdmx/2026/11/25/marcha-del-25n-y-protesta-de-gaseros-colapsaran-a-cdmx-que-carreteras-y-calles-seran-bloqueadas-hoy/)",
+          "ruta": "Inicia paro de 48 horas de la CNTE en Oaxaca;…",
+          "descripcion": "Inicia paro de 48 horas de la CNTE en Oaxaca; alumnos sin clases y carreteras bloqueadas. Maestros de la Sección 22 de la CNTE exigen a los gobiernos federal y estatal cumplir acuerdos laborales y cubrir un déficit de más de 7 mil trabajadores",
           "recomendacion": "",
-          "fecha": "25 noviembre 2026 · 20:56 CST",
-          "fecha_iso": "2026-11-25T20:56:00-06:00",
-          "fuente": "Telegram @NOTMEX",
-          "url": "https://t.me/NOTMEX/187480",
+          "fecha": "26 noviembre 2026 · 07:59 CST",
+          "fecha_iso": "2026-11-26T07:59:00-06:00",
+          "fuente": "El Sol de Mexico",
+          "url": "https://oem.com.mx/elsoldemexico/mexico/inicia-paro-de-48-horas-de-la-cnte-en-oaxaca-alumnos-sin-clases-y-carreteras-bloqueadas-33322054",
           "dot_color": "#8e44ad",
           "badge": "badge-bloqueo",
           "badge_txt": "BLOQUEO",
-          "lat": 19.43,
-          "lon": -99.13
+          "lat": 17.06,
+          "lon": -96.72
         }
       ]
     },
@@ -39,6 +42,70 @@
       "label": "CIERRE PARCIAL / ACCIDENTES",
       "col2": true,
       "alertas": [
+        {
+          "id": "8cc2cba9",
+          "tipo": "cierre_parcial",
+          "ruta": "Choque múltiple en las Cumbres de Maltrata deja 3 lesionados…",
+          "descripcion": "Choque múltiple en las Cumbres de Maltrata deja 3 lesionados. La circulación con dirección a Veracruz quedó cerrada",
+          "recomendacion": "",
+          "fecha": "26 noviembre 2026 · 15:54 CST",
+          "fecha_iso": "2026-11-26T15:54:00-06:00",
+          "fuente": "Quadratin Veracruz",
+          "url": "https://veracruz.quadratin.com.mx/choque-multiple-en-las-cumbres-de-maltrata-deja-3-lesionados/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 19.18,
+          "lon": -96.14
+        },
+        {
+          "id": "44ae0af1",
+          "tipo": "cierre_parcial",
+          "ruta": "Cierres viales por el Maratón Puebla 2026: calles afectadas…",
+          "descripcion": "Cierres viales por el Maratón Puebla 2026: calles afectadas. Ocho vialidades del surponiente de Puebla cerrarán desde las 05:30 horas el domingo 29 por el Maratón de Puebla 2026.",
+          "recomendacion": "",
+          "fecha": "26 noviembre 2026 · 15:00 CST",
+          "fecha_iso": "2026-11-26T15:00:00-06:00",
+          "fuente": "Quadratin Puebla",
+          "url": "https://puebla.quadratin.com.mx/deportes/cierres-viales-por-el-maraton-puebla-2026-calles-afectadas/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 19.04,
+          "lon": -98.2
+        },
+        {
+          "id": "668927fd",
+          "tipo": "cierre_parcial",
+          "ruta": "🚨🚧 Accid3nt3 en la #México-#Toluca, después de la salida del…",
+          "descripcion": "🚨🚧 Accid3nt3 en la #México-#Toluca, después de la salida del túnel y antes de la caseta, provoca reducción de carriles y tráfico rumbo a #CDMX.\n\n📷: Redes Sociales \n\nhttps://lajornadaestadodemexico.com/accidente-mexico-toluca-salida-del-tunel-rumbo-cdmx/",
+          "recomendacion": "",
+          "fecha": "26 noviembre 2026 · 09:36 CST",
+          "fecha_iso": "2026-11-26T09:36:00-06:00",
+          "fuente": "Telegram @jornadaedomex",
+          "url": "https://t.me/jornadaedomex/12721",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 19.43,
+          "lon": -99.13
+        },
+        {
+          "id": "abbb87a5",
+          "tipo": "cierre_parcial",
+          "ruta": "¿Qué Pasó en la Autopista México-Toluca Hoy? Así Fue el…",
+          "descripcion": "¿Qué Pasó en la Autopista México-Toluca Hoy? Así Fue el Fuerte Accidente Rumbo a CDMX - N+. ¿Qué Pasó en la Autopista México-Toluca Hoy? Así Fue el Fuerte Accidente Rumbo a CDMX N+",
+          "recomendacion": "",
+          "fecha": "26 noviembre 2026 · 09:16 CST",
+          "fecha_iso": "2026-11-26T09:16:00-06:00",
+          "fuente": "N+",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQT2xONnBxcXRaQTRQX2hWQl9DZGtCTWpKWFRvMWRhRXJKbm1Ia0hub2s0SnN1MWNtS2ZOUTVRN0l4ZVZnaVhOSE5JNUVKaG1vdFBqNHVsd2g2YnN0X2w2RW0ybHVjZ1o3am1HbWRJVXJsMzJidUd5a3VNV3ZtNWw4a2VUc091R2xjN1l1S3JnOUltV0VXekwweXlnYkh1VlhOSC1BZl9ZMWVBUmo0aGR6WGpQczZySVBVcjRSRXJpcF9wdGx0SS1rSFhmUQ?oc=5",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 19.43,
+          "lon": -99.13
+        },
         {
           "id": "fa035695",
           "tipo": "cierre_parcial",
@@ -72,9 +139,112 @@
           "lon": -99.66
         }
       ]
+    },
+    {
+      "tipo": "carga_vehicular",
+      "color": "azul",
+      "icono": "🚗",
+      "label": "CARGA VEHICULAR",
+      "col2": true,
+      "alertas": [
+        {
+          "id": "f3173061",
+          "tipo": "carga_vehicular",
+          "ruta": "Circulaban por Toluca en auto y los detienen por robo…",
+          "descripcion": "Circulaban por Toluca en auto y los detienen por robo a transportista. Ambos están señalados de haber interceptado a un operador el pasado 17 de octubre del presente año, en calles de la colonia San Nicolás Tolentino",
+          "recomendacion": "",
+          "fecha": "26 noviembre 2026 · 14:45 CST",
+          "fecha_iso": "2026-11-26T14:45:00-06:00",
+          "fuente": "Quadratin EdoMex",
+          "url": "https://edomex.quadratin.com.mx/circulaban-por-toluca-en-auto-y-los-detienen-por-robo-a-transportista/",
+          "dot_color": "#2980b9",
+          "badge": "badge-carga",
+          "badge_txt": "CARGA VEHICULAR",
+          "lat": 19.29,
+          "lon": -99.66
+        }
+      ]
     }
   ],
   "para_mapa": [
+    {
+      "id": "8cc2cba9",
+      "tipo": "cierre_parcial",
+      "ruta": "Choque múltiple en las Cumbres de Maltrata deja 3 lesionados…",
+      "descripcion": "Choque múltiple en las Cumbres de Maltrata deja 3 lesionados. La circulación con dirección a Veracruz quedó cerrada",
+      "fecha": "26 noviembre 2026 · 15:54 CST",
+      "fuente": "Quadratin Veracruz",
+      "url": "https://veracruz.quadratin.com.mx/choque-multiple-en-las-cumbres-de-maltrata-deja-3-lesionados/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 19.18,
+      "lon": -96.14
+    },
+    {
+      "id": "44ae0af1",
+      "tipo": "cierre_parcial",
+      "ruta": "Cierres viales por el Maratón Puebla 2026: calles afectadas…",
+      "descripcion": "Cierres viales por el Maratón Puebla 2026: calles afectadas. Ocho vialidades del surponiente de Puebla cerrarán desde las 05:30 horas el domingo 29 por el Maratón de Puebla 2026.",
+      "fecha": "26 noviembre 2026 · 15:00 CST",
+      "fuente": "Quadratin Puebla",
+      "url": "https://puebla.quadratin.com.mx/deportes/cierres-viales-por-el-maraton-puebla-2026-calles-afectadas/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 19.04,
+      "lon": -98.2
+    },
+    {
+      "id": "f3173061",
+      "tipo": "carga_vehicular",
+      "ruta": "Circulaban por Toluca en auto y los detienen por robo…",
+      "descripcion": "Circulaban por Toluca en auto y los detienen por robo a transportista. Ambos están señalados de haber interceptado a un operador el pasado 17 de octubre del presente año, en calles de la colonia San Nicolás Tolentino",
+      "fecha": "26 noviembre 2026 · 14:45 CST",
+      "fuente": "Quadratin EdoMex",
+      "url": "https://edomex.quadratin.com.mx/circulaban-por-toluca-en-auto-y-los-detienen-por-robo-a-transportista/",
+      "dot_color": "#2980b9",
+      "badge_txt": "CARGA VEHICULAR",
+      "lat": 19.29,
+      "lon": -99.66
+    },
+    {
+      "id": "668927fd",
+      "tipo": "cierre_parcial",
+      "ruta": "🚨🚧 Accid3nt3 en la #México-#Toluca, después de la salida del…",
+      "descripcion": "🚨🚧 Accid3nt3 en la #México-#Toluca, después de la salida del túnel y antes de la caseta, provoca reducción de carriles y tráfico rumbo a #CDMX.\n\n📷: Redes Sociales \n\nhttps://lajornadaestadodemexico.com/accidente-mexico-toluca-salida-del-tunel-rumbo-cdmx/",
+      "fecha": "26 noviembre 2026 · 09:36 CST",
+      "fuente": "Telegram @jornadaedomex",
+      "url": "https://t.me/jornadaedomex/12721",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 19.43,
+      "lon": -99.13
+    },
+    {
+      "id": "abbb87a5",
+      "tipo": "cierre_parcial",
+      "ruta": "¿Qué Pasó en la Autopista México-Toluca Hoy? Así Fue el…",
+      "descripcion": "¿Qué Pasó en la Autopista México-Toluca Hoy? Así Fue el Fuerte Accidente Rumbo a CDMX - N+. ¿Qué Pasó en la Autopista México-Toluca Hoy? Así Fue el Fuerte Accidente Rumbo a CDMX N+",
+      "fecha": "26 noviembre 2026 · 09:16 CST",
+      "fuente": "N+",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQT2xONnBxcXRaQTRQX2hWQl9DZGtCTWpKWFRvMWRhRXJKbm1Ia0hub2s0SnN1MWNtS2ZOUTVRN0l4ZVZnaVhOSE5JNUVKaG1vdFBqNHVsd2g2YnN0X2w2RW0ybHVjZ1o3am1HbWRJVXJsMzJidUd5a3VNV3ZtNWw4a2VUc091R2xjN1l1S3JnOUltV0VXekwweXlnYkh1VlhOSC1BZl9ZMWVBUmo0aGR6WGpQczZySVBVcjRSRXJpcF9wdGx0SS1rSFhmUQ?oc=5",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 19.43,
+      "lon": -99.13
+    },
+    {
+      "id": "95e271d8",
+      "tipo": "bloqueo",
+      "ruta": "Inicia paro de 48 horas de la CNTE en Oaxaca;…",
+      "descripcion": "Inicia paro de 48 horas de la CNTE en Oaxaca; alumnos sin clases y carreteras bloqueadas. Maestros de la Sección 22 de la CNTE exigen a los gobiernos federal y estatal cumplir acuerdos laborales y cubrir un déficit de más de 7 mil trabajadores",
+      "fecha": "26 noviembre 2026 · 07:59 CST",
+      "fuente": "El Sol de Mexico",
+      "url": "https://oem.com.mx/elsoldemexico/mexico/inicia-paro-de-48-horas-de-la-cnte-en-oaxaca-alumnos-sin-clases-y-carreteras-bloqueadas-33322054",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 17.06,
+      "lon": -96.72
+    },
     {
       "id": "fa035695",
       "tipo": "cierre_parcial",
@@ -100,19 +270,6 @@
       "badge_txt": "CIERRE PARCIAL",
       "lat": 19.29,
       "lon": -99.66
-    },
-    {
-      "id": "50a80441",
-      "tipo": "bloqueo",
-      "ruta": "Marcha del 25N y protesta de gaseros ‘colapsarán’ a CDMX:…",
-      "descripcion": "Marcha del 25N y protesta de gaseros ‘colapsarán’ a CDMX: ¿Qué carreteras y calles serán bloqueadas [HOY?](http://telegra.ph/Marcha-del-25N-y-protesta-de-gaseros-colapsarán-a-CDMX-Qué-carreteras-y-calles-serán-bloqueadas-HOY-11-25)\n\n__via__ [www.elfinanciero.com.mx](https://www.elfinanciero.com.mx/cdmx/2026/11/25/marcha-del-25n-y-protesta-de-gaseros-colapsaran-a-cdmx-que-carreteras-y-calles-seran-bloqueadas-hoy/)",
-      "fecha": "25 noviembre 2026 · 20:56 CST",
-      "fuente": "Telegram @NOTMEX",
-      "url": "https://t.me/NOTMEX/187480",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 19.43,
-      "lon": -99.13
     }
   ]
 }
