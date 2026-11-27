@@ -1,6 +1,6 @@
 {
-  "ultima_actualizacion": "2026-11-26T22:59:34.566103-06:00",
-  "ultima_actualizacion_legible": "26 de noviembre de 2026 · 22:59 CST",
+  "ultima_actualizacion": "2026-11-27T08:44:36.068485-06:00",
+  "ultima_actualizacion_legible": "27 de noviembre de 2026 · 08:44 CST",
   "total": 1,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
@@ -8,44 +8,44 @@
   ],
   "grupos": [
     {
-      "tipo": "cierre_total",
+      "tipo": "bloqueo",
       "color": "rojo",
-      "icono": "🔴",
-      "label": "CIERRE TOTAL",
+      "icono": "⛔",
+      "label": "BLOQUEOS / MANIFESTACIONES",
       "col2": false,
       "alertas": [
         {
-          "id": "accf171d",
-          "tipo": "cierre_total",
-          "ruta": "Provoca volcadura de camioneta tránsito lento en la México-Toluca…",
-          "descripcion": "Provoca volcadura de camioneta tránsito lento en la México-Toluca. El siniestro generó complicaciones viales en la zona en dirección a Toluca",
+          "id": "59bce538",
+          "tipo": "bloqueo",
+          "ruta": "Amplía CNTE bloqueos a las carreteras Oaxaca-Etla y Oaxaca-Tlacolula…",
+          "descripcion": "Amplía CNTE bloqueos a las carreteras Oaxaca-Etla y Oaxaca-Tlacolula. Cierran también rutas alternas en Viguera y Santa María El Tule",
           "recomendacion": "",
-          "fecha": "26 noviembre 2026 · 19:59 CST",
-          "fecha_iso": "2026-11-26T19:59:00-06:00",
-          "fuente": "Quadratin EdoMex",
-          "url": "https://edomex.quadratin.com.mx/provoca-volcadura-de-camioneta-transito-lento-en-la-mexico-toluca/",
-          "dot_color": "#e74c3c",
-          "badge": "badge-cierre-total",
-          "badge_txt": "CIERRE TOTAL",
-          "lat": 19.29,
-          "lon": -99.66
+          "fecha": "27 noviembre 2026 · 08:38 CST",
+          "fecha_iso": "2026-11-27T08:38:00-06:00",
+          "fuente": "Quadratin Oaxaca",
+          "url": "https://oaxaca.quadratin.com.mx/amplia-cnte-bloqueos-a-las-carreteras-oaxaca-etla-y-oaxaca-tlacolula/",
+          "dot_color": "#8e44ad",
+          "badge": "badge-bloqueo",
+          "badge_txt": "BLOQUEO",
+          "lat": 17.06,
+          "lon": -96.72
         }
       ]
     }
   ],
   "para_mapa": [
     {
-      "id": "accf171d",
-      "tipo": "cierre_total",
-      "ruta": "Provoca volcadura de camioneta tránsito lento en la México-Toluca…",
-      "descripcion": "Provoca volcadura de camioneta tránsito lento en la México-Toluca. El siniestro generó complicaciones viales en la zona en dirección a Toluca",
-      "fecha": "26 noviembre 2026 · 19:59 CST",
-      "fuente": "Quadratin EdoMex",
-      "url": "https://edomex.quadratin.com.mx/provoca-volcadura-de-camioneta-transito-lento-en-la-mexico-toluca/",
-      "dot_color": "#e74c3c",
-      "badge_txt": "CIERRE TOTAL",
-      "lat": 19.29,
-      "lon": -99.66
+      "id": "59bce538",
+      "tipo": "bloqueo",
+      "ruta": "Amplía CNTE bloqueos a las carreteras Oaxaca-Etla y Oaxaca-Tlacolula…",
+      "descripcion": "Amplía CNTE bloqueos a las carreteras Oaxaca-Etla y Oaxaca-Tlacolula. Cierran también rutas alternas en Viguera y Santa María El Tule",
+      "fecha": "27 noviembre 2026 · 08:38 CST",
+      "fuente": "Quadratin Oaxaca",
+      "url": "https://oaxaca.quadratin.com.mx/amplia-cnte-bloqueos-a-las-carreteras-oaxaca-etla-y-oaxaca-tlacolula/",
+      "dot_color": "#8e44ad",
+      "badge_txt": "BLOQUEO",
+      "lat": 17.06,
+      "lon": -96.72
     }
   ]
 }
