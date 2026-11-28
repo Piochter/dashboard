@@ -1,35 +1,35 @@
 {
-  "ultima_actualizacion": "2026-11-27T16:58:36.928428-06:00",
-  "ultima_actualizacion_legible": "27 de noviembre de 2026 · 16:58 CST",
-  "total": 2,
+  "ultima_actualizacion": "2026-11-27T22:30:41.790541-06:00",
+  "ultima_actualizacion_legible": "27 de noviembre de 2026 · 22:30 CST",
+  "total": 5,
   "ventana": "ultimos 720 minutos",
   "fuentes": [
-    "Medios regionales",
+    "Google News",
     "Quadratin + regionales"
   ],
   "grupos": [
     {
-      "tipo": "bloqueo",
+      "tipo": "cierre_total",
       "color": "rojo",
-      "icono": "⛔",
-      "label": "BLOQUEOS / MANIFESTACIONES",
+      "icono": "🔴",
+      "label": "CIERRE TOTAL",
       "col2": false,
       "alertas": [
         {
-          "id": "b5d6c827",
-          "tipo": "bloqueo",
-          "ruta": "Lluvia y frío afecta Guanajuato: Reportan choques, semáforos sin luz…",
-          "descripcion": "Lluvia y frío afecta Guanajuato: Reportan choques, semáforos sin luz y camiones varados. La mañana de este viernes, la lluvia no paró y regresó el caos en las vialidades de la ciudad zapatera.",
+          "id": "14c5d4c5",
+          "tipo": "cierre_total",
+          "ruta": "Cierre en la Autopista Puebla-Orizaba por Volcadura de Tráiler que…",
+          "descripcion": "Cierre en la Autopista Puebla-Orizaba por Volcadura de Tráiler que Transportaba Varillas - N+. Cierre en la Autopista Puebla-Orizaba por Volcadura de Tráiler que Transportaba Varillas N+",
           "recomendacion": "",
-          "fecha": "27 noviembre 2026 · 16:52 CST",
-          "fecha_iso": "2026-11-27T16:52:00-06:00",
-          "fuente": "AM Guanajuato",
-          "url": "https://www.am.com.mx/guanajuato/2026/11/27/lluvia-desata-caos-vial-en-leon-reportan-choques-semaforos-sin-luz-y-camiones-varados-1871145.html",
-          "dot_color": "#8e44ad",
-          "badge": "badge-bloqueo",
-          "badge_txt": "BLOQUEO",
-          "lat": 21.02,
-          "lon": -101.26
+          "fecha": "27 noviembre 2026 · 16:24 CST",
+          "fecha_iso": "2026-11-27T16:24:00-06:00",
+          "fuente": "N+",
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQVTJ1QVJXb3pDQjN0TG5qdm9kVkFQZHNOSlkwSlk3TjR1N2Z1QmdyRExhNVVlZTc0ZDZnSzBRUDV4MnNxOE5jQTJCRmJkemt2TXAtaXFPS1NuZW9GUkNPUEpnRkhEVWQyYUpqRm5CVnJORDlfU2UzeGNUd0h3Q3JQck5ROUlvalRueTItOVpsY2xDQm5PczEwVW1vZFFhSXI3djRiTURVdTJYNEJ6Q0RfSjN6Z2VmRjdCZ2VwYjM1RUR3Y2FYV1pOc2xBckFmbkcxM016TDQ2X3B6cDktZDR2NUxPNjBNaFhMOWdvY0JiQUI5eGZNS1gtdw?oc=5",
+          "dot_color": "#e74c3c",
+          "badge": "badge-cierre-total",
+          "badge_txt": "CIERRE TOTAL",
+          "lat": 19.04,
+          "lon": -98.2
         }
       ]
     },
@@ -40,6 +40,50 @@
       "label": "CIERRE PARCIAL / ACCIDENTES",
       "col2": true,
       "alertas": [
+        {
+          "id": "e91e5f36",
+          "tipo": "cierre_parcial",
+          "ruta": "Asesinan a balazos a operador de pipa de gas LP…",
+          "descripcion": "Asesinan a balazos a operador de pipa de gas LP en Texmelucan. Operador de pipa de Gas LP fue asesinado a balazos en Texmelucan; investigan posible nexo con robo de hidrocarburo.",
+          "recomendacion": "",
+          "fecha": "27 noviembre 2026 · 19:35 CST",
+          "fecha_iso": "2026-11-27T19:35:00-06:00",
+          "fuente": "Quadratin Puebla",
+          "url": "https://puebla.quadratin.com.mx/sucesos/asesinan-a-balazos-a-operador-de-pipa-de-gas-lp-en-texmelucan/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        },
+        {
+          "id": "6856760a",
+          "tipo": "cierre_parcial",
+          "ruta": "Cerrarán circulación a Fortin Viejo para evitar accidentes…",
+          "descripcion": "Cerrarán circulación a Fortin Viejo para evitar accidentes. Emite anuncio el alcalde Alfonso Marín",
+          "recomendacion": "evitar accidentes",
+          "fecha": "27 noviembre 2026 · 18:20 CST",
+          "fecha_iso": "2026-11-27T18:20:00-06:00",
+          "fuente": "Quadratin Veracruz",
+          "url": "https://veracruz.quadratin.com.mx/cerraran-circulacion-a-fortin-viejo-para-evitar-accidentes/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL"
+        },
+        {
+          "id": "10a29786",
+          "tipo": "cierre_parcial",
+          "ruta": "Muere motociclista tras accidente en Tezontepec de Aldama…",
+          "descripcion": "Muere motociclista tras accidente en Tezontepec de Aldama. Un hombre perdió la vida este viernes tras un accidente de tránsito registrado sobre la carretera Tezontepec–Los Manantiales The post Muere motociclista tras accidente en Tezontepec de Aldama appeared first on Quadratin Hidalgo.",
+          "recomendacion": "",
+          "fecha": "27 noviembre 2026 · 17:17 CST",
+          "fecha_iso": "2026-11-27T17:17:00-06:00",
+          "fuente": "Quadratin Hidalgo",
+          "url": "https://hidalgo.quadratin.com.mx/sucesos/muere-motociclista-tras-accidente-en-tezontepec-de-aldama/",
+          "dot_color": "#e67e22",
+          "badge": "badge-cierre-parcial",
+          "badge_txt": "CIERRE PARCIAL",
+          "lat": 20.11,
+          "lon": -98.73
+        },
         {
           "id": "7a0144aa",
           "tipo": "cierre_parcial",
@@ -61,17 +105,17 @@
   ],
   "para_mapa": [
     {
-      "id": "b5d6c827",
-      "tipo": "bloqueo",
-      "ruta": "Lluvia y frío afecta Guanajuato: Reportan choques, semáforos sin luz…",
-      "descripcion": "Lluvia y frío afecta Guanajuato: Reportan choques, semáforos sin luz y camiones varados. La mañana de este viernes, la lluvia no paró y regresó el caos en las vialidades de la ciudad zapatera.",
-      "fecha": "27 noviembre 2026 · 16:52 CST",
-      "fuente": "AM Guanajuato",
-      "url": "https://www.am.com.mx/guanajuato/2026/11/27/lluvia-desata-caos-vial-en-leon-reportan-choques-semaforos-sin-luz-y-camiones-varados-1871145.html",
-      "dot_color": "#8e44ad",
-      "badge_txt": "BLOQUEO",
-      "lat": 21.02,
-      "lon": -101.26
+      "id": "10a29786",
+      "tipo": "cierre_parcial",
+      "ruta": "Muere motociclista tras accidente en Tezontepec de Aldama…",
+      "descripcion": "Muere motociclista tras accidente en Tezontepec de Aldama. Un hombre perdió la vida este viernes tras un accidente de tránsito registrado sobre la carretera Tezontepec–Los Manantiales The post Muere motociclista tras accidente en Tezontepec de Aldama appeared first on Quadratin Hidalgo.",
+      "fecha": "27 noviembre 2026 · 17:17 CST",
+      "fuente": "Quadratin Hidalgo",
+      "url": "https://hidalgo.quadratin.com.mx/sucesos/muere-motociclista-tras-accidente-en-tezontepec-de-aldama/",
+      "dot_color": "#e67e22",
+      "badge_txt": "CIERRE PARCIAL",
+      "lat": 20.11,
+      "lon": -98.73
     },
     {
       "id": "7a0144aa",
@@ -85,6 +129,19 @@
       "badge_txt": "CIERRE PARCIAL",
       "lat": 20.11,
       "lon": -98.73
+    },
+    {
+      "id": "14c5d4c5",
+      "tipo": "cierre_total",
+      "ruta": "Cierre en la Autopista Puebla-Orizaba por Volcadura de Tráiler que…",
+      "descripcion": "Cierre en la Autopista Puebla-Orizaba por Volcadura de Tráiler que Transportaba Varillas - N+. Cierre en la Autopista Puebla-Orizaba por Volcadura de Tráiler que Transportaba Varillas N+",
+      "fecha": "27 noviembre 2026 · 16:24 CST",
+      "fuente": "N+",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQVTJ1QVJXb3pDQjN0TG5qdm9kVkFQZHNOSlkwSlk3TjR1N2Z1QmdyRExhNVVlZTc0ZDZnSzBRUDV4MnNxOE5jQTJCRmJkemt2TXAtaXFPS1NuZW9GUkNPUEpnRkhEVWQyYUpqRm5CVnJORDlfU2UzeGNUd0h3Q3JQck5ROUlvalRueTItOVpsY2xDQm5PczEwVW1vZFFhSXI3djRiTURVdTJYNEJ6Q0RfSjN6Z2VmRjdCZ2VwYjM1RUR3Y2FYV1pOc2xBckFmbkcxM016TDQ2X3B6cDktZDR2NUxPNjBNaFhMOWdvY0JiQUI5eGZNS1gtdw?oc=5",
+      "dot_color": "#e74c3c",
+      "badge_txt": "CIERRE TOTAL",
+      "lat": 19.04,
+      "lon": -98.2
     }
   ]
 }
